@@ -1,0 +1,6839 @@
+{
+	"Title": [
+		"Three Kings",
+		"   "
+	],
+	"Author": [
+		"\u00a0\u00a0David O. Russell\u00a0\u00a0John Ridley"
+	],
+	"Genre": [
+		"\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0War"
+	],
+	"Characters": [
+		{
+			"Character": "TROY",
+			"Replies": [
+				{
+					"Reply": "Are we shooting people, or what? ",
+					"Didascalie": "",
+					"Start": 1130,
+					"End": 1163
+				},
+				{
+					"Reply": "That's what I'm asking you. ",
+					"Didascalie": "",
+					"Start": 1285,
+					"End": 1313
+				},
+				{
+					"Reply": "I don't know the answer. That's what I'm trying to find out. ",
+					"Didascalie": "",
+					"Start": 1437,
+					"End": 1513
+				},
+				{
+					"Reply": "\"Gettin' bugged drivin' up and down the same old strip, gotta find a new place where the kids are hip, I get around --\" ",
+					"Didascalie": "",
+					"Start": 3995,
+					"End": 4160
+				},
+				{
+					"Reply": " For twenty. ",
+					"Didascalie": "(distracted monotone)",
+					"Start": 5467,
+					"End": 5495
+				},
+				{
+					"Reply": "You're lucky you got to see anybody shot in this war. ",
+					"Didascalie": "",
+					"Start": 5657,
+					"End": 5726
+				},
+				{
+					"Reply": "I got a really bad headache all of a sudden-- ",
+					"Didascalie": "",
+					"Start": 6529,
+					"End": 6590
+				},
+				{
+					"Reply": " And I'm proud I to be an American, where at least I know I'm free. ",
+					"Didascalie": "(screaming the song)",
+					"Start": 13854,
+					"End": 13952
+				},
+				{
+					"Reply": "Rahhhhhhhhhhhhhh. ",
+					"Didascalie": "",
+					"Start": 15088,
+					"End": 15106
+				},
+				{
+					"Reply": "Rahhhhhhhhhhhhh. ",
+					"Didascalie": "",
+					"Start": 15267,
+					"End": 15284
+				},
+				{
+					"Reply": "It's cool, no one's gonna hurt you -- ",
+					"Didascalie": "",
+					"Start": 16108,
+					"End": 16161
+				},
+				{
+					"Reply": "You're making them all hysterical. ",
+					"Didascalie": "",
+					"Start": 16462,
+					"End": 16497
+				},
+				{
+					"Reply": "What is your fucking problem, Conrad? ",
+					"Didascalie": "",
+					"Start": 16808,
+					"End": 16861
+				},
+				{
+					"Reply": " Sir? We need you to disrobe like all the other towel heads, OK? ",
+					"Didascalie": "(leans down)",
+					"Start": 17084,
+					"End": 17179
+				},
+				{
+					"Reply": "There's a document in that guy's ass, Conrad. ",
+					"Didascalie": "",
+					"Start": 17586,
+					"End": 17647
+				},
+				{
+					"Reply": "It wouldn't come out perfect like that if he ate it. ",
+					"Didascalie": "",
+					"Start": 17835,
+					"End": 17903
+				},
+				{
+					"Reply": "Go get it, Private. ",
+					"Didascalie": "",
+					"Start": 18003,
+					"End": 18023
+				},
+				{
+					"Reply": "Open it up. ",
+					"Didascalie": "",
+					"Start": 18337,
+					"End": 18349
+				},
+				{
+					"Reply": "I'm sorry I don't have another, but you gotta open it up. That's how the chain of command works. ",
+					"Didascalie": "",
+					"Start": 18468,
+					"End": 18595
+				},
+				{
+					"Reply": "Important enough to squeeze your cheeks for. ",
+					"Didascalie": "",
+					"Start": 18964,
+					"End": 19024
+				},
+				{
+					"Reply": "You've washed your hands like a thousand times, Conrad. ",
+					"Didascalie": "",
+					"Start": 24756,
+					"End": 24827
+				},
+				{
+					"Reply": "He's a good kid. ",
+					"Didascalie": "",
+					"Start": 25096,
+					"End": 25113
+				},
+				{
+					"Reply": "He's got no high school, man, he's from a group home in Jackson -- ",
+					"Didascalie": "",
+					"Start": 25230,
+					"End": 25312
+				},
+				{
+					"Reply": "The point is, Conrad, 'towel head' and 'camel jockey' are perfectly good substitutes. ",
+					"Didascalie": "",
+					"Start": 25633,
+					"End": 25749
+				},
+				{
+					"Reply": "Got any Vicadan? ",
+					"Didascalie": "",
+					"Start": 26086,
+					"End": 26103
+				},
+				{
+					"Reply": "Excellent. Let's translate my Iraqi ass map. ",
+					"Didascalie": "",
+					"Start": 26225,
+					"End": 26285
+				},
+				{
+					"Reply": "Van Meter's at the big pow wow? ",
+					"Didascalie": "",
+					"Start": 26456,
+					"End": 26488
+				},
+				{
+					"Reply": "Would you take those fucking things off? ",
+					"Didascalie": "",
+					"Start": 26723,
+					"End": 26779
+				},
+				{
+					"Reply": "They don't work during the day and stand outside the tent. ",
+					"Didascalie": "",
+					"Start": 26906,
+					"End": 26980
+				},
+				{
+					"Reply": "What's inside? ",
+					"Didascalie": "",
+					"Start": 27234,
+					"End": 27249
+				},
+				{
+					"Reply": "Silver Lexus convertible. ",
+					"Didascalie": "",
+					"Start": 27663,
+					"End": 27689
+				},
+				{
+					"Reply": "Yes, they do. ",
+					"Didascalie": "",
+					"Start": 27814,
+					"End": 27828
+				},
+				{
+					"Reply": "You're wrong. ",
+					"Didascalie": "",
+					"Start": 27944,
+					"End": 27958
+				},
+				{
+					"Reply": "If I get enough Rolexes I could buy one when I got home. ",
+					"Didascalie": "",
+					"Start": 28107,
+					"End": 28179
+				},
+				{
+					"Reply": "My one problem, see, is the risk here -- ",
+					"Didascalie": "",
+					"Start": 28348,
+					"End": 28404
+				},
+				{
+					"Reply": "Tell me about it. ",
+					"Didascalie": "",
+					"Start": 28616,
+					"End": 28634
+				},
+				{
+					"Reply": "He could put a land mine in your path if we try to find this place -- ",
+					"Didascalie": "",
+					"Start": 28972,
+					"End": 29072
+				},
+				{
+					"Reply": "Cuz you have a galactic plutonium forcefield. ",
+					"Didascalie": "",
+					"Start": 29184,
+					"End": 29245
+				},
+				{
+					"Reply": "You have a ring of Jesus fire. ",
+					"Didascalie": "",
+					"Start": 29410,
+					"End": 29441
+				},
+				{
+					"Reply": "I don't even know what water baptism means. ",
+					"Didascalie": "",
+					"Start": 29687,
+					"End": 29746
+				},
+				{
+					"Reply": "OK. ",
+					"Didascalie": "",
+					"Start": 30089,
+					"End": 30093
+				},
+				{
+					"Reply": "Captain's at a staff meeting. ",
+					"Didascalie": "",
+					"Start": 30971,
+					"End": 31001
+				},
+				{
+					"Reply": "Not yet. ",
+					"Didascalie": "",
+					"Start": 32673,
+					"End": 32682
+				},
+				{
+					"Reply": "We'll take it to him. Sir. ",
+					"Didascalie": "",
+					"Start": 32845,
+					"End": 32872
+				},
+				{
+					"Reply": "He's our commander, sir. We'd have to tell him you took it. ",
+					"Didascalie": "",
+					"Start": 33036,
+					"End": 33111
+				},
+				{
+					"Reply": "It's a series of bunkers near Karbala. ",
+					"Didascalie": "",
+					"Start": 33405,
+					"End": 33459
+				},
+				{
+					"Reply": "Not maybe, definitely. Recon photos match the map. ",
+					"Didascalie": "",
+					"Start": 33566,
+					"End": 33632
+				},
+				{
+					"Reply": "Much closer to Karbala. ",
+					"Didascalie": "",
+					"Start": 34647,
+					"End": 34671
+				},
+				{
+					"Reply": "Gold bricks. ",
+					"Didascalie": "",
+					"Start": 36040,
+					"End": 36053
+				},
+				{
+					"Reply": "What about the risk of taking a Humvee and all that -- ",
+					"Didascalie": "",
+					"Start": 37613,
+					"End": 37683
+				},
+				{
+					"Reply": "Wow. ",
+					"Didascalie": "",
+					"Start": 38000,
+					"End": 38005
+				},
+				{
+					"Reply": "Walter. ",
+					"Didascalie": "",
+					"Start": 38890,
+					"End": 38898
+				},
+				{
+					"Reply": "Pull. ",
+					"Didascalie": "",
+					"Start": 42063,
+					"End": 42069
+				},
+				{
+					"Reply": "I gave you a better arc, Doc. ",
+					"Didascalie": "",
+					"Start": 42241,
+					"End": 42271
+				},
+				{
+					"Reply": "I threw the ball in a higher arc that was easier for you to hit. ",
+					"Didascalie": "",
+					"Start": 42390,
+					"End": 42470
+				},
+				{
+					"Reply": "Stop speaking right now, Conrad. ",
+					"Didascalie": "",
+					"Start": 42679,
+					"End": 42712
+				},
+				{
+					"Reply": "Don't get down in the mud with him, Doc. ",
+					"Didascalie": "",
+					"Start": 43033,
+					"End": 43089
+				},
+				{
+					"Reply": "We can all agree there are many excellent black quarterbacks. ",
+					"Didascalie": "",
+					"Start": 43411,
+					"End": 43488
+				},
+				{
+					"Reply": "Shit. ",
+					"Didascalie": "",
+					"Start": 44805,
+					"End": 44811
+				},
+				{
+					"Reply": "Got it. ",
+					"Didascalie": "",
+					"Start": 45927,
+					"End": 45935
+				},
+				{
+					"Reply": " 'If you could, help me Rhonda, help help me Rhonda --'  Archie watches Troy. ",
+					"Didascalie": "(low murmur)",
+					"Start": 46782,
+					"End": 46895
+				},
+				{
+					"Reply": "Can we play the Beach Boys when we go in? ",
+					"Didascalie": "",
+					"Start": 49496,
+					"End": 49553
+				},
+				{
+					"Reply": "I'm not ashamed of liking the Beach Boys. It calms me down. ",
+					"Didascalie": "",
+					"Start": 49668,
+					"End": 49743
+				},
+				{
+					"Reply": "Shit. ",
+					"Didascalie": "",
+					"Start": 53207,
+					"End": 53213
+				},
+				{
+					"Reply": "Freeze. ",
+					"Didascalie": "",
+					"Start": 53376,
+					"End": 53384
+				},
+				{
+					"Reply": "Ya -- ya -- ha -- ",
+					"Didascalie": "",
+					"Start": 53712,
+					"End": 53730
+				},
+				{
+					"Reply": "No. We look for the gold. ",
+					"Didascalie": "",
+					"Start": 54398,
+					"End": 54424
+				},
+				{
+					"Reply": "Kill him now. ",
+					"Didascalie": "",
+					"Start": 54930,
+					"End": 54944
+				},
+				{
+					"Reply": " I don't even know what happened back there. Civilians were spitting on their own soldiers; the soldiers were shooting the civilians and ignoring us -- ",
+					"Didascalie": "(agitated)",
+					"Start": 59873,
+					"End": 60100
+				},
+				{
+					"Reply": "It's a war inside the same country, Conrad. That's a civil war. ",
+					"Didascalie": "",
+					"Start": 60902,
+					"End": 60996
+				},
+				{
+					"Reply": "I can't do this, OK? Because I've got a family and if I shit in a bag the rest of my life cuz I got shot after the war's already over that would be pretty fucking stupid, wouldn't it? ",
+					"Didascalie": "",
+					"Start": 61259,
+					"End": 61518
+				},
+				{
+					"Reply": "What the fuck are you talking about? ",
+					"Didascalie": "",
+					"Start": 61675,
+					"End": 61727
+				},
+				{
+					"Reply": "Did you hear anything I said. ",
+					"Didascalie": "",
+					"Start": 61839,
+					"End": 61869
+				},
+				{
+					"Reply": "What is this bullshit? ",
+					"Didascalie": "",
+					"Start": 62203,
+					"End": 62226
+				},
+				{
+					"Reply": "We could've been shot. ",
+					"Didascalie": "",
+					"Start": 62769,
+					"End": 62792
+				},
+				{
+					"Reply": "OK. And I'll be wearing fashionable kevlar. As a necessity. ",
+					"Didascalie": "",
+					"Start": 63259,
+					"End": 63334
+				},
+				{
+					"Reply": "Drop your weapon. ",
+					"Didascalie": "",
+					"Start": 67076,
+					"End": 67094
+				},
+				{
+					"Reply": "Freeze. ",
+					"Didascalie": "",
+					"Start": 68022,
+					"End": 68030
+				},
+				{
+					"Reply": "Down. ",
+					"Didascalie": "",
+					"Start": 68989,
+					"End": 68995
+				},
+				{
+					"Reply": "No, newest and best has better noise reduction. ",
+					"Didascalie": "",
+					"Start": 70042,
+					"End": 70105
+				},
+				{
+					"Reply": "Less distortion. Get down on the floor, OK? ",
+					"Didascalie": "",
+					"Start": 70182,
+					"End": 70241
+				},
+				{
+					"Reply": "This is bad music, understand? ",
+					"Didascalie": "",
+					"Start": 70396,
+					"End": 70427
+				},
+				{
+					"Reply": "There's another room over here. ",
+					"Didascalie": "",
+					"Start": 70871,
+					"End": 70903
+				},
+				{
+					"Reply": "Is this five kilos? ",
+					"Didascalie": "",
+					"Start": 77681,
+					"End": 77701
+				},
+				{
+					"Reply": "Five, six, seven, eight, there's sixty bricks in this suitcase. ",
+					"Didascalie": "",
+					"Start": 77860,
+					"End": 77939
+				},
+				{
+					"Reply": "Three million dollars. ",
+					"Didascalie": "",
+					"Start": 78048,
+					"End": 78071
+				},
+				{
+					"Reply": "I'm gonna get a fleet of Lexus convertibles in different colors. ",
+					"Didascalie": "",
+					"Start": 78709,
+					"End": 78789
+				},
+				{
+					"Reply": "I'll bet you a Lexus they do. ",
+					"Didascalie": "",
+					"Start": 78940,
+					"End": 78970
+				},
+				{
+					"Reply": "Shit. ",
+					"Didascalie": "",
+					"Start": 79255,
+					"End": 79261
+				},
+				{
+					"Reply": "The what? ",
+					"Didascalie": "",
+					"Start": 79635,
+					"End": 79645
+				},
+				{
+					"Reply": "He works at an airport. ",
+					"Didascalie": "",
+					"Start": 79883,
+					"End": 79907
+				},
+				{
+					"Reply": "What's the shipping plan? ",
+					"Didascalie": "",
+					"Start": 80728,
+					"End": 80754
+				},
+				{
+					"Reply": "How is it handled? You have to tell us now. ",
+					"Didascalie": "",
+					"Start": 80881,
+					"End": 80940
+				},
+				{
+					"Reply": "Where's Yanbu? ",
+					"Didascalie": "",
+					"Start": 81346,
+					"End": 81361
+				},
+				{
+					"Reply": "I don't know about getting them to Baltimore, but these hat boxes ain't gonna fit in the Humvee. ",
+					"Didascalie": "",
+					"Start": 81826,
+					"End": 81953
+				},
+				{
+					"Reply": "OK, I'll call U-Haul in Karbala to see what they have on the lot today. ",
+					"Didascalie": "",
+					"Start": 82072,
+					"End": 82174
+				},
+				{
+					"Reply": "Conrad, we need a trailer -- ",
+					"Didascalie": "",
+					"Start": 82440,
+					"End": 82469
+				},
+				{
+					"Reply": "Yeah, we got it. ",
+					"Didascalie": "",
+					"Start": 82771,
+					"End": 82788
+				},
+				{
+					"Reply": "Yeah, it's a lot. ",
+					"Didascalie": "",
+					"Start": 82892,
+					"End": 82910
+				},
+				{
+					"Reply": " 'Little deuce coupe with a fiat head mill, she'll walk a Thunderbird like it's standin' still --'  CLOSE UP A SHIITE MAN is smashed in the face with a club. ",
+					"Didascalie": "(under his breath)",
+					"Start": 83148,
+					"End": 83371
+				},
+				{
+					"Reply": "'She'll do a hundred and forty with the top end floored --'  The Little Girl with arm casts is screaming while her father, the Man In Glasses, tries to hold her. ",
+					"Didascalie": "",
+					"Start": 83474,
+					"End": 83661
+				},
+				{
+					"Reply": "Lay that one flat; OK, sideways -- ",
+					"Didascalie": "",
+					"Start": 86451,
+					"End": 86486
+				},
+				{
+					"Reply": "Sure it is -- ",
+					"Didascalie": "",
+					"Start": 86609,
+					"End": 86623
+				},
+				{
+					"Reply": "Let's take the truck. ",
+					"Didascalie": "",
+					"Start": 87008,
+					"End": 87030
+				},
+				{
+					"Reply": "Why not? ",
+					"Didascalie": "",
+					"Start": 87160,
+					"End": 87169
+				},
+				{
+					"Reply": "Let's take the truck. ",
+					"Didascalie": "",
+					"Start": 87334,
+					"End": 87356
+				},
+				{
+					"Reply": "Archie, let's stick to the plan, sir. The plan is for gold, right? ",
+					"Didascalie": "",
+					"Start": 89531,
+					"End": 89613
+				},
+				{
+					"Reply": "No, we can't. It's not what we're here for. ",
+					"Didascalie": "",
+					"Start": 89763,
+					"End": 89822
+				},
+				{
+					"Reply": "Jesus Christ, we can't save everybody. ",
+					"Didascalie": "",
+					"Start": 90744,
+					"End": 90798
+				},
+				{
+					"Reply": "What's happening? ",
+					"Didascalie": "",
+					"Start": 93891,
+					"End": 93909
+				},
+				{
+					"Reply": "No. ",
+					"Didascalie": "",
+					"Start": 94221,
+					"End": 94225
+				},
+				{
+					"Reply": "There's no room. ",
+					"Didascalie": "",
+					"Start": 98066,
+					"End": 98083
+				},
+				{
+					"Reply": "What the fuck happened to necessity? ",
+					"Didascalie": "",
+					"Start": 98194,
+					"End": 98246
+				},
+				{
+					"Reply": "Not for me. ",
+					"Didascalie": "",
+					"Start": 98363,
+					"End": 98375
+				},
+				{
+					"Reply": "This is fucked up. ",
+					"Didascalie": "",
+					"Start": 98568,
+					"End": 98587
+				},
+				{
+					"Reply": "What if this was you not wearing Kevlar? ",
+					"Didascalie": "",
+					"Start": 98780,
+					"End": 98836
+				},
+				{
+					"Reply": "Great, a fucking tank. That should send us on our way. ",
+					"Didascalie": "",
+					"Start": 99056,
+					"End": 99126
+				},
+				{
+					"Reply": "It's about fucking time. ",
+					"Didascalie": "",
+					"Start": 99371,
+					"End": 99396
+				},
+				{
+					"Reply": "We were home free, you stupid son of a bitch. ",
+					"Didascalie": "",
+					"Start": 100418,
+					"End": 100479
+				},
+				{
+					"Reply": "Hey. Stop. ",
+					"Didascalie": "",
+					"Start": 105273,
+					"End": 105284
+				},
+				{
+					"Reply": "Goddamn it. ",
+					"Didascalie": "",
+					"Start": 105399,
+					"End": 105411
+				},
+				{
+					"Reply": "OK. ",
+					"Didascalie": "",
+					"Start": 112451,
+					"End": 112455
+				},
+				{
+					"Reply": "I said OK. ",
+					"Didascalie": "",
+					"Start": 112567,
+					"End": 112578
+				},
+				{
+					"Reply": " Um. Do you speak English? ",
+					"Didascalie": "(into the cell phone)",
+					"Start": 113103,
+					"End": 113145
+				},
+				{
+					"Reply": " Can you -- I need -- ",
+					"Didascalie": "(into cell phone)",
+					"Start": 113316,
+					"End": 113353
+				},
+				{
+					"Reply": "Operation Desert Storm. ",
+					"Didascalie": "",
+					"Start": 113543,
+					"End": 113567
+				},
+				{
+					"Reply": "The big army in the desert, come on, it's an emergency. ",
+					"Didascalie": "",
+					"Start": 113681,
+					"End": 113752
+				},
+				{
+					"Reply": "Maybe you could -- hello? ",
+					"Didascalie": "",
+					"Start": 113881,
+					"End": 113907
+				},
+				{
+					"Reply": "Fuck. ",
+					"Didascalie": "",
+					"Start": 113978,
+					"End": 113984
+				},
+				{
+					"Reply": "Come on, come on, come on. ",
+					"Didascalie": "",
+					"Start": 114149,
+					"End": 114176
+				},
+				{
+					"Reply": "Honey, it's me. ",
+					"Didascalie": "",
+					"Start": 114662,
+					"End": 114678
+				},
+				{
+					"Reply": "It's me, honey. ",
+					"Didascalie": "",
+					"Start": 114779,
+					"End": 114795
+				},
+				{
+					"Reply": "I can hear her. ",
+					"Didascalie": "",
+					"Start": 114917,
+					"End": 114933
+				},
+				{
+					"Reply": "How's she doing? ",
+					"Didascalie": "",
+					"Start": 115055,
+					"End": 115072
+				},
+				{
+					"Reply": "I wish I was there to help, gooney- ",
+					"Didascalie": "",
+					"Start": 115293,
+					"End": 115329
+				},
+				{
+					"Reply": "I'm working on that right now, baby. ",
+					"Didascalie": "",
+					"Start": 115503,
+					"End": 115555
+				},
+				{
+					"Reply": "Listen, honey -- ",
+					"Didascalie": "",
+					"Start": 115773,
+					"End": 115790
+				},
+				{
+					"Reply": "They haven't given us an exact date yet. Listen -- ",
+					"Didascalie": "",
+					"Start": 115916,
+					"End": 115982
+				},
+				{
+					"Reply": "No, you're not. ",
+					"Didascalie": "",
+					"Start": 116097,
+					"End": 116113
+				},
+				{
+					"Reply": "I miss you, too. ",
+					"Didascalie": "",
+					"Start": 116273,
+					"End": 116290
+				},
+				{
+					"Reply": "The wall just exploded. ",
+					"Didascalie": "",
+					"Start": 116463,
+					"End": 116487
+				},
+				{
+					"Reply": "It is and it isn't, babe. Can you do me a favor and call the C.O. on base? ",
+					"Didascalie": "",
+					"Start": 116617,
+					"End": 116722
+				},
+				{
+					"Reply": "Tell him I'm stuck in a bunker near 223 north outside Karbala -- ",
+					"Didascalie": "",
+					"Start": 116847,
+					"End": 116927
+				},
+				{
+					"Reply": "I'm gonna be fine, honey, I don't want you to worry, I tried to do something for the family,  and I want you to know -- ",
+					"Didascalie": "",
+					"Start": 117091,
+					"End": 117256
+				},
+				{
+					"Reply": "That I love you. ",
+					"Didascalie": "",
+					"Start": 117430,
+					"End": 117447
+				},
+				{
+					"Reply": "Tell Krystal -- ",
+					"Didascalie": "",
+					"Start": 117566,
+					"End": 117582
+				},
+				{
+					"Reply": "Tell Krystal I'm a rich man and if things work out she'll be taken care of no matter what -- ",
+					"Didascalie": "",
+					"Start": 117735,
+					"End": 117858
+				},
+				{
+					"Reply": "Gotta go, gooney-bird, I love you-- ",
+					"Didascalie": "",
+					"Start": 118031,
+					"End": 118067
+				},
+				{
+					"Reply": "Master sargeant. ",
+					"Didascalie": "",
+					"Start": 122578,
+					"End": 122595
+				},
+				{
+					"Reply": "B Company, infantry, United States Army. ",
+					"Didascalie": "",
+					"Start": 122709,
+					"End": 122765
+				},
+				{
+					"Reply": "What do you mean? ",
+					"Didascalie": "",
+					"Start": 123035,
+					"End": 123053
+				},
+				{
+					"Reply": "Yeah, Michael Jackson. ",
+					"Didascalie": "",
+					"Start": 123220,
+					"End": 123243
+				},
+				{
+					"Reply": "What are you talking about? ",
+					"Didascalie": "",
+					"Start": 123378,
+					"End": 123406
+				},
+				{
+					"Reply": "He likes kids. ",
+					"Didascalie": "",
+					"Start": 123819,
+					"End": 123834
+				},
+				{
+					"Reply": "Bullshit. ",
+					"Didascalie": "",
+					"Start": 123988,
+					"End": 123998
+				},
+				{
+					"Reply": "Fine. ",
+					"Didascalie": "",
+					"Start": 124375,
+					"End": 124381
+				},
+				{
+					"Reply": "I say it's sick. ",
+					"Didascalie": "",
+					"Start": 124515,
+					"End": 124532
+				},
+				{
+					"Reply": "I don't think so. ",
+					"Didascalie": "",
+					"Start": 124801,
+					"End": 124819
+				},
+				{
+					"Reply": "Wrong. ",
+					"Didascalie": "",
+					"Start": 124987,
+					"End": 124994
+				},
+				{
+					"Reply": "No. ",
+					"Didascalie": "",
+					"Start": 125303,
+					"End": 125307
+				},
+				{
+					"Reply": "I don't hate children. ",
+					"Didascalie": "",
+					"Start": 125566,
+					"End": 125589
+				},
+				{
+					"Reply": "Does who care? ",
+					"Didascalie": "",
+					"Start": 125710,
+					"End": 125725
+				},
+				{
+					"Reply": "No, they're not coming. ",
+					"Didascalie": "",
+					"Start": 125907,
+					"End": 125931
+				},
+				{
+					"Reply": "No. ",
+					"Didascalie": "",
+					"Start": 126762,
+					"End": 126766
+				},
+				{
+					"Reply": "Yes, it hurts. ",
+					"Didascalie": "",
+					"Start": 127228,
+					"End": 127243
+				},
+				{
+					"Reply": " That's horrible. ",
+					"Didascalie": "(whispers)",
+					"Start": 127811,
+					"End": 127844
+				},
+				{
+					"Reply": " I said, that's horrible. ",
+					"Didascalie": "(whispers)",
+					"Start": 127967,
+					"End": 128008
+				},
+				{
+					"Reply": "Yes. ",
+					"Didascalie": "",
+					"Start": 128352,
+					"End": 128357
+				},
+				{
+					"Reply": "I have a daughter. ",
+					"Didascalie": "",
+					"Start": 128839,
+					"End": 128858
+				},
+				{
+					"Reply": "Ten days old. ",
+					"Didascalie": "",
+					"Start": 129253,
+					"End": 129267
+				},
+				{
+					"Reply": "Krystal. ",
+					"Didascalie": "",
+					"Start": 129413,
+					"End": 129422
+				},
+				{
+					"Reply": "Because we're both fathers. ",
+					"Didascalie": "",
+					"Start": 129598,
+					"End": 129626
+				},
+				{
+					"Reply": "I signed up for the extra cash, too. ",
+					"Didascalie": "",
+					"Start": 141923,
+					"End": 141975
+				},
+				{
+					"Reply": "Not from America. ",
+					"Didascalie": "",
+					"Start": 142158,
+					"End": 142176
+				},
+				{
+					"Reply": "What did they train you in? ",
+					"Didascalie": "",
+					"Start": 142360,
+					"End": 142388
+				},
+				{
+					"Reply": "Great. ",
+					"Didascalie": "",
+					"Start": 142522,
+					"End": 142529
+				},
+				{
+					"Reply": " I don't know. ",
+					"Didascalie": "(whispers)",
+					"Start": 143058,
+					"End": 143088
+				},
+				{
+					"Reply": "Right. ",
+					"Didascalie": "",
+					"Start": 143348,
+					"End": 143355
+				},
+				{
+					"Reply": "So why are you doing this to me? ",
+					"Didascalie": "",
+					"Start": 143460,
+					"End": 143493
+				},
+				{
+					"Reply": "It's not just a job, it still matters what you do. ",
+					"Didascalie": "",
+					"Start": 143696,
+					"End": 143762
+				},
+				{
+					"Reply": "It still matters what you do, what you're doing right now matters. ",
+					"Didascalie": "",
+					"Start": 143888,
+					"End": 143970
+				},
+				{
+					"Reply": "The art of war is not for killing people, it's a stratagem to give life to many with minimum violence, minimum -- ",
+					"Didascalie": "",
+					"Start": 144080,
+					"End": 144239
+				},
+				{
+					"Reply": "Worse than death -- ",
+					"Didascalie": "",
+					"Start": 144613,
+					"End": 144633
+				},
+				{
+					"Reply": "Don't -- ",
+					"Didascalie": "",
+					"Start": 144833,
+					"End": 144842
+				},
+				{
+					"Reply": "Your son wouldn't be dead if Saddam didn't invade Kuwait. ",
+					"Didascalie": "",
+					"Start": 157251,
+					"End": 157324
+				},
+				{
+					"Reply": "I heard about some bad shit that happened there. ",
+					"Didascalie": "",
+					"Start": 157544,
+					"End": 157608
+				},
+				{
+					"Reply": "Who's got the sick country? ",
+					"Didascalie": "",
+					"Start": 157897,
+					"End": 157925
+				},
+				{
+					"Reply": "Too much bombing is crazy, but not saving Kuwait. ",
+					"Didascalie": "",
+					"Start": 158134,
+					"End": 158199
+				},
+				{
+					"Reply": "Yes. ",
+					"Didascalie": "",
+					"Start": 158351,
+					"End": 158356
+				},
+				{
+					"Reply": "You invaded another country. You can't do that. ",
+					"Didascalie": "",
+					"Start": 158768,
+					"End": 158831
+				},
+				{
+					"Reply": "It makes the world crazy. You got to keep it stable. ",
+					"Didascalie": "",
+					"Start": 158946,
+					"End": 159014
+				},
+				{
+					"Reply": "No, for stability. Stabilize the region. ",
+					"Didascalie": "",
+					"Start": 159144,
+					"End": 159200
+				},
+				{
+					"Reply": " Where's Conrad? ",
+					"Didascalie": "(agitated)",
+					"Start": 173685,
+					"End": 173717
+				},
+				{
+					"Reply": "How are we getting back? ",
+					"Didascalie": "",
+					"Start": 174179,
+					"End": 174204
+				},
+				{
+					"Reply": "You got a Rolls? ",
+					"Didascalie": "",
+					"Start": 174483,
+					"End": 174500
+				},
+				{
+					"Reply": "Hey. That's a convertible. ",
+					"Didascalie": "",
+					"Start": 174711,
+					"End": 174738
+				},
+				{
+					"Reply": "Is that leather interior? ",
+					"Didascalie": "",
+					"Start": 174915,
+					"End": 174941
+				},
+				{
+					"Reply": "It's a fucking Infiniti convertible, isn't it? ",
+					"Didascalie": "",
+					"Start": 175055,
+					"End": 175117
+				},
+				{
+					"Reply": "OK. So I owe you a car. I'm not in shock. ",
+					"Didascalie": "",
+					"Start": 175213,
+					"End": 175270
+				},
+				{
+					"Reply": "Freeze -- ",
+					"Didascalie": "",
+					"Start": 175404,
+					"End": 175414
+				},
+				{
+					"Reply": "Who is this guy? ",
+					"Didascalie": "",
+					"Start": 175556,
+					"End": 175573
+				},
+				{
+					"Reply": "You're the guy with the little girl. ",
+					"Didascalie": "",
+					"Start": 175779,
+					"End": 175831
+				},
+				{
+					"Reply": "What are you doing here? ",
+					"Didascalie": "",
+					"Start": 175937,
+					"End": 175962
+				},
+				{
+					"Reply": "All right. You're all right. ",
+					"Didascalie": "",
+					"Start": 176085,
+					"End": 176114
+				},
+				{
+					"Reply": "How's your girl? ",
+					"Didascalie": "",
+					"Start": 176180,
+					"End": 176197
+				},
+				{
+					"Reply": "All right. Excellent. How can we help? ",
+					"Didascalie": "",
+					"Start": 176317,
+					"End": 176371
+				},
+				{
+					"Reply": "I'm calm. Don't I look calm? ",
+					"Didascalie": "",
+					"Start": 176478,
+					"End": 176507
+				},
+				{
+					"Reply": "We're gonna work it out. We can do it. We have to work it out. ",
+					"Didascalie": "",
+					"Start": 176740,
+					"End": 176818
+				},
+				{
+					"Reply": "OK, you choose who we take. You tell the others it's not convenient, they'll have to die. ",
+					"Didascalie": "",
+					"Start": 176967,
+					"End": 177087
+				},
+				{
+					"Reply": "You think I don't know what I'm saying. I know what I'm saying. ",
+					"Didascalie": "",
+					"Start": 177197,
+					"End": 177276
+				},
+				{
+					"Reply": "Help him. ",
+					"Didascalie": "",
+					"Start": 179246,
+					"End": 179256
+				},
+				{
+					"Reply": "We made the right choice today, Conrad. ",
+					"Didascalie": "",
+					"Start": 179866,
+					"End": 179921
+				},
+				{
+					"Reply": "We made the right choice. ",
+					"Didascalie": "",
+					"Start": 180032,
+					"End": 180058
+				},
+				{
+					"Reply": "Help. ",
+					"Didascalie": "",
+					"Start": 180585,
+					"End": 180591
+				},
+				{
+					"Reply": " For twenty. ",
+					"Didascalie": "(distracted monotone)",
+					"Start": 181927,
+					"End": 181955
+				},
+				{
+					"Reply": "You're lucky you got to see anybody shot in this war. ",
+					"Didascalie": "",
+					"Start": 182308,
+					"End": 182377
+				},
+				{
+					"Reply": "He's got no family. ",
+					"Didascalie": "",
+					"Start": 185216,
+					"End": 185236
+				},
+				{
+					"Reply": "How long can I keep doing this? ",
+					"Didascalie": "",
+					"Start": 186211,
+					"End": 186243
+				},
+				{
+					"Reply": "I'm really thirsty. ",
+					"Didascalie": "",
+					"Start": 186415,
+					"End": 186435
+				},
+				{
+					"Reply": "Protecting the free peoples of the world, Walter, you know how it is. ",
+					"Didascalie": "",
+					"Start": 193580,
+					"End": 193665
+				},
+				{
+					"Reply": "Give me that penicillin, baby. ",
+					"Didascalie": "",
+					"Start": 193890,
+					"End": 193921
+				},
+				{
+					"Reply": "It's not the air, I don't know what it is -- ",
+					"Didascalie": "",
+					"Start": 198527,
+					"End": 198587
+				},
+				{
+					"Reply": "I'm all right. I'm just dizzy or something -- ",
+					"Didascalie": "",
+					"Start": 198689,
+					"End": 198750
+				},
+				{
+					"Reply": "Wait. ",
+					"Didascalie": "",
+					"Start": 200276,
+					"End": 200282
+				},
+				{
+					"Reply": "Let them get over, wait -- ",
+					"Didascalie": "",
+					"Start": 200638,
+					"End": 200665
+				},
+				{
+					"Reply": "I have to reach this -- ",
+					"Didascalie": "",
+					"Start": 200771,
+					"End": 200795
+				},
+				{
+					"Reply": "Look what's happening. ",
+					"Didascalie": "",
+					"Start": 201258,
+					"End": 201281
+				},
+				{
+					"Reply": "Cut my cuffs -- ",
+					"Didascalie": "",
+					"Start": 201569,
+					"End": 201585
+				},
+				{
+					"Reply": "Get them over first. ",
+					"Didascalie": "",
+					"Start": 204222,
+					"End": 204243
+				}
+			]
+		},
+		{
+			"Character": "CAPTAIN VAN METER",
+			"Replies": [
+				{
+					"Reply": "If they surrender, don't shoot, if they don't surrender, then shoot. ",
+					"Didascalie": "",
+					"Start": 2112,
+					"End": 2196
+				},
+				{
+					"Reply": "Goddamn it, where the fuck did this beer come from we gotta take more Iraqis prisoner tomorrow. ",
+					"Didascalie": "",
+					"Start": 15343,
+					"End": 15469
+				},
+				{
+					"Reply": "We will not hurt you. Lay down your weapons, get on the ground -- ",
+					"Didascalie": "",
+					"Start": 15749,
+					"End": 15830
+				},
+				{
+					"Reply": "How about if I lean on it, like this? ",
+					"Didascalie": "",
+					"Start": 40461,
+					"End": 40514
+				},
+				{
+					"Reply": "Does it look too posed? ",
+					"Didascalie": "",
+					"Start": 40641,
+					"End": 40665
+				},
+				{
+					"Reply": "I think I might, Jesus, this feels stupid. ",
+					"Didascalie": "",
+					"Start": 40851,
+					"End": 40909
+				},
+				{
+					"Reply": "As a boy, I wanted to be either a veterinarian or a CIA sharpshooter -- ",
+					"Didascalie": "",
+					"Start": 41186,
+					"End": 41288
+				},
+				{
+					"Reply": "The M-16 is the basic weapon of the infantry. During Vietnam, it was fully automatic. ",
+					"Didascalie": "",
+					"Start": 65087,
+					"End": 65203
+				},
+				{
+					"Reply": "Yes, General. ",
+					"Didascalie": "",
+					"Start": 65329,
+					"End": 65343
+				},
+				{
+					"Reply": "Well, I'm giving an interview to CBS. ",
+					"Didascalie": "",
+					"Start": 65485,
+					"End": 65538
+				},
+				{
+					"Reply": "No? ",
+					"Didascalie": "",
+					"Start": 65828,
+					"End": 65832
+				},
+				{
+					"Reply": "Major Gates. ",
+					"Didascalie": "",
+					"Start": 65964,
+					"End": 65977
+				},
+				{
+					"Reply": "I don't get to do the interview? ",
+					"Didascalie": "",
+					"Start": 66167,
+					"End": 66200
+				},
+				{
+					"Reply": "Is Doc here? ",
+					"Didascalie": "",
+					"Start": 120676,
+					"End": 120689
+				},
+				{
+					"Reply": "Doc's not here? ",
+					"Didascalie": "",
+					"Start": 120796,
+					"End": 120812
+				},
+				{
+					"Reply": "How about Barlow? ",
+					"Didascalie": "",
+					"Start": 120995,
+					"End": 121013
+				},
+				{
+					"Reply": "I run a tight company, Ron. Don't break my bails. ",
+					"Didascalie": "",
+					"Start": 121209,
+					"End": 121274
+				},
+				{
+					"Reply": "There's so many transmissions -- ",
+					"Didascalie": "",
+					"Start": 190746,
+					"End": 190779
+				},
+				{
+					"Reply": "Not our mission, Barlow. ",
+					"Didascalie": "",
+					"Start": 201372,
+					"End": 201397
+				},
+				{
+					"Reply": "You fucked me and you're fucked now, so shut your goddamn mouth. ",
+					"Didascalie": "",
+					"Start": 201722,
+					"End": 201802
+				}
+			]
+		},
+		{
+			"Character": "YOUNG IRAQI SOLDIER",
+			"Replies": [
+				{
+					"Reply": "lies on the ground. A piece of his neck is blown away. He is rasping, a flag is clasped in one hand; a rifle in the other. ",
+					"Didascalie": "",
+					"Start": 3010,
+					"End": 3138
+				}
+			]
+		},
+		{
+			"Character": "VIG",
+			"Replies": [
+				{
+					"Reply": " Congratulations, you got yourself a rag head, my man. ",
+					"Didascalie": "(V.O.) (deep southern accent)",
+					"Start": 3567,
+					"End": 3652
+				},
+				{
+					"Reply": "Dag. ",
+					"Didascalie": "",
+					"Start": 3877,
+					"End": 3882
+				},
+				{
+					"Reply": "It looked like the guy's head blew three feet into the air -- ",
+					"Didascalie": "",
+					"Start": 4322,
+					"End": 4399
+				},
+				{
+					"Reply": "I said it looked like that happened, but then we got here and he was still breathing. ",
+					"Didascalie": "",
+					"Start": 4647,
+					"End": 4763
+				},
+				{
+					"Reply": "And when it hits the ground, his hand keeps on firing. ",
+					"Didascalie": "",
+					"Start": 5066,
+					"End": 5136
+				},
+				{
+					"Reply": "Do you still want to sell pictures? ",
+					"Didascalie": "",
+					"Start": 5357,
+					"End": 5393
+				},
+				{
+					"Reply": "War's been over five days, Jim, ain't gonna be much more of this. ",
+					"Didascalie": "",
+					"Start": 5771,
+					"End": 5852
+				},
+				{
+					"Reply": "Troy's enemy, yours for twenty. ",
+					"Didascalie": "",
+					"Start": 6213,
+					"End": 6245
+				},
+				{
+					"Reply": "What's wrong? ",
+					"Didascalie": "",
+					"Start": 6469,
+					"End": 6483
+				},
+				{
+					"Reply": "No free pictures, motherfucker. ",
+					"Didascalie": "",
+					"Start": 6724,
+					"End": 6756
+				},
+				{
+					"Reply": "Rahhhhhhhhh. ",
+					"Didascalie": "",
+					"Start": 15208,
+					"End": 15221
+				},
+				{
+					"Reply": "Did you rape and torture anybody in Kuwait, Abdul? ",
+					"Didascalie": "",
+					"Start": 16286,
+					"End": 16352
+				},
+				{
+					"Reply": "Take your fucking rags off, take this off. No comprende English, motherfucker? ",
+					"Didascalie": "",
+					"Start": 16653,
+					"End": 16762
+				},
+				{
+					"Reply": "I'm trying to git him to obey the spirit of things but he won't take his rags off. ",
+					"Didascalie": "",
+					"Start": 16906,
+					"End": 17019
+				},
+				{
+					"Reply": "Whoa, it's a freaky thing, Troy. ",
+					"Didascalie": "",
+					"Start": 17401,
+					"End": 17434
+				},
+				{
+					"Reply": "That's the freaky thing. ",
+					"Didascalie": "",
+					"Start": 17692,
+					"End": 17717
+				},
+				{
+					"Reply": "You only gave me one glove. ",
+					"Didascalie": "",
+					"Start": 18394,
+					"End": 18422
+				},
+				{
+					"Reply": "What the hell is that? ",
+					"Didascalie": "",
+					"Start": 18895,
+					"End": 18918
+				},
+				{
+					"Reply": "Lord knows what vermin live in the butt of a dune koon. ",
+					"Didascalie": "",
+					"Start": 24872,
+					"End": 24943
+				},
+				{
+					"Reply": "Captain uses those terms. ",
+					"Didascalie": "",
+					"Start": 25561,
+					"End": 25587
+				},
+				{
+					"Reply": "I'm sorry, man, it's a little confusing is all. ",
+					"Didascalie": "",
+					"Start": 25848,
+					"End": 25911
+				},
+				{
+					"Reply": "Man, get an awesome stereo system with like ten BOS speakers  -- ",
+					"Didascalie": "",
+					"Start": 27537,
+					"End": 27617
+				},
+				{
+					"Reply": "One gold Rolex, I get a very fine split level outside Jackson. ",
+					"Didascalie": "",
+					"Start": 28224,
+					"End": 28302
+				},
+				{
+					"Reply": "I was baptized in water. ",
+					"Didascalie": "",
+					"Start": 29552,
+					"End": 29577
+				},
+				{
+					"Reply": "I don't recognize you, sir. Are you in this division? ",
+					"Didascalie": "",
+					"Start": 31499,
+					"End": 31568
+				},
+				{
+					"Reply": "His name is Walter. ",
+					"Didascalie": "",
+					"Start": 32477,
+					"End": 32497
+				},
+				{
+					"Reply": "Dag. ",
+					"Didascalie": "",
+					"Start": 34085,
+					"End": 34090
+				},
+				{
+					"Reply": "Rolexes. ",
+					"Didascalie": "",
+					"Start": 35616,
+					"End": 35625
+				},
+				{
+					"Reply": "You mean the little cubes you put in hot water for soup? ",
+					"Didascalie": "",
+					"Start": 35797,
+					"End": 35869
+				},
+				{
+					"Reply": "For one gold brick? ",
+					"Didascalie": "",
+					"Start": 36208,
+					"End": 36228
+				},
+				{
+					"Reply": "I don't really have a day job. ",
+					"Didascalie": "",
+					"Start": 37536,
+					"End": 37567
+				},
+				{
+					"Reply": "What else did you do, sir? ",
+					"Didascalie": "",
+					"Start": 37812,
+					"End": 37839
+				},
+				{
+					"Reply": "Is it true you got to take an enemy ear to be Special Forces? ",
+					"Didascalie": "",
+					"Start": 39559,
+					"End": 39636
+				},
+				{
+					"Reply": "Blacks make better receivers than quarterbacks. ",
+					"Didascalie": "",
+					"Start": 42570,
+					"End": 42633
+				},
+				{
+					"Reply": "The Oilers have gone nowhere behind Warren Moon. ",
+					"Didascalie": "",
+					"Start": 42858,
+					"End": 42922
+				},
+				{
+					"Reply": "The Eagles will never get to the Superbowl with him. ",
+					"Didascalie": "",
+					"Start": 43134,
+					"End": 43202
+				},
+				{
+					"Reply": "This gun's too heavy to shoot one-handed like a movie star -- ",
+					"Didascalie": "",
+					"Start": 43688,
+					"End": 43765
+				},
+				{
+					"Reply": "What do you mean? ",
+					"Didascalie": "",
+					"Start": 44993,
+					"End": 45011
+				},
+				{
+					"Reply": "Yeah, it's all cow. ",
+					"Didascalie": "",
+					"Start": 46455,
+					"End": 46475
+				},
+				{
+					"Reply": "Only night bombing on CNN, except for Troy's supercool shooting that guy in the neck-- ",
+					"Didascalie": "",
+					"Start": 47030,
+					"End": 47147
+				},
+				{
+					"Reply": "What's sepsis? ",
+					"Didascalie": "",
+					"Start": 47357,
+					"End": 47372
+				},
+				{
+					"Reply": "Tension pneumo what? ",
+					"Didascalie": "",
+					"Start": 48447,
+					"End": 48468
+				},
+				{
+					"Reply": "Where's the bunker? ",
+					"Didascalie": "",
+					"Start": 50384,
+					"End": 50404
+				},
+				{
+					"Reply": "We are the Army of the United States of America. We are here to protect you. Remain calm. ",
+					"Didascalie": "",
+					"Start": 51085,
+					"End": 51205
+				},
+				{
+					"Reply": " We are here for your protection and safety. ",
+					"Didascalie": "(into the megaphone)",
+					"Start": 52394,
+					"End": 52469
+				},
+				{
+					"Reply": "Ya'll be cool now, this is the U.S. Marines in charge here. ",
+					"Didascalie": "",
+					"Start": 52742,
+					"End": 52817
+				},
+				{
+					"Reply": "What exactly is a Shiite? ",
+					"Didascalie": "",
+					"Start": 60264,
+					"End": 60290
+				},
+				{
+					"Reply": " The civil war? How could it be the civil war? ",
+					"Didascalie": "(totally puzzled)",
+					"Start": 60665,
+					"End": 60742
+				},
+				{
+					"Reply": "Respect is the most important. ",
+					"Didascalie": "",
+					"Start": 61914,
+					"End": 61945
+				},
+				{
+					"Reply": "Rock and roll. ",
+					"Didascalie": "",
+					"Start": 63198,
+					"End": 63213
+				},
+				{
+					"Reply": "Don't make me smoke your ass, Abdul. ",
+					"Didascalie": "",
+					"Start": 67305,
+					"End": 67357
+				},
+				{
+					"Reply": "Don't start this shit again. ",
+					"Didascalie": "",
+					"Start": 72753,
+					"End": 72782
+				},
+				{
+					"Reply": "I know ya'll Shiite gettin' yer asses whipped --  Hey, what the hell is going on here? ",
+					"Didascalie": "",
+					"Start": 72891,
+					"End": 73008
+				},
+				{
+					"Reply": "Git on the fucking ground, Arab. ",
+					"Didascalie": "",
+					"Start": 73220,
+					"End": 73253
+				},
+				{
+					"Reply": "What the fuck are you talking about? ",
+					"Didascalie": "",
+					"Start": 73382,
+					"End": 73434
+				},
+				{
+					"Reply": "Goddamn it everybody calm down. ",
+					"Didascalie": "",
+					"Start": 73955,
+					"End": 73987
+				},
+				{
+					"Reply": " This is the United States Military. ",
+					"Didascalie": "(into the megaphone)",
+					"Start": 75150,
+					"End": 75202
+				},
+				{
+					"Reply": "Did you get it? Troy, did you get it? ",
+					"Didascalie": "",
+					"Start": 82672,
+					"End": 82725
+				},
+				{
+					"Reply": "Is it a lot? ",
+					"Didascalie": "",
+					"Start": 82833,
+					"End": 82846
+				},
+				{
+					"Reply": "Yes, sir. ",
+					"Didascalie": "",
+					"Start": 91597,
+					"End": 91607
+				},
+				{
+					"Reply": "Make infected pockets filled with bile, sir. ",
+					"Didascalie": "",
+					"Start": 91780,
+					"End": 91840
+				},
+				{
+					"Reply": "Grenade launcher, sir. ",
+					"Didascalie": "",
+					"Start": 99171,
+					"End": 99194
+				},
+				{
+					"Reply": "I don't wanna get hit. ",
+					"Didascalie": "",
+					"Start": 102144,
+					"End": 102167
+				},
+				{
+					"Reply": "Where's my mask? ",
+					"Didascalie": "",
+					"Start": 102998,
+					"End": 103015
+				},
+				{
+					"Reply": "Look out. ",
+					"Didascalie": "",
+					"Start": 107402,
+					"End": 107412
+				},
+				{
+					"Reply": "What's going on? ",
+					"Didascalie": "",
+					"Start": 107957,
+					"End": 107974
+				},
+				{
+					"Reply": "Troy. ",
+					"Didascalie": "",
+					"Start": 108346,
+					"End": 108352
+				},
+				{
+					"Reply": "We have to go back. We can't leave him there. ",
+					"Didascalie": "",
+					"Start": 109288,
+					"End": 109349
+				},
+				{
+					"Reply": "You made the choice and we lost Troy -- ",
+					"Didascalie": "",
+					"Start": 109526,
+					"End": 109581
+				},
+				{
+					"Reply": "You had a choice. ",
+					"Didascalie": "",
+					"Start": 109697,
+					"End": 109715
+				},
+				{
+					"Reply": "What about Troy? What choice does he have now? ",
+					"Didascalie": "",
+					"Start": 110246,
+					"End": 110308
+				},
+				{
+					"Reply": "Is that guy dead? Where you gonna put him? ",
+					"Didascalie": "",
+					"Start": 130407,
+					"End": 130465
+				},
+				{
+					"Reply": "What kind of shrine ya'll got? ",
+					"Didascalie": "",
+					"Start": 130575,
+					"End": 130606
+				},
+				{
+					"Reply": "Hey, that's a pretty good shrine, right, Doc? ",
+					"Didascalie": "",
+					"Start": 130740,
+					"End": 130801
+				},
+				{
+					"Reply": "I'm sorry I hit you, man. I was scared for Troy, I don't want nothing to happen to him, he's my friend. Doc? Come on, man, I know you was comin' to help me -- ",
+					"Didascalie": "",
+					"Start": 130871,
+					"End": 131090
+				},
+				{
+					"Reply": "Maybe we got kicked out of the ring of Jesus fire, on account of stealing. ",
+					"Didascalie": "",
+					"Start": 131313,
+					"End": 131418
+				},
+				{
+					"Reply": "How does it work? ",
+					"Didascalie": "",
+					"Start": 131533,
+					"End": 131551
+				},
+				{
+					"Reply": "What about now? ",
+					"Didascalie": "",
+					"Start": 131752,
+					"End": 131768
+				},
+				{
+					"Reply": "I'm good to go, chief. ",
+					"Didascalie": "",
+					"Start": 132016,
+					"End": 132039
+				},
+				{
+					"Reply": "I want to find Troy. ",
+					"Didascalie": "",
+					"Start": 133227,
+					"End": 133248
+				},
+				{
+					"Reply": "Broken -- arms. Girl. ",
+					"Didascalie": "",
+					"Start": 133886,
+					"End": 133908
+				},
+				{
+					"Reply": "What's b-school? Is that like terrorist training? ",
+					"Didascalie": "",
+					"Start": 134215,
+					"End": 134280
+				},
+				{
+					"Reply": "Give it to him. We've got a lot. ",
+					"Didascalie": "",
+					"Start": 137646,
+					"End": 137679
+				},
+				{
+					"Reply": "Give me a fucking break, man. ",
+					"Didascalie": "",
+					"Start": 139549,
+					"End": 139579
+				},
+				{
+					"Reply": "Fuck it. We'll find this place on our own. ",
+					"Didascalie": "",
+					"Start": 140499,
+					"End": 140557
+				},
+				{
+					"Reply": "This is a human life we're talking about. ",
+					"Didascalie": "",
+					"Start": 141186,
+					"End": 141243
+				},
+				{
+					"Reply": "You got the same name as the tall model who does David Bowie. ",
+					"Didascalie": "",
+					"Start": 146072,
+					"End": 146149
+				},
+				{
+					"Reply": "That's the same name. ",
+					"Didascalie": "",
+					"Start": 146304,
+					"End": 146326
+				},
+				{
+					"Reply": "Whatever. They're both attractive names. ",
+					"Didascalie": "",
+					"Start": 146440,
+					"End": 146496
+				},
+				{
+					"Reply": "Shit. Sorry. ",
+					"Didascalie": "",
+					"Start": 147147,
+					"End": 147160
+				},
+				{
+					"Reply": "Praise Jesus. ",
+					"Didascalie": "",
+					"Start": 153600,
+					"End": 153614
+				},
+				{
+					"Reply": "Go, baby, go. ",
+					"Didascalie": "",
+					"Start": 153831,
+					"End": 153845
+				},
+				{
+					"Reply": "Judas Priest will pump you, Doc -- ",
+					"Didascalie": "",
+					"Start": 154771,
+					"End": 154806
+				},
+				{
+					"Reply": "One song. ",
+					"Didascalie": "",
+					"Start": 154955,
+					"End": 154965
+				},
+				{
+					"Reply": "Wait a second, I want to talk about this plan some more -- ",
+					"Didascalie": "",
+					"Start": 156137,
+					"End": 156211
+				},
+				{
+					"Reply": "I have a bad feeling like we're gonna get wasted. ",
+					"Didascalie": "",
+					"Start": 156390,
+					"End": 156455
+				},
+				{
+					"Reply": "Splinter. ",
+					"Didascalie": "",
+					"Start": 161626,
+					"End": 161636
+				},
+				{
+					"Reply": "Go straight, go straight -- ",
+					"Didascalie": "",
+					"Start": 161946,
+					"End": 161974
+				},
+				{
+					"Reply": "Shit. ",
+					"Didascalie": "",
+					"Start": 164941,
+					"End": 164947
+				},
+				{
+					"Reply": "Jesus God, I don't wanna get hit, please Jesus, watch over me -- ",
+					"Didascalie": "",
+					"Start": 165802,
+					"End": 165882
+				},
+				{
+					"Reply": "You gotta be my disguise, Mr. ",
+					"Didascalie": "",
+					"Start": 169244,
+					"End": 169274
+				},
+				{
+					"Reply": "God help me. ",
+					"Didascalie": "",
+					"Start": 171391,
+					"End": 171404
+				},
+				{
+					"Reply": "Yes. Yes. All right. ",
+					"Didascalie": "",
+					"Start": 177665,
+					"End": 177686
+				},
+				{
+					"Reply": "You made it. ",
+					"Didascalie": "",
+					"Start": 177822,
+					"End": 177835
+				},
+				{
+					"Reply": "I thought that was you. Yeah. ",
+					"Didascalie": "",
+					"Start": 177905,
+					"End": 177935
+				},
+				{
+					"Reply": "You made it, man -- ",
+					"Didascalie": "",
+					"Start": 179130,
+					"End": 179150
+				},
+				{
+					"Reply": "What happened to the Jesus fire, Doc? ",
+					"Didascalie": "",
+					"Start": 179428,
+					"End": 179481
+				},
+				{
+					"Reply": "You never told me that part. I guess I could go to one of them shrines that erase the bad you did -- ",
+					"Didascalie": "",
+					"Start": 179674,
+					"End": 179820
+				},
+				{
+					"Reply": "We did good, right? ",
+					"Didascalie": "",
+					"Start": 179966,
+					"End": 179986
+				},
+				{
+					"Reply": "Do you still want to sell pictures? ",
+					"Didascalie": "",
+					"Start": 181817,
+					"End": 181853
+				},
+				{
+					"Reply": "War's been over five days, ain't gonna be any more of this, Jim. ",
+					"Didascalie": "",
+					"Start": 182066,
+					"End": 182146
+				},
+				{
+					"Reply": "It's Troy's enemy, yours for twenty. ",
+					"Didascalie": "",
+					"Start": 182738,
+					"End": 182790
+				}
+			]
+		},
+		{
+			"Character": "FANTASY SEQUENCE IN SLOW MOTION",
+			"Replies": [
+				{
+					"Reply": "The Iraqi's head pops three feet into the air. ",
+					"Didascalie": "",
+					"Start": 4443,
+					"End": 4490
+				}
+			]
+		},
+		{
+			"Character": "BACK TO THE SCENE",
+			"Replies": [
+				{
+					"Reply": "Bullshit, that's not what happened. ",
+					"Didascalie": "",
+					"Start": 4566,
+					"End": 4602
+				},
+				{
+					"Reply": "Archie bursts out the front door, followed by Troy and Doc. ",
+					"Didascalie": "",
+					"Start": 56164,
+					"End": 56224
+				},
+				{
+					"Reply": "Vig looks puzzled. ",
+					"Didascalie": "",
+					"Start": 60837,
+					"End": 60856
+				},
+				{
+					"Reply": "Vig pushes the Humvee's accelerator to the floor. ",
+					"Didascalie": "",
+					"Start": 100801,
+					"End": 100851
+				},
+				{
+					"Reply": "Troy drops the other Vuitton bag, catches the Boy and has both children under his arms like footballs -- when suddenly Troy is grabbed from behind with a cord around his neck -- he lands on his back with the two children in his arms. ",
+					"Didascalie": "",
+					"Start": 106469,
+					"End": 106718
+				},
+				{
+					"Reply": "U.S. Soldiers watch. ",
+					"Didascalie": "",
+					"Start": 205561,
+					"End": 205582
+				}
+			]
+		},
+		{
+			"Character": "BILL SMITHSON",
+			"Replies": [
+				{
+					"Reply": "Spirits are high and the music is boisterous as these young troops celebrate -- Shit. Let me try that again. ",
+					"Didascalie": "",
+					"Start": 7648,
+					"End": 7802
+				},
+				{
+					"Reply": "Spirits are high and the music is fucking motherfucking sand in my eye -- ",
+					"Didascalie": "",
+					"Start": 7985,
+					"End": 8089
+				},
+				{
+					"Reply": "Gates. ",
+					"Didascalie": "",
+					"Start": 9179,
+					"End": 9186
+				},
+				{
+					"Reply": "Could I have some help over here, for Chrissakes? ",
+					"Didascalie": "",
+					"Start": 9610,
+					"End": 9675
+				},
+				{
+					"Reply": "I'm trying to do a story here and the fucking sand is blowing in my face -- ",
+					"Didascalie": "",
+					"Start": 9848,
+					"End": 9954
+				},
+				{
+					"Reply": "No, you're too busy talking about the fucking gold, which by the way makes a great story if you'd get me a goddamn lead on it -- ",
+					"Didascalie": "",
+					"Start": 10140,
+					"End": 10314
+				},
+				{
+					"Reply": "Would you just be my guide and not my fucking producer? You're my guide. ",
+					"Didascalie": "",
+					"Start": 10623,
+					"End": 10726
+				},
+				{
+					"Reply": "You're heroes. ",
+					"Didascalie": "",
+					"Start": 11085,
+					"End": 11100
+				},
+				{
+					"Reply": "You've exorcised the ghosts of Vietnam with a clear moral imperative -- ",
+					"Didascalie": "",
+					"Start": 11292,
+					"End": 11394
+				},
+				{
+					"Reply": "Where the hell are you going? ",
+					"Didascalie": "",
+					"Start": 11522,
+					"End": 11552
+				},
+				{
+					"Reply": "I don't want you helping other reporters, goddamn it. ",
+					"Didascalie": "",
+					"Start": 11745,
+					"End": 11814
+				},
+				{
+					"Reply": "Who's getting reemed? The Shiites? ",
+					"Didascalie": "",
+					"Start": 12297,
+					"End": 12332
+				},
+				{
+					"Reply": "I told you he was with her -- ",
+					"Didascalie": "",
+					"Start": 21758,
+					"End": 21788
+				},
+				{
+					"Reply": "I wanted help with the gold story, and he took off on me-- ",
+					"Didascalie": "",
+					"Start": 21956,
+					"End": 22030
+				},
+				{
+					"Reply": "This is boring, I already did this damn story, goddamn it, where the hell is the gold? ",
+					"Didascalie": "",
+					"Start": 58022,
+					"End": 58139
+				},
+				{
+					"Reply": "What? ",
+					"Didascalie": "",
+					"Start": 58310,
+					"End": 58316
+				},
+				{
+					"Reply": "Fuck that. Stop the bike. ",
+					"Didascalie": "",
+					"Start": 58502,
+					"End": 58528
+				},
+				{
+					"Reply": " I'm at some goddamn marsh, all we've seen are Russian cranes. ",
+					"Didascalie": "(on cell phone)",
+					"Start": 63628,
+					"End": 63721
+				},
+				{
+					"Reply": " I think the Saddam story goes more for the jugular, journalistically speaking, Al. Let's grow some balls and do the Shiite uprising, for Christ's sake. ",
+					"Didascalie": "(on the cell phone)",
+					"Start": 63860,
+					"End": 64088
+				},
+				{
+					"Reply": "We're going north to do the Shiites. ",
+					"Didascalie": "",
+					"Start": 64186,
+					"End": 64238
+				},
+				{
+					"Reply": "Karbala's the new hotspot, and I'm driving. ",
+					"Didascalie": "",
+					"Start": 64393,
+					"End": 64452
+				},
+				{
+					"Reply": "Start shooting, Paco. ",
+					"Didascalie": "",
+					"Start": 111541,
+					"End": 111563
+				},
+				{
+					"Reply": "Let me handle this. ",
+					"Didascalie": "",
+					"Start": 111803,
+					"End": 111823
+				},
+				{
+					"Reply": "Spirits are high and the music is soaring as these young troops celebrate -- ",
+					"Didascalie": "",
+					"Start": 118547,
+					"End": 118654
+				},
+				{
+					"Reply": "I'm being held captive by Iraqi troops in the gritty city of Karbala, where Shiite -- ",
+					"Didascalie": "",
+					"Start": 118914,
+					"End": 119030
+				},
+				{
+					"Reply": "OK, we'll go again. ",
+					"Didascalie": "",
+					"Start": 119159,
+					"End": 119179
+				},
+				{
+					"Reply": "Let's lay a few of these down first. In three, two, and, I'm being held captive in a gritty suburb of Karbala, where Shiite fundamentalists are rising up -- ",
+					"Didascalie": "",
+					"Start": 119314,
+					"End": 119531
+				},
+				{
+					"Reply": "At least let me keep the tape. ",
+					"Didascalie": "",
+					"Start": 120225,
+					"End": 120256
+				},
+				{
+					"Reply": "Where the hell is he going now? ",
+					"Didascalie": "",
+					"Start": 191600,
+					"End": 191632
+				},
+				{
+					"Reply": "In a morbid tableau these men have recovered some of the gold bullion stolen from Kuwait -- ",
+					"Didascalie": "",
+					"Start": 205799,
+					"End": 205921
+				},
+				{
+					"Reply": "That's a 75 thousand dollar camera -- ",
+					"Didascalie": "",
+					"Start": 206375,
+					"End": 206428
+				}
+			]
+		},
+		{
+			"Character": "ARCHIE GATES",
+			"Replies": [
+				{
+					"Reply": "Is that what you got from this experience? A goddamn watch? ",
+					"Didascalie": "",
+					"Start": 8520,
+					"End": 8595
+				},
+				{
+					"Reply": "There's 700 million in gold out there and you're fucking around with a watch? ",
+					"Didascalie": "",
+					"Start": 8774,
+					"End": 8882
+				},
+				{
+					"Reply": "One bunker of gold and we retire from this horseshit, Hashy-- ",
+					"Didascalie": "",
+					"Start": 9047,
+					"End": 9124
+				},
+				{
+					"Reply": "Just a second. The problem, Hash, is how do you find it? ",
+					"Didascalie": "",
+					"Start": 9240,
+					"End": 9312
+				},
+				{
+					"Reply": "Maybe two sowsan bunker out sair, Hash, how do you find Saddam's bullion? ",
+					"Didascalie": "",
+					"Start": 9451,
+					"End": 9555
+				},
+				{
+					"Reply": "My goodness, Bill, what seems to be the problem? ",
+					"Didascalie": "",
+					"Start": 9729,
+					"End": 9793
+				},
+				{
+					"Reply": "You want me to stop the sand? I can't do anything about that. ",
+					"Didascalie": "",
+					"Start": 10008,
+					"End": 10085
+				},
+				{
+					"Reply": "I think the Saddam story goes more for the jugular, journalistically speaking, I mean, he's still here beating the shit out of his country. ",
+					"Didascalie": "",
+					"Start": 10368,
+					"End": 10568
+				},
+				{
+					"Reply": "OK, go do your celebration story, Bill. ",
+					"Didascalie": "",
+					"Start": 10780,
+					"End": 10835
+				},
+				{
+					"Reply": "I'll be right back. ",
+					"Didascalie": "",
+					"Start": 11670,
+					"End": 11690
+				},
+				{
+					"Reply": "Just the celebration story. ",
+					"Didascalie": "",
+					"Start": 19763,
+					"End": 19791
+				},
+				{
+					"Reply": "That's it -- ",
+					"Didascalie": "",
+					"Start": 19910,
+					"End": 19923
+				},
+				{
+					"Reply": "How about you? Did you find anything? ",
+					"Didascalie": "",
+					"Start": 19977,
+					"End": 20030
+				},
+				{
+					"Reply": "Who's the guy? ",
+					"Didascalie": "",
+					"Start": 20294,
+					"End": 20309
+				},
+				{
+					"Reply": "Barlow. ",
+					"Didascalie": "",
+					"Start": 20470,
+					"End": 20478
+				},
+				{
+					"Reply": "Out of a prisoner's head? ",
+					"Didascalie": "",
+					"Start": 20622,
+					"End": 20648
+				},
+				{
+					"Reply": "Out of a guy's dick? ",
+					"Didascalie": "",
+					"Start": 20914,
+					"End": 20935
+				},
+				{
+					"Reply": "You guys have no manners whatsoever -- ",
+					"Didascalie": "",
+					"Start": 21610,
+					"End": 21664
+				},
+				{
+					"Reply": "That's a lot of bullshit. ",
+					"Didascalie": "",
+					"Start": 22084,
+					"End": 22110
+				},
+				{
+					"Reply": "I'm helping him plenty with his big celebration feature -- Where did you get this fucking star? ",
+					"Didascalie": "",
+					"Start": 22392,
+					"End": 22518
+				},
+				{
+					"Reply": "For what? I don't even know what we did over here, but Schwartzkopf gets a book deal, you get a star, Powell gets to be fucking president-- ",
+					"Didascalie": "",
+					"Start": 22760,
+					"End": 22960
+				},
+				{
+					"Reply": "Running the press pool's a real big win for me. ",
+					"Didascalie": "",
+					"Start": 23124,
+					"End": 23187
+				},
+				{
+					"Reply": "I'm just saying it's ironic, that's all. ",
+					"Didascalie": "",
+					"Start": 23360,
+					"End": 23416
+				},
+				{
+					"Reply": "We got the biggest army in the world here but Iraq still has the d-bag dictator in power, but that's how the world works I guess. ",
+					"Didascalie": "",
+					"Start": 23549,
+					"End": 23724
+				},
+				{
+					"Reply": "Fuck you, Ron. ",
+					"Didascalie": "",
+					"Start": 24064,
+					"End": 24079
+				},
+				{
+					"Reply": "OK, sir, but there's another thing I'd like to say, if you don't mind. ",
+					"Didascalie": "",
+					"Start": 24251,
+					"End": 24337
+				},
+				{
+					"Reply": "Fuuuuuck yooouuuu, Ronnnnn. ",
+					"Didascalie": "",
+					"Start": 24532,
+					"End": 24560
+				},
+				{
+					"Reply": "Get the fuck out of my way. ",
+					"Didascalie": "",
+					"Start": 30368,
+					"End": 30396
+				},
+				{
+					"Reply": "Good afternoon. ",
+					"Didascalie": "",
+					"Start": 30633,
+					"End": 30649
+				},
+				{
+					"Reply": "Would this be the proctology tent? ",
+					"Didascalie": "",
+					"Start": 30730,
+					"End": 30765
+				},
+				{
+					"Reply": "Then maybe it's the urology tent. ",
+					"Didascalie": "",
+					"Start": 30891,
+					"End": 30925
+				},
+				{
+					"Reply": "That's OK, I'm not looking for a proctologist or a urologist I'm looking for Sargeant Barlow. ",
+					"Didascalie": "",
+					"Start": 31055,
+					"End": 31179
+				},
+				{
+					"Reply": "You're on the path to truth when you smell shit, isn't that what they say? ",
+					"Didascalie": "",
+					"Start": 31349,
+					"End": 31454
+				},
+				{
+					"Reply": "And you would be the Three Wise Men, right, Mappy, Slappy, and Pappy --  He points in order to Doc, Vig, and Troy, who picks up his family photo button. ",
+					"Didascalie": "",
+					"Start": 31866,
+					"End": 32060
+				},
+				{
+					"Reply": "That leaves Cappy outside. ",
+					"Didascalie": "",
+					"Start": 32114,
+					"End": 32141
+				},
+				{
+					"Reply": "Did you good soldiers present this map to Captain Van Meter? ",
+					"Didascalie": "",
+					"Start": 32551,
+					"End": 32627
+				},
+				{
+					"Reply": "Then I'll take it to him. ",
+					"Didascalie": "",
+					"Start": 32736,
+					"End": 32762
+				},
+				{
+					"Reply": "It won't do either of us any good then, will it? ",
+					"Didascalie": "",
+					"Start": 32926,
+					"End": 32990
+				},
+				{
+					"Reply": "It could be nothing but a sandy love letter from one Eye-raqi to another -- ",
+					"Didascalie": "",
+					"Start": 33253,
+					"End": 33359
+				},
+				{
+					"Reply": "Maybe. ",
+					"Didascalie": "",
+					"Start": 33513,
+					"End": 33520
+				},
+				{
+					"Reply": "May I look at the goddamn map? ",
+					"Didascalie": "",
+					"Start": 33686,
+					"End": 33717
+				},
+				{
+					"Reply": "That's what makes Rangers badass, we get the best flashlights. ",
+					"Didascalie": "",
+					"Start": 34144,
+					"End": 34222
+				},
+				{
+					"Reply": "Still looks like a series of three bunkers in three villages. A bit farther to the west. ",
+					"Didascalie": "",
+					"Start": 34342,
+					"End": 34461
+				},
+				{
+					"Reply": "More like 65. ",
+					"Didascalie": "",
+					"Start": 34587,
+					"End": 34601
+				},
+				{
+					"Reply": "Leave at dawn, back by lunch, not a big deal. Of course -- ",
+					"Didascalie": "",
+					"Start": 34725,
+					"End": 34799
+				},
+				{
+					"Reply": "-- there could be nothing inside but starving Arabs and stolen watches, but I think it's worth checking out, even if I have to do it with clueless reservists like you. ",
+					"Didascalie": "",
+					"Start": 34896,
+					"End": 35139
+				},
+				{
+					"Reply": "I mean, I could take the map, but you could talk, it starts to become a pain in the ass for me, so we'll do the gold together. ",
+					"Didascalie": "",
+					"Start": 35217,
+					"End": 35389
+				},
+				{
+					"Reply": "You don't even know what's inside these bunkers, do you? ",
+					"Didascalie": "",
+					"Start": 35499,
+					"End": 35571
+				},
+				{
+					"Reply": "Rolexes are swell, but I'm talking about Kuwaiti bullion. ",
+					"Didascalie": "",
+					"Start": 35679,
+					"End": 35752
+				},
+				{
+					"Reply": "No. Not the little cubes you put in hot water for soup. ",
+					"Didascalie": "",
+					"Start": 35923,
+					"End": 35994
+				},
+				{
+					"Reply": "market. ",
+					"Didascalie": "",
+					"Start": 36155,
+					"End": 36163
+				},
+				{
+					"Reply": "I'm sure Mr. Hussein has divided his bricks. into many different hiding places, but just one hiding place should be easy to take, and that would be enough to get us out of our day jobs. Unless the three kings are in love with their day jobs. ",
+					"Didascalie": "",
+					"Start": 36282,
+					"End": 36629
+				},
+				{
+					"Reply": "We do this shit all the time. ",
+					"Didascalie": "",
+					"Start": 37737,
+					"End": 37767
+				},
+				{
+					"Reply": "In Panama we went sailing in Noriega's boats. ",
+					"Didascalie": "",
+					"Start": 37893,
+					"End": 37954
+				},
+				{
+					"Reply": "In Vietnam, we got a big gold Buddha, which we unfortunately dropped in a swamp by accident. ",
+					"Didascalie": "",
+					"Start": 38059,
+					"End": 38182
+				},
+				{
+					"Reply": "Let's see. They had the shit bombed out them for two months, they're deserting all over the place, and they've completely surrendered to us. That's a beaten army in every sense of the word. ",
+					"Didascalie": "",
+					"Start": 38308,
+					"End": 38573
+				},
+				{
+					"Reply": "You are now under my command, salute -- ",
+					"Didascalie": "",
+					"Start": 38651,
+					"End": 38706
+				},
+				{
+					"Reply": "What's the guy's name outside? ",
+					"Didascalie": "",
+					"Start": 38813,
+					"End": 38844
+				},
+				{
+					"Reply": "Cappy. ",
+					"Didascalie": "",
+					"Start": 38952,
+					"End": 38959
+				},
+				{
+					"Reply": "You will take Bill Smithson on a special mission to find the gold story, but it will be a meaningless ride that lasts all morning and takes him nowhere near Karbala, is that clear? ",
+					"Didascalie": "",
+					"Start": 39036,
+					"End": 39292
+				},
+				{
+					"Reply": "Your captain will be detained by a friend of mine. ",
+					"Didascalie": "",
+					"Start": 39448,
+					"End": 39514
+				},
+				{
+					"Reply": "No, but if you talk to anybody about this, I'll kill you. ",
+					"Didascalie": "",
+					"Start": 39690,
+					"End": 39763
+				},
+				{
+					"Reply": "Shut the fuck up. ",
+					"Didascalie": "",
+					"Start": 43880,
+					"End": 43898
+				},
+				{
+					"Reply": "When we pull up to the bunker, the approach is something called violence of action, which is standard in special operations. It means your movement is so fast and decisive that the guards are frozen and we haven't fired a single shot. ",
+					"Didascalie": "",
+					"Start": 44288,
+					"End": 44628
+				},
+				{
+					"Reply": "We dropped a lot of bombs out here and we buried some guys alive -- ",
+					"Didascalie": "",
+					"Start": 44865,
+					"End": 44948
+				},
+				{
+					"Reply": "Bradleys with big plows cut through the berms and covered the trenches -- ",
+					"Didascalie": "",
+					"Start": 45065,
+					"End": 45169
+				},
+				{
+					"Reply": "They had the option to surrender, but they chose to die for their country. ",
+					"Didascalie": "",
+					"Start": 45326,
+					"End": 45431
+				},
+				{
+					"Reply": "Let's rehearse. ",
+					"Didascalie": "",
+					"Start": 45604,
+					"End": 45620
+				},
+				{
+					"Reply": "We'll say the cow is the primary guard outside the bunker. We pull up fast, and stop short. ",
+					"Didascalie": "",
+					"Start": 45759,
+					"End": 45881
+				},
+				{
+					"Reply": "And -- Go. ",
+					"Didascalie": "",
+					"Start": 45989,
+					"End": 46000
+				},
+				{
+					"Reply": "Who's hurt? ",
+					"Didascalie": "",
+					"Start": 46330,
+					"End": 46342
+				},
+				{
+					"Reply": "Mines are forever, Doc. They never get all of 'em. ",
+					"Didascalie": "",
+					"Start": 46651,
+					"End": 46717
+				},
+				{
+					"Reply": "Did you guys see any action at all? ",
+					"Didascalie": "",
+					"Start": 46949,
+					"End": 46985
+				},
+				{
+					"Reply": "Is sepsis cool? ",
+					"Didascalie": "",
+					"Start": 47296,
+					"End": 47312
+				},
+				{
+					"Reply": "As in septic tank, because that's what happens when a bullet hits you. The lead tears in there -- ",
+					"Didascalie": "",
+					"Start": 47495,
+					"End": 47623
+				},
+				{
+					"Reply": "Makes a cavity of dead tissue that closes down in a convulsive motion typical of all gunshot wounds. The cavity fills up with bile and bacteria and you're fucked. ",
+					"Didascalie": "",
+					"Start": 47792,
+					"End": 48015
+				},
+				{
+					"Reply": "But other than a wound that blinds, paralyzes, or castrates, the worst wound I've ever seen is something called tension pneumo thorax -- ",
+					"Didascalie": "",
+					"Start": 48128,
+					"End": 48325
+				},
+				{
+					"Reply": "A bullet, or a blade doesn't kill you, but makes a little hole in the lung, so every time you breathe, a little air leaks into the chest cavity, which starts to fill up like a balloon. And that balloon starts to push your organs to the side, crushing your lung, your liver, your heart. Your own breathing kills you, one breath at a time -- kinda like a job you can't stand or a bad lie you once told. ",
+					"Didascalie": "",
+					"Start": 48522,
+					"End": 49103
+				},
+				{
+					"Reply": "If you know how to make another little hole in the chest to let the air out, just like you would with an overinflated tire. ",
+					"Didascalie": "",
+					"Start": 49238,
+					"End": 49407
+				},
+				{
+					"Reply": "Bach. ",
+					"Didascalie": "",
+					"Start": 49832,
+					"End": 49838
+				},
+				{
+					"Reply": "It should be right -- ",
+					"Didascalie": "",
+					"Start": 50458,
+					"End": 50480
+				},
+				{
+					"Reply": "There. ",
+					"Didascalie": "",
+					"Start": 50599,
+					"End": 50606
+				},
+				{
+					"Reply": "No -- there. ",
+					"Didascalie": "",
+					"Start": 50711,
+					"End": 50724
+				},
+				{
+					"Reply": "Orders from President Bush, step aside. ",
+					"Didascalie": "",
+					"Start": 51645,
+					"End": 51700
+				},
+				{
+					"Reply": "Do not panic.  Step outside -- ",
+					"Didascalie": "",
+					"Start": 52267,
+					"End": 52298
+				},
+				{
+					"Reply": "Where's the gold? ",
+					"Didascalie": "",
+					"Start": 54582,
+					"End": 54600
+				},
+				{
+					"Reply": "Not yet. ",
+					"Didascalie": "",
+					"Start": 54875,
+					"End": 54884
+				},
+				{
+					"Reply": "Where? ",
+					"Didascalie": "",
+					"Start": 55062,
+					"End": 55069
+				},
+				{
+					"Reply": "Move. Out of the way. ",
+					"Didascalie": "",
+					"Start": 56890,
+					"End": 56912
+				},
+				{
+					"Reply": "Give them MRE's. ",
+					"Didascalie": "",
+					"Start": 57353,
+					"End": 57370
+				},
+				{
+					"Reply": "What is the art of war, because it is not for killing people, it's a stratagem to give life to many by killing the evil perpetrated by a few -- I am burning up in this goddamn suit -- ",
+					"Didascalie": "",
+					"Start": 58902,
+					"End": 59161
+				},
+				{
+					"Reply": "Discriminating use of violence as a last resort, and even then, carefully, surgically, that's what I learned, that's what I'm good at. But now they underestimate all this, bomb the same towns for six weeks  and still leave the scumbag dictator to starve and butcher his own people. ",
+					"Didascalie": "",
+					"Start": 59341,
+					"End": 59743
+				},
+				{
+					"Reply": "They make up the ethnic majority but they don't have any power. ",
+					"Didascalie": "",
+					"Start": 60344,
+					"End": 60423
+				},
+				{
+					"Reply": "Put these on, we are now U.S. ",
+					"Didascalie": "",
+					"Start": 61159,
+					"End": 61189
+				},
+				{
+					"Reply": "What is the most important thing in life? ",
+					"Didascalie": "",
+					"Start": 61572,
+					"End": 61629
+				},
+				{
+					"Reply": "What is it? ",
+					"Didascalie": "",
+					"Start": 61781,
+					"End": 61793
+				},
+				{
+					"Reply": "Too dependent on other people. ",
+					"Didascalie": "",
+					"Start": 61999,
+					"End": 62030
+				},
+				{
+					"Reply": "Comes and goes, man. ",
+					"Didascalie": "",
+					"Start": 62136,
+					"End": 62157
+				},
+				{
+					"Reply": "Necessity. That's what dictates what will happen at any given time in life. Necessity says we don't spend American lives taking out Saddam,  which leaves Saddam the necessity of taking out the Shiites so he can stay in power, which leaves us to take the gold. ",
+					"Didascalie": "",
+					"Start": 62358,
+					"End": 62723
+				},
+				{
+					"Reply": "There's time to try another bunker. I say we go. ",
+					"Didascalie": "",
+					"Start": 63031,
+					"End": 63095
+				},
+				{
+					"Reply": "Faster. ",
+					"Didascalie": "",
+					"Start": 66386,
+					"End": 66394
+				},
+				{
+					"Reply": " United States Marine Corps. Put your weapons down. ",
+					"Didascalie": "(into the megaphone)",
+					"Start": 66822,
+					"End": 66904
+				},
+				{
+					"Reply": "By order of the cease-fire signed in Safwan, March 3, the United States Marines hereby confiscate all material stolen by Iraq from the Emirate of Kuwait -- ",
+					"Didascalie": "",
+					"Start": 68632,
+					"End": 68848
+				},
+				{
+					"Reply": "Never hit anyone with your pistol, Doc. ",
+					"Didascalie": "",
+					"Start": 69480,
+					"End": 69535
+				},
+				{
+					"Reply": "I've been divorced three times. ",
+					"Didascalie": "",
+					"Start": 69775,
+					"End": 69807
+				},
+				{
+					"Reply": " Where's the gold, Captain? Tell us so we don't have to kill you. ",
+					"Didascalie": "(to Iraqi Captain)",
+					"Start": 70729,
+					"End": 70825
+				},
+				{
+					"Reply": "Take us to the basement. ",
+					"Didascalie": "",
+					"Start": 72396,
+					"End": 72421
+				},
+				{
+					"Reply": "Listen to me: we leave you alone to kill your Shiites, but everything you took from Kuwait, that belongs to us now, understand? ",
+					"Didascalie": "",
+					"Start": 76744,
+					"End": 76917
+				},
+				{
+					"Reply": "Put it back. ",
+					"Didascalie": "",
+					"Start": 76994,
+					"End": 77007
+				},
+				{
+					"Reply": "Stick to the plan. The plan is for gold. ",
+					"Didascalie": "",
+					"Start": 77111,
+					"End": 77167
+				},
+				{
+					"Reply": "Yeah, that's five kilos. ",
+					"Didascalie": "",
+					"Start": 77789,
+					"End": 77814
+				},
+				{
+					"Reply": "Ten suitcases; sixty bricks each. ",
+					"Didascalie": "",
+					"Start": 78410,
+					"End": 78444
+				},
+				{
+					"Reply": "They didn't get it here in these bags. ",
+					"Didascalie": "",
+					"Start": 79432,
+					"End": 79486
+				},
+				{
+					"Reply": "Why would you know that? ",
+					"Didascalie": "",
+					"Start": 79812,
+					"End": 79837
+				},
+				{
+					"Reply": "You got any more luggage here? ",
+					"Didascalie": "",
+					"Start": 80115,
+					"End": 80146
+				},
+				{
+					"Reply": "It's crazy to take it all, we're not prepared for it. It's crazy not to take it all, how can we leave it? ",
+					"Didascalie": "",
+					"Start": 80498,
+					"End": 80649
+				},
+				{
+					"Reply": "I told you that's handled. ",
+					"Didascalie": "",
+					"Start": 80808,
+					"End": 80835
+				},
+				{
+					"Reply": " I've got a friend, he's in French Special Forces. He's gonna put it in barrels filled with oil and bury it. In a few weeks, he'll drive it to Yanbu -- ",
+					"Didascalie": "(pacing)",
+					"Start": 81073,
+					"End": 81300
+				},
+				{
+					"Reply": "It's a port in Saudi. ",
+					"Didascalie": "",
+					"Start": 81415,
+					"End": 81437
+				},
+				{
+					"Reply": "Where another friend will ship it on a Turkish boat up the Red Sea to Perpignan, where a French boat will take it to Baltimore -- ",
+					"Didascalie": "",
+					"Start": 81581,
+					"End": 81756
+				},
+				{
+					"Reply": "We need a trailer. ",
+					"Didascalie": "",
+					"Start": 82007,
+					"End": 82026
+				},
+				{
+					"Reply": "See what you can get, Barlow. ",
+					"Didascalie": "",
+					"Start": 82228,
+					"End": 82258
+				},
+				{
+					"Reply": "We take the Kuwaiti gold. Yes. ",
+					"Didascalie": "",
+					"Start": 84973,
+					"End": 85004
+				},
+				{
+					"Reply": "No, Saddam cannot keep. ",
+					"Didascalie": "",
+					"Start": 85131,
+					"End": 85155
+				},
+				{
+					"Reply": "He certainly does. ",
+					"Didascalie": "",
+					"Start": 85298,
+					"End": 85317
+				},
+				{
+					"Reply": "We can do it ourselves. ",
+					"Didascalie": "",
+					"Start": 85556,
+					"End": 85580
+				},
+				{
+					"Reply": "Let's load up and get out of here. ",
+					"Didascalie": "",
+					"Start": 86140,
+					"End": 86175
+				},
+				{
+					"Reply": "This isn't gonna work. ",
+					"Didascalie": "",
+					"Start": 86540,
+					"End": 86563
+				},
+				{
+					"Reply": "We'll rig two carts. ",
+					"Didascalie": "",
+					"Start": 86941,
+					"End": 86962
+				},
+				{
+					"Reply": "We're not taking their truck. ",
+					"Didascalie": "",
+					"Start": 87084,
+					"End": 87114
+				},
+				{
+					"Reply": "This has to stop. ",
+					"Didascalie": "",
+					"Start": 88671,
+					"End": 88689
+				},
+				{
+					"Reply": "What did you say? ",
+					"Didascalie": "",
+					"Start": 88978,
+					"End": 88996
+				},
+				{
+					"Reply": "I don't think so. I'm sure you know about the Geneva Convention, right? ",
+					"Didascalie": "",
+					"Start": 89148,
+					"End": 89250
+				},
+				{
+					"Reply": "How much? ",
+					"Didascalie": "",
+					"Start": 89876,
+					"End": 89886
+				},
+				{
+					"Reply": "How much gold do you want to let these people come with us? ",
+					"Didascalie": "",
+					"Start": 89999,
+					"End": 90074
+				},
+				{
+					"Reply": "What do you mean, cannot do? I'm offering you a lot of money. ",
+					"Didascalie": "",
+					"Start": 90248,
+					"End": 90325
+				},
+				{
+					"Reply": "Cover me. ",
+					"Didascalie": "",
+					"Start": 90688,
+					"End": 90698
+				},
+				{
+					"Reply": "Are you listening? I said cover me. ",
+					"Didascalie": "",
+					"Start": 90852,
+					"End": 90888
+				},
+				{
+					"Reply": "No unnecessary shots, Conrad, is that clear? ",
+					"Didascalie": "",
+					"Start": 91492,
+					"End": 91552
+				},
+				{
+					"Reply": "Because we know what bullets do to vital organs, don't we? ",
+					"Didascalie": "",
+					"Start": 91661,
+					"End": 91735
+				},
+				{
+					"Reply": "That's right, that's what they do. ",
+					"Didascalie": "",
+					"Start": 91894,
+					"End": 91929
+				},
+				{
+					"Reply": "No shooting. ",
+					"Didascalie": "",
+					"Start": 93199,
+					"End": 93212
+				},
+				{
+					"Reply": "Accident. Stay cool. ",
+					"Didascalie": "",
+					"Start": 93963,
+					"End": 93984
+				},
+				{
+					"Reply": "Cover these three. ",
+					"Didascalie": "",
+					"Start": 97415,
+					"End": 97434
+				},
+				{
+					"Reply": "Doc. ",
+					"Didascalie": "",
+					"Start": 97616,
+					"End": 97621
+				},
+				{
+					"Reply": "Put the Shiites in the Humvee. ",
+					"Didascalie": "",
+					"Start": 97989,
+					"End": 98020
+				},
+				{
+					"Reply": "Make room. ",
+					"Didascalie": "",
+					"Start": 98137,
+					"End": 98148
+				},
+				{
+					"Reply": "It just changed. ",
+					"Didascalie": "",
+					"Start": 98300,
+					"End": 98317
+				},
+				{
+					"Reply": "Obey the fucking order, Barlow. ",
+					"Didascalie": "",
+					"Start": 98490,
+					"End": 98522
+				},
+				{
+					"Reply": "No. Let's get out of here. ",
+					"Didascalie": "",
+					"Start": 99298,
+					"End": 99325
+				},
+				{
+					"Reply": "What's the tank doing? ",
+					"Didascalie": "",
+					"Start": 100609,
+					"End": 100632
+				},
+				{
+					"Reply": "Stay on the road. ",
+					"Didascalie": "",
+					"Start": 102081,
+					"End": 102099
+				},
+				{
+					"Reply": "Mine. ",
+					"Didascalie": "",
+					"Start": 103301,
+					"End": 103307
+				},
+				{
+					"Reply": "Don't do it, this isn't sarin. ",
+					"Didascalie": "",
+					"Start": 105702,
+					"End": 105733
+				},
+				{
+					"Reply": "It's C.S. ",
+					"Didascalie": "",
+					"Start": 105883,
+					"End": 105893
+				},
+				{
+					"Reply": "Tear gas times ten, but it's not lethal. Where's Barlow? ",
+					"Didascalie": "",
+					"Start": 106005,
+					"End": 106077
+				},
+				{
+					"Reply": "Does anybody see Barlow? ",
+					"Didascalie": "",
+					"Start": 107091,
+					"End": 107116
+				},
+				{
+					"Reply": "Don't move. ",
+					"Didascalie": "",
+					"Start": 107587,
+					"End": 107599
+				},
+				{
+					"Reply": "Barlow. ",
+					"Didascalie": "",
+					"Start": 108659,
+					"End": 108667
+				},
+				{
+					"Reply": "We have to wait until it clears. ",
+					"Didascalie": "",
+					"Start": 109448,
+					"End": 109481
+				},
+				{
+					"Reply": "I had no choice. ",
+					"Didascalie": "",
+					"Start": 109635,
+					"End": 109652
+				},
+				{
+					"Reply": "I had no fucking choice. ",
+					"Didascalie": "",
+					"Start": 109769,
+					"End": 109794
+				},
+				{
+					"Reply": "I can't walk away from a crime like that and take the gold and live my life like nothing happened, and if you can, then I hope you die right now. ",
+					"Didascalie": "",
+					"Start": 109891,
+					"End": 110097
+				},
+				{
+					"Reply": "How you doing, Conrad? ",
+					"Didascalie": "",
+					"Start": 131948,
+					"End": 131971
+				},
+				{
+					"Reply": "Let's check the suitcases. ",
+					"Didascalie": "",
+					"Start": 132093,
+					"End": 132120
+				},
+				{
+					"Reply": "That leaves 92 suitcases, five bars each -- ",
+					"Didascalie": "",
+					"Start": 132415,
+					"End": 132474
+				},
+				{
+					"Reply": "23 million dollars. Not bad for a disaster, provided we can find Barlow, get back before dark and not get busted. ",
+					"Didascalie": "",
+					"Start": 132546,
+					"End": 132705
+				},
+				{
+					"Reply": "It was my choice today. So you can head back if you want. I'll find Barlow myself. ",
+					"Didascalie": "",
+					"Start": 132790,
+					"End": 132903
+				},
+				{
+					"Reply": "Take what you can carry. Try to find a vehicle. Bury what you have outside camp. Be careful about it. ",
+					"Didascalie": "",
+					"Start": 133023,
+					"End": 133155
+				},
+				{
+					"Reply": "OK, where does that leave us? We don't have any water, we're dehydrated. You got a radio here? ",
+					"Didascalie": "",
+					"Start": 133373,
+					"End": 133498
+				},
+				{
+					"Reply": "How is she? ",
+					"Didascalie": "",
+					"Start": 133621,
+					"End": 133633
+				},
+				{
+					"Reply": "You got a radio? ",
+					"Didascalie": "",
+					"Start": 134828,
+					"End": 134845
+				},
+				{
+					"Reply": "Where's Barlow? ",
+					"Didascalie": "",
+					"Start": 135040,
+					"End": 135056
+				},
+				{
+					"Reply": "Where would they take him? ",
+					"Didascalie": "",
+					"Start": 135275,
+					"End": 135302
+				},
+				{
+					"Reply": "Take us there. ",
+					"Didascalie": "",
+					"Start": 135625,
+					"End": 135640
+				},
+				{
+					"Reply": "We'll walk until we find some. ",
+					"Didascalie": "",
+					"Start": 135768,
+					"End": 135799
+				},
+				{
+					"Reply": "With what? We don't have a radio. ",
+					"Didascalie": "",
+					"Start": 135944,
+					"End": 135978
+				},
+				{
+					"Reply": "We can't do that. ",
+					"Didascalie": "",
+					"Start": 136243,
+					"End": 136261
+				},
+				{
+					"Reply": "We're not supposed to be involved with Shiites. We killed Iraqi soldiers. We broke the peace- ",
+					"Didascalie": "",
+					"Start": 136406,
+					"End": 136530
+				},
+				{
+					"Reply": "They'd find out, we'd go to jail. ",
+					"Didascalie": "",
+					"Start": 136777,
+					"End": 136811
+				},
+				{
+					"Reply": "You're wrong. ",
+					"Didascalie": "",
+					"Start": 137062,
+					"End": 137076
+				},
+				{
+					"Reply": "We need to find our man. How much do you want to take us there? ",
+					"Didascalie": "",
+					"Start": 137376,
+					"End": 137455
+				},
+				{
+					"Reply": "That's too much. ",
+					"Didascalie": "",
+					"Start": 137584,
+					"End": 137601
+				},
+				{
+					"Reply": "We're gonna need it to buy our way back today, so we better spend it wisely. I'll give you eight. ",
+					"Didascalie": "",
+					"Start": 137733,
+					"End": 137861
+				},
+				{
+					"Reply": "Yeah, we need some guns. ",
+					"Didascalie": "",
+					"Start": 138033,
+					"End": 138058
+				},
+				{
+					"Reply": "Yeah, OK, we need some fighters. ",
+					"Didascalie": "",
+					"Start": 138373,
+					"End": 138406
+				},
+				{
+					"Reply": "Ten. ",
+					"Didascalie": "",
+					"Start": 138574,
+					"End": 138579
+				},
+				{
+					"Reply": "That's four million dollars. ",
+					"Didascalie": "",
+					"Start": 138725,
+					"End": 138754
+				},
+				{
+					"Reply": "Archie Gates. ",
+					"Didascalie": "",
+					"Start": 138973,
+					"End": 138987
+				},
+				{
+					"Reply": "What? ",
+					"Didascalie": "",
+					"Start": 139215,
+					"End": 139221
+				},
+				{
+					"Reply": "We lost a man for you. ",
+					"Didascalie": "",
+					"Start": 139764,
+					"End": 139787
+				},
+				{
+					"Reply": "Who's going? ",
+					"Didascalie": "",
+					"Start": 140343,
+					"End": 140356
+				},
+				{
+					"Reply": "Did we save anything from the Humvee? ",
+					"Didascalie": "",
+					"Start": 145346,
+					"End": 145399
+				},
+				{
+					"Reply": "This is the United States Army. ",
+					"Didascalie": "",
+					"Start": 146940,
+					"End": 146972
+				},
+				{
+					"Reply": "They used a lot of decoys to throw off our bombers. ",
+					"Didascalie": "",
+					"Start": 147554,
+					"End": 147621
+				},
+				{
+					"Reply": "We don't have any food. ",
+					"Didascalie": "",
+					"Start": 149034,
+					"End": 149058
+				},
+				{
+					"Reply": "No, thank you. ",
+					"Didascalie": "",
+					"Start": 149564,
+					"End": 149579
+				},
+				{
+					"Reply": "We need water. ",
+					"Didascalie": "",
+					"Start": 149858,
+					"End": 149873
+				},
+				{
+					"Reply": "Radio? ",
+					"Didascalie": "",
+					"Start": 150026,
+					"End": 150033
+				},
+				{
+					"Reply": "No radio, no water, but yes CNN. ",
+					"Didascalie": "",
+					"Start": 150153,
+					"End": 150186
+				},
+				{
+					"Reply": "Not exactly. ",
+					"Didascalie": "",
+					"Start": 150392,
+					"End": 150405
+				},
+				{
+					"Reply": "Would you explain to these gentlemen that we need a vehicle of some kind? ",
+					"Didascalie": "",
+					"Start": 150584,
+					"End": 150688
+				},
+				{
+					"Reply": "Listen. We use these cars to go fight Saddam soldiers. ",
+					"Didascalie": "",
+					"Start": 151624,
+					"End": 151694
+				},
+				{
+					"Reply": "We are the United States military. ",
+					"Didascalie": "",
+					"Start": 152087,
+					"End": 152122
+				},
+				{
+					"Reply": "We will rise up together. ",
+					"Didascalie": "",
+					"Start": 152735,
+					"End": 152761
+				},
+				{
+					"Reply": "Rise up together. ",
+					"Didascalie": "",
+					"Start": 152875,
+					"End": 152893
+				},
+				{
+					"Reply": "Look at us. Working together. Many races, many nations. Tell him, Doc. ",
+					"Didascalie": "",
+					"Start": 153008,
+					"End": 153094
+				},
+				{
+					"Reply": "United. George Bush wants YOU -- ",
+					"Didascalie": "",
+					"Start": 153254,
+					"End": 153287
+				},
+				{
+					"Reply": "He wants YOU -- ",
+					"Didascalie": "",
+					"Start": 153489,
+					"End": 153505
+				},
+				{
+					"Reply": "Make the fight for freedom on your own. ",
+					"Didascalie": "",
+					"Start": 153668,
+					"End": 153723
+				},
+				{
+					"Reply": "Then America will follow. ",
+					"Didascalie": "",
+					"Start": 154008,
+					"End": 154034
+				},
+				{
+					"Reply": "God bless America, and God bless a free Iraq. ",
+					"Didascalie": "",
+					"Start": 154215,
+					"End": 154276
+				},
+				{
+					"Reply": "What do you say now, my friend? ",
+					"Didascalie": "",
+					"Start": 154362,
+					"End": 154394
+				},
+				{
+					"Reply": "Then I guess we'll have to buy them. ",
+					"Didascalie": "",
+					"Start": 154521,
+					"End": 154573
+				},
+				{
+					"Reply": "We get our man, we come back to pick up the gold -- ",
+					"Didascalie": "",
+					"Start": 155424,
+					"End": 155491
+				},
+				{
+					"Reply": "My gold isn't here, and I mean all of it, your people will not survive. ",
+					"Didascalie": "",
+					"Start": 155606,
+					"End": 155708
+				},
+				{
+					"Reply": "OK. Let's load and go. ",
+					"Didascalie": "",
+					"Start": 155953,
+					"End": 155976
+				},
+				{
+					"Reply": "We're going to drive in and get Troy, exactly like we discussed. ",
+					"Didascalie": "",
+					"Start": 156265,
+					"End": 156345
+				},
+				{
+					"Reply": "You're scared. It's good to be scared when there's guns around. ",
+					"Didascalie": "",
+					"Start": 156509,
+					"End": 156588
+				},
+				{
+					"Reply": "Let's go. ",
+					"Didascalie": "",
+					"Start": 168329,
+					"End": 168339
+				},
+				{
+					"Reply": "Come on. ",
+					"Didascalie": "",
+					"Start": 168615,
+					"End": 168624
+				},
+				{
+					"Reply": "We're gonna get out of here alive, just do what I say, do you hear me? ",
+					"Didascalie": "",
+					"Start": 170310,
+					"End": 170396
+				},
+				{
+					"Reply": "Step, throw, one-two -- I'm gonna give it a five second fuse. That gives you two steps out the door. ",
+					"Didascalie": "",
+					"Start": 170625,
+					"End": 170756
+				},
+				{
+					"Reply": "Wait -- ",
+					"Didascalie": "",
+					"Start": 171046,
+					"End": 171054
+				},
+				{
+					"Reply": "Go. ",
+					"Didascalie": "",
+					"Start": 171606,
+					"End": 171610
+				},
+				{
+					"Reply": "OK.  Shorter fuse this time. ",
+					"Didascalie": "",
+					"Start": 172310,
+					"End": 172339
+				},
+				{
+					"Reply": "We're not done. Check every Iraqi here. ",
+					"Didascalie": "",
+					"Start": 173439,
+					"End": 173494
+				},
+				{
+					"Reply": "Don't let your guard down. ",
+					"Didascalie": "",
+					"Start": 173771,
+					"End": 173798
+				},
+				{
+					"Reply": "Stay there, don't move. ",
+					"Didascalie": "",
+					"Start": 173973,
+					"End": 173997
+				},
+				{
+					"Reply": "It's been a busy day. ",
+					"Didascalie": "",
+					"Start": 174554,
+					"End": 174576
+				},
+				{
+					"Reply": "Keep your fucking guard up. ",
+					"Didascalie": "",
+					"Start": 174841,
+					"End": 174869
+				},
+				{
+					"Reply": "We can talk about cars later, OK? ",
+					"Didascalie": "",
+					"Start": 175324,
+					"End": 175358
+				},
+				{
+					"Reply": "He's with us. ",
+					"Didascalie": "",
+					"Start": 175627,
+					"End": 175641
+				},
+				{
+					"Reply": "He helped us find you. ",
+					"Didascalie": "",
+					"Start": 176016,
+					"End": 176039
+				},
+				{
+					"Reply": "He's a soldier. ",
+					"Didascalie": "",
+					"Start": 177539,
+					"End": 177555
+				},
+				{
+					"Reply": "Cover him. ",
+					"Didascalie": "",
+					"Start": 178576,
+					"End": 178587
+				},
+				{
+					"Reply": "Lock it down. Shoot anything that moves. ",
+					"Didascalie": "",
+					"Start": 178773,
+					"End": 178829
+				},
+				{
+					"Reply": "Goddamn it. ",
+					"Didascalie": "",
+					"Start": 181110,
+					"End": 181122
+				},
+				{
+					"Reply": "I've been waiting 18 years to get that right. ",
+					"Didascalie": "",
+					"Start": 184417,
+					"End": 184478
+				},
+				{
+					"Reply": "We're his family now. ",
+					"Didascalie": "",
+					"Start": 185358,
+					"End": 185380
+				},
+				{
+					"Reply": "Good. Take him. ",
+					"Didascalie": "",
+					"Start": 185653,
+					"End": 185669
+				},
+				{
+					"Reply": "Air pressure will build up about every fifteen minutes. Release the valve, close it up again. ",
+					"Didascalie": "",
+					"Start": 185909,
+					"End": 186033
+				},
+				{
+					"Reply": "Maybe four hours, if you're not bleeding too bad inside. ",
+					"Didascalie": "",
+					"Start": 186297,
+					"End": 186369
+				},
+				{
+					"Reply": " Tar Baby, this is Brer Rabbit, do you read me? ",
+					"Didascalie": "(into the radio)",
+					"Start": 186813,
+					"End": 186891
+				},
+				{
+					"Reply": "No, we're not. ",
+					"Didascalie": "",
+					"Start": 187022,
+					"End": 187037
+				},
+				{
+					"Reply": " Tar Baby, this is Brer Rabbit, are you reading this? ",
+					"Didascalie": "(into the radio)",
+					"Start": 187141,
+					"End": 187225
+				},
+				{
+					"Reply": "Where are you? ",
+					"Didascalie": "",
+					"Start": 187665,
+					"End": 187680
+				},
+				{
+					"Reply": "We're about ready for the briar patch, over. ",
+					"Didascalie": "",
+					"Start": 187855,
+					"End": 187915
+				},
+				{
+					"Reply": "You got me, Tar Baby? ",
+					"Didascalie": "",
+					"Start": 188105,
+					"End": 188127
+				},
+				{
+					"Reply": "You do. ",
+					"Didascalie": "",
+					"Start": 188294,
+					"End": 188302
+				},
+				{
+					"Reply": "No, the other way around. ",
+					"Didascalie": "",
+					"Start": 188517,
+					"End": 188543
+				},
+				{
+					"Reply": "Six personnel trucks and a Humvee. ",
+					"Didascalie": "",
+					"Start": 188823,
+					"End": 188858
+				},
+				{
+					"Reply": "Talk to my friend Hash. Each driver will get 100K. ",
+					"Didascalie": "",
+					"Start": 189029,
+					"End": 189095
+				},
+				{
+					"Reply": "Roger. Brer Rabbit at 239 North. ",
+					"Didascalie": "",
+					"Start": 189215,
+					"End": 189248
+				},
+				{
+					"Reply": "Those better be words of sympathy. ",
+					"Didascalie": "",
+					"Start": 193167,
+					"End": 193202
+				},
+				{
+					"Reply": "Bullion ees buried. I'll show you after we get these people to the border. ",
+					"Didascalie": "",
+					"Start": 194159,
+					"End": 194264
+				},
+				{
+					"Reply": "Part of the deal. ",
+					"Didascalie": "",
+					"Start": 194384,
+					"End": 194402
+				},
+				{
+					"Reply": "It means we gotta move. They might be coming for us. ",
+					"Didascalie": "",
+					"Start": 194691,
+					"End": 194759
+				},
+				{
+					"Reply": "I see an opening we can walk through. But it's not wide enough for a truck. ",
+					"Didascalie": "",
+					"Start": 196658,
+					"End": 196764
+				},
+				{
+					"Reply": "We'll walk them to the border. The Iranians will take them. We'll walk back to the trucks and get out of here. ",
+					"Didascalie": "",
+					"Start": 196879,
+					"End": 197035
+				},
+				{
+					"Reply": "Make a close group. ",
+					"Didascalie": "",
+					"Start": 197624,
+					"End": 197644
+				},
+				{
+					"Reply": "Double time. ",
+					"Didascalie": "",
+					"Start": 199355,
+					"End": 199368
+				},
+				{
+					"Reply": "Let them get over the border. ",
+					"Didascalie": "",
+					"Start": 200512,
+					"End": 200542
+				},
+				{
+					"Reply": "Put his cuffs in front. ",
+					"Didascalie": "",
+					"Start": 200913,
+					"End": 200937
+				},
+				{
+					"Reply": "Goddamn it, Ron, give him medical attention, don't let him die -- ",
+					"Didascalie": "",
+					"Start": 202071,
+					"End": 202152
+				},
+				{
+					"Reply": "Cut his cuffs. ",
+					"Didascalie": "",
+					"Start": 202427,
+					"End": 202442
+				},
+				{
+					"Reply": "We got the gold. ",
+					"Didascalie": "",
+					"Start": 203047,
+					"End": 203064
+				},
+				{
+					"Reply": "We got the Kuwaiti bullion. ",
+					"Didascalie": "",
+					"Start": 203178,
+					"End": 203206
+				},
+				{
+					"Reply": "Pull that barrel. ",
+					"Didascalie": "",
+					"Start": 203449,
+					"End": 203467
+				},
+				{
+					"Reply": "4 tons. ",
+					"Didascalie": "",
+					"Start": 204057,
+					"End": 204065
+				},
+				{
+					"Reply": "They helped us get it, Ron. I made a deal, and that's soldier's honor. You can't fuck them now. ",
+					"Didascalie": "",
+					"Start": 204297,
+					"End": 204423
+				},
+				{
+					"Reply": "You can return this gold, be a big hero, get another star maybe. ",
+					"Didascalie": "",
+					"Start": 204513,
+					"End": 204593
+				}
+			]
+		},
+		{
+			"Character": "HAVICHON",
+			"Replies": [
+				{
+					"Reply": "Ees a great fucking watch. ",
+					"Didascalie": "",
+					"Start": 8645,
+					"End": 8672
+				},
+				{
+					"Reply": "Bon dieu de merde, that's a lot of gold, man. ",
+					"Didascalie": "",
+					"Start": 8932,
+					"End": 8993
+				},
+				{
+					"Reply": "Like one sowsan bunker out sair -- ",
+					"Didascalie": "",
+					"Start": 9362,
+					"End": 9397
+				},
+				{
+					"Reply": "Quelle gonzesse, Archie, you got yourself shot. ",
+					"Didascalie": "",
+					"Start": 193050,
+					"End": 193113
+				},
+				{
+					"Reply": "Where ees bullion at, my man? ",
+					"Didascalie": "",
+					"Start": 194075,
+					"End": 194105
+				},
+				{
+					"Reply": "Iranian border? ",
+					"Didascalie": "",
+					"Start": 194314,
+					"End": 194330
+				},
+				{
+					"Reply": "C'est super, Archie, you got yourself a pain in the ass mission of mercy. ",
+					"Didascalie": "",
+					"Start": 194452,
+					"End": 194556
+				},
+				{
+					"Reply": "What are you seenking? ",
+					"Didascalie": "",
+					"Start": 196581,
+					"End": 196604
+				}
+			]
+		},
+		{
+			"Character": "SOLDIERS",
+			"Replies": [
+				{
+					"Reply": "'I'd thank my lucky stars to -- ",
+					"Didascalie": "",
+					"Start": 13139,
+					"End": 13171
+				}
+			]
+		},
+		{
+			"Character": "TRANSLATOR",
+			"Replies": [
+				{
+					"Reply": "Hasnala shi aluno quibaan -- ",
+					"Didascalie": "",
+					"Start": 15661,
+					"End": 15690
+				}
+			]
+		},
+		{
+			"Character": "FIVE IRAQIS",
+			"Replies": [
+				{
+					"Reply": "on their knees, plead for mercy in Arabic as they disrobe. ",
+					"Didascalie": "",
+					"Start": 15910,
+					"End": 15969
+				}
+			]
+		},
+		{
+			"Character": "WALTER",
+			"Replies": [
+				{
+					"Reply": "Do you think he ate it? ",
+					"Didascalie": "",
+					"Start": 17765,
+					"End": 17789
+				},
+				{
+					"Reply": "I never got to use night vision. ",
+					"Didascalie": "",
+					"Start": 26827,
+					"End": 26860
+				},
+				{
+					"Reply": "This tent is restricted -- ",
+					"Didascalie": "",
+					"Start": 30287,
+					"End": 30314
+				},
+				{
+					"Reply": "May day, may day -- ",
+					"Didascalie": "",
+					"Start": 30444,
+					"End": 30464
+				},
+				{
+					"Reply": "Damn. Freeze. Do not pass. Hold it, freeze. Stop. Freeze. ",
+					"Didascalie": "",
+					"Start": 32305,
+					"End": 32378
+				},
+				{
+					"Reply": "How am I gonna get out of the company? ",
+					"Didascalie": "",
+					"Start": 39340,
+					"End": 39394
+				},
+				{
+					"Reply": "How about rare pelican migration out by the marshes? ",
+					"Didascalie": "",
+					"Start": 58187,
+					"End": 58255
+				},
+				{
+					"Reply": "These brave pelicans are migrating in spite of massive pollution -- ",
+					"Didascalie": "",
+					"Start": 58364,
+					"End": 58447
+				},
+				{
+					"Reply": "Pelicans. ",
+					"Didascalie": "",
+					"Start": 63769,
+					"End": 63779
+				},
+				{
+					"Reply": "I thought the gold was the hot spot. ",
+					"Didascalie": "",
+					"Start": 64286,
+					"End": 64338
+				},
+				{
+					"Reply": "Military regulations, you cannot drive. ",
+					"Didascalie": "",
+					"Start": 64500,
+					"End": 64555
+				},
+				{
+					"Reply": "Get off the vehicle, sir. ",
+					"Didascalie": "",
+					"Start": 64706,
+					"End": 64732
+				},
+				{
+					"Reply": "Don't make me shoot you, sir. ",
+					"Didascalie": "",
+					"Start": 64812,
+					"End": 64842
+				},
+				{
+					"Reply": "I don't like this, we gotta go-- ",
+					"Didascalie": "",
+					"Start": 111611,
+					"End": 111644
+				},
+				{
+					"Reply": "Hey. ",
+					"Didascalie": "",
+					"Start": 111743,
+					"End": 111748
+				},
+				{
+					"Reply": "Could I have my helmet, please? ",
+					"Didascalie": "",
+					"Start": 120304,
+					"End": 120336
+				},
+				{
+					"Reply": "Helmet. On my head. ",
+					"Didascalie": "",
+					"Start": 120415,
+					"End": 120435
+				},
+				{
+					"Reply": " This is Tar Baby, come in. ",
+					"Didascalie": "(into radio)",
+					"Start": 187561,
+					"End": 187604
+				},
+				{
+					"Reply": " About two clicks outside camp. ",
+					"Didascalie": "(into radio)",
+					"Start": 187747,
+					"End": 187794
+				},
+				{
+					"Reply": " Right. ",
+					"Didascalie": "(into the radio)",
+					"Start": 187986,
+					"End": 188009
+				},
+				{
+					"Reply": "I think so -- who handles the briar patch? ",
+					"Didascalie": "",
+					"Start": 188175,
+					"End": 188233
+				},
+				{
+					"Reply": "Oh, OK, and the Tar Baby goes to the briar patch if everything's OK, right? ",
+					"Didascalie": "",
+					"Start": 188350,
+					"End": 188456
+				},
+				{
+					"Reply": "Shit, I'm sorry, sir, I don't remember how the code goes -- ",
+					"Didascalie": "",
+					"Start": 188591,
+					"End": 188666
+				},
+				{
+					"Reply": "Wow. That's a tall order for a secret operation, sir. ",
+					"Didascalie": "",
+					"Start": 188906,
+					"End": 188975
+				},
+				{
+					"Reply": "Did you say 100K? ",
+					"Didascalie": "",
+					"Start": 189143,
+					"End": 189161
+				},
+				{
+					"Reply": "Roger. Give me two hours. ",
+					"Didascalie": "",
+					"Start": 189384,
+					"End": 189410
+				},
+				{
+					"Reply": "Watcha doing out here, Troy? ",
+					"Didascalie": "",
+					"Start": 193470,
+					"End": 193499
+				},
+				{
+					"Reply": "We better get you fixed up to go home to the land of the brave. ",
+					"Didascalie": "",
+					"Start": 193713,
+					"End": 193792
+				},
+				{
+					"Reply": "Sorry I fucked up the code, sir. ",
+					"Didascalie": "",
+					"Start": 194604,
+					"End": 194637
+				}
+			]
+		},
+		{
+			"Character": "IRAQI OFFICER",
+			"Replies": [
+				{
+					"Reply": "Hasa man timal! ",
+					"Didascalie": "",
+					"Start": 18078,
+					"End": 18094
+				}
+			]
+		},
+		{
+			"Character": "CLOSE UP - THE RUMPLED PAPER",
+			"Replies": [
+				{
+					"Reply": "is a handwritten map, with scant Arabic writing, a few spare roads, numbers, and three small boxes. ",
+					"Didascalie": "",
+					"Start": 18745,
+					"End": 18850
+				}
+			]
+		},
+		{
+			"Character": "CATHY DAITCH",
+			"Replies": [
+				{
+					"Reply": "You are a trained warrior, trained warrior, trained warrior, Jesus Christ, Colonel! ",
+					"Didascalie": "",
+					"Start": 19304,
+					"End": 19418
+				},
+				{
+					"Reply": " What's Bill got? ",
+					"Didascalie": "(breathless)",
+					"Start": 19676,
+					"End": 19709
+				},
+				{
+					"Reply": "That's it? ",
+					"Didascalie": "",
+					"Start": 19845,
+					"End": 19856
+				},
+				{
+					"Reply": "It could be another bullshit lead but I need you to help me find a guy who might have something on the gold -- ",
+					"Didascalie": "",
+					"Start": 20084,
+					"End": 20240
+				},
+				{
+					"Reply": "Got a map out of a prisoner's head. ",
+					"Didascalie": "",
+					"Start": 20532,
+					"End": 20568
+				},
+				{
+					"Reply": "Or his ear, or his ass, or his dick, and they got like a fifty page full-color mini atlas of Saddam's bunkers -- ",
+					"Didascalie": "",
+					"Start": 20702,
+					"End": 20860
+				},
+				{
+					"Reply": "Very dashing. ",
+					"Didascalie": "",
+					"Start": 40568,
+					"End": 40582
+				},
+				{
+					"Reply": "Would you ever stand like that? ",
+					"Didascalie": "",
+					"Start": 40719,
+					"End": 40751
+				},
+				{
+					"Reply": "You'll get used to it. First question: did you dream as a boy you'd be commanding an infantry company in a desert war? ",
+					"Didascalie": "",
+					"Start": 40963,
+					"End": 41127
+				},
+				{
+					"Reply": "I say we keep watching the General. ",
+					"Didascalie": "",
+					"Start": 191686,
+					"End": 191722
+				},
+				{
+					"Reply": "--in violation of American policy, saved over a hundred Shiite refugees while recovering stolen Kuwaiti gold -- ",
+					"Didascalie": "",
+					"Start": 205975,
+					"End": 206132
+				},
+				{
+					"Reply": "I'm gonna get that tape back. ",
+					"Didascalie": "",
+					"Start": 207020,
+					"End": 207050
+				}
+			]
+		},
+		{
+			"Character": "GENERAL PYE",
+			"Replies": [
+				{
+					"Reply": "This is not the way we service the media, Major. Stop her -- ",
+					"Didascalie": "",
+					"Start": 21249,
+					"End": 21325
+				},
+				{
+					"Reply": "We're handling this, OK? ",
+					"Didascalie": "",
+					"Start": 21841,
+					"End": 21866
+				},
+				{
+					"Reply": "I give you a prestige job in the media war of the century and the guy feels neglected. ",
+					"Didascalie": "",
+					"Start": 22221,
+					"End": 22338
+				},
+				{
+					"Reply": "You want us to kill more Americans to occupy Iraq? ",
+					"Didascalie": "",
+					"Start": 23240,
+					"End": 23306
+				},
+				{
+					"Reply": "Just take care of Smithson and maybe he'll hook you up to consult on movies. ",
+					"Didascalie": "",
+					"Start": 23777,
+					"End": 23884
+				}
+			]
+		},
+		{
+			"Character": "MP",
+			"Replies": [
+				{
+					"Reply": "You are in violation of code 37D, grinding Major Gates. ",
+					"Didascalie": "",
+					"Start": 21433,
+					"End": 21504
+				}
+			]
+		},
+		{
+			"Character": "GENERAL HORN",
+			"Replies": [
+				{
+					"Reply": "They made me a general, pal. ",
+					"Didascalie": "",
+					"Start": 22677,
+					"End": 22706
+				},
+				{
+					"Reply": "Are you high? This is a huge win for us. ",
+					"Didascalie": "",
+					"Start": 23014,
+					"End": 23070
+				},
+				{
+					"Reply": "What the fuck is ironic? ",
+					"Didascalie": "",
+					"Start": 23470,
+					"End": 23495
+				},
+				{
+					"Reply": "It's either that or be a security guard when you retire. ",
+					"Didascalie": "",
+					"Start": 23938,
+					"End": 24010
+				},
+				{
+					"Reply": "I'm a general now, you can't say fuck you to me. ",
+					"Didascalie": "",
+					"Start": 24133,
+					"End": 24197
+				},
+				{
+					"Reply": "Go right ahead, Colonel. ",
+					"Didascalie": "",
+					"Start": 24391,
+					"End": 24416
+				},
+				{
+					"Reply": "Doug? ",
+					"Didascalie": "",
+					"Start": 65264,
+					"End": 65270
+				},
+				{
+					"Reply": "What the fuck are you doing? ",
+					"Didascalie": "",
+					"Start": 65397,
+					"End": 65426
+				},
+				{
+					"Reply": "Do you have authorization? ",
+					"Didascalie": "",
+					"Start": 65592,
+					"End": 65619
+				},
+				{
+					"Reply": "No. ",
+					"Didascalie": "",
+					"Start": 65765,
+					"End": 65769
+				},
+				{
+					"Reply": "Who gave you this? ",
+					"Didascalie": "",
+					"Start": 65886,
+					"End": 65905
+				},
+				{
+					"Reply": "Archie Gates gave you this? Jesus Christ, Doug, come with me. ",
+					"Didascalie": "",
+					"Start": 66031,
+					"End": 66108
+				},
+				{
+					"Reply": "No, you don't get to do the interview. ",
+					"Didascalie": "",
+					"Start": 66254,
+					"End": 66308
+				},
+				{
+					"Reply": "Who's missing? ",
+					"Didascalie": "",
+					"Start": 120602,
+					"End": 120617
+				},
+				{
+					"Reply": "You don't know where one of your own fucking aides is? ",
+					"Didascalie": "",
+					"Start": 120866,
+					"End": 120936
+				},
+				{
+					"Reply": "Check all the radio transmissions. ",
+					"Didascalie": "",
+					"Start": 121115,
+					"End": 121150
+				},
+				{
+					"Reply": "I'm not breaking your balls, Doug, I want to find these guys. ",
+					"Didascalie": "",
+					"Start": 121328,
+					"End": 121405
+				},
+				{
+					"Reply": "Narrow it down to what sounds like Archie Gates and a Humvee. ",
+					"Didascalie": "",
+					"Start": 190833,
+					"End": 190910
+				},
+				{
+					"Reply": "I want a direction, we're not gonna comb the whole goddamn desert -- ",
+					"Didascalie": "",
+					"Start": 191085,
+					"End": 191184
+				},
+				{
+					"Reply": " Fort Bragg? I'll be damned. ",
+					"Didascalie": "(reads)",
+					"Start": 191439,
+					"End": 191483
+				},
+				{
+					"Reply": "We are not involved in the Shiite problem, do you understand me? You are AWOL, you are a fugitive, you are under arrest. ",
+					"Didascalie": "",
+					"Start": 202207,
+					"End": 202373
+				},
+				{
+					"Reply": "What? ",
+					"Didascalie": "",
+					"Start": 203118,
+					"End": 203124
+				},
+				{
+					"Reply": "Bullshit. ",
+					"Didascalie": "",
+					"Start": 203260,
+					"End": 203270
+				},
+				{
+					"Reply": "Pull it. ",
+					"Didascalie": "",
+					"Start": 203521,
+					"End": 203530
+				},
+				{
+					"Reply": "How much do you have? ",
+					"Didascalie": "",
+					"Start": 203981,
+					"End": 204003
+				},
+				{
+					"Reply": "Where's it at? ",
+					"Didascalie": "",
+					"Start": 204161,
+					"End": 204176
+				},
+				{
+					"Reply": "Let's go, Doug. ",
+					"Didascalie": "",
+					"Start": 204824,
+					"End": 204840
+				},
+				{
+					"Reply": "Who's in charge here? ",
+					"Didascalie": "",
+					"Start": 205208,
+					"End": 205230
+				},
+				{
+					"Reply": "We have to talk about this situation. ",
+					"Didascalie": "",
+					"Start": 205340,
+					"End": 205393
+				},
+				{
+					"Reply": "Turn that damn camera off. ",
+					"Didascalie": "",
+					"Start": 206186,
+					"End": 206213
+				},
+				{
+					"Reply": "What the fuck are they doing here? ",
+					"Didascalie": "",
+					"Start": 206482,
+					"End": 206517
+				},
+				{
+					"Reply": "They are not fucking authorized, for Christ's sake -- ",
+					"Didascalie": "",
+					"Start": 206655,
+					"End": 206724
+				},
+				{
+					"Reply": "Haven't I taken care of you, dammit? ",
+					"Didascalie": "",
+					"Start": 206821,
+					"End": 206873
+				},
+				{
+					"Reply": "You are under arrest. You are going to be court-martialed. And you will show us where the bullion is right now. ",
+					"Didascalie": "",
+					"Start": 207160,
+					"End": 207317
+				}
+			]
+		},
+		{
+			"Character": "DOC",
+			"Replies": [
+				{
+					"Reply": "Why do you let this cracker follow you around? ",
+					"Didascalie": "",
+					"Start": 24988,
+					"End": 25050
+				},
+				{
+					"Reply": "He's a wall-eyed cracker. ",
+					"Didascalie": "",
+					"Start": 25158,
+					"End": 25184
+				},
+				{
+					"Reply": "I don't give a shit if he's from Johannesburg. I don't want to hear dune koon or sand nigger from him or anybody. ",
+					"Didascalie": "",
+					"Start": 25357,
+					"End": 25516
+				},
+				{
+					"Reply": "Exactly. ",
+					"Didascalie": "",
+					"Start": 25794,
+					"End": 25803
+				},
+				{
+					"Reply": "What can I do for your headache? ",
+					"Didascalie": "",
+					"Start": 25956,
+					"End": 25989
+				},
+				{
+					"Reply": "All gone. How about Caffergot? ",
+					"Didascalie": "",
+					"Start": 26148,
+					"End": 26179
+				},
+				{
+					"Reply": "We're cool for at least three hours, but keep Walter on the door. ",
+					"Didascalie": "",
+					"Start": 26533,
+					"End": 26614
+				},
+				{
+					"Reply": "These are definitely Saddam's bunkers near Karbala. ",
+					"Didascalie": "",
+					"Start": 27121,
+					"End": 27188
+				},
+				{
+					"Reply": "According to Intelligence -- ",
+					"Didascalie": "",
+					"Start": 27294,
+					"End": 27323
+				},
+				{
+					"Reply": "Lexus doesn't make a convertible. ",
+					"Didascalie": "",
+					"Start": 27734,
+					"End": 27768
+				},
+				{
+					"Reply": "Infiniti has one coming. ",
+					"Didascalie": "",
+					"Start": 27873,
+					"End": 27898
+				},
+				{
+					"Reply": "You can't get a car home from here anyway. ",
+					"Didascalie": "",
+					"Start": 28003,
+					"End": 28061
+				},
+				{
+					"Reply": "What risk? We already did the risk. I signed up last year to bank some computer training-- ",
+					"Didascalie": "",
+					"Start": 28449,
+					"End": 28570
+				},
+				{
+					"Reply": "Next thing I know I'm sitting here waiting to get hit by a Scud. I put my life on the line for what purpose I'm not sure, and now the good Lord puts this map in my path -- ",
+					"Didascalie": "",
+					"Start": 28679,
+					"End": 28926
+				},
+				{
+					"Reply": "You're safe with me. ",
+					"Didascalie": "",
+					"Start": 29117,
+					"End": 29138
+				},
+				{
+					"Reply": "I don't talk about it. But I do have a ring of Jesus fire. ",
+					"Didascalie": "",
+					"Start": 29290,
+					"End": 29364
+				},
+				{
+					"Reply": "I was fire baptized. ",
+					"Didascalie": "",
+					"Start": 29486,
+					"End": 29507
+				},
+				{
+					"Reply": "I'm fire baptized. ",
+					"Didascalie": "",
+					"Start": 29622,
+					"End": 29641
+				},
+				{
+					"Reply": "For those who understand, no explanation is necessary; for those who don't, no explanation will suffice. You can benefit from my Jesus ring if you do right by me, you got that? ",
+					"Didascalie": "",
+					"Start": 29791,
+					"End": 30043
+				},
+				{
+					"Reply": "Yes, sir, I mean, no, sir. ",
+					"Didascalie": "",
+					"Start": 30810,
+					"End": 30837
+				},
+				{
+					"Reply": "He's not in this division. He's Special Forces. ",
+					"Didascalie": "",
+					"Start": 31613,
+					"End": 31676
+				},
+				{
+					"Reply": "He's the guy taking Bill Smithson around. ",
+					"Didascalie": "",
+					"Start": 31755,
+					"End": 31812
+				},
+				{
+					"Reply": "Seventy-five klicks north. ",
+					"Didascalie": "",
+					"Start": 34506,
+					"End": 34533
+				},
+				{
+					"Reply": "What gold? ",
+					"Didascalie": "",
+					"Start": 35434,
+					"End": 35445
+				},
+				{
+					"Reply": "What about Iraqi soldiers? ",
+					"Didascalie": "",
+					"Start": 38227,
+					"End": 38254
+				},
+				{
+					"Reply": "Pull. ",
+					"Didascalie": "",
+					"Start": 41489,
+					"End": 41495
+				},
+				{
+					"Reply": "Pull. ",
+					"Didascalie": "",
+					"Start": 41960,
+					"End": 41966
+				},
+				{
+					"Reply": "What are you talking about? ",
+					"Didascalie": "",
+					"Start": 42316,
+					"End": 42344
+				},
+				{
+					"Reply": "Bullshit. ",
+					"Didascalie": "",
+					"Start": 42515,
+					"End": 42525
+				},
+				{
+					"Reply": "Warren Moon is an excellent quarterback. ",
+					"Didascalie": "",
+					"Start": 42757,
+					"End": 42813
+				},
+				{
+					"Reply": "Randall Cunningham. ",
+					"Didascalie": "",
+					"Start": 42967,
+					"End": 42987
+				},
+				{
+					"Reply": "Doug Williams took the Redskins to the Superbowl and won, OK? ",
+					"Didascalie": "",
+					"Start": 43288,
+					"End": 43365
+				},
+				{
+					"Reply": "Hit it, you sorry-assed cracker -- ",
+					"Didascalie": "",
+					"Start": 43608,
+					"End": 43643
+				},
+				{
+					"Reply": "It's all cow, I think. ",
+					"Didascalie": "",
+					"Start": 46387,
+					"End": 46410
+				},
+				{
+					"Reply": "They said this was swept for mines. ",
+					"Didascalie": "",
+					"Start": 46561,
+					"End": 46597
+				},
+				{
+					"Reply": "Infection of the blood. ",
+					"Didascalie": "",
+					"Start": 47417,
+					"End": 47441
+				},
+				{
+					"Reply": "I heard something about that -- ",
+					"Didascalie": "",
+					"Start": 48370,
+					"End": 48402
+				},
+				{
+					"Reply": "That's not fatal, they can stop it. ",
+					"Didascalie": "",
+					"Start": 49148,
+					"End": 49184
+				},
+				{
+					"Reply": "The goddamn Beach Boys. ",
+					"Didascalie": "",
+					"Start": 49598,
+					"End": 49622
+				},
+				{
+					"Reply": "Let him go. ",
+					"Didascalie": "",
+					"Start": 53824,
+					"End": 53836
+				},
+				{
+					"Reply": "Kill him. ",
+					"Didascalie": "",
+					"Start": 54811,
+					"End": 54821
+				},
+				{
+					"Reply": "I'm all right, I'm cool. ",
+					"Didascalie": "",
+					"Start": 58693,
+					"End": 58718
+				},
+				{
+					"Reply": "They already surrendered to us. ",
+					"Didascalie": "",
+					"Start": 60145,
+					"End": 60177
+				},
+				{
+					"Reply": "Money. ",
+					"Didascalie": "",
+					"Start": 62075,
+					"End": 62082
+				},
+				{
+					"Reply": "What's the most important thing? ",
+					"Didascalie": "",
+					"Start": 62271,
+					"End": 62304
+				},
+				{
+					"Reply": "Let's do it. ",
+					"Didascalie": "",
+					"Start": 63140,
+					"End": 63153
+				},
+				{
+					"Reply": "Put it down. ",
+					"Didascalie": "",
+					"Start": 67139,
+					"End": 67152
+				},
+				{
+					"Reply": "Sorry about that. ",
+					"Didascalie": "",
+					"Start": 69580,
+					"End": 69598
+				},
+				{
+					"Reply": "Hey -- ",
+					"Didascalie": "",
+					"Start": 70512,
+					"End": 70519
+				},
+				{
+					"Reply": "Why? ",
+					"Didascalie": "",
+					"Start": 77052,
+					"End": 77057
+				},
+				{
+					"Reply": "Times 50K each -- ",
+					"Didascalie": "",
+					"Start": 77984,
+					"End": 78002
+				},
+				{
+					"Reply": "I told you Lexus doesn't make a convertible. ",
+					"Didascalie": "",
+					"Start": 78834,
+					"End": 78894
+				},
+				{
+					"Reply": "OK, you're on for a Lexus, but it won't be a convertible. ",
+					"Didascalie": "",
+					"Start": 79015,
+					"End": 79088
+				},
+				{
+					"Reply": "The tensilary strength goes to 200 pounds. ",
+					"Didascalie": "",
+					"Start": 79531,
+					"End": 79589
+				},
+				{
+					"Reply": "Tensilary strength, it's what the suitcase can hold. ",
+					"Didascalie": "",
+					"Start": 79690,
+					"End": 79758
+				},
+				{
+					"Reply": "60 bars, 13 pounds each is like -- ",
+					"Didascalie": "",
+					"Start": 79952,
+					"End": 79987
+				},
+				{
+					"Reply": "Yeah, tell us now. ",
+					"Didascalie": "",
+					"Start": 80985,
+					"End": 81004
+				},
+				{
+					"Reply": "We can help them first, then be on our way. ",
+					"Didascalie": "",
+					"Start": 89658,
+					"End": 89717
+				},
+				{
+					"Reply": "Down. ",
+					"Didascalie": "",
+					"Start": 97725,
+					"End": 97731
+				},
+				{
+					"Reply": "What if that was you? ",
+					"Didascalie": "",
+					"Start": 98665,
+					"End": 98687
+				},
+				{
+					"Reply": "Lining us up -- ",
+					"Didascalie": "",
+					"Start": 100755,
+					"End": 100771
+				},
+				{
+					"Reply": "Incoming. ",
+					"Didascalie": "",
+					"Start": 101908,
+					"End": 101918
+				},
+				{
+					"Reply": "Gas. ",
+					"Didascalie": "",
+					"Start": 102710,
+					"End": 102715
+				},
+				{
+					"Reply": "Cover your face, Conrad. Cover your mouth, man. ",
+					"Didascalie": "",
+					"Start": 104886,
+					"End": 104949
+				},
+				{
+					"Reply": "Is it mustard? ",
+					"Didascalie": "",
+					"Start": 105814,
+					"End": 105829
+				},
+				{
+					"Reply": "What's that? ",
+					"Didascalie": "",
+					"Start": 105938,
+					"End": 105951
+				},
+				{
+					"Reply": "I don't know. ",
+					"Didascalie": "",
+					"Start": 106122,
+					"End": 106136
+				},
+				{
+					"Reply": "I can't even see the truck. ",
+					"Didascalie": "",
+					"Start": 107279,
+					"End": 107307
+				},
+				{
+					"Reply": "Get in the tunnel. ",
+					"Didascalie": "",
+					"Start": 108252,
+					"End": 108271
+				},
+				{
+					"Reply": "You're gonna die. ",
+					"Didascalie": "",
+					"Start": 108418,
+					"End": 108436
+				},
+				{
+					"Reply": "I'm OK. I'm cool. I'm a survivor. ",
+					"Didascalie": "",
+					"Start": 130198,
+					"End": 130232
+				},
+				{
+					"Reply": "That's not how it works. ",
+					"Didascalie": "",
+					"Start": 131463,
+					"End": 131488
+				},
+				{
+					"Reply": "I take care of what Jesus puts in front of me. That's what we did with the gold. ",
+					"Didascalie": "",
+					"Start": 131596,
+					"End": 131707
+				},
+				{
+					"Reply": "I'm gonna see. ",
+					"Didascalie": "",
+					"Start": 131813,
+					"End": 131828
+				},
+				{
+					"Reply": "We're missing 28. ",
+					"Didascalie": "",
+					"Start": 132343,
+					"End": 132361
+				},
+				{
+					"Reply": "What about the gold? ",
+					"Didascalie": "",
+					"Start": 132948,
+					"End": 132969
+				},
+				{
+					"Reply": "I'm in. ",
+					"Didascalie": "",
+					"Start": 133311,
+					"End": 133319
+				},
+				{
+					"Reply": "How -- is -- your -- little girl? ",
+					"Didascalie": "",
+					"Start": 133727,
+					"End": 133776
+				},
+				{
+					"Reply": "Business school, Conrad. ",
+					"Didascalie": "",
+					"Start": 134325,
+					"End": 134350
+				},
+				{
+					"Reply": "Where's that? ",
+					"Didascalie": "",
+					"Start": 135470,
+					"End": 135484
+				},
+				{
+					"Reply": "We can't go to the Iranian border. ",
+					"Didascalie": "",
+					"Start": 139396,
+					"End": 139431
+				},
+				{
+					"Reply": "We saved your life. ",
+					"Didascalie": "",
+					"Start": 139624,
+					"End": 139644
+				},
+				{
+					"Reply": "Somebody else will take us. ",
+					"Didascalie": "",
+					"Start": 140681,
+					"End": 140709
+				},
+				{
+					"Reply": "Who will take us to Oasis bunker? ",
+					"Didascalie": "",
+					"Start": 140810,
+					"End": 140844
+				},
+				{
+					"Reply": "This bag. ",
+					"Didascalie": "",
+					"Start": 145444,
+					"End": 145454
+				},
+				{
+					"Reply": "It's not the same name. ",
+					"Didascalie": "",
+					"Start": 146371,
+					"End": 146395
+				},
+				{
+					"Reply": "Where are we gonna get a vehicle? ",
+					"Didascalie": "",
+					"Start": 147666,
+					"End": 147700
+				},
+				{
+					"Reply": "Where'd you get these animals from? ",
+					"Didascalie": "",
+					"Start": 149103,
+					"End": 149139
+				},
+				{
+					"Reply": "I'm getting really dizzy, man. ",
+					"Didascalie": "",
+					"Start": 149727,
+					"End": 149758
+				},
+				{
+					"Reply": "Could I ask a question? ",
+					"Didascalie": "",
+					"Start": 151193,
+					"End": 151217
+				},
+				{
+					"Reply": "Does Lexus make this model? ",
+					"Didascalie": "",
+					"Start": 151301,
+					"End": 151329
+				},
+				{
+					"Reply": "Exactly what I said. ",
+					"Didascalie": "",
+					"Start": 151549,
+					"End": 151570
+				},
+				{
+					"Reply": "What's so funny? ",
+					"Didascalie": "",
+					"Start": 151789,
+					"End": 151806
+				},
+				{
+					"Reply": "What do you mean, cannot take? We kicked Saddam's ass. We definitely take. ",
+					"Didascalie": "",
+					"Start": 151928,
+					"End": 152033
+				},
+				{
+					"Reply": "We are united. ",
+					"Didascalie": "",
+					"Start": 153139,
+					"End": 153154
+				},
+				{
+					"Reply": "To stand up for yourself. ",
+					"Didascalie": "",
+					"Start": 153332,
+					"End": 153358
+				},
+				{
+					"Reply": "You. ",
+					"Didascalie": "",
+					"Start": 153550,
+					"End": 153555
+				},
+				{
+					"Reply": "Oh, yes, you can. ",
+					"Didascalie": "",
+					"Start": 153768,
+					"End": 153786
+				},
+				{
+					"Reply": "Jahal yaqat, brothers. ",
+					"Didascalie": "",
+					"Start": 154138,
+					"End": 154161
+				},
+				{
+					"Reply": "I already had it with the Beach Boys today. ",
+					"Didascalie": "",
+					"Start": 154851,
+					"End": 154910
+				},
+				{
+					"Reply": "I'm cool. I'm all right. ",
+					"Didascalie": "",
+					"Start": 156824,
+					"End": 156849
+				},
+				{
+					"Reply": "Stop shooting, what's the matter with you? ",
+					"Didascalie": "",
+					"Start": 164286,
+					"End": 164344
+				},
+				{
+					"Reply": "We got the Rolls. ",
+					"Didascalie": "",
+					"Start": 174249,
+					"End": 174267
+				},
+				{
+					"Reply": "I think he's in shock. ",
+					"Didascalie": "",
+					"Start": 174986,
+					"End": 175009
+				},
+				{
+					"Reply": "Yes. ",
+					"Didascalie": "",
+					"Start": 175162,
+					"End": 175167
+				},
+				{
+					"Reply": "Calm down, man. ",
+					"Didascalie": "",
+					"Start": 176416,
+					"End": 176432
+				},
+				{
+					"Reply": "I'm not sure how. This is a lot of people. ",
+					"Didascalie": "",
+					"Start": 176863,
+					"End": 176921
+				},
+				{
+					"Reply": "Take it easy, man. ",
+					"Didascalie": "",
+					"Start": 177132,
+					"End": 177151
+				},
+				{
+					"Reply": "It's around you right now, man, it works on this side or the other side. ",
+					"Didascalie": "",
+					"Start": 179526,
+					"End": 179629
+				},
+				{
+					"Reply": "Dear Lord watch over this man, help him if you can. Our father who art in heaven -- ",
+					"Didascalie": "",
+					"Start": 180278,
+					"End": 180392
+				},
+				{
+					"Reply": "-- hallowed be thy name, thy kingdom come, thy will be done -- ",
+					"Didascalie": "",
+					"Start": 180636,
+					"End": 180714
+				},
+				{
+					"Reply": "He wanted to go to one of those shrines. ",
+					"Didascalie": "",
+					"Start": 185425,
+					"End": 185481
+				},
+				{
+					"Reply": "There's no water anywhere. ",
+					"Didascalie": "",
+					"Start": 186480,
+					"End": 186507
+				},
+				{
+					"Reply": "We're gonna be court-martialed. ",
+					"Didascalie": "",
+					"Start": 186936,
+					"End": 186968
+				},
+				{
+					"Reply": "Let the air out. ",
+					"Didascalie": "",
+					"Start": 198464,
+					"End": 198481
+				},
+				{
+					"Reply": "Stay back. ",
+					"Didascalie": "",
+					"Start": 198632,
+					"End": 198643
+				},
+				{
+					"Reply": "He's gonna die. ",
+					"Didascalie": "",
+					"Start": 201893,
+					"End": 201909
+				}
+			]
+		},
+		{
+			"Character": "IRAQI MOTHER",
+			"Replies": [
+				{
+					"Reply": "No milk. Baby milk. ",
+					"Didascalie": "",
+					"Start": 51937,
+					"End": 51957
+				}
+			]
+		},
+		{
+			"Character": "FRIENDLY IRAQI",
+			"Replies": [
+				{
+					"Reply": "I am love United States of Freedom. I am hate Saddam. ",
+					"Didascalie": "",
+					"Start": 53494,
+					"End": 53563
+				},
+				{
+					"Reply": "No problem, my friend. ",
+					"Didascalie": "",
+					"Start": 53937,
+					"End": 53960
+				},
+				{
+					"Reply": "You look for the chemical weapon? ",
+					"Didascalie": "",
+					"Start": 54318,
+					"End": 54352
+				},
+				{
+					"Reply": "They move the gold. ",
+					"Didascalie": "",
+					"Start": 54656,
+					"End": 54676
+				},
+				{
+					"Reply": " This bunker. I'll take you. ",
+					"Didascalie": "(points to map)",
+					"Start": 55147,
+					"End": 55191
+				},
+				{
+					"Reply": "No radio. ",
+					"Didascalie": "",
+					"Start": 150089,
+					"End": 150099
+				},
+				{
+					"Reply": "Cannot give car. ",
+					"Didascalie": "",
+					"Start": 154450,
+					"End": 154467
+				}
+			]
+		},
+		{
+			"Character": "CHILD",
+			"Replies": [
+				{
+					"Reply": "Ma-Maa. ",
+					"Didascalie": "",
+					"Start": 55477,
+					"End": 55485
+				}
+			]
+		},
+		{
+			"Character": "ARMED IRAQI SOLDIER",
+			"Replies": [
+				{
+					"Reply": "Ganan azwar! ",
+					"Didascalie": "",
+					"Start": 55778,
+					"End": 55791
+				}
+			]
+		},
+		{
+			"Character": "SHIITE WOMAN",
+			"Replies": [
+				{
+					"Reply": "Hos-pital. ",
+					"Didascalie": "",
+					"Start": 57021,
+					"End": 57032
+				}
+			]
+		},
+		{
+			"Character": "SHIITE MAN",
+			"Replies": [
+				{
+					"Reply": "America help. ",
+					"Didascalie": "",
+					"Start": 57197,
+					"End": 57211
+				}
+			]
+		},
+		{
+			"Character": "IRAQI RIFLE-LOADER",
+			"Replies": [
+				{
+					"Reply": "Isnam panan fatwa aznir -- ",
+					"Didascalie": "",
+					"Start": 69107,
+					"End": 69134
+				}
+			]
+		},
+		{
+			"Character": "IRAQI CAPTAIN",
+			"Replies": [
+				{
+					"Reply": "For wife. ",
+					"Didascalie": "",
+					"Start": 69711,
+					"End": 69721
+				},
+				{
+					"Reply": "It's my ass, donkey dick, Saddam will shoot me dead. ",
+					"Didascalie": "",
+					"Start": 74241,
+					"End": 74309
+				},
+				{
+					"Reply": "It's Saddam's gold. ",
+					"Didascalie": "",
+					"Start": 76109,
+					"End": 76129
+				},
+				{
+					"Reply": "You better not let that fucking reporter see you doing this. ",
+					"Didascalie": "",
+					"Start": 119706,
+					"End": 119782
+				},
+				{
+					"Reply": "Wow. He's much shorter in person. ",
+					"Didascalie": "",
+					"Start": 119918,
+					"End": 119952
+				},
+				{
+					"Reply": "Get them out of here now. ",
+					"Didascalie": "",
+					"Start": 120007,
+					"End": 120033
+				}
+			]
+		},
+		{
+			"Character": "IRAQI SARGEANT",
+			"Replies": [
+				{
+					"Reply": "I am just do my job, buddy. ",
+					"Didascalie": "",
+					"Start": 71397,
+					"End": 71425
+				},
+				{
+					"Reply": "Prisoner stay. Gabar matan. ",
+					"Didascalie": "",
+					"Start": 73309,
+					"End": 73337
+				},
+				{
+					"Reply": "Kinam vanir! Vanir! ",
+					"Didascalie": "",
+					"Start": 73793,
+					"End": 73813
+				},
+				{
+					"Reply": "Hey, that's the CNN guy. ",
+					"Didascalie": "",
+					"Start": 119838,
+					"End": 119863
+				}
+			]
+		},
+		{
+			"Character": "INTERROGATOR",
+			"Replies": [
+				{
+					"Reply": "These Shiite. Iraq problem. United States is out now. ",
+					"Didascalie": "",
+					"Start": 71897,
+					"End": 71966
+				},
+				{
+					"Reply": "We take them outside, so it don't bother you, OK, sir? Kata fanam. ",
+					"Didascalie": "",
+					"Start": 72075,
+					"End": 72157
+				},
+				{
+					"Reply": "Saddam worries more about the Shiite than the gold. ",
+					"Didascalie": "",
+					"Start": 74363,
+					"End": 74430
+				},
+				{
+					"Reply": "Shut up, he signed the treaty. ",
+					"Didascalie": "",
+					"Start": 76183,
+					"End": 76214
+				},
+				{
+					"Reply": "You go away fast from this bullshit. ",
+					"Didascalie": "",
+					"Start": 85876,
+					"End": 85928
+				},
+				{
+					"Reply": "You get your ass kick in a war, it feel good to be strong again. ",
+					"Didascalie": "",
+					"Start": 88844,
+					"End": 88924
+				},
+				{
+					"Reply": "Geneva convention? You bomb my house, man. ",
+					"Didascalie": "",
+					"Start": 89304,
+					"End": 89362
+				},
+				{
+					"Reply": "Cannot do. ",
+					"Didascalie": "",
+					"Start": 90183,
+					"End": 90194
+				},
+				{
+					"Reply": "Saddam kill us. ",
+					"Didascalie": "",
+					"Start": 90497,
+					"End": 90513
+				},
+				{
+					"Reply": "He's proof they broke the cease- ",
+					"Didascalie": "",
+					"Start": 110978,
+					"End": 111011
+				},
+				{
+					"Reply": "They're taking the tank. ",
+					"Didascalie": "",
+					"Start": 111139,
+					"End": 111164
+				},
+				{
+					"Reply": " What is your rank, bro? ",
+					"Didascalie": "(heavy accent)",
+					"Start": 122492,
+					"End": 122532
+				},
+				{
+					"Reply": "Your company? ",
+					"Didascalie": "",
+					"Start": 122649,
+					"End": 122663
+				},
+				{
+					"Reply": "My main man. Tell me something, OK? What is problem with Michael Jackson? ",
+					"Didascalie": "",
+					"Start": 122885,
+					"End": 122989
+				},
+				{
+					"Reply": "He is fahking the small boys, man. ",
+					"Didascalie": "",
+					"Start": 123297,
+					"End": 123332
+				},
+				{
+					"Reply": "He come to Egypt with the small boys. I see picture in newspaper, always he is with the small boys in the hotel window. Hello with the white glove. I am King of Pop in my hotel with the small boys. ",
+					"Didascalie": "",
+					"Start": 123460,
+					"End": 123733
+				},
+				{
+					"Reply": "Yeah, he like to fahk them up the ass. ",
+					"Didascalie": "",
+					"Start": 123888,
+					"End": 123942
+				},
+				{
+					"Reply": "You are the blind bullshit, my main man.  It is so obvious he like the small boy so he all the time travel with them. ",
+					"Didascalie": "",
+					"Start": 124166,
+					"End": 124329
+				},
+				{
+					"Reply": "And if it really true? You say -- ",
+					"Didascalie": "",
+					"Start": 124435,
+					"End": 124469
+				},
+				{
+					"Reply": "That's because you got a sick country, bro, you got no respect for the children. That's why you bomb them over here, right? ",
+					"Didascalie": "",
+					"Start": 124586,
+					"End": 124755
+				},
+				{
+					"Reply": "Michael Jackson is Pop King of sick fahking country. ",
+					"Didascalie": "",
+					"Start": 124873,
+					"End": 124941
+				},
+				{
+					"Reply": "Bullshit wrong, dude. A black man make the skin white and the hair straight. You know why? ",
+					"Didascalie": "",
+					"Start": 125136,
+					"End": 125257
+				},
+				{
+					"Reply": "Your sick fahking country make the black man hate hisself, just like you hate the Arab and the children you bomb. ",
+					"Didascalie": "",
+					"Start": 125361,
+					"End": 125520
+				},
+				{
+					"Reply": "Do they care, buddy? ",
+					"Didascalie": "",
+					"Start": 125643,
+					"End": 125664
+				},
+				{
+					"Reply": "Do your army care about the Shiite children? Do they come to help? ",
+					"Didascalie": "",
+					"Start": 125779,
+					"End": 125861
+				},
+				{
+					"Reply": " That seemed like too much volts. ",
+					"Didascalie": "(in subtitles)",
+					"Start": 126185,
+					"End": 126234
+				},
+				{
+					"Reply": "Just figure it out. ",
+					"Didascalie": "",
+					"Start": 126563,
+					"End": 126583
+				},
+				{
+					"Reply": "Are they coming to help the Shiite? ",
+					"Didascalie": "",
+					"Start": 126680,
+					"End": 126716
+				},
+				{
+					"Reply": "Tell the truth, dudesky. Save us the big bummer. ",
+					"Didascalie": "",
+					"Start": 126885,
+					"End": 126949
+				},
+				{
+					"Reply": "Does it hurt? ",
+					"Didascalie": "",
+					"Start": 127064,
+					"End": 127078
+				},
+				{
+					"Reply": "I ask you question, bro. ",
+					"Didascalie": "",
+					"Start": 127157,
+					"End": 127182
+				},
+				{
+					"Reply": "You bomb my family. Do you know that? ",
+					"Didascalie": "",
+					"Start": 127297,
+					"End": 127350
+				},
+				{
+					"Reply": "You blow up my home. The whole street. My wife is crush by big fahking block of concrete. She lose her legs, bro, and she got nice legs, too. Those legs cut off now. ",
+					"Didascalie": "",
+					"Start": 127440,
+					"End": 127681
+				},
+				{
+					"Reply": "What? ",
+					"Didascalie": "",
+					"Start": 127898,
+					"End": 127904
+				},
+				{
+					"Reply": "Oh, my God, buddy. I didn't even told you the horrible part yet. ",
+					"Didascalie": "",
+					"Start": 128062,
+					"End": 128142
+				},
+				{
+					"Reply": "My son was kill in his bed. Did you heard that, dude? ",
+					"Didascalie": "",
+					"Start": 128237,
+					"End": 128306
+				},
+				{
+					"Reply": "He is one years old. He is asleeping with his toy doll when. ",
+					"Didascalie": "",
+					"Start": 128411,
+					"End": 128487
+				},
+				{
+					"Reply": "Very nice for you, bro. She is safe in Ohio without the bombs and concrete and all this shit-- ",
+					"Didascalie": "",
+					"Start": 128912,
+					"End": 129037
+				},
+				{
+					"Reply": "How old is she? ",
+					"Didascalie": "",
+					"Start": 129186,
+					"End": 129202
+				},
+				{
+					"Reply": "What's her name? ",
+					"Didascalie": "",
+					"Start": 129326,
+					"End": 129343
+				},
+				{
+					"Reply": "What makes you decide to tell me about Krystal, my main man? ",
+					"Didascalie": "",
+					"Start": 129476,
+					"End": 129552
+				},
+				{
+					"Reply": "I'm not a father no more, dude, remember? My son is dead now. ",
+					"Didascalie": "",
+					"Start": 129680,
+					"End": 129757
+				},
+				{
+					"Reply": "I only join Saddam Hussein army to make good living for family, good car, good house, and now my son is dead. ",
+					"Didascalie": "",
+					"Start": 141722,
+					"End": 141877
+				},
+				{
+					"Reply": "We got a lot in common, dude. I got training and guns from America. ",
+					"Didascalie": "",
+					"Start": 142029,
+					"End": 142112
+				},
+				{
+					"Reply": "Oh, yeah, specialist guys come to Iraq, train us when we fight Iran. ",
+					"Didascalie": "",
+					"Start": 142230,
+					"End": 142314
+				},
+				{
+					"Reply": "Weapons, sabotage. Interrogation. ",
+					"Didascalie": "",
+					"Start": 142442,
+					"End": 142476
+				},
+				{
+					"Reply": "So what we get from this dirty Iraq war you and me, huh? ",
+					"Didascalie": "",
+					"Start": 142850,
+					"End": 142922
+				},
+				{
+					"Reply": " You don't fahking know, right?! We all scahmbag soldier who get fahked, right? ",
+					"Didascalie": "(laughs)",
+					"Start": 143177,
+					"End": 143302
+				},
+				{
+					"Reply": "It's my job, man, for Saddam, just like your job when you bomb my house. ",
+					"Didascalie": "",
+					"Start": 143547,
+					"End": 143650
+				},
+				{
+					"Reply": "Bullshit. It's all a job. ",
+					"Didascalie": "",
+					"Start": 143816,
+					"End": 143842
+				},
+				{
+					"Reply": "Bullshit. ",
+					"Didascalie": "",
+					"Start": 144024,
+					"End": 144034
+				},
+				{
+					"Reply": "Then why you bomb my fahking house and kill my son? Can you think how it feels inside your heart if I bomb your daughter? ",
+					"Didascalie": "",
+					"Start": 144293,
+					"End": 144460
+				},
+				{
+					"Reply": "It feels like this -- ",
+					"Didascalie": "",
+					"Start": 144687,
+					"End": 144709
+				},
+				{
+					"Reply": "Everyday, inside my heart -- ",
+					"Didascalie": "",
+					"Start": 144896,
+					"End": 144925
+				},
+				{
+					"Reply": "Like this, like this, like this -- ",
+					"Didascalie": "",
+					"Start": 145035,
+					"End": 145070
+				},
+				{
+					"Reply": "I know. ",
+					"Didascalie": "",
+					"Start": 157483,
+					"End": 157491
+				},
+				{
+					"Reply": "Maybe Saddam is very crazy, right? ",
+					"Didascalie": "",
+					"Start": 157979,
+					"End": 158014
+				},
+				{
+					"Reply": "You come here to save Kuwait people? ",
+					"Didascalie": "",
+					"Start": 158253,
+					"End": 158305
+				},
+				{
+					"Reply": "Really? ",
+					"Didascalie": "",
+					"Start": 158410,
+					"End": 158418
+				},
+				{
+					"Reply": " Jahaza fan. ",
+					"Didascalie": "(to the Second Iraqi)",
+					"Start": 158461,
+					"End": 158489
+				},
+				{
+					"Reply": "Lots of people in trouble around this world, my man. You don't fight no fahking war for them. ",
+					"Didascalie": "",
+					"Start": 158598,
+					"End": 158722
+				},
+				{
+					"Reply": "Why not, dude? ",
+					"Didascalie": "",
+					"Start": 158885,
+					"End": 158900
+				},
+				{
+					"Reply": "For what? Your pick up truck? ",
+					"Didascalie": "",
+					"Start": 159068,
+					"End": 159098
+				},
+				{
+					"Reply": "This is your fahking stability, my main man. ",
+					"Didascalie": "",
+					"Start": 159343,
+					"End": 159403
+				},
+				{
+					"Reply": "Are you feeling stable enough for more? ",
+					"Didascalie": "",
+					"Start": 162999,
+					"End": 163054
+				},
+				{
+					"Reply": "It's OK, buddy, we are just talking now -- ",
+					"Didascalie": "",
+					"Start": 167120,
+					"End": 167178
+				}
+			]
+		},
+		{
+			"Character": "IRAQI MAJOR",
+			"Replies": [
+				{
+					"Reply": "You take the Kuwaiti gold, yes? ",
+					"Didascalie": "",
+					"Start": 84887,
+					"End": 84919
+				},
+				{
+					"Reply": "Saddam cannot keep. ",
+					"Didascalie": "",
+					"Start": 85057,
+					"End": 85077
+				},
+				{
+					"Reply": "Saddam have too many problem today. ",
+					"Didascalie": "",
+					"Start": 85208,
+					"End": 85244
+				},
+				{
+					"Reply": "You need help to load? ",
+					"Didascalie": "",
+					"Start": 85479,
+					"End": 85502
+				},
+				{
+					"Reply": "Hazal jarat finan. ",
+					"Didascalie": "",
+					"Start": 85669,
+					"End": 85688
+				},
+				{
+					"Reply": "These man help you. ",
+					"Didascalie": "",
+					"Start": 85802,
+					"End": 85822
+				},
+				{
+					"Reply": "You need a truck. ",
+					"Didascalie": "",
+					"Start": 86869,
+					"End": 86887
+				},
+				{
+					"Reply": "We cooperate with peace accord. ",
+					"Didascalie": "",
+					"Start": 87222,
+					"End": 87254
+				},
+				{
+					"Reply": "Nazaran yafit haisul. ",
+					"Didascalie": "",
+					"Start": 87808,
+					"End": 87830
+				},
+				{
+					"Reply": "You go now, please. ",
+					"Didascalie": "",
+					"Start": 89049,
+					"End": 89069
+				},
+				{
+					"Reply": "That Shiite man is leader of uprising. He kill my man. ",
+					"Didascalie": "",
+					"Start": 89415,
+					"End": 89485
+				},
+				{
+					"Reply": "What? ",
+					"Didascalie": "",
+					"Start": 89939,
+					"End": 89945
+				},
+				{
+					"Reply": "Cannot let Shiite go -- ",
+					"Didascalie": "",
+					"Start": 90419,
+					"End": 90443
+				},
+				{
+					"Reply": "Saddam kill to me if we let them go, OK? Now you go. ",
+					"Didascalie": "",
+					"Start": 90566,
+					"End": 90634
+				},
+				{
+					"Reply": " U.S.A. is out of Shiite war. ",
+					"Didascalie": "(pissed)",
+					"Start": 92970,
+					"End": 93015
+				}
+			]
+		},
+		{
+			"Character": "IRAQI SOLDIER",
+			"Replies": [
+				{
+					"Reply": "Kazal stan hamir in fatar. ",
+					"Didascalie": "",
+					"Start": 97845,
+					"End": 97872
+				},
+				{
+					"Reply": "Can we shoot him? ",
+					"Didascalie": "",
+					"Start": 110757,
+					"End": 110775
+				},
+				{
+					"Reply": "Get dress. ",
+					"Didascalie": "",
+					"Start": 112394,
+					"End": 112405
+				},
+				{
+					"Reply": "Get dress. ",
+					"Didascalie": "",
+					"Start": 112510,
+					"End": 112521
+				}
+			]
+		},
+		{
+			"Character": "TANK IRAQI",
+			"Replies": [
+				{
+					"Reply": "Hazal mafan. ",
+					"Didascalie": "",
+					"Start": 99884,
+					"End": 99897
+				}
+			]
+		},
+		{
+			"Character": "OPERATOR",
+			"Replies": [
+				{
+					"Reply": "Jalam nafad. ",
+					"Didascalie": "",
+					"Start": 112990,
+					"End": 113003
+				},
+				{
+					"Reply": " Yes. ",
+					"Didascalie": "(O.S.) (British accent)",
+					"Start": 113225,
+					"End": 113246
+				},
+				{
+					"Reply": "What number, please. ",
+					"Didascalie": "",
+					"Start": 113476,
+					"End": 113497
+				},
+				{
+					"Reply": "I'm sorry? ",
+					"Didascalie": "",
+					"Start": 113624,
+					"End": 113635
+				},
+				{
+					"Reply": "I don't have that number. ",
+					"Didascalie": "",
+					"Start": 113809,
+					"End": 113835
+				}
+			]
+		},
+		{
+			"Character": "DARLENE",
+			"Replies": [
+				{
+					"Reply": " Hello? ",
+					"Didascalie": "(Southern accent)",
+					"Start": 114593,
+					"End": 114616
+				},
+				{
+					"Reply": "Troy? ",
+					"Didascalie": "",
+					"Start": 114727,
+					"End": 114733
+				},
+				{
+					"Reply": "My God, the baby's crying. ",
+					"Didascalie": "",
+					"Start": 114844,
+					"End": 114871
+				},
+				{
+					"Reply": "That's our little Krystal. ",
+					"Didascalie": "",
+					"Start": 114982,
+					"End": 115009
+				},
+				{
+					"Reply": "She hasn't been sleeping good, and Mamma had to go back to work, so I'm real, real tired, baby. ",
+					"Didascalie": "",
+					"Start": 115121,
+					"End": 115247
+				},
+				{
+					"Reply": "Oh, gooney-bird, when are you coming home? ",
+					"Didascalie": "",
+					"Start": 115399,
+					"End": 115457
+				},
+				{
+					"Reply": "I saw an ad for a computer job. ",
+					"Didascalie": "",
+					"Start": 115604,
+					"End": 115636
+				},
+				{
+					"Reply": "What date are you coming home? ",
+					"Didascalie": "",
+					"Start": 115839,
+					"End": 115870
+				},
+				{
+					"Reply": "I'm henpecking you. ",
+					"Didascalie": "",
+					"Start": 116031,
+					"End": 116051
+				},
+				{
+					"Reply": "I'm lonely and tired and most of all, I miss you. ",
+					"Didascalie": "",
+					"Start": 116162,
+					"End": 116227
+				},
+				{
+					"Reply": "What was that? ",
+					"Didascalie": "",
+					"Start": 116402,
+					"End": 116417
+				},
+				{
+					"Reply": "I thought the war was over, honey. ",
+					"Didascalie": "",
+					"Start": 116536,
+					"End": 116571
+				},
+				{
+					"Reply": "You want me to call the C.O.? ",
+					"Didascalie": "",
+					"Start": 116771,
+					"End": 116801
+				},
+				{
+					"Reply": "What do you mean 'stuck'? I thought the war was over. ",
+					"Didascalie": "",
+					"Start": 116976,
+					"End": 117045
+				},
+				{
+					"Reply": "Know what? ",
+					"Didascalie": "",
+					"Start": 117305,
+					"End": 117316
+				},
+				{
+					"Reply": "What's happening, Troy? ",
+					"Didascalie": "",
+					"Start": 117496,
+					"End": 117520
+				},
+				{
+					"Reply": "Troy? ",
+					"Didascalie": "",
+					"Start": 117683,
+					"End": 117689
+				},
+				{
+					"Reply": "What are you talking about? ",
+					"Didascalie": "",
+					"Start": 117907,
+					"End": 117935
+				},
+				{
+					"Reply": "Troy? ",
+					"Didascalie": "",
+					"Start": 118183,
+					"End": 118189
+				}
+			]
+		},
+		{
+			"Character": "PACO",
+			"Replies": [
+				{
+					"Reply": "You said gritty city again. ",
+					"Didascalie": "",
+					"Start": 119076,
+					"End": 119104
+				},
+				{
+					"Reply": "What about Private Wogoman, Bill? ",
+					"Didascalie": "",
+					"Start": 119225,
+					"End": 119259
+				}
+			]
+		},
+		{
+			"Character": "FANTASY - CONCRETE AND PLASTER",
+			"Replies": [
+				{
+					"Reply": "falls onto the bed of a sleeping child. ",
+					"Didascalie": "",
+					"Start": 128729,
+					"End": 128769
+				}
+			]
+		},
+		{
+			"Character": "FANTASY - DARLENE",
+			"Replies": [
+				{
+					"Reply": "pushes a baby carriage down an idyllic tree-lined sidewalk. ",
+					"Didascalie": "",
+					"Start": 129067,
+					"End": 129127
+				}
+			]
+		},
+		{
+			"Character": "SHIITE CLERIC",
+			"Replies": [
+				{
+					"Reply": "A shrine. ",
+					"Didascalie": "",
+					"Start": 130520,
+					"End": 130530
+				},
+				{
+					"Reply": "Shrine that wash 700 year of sin. ",
+					"Didascalie": "",
+					"Start": 130661,
+					"End": 130695
+				}
+			]
+		},
+		{
+			"Character": "MAN IN GLASSES",
+			"Replies": [
+				{
+					"Reply": "She's traumatized, what the fuck do you expect? ",
+					"Didascalie": "",
+					"Start": 133964,
+					"End": 134027
+				},
+				{
+					"Reply": "I went to b-school at Bowling Green. ",
+					"Didascalie": "",
+					"Start": 134118,
+					"End": 134170
+				},
+				{
+					"Reply": "I came back to open a couple of hotels near Karbala. I'm almost in the black when Saddam starts this stupid fucking war and you guys bomb the shit out of my cafes. Now we try to get rid of Saddam, Bush leaves us twisting in the wind, Un- ",
+					"Didascalie": "",
+					"Start": 134406,
+					"End": 134734
+				},
+				{
+					"Reply": "No radio. No water. ",
+					"Didascalie": "",
+					"Start": 134901,
+					"End": 134921
+				},
+				{
+					"Reply": "They got him, I saw it happen. And they won't take him back to the same place. ",
+					"Didascalie": "",
+					"Start": 135112,
+					"End": 135221
+				},
+				{
+					"Reply": "Oasis Bunker. It's full of Saddam's hard core guys. ",
+					"Didascalie": "",
+					"Start": 135358,
+					"End": 135425
+				},
+				{
+					"Reply": "Like 17 - 18 klicks from here. ",
+					"Didascalie": "",
+					"Start": 135540,
+					"End": 135571
+				},
+				{
+					"Reply": "We got no wheels. ",
+					"Didascalie": "",
+					"Start": 135696,
+					"End": 135714
+				},
+				{
+					"Reply": "Why don't you call in the Marines? ",
+					"Didascalie": "",
+					"Start": 135855,
+					"End": 135890
+				},
+				{
+					"Reply": "OK, we'll find a vehicle. You drive back to get the choppers, they fly in to get your man. ",
+					"Didascalie": "",
+					"Start": 136034,
+					"End": 136155
+				},
+				{
+					"Reply": "Why not? You got a huge army here. ",
+					"Didascalie": "",
+					"Start": 136317,
+					"End": 136352
+				},
+				{
+					"Reply": "Tell them it happened when you reclaimed the gold. Don't tell them it was about us. ",
+					"Didascalie": "",
+					"Start": 136609,
+					"End": 136723
+				},
+				{
+					"Reply": "You know what I think? I think maybe you're boosting the gold. ",
+					"Didascalie": "",
+					"Start": 136867,
+					"End": 136945
+				},
+				{
+					"Reply": "They got half a million men in the desert, they send four guys to pick up all this bullion? I don't think so. ",
+					"Didascalie": "",
+					"Start": 137132,
+					"End": 137287
+				},
+				{
+					"Reply": "Fifteen suitcases. ",
+					"Didascalie": "",
+					"Start": 137511,
+					"End": 137530
+				},
+				{
+					"Reply": "You need some guns, right? You lost your gear. ",
+					"Didascalie": "",
+					"Start": 137917,
+					"End": 137979
+				},
+				{
+					"Reply": "You need some fighters, too. I mean, you can try to take Oasis on your own, but look at these grunts -- ",
+					"Didascalie": "",
+					"Start": 138114,
+					"End": 138263
+				},
+				{
+					"Reply": "So that's worth more than eight suitcases. ",
+					"Didascalie": "",
+					"Start": 138462,
+					"End": 138520
+				},
+				{
+					"Reply": "Fifteen. ",
+					"Didascalie": "",
+					"Start": 138635,
+					"End": 138644
+				},
+				{
+					"Reply": "I think we need it more than you, John Doe, don't you? ",
+					"Didascalie": "",
+					"Start": 138810,
+					"End": 138880
+				}
+			]
+		},
+		{
+			"Character": "IMAM",
+			"Replies": [
+				{
+					"Reply": "We gotta get to a refugee camp or we're dead. The camps are in Iran. ",
+					"Didascalie": "",
+					"Start": 139267,
+					"End": 139351
+				},
+				{
+					"Reply": "Then we don't have a deal. ",
+					"Didascalie": "",
+					"Start": 139477,
+					"End": 139504
+				},
+				{
+					"Reply": "And we saved yours. ",
+					"Didascalie": "",
+					"Start": 139690,
+					"End": 139710
+				},
+				{
+					"Reply": "What good is it if you leave us to get wasted? The big army of democracy beats the ugly dictator, saves the rich Kuwaitis, but you go to jail if you help us escape the same dictator.  You saw what happened to my wife. Look at my daughter. ",
+					"Didascalie": "",
+					"Start": 139833,
+					"End": 140177
+				},
+				{
+					"Reply": "Everyone but the priests. That's 55. ",
+					"Didascalie": "",
+					"Start": 140402,
+					"End": 140454
+				},
+				{
+					"Reply": "It's not on a map. You can look. ",
+					"Didascalie": "",
+					"Start": 140603,
+					"End": 140636
+				},
+				{
+					"Reply": "Jarat yalam fantam uraz. ",
+					"Didascalie": "",
+					"Start": 141004,
+					"End": 141029
+				},
+				{
+					"Reply": "I don't think so. ",
+					"Didascalie": "",
+					"Start": 141123,
+					"End": 141141
+				},
+				{
+					"Reply": " Tell me about it. ",
+					"Didascalie": "(laughs)",
+					"Start": 141304,
+					"End": 141338
+				},
+				{
+					"Reply": "I know a place that's full of deserters. Maybe they got something. ",
+					"Didascalie": "",
+					"Start": 147746,
+					"End": 147843
+				},
+				{
+					"Reply": " Kishan tramai jahal? ",
+					"Didascalie": "(translates)",
+					"Start": 149204,
+					"End": 149241
+				},
+				{
+					"Reply": "This is for you, my friend, to eat if you are hungry. ",
+					"Didascalie": "",
+					"Start": 149385,
+					"End": 149454
+				},
+				{
+					"Reply": "They're not barbarians, they're starving. ",
+					"Didascalie": "",
+					"Start": 149625,
+					"End": 149682
+				},
+				{
+					"Reply": "You're three guys with a bunch of Shiites and no Humvee. ",
+					"Didascalie": "",
+					"Start": 152192,
+					"End": 152264
+				},
+				{
+					"Reply": "He says the Americans have many tanks, many airplanes. We have nothing. ",
+					"Didascalie": "",
+					"Start": 152480,
+					"End": 152582
+				},
+				{
+					"Reply": "Jihala vamat. ",
+					"Didascalie": "",
+					"Start": 152807,
+					"End": 152821
+				},
+				{
+					"Reply": "Jahal yaqat. ",
+					"Didascalie": "",
+					"Start": 154080,
+					"End": 154093
+				},
+				{
+					"Reply": "And my people. ",
+					"Didascalie": "",
+					"Start": 155537,
+					"End": 155552
+				},
+				{
+					"Reply": "I understand. ",
+					"Didascalie": "",
+					"Start": 155885,
+					"End": 155899
+				},
+				{
+					"Reply": "Jakar yizam ut naral -- ",
+					"Didascalie": "",
+					"Start": 174109,
+					"End": 174133
+				},
+				{
+					"Reply": "Take it easy. ",
+					"Didascalie": "",
+					"Start": 175496,
+					"End": 175510
+				},
+				{
+					"Reply": "That's right. ",
+					"Didascalie": "",
+					"Start": 175877,
+					"End": 175891
+				},
+				{
+					"Reply": "She's safe. For the moment. ",
+					"Didascalie": "",
+					"Start": 176243,
+					"End": 176271
+				},
+				{
+					"Reply": "We had a deal to get us to the border, but we need more vehicles for these people. ",
+					"Didascalie": "",
+					"Start": 176553,
+					"End": 176666
+				},
+				{
+					"Reply": "This guy was worth saving. ",
+					"Didascalie": "",
+					"Start": 177458,
+					"End": 177485
+				},
+				{
+					"Reply": " Haza janav yasat. ",
+					"Didascalie": "(translates)",
+					"Start": 178894,
+					"End": 178928
+				},
+				{
+					"Reply": "Kajatar in Iran. We can take him. ",
+					"Didascalie": "",
+					"Start": 185527,
+					"End": 185561
+				},
+				{
+					"Reply": " I got you hooked up if you want to call your man. ",
+					"Didascalie": "(to Archie)",
+					"Start": 186571,
+					"End": 186652
+				},
+				{
+					"Reply": " Jihad yamat -- yamat. ",
+					"Didascalie": "(translates)",
+					"Start": 197709,
+					"End": 197747
+				}
+			]
+		},
+		{
+			"Character": "FANTASY - TROY",
+			"Replies": [
+				{
+					"Reply": "holds the naked baby against his naked chest. ",
+					"Didascalie": "",
+					"Start": 142949,
+					"End": 142995
+				}
+			]
+		},
+		{
+			"Character": "SHIITE",
+			"Replies": [
+				{
+					"Reply": "America! ",
+					"Didascalie": "",
+					"Start": 148170,
+					"End": 148179
+				},
+				{
+					"Reply": "Freedom! Thank you to America! ",
+					"Didascalie": "",
+					"Start": 148295,
+					"End": 148326
+				},
+				{
+					"Reply": "Come on. ",
+					"Didascalie": "",
+					"Start": 161684,
+					"End": 161693
+				}
+			]
+		},
+		{
+			"Character": "FRIENDLY IRAQI SOLDIER",
+			"Replies": [
+				{
+					"Reply": "Food? You give food? ",
+					"Didascalie": "",
+					"Start": 148959,
+					"End": 148980
+				},
+				{
+					"Reply": "Kuwait Zoo. Nabal hazala fan taq. ",
+					"Didascalie": "",
+					"Start": 149305,
+					"End": 149339
+				},
+				{
+					"Reply": "Water all gone. No one have water. ",
+					"Didascalie": "",
+					"Start": 149937,
+					"End": 149972
+				},
+				{
+					"Reply": "George Bush get rid Saddam. ",
+					"Didascalie": "",
+					"Start": 150310,
+					"End": 150338
+				},
+				{
+					"Reply": "Congratulation! ",
+					"Didascalie": "",
+					"Start": 150469,
+					"End": 150485
+				},
+				{
+					"Reply": "From Kuwait. ",
+					"Didascalie": "",
+					"Start": 151099,
+					"End": 151112
+				},
+				{
+					"Reply": "No. Infiniti convertible only. ",
+					"Didascalie": "",
+					"Start": 151393,
+					"End": 151424
+				},
+				{
+					"Reply": "Cannot take. ",
+					"Didascalie": "",
+					"Start": 151870,
+					"End": 151883
+				},
+				{
+					"Reply": "Need money. Have no money. To eat. ",
+					"Didascalie": "",
+					"Start": 152328,
+					"End": 152363
+				},
+				{
+					"Reply": "George Bush. ",
+					"Didascalie": "",
+					"Start": 153422,
+					"End": 153435
+				}
+			]
+		},
+		{
+			"Character": "FANTASY - IRAQI SOLDIERS",
+			"Replies": [
+				{
+					"Reply": "smash the windows of a Benneton store, then a Cartier store. ",
+					"Didascalie": "",
+					"Start": 157361,
+					"End": 157422
+				},
+				{
+					"Reply": "drag patients from their hospital beds and AN IRAQI SOLDIER dives on top of a crying NURSE and starts to rape her while a BABY is taken from an incubator, which is stolen. ",
+					"Didascalie": "",
+					"Start": 157645,
+					"End": 157827
+				}
+			]
+		},
+		{
+			"Character": "AERIAL VIEW",
+			"Replies": [
+				{
+					"Reply": "The Mercedes and the Rolls diverge around the bunker on either side: Rolls on the left, Mercedes on the right. ",
+					"Didascalie": "",
+					"Start": 160939,
+					"End": 161055
+				}
+			]
+		},
+		{
+			"Character": "TOUGH IRAQI",
+			"Replies": [
+				{
+					"Reply": "Let's go back and get them. ",
+					"Didascalie": "",
+					"Start": 169562,
+					"End": 169590
+				},
+				{
+					"Reply": "There's a chopper, we can do it. ",
+					"Didascalie": "",
+					"Start": 169716,
+					"End": 169749
+				},
+				{
+					"Reply": "They killed your families, you fucking cowards. ",
+					"Didascalie": "",
+					"Start": 169868,
+					"End": 169931
+				}
+			]
+		},
+		{
+			"Character": "SOUND",
+			"Replies": [
+				{
+					"Reply": "Take my picture. ",
+					"Didascalie": "",
+					"Start": 181755,
+					"End": 181772
+				}
+			]
+		},
+		{
+			"Character": "PRIVATE",
+			"Replies": [
+				{
+					"Reply": "This is from Barlow's C.O. at Fort Bragg, something with his wife. ",
+					"Didascalie": "",
+					"Start": 191289,
+					"End": 191371
+				}
+			]
+		},
+		{
+			"Character": "SARGEANT",
+			"Replies": [
+				{
+					"Reply": "I thought they were authorized -- ",
+					"Didascalie": "",
+					"Start": 206567,
+					"End": 206601
+				}
+			]
+		},
+		{
+			"Character": "FILM SET -",
+			"Replies": [
+				{
+					"Reply": "MUSIC CONTINUES: Archie on a film set, wearing sunglasses, shows an action star how to push away the barrel of a bad guy's rifle. ",
+					"Didascalie": "",
+					"Start": 209780,
+					"End": 209920
+				}
+			]
+		}
+	]
+}
