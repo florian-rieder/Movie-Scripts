@@ -20,16 +20,28 @@
 					"End": 7695
 				},
 				{
-					"Reply": "14. ",
-					"Didascalie": "",
-					"Start": 25573,
-					"End": 25577
+					"Reply": " Di...rec...t-- ",
+					"Didascalie": "(struggles to speak)",
+					"Start": 25959,
+					"End": 25999
 				},
 				{
 					"Reply": "She scans his CHEST LOGO. ",
 					"Didascalie": "",
 					"Start": 26364,
 					"End": 26390
+				},
+				{
+					"Reply": " W-wally? ...Wall-E. ",
+					"Didascalie": "(struggles again)",
+					"Start": 26577,
+					"End": 26622
+				},
+				{
+					"Reply": "Eeee...? ",
+					"Didascalie": "",
+					"Start": 27169,
+					"End": 27178
 				},
 				{
 					"Reply": "Eeeaaah? ",
@@ -98,6 +110,12 @@
 					"End": 34065
 				},
 				{
+					"Reply": "Ee-vah? ...Ee-vah?! ",
+					"Didascalie": "",
+					"Start": 34184,
+					"End": 34204
+				},
+				{
 					"Reply": "EE-VAH!! EE-VAH!! ",
 					"Didascalie": "",
 					"Start": 37854,
@@ -110,10 +128,22 @@
 					"End": 38430
 				},
 				{
+					"Reply": "Oooh... ",
+					"Didascalie": "",
+					"Start": 40026,
+					"End": 40034
+				},
+				{
 					"Reply": "E-vah! ",
 					"Didascalie": "",
 					"Start": 40275,
 					"End": 40282
+				},
+				{
+					"Reply": "Ee-vah... ? ",
+					"Didascalie": "",
+					"Start": 42475,
+					"End": 42487
 				},
 				{
 					"Reply": "Ee-vah! ",
@@ -170,10 +200,22 @@
 					"End": 60132
 				},
 				{
+					"Reply": "Ee-vah... ",
+					"Didascalie": "",
+					"Start": 60584,
+					"End": 60594
+				},
+				{
 					"Reply": " Ee-vah! ",
 					"Didascalie": "(tiny wave)",
 					"Start": 78453,
 					"End": 78486
+				},
+				{
+					"Reply": " Ee-vah... ",
+					"Didascalie": "(swoons)",
+					"Start": 79194,
+					"End": 79232
 				},
 				{
 					"Reply": "Ee-vah? ",
@@ -230,6 +272,12 @@
 					"End": 97975
 				},
 				{
+					"Reply": " Ee-vah...? ",
+					"Didascalie": "(quiet)",
+					"Start": 98908,
+					"End": 98946
+				},
+				{
 					"Reply": "Eve shakes her head. ",
 					"Didascalie": "",
 					"Start": 100280,
@@ -260,6 +308,12 @@
 					"End": 106822
 				},
 				{
+					"Reply": "Ee-vah... ",
+					"Didascalie": "",
+					"Start": 107153,
+					"End": 107163
+				},
+				{
 					"Reply": "Kicks on the extinguisher. ",
 					"Didascalie": "",
 					"Start": 108927,
@@ -278,6 +332,12 @@
 					"End": 118284
 				},
 				{
+					"Reply": "Ee-vah... Ee-VAH...? EEE-vah... ",
+					"Didascalie": "",
+					"Start": 125011,
+					"End": 125043
+				},
+				{
 					"Reply": "EE-VAHH?! ",
 					"Didascalie": "",
 					"Start": 125347,
@@ -288,12 +348,6 @@
 					"Didascalie": "",
 					"Start": 137968,
 					"End": 137976
-				},
-				{
-					"Reply": "70. ",
-					"Didascalie": "",
-					"Start": 138454,
-					"End": 138458
 				},
 				{
 					"Reply": "Auto flips open one of his handles. ",
@@ -318,6 +372,18 @@
 					"Didascalie": "(Got it.)",
 					"Start": 147260,
 					"End": 147290
+				},
+				{
+					"Reply": " Di...rec...tive. ",
+					"Didascalie": "(weak)",
+					"Start": 147641,
+					"End": 147683
+				},
+				{
+					"Reply": " Errr..... ",
+					"Didascalie": "(weak)",
+					"Start": 148549,
+					"End": 148584
 				},
 				{
 					"Reply": "Earth. ",
@@ -348,17 +414,6 @@
 					"Didascalie": "(amazed)",
 					"Start": 183554,
 					"End": 183589
-				}
-			]
-		},
-		{
-			"Character": "ON TRASH HEAP HORIZON",
-			"Replies": [
-				{
-					"Reply": "The sun sets through the smoggy haze. ",
-					"Didascalie": "",
-					"Start": 2372,
-					"End": 2410
 				}
 			]
 		},
@@ -435,6 +490,18 @@
 					"Didascalie": "",
 					"Start": 131363,
 					"End": 131452
+				},
+				{
+					"Reply": " So just, uh...just stay the course. ",
+					"Didascalie": "(dons his life vest)",
+					"Start": 131503,
+					"End": 131564
+				},
+				{
+					"Reply": "Alright, uh...uh...I'm giving override directive: \"A113\". Go to full autopilot. ",
+					"Didascalie": "",
+					"Start": 132175,
+					"End": 132279
 				}
 			]
 		},
@@ -568,6 +635,12 @@
 					"End": 26474
 				},
 				{
+					"Reply": "Wwww-aaaa-leee... ",
+					"Didascalie": "",
+					"Start": 26754,
+					"End": 26772
+				},
+				{
 					"Reply": "Wall-E. ",
 					"Didascalie": "",
 					"Start": 26960,
@@ -628,6 +701,12 @@
 					"End": 78931
 				},
 				{
+					"Reply": "Plant! Wall-E... ",
+					"Didascalie": "",
+					"Start": 81506,
+					"End": 81523
+				},
+				{
 					"Reply": " Wall-E! ",
 					"Didascalie": "(turns on him)",
 					"Start": 81568,
@@ -640,10 +719,10 @@
 					"End": 82041
 				},
 				{
-					"Reply": "  46. ",
-					"Didascalie": "(Giggles)",
-					"Start": 91052,
-					"End": 91136
+					"Reply": "Wall-E... ",
+					"Didascalie": "",
+					"Start": 92862,
+					"End": 92872
 				},
 				{
 					"Reply": "WALL-E! ",
@@ -712,6 +791,12 @@
 					"End": 102820
 				},
 				{
+					"Reply": "No, no, no... ",
+					"Didascalie": "",
+					"Start": 106015,
+					"End": 106029
+				},
+				{
 					"Reply": "Wall-E can't believe his luck. ",
 					"Didascalie": "",
 					"Start": 108067,
@@ -736,10 +821,16 @@
 					"End": 118769
 				},
 				{
-					"Reply": "  65. ",
-					"Didascalie": "(MORE)",
-					"Start": 127504,
-					"End": 127588
+					"Reply": " Wall-E... ",
+					"Didascalie": "(soft)",
+					"Start": 124676,
+					"End": 124711
+				},
+				{
+					"Reply": " Wall-E... ",
+					"Didascalie": "(smitten)",
+					"Start": 127426,
+					"End": 127461
 				},
 				{
 					"Reply": " Wall-E! ",
@@ -770,6 +861,12 @@
 					"Didascalie": "",
 					"Start": 143050,
 					"End": 143058
+				},
+				{
+					"Reply": "Wall-E... ",
+					"Didascalie": "",
+					"Start": 146074,
+					"End": 146084
 				},
 				{
 					"Reply": "Directive. ",
@@ -808,6 +905,12 @@
 					"End": 177147
 				},
 				{
+					"Reply": " Wall-E... ",
+					"Didascalie": "(with love)",
+					"Start": 179653,
+					"End": 179688
+				},
+				{
 					"Reply": "Eve! ",
 					"Didascalie": "",
 					"Start": 179977,
@@ -838,6 +941,12 @@
 					"End": 181648
 				},
 				{
+					"Reply": "Wall-E...Wall-E! WALL-E! ",
+					"Didascalie": "",
+					"Start": 182002,
+					"End": 182027
+				},
+				{
 					"Reply": "She touches her forehead to his. ",
 					"Didascalie": "",
 					"Start": 182468,
@@ -848,28 +957,6 @@
 					"Didascalie": "",
 					"Start": 183365,
 					"End": 183373
-				}
-			]
-		},
-		{
-			"Character": "SONG ENDS",
-			"Replies": [
-				{
-					"Reply": "Eve scans the Axiom for a way in. ",
-					"Didascalie": "",
-					"Start": 115115,
-					"End": 115149
-				}
-			]
-		},
-		{
-			"Character": "MONTAGE OF EVE SEARCHING",
-			"Replies": [
-				{
-					"Reply": "- Scans a car engine. ",
-					"Didascalie": "",
-					"Start": 23281,
-					"End": 23303
 				}
 			]
 		},
@@ -943,25 +1030,8 @@
 			]
 		},
 		{
-			"Character": "MONTAGE OF CELESTIAL SPECTACLES",
-			"Replies": [
-				{
-					"Reply": "- The ship flies past the MOON. ",
-					"Didascalie": "",
-					"Start": 40556,
-					"End": 40588
-				}
-			]
-		},
-		{
 			"Character": "M-O",
 			"Replies": [
-				{
-					"Reply": "23. ",
-					"Didascalie": "",
-					"Start": 42811,
-					"End": 42815
-				},
 				{
 					"Reply": "They file out on the line. ",
 					"Didascalie": "",
@@ -973,12 +1043,6 @@
 					"Didascalie": "",
 					"Start": 44266,
 					"End": 44295
-				},
-				{
-					"Reply": "24. ",
-					"Didascalie": "",
-					"Start": 44671,
-					"End": 44675
 				},
 				{
 					"Reply": "Wall-E wipes the bottom of his tread on M-O's face. ",
@@ -1054,17 +1118,6 @@
 			]
 		},
 		{
-			"Character": "BACK ON M-O AND WALL-E",
-			"Replies": [
-				{
-					"Reply": "M-O just finishes cleaning the floor. ",
-					"Didascalie": "",
-					"Start": 45205,
-					"End": 45243
-				}
-			]
-		},
-		{
 			"Character": "A HUMAN PASSENGER",
 			"Replies": [
 				{
@@ -1108,16 +1161,46 @@
 					"End": 54209
 				},
 				{
+					"Reply": "Uhh...Hey! What's going on? ",
+					"Didascalie": "",
+					"Start": 54521,
+					"End": 54549
+				},
+				{
+					"Reply": "Uhh... John. ",
+					"Didascalie": "",
+					"Start": 54886,
+					"End": 54899
+				},
+				{
 					"Reply": "Uh no, John. ",
 					"Didascalie": "",
 					"Start": 55187,
 					"End": 55200
 				},
 				{
+					"Reply": " Bye...Wall-E. ",
+					"Didascalie": "(small wave)",
+					"Start": 55573,
+					"End": 55615
+				},
+				{
 					"Reply": "Hey! What the -- ",
 					"Didascalie": "",
 					"Start": 110654,
 					"End": 110671
+				},
+				{
+					"Reply": " Wha...huh? ",
+					"Didascalie": "(disoriented)",
+					"Start": 110988,
+					"End": 111024
+				},
+				{
+					"Reply": "Hey... I know that guy! It's, uh... ",
+					"Didascalie": "",
+					"Start": 111256,
+					"End": 111292
 				},
 				{
 					"Reply": " Wall-E! Hey Wall-E! It's your buddy, John! ",
@@ -1130,6 +1213,12 @@
 					"Didascalie": "",
 					"Start": 112001,
 					"End": 112005
+				},
+				{
+					"Reply": "Hey now. Stop that... ",
+					"Didascalie": "",
+					"Start": 116503,
+					"End": 116525
 				},
 				{
 					"Reply": "I didn't know we had a pool. ",
@@ -1195,6 +1284,12 @@
 			"Character": "NANNY-BOT",
 			"Replies": [
 				{
+					"Reply": "\"A\"! \"A\" is for \"Axiom\", your home sweet home. \"B\"! \"B\" is for \"Buy N Large\", your very best friend... ",
+					"Didascalie": "",
+					"Start": 56174,
+					"End": 56331
+				},
+				{
 					"Reply": "Remain calm. Remain calm. ",
 					"Didascalie": "",
 					"Start": 164032,
@@ -1203,13 +1298,24 @@
 			]
 		},
 		{
-			"Character": "OUT THE WINDOW",
+			"Character": "BEAUTICIAN-BOTS",
 			"Replies": [
 				{
-					"Reply": "Wall-E's monorail glides past. ",
+					"Reply": "...It's the new you...Oh stunning...You look great...I know honey...Ahh. Men... ",
 					"Didascalie": "",
-					"Start": 56388,
-					"End": 56419
+					"Start": 57340,
+					"End": 57444
+				}
+			]
+		},
+		{
+			"Character": "MONORAIL PASSENGERS",
+			"Replies": [
+				{
+					"Reply": "Oooohh... ",
+					"Didascalie": "",
+					"Start": 57831,
+					"End": 57841
 				}
 			]
 		},
@@ -1217,10 +1323,16 @@
 			"Character": "MARY",
 			"Replies": [
 				{
-					"Reply": "31. ",
+					"Reply": "started! Every holo-date I've been on has been a virtual disaster! If I could just meet one who wasn't so superficial. There are no good men out there!... ",
 					"Didascalie": "",
-					"Start": 59304,
-					"End": 59308
+					"Start": 58702,
+					"End": 58929
+				},
+				{
+					"Reply": " Huh... ? ",
+					"Didascalie": "(mesmerized)",
+					"Start": 59716,
+					"End": 59750
 				},
 				{
 					"Reply": " M-mary. ",
@@ -1245,6 +1357,12 @@
 					"Didascalie": "(sigh)",
 					"Start": 110191,
 					"End": 110231
+				},
+				{
+					"Reply": "Oooh... ",
+					"Didascalie": "",
+					"Start": 110373,
+					"End": 110381
 				},
 				{
 					"Reply": "Look! Look at THAT! ",
@@ -1275,6 +1393,12 @@
 					"Didascalie": "(Gasp)",
 					"Start": 167325,
 					"End": 167363
+				},
+				{
+					"Reply": "Oh no! Wall-E... ",
+					"Didascalie": "",
+					"Start": 173992,
+					"End": 174009
 				}
 			]
 		},
@@ -1320,6 +1444,12 @@
 					"Didascalie": "",
 					"Start": 67758,
 					"End": 67777
+				},
+				{
+					"Reply": "Captain... ",
+					"Didascalie": "",
+					"Start": 68917,
+					"End": 68928
 				},
 				{
 					"Reply": "Sir, the annual reconnaissance has -- ",
@@ -1519,10 +1649,34 @@
 					"End": 70089
 				},
 				{
+					"Reply": " SO! Be sure next mealtime to ask for your free... ",
+					"Didascalie": "(INTERCOM) (snaps out of ennui)",
+					"Start": 71749,
+					"End": 71848
+				},
+				{
+					"Reply": " ...septuacentennial cupcake -- in a cup. ",
+					"Didascalie": "(INTERCOM) (hard to pronounce)",
+					"Start": 71898,
+					"End": 71964
+				},
+				{
 					"Reply": "Positive? ",
 					"Didascalie": "",
 					"Start": 72845,
 					"End": 72855
+				},
+				{
+					"Reply": "But...no probe's ever come back positive... ",
+					"Didascalie": "",
+					"Start": 73184,
+					"End": 73252
+				},
+				{
+					"Reply": " ...before. ",
+					"Didascalie": "(looks at flashing button)",
+					"Start": 73309,
+					"End": 73345
 				},
 				{
 					"Reply": " Home? W-w-we're going back? ",
@@ -1537,10 +1691,28 @@
 					"End": 77180
 				},
 				{
+					"Reply": "Operate... Manuel... ",
+					"Didascalie": "",
+					"Start": 77673,
+					"End": 77694
+				},
+				{
+					"Reply": "Wow... Will you look at that? ",
+					"Didascalie": "",
+					"Start": 78126,
+					"End": 78156
+				},
+				{
 					"Reply": " Well, let's open her up. Step One. Voice command, \"Confirm Acquisition.\" ",
 					"Didascalie": "(reads aloud)",
 					"Start": 79449,
 					"End": 79577
+				},
+				{
+					"Reply": "...Uh... ",
+					"Didascalie": "",
+					"Start": 80305,
+					"End": 80314
 				},
 				{
 					"Reply": "Where's the thingie? ",
@@ -1555,10 +1727,22 @@
 					"End": 80974
 				},
 				{
+					"Reply": " Maybe we missed a step. Show me how you change the text again... ",
+					"Didascalie": "(checks manual)",
+					"Start": 81023,
+					"End": 81143
+				},
+				{
 					"Reply": "Why don't you scan her to be sure. ",
 					"Didascalie": "",
 					"Start": 82156,
 					"End": 82191
+				},
+				{
+					"Reply": "So, then...we're NOT going to Earth? ",
+					"Didascalie": "",
+					"Start": 82542,
+					"End": 82579
 				},
 				{
 					"Reply": "So, uh, I guess things go back to normal, huh? ",
@@ -1603,6 +1787,18 @@
 					"End": 86087
 				},
 				{
+					"Reply": "Define \"Earth\"... ",
+					"Didascalie": "",
+					"Start": 86228,
+					"End": 86246
+				},
+				{
+					"Reply": "Wow... Define \"sea\". ",
+					"Didascalie": "",
+					"Start": 86667,
+					"End": 86688
+				},
+				{
 					"Reply": "Define \"hoe-down\". ",
 					"Didascalie": "",
 					"Start": 112764,
@@ -1639,6 +1835,18 @@
 					"End": 119864
 				},
 				{
+					"Reply": " How...? How'd you find it?! ",
+					"Didascalie": "(amazed)",
+					"Start": 120221,
+					"End": 120276
+				},
+				{
+					"Reply": "We can go back home...for the first time! ",
+					"Didascalie": "",
+					"Start": 120576,
+					"End": 120618
+				},
+				{
 					"Reply": " What's it like now? ",
 					"Didascalie": "(laughs)",
 					"Start": 120659,
@@ -1651,10 +1859,46 @@
 					"End": 120936
 				},
 				{
+					"Reply": "Wait...that doesn't look like Earth... ",
+					"Didascalie": "",
+					"Start": 121687,
+					"End": 121726
+				},
+				{
+					"Reply": "...Where's the grass? ",
+					"Didascalie": "",
+					"Start": 122025,
+					"End": 122047
+				},
+				{
+					"Reply": "...I know that song... ",
+					"Didascalie": "",
+					"Start": 122453,
+					"End": 122476
+				},
+				{
+					"Reply": " And they're... dancing. Yes, dancing! ",
+					"Didascalie": "(observes the dancers' feet)",
+					"Start": 122535,
+					"End": 122598
+				},
+				{
+					"Reply": "...You made it somehow, eh little guy? ",
+					"Didascalie": "",
+					"Start": 122962,
+					"End": 123001
+				},
+				{
 					"Reply": " Wait a minute. ",
 					"Didascalie": "(remembers)",
 					"Start": 123287,
 					"End": 123327
+				},
+				{
+					"Reply": "There you go little guy. You came a long way for a drink of water... Just needed someone to look after you, that's all -- ",
+					"Didascalie": "",
+					"Start": 126349,
+					"End": 126519
 				},
 				{
 					"Reply": " We have to go back. ",
@@ -1747,6 +1991,12 @@
 					"End": 134345
 				},
 				{
+					"Reply": " Out there is our home! Home, Auto! And it's in trouble! I can't just sit here and...and...do nothing! That's all I've done! That's all anyone on this blasted ship has ever done...NOTHING!! ",
+					"Didascalie": "(points out to space)",
+					"Start": 134397,
+					"End": 134707
+				},
+				{
 					"Reply": "I DON'T WANT TO SURVIVE! I WANT TO LIVE! ",
 					"Didascalie": "",
 					"Start": 134900,
@@ -1801,6 +2051,12 @@
 					"End": 140725
 				},
 				{
+					"Reply": "Mutinyyy...Mute...neee...This is your last chance...Auto...You hear me?...Stupid...wheel... ",
+					"Didascalie": "",
+					"Start": 154123,
+					"End": 154263
+				},
+				{
 					"Reply": "The plant! ",
 					"Didascalie": "",
 					"Start": 154720,
@@ -1837,6 +2093,12 @@
 					"End": 161230
 				},
 				{
+					"Reply": "That's it!...A little closer! ",
+					"Didascalie": "",
+					"Start": 162343,
+					"End": 162373
+				},
+				{
 					"Reply": "Gotcha! Ha ha! ",
 					"Didascalie": "",
 					"Start": 162617,
@@ -1871,6 +2133,12 @@
 					"Didascalie": "",
 					"Start": 184943,
 					"End": 185097
+				},
+				{
+					"Reply": " Ahh, it's good to be home... ",
+					"Didascalie": "(laughs)",
+					"Start": 185136,
+					"End": 185190
 				}
 			]
 		},
@@ -1898,17 +2166,6 @@
 			]
 		},
 		{
-			"Character": "ON THE BRIDGE",
-			"Replies": [
-				{
-					"Reply": "Elevator doors swish open. ",
-					"Didascalie": "",
-					"Start": 66681,
-					"End": 66708
-				}
-			]
-		},
-		{
 			"Character": "OUT ON LIDO DECK",
 			"Replies": [
 				{
@@ -1916,23 +2173,6 @@
 					"Didascalie": "",
 					"Start": 70280,
 					"End": 70337
-				}
-			]
-		},
-		{
-			"Character": "BACK ON THE BRIDGE",
-			"Replies": [
-				{
-					"Reply": "The Captain stares at a FLASHING BUTTON on the console. ",
-					"Didascalie": "",
-					"Start": 72195,
-					"End": 72251
-				},
-				{
-					"Reply": "Auto watches the deck plan display. ",
-					"Didascalie": "",
-					"Start": 153663,
-					"End": 153699
 				}
 			]
 		},
@@ -1974,56 +2214,6 @@
 					"Didascalie": "",
 					"Start": 174867,
 					"End": 174896
-				}
-			]
-		},
-		{
-			"Character": "ON THE CAPTAIN",
-			"Replies": [
-				{
-					"Reply": "He manages to turn to the FIRST PAGE OF INSTRUCTIONS. ",
-					"Didascalie": "",
-					"Start": 79289,
-					"End": 79343
-				}
-			]
-		},
-		{
-			"Character": "OUT IN THE REPAIR WARD",
-			"Replies": [
-				{
-					"Reply": "Wall-E stares at the frosted glass doors. ",
-					"Didascalie": "",
-					"Start": 90591,
-					"End": 90633
-				}
-			]
-		},
-		{
-			"Character": "BACK ON WALL-E",
-			"Replies": [
-				{
-					"Reply": "It looks as if Eve is being beheaded. ",
-					"Didascalie": "",
-					"Start": 91692,
-					"End": 91730
-				},
-				{
-					"Reply": "The holo-detector reverses full force. ",
-					"Didascalie": "",
-					"Start": 169253,
-					"End": 169292
-				}
-			]
-		},
-		{
-			"Character": "ALL AROUND THE SHIP",
-			"Replies": [
-				{
-					"Reply": "Alarms sound. ",
-					"Didascalie": "",
-					"Start": 95740,
-					"End": 95754
 				}
 			]
 		},
@@ -2112,6 +2302,17 @@
 			]
 		},
 		{
+			"Character": "BURN-E",
+			"Replies": [
+				{
+					"Reply": "The Lido Deck is now closing...The Lido Deck is now closing. ",
+					"Didascalie": "",
+					"Start": 115964,
+					"End": 116051
+				}
+			]
+		},
+		{
 			"Character": "LIFEGUARD-BOT",
 			"Replies": [
 				{
@@ -2162,17 +2363,6 @@
 			]
 		},
 		{
-			"Character": "OUT ON THE UPPER DECK",
-			"Replies": [
-				{
-					"Reply": "A monorail pulls up. ",
-					"Didascalie": "",
-					"Start": 125750,
-					"End": 125771
-				}
-			]
-		},
-		{
 			"Character": "AUTO",
 			"Replies": [
 				{
@@ -2198,6 +2388,12 @@
 					"Didascalie": "",
 					"Start": 159110,
 					"End": 159114
+				},
+				{
+					"Reply": "Captain? Captain...? ",
+					"Didascalie": "",
+					"Start": 160047,
+					"End": 160068
 				},
 				{
 					"Reply": "Let go. Let go. ",
@@ -2237,13 +2433,13 @@
 			]
 		},
 		{
-			"Character": "DOWN SHOT THROUGH BRIDGE FLOOR APERTURE",
+			"Character": "ON TRASH CHUTE",
 			"Replies": [
 				{
-					"Reply": "The Captain looks up. ",
+					"Reply": "...THE PLANT suddenly reappears. ",
 					"Didascalie": "",
-					"Start": 140553,
-					"End": 140575
+					"Start": 137712,
+					"End": 137745
 				}
 			]
 		},
@@ -2255,17 +2451,6 @@
 					"Didascalie": "",
 					"Start": 142397,
 					"End": 142427
-				}
-			]
-		},
-		{
-			"Character": "BACK IN THE GARBAGE DEPOT",
-			"Replies": [
-				{
-					"Reply": "M-O suddenly drops from a ceiling chute. ",
-					"Didascalie": "",
-					"Start": 143693,
-					"End": 143734
 				}
 			]
 		},
@@ -2298,80 +2483,13 @@
 			]
 		},
 		{
-			"Character": "ON SCREENS AROUND THE AXIOM",
-			"Replies": [
-				{
-					"Reply": "Eve and Wall-E's \"Wanted\" image instantly circulates. ",
-					"Didascalie": "",
-					"Start": 152436,
-					"End": 152490
-				}
-			]
-		},
-		{
-			"Character": "ALL AROUND THE AXIOM",
-			"Replies": [
-				{
-					"Reply": "All screens display the Captain's live feed. ",
-					"Didascalie": "",
-					"Start": 156028,
-					"End": 156073
-				}
-			]
-		},
-		{
-			"Character": "BACK ON EVE AND WALL-E",
-			"Replies": [
-				{
-					"Reply": "Psssst! Hey! Hey! This is the Captain I'm locked in my room. Eve, Wall-E, bring the plant to the Lido Deck. I'll have activated the holo-detector. Now hurry! ",
-					"Didascalie": "",
-					"Start": 156512,
-					"End": 156742
-				}
-			]
-		},
-		{
-			"Character": "BEHIND THE UMBRELLA-BOT",
-			"Replies": [
-				{
-					"Reply": "A weak Wall-E activates his welding beam. ",
-					"Didascalie": "",
-					"Start": 157896,
-					"End": 157938
-				}
-			]
-		},
-		{
-			"Character": "UP ON THE BRIDGE",
-			"Replies": [
-				{
-					"Reply": "Auto watches steward blips disappear from his screen. ",
-					"Didascalie": "",
-					"Start": 158396,
-					"End": 158450
-				}
-			]
-		},
-		{
 			"Character": "ON LIDO DECK",
 			"Replies": [
-				{
-					"Reply": "82. ",
-					"Didascalie": "",
-					"Start": 161608,
-					"End": 161612
-				},
 				{
 					"Reply": "Eve and Wall-E slam into the holo-detector's side. ",
 					"Didascalie": "",
 					"Start": 165488,
 					"End": 165539
-				},
-				{
-					"Reply": "85. ",
-					"Didascalie": "",
-					"Start": 167854,
-					"End": 167858
 				},
 				{
 					"Reply": "The passengers all spill across the deck. ",
@@ -2404,17 +2522,6 @@
 			]
 		},
 		{
-			"Character": "ON THE REAR OF THE DECK",
-			"Replies": [
-				{
-					"Reply": "Eve and Wall-E fly out of the transport tunnel. ",
-					"Didascalie": "",
-					"Start": 164982,
-					"End": 165030
-				}
-			]
-		},
-		{
 			"Character": "ON BRIDGE",
 			"Replies": [
 				{
@@ -2440,17 +2547,6 @@
 					"Didascalie": "",
 					"Start": 170089,
 					"End": 170122
-				}
-			]
-		},
-		{
-			"Character": "BACK ON BRIDGE",
-			"Replies": [
-				{
-					"Reply": "The Captain watches Wall-E being crushed. ",
-					"Didascalie": "",
-					"Start": 169538,
-					"End": 169580
 				}
 			]
 		},
@@ -2506,50 +2602,6 @@
 					"Didascalie": "",
 					"Start": 176035,
 					"End": 176091
-				}
-			]
-		},
-		{
-			"Character": "ON BELLY OF THE AXIOM",
-			"Replies": [
-				{
-					"Reply": "A ROW OF GIANT DOORS open on the side of the ship. ",
-					"Didascalie": "",
-					"Start": 176601,
-					"End": 176652
-				}
-			]
-		},
-		{
-			"Character": "OUT ON THE EMPTY BAY",
-			"Replies": [
-				{
-					"Reply": "The rejects stop. ",
-					"Didascalie": "",
-					"Start": 178806,
-					"End": 178824
-				}
-			]
-		},
-		{
-			"Character": "BACK IN THE TRUCK",
-			"Replies": [
-				{
-					"Reply": "A shaft of sunlight beams down on Wall-E. ",
-					"Didascalie": "",
-					"Start": 178951,
-					"End": 178993
-				}
-			]
-		},
-		{
-			"Character": "CLOSE UP OF THE PLANT",
-			"Replies": [
-				{
-					"Reply": "94. ",
-					"Didascalie": "",
-					"Start": 184544,
-					"End": 184548
 				}
 			]
 		}

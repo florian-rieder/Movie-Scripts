@@ -11,17 +11,6 @@
 	],
 	"Characters": [
 		{
-			"Character": "BY",
-			"Replies": [
-				{
-					"Reply": "BEGIN MAIN 'TITLE SEQUENCE:  An impressionistic montage:  A SILHOUETTED MAN in front of mirror dons his Marine dress blues.  Spit polish shoes laced.  Medals clipped to jacket.  All in CLOSE-UP.  We never see him fully. ",
-					"Didascalie": "",
-					"Start": 70,
-					"End": 290
-				}
-			]
-		},
-		{
 			"Character": "BENNIE",
 			"Replies": [
 				{
@@ -29,17 +18,6 @@
 					"Didascalie": "",
 					"Start": 1642,
 					"End": 1737
-				}
-			]
-		},
-		{
-			"Character": "ACROSS THE CEMETERY",
-			"Replies": [
-				{
-					"Reply": "Brig.  Gen.  FRANCIS XAVIER HUMMEL stands before a headstone: BARBARA MCLEAN HUMMEL 1946-1996. ",
-					"Didascalie": "",
-					"Start": 1761,
-					"End": 1856
 				}
 			]
 		},
@@ -167,6 +145,12 @@
 					"End": 27755
 				},
 				{
+					"Reply": "I'll come straight to the point, General Kramer: Eighty-three Force Reconnaissance Marines have died under my various commands. Forty-seven in northern Laos and southern China ... ",
+					"Didascalie": "",
+					"Start": 28063,
+					"End": 28248
+				},
+				{
 					"Reply": "Who is that.  Identify yourself. ",
 					"Didascalie": "",
 					"Start": 28373,
@@ -225,6 +209,12 @@
 					"Didascalie": "",
 					"Start": 77220,
 					"End": 77273
+				},
+				{
+					"Reply": "Well he'd better give me a goddamn assurance ... ",
+					"Didascalie": "",
+					"Start": 77421,
+					"End": 77470
 				},
 				{
 					"Reply": "That you, Sinclair?  What exactly do you do at the White House? ",
@@ -293,6 +283,12 @@
 					"End": 96099
 				},
 				{
+					"Reply": "HOLD YOUR FIRE HOLD YOUR FIRE .... ",
+					"Didascalie": "",
+					"Start": 97976,
+					"End": 98011
+				},
+				{
 					"Reply": "I never wanted this.  Jesus christ. ",
 					"Didascalie": "",
 					"Start": 102749,
@@ -359,6 +355,12 @@
 					"End": 122150
 				},
 				{
+					"Reply": "Good Mr. Henderson, continue ... ",
+					"Didascalie": "",
+					"Start": 122247,
+					"End": 122280
+				},
+				{
 					"Reply": " Convinced?  Mr. Henderson hopes so. You have two minutes. ",
 					"Didascalie": "(loudspeaker)",
 					"Start": 122655,
@@ -419,12 +421,6 @@
 					"End": 126797
 				},
 				{
-					"Reply": "\"Where there is no law, there is no transgression.\" The Bible. Romans, Chapter 4, Verse 15. ",
-					"Didascalie": "",
-					"Start": 126907,
-					"End": 127002
-				},
-				{
 					"Reply": " I see little difference in my motivation. ",
 					"Didascalie": "(beat)",
 					"Start": 127285,
@@ -473,16 +469,22 @@
 					"End": 135519
 				},
 				{
+					"Reply": "I... I don't understand this. ",
+					"Didascalie": "",
+					"Start": 135594,
+					"End": 135624
+				},
+				{
 					"Reply": "Atom? ",
 					"Didascalie": "",
 					"Start": 135813,
 					"End": 135819
 				},
 				{
-					"Reply": "Launch coordinates 675 dash 439. ",
+					"Reply": "Seventy thousand peqple...  I didn't... i didn't ever... ",
 					"Didascalie": "",
-					"Start": 137138,
-					"End": 137171
+					"Start": 135873,
+					"End": 135930
 				},
 				{
 					"Reply": " Fire. ",
@@ -513,6 +515,18 @@
 					"Didascalie": "",
 					"Start": 143486,
 					"End": 143517
+				},
+				{
+					"Reply": "My god what have I done ... ",
+					"Didascalie": "",
+					"Start": 144605,
+					"End": 144633
+				},
+				{
+					"Reply": " Lower lighthouse ... ",
+					"Didascalie": "(gasps for air)",
+					"Start": 144752,
+					"End": 144777
 				}
 			]
 		},
@@ -530,6 +544,12 @@
 		{
 			"Character": "ISHERWOOD",
 			"Replies": [
+				{
+					"Reply": " Son of a bitch... ",
+					"Didascalie": "(V.O.)",
+					"Start": 7269,
+					"End": 7290
+				},
 				{
 					"Reply": " I was told this was exciting work. ",
 					"Didascalie": "(yawns)",
@@ -555,6 +575,18 @@
 					"End": 10476
 				},
 				{
+					"Reply": "What's hap...  what's happening....? ",
+					"Didascalie": "",
+					"Start": 11115,
+					"End": 11152
+				},
+				{
+					"Reply": "The acid's eating...  it's eating my fucking suit... ",
+					"Didascalie": "",
+					"Start": 11995,
+					"End": 12048
+				},
+				{
 					"Reply": "Oh fuck oh shit oh fuck THIS IS LIKE FUCKING PULP FICTION ONLY IT'S REAL. ",
 					"Didascalie": "",
 					"Start": 13494,
@@ -565,6 +597,18 @@
 					"Didascalie": "",
 					"Start": 64796,
 					"End": 64822
+				},
+				{
+					"Reply": "Wolfburg, got it. Masconi, Magrane, Masters.  No MASON in Wolfburg, Bill, is this arelative of yours... ? ",
+					"Didascalie": "",
+					"Start": 65056,
+					"End": 65166
+				},
+				{
+					"Reply": "Two guys.  Joseph Wainwright, and a.... they don't have a name, just \"inmate 9999?\" ",
+					"Didascalie": "",
+					"Start": 65309,
+					"End": 65395
 				},
 				{
 					"Reply": "This is weird.  They got medical records, place of birth - ",
@@ -722,6 +766,18 @@
 					"End": 16292
 				},
 				{
+					"Reply": "We've talked about this, Carla, we've talked it up, down, inside and out ... ",
+					"Didascalie": "",
+					"Start": 16441,
+					"End": 16520
+				},
+				{
+					"Reply": "You're what ... ? ",
+					"Didascalie": "",
+					"Start": 16653,
+					"End": 16671
+				},
+				{
 					"Reply": " Hello. ",
 					"Didascalie": "(fumbles for phone)",
 					"Start": 33338,
@@ -750,6 +806,12 @@
 					"Didascalie": "",
 					"Start": 33918,
 					"End": 34031
+				},
+				{
+					"Reply": "It's probably just a training exercise. Check into a hotel, order up some champagne, I'll finish up my business and ... ",
+					"Didascalie": "",
+					"Start": 34101,
+					"End": 34223
 				},
 				{
 					"Reply": "B.A. Columbia.  M.A. and P.H.D., Johns Hopkins, biochemistry and toxicology. ",
@@ -794,10 +856,22 @@
 					"End": 42837
 				},
 				{
+					"Reply": " Archbishop of Canterbury.  Imprisoned and executed by Henry the Second ... ",
+					"Didascalie": "(to himself)",
+					"Start": 43006,
+					"End": 43087
+				},
+				{
 					"Reply": " Russian poet and dissident exiled to Siberia. ",
 					"Didascalie": "(to himself)",
 					"Start": 43251,
 					"End": 43301
+				},
+				{
+					"Reply": "You mind if...  uhm....  I take a shot? ",
+					"Didascalie": "",
+					"Start": 44017,
+					"End": 44057
 				},
 				{
 					"Reply": "Take his cuffs off. ",
@@ -828,6 +902,18 @@
 					"Didascalie": "",
 					"Start": 45619,
 					"End": 45656
+				},
+				{
+					"Reply": "I don't understand.... ",
+					"Didascalie": "",
+					"Start": 45754,
+					"End": 45777
+				},
+				{
+					"Reply": "Well yes I suppose ... ",
+					"Didascalie": "",
+					"Start": 45876,
+					"End": 45899
 				},
 				{
 					"Reply": "Yes.  You'll be outside. ",
@@ -884,6 +970,12 @@
 					"End": 51442
 				},
 				{
+					"Reply": "Jesus...  JESUS CHRIST.... ",
+					"Didascalie": "",
+					"Start": 54854,
+					"End": 54881
+				},
+				{
 					"Reply": "All units, this is Caretaker.  WE'VE GOT A SIGNAL SIX. Mason's in the elevator!  Let me know where he stops! ",
 					"Didascalie": "",
 					"Start": 56005,
@@ -908,6 +1000,12 @@
 					"End": 60117
 				},
 				{
+					"Reply": "Shit shit SHIT SHIT ... ",
+					"Didascalie": "",
+					"Start": 63155,
+					"End": 63179
+				},
+				{
 					"Reply": "It's not mine. ",
 					"Didascalie": "",
 					"Start": 64253,
@@ -926,16 +1024,22 @@
 					"End": 64923
 				},
 				{
-					"Reply": "NOT NOW Isherwood.  Go to February 1976.  Who was transferred to Wolfburg from San Quentin that year? ",
-					"Didascalie": "",
-					"Start": 65184,
-					"End": 65288
-				},
-				{
 					"Reply": "Hit nine nine nine nine. ",
 					"Didascalie": "",
 					"Start": 65413,
 					"End": 65438
+				},
+				{
+					"Reply": " F.B.I. miss.  Your father is working with us.  He's helping us resolve a.... ",
+					"Didascalie": "(flashes his I.D.)",
+					"Start": 69431,
+					"End": 69513
+				},
+				{
+					"Reply": " .... dangerous situation. ",
+					"Didascalie": "(looks at Mason)",
+					"Start": 69535,
+					"End": 69564
 				},
 				{
 					"Reply": "Yes madam.  We've got to go, John. ",
@@ -968,6 +1072,12 @@
 					"End": 73929
 				},
 				{
+					"Reply": "No sir, but I've studied them .... ",
+					"Didascalie": "",
+					"Start": 74026,
+					"End": 74061
+				},
+				{
 					"Reply": "A little, sir. ",
 					"Didascalie": "",
 					"Start": 74212,
@@ -980,6 +1090,12 @@
 					"End": 74410
 				},
 				{
+					"Reply": "Sir, these are very complicated devices... ",
+					"Didascalie": "",
+					"Start": 74479,
+					"End": 74522
+				},
+				{
 					"Reply": "Sir? ",
 					"Didascalie": "",
 					"Start": 74634,
@@ -990,6 +1106,18 @@
 					"Didascalie": "",
 					"Start": 75238,
 					"End": 75249
+				},
+				{
+					"Reply": "I join the F.B.I. I ask for fieldwork.  They say, \"Bill, you're too fucking smart for field work.\" Every year I put in for a transfer and every year I sit in that goddamn lab like the fucking Maytag repairman in the commercial.  Then the call finally comes, and it's a whole fuckin, city at stake?  Oh Jesus... ",
+					"Didascalie": "",
+					"Start": 75326,
+					"End": 75645
+				},
+				{
+					"Reply": "I've got some bad news and some really bad news sir.  Maybe the bad news isn't bad, maybe actually it's good .... ",
+					"Didascalie": "",
+					"Start": 75773,
+					"End": 75889
 				},
 				{
 					"Reply": "My girlfriend's pregnant. ",
@@ -1016,6 +1144,12 @@
 					"End": 84709
 				},
 				{
+					"Reply": " What if this thing crashes ... ",
+					"Didascalie": "(Dando stops buckling)",
+					"Start": 84737,
+					"End": 84772
+				},
+				{
 					"Reply": "What's going on? ",
 					"Didascalie": "",
 					"Start": 93617,
@@ -1038,6 +1172,18 @@
 					"Didascalie": "",
 					"Start": 98923,
 					"End": 98959
+				},
+				{
+					"Reply": " .... god Jesus we're gonna die   Sanchez, agitated, exits the Command Trailer with Director Womack.  They huddle, speaking in hushed voices. ",
+					"Didascalie": "(over tac radio)",
+					"Start": 99182,
+					"End": 99327
+				},
+				{
+					"Reply": "Don't shoot me. MASON was actually slinging it over his shoulder... ",
+					"Didascalie": "",
+					"Start": 101656,
+					"End": 101724
 				},
 				{
 					"Reply": "Wait.  Where're you going? ",
@@ -1068,6 +1214,12 @@
 					"Didascalie": "",
 					"Start": 102414,
 					"End": 102435
+				},
+				{
+					"Reply": " I don't know whatyou did or why you were sent to jail, but there are a million people across that bay who might die... ",
+					"Didascalie": "(MASON  stops)",
+					"Start": 104538,
+					"End": 104664
 				},
 				{
 					"Reply": " Fuck this. Stop.  Freeze. ",
@@ -1274,6 +1426,12 @@
 					"End": 123254
 				},
 				{
+					"Reply": "I... I don't know if I can do this. ",
+					"Didascalie": "",
+					"Start": 123379,
+					"End": 123415
+				},
+				{
 					"Reply": "Well thank-you, thank-you very much. ",
 					"Didascalie": "",
 					"Start": 123646,
@@ -1352,10 +1510,22 @@
 					"End": 131639
 				},
 				{
+					"Reply": " I only ask because, in our current situation, it might be useful information ... ",
+					"Didascalie": "(cont'd)",
+					"Start": 131869,
+					"End": 131956
+				},
+				{
 					"Reply": " Mason.  Mason? ",
 					"Didascalie": "(no response)",
 					"Start": 132985,
 					"End": 133004
+				},
+				{
+					"Reply": "Shit.... ",
+					"Didascalie": "",
+					"Start": 133277,
+					"End": 133286
 				},
 				{
 					"Reply": " What happened - the injustice done to you - doesn't mean you can walk away from this.  A million people across that Bay will die. ",
@@ -1412,6 +1582,12 @@
 					"End": 144720
 				},
 				{
+					"Reply": "Don't ... ",
+					"Didascalie": "",
+					"Start": 145434,
+					"End": 145444
+				},
+				{
 					"Reply": "You shoot me, I'll drop this and we're both dead.  One of these pearlslll kill everything within 200 feet.  You know how this shit works? ",
 					"Didascalie": "",
 					"Start": 146789,
@@ -1440,6 +1616,12 @@
 					"Didascalie": "",
 					"Start": 153734,
 					"End": 153854
+				},
+				{
+					"Reply": " Pier 39 come in.  Pier 39  ... ",
+					"Didascalie": "(V.O.)",
+					"Start": 156634,
+					"End": 156669
 				},
 				{
 					"Reply": " My god he's alive. ",
@@ -1524,12 +1706,24 @@
 					"Didascalie": "",
 					"Start": 159356,
 					"End": 159373
+				},
+				{
+					"Reply": "You want to know who really killed President Kennedy, honey...? ",
+					"Didascalie": "",
+					"Start": 160354,
+					"End": 160418
 				}
 			]
 		},
 		{
 			"Character": "CARLA",
 			"Replies": [
+				{
+					"Reply": "Wanna keep you locked up at home ... ",
+					"Didascalie": "",
+					"Start": 14893,
+					"End": 14930
+				},
 				{
 					"Reply": " Hey there. ",
 					"Didascalie": "(New Jersey accent)",
@@ -1579,10 +1773,22 @@
 					"End": 15862
 				},
 				{
+					"Reply": "You think I'm too...  ethnic for country music? ",
+					"Didascalie": "",
+					"Start": 15932,
+					"End": 15980
+				},
+				{
 					"Reply": " Six years, Bill.  We've lived together six years. ",
 					"Didascalie": "(GOODSPEED frowns)",
 					"Start": 16365,
 					"End": 16419
+				},
+				{
+					"Reply": "Billy, this probably isn't the best time ... ",
+					"Didascalie": "",
+					"Start": 16537,
+					"End": 16582
 				},
 				{
 					"Reply": "I'm pregnant. ",
@@ -1591,16 +1797,40 @@
 					"End": 16631
 				},
 				{
+					"Reply": "Don't stop...  do no stop. ",
+					"Didascalie": "",
+					"Start": 33232,
+					"End": 33259
+				},
+				{
+					"Reply": "No. I'm sorry, but NO.  I need you here with me.  We need to talk about this... ",
+					"Didascalie": "",
+					"Start": 33561,
+					"End": 33643
+				},
+				{
 					"Reply": " Really? ",
 					"Didascalie": "(smiles)",
 					"Start": 34069,
 					"End": 34081
 				},
 				{
+					"Reply": "... We'll finish what we started.  Baby, are you sexy in those boots ... ",
+					"Didascalie": "",
+					"Start": 34238,
+					"End": 34313
+				},
+				{
 					"Reply": " Hi! Bill and Carla ain't in! State your business!  Make it interesting! ",
 					"Didascalie": "(recorded voice message)",
 					"Start": 50451,
 					"End": 50530
+				},
+				{
+					"Reply": "Like hell I'm not... ",
+					"Didascalie": "",
+					"Start": 50955,
+					"End": 50976
 				},
 				{
 					"Reply": "Would you please tell me what is going on? ",
@@ -1613,6 +1843,12 @@
 					"Didascalie": "(face buried in his hands)",
 					"Start": 153631,
 					"End": 153683
+				},
+				{
+					"Reply": "Would you please tell me what this is all about... ? ",
+					"Didascalie": "",
+					"Start": 160283,
+					"End": 160336
 				}
 			]
 		},
@@ -1676,6 +1912,17 @@
 					"Didascalie": "",
 					"Start": 19295,
 					"End": 19363
+				}
+			]
+		},
+		{
+			"Character": "TOURISTS",
+			"Replies": [
+				{
+					"Reply": "Hey, what are you doing... ? -- wait a minute, what's going on... ? ",
+					"Didascalie": "",
+					"Start": 20017,
+					"End": 20087
 				}
 			]
 		},
@@ -1808,12 +2055,6 @@
 					"End": 32766
 				},
 				{
-					"Reply": "Died in 1979.  The guards we contacted are useless.  There was a janitor, \"Alcatraz Al\". He worked there for twenty years, but he died in 1983. ",
-					"Didascalie": "",
-					"Start": 35613,
-					"End": 35761
-				},
-				{
 					"Reply": "It's a Hollywood myth.  No one's escaped Alcatraz and lived. ",
 					"Didascalie": "",
 					"Start": 35870,
@@ -1829,6 +2070,18 @@
 					"Didascalie": "",
 					"Start": 24431,
 					"End": 24476
+				},
+				{
+					"Reply": "Well, sir, frankly ... ",
+					"Didascalie": "",
+					"Start": 24771,
+					"End": 24794
+				},
+				{
+					"Reply": " Seventeen hours left.  What the fuck is he doing?  How much time does it take to transfer money from one account ... ",
+					"Didascalie": "(mumbling)",
+					"Start": 76529,
+					"End": 76654
 				},
 				{
 					"Reply": "Maybe now they'll pay up. ",
@@ -2109,10 +2362,22 @@
 					"End": 28507
 				},
 				{
+					"Reply": "General, I've just spoken to the President and he is clear as hell on this: We will not negotiate with you and we do not care if ... ",
+					"Didascalie": "",
+					"Start": 30737,
+					"End": 30874
+				},
+				{
 					"Reply": "The only thing the President will give you is a fair trial after you're caught, General. ",
 					"Didascalie": "",
 					"Start": 77498,
 					"End": 77589
+				},
+				{
+					"Reply": "Now you give me some coddamn respect, General .... ",
+					"Didascalie": "",
+					"Start": 77801,
+					"End": 77852
 				},
 				{
 					"Reply": "The President arrives in three hours.  His directive is to string Hummel along until the airstrike is operational. ",
@@ -2148,6 +2413,12 @@
 					"Didascalie": "",
 					"Start": 28606,
 					"End": 28624
+				},
+				{
+					"Reply": "Well that's not so bad ... ",
+					"Didascalie": "",
+					"Start": 31406,
+					"End": 31433
 				}
 			]
 		},
@@ -2183,6 +2454,12 @@
 			"Character": "GENERAL PETERSON",
 			"Replies": [
 				{
+					"Reply": "In a dense urban area, sixty, seventy ... ",
+					"Didascalie": "",
+					"Start": 31338,
+					"End": 31380
+				},
+				{
 					"Reply": "Napalm.  Standard pgison gas can be neutralized by napalm. It burns it up -- consumes it upon detonation.  The problem is that V.X. gas is ten times more toxic and designed to withstand napalm. Hummel must know about Willy Peter, General. ",
 					"Didascalie": "",
 					"Start": 31718,
@@ -2199,6 +2476,18 @@
 					"Didascalie": "",
 					"Start": 35788,
 					"End": 35849
+				},
+				{
+					"Reply": "I need four F-16's equipped with air-to-ground missiles within... ",
+					"Didascalie": "",
+					"Start": 49492,
+					"End": 49561
+				},
+				{
+					"Reply": " .... twenty-six hours. ",
+					"Didascalie": "(consults wristwatch)",
+					"Start": 49587,
+					"End": 49614
 				},
 				{
 					"Reply": "You can.  And you will. ",
@@ -2239,6 +2528,12 @@
 					"Didascalie": "(beat)",
 					"Start": 35365,
 					"End": 35444
+				},
+				{
+					"Reply": "Okay, one more time: down this second fork fifty-seven paces to a septic chamber.  Turn left at the water pump, then forty-two paces to the prison showers ... ",
+					"Didascalie": "",
+					"Start": 71231,
+					"End": 71394
 				},
 				{
 					"Reply": " That's not what you said three minutes ago. ",
@@ -2391,6 +2686,12 @@
 					"End": 90573
 				},
 				{
+					"Reply": "Who is this guy... ? ",
+					"Didascalie": "",
+					"Start": 90905,
+					"End": 90926
+				},
+				{
 					"Reply": " After you. ",
 					"Didascalie": "(MASON nods yes)",
 					"Start": 91141,
@@ -2415,6 +2716,12 @@
 					"End": 94285
 				},
 				{
+					"Reply": "spilled the same blood in the same mud.  You know goddamn well that I cannot give that order... ",
+					"Didascalie": "",
+					"Start": 95093,
+					"End": 95191
+				},
+				{
 					"Reply": "You men following the General: You are United States Marines and under oath you forgotten that?  We all have shipmates we remember - some of 'em were shit on and spit on by the Pentagon - that doesn't give you the right to mutiny. ",
 					"Didascalie": "",
 					"Start": 95611,
@@ -2423,19 +2730,14 @@
 			]
 		},
 		{
-			"Character": "BACK TO THE PENTAGON CORRIDOR",
-			"Replies": [
-				{
-					"Reply": "C.I.A. DIRECTORY AMWAY it won't bite anyone - if handled correctly. When was the last time you saw him? ",
-					"Didascalie": "",
-					"Start": 37177,
-					"End": 37287
-				}
-			]
-		},
-		{
 			"Character": "AGENT SANCHEZ",
 			"Replies": [
+				{
+					"Reply": "Director, no one's ever escaped from Alcatraz ... ",
+					"Didascalie": "",
+					"Start": 39577,
+					"End": 39627
+				},
 				{
 					"Reply": " I want one thing: how he escaped Alcatraz - specifically the route he took through the island's tunnels. ",
 					"Didascalie": "(turns to Sanchez)",
@@ -2500,6 +2802,12 @@
 					"Didascalie": "",
 					"Start": 42199,
 					"End": 42235
+				},
+				{
+					"Reply": "I don't have time for this shit... ",
+					"Didascalie": "",
+					"Start": 42556,
+					"End": 42592
 				},
 				{
 					"Reply": "No. ",
@@ -2574,6 +2882,12 @@
 					"End": 76030
 				},
 				{
+					"Reply": " Goodspeed, GODDAMN IT ... ",
+					"Didascalie": "(V.0.)",
+					"Start": 76104,
+					"End": 76134
+				},
+				{
 					"Reply": "Agent Cord, get over to the Pan Pacific Hotel and bring Goodspeed's girlfriend to this facility please!! ",
 					"Didascalie": "",
 					"Start": 76231,
@@ -2584,6 +2898,12 @@
 					"Didascalie": "",
 					"Start": 81598,
 					"End": 81621
+				},
+				{
+					"Reply": "What's that...what the hell is that? ",
+					"Didascalie": "",
+					"Start": 93409,
+					"End": 93446
 				},
 				{
 					"Reply": "Oh Christ this isn't happening. ",
@@ -2608,6 +2928,12 @@
 					"Didascalie": "",
 					"Start": 100634,
 					"End": 100698
+				},
+				{
+					"Reply": "My god, you're not saying ... ",
+					"Didascalie": "",
+					"Start": 100848,
+					"End": 100878
 				},
 				{
 					"Reply": " Goodspeed, Goodspeed, come in. ",
@@ -2825,6 +3151,12 @@
 					"End": 52759
 				},
 				{
+					"Reply": "well if it excites-you ... ",
+					"Didascalie": "",
+					"Start": 52815,
+					"End": 52842
+				},
+				{
 					"Reply": "Shall we do this outside?  In the sunshine? ",
 					"Didascalie": "",
 					"Start": 53447,
@@ -2867,10 +3199,28 @@
 					"End": 55042
 				},
 				{
+					"Reply": "Whoops .... I'm feeling tired .... Whoops .... MASON lets Womack drop a foot. Womack SCREAMS! GOODSPEED drops his gun and grabs the clothesline.  MASON bolts from the balcony into the suitels library. ",
+					"Didascalie": "",
+					"Start": 55449,
+					"End": 55661
+				},
+				{
+					"Reply": "Jade Angelou.  That's A..n..g..e..l .... ",
+					"Didascalie": "",
+					"Start": 58882,
+					"End": 58923
+				},
+				{
 					"Reply": "Is this Jade Angelou? ",
 					"Didascalie": "",
 					"Start": 59720,
 					"End": 59742
+				},
+				{
+					"Reply": " Don't be shocked.  I don't have much time.  Please listen carefully  .... ",
+					"Didascalie": "(lengthy pause)",
+					"Start": 59846,
+					"End": 59925
 				},
 				{
 					"Reply": "Jade. ",
@@ -2883,6 +3233,12 @@
 					"Didascalie": "",
 					"Start": 66781,
 					"End": 66804
+				},
+				{
+					"Reply": "Let's uhm...  let's walk a ways. ",
+					"Didascalie": "",
+					"Start": 66996,
+					"End": 67029
 				},
 				{
 					"Reply": "A while. ",
@@ -2913,6 +3269,12 @@
 					"Didascalie": "(grumbles)",
 					"Start": 68047,
 					"End": 68074
+				},
+				{
+					"Reply": "Maybe this isn't the best time... ",
+					"Didascalie": "",
+					"Start": 68194,
+					"End": 68229
 				},
 				{
 					"Reply": " Jade.  Here sitdown. ",
@@ -3011,6 +3373,12 @@
 					"End": 82410
 				},
 				{
+					"Reply": "Smile Goodspeed.  Live a little.  Life is short...  especially yours. ",
+					"Didascalie": "",
+					"Start": 84915,
+					"End": 84987
+				},
+				{
 					"Reply": "Wait for me to unlock the door. ",
 					"Didascalie": "",
 					"Start": 88367,
@@ -3027,6 +3395,12 @@
 					"Didascalie": "(unshoulders his equipment)",
 					"Start": 88865,
 					"End": 88894
+				},
+				{
+					"Reply": " That's been said to me before .... ",
+					"Didascalie": "(grumbles to himself)",
+					"Start": 89263,
+					"End": 89302
 				},
 				{
 					"Reply": "Welcome to the Rock. ",
@@ -3083,6 +3457,12 @@
 					"End": 106822
 				},
 				{
+					"Reply": "'Course I've gained a few since ... ",
+					"Didascalie": "",
+					"Start": 107331,
+					"End": 107367
+				},
+				{
 					"Reply": " You said that's where the fucking poison is, Goodspeed. ",
 					"Didascalie": "(off Goodspeed's blank stare)",
 					"Start": 107669,
@@ -3131,10 +3511,22 @@
 					"End": 110743
 				},
 				{
+					"Reply": "What...  exactly does this do to you? ",
+					"Didascalie": "",
+					"Start": 111647,
+					"End": 111685
+				},
+				{
 					"Reply": "Sounds like my first marriage. ",
 					"Didascalie": "",
 					"Start": 112096,
 					"End": 112127
+				},
+				{
+					"Reply": "C'mon c'mon....  faster .... ",
+					"Didascalie": "",
+					"Start": 113338,
+					"End": 113367
 				},
 				{
 					"Reply": "I thought you were cool under pressure. ",
@@ -3195,6 +3587,12 @@
 					"Didascalie": "",
 					"Start": 123291,
 					"End": 123360
+				},
+				{
+					"Reply": "There's only one way to find out.  I'll try to give you time.  And Goodspeed.... ",
+					"Didascalie": "",
+					"Start": 123431,
+					"End": 123515
 				},
 				{
 					"Reply": " Don't be an idiot. Put that on. ",
@@ -3269,6 +3667,12 @@
 					"End": 128941
 				},
 				{
+					"Reply": "You referring to your intellect, Goodspeed?  Or another portion of your anatomy .... ",
+					"Didascalie": "",
+					"Start": 129092,
+					"End": 129179
+				},
+				{
 					"Reply": "Five feet by seven.  Try living in one for a year.  What happened? ",
 					"Didascalie": "",
 					"Start": 129228,
@@ -3291,6 +3695,12 @@
 					"Didascalie": "",
 					"Start": 129651,
 					"End": 129732
+				},
+				{
+					"Reply": "Familiar with the name Hoover, Goodspeed?  I don't mean a vacuum cleaner ... ",
+					"Didascalie": "",
+					"Start": 129771,
+					"End": 129850
 				},
 				{
 					"Reply": "Some trade.  They'd get the microfilm and I'd get a bullet in the head. ",
@@ -3433,73 +3843,6 @@
 			]
 		},
 		{
-			"Character": "IN THE OBSERVATION ROOM",
-			"Replies": [
-				{
-					"Reply": "F.B.I. DIRECTOR WOMACK Impressive, Sanchez. ",
-					"Didascalie": "",
-					"Start": 43953,
-					"End": 44000
-				},
-				{
-					"Reply": "F.B.I. DIRECTOR WOMACK Don't give away the farm, Goodspeed. ",
-					"Didascalie": "",
-					"Start": 46003,
-					"End": 46066
-				}
-			]
-		},
-		{
-			"Character": "THE INTERROGATION ROOM",
-			"Replies": [
-				{
-					"Reply": "SANCHEZ draws a blank on Solzhenitsyn. ",
-					"Didascalie": "",
-					"Start": 43328,
-					"End": 43367
-				}
-			]
-		},
-		{
-			"Character": "IN THE INTERROGATION ROOM MASON",
-			"Replies": [
-				{
-					"Reply": "stares at the pardon contract, thinking. ",
-					"Didascalie": "",
-					"Start": 45502,
-					"End": 45543
-				}
-			]
-		},
-		{
-			"Character": "IN THE INTERROGATION ROOM - MASON",
-			"Replies": [
-				{
-					"Reply": "places THE QUARTER on the floor.  He raises his metal chair; SLAMS it down on the quarter. ",
-					"Didascalie": "",
-					"Start": 47587,
-					"End": 47678
-				},
-				{
-					"Reply": "picks up the coin.  It has a DEEP BURR in it.  He moves to the mirror; begins carving into the glass. ",
-					"Didascalie": "",
-					"Start": 47819,
-					"End": 47921
-				}
-			]
-		},
-		{
-			"Character": "IN THE BATHROOM - MASON",
-			"Replies": [
-				{
-					"Reply": "emerges from the shower wearing a huge hotel bathrobe. ",
-					"Didascalie": "",
-					"Start": 52523,
-					"End": 52578
-				}
-			]
-		},
-		{
 			"Character": "MARSHAL CORD",
 			"Replies": [
 				{
@@ -3558,6 +3901,17 @@
 			]
 		},
 		{
+			"Character": "RADIO NEWSMAN",
+			"Replies": [
+				{
+					"Reply": "This just in: More than twenty highway patrolmen are involved in a highspeed chase on Van Ness Boulevard, north of Trocadero ... ",
+					"Didascalie": "",
+					"Start": 58570,
+					"End": 58703
+				}
+			]
+		},
+		{
 			"Character": "JADE ANGELOU",
 			"Replies": [
 				{
@@ -3575,19 +3929,14 @@
 			]
 		},
 		{
-			"Character": "MARYLAND - DAY",
-			"Replies": [
-				{
-					"Reply": "Marvin Isherwood is enjoying another thrilling day. he grabs for the RINGING PHONE. ",
-					"Didascalie": "",
-					"Start": 64690,
-					"End": 64774
-				}
-			]
-		},
-		{
 			"Character": "JADE",
 			"Replies": [
+				{
+					"Reply": "I uhm...  I'm not quite sure what to say. This is all a bit much ... ",
+					"Didascalie": "",
+					"Start": 66821,
+					"End": 66892
+				},
 				{
 					"Reply": "So  how long have you been out? ",
 					"Didascalie": "",
@@ -3625,6 +3974,12 @@
 					"End": 68116
 				},
 				{
+					"Reply": "How can I answer that?  I don't know if we can.... after 19 years, just start like that. ",
+					"Didascalie": "",
+					"Start": 68585,
+					"End": 68676
+				},
+				{
 					"Reply": "But I don't know you. ",
 					"Didascalie": "",
 					"Start": 68733,
@@ -3647,28 +4002,6 @@
 					"Didascalie": "",
 					"Start": 69580,
 					"End": 69587
-				}
-			]
-		},
-		{
-			"Character": "AT A RECTANGULAR TABLE - MASON",
-			"Replies": [
-				{
-					"Reply": "sits at the head of the table 122 in front of a SCALE MODEL OF ALCATRAZ.  COMMANDER ANDERSON and ten NAVY S.E.A.L.s look toward Mason. ",
-					"Didascalie": "",
-					"Start": 71025,
-					"End": 71160
-				}
-			]
-		},
-		{
-			"Character": "ACROSS THE ROOM - GOODSPEED",
-			"Replies": [
-				{
-					"Reply": "looks up from a computer screen generating 3-D images of different angles of a V.X. ROCKET.  He walks over to the table.  Anderson and the other S.E.A.L.s stare at him. ",
-					"Didascalie": "",
-					"Start": 73378,
-					"End": 73547
 				}
 			]
 		},
@@ -3697,6 +4030,12 @@
 		{
 			"Character": "LOUIS LINDSTROM",
 			"Replies": [
+				{
+					"Reply": "This is going nowhere Frank .... ",
+					"Didascalie": "",
+					"Start": 78274,
+					"End": 78307
+				},
 				{
 					"Reply": "What's the word from Mojave? ",
 					"Didascalie": "",
@@ -3746,17 +4085,6 @@
 			]
 		},
 		{
-			"Character": "AT THE BACK OF THE HOLD",
-			"Replies": [
-				{
-					"Reply": "139F SHEPHERD, with a nod, directs MASON to sit down on the S.D.U. ",
-					"Didascalie": "",
-					"Start": 84032,
-					"End": 84101
-				}
-			]
-		},
-		{
 			"Character": "BAXTER",
 			"Replies": [
 				{
@@ -3788,6 +4116,12 @@
 					"Didascalie": "(consults his watch)",
 					"Start": 133605,
 					"End": 133632
+				},
+				{
+					"Reply": "I'...I don't know Frank. ",
+					"Didascalie": "",
+					"Start": 135833,
+					"End": 135858
 				},
 				{
 					"Reply": "He's right Frank.  Authorize the launch or it's over. ",
@@ -3851,46 +4185,24 @@
 			]
 		},
 		{
-			"Character": "IN THE CRAWL SPACE - MASON",
+			"Character": "MALE VOICE",
 			"Replies": [
 				{
-					"Reply": "rolls past the STEAM RELEME VALVE and disappears. ",
-					"Didascalie": "",
-					"Start": 89895,
-					"End": 89945
+					"Reply": " Hell...  hello. ",
+					"Didascalie": "(loudspeaker)",
+					"Start": 121895,
+					"End": 121915
 				}
 			]
 		},
 		{
-			"Character": "ON THE MEZZANINE",
+			"Character": "LARRY HENDERSON",
 			"Replies": [
 				{
-					"Reply": "CPTS.  FRYE, DARROW and PVTS.  COX, MCCOY, have their weapons trained; they're pumped and trigger happy. ",
+					"Reply": "My n...name is L... larry Henderson.  I'm forty-eight. ",
 					"Didascalie": "",
-					"Start": 95397,
-					"End": 95502
-				}
-			]
-		},
-		{
-			"Character": "FIGHT SCENE",
-			"Replies": [
-				{
-					"Reply": "Mason's sprawled on the floor of the cart.  Hendrix levels his M-16. MASON whipsaws the legs under Hendrix, bowling him over, the M-16 falling away from the cart. ",
-					"Didascalie": "",
-					"Start": 116950,
-					"End": 117114
-				}
-			]
-		},
-		{
-			"Character": "ON THE GRATED LEVEL ABOVE GOODSPEED",
-			"Replies": [
-				{
-					"Reply": "- PVT.  MCCOY appears. Looking down, he sees GOODSPEED and Cox.  He cinches his REPELLING CLIP to the steel railing. ",
-					"Didascalie": "",
-					"Start": 125464,
-					"End": 125581
+					"Start": 122175,
+					"End": 122230
 				}
 			]
 		},
@@ -3906,13 +4218,13 @@
 			]
 		},
 		{
-			"Character": "BACK TO SCENE - HUMMEL",
+			"Character": "CIWTER FISHERMAN",
 			"Replies": [
 				{
-					"Reply": "watches the video monitor nervously. His jaws twitch. ",
+					"Reply": "What the hell.... ? ",
 					"Didascalie": "",
-					"Start": 138994,
-					"End": 139048
+					"Start": 139885,
+					"End": 139905
 				}
 			]
 		},
@@ -3948,28 +4260,6 @@
 					"Didascalie": "(V.O.)",
 					"Start": 159550,
 					"End": 159620
-				}
-			]
-		},
-		{
-			"Character": "IN THE INFIRMARY WASHROOM - GOODSPEED",
-			"Replies": [
-				{
-					"Reply": "drags Hummel inside. Hummel collapses against the wall. ",
-					"Didascalie": "",
-					"Start": 144157,
-					"End": 144213
-				}
-			]
-		},
-		{
-			"Character": "CORRIDOR - DAY MASON",
-			"Replies": [
-				{
-					"Reply": "advances toward the command center's door. Suddenly the HEAVY STEEL DOOR creaks open and -- ",
-					"Didascalie": "",
-					"Start": 145535,
-					"End": 145628
 				}
 			]
 		}

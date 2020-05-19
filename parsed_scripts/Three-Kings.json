@@ -608,12 +608,6 @@
 					"End": 82910
 				},
 				{
-					"Reply": " 'Little deuce coupe with a fiat head mill, she'll walk a Thunderbird like it's standin' still --'  CLOSE UP A SHIITE MAN is smashed in the face with a club. ",
-					"Didascalie": "(under his breath)",
-					"Start": 83148,
-					"End": 83371
-				},
-				{
 					"Reply": "'She'll do a hundred and forty with the top end floored --'  The Little Girl with arm casts is screaming while her father, the Man In Glasses, tries to hold her. ",
 					"Didascalie": "",
 					"Start": 83474,
@@ -2203,58 +2197,6 @@
 			]
 		},
 		{
-			"Character": "FANTASY SEQUENCE IN SLOW MOTION",
-			"Replies": [
-				{
-					"Reply": "The Iraqi's head pops three feet into the air. ",
-					"Didascalie": "",
-					"Start": 4443,
-					"End": 4490
-				}
-			]
-		},
-		{
-			"Character": "BACK TO THE SCENE",
-			"Replies": [
-				{
-					"Reply": "Bullshit, that's not what happened. ",
-					"Didascalie": "",
-					"Start": 4566,
-					"End": 4602
-				},
-				{
-					"Reply": "Archie bursts out the front door, followed by Troy and Doc. ",
-					"Didascalie": "",
-					"Start": 56164,
-					"End": 56224
-				},
-				{
-					"Reply": "Vig looks puzzled. ",
-					"Didascalie": "",
-					"Start": 60837,
-					"End": 60856
-				},
-				{
-					"Reply": "Vig pushes the Humvee's accelerator to the floor. ",
-					"Didascalie": "",
-					"Start": 100801,
-					"End": 100851
-				},
-				{
-					"Reply": "Troy drops the other Vuitton bag, catches the Boy and has both children under his arms like footballs -- when suddenly Troy is grabbed from behind with a cord around his neck -- he lands on his back with the two children in his arms. ",
-					"Didascalie": "",
-					"Start": 106469,
-					"End": 106718
-				},
-				{
-					"Reply": "U.S. Soldiers watch. ",
-					"Didascalie": "",
-					"Start": 205561,
-					"End": 205582
-				}
-			]
-		},
-		{
 			"Character": "BILL SMITHSON",
 			"Replies": [
 				{
@@ -2705,12 +2647,6 @@
 					"Didascalie": "",
 					"Start": 34342,
 					"End": 34461
-				},
-				{
-					"Reply": "More like 65. ",
-					"Didascalie": "",
-					"Start": 34587,
-					"End": 34601
 				},
 				{
 					"Reply": "Leave at dawn, back by lunch, not a big deal. Of course -- ",
@@ -4359,17 +4295,6 @@
 			]
 		},
 		{
-			"Character": "CLOSE UP - THE RUMPLED PAPER",
-			"Replies": [
-				{
-					"Reply": "is a handwritten map, with scant Arabic writing, a few spare roads, numbers, and three small boxes. ",
-					"Didascalie": "",
-					"Start": 18745,
-					"End": 18850
-				}
-			]
-		},
-		{
 			"Character": "CATHY DAITCH",
 			"Replies": [
 				{
@@ -5147,12 +5072,6 @@
 					"Didascalie": "",
 					"Start": 131813,
 					"End": 131828
-				},
-				{
-					"Reply": "We're missing 28. ",
-					"Didascalie": "",
-					"Start": 132343,
-					"End": 132361
 				},
 				{
 					"Reply": "What about the gold? ",
@@ -6299,28 +6218,6 @@
 			]
 		},
 		{
-			"Character": "FANTASY - CONCRETE AND PLASTER",
-			"Replies": [
-				{
-					"Reply": "falls onto the bed of a sleeping child. ",
-					"Didascalie": "",
-					"Start": 128729,
-					"End": 128769
-				}
-			]
-		},
-		{
-			"Character": "FANTASY - DARLENE",
-			"Replies": [
-				{
-					"Reply": "pushes a baby carriage down an idyllic tree-lined sidewalk. ",
-					"Didascalie": "",
-					"Start": 129067,
-					"End": 129127
-				}
-			]
-		},
-		{
 			"Character": "SHIITE CLERIC",
 			"Replies": [
 				{
@@ -6490,12 +6387,6 @@
 					"End": 140177
 				},
 				{
-					"Reply": "Everyone but the priests. That's 55. ",
-					"Didascalie": "",
-					"Start": 140402,
-					"End": 140454
-				},
-				{
 					"Reply": "It's not on a map. You can look. ",
 					"Didascalie": "",
 					"Start": 140603,
@@ -6642,17 +6533,6 @@
 			]
 		},
 		{
-			"Character": "FANTASY - TROY",
-			"Replies": [
-				{
-					"Reply": "holds the naked baby against his naked chest. ",
-					"Didascalie": "",
-					"Start": 142949,
-					"End": 142995
-				}
-			]
-		},
-		{
 			"Character": "SHIITE",
 			"Replies": [
 				{
@@ -6737,34 +6617,6 @@
 					"Didascalie": "",
 					"Start": 153422,
 					"End": 153435
-				}
-			]
-		},
-		{
-			"Character": "FANTASY - IRAQI SOLDIERS",
-			"Replies": [
-				{
-					"Reply": "smash the windows of a Benneton store, then a Cartier store. ",
-					"Didascalie": "",
-					"Start": 157361,
-					"End": 157422
-				},
-				{
-					"Reply": "drag patients from their hospital beds and AN IRAQI SOLDIER dives on top of a crying NURSE and starts to rape her while a BABY is taken from an incubator, which is stolen. ",
-					"Didascalie": "",
-					"Start": 157645,
-					"End": 157827
-				}
-			]
-		},
-		{
-			"Character": "AERIAL VIEW",
-			"Replies": [
-				{
-					"Reply": "The Mercedes and the Rolls diverge around the bunker on either side: Rolls on the left, Mercedes on the right. ",
-					"Didascalie": "",
-					"Start": 160939,
-					"End": 161055
 				}
 			]
 		},

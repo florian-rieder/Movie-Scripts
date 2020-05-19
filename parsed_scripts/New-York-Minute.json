@@ -181,10 +181,28 @@
 					"End": 23462
 				},
 				{
+					"Reply": "'You don't know how you met me...' But when she spots the CONDUCTOR ENTERING the front of the car, she abruptly stops, slips down in he seat and slides past the COMMUTER LADY next to her into the aisle. ",
+					"Didascalie": "",
+					"Start": 23761,
+					"End": 23964
+				},
+				{
 					"Reply": "Excuse me. ",
 					"Didascalie": "",
 					"Start": 24005,
 					"End": 24016
+				},
+				{
+					"Reply": "Why don't I save the b.s. story and just ask you to cut me a break this one time because I know you've got a big heart and you remember what it was like when you were young and... and... ",
+					"Didascalie": "",
+					"Start": 24461,
+					"End": 24698
+				},
+				{
+					"Reply": " ... randy? ",
+					"Didascalie": "(off the Conductor's look)",
+					"Start": 24761,
+					"End": 24783
 				},
 				{
 					"Reply": " I guess you were never young and randy! ",
@@ -253,6 +271,18 @@
 					"End": 32624
 				},
 				{
+					"Reply": " You know, Mister... ",
+					"Didascalie": "(chewing a lip)",
+					"Start": 33153,
+					"End": 33187
+				},
+				{
+					"Reply": "... Loyola. ",
+					"Didascalie": "",
+					"Start": 33306,
+					"End": 33318
+				},
+				{
 					"Reply": "Mr. Bennie? We have a slight change of itinerary. We need to go into Manhattan. 57th and 5th will be fine. ",
 					"Didascalie": "",
 					"Start": 33423,
@@ -293,6 +323,12 @@
 					"Didascalie": "(low to Drew)",
 					"Start": 36081,
 					"End": 36105
+				},
+				{
+					"Reply": "I agree.   How about... NOW! ",
+					"Didascalie": "",
+					"Start": 37204,
+					"End": 37233
 				},
 				{
 					"Reply": "He's stuck at the light! ",
@@ -343,10 +379,22 @@
 					"End": 42187
 				},
 				{
+					"Reply": " We're practically there. We'll get you cleaned up, you'll get into the program and... ",
+					"Didascalie": "(CONT'D) (to Drew)",
+					"Start": 42421,
+					"End": 42547
+				},
+				{
 					"Reply": " Peek-a-boo! ",
 					"Didascalie": "(CONT'D) (to baby)",
 					"Start": 42577,
 					"End": 42603
+				},
+				{
+					"Reply": " ... we'll both look back on this and laugh our butts off. ",
+					"Didascalie": "(CONT'D) (to Drew)",
+					"Start": 42633,
+					"End": 42718
 				},
 				{
 					"Reply": "See?   New York. We made it. ",
@@ -397,6 +445,12 @@
 					"End": 44842
 				},
 				{
+					"Reply": " So, we don't do the Plaza. I've got... ",
+					"Didascalie": "(beat)",
+					"Start": 44869,
+					"End": 44935
+				},
+				{
 					"Reply": "Six dollars and thirty-two cents. ",
 					"Didascalie": "",
 					"Start": 45010,
@@ -431,6 +485,12 @@
 					"Didascalie": "(swallowing)",
 					"Start": 46993,
 					"End": 47026
+				},
+				{
+					"Reply": " We need a room... with a shower. ",
+					"Didascalie": "(uh...)",
+					"Start": 47589,
+					"End": 47636
 				},
 				{
 					"Reply": " Hi. ",
@@ -625,10 +685,22 @@
 					"End": 61051
 				},
 				{
+					"Reply": "Shhh... here comes somebody. ",
+					"Didascalie": "",
+					"Start": 61163,
+					"End": 61192
+				},
+				{
 					"Reply": "Hurry up! ",
 					"Didascalie": "",
 					"Start": 62189,
 					"End": 62199
+				},
+				{
+					"Reply": " I didn't want to have to do this, but... look in the mirror behind you. ",
+					"Didascalie": "(beat)",
+					"Start": 62315,
+					"End": 62427
 				},
 				{
 					"Reply": " Housekeeping? ",
@@ -847,6 +919,12 @@
 					"End": 99544
 				},
 				{
+					"Reply": " You...? ",
+					"Didascalie": "(dawning)",
+					"Start": 99574,
+					"End": 99596
+				},
+				{
 					"Reply": "You liked Bernie, too? ",
 					"Didascalie": "",
 					"Start": 99713,
@@ -977,6 +1055,12 @@
 					"Didascalie": "",
 					"Start": 119944,
 					"End": 119969
+				},
+				{
+					"Reply": "Follow that... uh... ",
+					"Didascalie": "",
+					"Start": 120581,
+					"End": 120602
 				},
 				{
 					"Reply": "Oh, yeah.   JUST GO! ",
@@ -1171,6 +1255,12 @@
 					"End": 144109
 				},
 				{
+					"Reply": "You were just...? ",
+					"Didascalie": "",
+					"Start": 144369,
+					"End": 144387
+				},
+				{
 					"Reply": "Thank you? ",
 					"Didascalie": "",
 					"Start": 145065,
@@ -1217,6 +1307,12 @@
 					"Didascalie": "",
 					"Start": 153072,
 					"End": 153122
+				},
+				{
+					"Reply": " Um, no. However... ",
+					"Didascalie": "(beat)",
+					"Start": 153265,
+					"End": 153298
 				},
 				{
 					"Reply": "Professor Spaulding? ",
@@ -1285,6 +1381,18 @@
 					"End": 158736
 				},
 				{
+					"Reply": "When I saw them take you to jail... ",
+					"Didascalie": "",
+					"Start": 159152,
+					"End": 159201
+				},
+				{
+					"Reply": "... I didn't think you'd make it. ",
+					"Didascalie": "",
+					"Start": 159314,
+					"End": 159348
+				},
+				{
 					"Reply": "You're not mad? ",
 					"Didascalie": "",
 					"Start": 159605,
@@ -1301,6 +1409,18 @@
 					"Didascalie": "",
 					"Start": 160119,
 					"End": 160130
+				},
+				{
+					"Reply": "Okay, I considered.     What I want to say is, I didn't    purposefully set out to ruin your    day, but that doesn't mean I'm not    a little... ",
+					"Didascalie": "",
+					"Start": 160333,
+					"End": 160518
+				},
+				{
+					"Reply": "I'm not like you. I don't have your intensity, your focus, your... ",
+					"Didascalie": "",
+					"Start": 160643,
+					"End": 160723
 				},
 				{
 					"Reply": "I just mean, maybe, even if I don't intend to, maybe that jealousy, you know, gets in the way sometimes. ",
@@ -1404,6 +1524,12 @@
 					"End": 4578
 				},
 				{
+					"Reply": "Piercings are so... unhygienic. ",
+					"Didascalie": "",
+					"Start": 4695,
+					"End": 4727
+				},
+				{
 					"Reply": "Breakfast. ",
 					"Didascalie": "",
 					"Start": 4960,
@@ -1450,6 +1576,12 @@
 					"Didascalie": "(panicked)",
 					"Start": 10541,
 					"End": 10566
+				},
+				{
+					"Reply": " No... I mean, it's... impossible. ",
+					"Didascalie": "(still clearing)",
+					"Start": 11330,
+					"End": 11378
 				},
 				{
 					"Reply": "I'm sorry, Mom. It's really sweet of you. But don't worry. Parker will be living here with you forever since no college on earth will ever take her. ",
@@ -1602,6 +1734,24 @@
 					"End": 26326
 				},
 				{
+					"Reply": "I'm... ouch. ",
+					"Didascalie": "",
+					"Start": 26900,
+					"End": 26913
+				},
+				{
+					"Reply": "This   can't be happening! I have a...   a... little paper thingy. ",
+					"Didascalie": "",
+					"Start": 27296,
+					"End": 27376
+				},
+				{
+					"Reply": " AARRGGH! PARRR... KERRR! ",
+					"Didascalie": "(to the gods)",
+					"Start": 27966,
+					"End": 28005
+				},
+				{
 					"Reply": "Don't. ",
 					"Didascalie": "",
 					"Start": 28424,
@@ -1650,6 +1800,12 @@
 					"End": 31935
 				},
 				{
+					"Reply": "Car service? You couldn't have called for a... ",
+					"Didascalie": "",
+					"Start": 32043,
+					"End": 32103
+				},
+				{
 					"Reply": " Pre-paid? What's 57th and 5th? ",
 					"Didascalie": "(whispering throughout)",
 					"Start": 33807,
@@ -1672,6 +1828,12 @@
 					"Didascalie": "",
 					"Start": 34734,
 					"End": 34792
+				},
+				{
+					"Reply": "This is so... wrong. ",
+					"Didascalie": "",
+					"Start": 34902,
+					"End": 34923
 				},
 				{
 					"Reply": " What's happening? ",
@@ -1896,6 +2058,12 @@
 					"End": 57774
 				},
 				{
+					"Reply": " I'll have her... uh... ",
+					"Didascalie": "(beat)",
+					"Start": 57893,
+					"End": 57927
+				},
+				{
 					"Reply": "Dad, then. ",
 					"Didascalie": "",
 					"Start": 58125,
@@ -1962,6 +2130,12 @@
 					"End": 63043
 				},
 				{
+					"Reply": "Oh, no.  Oh my god. A... a... ",
+					"Didascalie": "",
+					"Start": 63687,
+					"End": 63717
+				},
+				{
 					"Reply": " What the hell is it? ",
 					"Didascalie": "(puzzled)",
 					"Start": 63747,
@@ -2010,6 +2184,12 @@
 					"End": 73265
 				},
 				{
+					"Reply": " Give me... my... curtain. ",
+					"Didascalie": "(O.S.) (beat)",
+					"Start": 73397,
+					"End": 73437
+				},
+				{
 					"Reply": "He thinks we have the dog! ",
 					"Didascalie": "",
 					"Start": 73879,
@@ -2056,6 +2236,12 @@
 					"Didascalie": "(realizing)",
 					"Start": 81711,
 					"End": 81734
+				},
+				{
+					"Reply": " Park... ",
+					"Didascalie": "(no breath)",
+					"Start": 83616,
+					"End": 83638
 				},
 				{
 					"Reply": "Sorry. ",
@@ -2184,12 +2370,6 @@
 					"End": 105731
 				},
 				{
-					"Reply": "Angie?    Take the 11:00. ",
-					"Didascalie": "",
-					"Start": 106620,
-					"End": 106646
-				},
-				{
 					"Reply": "No one is blowing you off, Warren. ",
 					"Didascalie": "",
 					"Start": 107313,
@@ -2280,6 +2460,18 @@
 					"End": 114789
 				},
 				{
+					"Reply": "Well, I'm not certain... ",
+					"Didascalie": "",
+					"Start": 116259,
+					"End": 116284
+				},
+				{
+					"Reply": " ... that I NEED to defend our position! ",
+					"Didascalie": "(recovering)",
+					"Start": 116374,
+					"End": 116441
+				},
+				{
 					"Reply": "Absurd?! ",
 					"Didascalie": "",
 					"Start": 116975,
@@ -2290,6 +2482,12 @@
 					"Didascalie": "(dramatic emphasis)",
 					"Start": 117304,
 					"End": 117415
+				},
+				{
+					"Reply": "And besides, who said absurd is necessarily bad? Sometimes absurd is good! For instance, absurd can be sort of... funny! In conclusion, I propose that all of you should talk amongst yourselves. ",
+					"Didascalie": "",
+					"Start": 118143,
+					"End": 118402
 				},
 				{
 					"Reply": " Thank you. ",
@@ -2364,6 +2562,12 @@
 					"End": 124216
 				},
 				{
+					"Reply": "After they made the first cut from the preliminary application, we were supposed to send in a form to secure our interview time and I filled it out and had everything ready to go in the mailbox and then... ",
+					"Didascalie": "",
+					"Start": 124313,
+					"End": 124597
+				},
+				{
 					"Reply": "I forgot. ",
 					"Didascalie": "",
 					"Start": 124774,
@@ -2376,6 +2580,18 @@
 					"End": 125132
 				},
 				{
+					"Reply": " I... I was going to try to meet Professor Spaulding and... ",
+					"Didascalie": "(humiliated)",
+					"Start": 125302,
+					"End": 125388
+				},
+				{
+					"Reply": "I called and the secretary said there were no exceptions to the deadline so I was going to try to see him when he finished the other interviews. I knew it was hopeless, but... I was so... ",
+					"Didascalie": "",
+					"Start": 125742,
+					"End": 125995
+				},
+				{
 					"Reply": "Oh, to hell with it. ",
 					"Didascalie": "",
 					"Start": 126094,
@@ -2386,6 +2602,12 @@
 					"Didascalie": "",
 					"Start": 127006,
 					"End": 127042
+				},
+				{
+					"Reply": "That's... that's the painter. ",
+					"Didascalie": "",
+					"Start": 127205,
+					"End": 127235
 				},
 				{
 					"Reply": "I just want you to know that I'm allergic to you AND cynophobic! ",
@@ -2442,6 +2664,18 @@
 					"End": 141031
 				},
 				{
+					"Reply": "But I have this interview. I mean, it's not really an interview. I'd never lie to the police... ",
+					"Didascalie": "",
+					"Start": 141278,
+					"End": 141413
+				},
+				{
+					"Reply": " ... never mind. ",
+					"Didascalie": "(it's over)",
+					"Start": 141445,
+					"End": 141475
+				},
+				{
 					"Reply": "staring at her INK-STAINED FINGERS as Hogan finishes fingerprinting her other hand. ",
 					"Didascalie": "",
 					"Start": 145830,
@@ -2488,6 +2722,12 @@
 					"Didascalie": "",
 					"Start": 149783,
 					"End": 149801
+				},
+				{
+					"Reply": "Well... bye. ",
+					"Didascalie": "",
+					"Start": 149927,
+					"End": 149940
 				},
 				{
 					"Reply": "Thanks for getting me out of jail but I have to go home now because my entire life is ruined. ",
@@ -2554,6 +2794,18 @@
 					"Didascalie": "",
 					"Start": 158433,
 					"End": 158453
+				},
+				{
+					"Reply": "You were... being me? ",
+					"Didascalie": "",
+					"Start": 158898,
+					"End": 158920
+				},
+				{
+					"Reply": " That's... sweet. ",
+					"Didascalie": "(beat)",
+					"Start": 159527,
+					"End": 159558
 				},
 				{
 					"Reply": "No. ",
@@ -2634,6 +2886,12 @@
 					"End": 163567
 				},
 				{
+					"Reply": "... and lighten up. ",
+					"Didascalie": "",
+					"Start": 163874,
+					"End": 163894
+				},
+				{
 					"Reply": "Thanks for your time. Sorry if you missed your plane. ",
 					"Didascalie": "",
 					"Start": 164025,
@@ -2670,6 +2928,12 @@
 					"End": 165788
 				},
 				{
+					"Reply": "I, uh... ",
+					"Didascalie": "",
+					"Start": 165896,
+					"End": 165905
+				},
+				{
 					"Reply": "First I want to take a shower. ",
 					"Didascalie": "",
 					"Start": 166167,
@@ -2686,6 +2950,12 @@
 					"Didascalie": "",
 					"Start": 168016,
 					"End": 168067
+				},
+				{
+					"Reply": "It was... spontaneous. ",
+					"Didascalie": "",
+					"Start": 168657,
+					"End": 168680
 				},
 				{
 					"Reply": "It doesn't really matter one way or the other. Maybe I shouldn't be in such a hurry. Why don't we go out and have some fun. ",
@@ -2872,6 +3142,18 @@
 					"End": 11261
 				},
 				{
+					"Reply": "I just thought... you know... I've been working and we haven't had a chance to spend much time together... ",
+					"Didascalie": "",
+					"Start": 11555,
+					"End": 11701
+				},
+				{
+					"Reply": "... and both my babies are going away to college next Fall. ",
+					"Didascalie": "",
+					"Start": 11934,
+					"End": 12007
+				},
+				{
 					"Reply": "Stop it, you two. ",
 					"Didascalie": "",
 					"Start": 12750,
@@ -2888,6 +3170,12 @@
 					"Didascalie": "",
 					"Start": 14420,
 					"End": 14474
+				},
+				{
+					"Reply": " Doctor MacLeod... ",
+					"Didascalie": "(to phone)",
+					"Start": 15446,
+					"End": 15475
 				},
 				{
 					"Reply": "I'm sorry, hon. It's a Blue Light special in Maternity. Every bed's full and some poor woman is about to give birth in the gift shop. I have to go in. ",
@@ -2948,6 +3236,12 @@
 					"Didascalie": "",
 					"Start": 168409,
 					"End": 168612
+				},
+				{
+					"Reply": "Yeah. Obviously. Oh, by the way... ",
+					"Didascalie": "",
+					"Start": 168725,
+					"End": 168773
 				},
 				{
 					"Reply": "This came in the mail. ",
@@ -3041,23 +3335,6 @@
 					"Didascalie": "(too late)",
 					"Start": 75334,
 					"End": 75357
-				}
-			]
-		},
-		{
-			"Character": "ACTION",
-			"Replies": [
-				{
-					"Reply": "Parker steps outside where it's just as crowded. She scopes the situation, which isn't good -- stranded COMMUTERS jostle for the few remaining TAXIS. ",
-					"Didascalie": "",
-					"Start": 29781,
-					"End": 29931
-				},
-				{
-					"Reply": "CHAOS. ",
-					"Didascalie": "",
-					"Start": 137243,
-					"End": 137250
 				}
 			]
 		},
@@ -3353,17 +3630,6 @@
 			]
 		},
 		{
-			"Character": "BACK TO SCENE",
-			"Replies": [
-				{
-					"Reply": "She holds up The Emperor. ",
-					"Didascalie": "",
-					"Start": 140136,
-					"End": 140162
-				}
-			]
-		},
-		{
 			"Character": "ROGER",
 			"Replies": [
 				{
@@ -3395,6 +3661,12 @@
 					"Didascalie": "(Girl Voice throughout)",
 					"Start": 129207,
 					"End": 129412
+				},
+				{
+					"Reply": " -- I'll give you ten grand but only if he's in Madison Square Garden in... ",
+					"Didascalie": "(interrupting)",
+					"Start": 129624,
+					"End": 129739
 				},
 				{
 					"Reply": "Well, Mr. Fancy Pants. You can wipe that stupid smile off your face. I don't think they love you as much as you think they do. ",
@@ -3497,12 +3769,6 @@
 					"End": 69956
 				},
 				{
-					"Reply": " This is Remote One to base, Remote One to base. Code 12, I repeat, Code 12. ",
-					"Didascalie": "(to radio)",
-					"Start": 70266,
-					"End": 70382
-				},
-				{
 					"Reply": " Code 12 isn't lunch, Bruce! ",
 					"Didascalie": "(impatient)",
 					"Start": 70550,
@@ -3583,12 +3849,6 @@
 					"Didascalie": "",
 					"Start": 70896,
 					"End": 70904
-				},
-				{
-					"Reply": "  45. ",
-					"Didascalie": "(V.O.) (CONTINUED)",
-					"Start": 70963,
-					"End": 71028
 				},
 				{
 					"Reply": "Holy cripes, why didn't you say it was political?! ",
@@ -4070,12 +4330,6 @@
 			"Character": "POLICE OPERATOR",
 			"Replies": [
 				{
-					"Reply": " Copy that, 605. ",
-					"Didascalie": "(V.O.) (from radio)",
-					"Start": 101815,
-					"End": 101845
-				},
-				{
 					"Reply": " Car 91, 605 reports suspects spotted at 1st and 49th. ",
 					"Didascalie": "(V.O.) (from radio)",
 					"Start": 102136,
@@ -4119,6 +4373,18 @@
 					"Didascalie": "",
 					"Start": 104981,
 					"End": 104989
+				},
+				{
+					"Reply": "Yeah, I, uh... ",
+					"Didascalie": "",
+					"Start": 105222,
+					"End": 105237
+				},
+				{
+					"Reply": "I just have to do this tour and... ",
+					"Didascalie": "",
+					"Start": 105510,
+					"End": 105545
 				},
 				{
 					"Reply": "What's going on? ",
@@ -4257,6 +4523,12 @@
 					"Didascalie": "",
 					"Start": 122609,
 					"End": 122632
+				},
+				{
+					"Reply": "Sort of a guerilla interview?     You know, I'm a big Michael Moore fan... ",
+					"Didascalie": "",
+					"Start": 125515,
+					"End": 125616
 				},
 				{
 					"Reply": "She's pretty upset. ",
@@ -4407,10 +4679,22 @@
 			"Character": "CANADIAN REPRESENTATIVE",
 			"Replies": [
 				{
+					"Reply": " Ohhh... I'm so sick. The mussels at lunch. You have to help me. ",
+					"Didascalie": "(near fatally nauseous)",
+					"Start": 110774,
+					"End": 110865
+				},
+				{
 					"Reply": "What's your name? ",
 					"Didascalie": "",
 					"Start": 111169,
 					"End": 111187
+				},
+				{
+					"Reply": "Drew... it's vitally important. ",
+					"Didascalie": "",
+					"Start": 111304,
+					"End": 111336
 				},
 				{
 					"Reply": "Please.    You have to take this to Canada. ",
@@ -4524,29 +4808,6 @@
 			]
 		},
 		{
-			"Character": "CONTINUOUS ACTION",
-			"Replies": [
-				{
-					"Reply": "Mrs. Lo Biancho calmly answers her cell phone. ",
-					"Didascalie": "",
-					"Start": 128892,
-					"End": 128939
-				},
-				{
-					"Reply": "DREW'S RUNNING RIGHT AT THEM DOWN THE SIDEWALK WITH THE EMPEROR! ",
-					"Didascalie": "",
-					"Start": 134727,
-					"End": 134792
-				},
-				{
-					"Reply": "Drew has entered HER OWN PERSONAL CIRCLE OF HELL -- DOGS OF EVERY SHAPE AND SIZE SURROUND HER. ",
-					"Didascalie": "",
-					"Start": 136540,
-					"End": 136635
-				}
-			]
-		},
-		{
 			"Character": "TAXI DRIVER",
 			"Replies": [
 				{
@@ -4554,17 +4815,6 @@
 					"Didascalie": "",
 					"Start": 130878,
 					"End": 130934
-				}
-			]
-		},
-		{
-			"Character": "DOWN THE STREET",
-			"Replies": [
-				{
-					"Reply": "Parker and Warren round the corner at a run, only in time to watch the Detective's car leave with Drew in the back window. ",
-					"Didascalie": "",
-					"Start": 141690,
-					"End": 141813
 				}
 			]
 		},
@@ -4654,12 +4904,6 @@
 					"End": 154793
 				},
 				{
-					"Reply": "  99. ",
-					"Didascalie": "(O.S.) (CONTINUED)",
-					"Start": 154852,
-					"End": 154913
-				},
-				{
 					"Reply": "You okay? ",
 					"Didascalie": "",
 					"Start": 155242,
@@ -4676,6 +4920,12 @@
 					"Didascalie": "",
 					"Start": 165832,
 					"End": 165848
+				},
+				{
+					"Reply": "You want to maybe... get together? ",
+					"Didascalie": "",
+					"Start": 166087,
+					"End": 166122
 				},
 				{
 					"Reply": "You have a card? Aren't you in high school? ",

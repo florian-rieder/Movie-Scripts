@@ -11,17 +11,6 @@
 	],
 	"Characters": [
 		{
-			"Character": "THE WILD BUNCH",
-			"Replies": [
-				{
-					"Reply": "February 12th, 1968     1. ",
-					"Didascalie": "",
-					"Start": 222,
-					"End": 279
-				}
-			]
-		},
-		{
 			"Character": "NARRATOR",
 			"Replies": [
 				{
@@ -29,173 +18,6 @@
 					"Didascalie": "",
 					"Start": 880,
 					"End": 988
-				}
-			]
-		},
-		{
-			"Character": "CONTINUED",
-			"Replies": [
-				{
-					"Reply": "2. ",
-					"Didascalie": "",
-					"Start": 2765,
-					"End": 2768
-				},
-				{
-					"Reply": "3. ",
-					"Didascalie": "",
-					"Start": 4837,
-					"End": 4840
-				},
-				{
-					"Reply": " That is in the good book.. but here in this town, it is five cents a glass. ",
-					"Didascalie": "(THEN)",
-					"Start": 6778,
-					"End": 6875
-				},
-				{
-					"Reply": "10. ",
-					"Didascalie": "",
-					"Start": 17799,
-					"End": 17803
-				},
-				{
-					"Reply": "12. ",
-					"Didascalie": "",
-					"Start": 21569,
-					"End": 21573
-				},
-				{
-					"Reply": "14. ",
-					"Didascalie": "",
-					"Start": 25536,
-					"End": 25540
-				},
-				{
-					"Reply": "15. ",
-					"Didascalie": "",
-					"Start": 27175,
-					"End": 27179
-				},
-				{
-					"Reply": "18. ",
-					"Didascalie": "",
-					"Start": 32538,
-					"End": 32542
-				},
-				{
-					"Reply": "28. ",
-					"Didascalie": "",
-					"Start": 51746,
-					"End": 51750
-				},
-				{
-					"Reply": "29. ",
-					"Didascalie": "",
-					"Start": 53127,
-					"End": 53131
-				},
-				{
-					"Reply": "43. ",
-					"Didascalie": "",
-					"Start": 74831,
-					"End": 74835
-				},
-				{
-					"Reply": "14k. ",
-					"Didascalie": "",
-					"Start": 76260,
-					"End": 76265
-				},
-				{
-					"Reply": ".? . ",
-					"Didascalie": "",
-					"Start": 81088,
-					"End": 81093
-				},
-				{
-					"Reply": "52. ",
-					"Didascalie": "",
-					"Start": 89662,
-					"End": 89666
-				},
-				{
-					"Reply": "614.. ",
-					"Didascalie": "",
-					"Start": 109481,
-					"End": 109487
-				},
-				{
-					"Reply": "68. ",
-					"Didascalie": "",
-					"Start": 116141,
-					"End": 116145
-				},
-				{
-					"Reply": "69. ",
-					"Didascalie": "",
-					"Start": 117703,
-					"End": 117707
-				},
-				{
-					"Reply": " You can have one case and one case of ammo, You'll give up your share of the gold. ",
-					"Didascalie": "(after a long moment)",
-					"Start": 117780,
-					"End": 117894
-				},
-				{
-					"Reply": "90. ",
-					"Didascalie": "",
-					"Start": 156108,
-					"End": 156112
-				},
-				{
-					"Reply": "91. ",
-					"Didascalie": "",
-					"Start": 157710,
-					"End": 157714
-				},
-				{
-					"Reply": "364: CONTINUED The Mexican turns to his companions for a short discourse. ",
-					"Didascalie": "",
-					"Start": 162226,
-					"End": 162310
-				},
-				{
-					"Reply": "100. ",
-					"Didascalie": "",
-					"Start": 170671,
-					"End": 170676
-				},
-				{
-					"Reply": "437 CONTINUED  T. C. ",
-					"Didascalie": "",
-					"Start": 191805,
-					"End": 191836
-				},
-				{
-					"Reply": "116. ",
-					"Didascalie": "",
-					"Start": 195122,
-					"End": 195127
-				},
-				{
-					"Reply": "corner of the yard and the soldiers return to their party atmosphere. Angel lies unmoving. ",
-					"Didascalie": "",
-					"Start": 195158,
-					"End": 195259
-				},
-				{
-					"Reply": "117. ",
-					"Didascalie": "",
-					"Start": 196486,
-					"End": 196491
-				},
-				{
-					"Reply": "128. ",
-					"Didascalie": "",
-					"Start": 216379,
-					"End": 216384
 				}
 			]
 		},
@@ -231,12 +53,6 @@
 					"Didascalie": "",
 					"Start": 17564,
 					"End": 17580
-				},
-				{
-					"Reply": " I'd like. to say a. few kind words for all the departed -- then perhaps a hymn or two would be in order -- followed by a' church supper with a choir. CONTINTED          20. ",
-					"Didascalie": "(SOFTLY)",
-					"Start": 35739,
-					"End": 36003
 				},
 				{
 					"Reply": "Deke Thornton. ",
@@ -383,6 +199,12 @@
 					"End": 95146
 				},
 				{
+					"Reply": "I'm down to about twenty in silver... ",
+					"Didascalie": "",
+					"Start": 96103,
+					"End": 96141
+				},
+				{
 					"Reply": "Generalisimo hell -- he's just a damn bandit grabbing all he can for himself. ",
 					"Didascalie": "",
 					"Start": 96305,
@@ -399,6 +221,12 @@
 					"Didascalie": "",
 					"Start": 100962,
 					"End": 101043
+				},
+				{
+					"Reply": "-No -- were not associated with anyone... ",
+					"Didascalie": "",
+					"Start": 102285,
+					"End": 102327
 				},
 				{
 					"Reply": "I'm sure. ",
@@ -437,6 +265,12 @@
 					"End": 114138
 				},
 				{
+					"Reply": "find out we armed some village... ",
+					"Didascalie": "",
+					"Start": 116939,
+					"End": 116973
+				},
+				{
 					"Reply": "How many cases of rifles did Zamorra say were in that shipment? ",
 					"Didascalie": "",
 					"Start": 117474,
@@ -459,6 +293,12 @@
 					"Didascalie": "",
 					"Start": 118691,
 					"End": 118715
+				},
+				{
+					"Reply": "You never told me how you got all tore up like that... ",
+					"Didascalie": "",
+					"Start": 119656,
+					"End": 119721
 				},
 				{
 					"Reply": "You didn't catch up with him? ",
@@ -587,6 +427,12 @@
 					"End": 185048
 				},
 				{
+					"Reply": " They got Angel... some people would betray their mothers for two dollars and one drink. ",
+					"Didascalie": "(QUIETLY)",
+					"Start": 185289,
+					"End": 185398
+				},
+				{
 					"Reply": " How -- ? ",
 					"Didascalie": "(ANGRILY)",
 					"Start": 185562,
@@ -633,6 +479,12 @@
 					"Didascalie": "",
 					"Start": 198534,
 					"End": 198554
+				},
+				{
+					"Reply": " Angel?... ",
+					"Didascalie": "(RISING)",
+					"Start": 201615,
+					"End": 201636
 				}
 			]
 		},
@@ -724,6 +576,12 @@
 					"End": 35662
 				},
 				{
+					"Reply": " ,Ten years ago it was some shaky drunk with a tin badge that hid in the g1n mill till you cleared town with your grab...Now, they're  I c waitin'. for you -- ",
+					"Didascalie": "(WEARILY)",
+					"Start": 36483,
+					"End": 36702
+				},
+				{
 					"Reply": " He was -- but he got old and tired and when that happens, things change. ",
 					"Didascalie": "(SHORTLY)",
 					"Start": 36975,
@@ -764,6 +622,12 @@
 					"Didascalie": "(THEN)",
 					"Start": 41509,
 					"End": 41590
+				},
+				{
+					"Reply": " I don't really give a damn about Deke Thornton...I just know that I'd surely like to aet the hell off. this horse. ",
+					"Didascalie": "(WEARY)",
+					"Start": 41827,
+					"End": 41973
 				},
 				{
 					"Reply": "No. ",
@@ -946,6 +810,12 @@
 					"End": 71380
 				},
 				{
+					"Reply": " No ---he did fine...just fine. ",
+					"Didascalie": "(after a moment)",
+					"Start": 71651,
+					"End": 71693
+				},
+				{
 					"Reply": "So --? ",
 					"Didascalie": "",
 					"Start": 74744,
@@ -1042,6 +912,24 @@
 					"End": 88263
 				},
 				{
+					"Reply": "I seen one just like this in Waco... ",
+					"Didascalie": "",
+					"Start": 89817,
+					"End": 89854
+				},
+				{
+					"Reply": "No...alcohol:...or gasoline. ",
+					"Didascalie": "",
+					"Start": 89920,
+					"End": 89949
+				},
+				{
+					"Reply": "No,. the old man's right. They -got t em now with motors and wings -- cover 60 miles in less than an hour...goin' to use them in the war, they say. ",
+					"Didascalie": "",
+					"Start": 90410,
+					"End": 90588
+				},
+				{
 					"Reply": "Not that easy -- these automobiles can't stand.any rough ground -- or hot sun like a horse ---they're for show mostly. ",
 					"Didascalie": "",
 					"Start": 90849,
@@ -1064,6 +952,12 @@
 					"Didascalie": "",
 					"Start": 93088,
 					"End": 93211
+				},
+				{
+					"Reply": "The G3neralisimo has cleaned this part a of the country ...He ought to have it to spare. ",
+					"Didascalie": "",
+					"Start": 96169,
+					"End": 96278
 				},
 				{
 					"Reply": " Like some others I could mention? ",
@@ -1090,10 +984,22 @@
 					"End": 98519
 				},
 				{
+					"Reply": "He didn't, he was. after the girl... ",
+					"Didascalie": "",
+					"Start": 100742,
+					"End": 100779
+				},
+				{
 					"Reply": "He went a little crazy when he saw her with you. ",
 					"Didascalie": "",
 					"Start": 101182,
 					"End": 101241
+				},
+				{
+					"Reply": "I. never heard of any American troops fighting down here... ",
+					"Didascalie": "",
+					"Start": 103409,
+					"End": 103479
 				},
 				{
 					"Reply": "We have vez\"y'few sentiments in common with our government. ",
@@ -1108,16 +1014,40 @@
 					"End": 105156
 				},
 				{
+					"Reply": "Arms shipments are generally. kept secret ...how did you find out about this one? ",
+					"Didascalie": "",
+					"Start": 105728,
+					"End": 105820
+				},
+				{
 					"Reply": " But we're going to need special equipment. ",
 					"Didascalie": "(THEN)",
 					"Start": 106359,
 					"End": 106413
 				},
 				{
+					"Reply": "With your permission ...I need a bath. ",
+					"Didascalie": "",
+					"Start": 107090,
+					"End": 107129
+				},
+				{
+					"Reply": "We better get him cleaned up... ",
+					"Didascalie": "",
+					"Start": 107888,
+					"End": 107920
+				},
+				{
 					"Reply": "Por favor, General -- but I need him. ",
 					"Didascalie": "",
 					"Start": 108110,
 					"End": 108148
+				},
+				{
+					"Reply": " I choose my own... withyour permission. ",
+					"Didascalie": "(FLATLY)",
+					"Start": 108244,
+					"End": 108295
 				},
 				{
 					"Reply": "Some day I'm going to build me one of these and live in it. ",
@@ -1150,10 +1080,22 @@
 					"End": 117582
 				},
 				{
+					"Reply": " i. know. you will... ",
+					"Didascalie": "(SOFTLY)",
+					"Start": 118058,
+					"End": 118090
+				},
+				{
 					"Reply": "Pleasure-, Ma' ain. ",
 					"Didascalie": "",
 					"Start": 118594,
 					"End": 118614
+				},
+				{
+					"Reply": "I met a woman I wanted to marry... ",
+					"Didascalie": "",
+					"Start": 119934,
+					"End": 119969
 				},
 				{
 					"Reply": "Buenas no the s mi amor. ",
@@ -1252,16 +1194,16 @@
 					"End": 154033
 				},
 				{
+					"Reply": "A lot depends on how hungry they are... ",
+					"Didascalie": "",
+					"Start": 154799,
+					"End": 154849
+				},
+				{
 					"Reply": " You- stay up there and look for bighats.,..I'm going to start. ",
 					"Didascalie": "(THEN)",
 					"Start": 154866,
 					"End": 154950
-				},
-				{
-					"Reply": "1. need some-help. ",
-					"Didascalie": "",
-					"Start": 155169,
-					"End": 155188
 				},
 				{
 					"Reply": "Get that case of explosives near the back. ",
@@ -1306,16 +1248,16 @@
 					"End": 158317
 				},
 				{
-					"Reply": " Hold up 1.. ",
-					"Didascalie": "(looking off)",
-					"Start": 161183,
-					"End": 161206
-				},
-				{
 					"Reply": "Just hope. they don't belong to Villa. ",
 					"Didascalie": "",
 					"Start": 161647,
 					"End": 161696
+				},
+				{
+					"Reply": "Tell that one in front to come. over here ...Alone! ",
+					"Didascalie": "",
+					"Start": 162010,
+					"End": 162072
 				},
 				{
 					"Reply": " Tell him to-come closer! ",
@@ -1340,6 +1282,12 @@
 					"Didascalie": "",
 					"Start": 165573,
 					"End": 165817
+				},
+				{
+					"Reply": " Ride ahead a hundred yards and check the washes... ",
+					"Didascalie": "(to Angel and Dutch)",
+					"Start": 166699,
+					"End": 166771
 				},
 				{
 					"Reply": " You and I will cover the flanks -- ",
@@ -1372,6 +1320,12 @@
 					"End": 170310
 				},
 				{
+					"Reply": " Don't break that fuse... ",
+					"Didascalie": "(crossing to him)",
+					"Start": 171215,
+					"End": 171251
+				},
+				{
 					"Reply": "They part of your village? ",
 					"Didascalie": "",
 					"Start": 171456,
@@ -1384,10 +1338,22 @@
 					"End": 171697
 				},
 				{
+					"Reply": "How long have they been following us... ",
+					"Didascalie": "",
+					"Start": 171757,
+					"End": 171797
+				},
+				{
 					"Reply": "If they ever get armed and led, this whole country'll go up in smoke. ",
 					"Didascalie": "",
 					"Start": 172869,
 					"End": 172949
+				},
+				{
+					"Reply": "Don't worry we got ' em...hidden. As soon as I. get 'my share of the gold I'll tell you where four cases are... ",
+					"Didascalie": "",
+					"Start": 175030,
+					"End": 175162
 				},
 				{
 					"Reply": " The others are waiting at the wagon and unless I r eturn pretty damn quick they. blow it. ",
@@ -1400,6 +1366,12 @@
 					"Didascalie": "",
 					"Start": 175904,
 					"End": 175973
+				},
+				{
+					"Reply": "About two.. miles up the arroyo ... three cases of rifles, one of ammunition, are in the brush behind it. ",
+					"Didascalie": "",
+					"Start": 176204,
+					"End": 176330
 				},
 				{
 					"Reply": "not a machine gun. ",
@@ -1436,6 +1408,12 @@
 					"Didascalie": "",
 					"Start": 180271,
 					"End": 180327
+				},
+				{
+					"Reply": " _-No wag... no' way at all. ",
+					"Didascalie": "(FINALLY)",
+					"Start": 187507,
+					"End": 187546
 				},
 				{
 					"Reply": "No water. ",
@@ -1480,6 +1458,12 @@
 					"End": 195649
 				},
 				{
+					"Reply": "I want to buy him back... ",
+					"Didascalie": "",
+					"Start": 196238,
+					"End": 196264
+				},
+				{
 					"Reply": " I,'11 pay you his share of the gold. ",
 					"Didascalie": "(CONTINUING)",
 					"Start": 196357,
@@ -1492,6 +1476,12 @@
 					"End": 197096
 				},
 				{
+					"Reply": "You've had your fun with him... ",
+					"Didascalie": "",
+					"Start": 197303,
+					"End": 197335
+				},
+				{
 					"Reply": "Want to go hunting, General? ",
 					"Didascalie": "",
 					"Start": 197961,
@@ -1502,6 +1492,12 @@
 					"Didascalie": "",
 					"Start": 198759,
 					"End": 198769
+				},
+				{
+					"Reply": " Let's get Angel... ",
+					"Didascalie": "(FINALLY)",
+					"Start": 200718,
+					"End": 200748
 				},
 				{
 					"Reply": "Yeah. ",
@@ -1580,10 +1576,28 @@
 					"End": 54533
 				},
 				{
+					"Reply": "Don't kill me, gringo ...por favor... ",
+					"Didascalie": "",
+					"Start": 54874,
+					"End": 54912
+				},
+				{
 					"Reply": " May he die the death of a thousand traitors. ",
 					"Didascalie": "(in Spanish)",
 					"Start": 74566,
 					"End": 74632
+				},
+				{
+					"Reply": "I wish to visit my f amily...I can do it and meet you in Agua Verde a day of ter you get there. ",
+					"Didascalie": "",
+					"Start": 74887,
+					"End": 75003
+				},
+				{
+					"Reply": "Going this way, you will. have to turn east when you get south of the range... ",
+					"Didascalie": "",
+					"Start": 75061,
+					"End": 75150
 				},
 				{
 					"Reply": " Yes.;..They don' t know about zny life when I am out of the village. ",
@@ -1602,6 +1616,12 @@
 					"Didascalie": "(then, looking at Tector and Lyle)",
 					"Start": 76832,
 					"End": 76909
+				},
+				{
+					"Reply": "...Yes. ",
+					"Didascalie": "",
+					"Start": 77068,
+					"End": 77076
 				},
 				{
 					"Reply": " And the soldier. who shot my father what was his name? ",
@@ -1706,6 +1726,12 @@
 					"End": 113101
 				},
 				{
+					"Reply": "They'll never leave...You see, it's their land -- and no one will, ever drive them away. ",
+					"Didascalie": "",
+					"Start": 113778,
+					"End": 113887
+				},
+				{
 					"Reply": "Would you give someone a gun to kill your mother, or your father, or your brother? ",
 					"Didascalie": "",
 					"Start": 115565,
@@ -1742,6 +1768,12 @@
 					"End": 157023
 				},
 				{
+					"Reply": "I. don't need to tell them...They know where we are. ",
+					"Didascalie": "",
+					"Start": 157141,
+					"End": 157204
+				},
+				{
 					"Reply": "This country has many people, but they have learned to live without being seen. ",
 					"Didascalie": "",
 					"Start": 157344,
@@ -1752,6 +1784,12 @@
 					"Didascalie": "",
 					"Start": 168535,
 					"End": 168568
+				},
+				{
+					"Reply": "Ignacio?...Quien hablas por mi pueblo? ",
+					"Didascalie": "",
+					"Start": 168737,
+					"End": 168776
 				},
 				{
 					"Reply": " They have come for the guns. ",
@@ -1788,6 +1826,18 @@
 					"Didascalie": "",
 					"Start": 171939,
 					"End": 171964
+				},
+				{
+					"Reply": "They've been. with us since we left the big plain...He says those others went to a little. Ranch. ",
+					"Didascalie": "",
+					"Start": 172430,
+					"End": 172548
+				},
+				{
+					"Reply": "No S...Yo los robe mientras dormian. ",
+					"Didascalie": "",
+					"Start": 183848,
+					"End": 183885
 				}
 			]
 		},
@@ -1855,6 +1905,12 @@
 					"End": 76519
 				},
 				{
+					"Reply": " And your Grandmaw too, sonny... ",
+					"Didascalie": "(trying not to laugh)",
+					"Start": 77237,
+					"End": 77280
+				},
+				{
 					"Reply": " .That was a balloon ,you damned old fool. ",
 					"Didascalie": "(SCORNFULLY)",
 					"Start": 90331,
@@ -1877,6 +1933,12 @@
 					"Didascalie": "(LAUGHING)",
 					"Start": 98790,
 					"End": 98851
+				},
+				{
+					"Reply": "Hey! ...Here come our sweeties! ",
+					"Didascalie": "",
+					"Start": 108793,
+					"End": 108825
 				},
 				{
 					"Reply": "Itm all for them dons'. ",
@@ -1935,17 +1997,6 @@
 			]
 		},
 		{
-			"Character": "SPEAKER",
-			"Replies": [
-				{
-					"Reply": "Leviticus. 10.9. Do not drink wine or strong drink thou,nor thy sons with thee least ye die. It shall be a statute forever. Look. not though. upon. ",
-					"Didascalie": "",
-					"Start": 6254,
-					"End": 6432
-				}
-			]
-		},
-		{
 			"Character": "CONGREGATION",
 			"Replies": [
 				{
@@ -1959,54 +2010,6 @@
 		{
 			"Character": "CHANGE",
 			"Replies": [
-				{
-					"Reply": "5. ",
-					"Didascalie": "",
-					"Start": 8615,
-					"End": 8618
-				},
-				{
-					"Reply": "6. ",
-					"Didascalie": "",
-					"Start": 10880,
-					"End": 10883
-				},
-				{
-					"Reply": "16. ",
-					"Didascalie": "",
-					"Start": 29020,
-					"End": 29024
-				},
-				{
-					"Reply": "17. ",
-					"Didascalie": "",
-					"Start": 30784,
-					"End": 30788
-				},
-				{
-					"Reply": "19. ",
-					"Didascalie": "",
-					"Start": 34272,
-					"End": 34276
-				},
-				{
-					"Reply": "22. ",
-					"Didascalie": "",
-					"Start": 43775,
-					"End": 43779
-				},
-				{
-					"Reply": "27. ",
-					"Didascalie": "",
-					"Start": 50135,
-					"End": 50139
-				},
-				{
-					"Reply": "32. ",
-					"Didascalie": "",
-					"Start": 57942,
-					"End": 57946
-				},
 				{
 					"Reply": "He's never got caught. - ",
 					"Didascalie": "",
@@ -2026,64 +2029,10 @@
 					"End": 60937
 				},
 				{
-					"Reply": "36. ",
-					"Didascalie": "",
-					"Start": 63892,
-					"End": 63896
-				},
-				{
-					"Reply": "37. ",
-					"Didascalie": "",
-					"Start": 65405,
-					"End": 65409
-				},
-				{
 					"Reply": "THORN TON AND THE BOUNTY HITTERS follow the wild bunch's  154 trail. They are hot and tired and with the exception of Thornton,.. are apprehensive. ",
 					"Didascalie": "",
 					"Start": 71886,
 					"End": 72064
-				},
-				{
-					"Reply": "53. ",
-					"Didascalie": "",
-					"Start": 91346,
-					"End": 91350
-				},
-				{
-					"Reply": "51.. ",
-					"Didascalie": "",
-					"Start": 93032,
-					"End": 93037
-				},
-				{
-					"Reply": "57. ",
-					"Didascalie": "",
-					"Start": 98115,
-					"End": 98119
-				},
-				{
-					"Reply": "60. ",
-					"Didascalie": "",
-					"Start": 103596,
-					"End": 103600
-				},
-				{
-					"Reply": "61. ",
-					"Didascalie": "",
-					"Start": 105273,
-					"End": 105277
-				},
-				{
-					"Reply": "63. ",
-					"Didascalie": "",
-					"Start": 108016,
-					"End": 108020
-				},
-				{
-					"Reply": "65. ",
-					"Didascalie": "",
-					"Start": 110974,
-					"End": 110978
 				},
 				{
 					"Reply": "65A. ",
@@ -2092,28 +2041,10 @@
 					"End": 112752
 				},
 				{
-					"Reply": "66. ",
-					"Didascalie": "",
-					"Start": 113197,
-					"End": 113201
-				},
-				{
-					"Reply": "67. ",
-					"Didascalie": "",
-					"Start": 114656,
-					"End": 114660
-				},
-				{
 					"Reply": "behind. The walls of the arroyo tower above the men. ",
 					"Didascalie": "",
 					"Start": 119476,
 					"End": 119529
-				},
-				{
-					"Reply": "71. ",
-					"Didascalie": "",
-					"Start": 120748,
-					"End": 120752
 				},
 				{
 					"Reply": "71A. ",
@@ -2122,46 +2053,10 @@
 					"End": 122628
 				},
 				{
-					"Reply": "77. ",
-					"Didascalie": "",
-					"Start": 133746,
-					"End": 133750
-				},
-				{
 					"Reply": "78 e. ",
 					"Didascalie": "",
 					"Start": 135260,
 					"End": 135266
-				},
-				{
-					"Reply": "79. ",
-					"Didascalie": "",
-					"Start": 136862,
-					"End": 136866
-				},
-				{
-					"Reply": "80. ",
-					"Didascalie": "",
-					"Start": 138681,
-					"End": 138685
-				},
-				{
-					"Reply": "81. ",
-					"Didascalie": "",
-					"Start": 141073,
-					"End": 141077
-				},
-				{
-					"Reply": "82. ",
-					"Didascalie": "",
-					"Start": 143024,
-					"End": 143028
-				},
-				{
-					"Reply": "83. ",
-					"Didascalie": "",
-					"Start": 144593,
-					"End": 144597
 				},
 				{
 					"Reply": "4  335 DUTCH IS EXAMINING THE HOOF OF ONE OF THE WAGON HORSES. PIKE is beside him. Sykes is still on the reins, Angel is sitting on the cases of guns. The Gorch brothers are both riding '14 horses on either side. Dutch looks up, shakes his head.- ",
@@ -2176,142 +2071,16 @@
 					"End": 149379
 				},
 				{
-					"Reply": "92. ",
-					"Didascalie": "",
-					"Start": 159083,
-					"End": 159087
-				},
-				{
-					"Reply": "96. ",
-					"Didascalie": "",
-					"Start": 164790,
-					"End": 164794
-				},
-				{
-					"Reply": "98. ",
-					"Didascalie": "",
-					"Start": 167341,
-					"End": 167345
-				},
-				{
-					"Reply": "101. ",
-					"Didascalie": "",
-					"Start": 172081,
-					"End": 172086
-				},
-				{
-					"Reply": "102. ",
-					"Didascalie": "",
-					"Start": 173715,
-					"End": 173720
-				},
-				{
-					"Reply": "103. ",
-					"Didascalie": "",
-					"Start": 175494,
-					"End": 175499
-				},
-				{
-					"Reply": "104. ",
-					"Didascalie": "",
-					"Start": 176833,
-					"End": 176838
-				},
-				{
 					"Reply": "108 . ",
 					"Didascalie": "",
 					"Start": 182757,
 					"End": 182763
 				},
 				{
-					"Reply": "109. ",
-					"Didascalie": "",
-					"Start": 184440,
-					"End": 184445
-				},
-				{
-					"Reply": "110. ",
-					"Didascalie": "",
-					"Start": 185733,
-					"End": 185738
-				},
-				{
-					"Reply": "111. ",
-					"Didascalie": "",
-					"Start": 187296,
-					"End": 187301
-				},
-				{
-					"Reply": "112. ",
-					"Didascalie": "",
-					"Start": 188945,
-					"End": 188950
-				},
-				{
-					"Reply": "113. ",
-					"Didascalie": "",
-					"Start": 190256,
-					"End": 190261
-				},
-				{
-					"Reply": "115. ",
-					"Didascalie": "",
-					"Start": 193404,
-					"End": 193409
-				},
-				{
-					"Reply": "118. ",
-					"Didascalie": "",
-					"Start": 197905,
-					"End": 197910
-				},
-				{
-					"Reply": "119. ",
-					"Didascalie": "",
-					"Start": 199330,
-					"End": 199335
-				},
-				{
-					"Reply": "120. ",
-					"Didascalie": "",
-					"Start": 201106,
-					"End": 201111
-				},
-				{
-					"Reply": "121. ",
-					"Didascalie": "",
-					"Start": 202961,
-					"End": 202966
-				},
-				{
-					"Reply": "123. ",
-					"Didascalie": "",
-					"Start": 206400,
-					"End": 206405
-				},
-				{
 					"Reply": "12th. ",
 					"Didascalie": "",
 					"Start": 208420,
 					"End": 208426
-				},
-				{
-					"Reply": "125. ",
-					"Didascalie": "",
-					"Start": 211021,
-					"End": 211026
-				},
-				{
-					"Reply": "126. ",
-					"Didascalie": "",
-					"Start": 213222,
-					"End": 213227
-				},
-				{
-					"Reply": "127. ",
-					"Didascalie": "",
-					"Start": 214700,
-					"End": 214705
 				}
 			]
 		},
@@ -2323,6 +2092,12 @@
 					"Didascalie": "",
 					"Start": 8700,
 					"End": 8887
+				},
+				{
+					"Reply": " I kin still -ride...I can't see, but I kin ride... ",
+					"Didascalie": "(dying, almost incoherent with pain)",
+					"Start": 34627,
+					"End": 34699
 				}
 			]
 		},
@@ -2376,6 +2151,12 @@
 					"Didascalie": "",
 					"Start": 30666,
 					"End": 30688
+				},
+				{
+					"Reply": "I can. assure you that there won't be any more trouble... . My men will follow -- ",
+					"Didascalie": "",
+					"Start": 31176,
+					"End": 31268
 				},
 				{
 					"Reply": "I pulled. you out of jail to get- that bunch -- and you failed -- ",
@@ -2549,6 +2330,12 @@
 					"End": 27391
 				},
 				{
+					"Reply": " But by God the next time you plan your massacre a little more carefully ...or I'll begin it with you! ",
+					"Didascalie": "(crossing to him)",
+					"Start": 27418,
+					"End": 27551
+				},
+				{
 					"Reply": " Because I know him. ",
 					"Didascalie": "(then, softly)",
 					"Start": 32305,
@@ -2615,6 +2402,12 @@
 					"End": 46165
 				},
 				{
+					"Reply": " 'Listen -- I don't want to go back to prison, Mr. Harrigan,... .not ever -- but it.has to be my way... ",
+					"Didascalie": "(THEN)",
+					"Start": 46182,
+					"End": 46316
+				},
+				{
 					"Reply": "I need good men: You saw what happened today. ",
 					"Didascalie": "",
 					"Start": 46389,
@@ -2627,10 +2420,34 @@
 					"End": 46836
 				},
 				{
+					"Reply": "V All rightt... .How many of you killed this one? ",
+					"Didascalie": "(wear4.ly)",
+					"Start": 47541,
+					"End": 47614
+				},
+				{
+					"Reply": " Jabali:... ",
+					"Didascalie": "(as the others yell in  PROTEST)",
+					"Start": 47851,
+					"End": 47873
+				},
+				{
+					"Reply": "This pelt should clear you up -- take him back to town...and tell Harrigan to get me a list of every Army garrison and payroll schedule on the border. ",
+					"Didascalie": "",
+					"Start": 47966,
+					"End": 48147
+				},
+				{
 					"Reply": " We got another half hour of light and they might be just up ahead counting their money. ",
 					"Didascalie": "(to.the.others, crossing to his horse)",
 					"Start": 48205,
 					"End": 48324
+				},
+				{
+					"Reply": "Not close enough... They're across the border by now. - ",
+					"Didascalie": "",
+					"Start": 59134,
+					"End": 59200
 				},
 				{
 					"Reply": "The best -- ",
@@ -2741,10 +2558,22 @@
 					"End": 110414
 				},
 				{
+					"Reply": " Don't shoot; ...It's the army, you idiots; - ",
+					"Didascalie": "(YELLING)",
+					"Start": 138276,
+					"End": 138344
+				},
+				{
 					"Reply": "Steal as some grub -- I got the horses. ",
 					"Didascalie": "",
 					"Start": 143959,
 					"End": 144009
+				},
+				{
+					"Reply": "\"Them soldiers\" are going to get us all if they ever get the chance...Who started firing at them? ",
+					"Didascalie": "",
+					"Start": 144307,
+					"End": 144425
 				},
 				{
 					"Reply": "How many rifles? And how much ammunition? ",
@@ -2781,6 +2610,12 @@
 					"Didascalie": "(THEN)",
 					"Start": 145595,
 					"End": 145708
+				},
+				{
+					"Reply": "They didn.'t take it out... ",
+					"Didascalie": "",
+					"Start": 158835,
+					"End": 158863
 				},
 				{
 					"Reply": " We didn't lose them -- I could point to them now. ",
@@ -3016,6 +2851,12 @@
 					"End": 142880
 				},
 				{
+					"Reply": " Well, Old Huey started firing up.at tem. I even tried to stop him... ",
+					"Didascalie": "(LYING)",
+					"Start": 144658,
+					"End": 144748
+				},
+				{
 					"Reply": "Are we going after-them? ",
 					"Didascalie": "",
 					"Start": 145295,
@@ -3074,18 +2915,18 @@
 					"Didascalie": "",
 					"Start": 214565,
 					"End": 214583
-				},
-				{
-					"Reply": "----.No we 9.11 pick him up on the way -- ",
-					"Didascalie": "",
-					"Start": 214882,
-					"End": 214924
 				}
 			]
 		},
 		{
 			"Character": "HARR IGAN",
 			"Replies": [
+				{
+					"Reply": " Good, Mr..Thornton...it feels good. ",
+					"Didascalie": "(after a moment, coldly)",
+					"Start": 42642,
+					"End": 42689
+				},
 				{
 					"Reply": "All right.. ",
 					"Didascalie": "",
@@ -3102,6 +2943,12 @@
 					"Didascalie": "",
 					"Start": 13029,
 					"End": 13098
+				},
+				{
+					"Reply": " What is it?...What do you want? ",
+					"Didascalie": "(reaching for air)",
+					"Start": 13429,
+					"End": 13472
 				}
 			]
 		},
@@ -3117,6 +2964,17 @@
 			]
 		},
 		{
+			"Character": "THO RNTO N",
+			"Replies": [
+				{
+					"Reply": " Dutch Engstrom...going from the village. ",
+					"Didascalie": "(turning to them)",
+					"Start": 186072,
+					"End": 186124
+				}
+			]
+		},
+		{
 			"Character": "HARRI GAN",
 			"Replies": [
 				{
@@ -3124,6 +2982,12 @@
 					"Didascalie": "",
 					"Start": 15075,
 					"End": 15188
+				},
+				{
+					"Reply": " You stupid damn fools! ... How could you shoot this employee and let the others get away? ",
+					"Didascalie": "(pointing to the paymaster)",
+					"Start": 26528,
+					"End": 26649
 				},
 				{
 					"Reply": "Twice .he' s made a fool of me - He never will again. ",
@@ -3186,6 +3050,17 @@
 			]
 		},
 		{
+			"Character": "WAINSCOAT",
+			"Replies": [
+				{
+					"Reply": " You lured that gang in here... the rail- ",
+					"Didascalie": "(LOUDER)",
+					"Start": 30505,
+					"End": 30557
+				}
+			]
+		},
+		{
 			"Character": "THO RNTON",
 			"Replies": [
 				{
@@ -3224,16 +3099,52 @@
 					"End": 36939
 				},
 				{
+					"Reply": " Say -- I've heard it's like the.old times in Argentina...3utch Cassidy down. there making a killing... ",
+					"Didascalie": "(after a moment)",
+					"Start": 40739,
+					"End": 40873
+				},
+				{
 					"Reply": " Tector and I have been stealing since the big depression and we ain't never been caught. This Thornton don't bother us nohe.. ",
 					"Didascalie": "(HAPPILY)",
 					"Start": 41626,
 					"End": 41793
 				},
 				{
+					"Reply": "About the sharing up... ",
+					"Didascalie": "",
+					"Start": 49888,
+					"End": 49912
+				},
+				{
+					"Reply": "Tector and I don? t like the idea of him getting the same as us...He's just starting out and this is our stake for new territory. ",
+					"Didascalie": "",
+					"Start": 50240,
+					"End": 50400
+				},
+				{
+					"Reply": "You hear me, Pike? -- I said it ain't fair... ",
+					"Didascalie": "",
+					"Start": 50896,
+					"End": 50952
+				},
+				{
+					"Reply": "Ah.--' Pike, you know... ",
+					"Didascalie": "",
+					"Start": 51641,
+					"End": 51666
+				},
+				{
 					"Reply": "No, sir -- we divide just as you say. ",
 					"Didascalie": "",
 					"Start": 51962,
 					"End": 52010
+				},
+				{
+					"Reply": "Washers...we shot our way out of that town for a dollar's worth of steel holes. ",
+					"Didascalie": "",
+					"Start": 52820,
+					"End": 52920
 				},
 				{
 					"Reply": ". Who the hell is 'they!!? ",
@@ -3246,6 +3157,12 @@
 					"Didascalie": "",
 					"Start": 54235,
 					"End": 54261
+				},
+				{
+					"Reply": " All your fancy planning and talk damn near got us shot to pieces for.some lousy bags of washers... ",
+					"Didascalie": "(without malice)",
+					"Start": 57215,
+					"End": 57345
 				},
 				{
 					"Reply": " He --.he was making plans while me and Tector was -- ",
@@ -3290,10 +3207,28 @@
 					"End": 89894
 				},
 				{
+					"Reply": "Hey,. boy...you know them cuties? ",
+					"Didascalie": "",
+					"Start": 97385,
+					"End": 97419
+				},
+				{
+					"Reply": "Well,. .I don't need no bath...Tector and me need'some of them senoritas. ",
+					"Didascalie": "",
+					"Start": 107257,
+					"End": 107341
+				},
+				{
 					"Reply": " How 'bout that boy, can you fix us up? ",
 					"Didascalie": "(to Zamorra)",
 					"Start": 107363,
 					"End": 107413
+				},
+				{
+					"Reply": " More than enough to go around... ",
+					"Didascalie": "(laughing softly)",
+					"Start": 108868,
+					"End": 108912
 				},
 				{
 					"Reply": " And then some! ",
@@ -3366,6 +3301,12 @@
 					"Didascalie": "(as Pike doesn't answer)",
 					"Start": 189983,
 					"End": 190056
+				},
+				{
+					"Reply": "You're'cra-zy:...He'd just as soon kill us as break wind.. ",
+					"Didascalie": "",
+					"Start": 190600,
+					"End": 190669
 				},
 				{
 					"Reply": "Just thinking about him is asking .for trouble. ",
@@ -3502,6 +3443,12 @@
 					"Didascalie": "",
 					"Start": 88290,
 					"End": 88332
+				},
+				{
+					"Reply": "Pike... .I heard about one they got up north that. kin fly; Pike nods sagely. Te.ctor Gorch on the other side of the car hears the remark. ",
+					"Didascalie": "",
+					"Start": 90121,
+					"End": 90290
 				},
 				{
 					"Reply": "Listen, bog, you ride the trail with us your village don't count -- if it does- -you jest don't go along. ",
@@ -3653,17 +3600,6 @@
 			]
 		},
 		{
-			"Character": "CONTML ED",
-			"Replies": [
-				{
-					"Reply": "40. ",
-					"Didascalie": "",
-					"Start": 70238,
-					"End": 70242
-				}
-			]
-		},
-		{
 			"Character": "C OFFER",
 			"Replies": [
 				{
@@ -3671,17 +3607,6 @@
 					"Didascalie": "(WHINING)",
 					"Start": 77967,
 					"End": 78014
-				}
-			]
-		},
-		{
-			"Character": "CARMEN",
-			"Replies": [
-				{
-					"Reply": "CWGE8  46. ",
-					"Didascalie": "",
-					"Start": 79543,
-					"End": 79564
 				}
 			]
 		},
@@ -3841,6 +3766,12 @@
 					"End": 102434
 				},
 				{
+					"Reply": " That pistol is restricted for use'by army personnel. It can't be purchased or even owned... legally. ",
+					"Didascalie": "(as they look at him)",
+					"Start": 102465,
+					"End": 102597
+				},
+				{
 					"Reply": " Is that so? - - ",
 					"Didascalie": "(GUARDEDLY)",
 					"Start": 102636,
@@ -3863,6 +3794,18 @@
 					"Didascalie": "",
 					"Start": 102906,
 					"End": 102994
+				},
+				{
+					"Reply": "Unfortunately your government has chosen to aid the rabble in their so-called struggle for liberty... ",
+					"Didascalie": "",
+					"Start": 103261,
+					"End": 103383
+				},
+				{
+					"Reply": "They are aiding in diplomatic channels... ",
+					"Didascalie": "",
+					"Start": 103651,
+					"End": 103693
 				},
 				{
 					"Reply": " Generalisimo, I think we should ask these gentlemen to have a drink with us. ",
@@ -3901,10 +3844,10 @@
 					"End": 152985
 				},
 				{
-					"Reply": "Er ist dock verrukt          107. ",
+					"Reply": "It must be mounted on the tripod... ",
 					"Didascalie": "",
-					"Start": 180848,
-					"End": 180932
+					"Start": 180722,
+					"End": 180758
 				}
 			]
 		},
@@ -3916,6 +3859,12 @@
 					"Didascalie": "",
 					"Start": 95628,
 					"End": 95632
+				},
+				{
+					"Reply": "Why did he try to kill His Excellency...? ",
+					"Didascalie": "",
+					"Start": 100674,
+					"End": 100716
 				},
 				{
 					"Reply": "La.muchacha,.. ",
@@ -3934,6 +3883,12 @@
 					"Didascalie": "",
 					"Start": 107442,
 					"End": 107453
+				},
+				{
+					"Reply": "Oye!...Traeles unas viejas! Andale! ",
+					"Didascalie": "",
+					"Start": 107547,
+					"End": 107583
 				},
 				{
 					"Reply": "Par favor. ",
@@ -3966,6 +3921,12 @@
 					"End": 177360
 				},
 				{
+					"Reply": " 'Wait, por favor...In case he cant find them. ",
+					"Didascalie": "(SMILING)",
+					"Start": 177380,
+					"End": 177447
+				},
+				{
 					"Reply": "How many cases did you take 'from the train? ",
 					"Didascalie": "",
 					"Start": 182585,
@@ -3984,6 +3945,18 @@
 					"End": 196576
 				},
 				{
+					"Reply": " El g3neralisimo is happy with victory!... ",
+					"Didascalie": "(cutting him. off)",
+					"Start": 197382,
+					"End": 197435
+				},
+				{
+					"Reply": "Go and drink... .there are women in. ",
+					"Didascalie": "",
+					"Start": 197557,
+					"End": 197594
+				},
+				{
 					"Reply": " Dog lost those gringos you wanted - ",
 					"Didascalie": "(pointing to Herrera)",
 					"Start": 203417,
@@ -3994,6 +3967,12 @@
 		{
 			"Character": "TERESA",
 			"Replies": [
+				{
+					"Reply": "Vamos:...te va. gustar el Alenman: Angel. spins around in his chair watching as: 202 TWO PRETTY MEXICAN GIRLS, TERESA AND RASA, laughing and giggling, pass-the table. ",
+					"Didascalie": "",
+					"Start": 97034,
+					"End": 97231
+				},
 				{
 					"Reply": "No, Vete, ahorita vengo; Pike and Dutch tense as Angel stands and jerks her toward him, - ",
 					"Didascalie": "",
@@ -4083,10 +4062,22 @@
 					"End": 177102
 				},
 				{
+					"Reply": "Como no...? ",
+					"Didascalie": "",
+					"Start": 182358,
+					"End": 182370
+				},
+				{
 					"Reply": "He stole them. ..He stole them for his people. The mother of his girl told us. ",
 					"Didascalie": "",
 					"Start": 182940,
 					"End": 183029
+				},
+				{
+					"Reply": "No lo matez b...Lo quiero vivo  414 AS ANGEL NEARS THE GATE, A SOLDIER SWINGS A LARIAT AND CATCHES  THE TWO FRONT FEET OF HIS HORSE. ",
+					"Didascalie": "",
+					"Start": 183272,
+					"End": 183425
 				},
 				{
 					"Reply": "Supieron ellos? ",
@@ -4119,6 +4110,12 @@
 					"End": 185015
 				},
 				{
+					"Reply": "Los Bandi'dos Gringos...Come here,  AMIGOS: 451 PIKE AND THE OTHERS PUSH THROUGH the large group of festive Mexicans towards the table. As they walk toward Mapache: 452 ANGEL IS DRAGGED PAST THEM by two soldiers and dropped in front of the general. ",
+					"Didascalie": "",
+					"Start": 195784,
+					"End": 196083
+				},
+				{
 					"Reply": " You come for your friend? ",
 					"Didascalie": "(LAUGHING)",
 					"Start": 196123,
@@ -4143,6 +4140,12 @@
 					"End": 197019
 				},
 				{
+					"Reply": " No, I don't. need gold... .I don't sell that one. ",
+					"Didascalie": "(LAUGHS )",
+					"Start": 197137,
+					"End": 197210
+				},
+				{
 					"Reply": " Five gringos want to take our guns Maten los.. ",
 					"Didascalie": "(to Herrera happily, in Spanish)",
 					"Start": 198279,
@@ -4161,10 +4164,27 @@
 					"End": 204090
 				},
 				{
+					"Reply": " Take him... ",
+					"Didascalie": "(SOFTLY)",
+					"Start": 204339,
+					"End": 204362
+				},
+				{
 					"Reply": " Vete, Angelito:..te esperan. los. ",
 					"Didascalie": "(GENTLY)",
 					"Start": 204914,
 					"End": 204959
+				}
+			]
+		},
+		{
+			"Character": "O MAP ACHE",
+			"Replies": [
+				{
+					"Reply": " His fiancee??... ",
+					"Didascalie": "(PLEASED)",
+					"Start": 101128,
+					"End": 101156
 				}
 			]
 		},
@@ -4176,6 +4196,17 @@
 					"Didascalie": "",
 					"Start": 101456,
 					"End": 101571
+				}
+			]
+		},
+		{
+			"Character": "DFTCH",
+			"Replies": [
+				{
+					"Reply": " Why do you want us to hit a train that's so close to the border ...The General could take an army up there and get it. ",
+					"Didascalie": "(to ZRmorre)",
+					"Start": 105411,
+					"End": 105571
 				}
 			]
 		},
@@ -4211,6 +4242,12 @@
 					"Didascalie": "(to his companion,  MOHR)",
 					"Start": 151469,
 					"End": 151493
+				},
+				{
+					"Reply": "Ach so;...Gut - ",
+					"Didascalie": "",
+					"Start": 151727,
+					"End": 151743
 				},
 				{
 					"Reply": " Sehr gut.mein General! ",
@@ -4288,6 +4325,17 @@
 			]
 		},
 		{
+			"Character": "SOLDIER",
+			"Replies": [
+				{
+					"Reply": "Sergeant; They're coming back... ",
+					"Didascalie": "",
+					"Start": 135336,
+					"End": 135369
+				}
+			]
+		},
+		{
 			"Character": "MC HALE",
 			"Replies": [
 				{
@@ -4295,6 +4343,18 @@
 					"Didascalie": "",
 					"Start": 135535,
 					"End": 135572
+				},
+				{
+					"Reply": "Get out ; ...The engine's coming ! ",
+					"Didascalie": "",
+					"Start": 135862,
+					"End": 135897
+				},
+				{
+					"Reply": "Halt... '. Halt dammit; That is-Mexico -- and . we can't go there -- not yet. ",
+					"Didascalie": "",
+					"Start": 140877,
+					"End": 140977
 				}
 			]
 		},
@@ -4318,6 +4378,12 @@
 					"Didascalie": "",
 					"Start": 144255,
 					"End": 144277
+				},
+				{
+					"Reply": "Now...? ",
+					"Didascalie": "",
+					"Start": 145753,
+					"End": 145761
 				},
 				{
 					"Reply": "I don't know how we lost 'em except maybe in that big valley where the ground was. so hard. ",
@@ -4380,6 +4446,17 @@
 			]
 		},
 		{
+			"Character": "JUAN",
+			"Replies": [
+				{
+					"Reply": "Mi General... telegrama de San Antonio. ",
+					"Didascalie": "",
+					"Start": 151105,
+					"End": 151145
+				}
+			]
+		},
+		{
 			"Character": "HERRERA",
 			"Replies": [
 				{
@@ -4393,6 +4470,12 @@
 					"Didascalie": "",
 					"Start": 152485,
 					"End": 152515
+				},
+				{
+					"Reply": "I.coming,..We are friends... ",
+					"Didascalie": "",
+					"Start": 162403,
+					"End": 162432
 				},
 				{
 					"Reply": "Que bueno -- What bravery you. ",
@@ -4419,10 +4502,22 @@
 					"End": 163448
 				},
 				{
+					"Reply": "Heyl...very smarts:: That's very smart for you-damn gringos... ",
+					"Didascalie": "",
+					"Start": 164339,
+					"End": 164412
+				},
+				{
 					"Reply": "Oyen muchachos3,.,Tienen la .caretta como bomba.con unfisible; ,,.y machina38 Still smiling he turns back to Pike and Dutch. ",
 					"Didascalie": "",
 					"Start": 165300,
 					"End": 165455
+				},
+				{
+					"Reply": "Muchachos... ",
+					"Didascalie": "",
+					"Start": 166245,
+					"End": 166258
 				},
 				{
 					"Reply": "S , mi. General. f. ",
@@ -4433,24 +4528,13 @@
 			]
 		},
 		{
-			"Character": "THE ARROYOS",
+			"Character": "MAP ACHE",
 			"Replies": [
 				{
-					"Reply": "89. ",
+					"Reply": "The gringos take the guns... ",
 					"Didascalie": "",
-					"Start": 154243,
-					"End": 154247
-				}
-			]
-		},
-		{
-			"Character": "CHA",
-			"Replies": [
-				{
-					"Reply": "97. ",
-					"Didascalie": "",
-					"Start": 165909,
-					"End": 165913
+					"Start": 151614,
+					"End": 151643
 				}
 			]
 		},
@@ -4462,17 +4546,6 @@
 					"Didascalie": "",
 					"Start": 166517,
 					"End": 166630
-				}
-			]
-		},
-		{
-			"Character": "VOICES",
-			"Replies": [
-				{
-					"Reply": "99. ",
-					"Didascalie": "",
-					"Start": 169008,
-					"End": 169012
 				}
 			]
 		},
@@ -4499,6 +4572,17 @@
 			]
 		},
 		{
+			"Character": "IGNACIO",
+			"Replies": [
+				{
+					"Reply": "Desde ante ayer, cuando salli-eron de la llanura grande. Hey otros.grupo de gringos... ellos se fueron a uno Ranchito. ",
+					"Didascalie": "",
+					"Start": 172233,
+					"End": 172372
+				}
+			]
+		},
+		{
 			"Character": "SYKESS",
 			"Replies": [
 				{
@@ -4517,6 +4601,12 @@
 					"Didascalie": "",
 					"Start": 174994,
 					"End": 175004
+				},
+				{
+					"Reply": "Ee took two cases when you were asleep... ",
+					"Didascalie": "",
+					"Start": 183937,
+					"End": 183979
 				}
 			]
 		},
