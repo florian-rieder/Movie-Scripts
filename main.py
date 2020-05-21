@@ -4,7 +4,6 @@ import os
 import time
 import json
 
-from Movie import Movie
 from ScriptParser import ScriptParser
 
 MOVIE_SCRIPTS_PATH = "./scripts"
@@ -26,22 +25,10 @@ def main():
 			text = script.read()
 
 		# get characters list
-		characters = parser.parse(text)
-
-		# get title
-		title = parser.get_title(text)
-
-		# get author
-		author = parser.get_author(text)
-
-		# get genre
-		genre = parser.get_genre(text)
-
-		# create Movie object
-		m = Movie(title, author, genre, characters)
+		movie = parser.parse(text)
 
 		# convert to json object and format into a prettified string
-		movie_json = json.loads(m.to_json())
+		movie_json = json.loads(movie.to_json())
 		movie_json_string = json.dumps(movie_json, indent=4)
 
 		# write json string to a file

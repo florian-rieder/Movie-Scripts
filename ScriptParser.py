@@ -2,6 +2,7 @@ import re
 
 from Reply import Reply
 from Character import Character
+from Movie import Movie
 
 class ScriptParser():
 	"""Parser for movie scripts. """
@@ -29,14 +30,15 @@ class ScriptParser():
 
 	def parse(self, text):
 		"""
-		This method takes a movie script (str) as an input, and returns a list
-		of all the characters in this movie script (Character class).
+		This method takes a movie script (str) as an input, and returns an instance of
+		the Movie class, representing the movie.
 		"""
+		# Try to retrieve the character list
 		characters = self._get_characters(text)
 
-		# si moins de 5 personnages cas spécial
+		# if there are less than 5 characters, special case
 
-		# identifier le stereotype de cas spécial
+		# identify special case stereotype
 		allSameLine1 = ['American-Outlaws.txt', 'Made.txt', 'Omega-Man', 'Training-Day.txt']
 		noCapsColon2 = ['Mary-Poppins.txt', 'Napoleon-Dynamite.txt', 'Withnail-and-I.txt']
 		sameLineRepliesNoCaps3 = ['Benny-&-Joon.txt', 'Dawn of the Dead', 'Little-Mermaid,-The.txt', 'Mulan.txt', 'Ninth-Gate,-The.txt', 'Rescuers-Down-Under,-The.txt', 'Village,-The.txt']
@@ -44,9 +46,16 @@ class ScriptParser():
 		noCaps5 = ['Pokemon-Mewtwo-Returns.txt']
 		notScript6 = ['Artist, The', 'E.T.', 'Passion of Joan of Arc, The', 'Night Time (The Poltergeist Treatment)']
 
-		# si aucun ne fonctionne, avertir l'utilisateur
+		# if none works, warn user
 
-		return characters
+		# retrieve metadata
+		title = self.get_title(text)
+		author = self.get_author(text)
+		genre = self.get_genre(text)
+
+		# return instance of Movie
+		movie = Movie(title, author, genre, characters)
+		return movie
 
 	def _get_characters(self, text):
 		"""
