@@ -1,1 +1,253 @@
-{"Title": ["9", "   "], "Author": ["\u00a0\u00a0Pamela Pettler\u00a0\u00a0Shane Acker"], "Genre": ["\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"], "Characters": [{"Character": "DICTATOR", "Replies": [{"Reply": "Useless. ", "Didascalie": "", "Start": 1674, "End": 1683}, {"Reply": "One more.      That's all. ", "Didascalie": "", "Start": 1963, "End": 1990}, {"Reply": "Perfect. ", "Didascalie": "", "Start": 5137, "End": 5146}, {"Reply": "Yes. Perfect. ", "Didascalie": "", "Start": 6276, "End": 6290}]}, {"Character": "SCIENTIST", "Replies": [{"Reply": "Please.   Give it a chance. ", "Didascalie": "", "Start": 1761, "End": 1789}, {"Reply": " My last possible solution.... ", "Didascalie": "(tired, but dictating to keep the documentary record complete)", "Start": 3198, "End": 3249}, {"Reply": " It must work... ", "Didascalie": "(muttering to himself)", "Start": 3295, "End": 3332}, {"Reply": " You see, it evolves. ", "Didascalie": "(PROUDLY)", "Start": 5234, "End": 5278}, {"Reply": " My invention... my beauty... beauty was taken... ", "Didascalie": "(HEARTBROKEN)", "Start": 7797, "End": 7887}, {"Reply": "Five so far....I can't get them right... ", "Didascalie": "", "Start": 9717, "End": 9778}, {"Reply": "My last one... this one, finally, must work... it must.... ", "Didascalie": "", "Start": 11175, "End": 11256}, {"Reply": "... it's up to you now... ", "Didascalie": "", "Start": 166277, "End": 166303}, {"Reply": " ...you...you are all the pieces of my soul... ", "Didascalie": "(with his last breath of ENERGY)", "Start": 166384, "End": 166471}]}, {"Character": "RADIO", "Replies": [{"Reply": " Alert. We are in a state of emergency... ", "Didascalie": "(V.O.) (robotic sounding)", "Start": 6724, "End": 6806}, {"Reply": "...the Machines have become uncontrollable... they are shooting at will... ALERT: stay in your homes. ", "Didascalie": "", "Start": 7423, "End": 7585}, {"Reply": "Reports are coming in... they've breached the Northern walls of the city... ", "Didascalie": "", "Start": 8391, "End": 8507}, {"Reply": "An announcement from our Chancellor! ", "Didascalie": "", "Start": 8961, "End": 9018}, {"Reply": " Comrades, I have lost control. The Machine is now our enemy. We need to join forces to fight against it. ", "Didascalie": "(V.O.) (on the radio)", "Start": 9114, "End": 9280}, {"Reply": " Gas masks are being distributed... ", "Didascalie": "(V.O.) (through static)", "Start": 10067, "End": 10123}]}, {"Character": "DAYLIGHT", "Replies": [{"Reply": ". ..he is on the tabletop in the RUINS OF A SMALL ROOM. ", "Didascalie": "", "Start": 13248, "End": 13315}]}, {"Character": "HE--THE--", "Replies": [{"Reply": "T hing! It took him. ", "Didascalie": "", "Start": 31895, "End": 31940}]}, {"Character": "TRENCH", "Replies": [{"Reply": "Someone is watching them. ", "Didascalie": "", "Start": 62497, "End": 62523}]}, {"Character": "THREE ENORMOUS SMOKESTACKS", "Replies": [{"Reply": "UT TO:  ........................................................... ", "Didascalie": "", "Start": 63591, "End": 63679}]}, {"Character": "SSEMBLY LINE", "Replies": [{"Reply": "Enormous metal arms lie motionless. Huge steel hooks tower over the belt, with sharp-edged pieces of Machinery dangling from them. ", "Didascalie": "", "Start": 64279, "End": 64430}]}, {"Character": "MACHINE", "Replies": [{"Reply": "- -Dutch-angle shots of the Dictator, and we hear his SPEECH-- ", "Didascalie": "", "Start": 82009, "End": 82083}]}, {"Character": "PROSPERITY--", "Replies": [{"Reply": "--shots of the Machines ATTACKING-- ", "Didascalie": "", "Start": 82767, "End": 82803}]}, {"Character": "GLARE", "Replies": [{"Reply": "beams right into the eyes of the Winged Beast, momentarily blinding it. ", "Didascalie": "", "Start": 99981, "End": 100063}]}, {"Character": "MUCH--", "Replies": [{"Reply": " I was right! You did send him out to die! ", "Didascalie": "(SUDDENLY)", "Start": 119781, "End": 119868}]}, {"Character": "NO--NO--", "Replies": [{"Reply": "But the machine RISES UP TERRIFYINGLY. It looks for a moment as though 9 was wrong and they're all going to be killed. ", "Didascalie": "", "Start": 174540, "End": 174669}]}]}
+{
+    "Title": [
+        "9",
+        "   "
+    ],
+    "Author": [
+        "\u00a0\u00a0Pamela Pettler\u00a0\u00a0Shane Acker"
+    ],
+    "Genre": [
+        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+    ],
+    "Characters": [
+        {
+            "Character": "DICTATOR",
+            "Replies": [
+                {
+                    "Reply": "Useless.",
+                    "Didascalie": "",
+                    "Start": 1674,
+                    "End": 1683
+                },
+                {
+                    "Reply": "One more.      That's all.",
+                    "Didascalie": "",
+                    "Start": 1963,
+                    "End": 1990
+                },
+                {
+                    "Reply": "Perfect.",
+                    "Didascalie": "",
+                    "Start": 5137,
+                    "End": 5146
+                },
+                {
+                    "Reply": "Yes. Perfect.",
+                    "Didascalie": "",
+                    "Start": 6276,
+                    "End": 6290
+                }
+            ]
+        },
+        {
+            "Character": "SCIENTIST",
+            "Replies": [
+                {
+                    "Reply": "Please.   Give it a chance.",
+                    "Didascalie": "",
+                    "Start": 1761,
+                    "End": 1789
+                },
+                {
+                    "Reply": "My last possible solution....",
+                    "Didascalie": "(tired, but dictating to keep the documentary record complete)",
+                    "Start": 3198,
+                    "End": 3249
+                },
+                {
+                    "Reply": "It must work...",
+                    "Didascalie": "(muttering to himself)",
+                    "Start": 3295,
+                    "End": 3332
+                },
+                {
+                    "Reply": "You see, it evolves.",
+                    "Didascalie": "(PROUDLY)",
+                    "Start": 5234,
+                    "End": 5278
+                },
+                {
+                    "Reply": "My invention... my beauty... beauty was taken...",
+                    "Didascalie": "(HEARTBROKEN)",
+                    "Start": 7797,
+                    "End": 7887
+                },
+                {
+                    "Reply": "Five so far....I can't get them right...",
+                    "Didascalie": "",
+                    "Start": 9717,
+                    "End": 9778
+                },
+                {
+                    "Reply": "My last one... this one, finally, must work... it must....",
+                    "Didascalie": "",
+                    "Start": 11175,
+                    "End": 11256
+                },
+                {
+                    "Reply": "... it's up to you now...",
+                    "Didascalie": "",
+                    "Start": 166277,
+                    "End": 166303
+                },
+                {
+                    "Reply": "...you...you are all the pieces of my soul...",
+                    "Didascalie": "(with his last breath of ENERGY)",
+                    "Start": 166384,
+                    "End": 166471
+                }
+            ]
+        },
+        {
+            "Character": "RADIO",
+            "Replies": [
+                {
+                    "Reply": "Alert. We are in a state of emergency...",
+                    "Didascalie": "(V.O.) (robotic sounding)",
+                    "Start": 6724,
+                    "End": 6806
+                },
+                {
+                    "Reply": "...the Machines have become uncontrollable... they are shooting at will... ALERT: stay in your homes.",
+                    "Didascalie": "",
+                    "Start": 7423,
+                    "End": 7585
+                },
+                {
+                    "Reply": "Reports are coming in... they've breached the Northern walls of the city...",
+                    "Didascalie": "",
+                    "Start": 8391,
+                    "End": 8507
+                },
+                {
+                    "Reply": "An announcement from our Chancellor!",
+                    "Didascalie": "",
+                    "Start": 8961,
+                    "End": 9018
+                },
+                {
+                    "Reply": "Comrades, I have lost control. The Machine is now our enemy. We need to join forces to fight against it.",
+                    "Didascalie": "(V.O.) (on the radio)",
+                    "Start": 9114,
+                    "End": 9280
+                },
+                {
+                    "Reply": "Gas masks are being distributed...",
+                    "Didascalie": "(V.O.) (through static)",
+                    "Start": 10067,
+                    "End": 10123
+                }
+            ]
+        },
+        {
+            "Character": "DAYLIGHT",
+            "Replies": [
+                {
+                    "Reply": ". ..he is on the tabletop in the RUINS OF A SMALL ROOM.",
+                    "Didascalie": "",
+                    "Start": 13248,
+                    "End": 13315
+                }
+            ]
+        },
+        {
+            "Character": "HE--THE--",
+            "Replies": [
+                {
+                    "Reply": "T hing! It took him.",
+                    "Didascalie": "",
+                    "Start": 31895,
+                    "End": 31940
+                }
+            ]
+        },
+        {
+            "Character": "TRENCH",
+            "Replies": [
+                {
+                    "Reply": "Someone is watching them.",
+                    "Didascalie": "",
+                    "Start": 62497,
+                    "End": 62523
+                }
+            ]
+        },
+        {
+            "Character": "THREE ENORMOUS SMOKESTACKS",
+            "Replies": [
+                {
+                    "Reply": "UT TO:  ...........................................................",
+                    "Didascalie": "",
+                    "Start": 63591,
+                    "End": 63679
+                }
+            ]
+        },
+        {
+            "Character": "SSEMBLY LINE",
+            "Replies": [
+                {
+                    "Reply": "Enormous metal arms lie motionless. Huge steel hooks tower over the belt, with sharp-edged pieces of Machinery dangling from them.",
+                    "Didascalie": "",
+                    "Start": 64279,
+                    "End": 64430
+                }
+            ]
+        },
+        {
+            "Character": "MACHINE",
+            "Replies": [
+                {
+                    "Reply": "- -Dutch-angle shots of the Dictator, and we hear his SPEECH--",
+                    "Didascalie": "",
+                    "Start": 82009,
+                    "End": 82083
+                }
+            ]
+        },
+        {
+            "Character": "PROSPERITY--",
+            "Replies": [
+                {
+                    "Reply": "--shots of the Machines ATTACKING--",
+                    "Didascalie": "",
+                    "Start": 82767,
+                    "End": 82803
+                }
+            ]
+        },
+        {
+            "Character": "GLARE",
+            "Replies": [
+                {
+                    "Reply": "beams right into the eyes of the Winged Beast, momentarily blinding it.",
+                    "Didascalie": "",
+                    "Start": 99981,
+                    "End": 100063
+                }
+            ]
+        },
+        {
+            "Character": "MUCH--",
+            "Replies": [
+                {
+                    "Reply": "I was right! You did send him out to die!",
+                    "Didascalie": "(SUDDENLY)",
+                    "Start": 119781,
+                    "End": 119868
+                }
+            ]
+        },
+        {
+            "Character": "NO--NO--",
+            "Replies": [
+                {
+                    "Reply": "But the machine RISES UP TERRIFYINGLY. It looks for a moment as though 9 was wrong and they're all going to be killed.",
+                    "Didascalie": "",
+                    "Start": 174540,
+                    "End": 174669
+                }
+            ]
+        }
+    ]
+}

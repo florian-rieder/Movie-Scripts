@@ -1,1 +1,25 @@
-{"Title": ["Dawn of the Dead", "   "], "Author": ["\u00a0\u00a0George A. Romero"], "Genre": ["\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Drama"], "Characters": [{"Character": "BOSTON AND CERTAIN SECTIONS OF PHILADELPHIA", "Replies": [{"Reply": "AND NEW YORK CITY... ", "Didascalie": "", "Start": 133690, "End": 133711}]}]}
+{
+    "Title": [
+        "Dawn of the Dead",
+        "   "
+    ],
+    "Author": [
+        "\u00a0\u00a0George A. Romero"
+    ],
+    "Genre": [
+        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Drama"
+    ],
+    "Characters": [
+        {
+            "Character": "BOSTON AND CERTAIN SECTIONS OF PHILADELPHIA",
+            "Replies": [
+                {
+                    "Reply": "AND NEW YORK CITY...",
+                    "Didascalie": "",
+                    "Start": 133690,
+                    "End": 133711
+                }
+            ]
+        }
+    ]
+}

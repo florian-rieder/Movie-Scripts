@@ -1,1 +1,3576 @@
-{"Title": ["Jurassic Park III", "   "], "Author": ["\u00a0\u00a0Peter Buchman\u00a0\u00a0Alexander Payne\u00a0\u00a0John August\u00a0\u00a0Jim Taylor"], "Genre": ["\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"], "Characters": [{"Character": "JURASSIC PARK III", "Replies": [{"Reply": "A speedboat cuts swiftly through the ocean swells beneath the looming cliffs of ISLA SORNA. ", "Didascalie": "", "Start": 167, "End": 260}]}, {"Character": "BEN", "Replies": [{"Reply": "Unclip your line! ", "Didascalie": "", "Start": 3079, "End": 3097}, {"Reply": "Unclip the line! ", "Didascalie": "", "Start": 48765, "End": 48782}, {"Reply": "Hand on! Hang on buddy! ", "Didascalie": "", "Start": 48982, "End": 49006}, {"Reply": "Are you ok, buddy? ", "Didascalie": "", "Start": 49407, "End": 49426}, {"Reply": "We're okay. It's going to be okay. Here, get ready. I'm going to unhook you. ", "Didascalie": "", "Start": 49574, "End": 49653}, {"Reply": " We're going to get out of this, pal. ", "Didascalie": "(O.S) (weaker)", "Start": 49858, "End": 49898}]}, {"Character": "ENRIQUE", "Replies": [{"Reply": "Don't worry. I take you close. But not too close. ", "Didascalie": "", "Start": 792, "End": 845}, {"Reply": " You don't want them to eat you. ", "Didascalie": "(rubbing Eric's head)", "Start": 869, "End": 904}, {"Reply": "Ready, amigos? ", "Didascalie": "", "Start": 1020, "End": 1035}]}, {"Character": "ERIC", "Replies": [{"Reply": "What was that? ", "Didascalie": "", "Start": 2366, "End": 2381}, {"Reply": "Ben! ", "Didascalie": "", "Start": 2710, "End": 2715}, {"Reply": "Ben! ", "Didascalie": "", "Start": 48749, "End": 48754}, {"Reply": " I don't know. I think so. ", "Didascalie": "(through his sobs)", "Start": 49534, "End": 49563}, {"Reply": "In Costa Rica? ", "Didascalie": "", "Start": 69739, "End": 69754}, {"Reply": "They'll never make it. I mean, they can't manage when the cable goes out. ", "Didascalie": "", "Start": 69855, "End": 69931}, {"Reply": "You're Alan Grant, aren't you? ", "Didascalie": "", "Start": 70077, "End": 70108}, {"Reply": " I read both of your books. ", "Didascalie": "(off surprised reaction)", "Start": 70135, "End": 70165}, {"Reply": "The first one. Before you where on the island. ", "Didascalie": "", "Start": 70215, "End": 70262}, {"Reply": "When InGen cleared out, they left a lot of stuff behind. ", "Didascalie": "", "Start": 70626, "End": 70685}, {"Reply": "Found this, but the battery's dead. ", "Didascalie": "", "Start": 70781, "End": 70817}, {"Reply": "Is that all it's been? I thought it was longer. ", "Didascalie": "", "Start": 71034, "End": 71082}, {"Reply": "Yeah. ", "Didascalie": "", "Start": 71427, "End": 71433}, {"Reply": "I dunno. I mean, it was kind of preachy. ", "Didascalie": "", "Start": 71478, "End": 71519}, {"Reply": "Know what this is? ", "Didascalie": "", "Start": 74539, "End": 74558}, {"Reply": "Mine's new. ", "Didascalie": "", "Start": 74641, "End": 74653}, {"Reply": "I stayed pretty close to the compound, Figured if anyone came to look for me, that's where they'd start. ", "Didascalie": "", "Start": 74858, "End": 74967}, {"Reply": "Are you sure? ", "Didascalie": "", "Start": 75023, "End": 75037}, {"Reply": "Closer you get to the water, the bigger things get. ", "Didascalie": "", "Start": 75067, "End": 75121}, {"Reply": "Mon! Dad! ", "Didascalie": "", "Start": 77848, "End": 77858}, {"Reply": "We do. ", "Didascalie": "", "Start": 78889, "End": 78896}, {"Reply": "Then we go home? ", "Didascalie": "", "Start": 81090, "End": 81107}, {"Reply": "No, I can do it. ", "Didascalie": "", "Start": 83358, "End": 83375}, {"Reply": "Mom? ", "Didascalie": "", "Start": 83847, "End": 83852}, {"Reply": "Do you have any kids? ", "Didascalie": "", "Start": 94855, "End": 94877}, {"Reply": "I want to be an astronaut. ", "Didascalie": "", "Start": 95134, "End": 95161}, {"Reply": "But then you never get to go in space. ", "Didascalie": "", "Start": 95540, "End": 95579}, {"Reply": "What's that? ", "Didascalie": "", "Start": 99702, "End": 99715}, {"Reply": "Something must've scared them. ", "Didascalie": "", "Start": 99944, "End": 99975}, {"Reply": "DAD! ", "Didascalie": "", "Start": 104379, "End": 104384}, {"Reply": "Where's Dad? ", "Didascalie": "", "Start": 105018, "End": 105031}, {"Reply": "We have to keep looking for Dad. We have to. ", "Didascalie": "", "Start": 107210, "End": 107255}, {"Reply": "then we should... ", "Didascalie": "", "Start": 107325, "End": 107343}, {"Reply": "He loves you too. ", "Didascalie": "", "Start": 107616, "End": 107634}, {"Reply": "Yeah. ", "Didascalie": "", "Start": 108810, "End": 108816}, {"Reply": "The lady you called, how do you know she can help us? ", "Didascalie": "", "Start": 109419, "End": 109475}, {"Reply": "You should. ", "Didascalie": "", "Start": 109714, "End": 109726}, {"Reply": "No. I couldn't see. ", "Didascalie": "", "Start": 110160, "End": 110180}, {"Reply": " Mom! Dad! ", "Didascalie": "(excited)", "Start": 110697, "End": 110710}, {"Reply": " Dr. Grant! Helicopters are coming! ", "Didascalie": "(yelling over)", "Start": 111353, "End": 111391}, {"Reply": "We're safe! ", "Didascalie": "", "Start": 111498, "End": 111510}, {"Reply": "What do you think is going to happen with the dinosaurs? ", "Didascalie": "", "Start": 115570, "End": 115629}, {"Reply": "I hope they don't. I want to come back someday. ", "Didascalie": "", "Start": 115939, "End": 115989}]}, {"Character": "CHILD", "Replies": [{"Reply": "RRRRROW! GRRRRRR! ", "Didascalie": "", "Start": 3434, "End": 3452}]}, {"Character": "GRANT", "Replies": [{"Reply": "Oh, actually, Charlie, those two are herbivores. They wouldn't be interested in fighting each other. But these... ", "Didascalie": "", "Start": 3727, "End": 3845}, {"Reply": " See, these are carnivores. And this one here -- see its claws -- this one here uses its claws to gouge at the throat of its opponent\u00c2  As Grant demonstrates with some GRUNT and GROANS of his own, he only succeeds in frightening the boy. ", "Didascalie": "(picking up two other dinosaurs)", "Start": 3880, "End": 4127}, {"Reply": "Hmm? ", "Didascalie": "", "Start": 4182, "End": 4187}, {"Reply": "Oh, right. ", "Didascalie": "", "Start": 4273, "End": 4284}, {"Reply": " Happy dinosaurs. ", "Didascalie": "(back to Charlie)", "Start": 4304, "End": 4324}, {"Reply": "What's my name? Come on, Jack, say it. Is my name Alan? Say my name. ", "Didascalie": "", "Start": 5382, "End": 5453}, {"Reply": "He used to know me. ", "Didascalie": "", "Start": 5504, "End": 5524}, {"Reply": " What do you do there? ", "Didascalie": "(To Mark)", "Start": 6003, "End": 6026}, {"Reply": "Indeed. ", "Didascalie": "", "Start": 6134, "End": 6142}, {"Reply": "We have a new site in Montana. At least until the money runs out. ", "Didascalie": "", "Start": 6286, "End": 6353}, {"Reply": "Raptors, mostly. ", "Didascalie": "", "Start": 6394, "End": 6411}, {"Reply": "You remember the sounds they made? ", "Didascalie": "", "Start": 6541, "End": 6576}, {"Reply": "We've done cranial scans, and raptors actually had a quite sophisticated resonating chamber. I have a theory that their ability to vocalize is the key to their social intelligence. The way they can work together as a team. ", "Didascalie": "", "Start": 6616, "End": 6849}, {"Reply": "To a degree we never imagined. ", "Didascalie": "", "Start": 6916, "End": 6947}, {"Reply": "It was never easy, but before Jurassic Park, you could find money. Somewhere. Now fossils are out. Everyone wants to see a real live dinosaur. ", "Didascalie": "", "Start": 7268, "End": 7417}, {"Reply": "The last of my breed. ", "Didascalie": "", "Start": 7508, "End": 7530}, {"Reply": "I'd better get going. ", "Didascalie": "", "Start": 7630, "End": 7652}, {"Reply": "Okay. Goodbye, Ellie. ", "Didascalie": "", "Start": 7829, "End": 7851}, {"Reply": "A well-accepted theory. ", "Didascalie": "", "Start": 8367, "End": 8391}, {"Reply": "It's through the painstaking study of the Interior chamber in multiple specimens that we can determine this exciting correlation between the larynx and the upper plate. That lets us theorize -- theorize, mind you -- that the raptor might have been capable of bird- ", "Didascalie": "", "Start": 9081, "End": 9356}, {"Reply": "Does anyone have a question that doesn't relate to Jurassic Park? ", "Didascalie": "", "Start": 9738, "End": 9807}, {"Reply": "Or the incident in San Diego, which I'll remind you, I did not witness. ", "Didascalie": "", "Start": 9858, "End": 9932}, {"Reply": "No, and let me be perfectly clear on this point. Dinosaurs lived 65 million years ago. ", "Didascalie": "", "Start": 10544, "End": 10633}, {"Reply": "what John Hammond and InGen created are theme park monsters. Nothing more, nothing less. ", "Didascalie": "", "Start": 10771, "End": 10864}, {"Reply": "No force on this earth or in heaven could get me on that island. ", "Didascalie": "", "Start": 11023, "End": 11090}, {"Reply": "Mr. Brennan. ", "Didascalie": "", "Start": 14245, "End": 14258}, {"Reply": "We'll be broke in four weeks. ", "Didascalie": "", "Start": 14439, "End": 14469}, {"Reply": "You rented an automated litter box. ", "Didascalie": "", "Start": 14783, "End": 14819}, {"Reply": "Not if it can't dig. ", "Didascalie": "", "Start": 15067, "End": 15088}, {"Reply": "It's be my pleasure. ", "Didascalie": "", "Start": 17302, "End": 17323}, {"Reply": "Thank you. ", "Didascalie": "", "Start": 17745, "End": 17756}, {"Reply": "Hmmm. ", "Didascalie": "", "Start": 18151, "End": 18157}, {"Reply": "That's a very nice offer, Mr. Kirby, but I'm afraid I'm much to busy. If you like I can refer you to a number of highly qualified... ", "Didascalie": "", "Start": 18600, "End": 18737}, {"Reply": "enough to see anything of interest. ", "Didascalie": "", "Start": 19045, "End": 19081}, {"Reply": "That's hard to believe. ", "Didascalie": "", "Start": 19444, "End": 19468}, {"Reply": "Even with what I pay you, you could get a better bag. ", "Didascalie": "", "Start": 20537, "End": 20593}, {"Reply": "That does sound lucky. ", "Didascalie": "", "Start": 20778, "End": 20801}, {"Reply": "Reverse-Darwinism. Survival of the most idiotic. ", "Didascalie": "", "Start": 20912, "End": 20963}, {"Reply": "The bones will be there when we get back. ", "Didascalie": "", "Start": 21085, "End": 21127}, {"Reply": "There. There! An Apatosaur. Look at the coloration. ", "Didascalie": "", "Start": 23954, "End": 24008}, {"Reply": "Mr. and Mrs. Kirby! If you look out the right you can see... ", "Didascalie": "", "Start": 24222, "End": 24285}, {"Reply": "That's not the landing gear? ", "Didascalie": "", "Start": 24823, "End": 24852}, {"Reply": "What you're... ", "Didascalie": "", "Start": 24915, "End": 24930}, {"Reply": " You can't land. ", "Didascalie": "(CONT'D) (realizing)", "Start": 24944, "End": 24963}, {"Reply": "This plane can not land! ", "Didascalie": "", "Start": 25086, "End": 25111}, {"Reply": "Tell me we didn't land. ", "Didascalie": "", "Start": 25826, "End": 25850}, {"Reply": "What the hell is going on? What are they doing? ", "Didascalie": "", "Start": 26474, "End": 26524}, {"Reply": "Mr. Kirby, trust me, on this island, there is no such thing as safe. We have to get back in this plane... ", "Didascalie": "", "Start": 26650, "End": 26760}, {"Reply": "And tell your wife to stop making so much noise! We're food to these damn animals. ", "Didascalie": "", "Start": 26872, "End": 26958}, {"Reply": "I don't think so. ", "Didascalie": "", "Start": 27483, "End": 27501}, {"Reply": "Sounds bigger. ", "Didascalie": "", "Start": 27572, "End": 27587}, {"Reply": "This way! ", "Didascalie": "", "Start": 34996, "End": 35006}, {"Reply": "Don't worry. It's dead. ", "Didascalie": "", "Start": 36220, "End": 36244}, {"Reply": "Nobody move a muscle. ", "Didascalie": "", "Start": 36414, "End": 36436}, {"Reply": "Come on! ", "Didascalie": "", "Start": 39477, "End": 39486}, {"Reply": "Why did you bring us here? ", "Didascalie": "", "Start": 39783, "End": 39810}, {"Reply": "So you hired these mercenaries. ", "Didascalie": "", "Start": 41072, "End": 41104}, {"Reply": " Then you duped us into coming here. ", "Didascalie": "(interrupting)", "Start": 41219, "End": 41258}, {"Reply": " I have never been on this island! ", "Didascalie": "(disbelieving)", "Start": 41392, "End": 41429}, {"Reply": "A few of us survived. A lot more died. And we were better prepared and better armed. ", "Didascalie": "", "Start": 41724, "End": 41811}, {"Reply": " How many days have they been missing? ", "Didascalie": "(finally)", "Start": 41823, "End": 41864}, {"Reply": "After what you've seen today, you really think your son could be alive? ", "Didascalie": "", "Start": 42003, "End": 42077}, {"Reply": "No, I'm sorry, but no. We'll savage what we can from the plane. Then we head for the coast. There may be a boat left, something to get us off this island. ", "Didascalie": "", "Start": 42285, "End": 42446}, {"Reply": "You can stick with us, or you can go and look for him. Either way you're probably not getting out of here alive. ", "Didascalie": "", "Start": 42517, "End": 42634}, {"Reply": "How would you classify it? ", "Didascalie": "", "Start": 44215, "End": 44242}, {"Reply": "They never got that big. ", "Didascalie": "", "Start": 44337, "End": 44362}, {"Reply": "Not with that sail. ", "Didascalie": "", "Start": 44398, "End": 44418}, {"Reply": " Spinosaurus Aegypticus. ", "Didascalie": "(Billy gives up)", "Start": 44437, "End": 44464}, {"Reply": "That's because it wasn't on their list. Who knows what else they were up to? ", "Didascalie": "", "Start": 44529, "End": 44608}, {"Reply": "There is no Kirby Enterprises, is there? ", "Didascalie": "", "Start": 45093, "End": 45134}, {"Reply": "Quiet! ", "Didascalie": "", "Start": 45920, "End": 45927}, {"Reply": "We should take it with us to signal any planes. ", "Didascalie": "", "Start": 47651, "End": 47699}, {"Reply": "Raptors. ", "Didascalie": "", "Start": 52429, "End": 52438}, {"Reply": "If we came across one, we might live. ", "Didascalie": "", "Start": 52871, "End": 52909}, {"Reply": "But you never came across just one. ", "Didascalie": "", "Start": 52952, "End": 52988}, {"Reply": "Ah yes, the first rule of academics. Publish or perish. ", "Didascalie": "", "Start": 53733, "End": 53791}, {"Reply": "This is how you play God. ", "Didascalie": "", "Start": 57465, "End": 57491}, {"Reply": "Back out! Move! ", "Didascalie": "", "Start": 58501, "End": 58517}, {"Reply": "She's calling for help. ", "Didascalie": "", "Start": 60583, "End": 60607}, {"Reply": "Head for the trees! ", "Didascalie": "", "Start": 61355, "End": 61375}, {"Reply": "THIS WAY! ", "Didascalie": "", "Start": 61741, "End": 61751}, {"Reply": "KEEP GOING! ", "Didascalie": "", "Start": 62594, "End": 62606}, {"Reply": "What does that mean? What are you saying? ", "Didascalie": "", "Start": 66087, "End": 66129}, {"Reply": "God damn you, Billy. ", "Didascalie": "", "Start": 66670, "End": 66691}, {"Reply": "It means, \"Give us the egg,\" doesn't it? \"We want the egg.\" ", "Didascalie": "", "Start": 66909, "End": 66971}, {"Reply": "Eric... ", "Didascalie": "", "Start": 69576, "End": 69584}, {"Reply": "Eric, your parents are both here. ", "Didascalie": "", "Start": 69693, "End": 69727}, {"Reply": "On the island. ", "Didascalie": "", "Start": 69767, "End": 69782}, {"Reply": "You'd be surprised what people can do when they have too. ", "Didascalie": "", "Start": 69944, "End": 70004}, {"Reply": "Which one do you prefer? ", "Didascalie": "", "Start": 70178, "End": 70203}, {"Reply": "Back then, they hadn't tried to eat me. ", "Didascalie": "", "Start": 70308, "End": 70348}, {"Reply": "Any weapons, radios? ", "Didascalie": "", "Start": 70698, "End": 70719}, {"Reply": "It's a wonder you aren't. I'm amazed, Eric. I barely lasted 30 hours. You lasted eight weeks. ", "Didascalie": "", "Start": 70830, "End": 70929}, {"Reply": " The important thing is we both made it. ", "Didascalie": "(trying to be positive)", "Start": 71119, "End": 71162}, {"Reply": "Did you read Malcolm's book? ", "Didascalie": "", "Start": 71386, "End": 71415}, {"Reply": "What did you think? ", "Didascalie": "", "Start": 71446, "End": 71466}, {"Reply": "That's two things we have in common. ", "Didascalie": "", "Start": 71633, "End": 71670}, {"Reply": " A raptor claw. I use to have one. A fossil. ", "Didascalie": "(takes it)", "Start": 74582, "End": 74629}, {"Reply": "How much of this island have you explored? ", "Didascalie": "", "Start": 74803, "End": 74846}, {"Reply": "We need to head for the coast. ", "Didascalie": "", "Start": 74980, "End": 75011}, {"Reply": "Why? ", "Didascalie": "", "Start": 75050, "End": 75055}, {"Reply": "We need to keep moving. ", "Didascalie": "", "Start": 79168, "End": 79192}, {"Reply": "Billy, I can't talk to you now. ", "Didascalie": "", "Start": 79276, "End": 79308}, {"Reply": " Some of the worst things imaginable have been done with the best intentions. You rushed in with no thought to the consequences, to yourself or anyone else. ", "Didascalie": "(finally turning on him)", "Start": 79857, "End": 80022}, {"Reply": " You're no better than the people who built this place. ", "Didascalie": "(finally)", "Start": 80034, "End": 80094}, {"Reply": "We climb down to the barge and follow the river out to the ocean. With any luck, the Costa Rican coast guard will pick us up. ", "Didascalie": "", "Start": 80948, "End": 81078}, {"Reply": "How about if we try this way? ", "Didascalie": "", "Start": 81681, "End": 81711}, {"Reply": "One way to find out. ", "Didascalie": "", "Start": 81861, "End": 81882}, {"Reply": " We'd better do this one at a time. ", "Didascalie": "(CONT'D) (glancing back)", "Start": 82107, "End": 82145}, {"Reply": "Come on over. One at a time. ", "Didascalie": "", "Start": 82430, "End": 82459}, {"Reply": "Oh, my God. ", "Didascalie": "", "Start": 84170, "End": 84182}, {"Reply": "A bird cage. ", "Didascalie": "", "Start": 84221, "End": 84234}, {"Reply": "Split up! ", "Didascalie": "", "Start": 86012, "End": 86022}, {"Reply": "BILLY! WAIT! ", "Didascalie": "", "Start": 86935, "End": 86948}, {"Reply": "NO! ", "Didascalie": "", "Start": 87049, "End": 87053}, {"Reply": "He made it! ", "Didascalie": "", "Start": 91880, "End": 91892}, {"Reply": "Billy, look out! ", "Didascalie": "", "Start": 92309, "End": 92326}, {"Reply": "Billy! ", "Didascalie": "", "Start": 92843, "End": 92850}, {"Reply": "No. Although I've studied them in the wild. ", "Didascalie": "", "Start": 94890, "End": 94934}, {"Reply": "I have a theory that there's two kinds of boys. Those who want to be astronomers and those who want to be astronauts. ", "Didascalie": "", "Start": 95000, "End": 95122}, {"Reply": "See, I was the opposite. I never understood why anyone would want to go into space. It's so dangerous. You do one thing wrong and you're dead. The astronomer -- or the paleontologist -- get to study these amazing things from a place of complete safety. And truthfully, everything you really need to learn, you can learn it from the ground. ", "Didascalie": "", "Start": 95174, "End": 95528}, {"Reply": "Exactly. The difference between imagining how things might be and seeing how they really are. To be able to touch them. That's what Billy wanted to do. ", "Didascalie": "", "Start": 95592, "End": 95750}, {"Reply": "I can blame the people who made this island. ", "Didascalie": "", "Start": 95936, "End": 95981}, {"Reply": "How's a boy suppose to resist this? ", "Didascalie": "", "Start": 96545, "End": 96581}, {"Reply": "Keep quiet. ", "Didascalie": "", "Start": 97118, "End": 97130}, {"Reply": "Find it before it stops ringing! ", "Didascalie": "", "Start": 97848, "End": 97881}, {"Reply": "Well, we don't exactly have a Costa Rican phone book here, so it will have to be somebody we know in the states. Someone we can absolutely count on to send help. ", "Didascalie": "", "Start": 99352, "End": 99520}, {"Reply": "Bonitas. ", "Didascalie": "", "Start": 99923, "End": 99932}, {"Reply": "Get the motor going. ", "Didascalie": "", "Start": 100038, "End": 100059}, {"Reply": "Pick up! Pick up! ", "Didascalie": "", "Start": 100352, "End": 100370}, {"Reply": "Charlie? Charlie. Get your mother. Right away! ", "Didascalie": "", "Start": 100670, "End": 100719}, {"Reply": "Charlie? Are you there? ", "Didascalie": "", "Start": 100796, "End": 100820}, {"Reply": " Charlie! It's the dinosaur man! Go get mommy, okay? ", "Didascalie": "(desperate)", "Start": 101201, "End": 101258}, {"Reply": "ELLIE! ", "Didascalie": "", "Start": 102765, "End": 102772}, {"Reply": " Up! Up! ", "Didascalie": "(looking around)", "Start": 104544, "End": 104555}, {"Reply": "Jump! Swim for the far shore! ", "Didascalie": "", "Start": 106528, "End": 106558}, {"Reply": "She's the one person I could always count on. ", "Didascalie": "", "Start": 109488, "End": 109534}, {"Reply": "It's strikes me now I never told her that. ", "Didascalie": "", "Start": 109659, "End": 109702}, {"Reply": "You're right. ", "Didascalie": "", "Start": 109739, "End": 109753}, {"Reply": "Eric, do you know what happened to the boat? ", "Didascalie": "", "Start": 110060, "End": 110105}, {"Reply": "Do me a favor. Go back to your parents for a minute, would you? ", "Didascalie": "", "Start": 110193, "End": 110259}, {"Reply": " No we're not. ", "Didascalie": "(to himself)", "Start": 111536, "End": 111553}, {"Reply": "NO! STAY BACK! THEY'RE IN THE TREES! ", "Didascalie": "", "Start": 111840, "End": 111877}, {"Reply": " We have to cut it! Find something sharp! ", "Didascalie": "(shouting over the noise)", "Start": 114407, "End": 114451}, {"Reply": "The population will Stabilize eventually. ", "Didascalie": "", "Start": 115642, "End": 115684}, {"Reply": "So do I. ", "Didascalie": "", "Start": 116030, "End": 116039}]}, {"Character": "ELLIE", "Replies": [{"Reply": " Uh, Alan? ", "Didascalie": "(interrupting)", "Start": 4155, "End": 4168}, {"Reply": "He's three. Why don't you wait till he's a little older? ", "Didascalie": "", "Start": 4200, "End": 4259}, {"Reply": "That must be Mark. ", "Didascalie": "", "Start": 4456, "End": 4475}, {"Reply": "Good day? ", "Didascalie": "", "Start": 4758, "End": 4768}, {"Reply": "Mark, this is Alan Grant. ", "Didascalie": "", "Start": 4884, "End": 4910}, {"Reply": "Sorry, Alan it's been six years. ", "Didascalie": "", "Start": 5537, "End": 5570}, {"Reply": " Yes. Great. ", "Didascalie": "(relived)", "Start": 5846, "End": 5861}, {"Reply": "So, Mark's working at the State Department now. ", "Didascalie": "", "Start": 5922, "End": 5972}, {"Reply": "So what are you working on now? ", "Didascalie": "", "Start": 6241, "End": 6273}, {"Reply": "Anything good? ", "Didascalie": "", "Start": 6366, "End": 6381}, {"Reply": "My favorite. ", "Didascalie": "", "Start": 6424, "End": 6437}, {"Reply": "I try not to. ", "Didascalie": "", "Start": 6589, "End": 6603}, {"Reply": "You think they could talk to each other? ", "Didascalie": "", "Start": 6862, "End": 6903}, {"Reply": "You taught him that. ", "Didascalie": "", "Start": 7077, "End": 7098}, {"Reply": "Good luck with the fund raising. ", "Didascalie": "", "Start": 7222, "End": 7255}, {"Reply": "Times change Alan. But you're the still the best. I mean that. ", "Didascalie": "", "Start": 7430, "End": 7495}, {"Reply": "about asking for help, but please ask me. ", "Didascalie": "", "Start": 7712, "End": 7754}, {"Reply": "Goodbye, Alan. ", "Didascalie": "", "Start": 7864, "End": 7879}, {"Reply": "When I met you, I thought that one day millions of years ago, all the dinosaurs became extinct. Wiped out. But you told me otherwise. When conditions changed, dinosaurs changed. They became other things. ", "Didascalie": "", "Start": 8126, "End": 8338}, {"Reply": " Alan don't be afraid to evolve. ", "Didascalie": "(simply)", "Start": 8413, "End": 8448}, {"Reply": "Was somebody on the phone? ", "Didascalie": "", "Start": 102136, "End": 102163}, {"Reply": "Alan? ", "Didascalie": "", "Start": 102833, "End": 102839}, {"Reply": "Alan? Alan! ", "Didascalie": "", "Start": 102898, "End": 102910}]}, {"Character": "MARK", "Replies": [{"Reply": "Keeping the world safe. ", "Didascalie": "", "Start": 4780, "End": 4804}, {"Reply": "Nice to meet you, Alan. I've heard a lot about you. ", "Didascalie": "", "Start": 4922, "End": 4976}, {"Reply": "More coffee? ", "Didascalie": "", "Start": 5810, "End": 5823}, {"Reply": " I could tell you about it, but than I'd have to kill you. ", "Didascalie": "(with mock bravado)", "Start": 6058, "End": 6121}]}, {"Character": "CHARLIE", "Replies": [{"Reply": "Daddy, this is a herbabore. ", "Didascalie": "", "Start": 5147, "End": 5175}, {"Reply": "Hewwo? ", "Didascalie": "", "Start": 100607, "End": 100614}, {"Reply": "Hewwo? ", "Didascalie": "", "Start": 100835, "End": 100842}, {"Reply": "Okay. ", "Didascalie": "", "Start": 101273, "End": 101279}, {"Reply": "Dinosaur man. ", "Didascalie": "", "Start": 102178, "End": 102192}, {"Reply": " Raaaar! ", "Didascalie": "(imitating)", "Start": 103088, "End": 103099}]}, {"Character": "JACK", "Replies": [{"Reply": "Bullshit! ", "Didascalie": "", "Start": 7008, "End": 7018}]}, {"Character": "SYMPOSTIUM LEADER", "Replies": [{"Reply": "Thank you very much Dr. Grant. Now does anyone have a question? ", "Didascalie": "", "Start": 9600, "End": 9666}]}, {"Character": "MALE STUDENT", "Replies": [{"Reply": "Your theory on raptors is good and all, but isn't all this conjecture kind of moot? ", "Didascalie": "", "Start": 10023, "End": 10109}, {"Reply": "I mean, once the U.N. and Costa Rica and everyone decides how to handle the second island, scientist will just go in and look for themselves. ", "Didascalie": "", "Start": 10179, "End": 10327}]}, {"Character": "TOO-CLEVER SCIENCE REPORTER", "Replies": [{"Reply": "Isn't paleontology itself in danger of extinction? ", "Didascalie": "", "Start": 10362, "End": 10415}]}, {"Character": "ANOTHER STUDENT", "Replies": [{"Reply": "You're saying you wouldn't want to study them if you had the chance? ", "Didascalie": "", "Start": 10939, "End": 11010}]}, {"Character": "UDESKY", "Replies": [{"Reply": "Udesky. ", "Didascalie": "", "Start": 11919, "End": 11927}, {"Reply": " Yes sir. we're good to go. I'll lock it down as soon as you drop me the payment. ", "Didascalie": "(beat)", "Start": 11936, "End": 12022}, {"Reply": "That's right, two of the very best I could find. No, I haven't worked with them personally, but they come with the highest recommendations. ", "Didascalie": "", "Start": 12379, "End": 12525}, {"Reply": "You've got nothing to worry about, sir. This is going to be a piece of cake. ", "Didascalie": "", "Start": 12713, "End": 12792}, {"Reply": "Cooper! Yell up if you see anything! ", "Didascalie": "", "Start": 23809, "End": 23846}, {"Reply": "South shore is clear. The rest is rock. ", "Didascalie": "", "Start": 24508, "End": 24548}, {"Reply": "We're on. ", "Didascalie": "", "Start": 24585, "End": 24595}, {"Reply": "We gotta go, now! ", "Didascalie": "", "Start": 27674, "End": 27692}, {"Reply": "Coop's a professional. He can handle himself. ", "Didascalie": "", "Start": 28218, "End": 28264}, {"Reply": "Quiet! We're okay. Let's everybody just stay put. ", "Didascalie": "", "Start": 30801, "End": 30853}, {"Reply": "We prefer \"recovery specialists.\" We do overseas custody issues and... ", "Didascalie": "", "Start": 41118, "End": 41191}, {"Reply": "Well, I think we should start searching for your son. In the direction they're going. ", "Didascalie": "", "Start": 42962, "End": 43048}, {"Reply": "He paid us half up front. Cash. ", "Didascalie": "", "Start": 45454, "End": 45486}, {"Reply": "However long that is. ", "Didascalie": "", "Start": 45764, "End": 45786}, {"Reply": "If they split up, I'm going with you. ", "Didascalie": "", "Start": 46784, "End": 46822}, {"Reply": "Hey. Got something here. ", "Didascalie": "", "Start": 47163, "End": 47188}, {"Reply": "Here, give that to me. ", "Didascalie": "", "Start": 47500, "End": 47523}, {"Reply": "I think I've got it. ", "Didascalie": "", "Start": 47719, "End": 47740}, {"Reply": "I don't know for how long. ", "Didascalie": "", "Start": 47964, "End": 47991}, {"Reply": "Dr. Grant! ", "Didascalie": "", "Start": 51708, "End": 51719}, {"Reply": "They don't look that big. I mean, comparatively. ", "Didascalie": "", "Start": 52807, "End": 52858}]}, {"Character": "CHERYL", "Replies": [{"Reply": "Billy? I don't think I'm doing this right. ", "Didascalie": "", "Start": 13333, "End": 13376}, {"Reply": "I can never tell what's bone and what's rock. ", "Didascalie": "", "Start": 13574, "End": 13620}, {"Reply": "Rough. ", "Didascalie": "", "Start": 13943, "End": 13950}, {"Reply": "Smooth. ", "Didascalie": "", "Start": 13998, "End": 14006}]}, {"Character": "BILLY", "Replies": [{"Reply": "You need to go slowly. See, just take it little at a time. ", "Didascalie": "", "Start": 13447, "End": 13508}, {"Reply": "Technically, it's all rock. The calcium in the bones is replaced during fossilization. But you can feel the difference. See? Rough, smooth. Rough, smooth. ", "Didascalie": "", "Start": 13633, "End": 13794}, {"Reply": "Dr. Grant! ", "Didascalie": "", "Start": 14169, "End": 14180}, {"Reply": "How was your trip? Profitable? ", "Didascalie": "", "Start": 14395, "End": 14426}, {"Reply": "Three weeks. I had to rent some equipment. ", "Didascalie": "", "Start": 14482, "End": 14525}, {"Reply": "It's a rapid prototyper. I feed in the scan data from the raptor skull, than the computer breaks it into thousands of slices which this thing prints, one layer on top of the other. ", "Didascalie": "", "Start": 14832, "End": 15019}, {"Reply": "I give you a raptor's resonating chamber. ", "Didascalie": "", "Start": 15244, "End": 15286}, {"Reply": "How low? ", "Didascalie": "", "Start": 19240, "End": 19249}, {"Reply": "No way. This is lucky. Couple years ago some buddies and I went hang gliding off these cliffs in New Zealand. Updraft sent me right into the side. BOOM! ", "Didascalie": "", "Start": 20606, "End": 20765}, {"Reply": "It was this strap alone that saved my life. ", "Didascalie": "", "Start": 20814, "End": 20858}, {"Reply": "Listen Alan, I really appreciate you bringing me along. ", "Didascalie": "", "Start": 21014, "End": 21072}, {"Reply": "So how do you know the Kirby's? ", "Didascalie": "", "Start": 21597, "End": 21629}, {"Reply": "What Religion? ", "Didascalie": "", "Start": 21898, "End": 21913}, {"Reply": "Alan. We're almost there. ", "Didascalie": "", "Start": 22468, "End": 22494}, {"Reply": "Admit it. You're excited. ", "Didascalie": "", "Start": 23706, "End": 23732}, {"Reply": " I'm so use to seeing bones. It's weird to see skin. ", "Didascalie": "(amazed)", "Start": 24152, "End": 24209}, {"Reply": "I think they're looking for someone. ", "Didascalie": "", "Start": 25916, "End": 25953}, {"Reply": " Is it a rex? ", "Didascalie": "(low)", "Start": 27454, "End": 27470}, {"Reply": "What about the other guy? ", "Didascalie": "", "Start": 28178, "End": 28204}, {"Reply": "Is anyone hurt? ", "Didascalie": "", "Start": 30669, "End": 30685}, {"Reply": "Over here! ", "Didascalie": "", "Start": 34646, "End": 34657}, {"Reply": "Who's that? ", "Didascalie": "", "Start": 40535, "End": 40547}, {"Reply": "That was Isla Nublar. This is Isla Sorna. ", "Didascalie": "", "Start": 41492, "End": 41534}, {"Reply": "Obviously a superpredator. ", "Didascalie": "", "Start": 44255, "End": 44282}, {"Reply": " Suchimimus. that snout. ", "Didascalie": "(best guess)", "Start": 44297, "End": 44324}, {"Reply": "Baryonyx? ", "Didascalie": "", "Start": 44375, "End": 44385}, {"Reply": "I don't remember that on InGen's list. ", "Didascalie": "", "Start": 44477, "End": 44516}, {"Reply": "So Mr. Kirby, tell me, when you climbed K2, did you base camp at 25- or 30,000 feet? ", "Didascalie": "", "Start": 44777, "End": 44864}, {"Reply": "About a thousand feet above it, actually. ", "Didascalie": "", "Start": 44934, "End": 44976}, {"Reply": " Most mountain-climbers remember how tall that mountains were. ", "Didascalie": "(closer)", "Start": 44987, "End": 45054}, {"Reply": "I don't suppose that check you wrote us is any good. ", "Didascalie": "", "Start": 45385, "End": 45440}, {"Reply": "It looks intact. ", "Didascalie": "", "Start": 47621, "End": 47638}, {"Reply": "Here! ", "Didascalie": "", "Start": 53204, "End": 53210}, {"Reply": "I got some great pictures of the nest. You know this proves raptors raised their young in colonies. ", "Didascalie": "", "Start": 53294, "End": 53398}, {"Reply": "This speaks to a larger social structure, the possibility of Darwinian altruism. It changes everything. ", "Didascalie": "", "Start": 53517, "End": 53625}, {"Reply": "We could co-write a paper. ", "Didascalie": "", "Start": 53693, "End": 53720}, {"Reply": "Thank God for preservatives. ", "Didascalie": "", "Start": 56583, "End": 56612}, {"Reply": "Okay if I take pictures? ", "Didascalie": "", "Start": 57566, "End": 57591}, {"Reply": "ALAN! ", "Didascalie": "", "Start": 62575, "End": 62581}, {"Reply": "He's right. A predator wouldn't leave a kill wounded. ", "Didascalie": "", "Start": 64564, "End": 64620}, {"Reply": " They actually set a trap. ", "Didascalie": "(amazed)", "Start": 65078, "End": 65107}, {"Reply": "Dr. Grant was. ", "Didascalie": "", "Start": 72313, "End": 72328}, {"Reply": "We need to stick to the plan. Head for the coast. ", "Didascalie": "", "Start": 75282, "End": 75334}, {"Reply": "Sure. ", "Didascalie": "", "Start": 75757, "End": 75763}, {"Reply": "Where is it? ", "Didascalie": "", "Start": 76511, "End": 76524}, {"Reply": "Alan, I want to tell you that I'm so sorry about the... ", "Didascalie": "", "Start": 79205, "End": 79263}, {"Reply": "Please, okay? Just yell at me. Call me an idiot. An asshole. Stupid. Tell me I screwed up because I know I did. ", "Didascalie": "", "Start": 79356, "End": 79472}, {"Reply": "I thought if we could get a raptor back to the mainland, we could get serious money for it. Enough to fund the digging for 10 years. More. Whatever it took. ", "Didascalie": "", "Start": 79519, "End": 79682}, {"Reply": "You have to believe me. I did it with the best intentions. ", "Didascalie": "", "Start": 79758, "End": 79819}, {"Reply": "It won't hold! ", "Didascalie": "", "Start": 84920, "End": 84935}, {"Reply": "I CAN GET HIM! ", "Didascalie": "", "Start": 87021, "End": 87036}, {"Reply": "I KNOW THE CONSEQUENCES! ", "Didascalie": "", "Start": 87066, "End": 87091}, {"Reply": "ERIC! HOLD ON! ", "Didascalie": "", "Start": 87815, "End": 87830}, {"Reply": "Let go! ", "Didascalie": "", "Start": 89487, "End": 89495}, {"Reply": "Get back! Get back! ", "Didascalie": "", "Start": 92431, "End": 92451}]}, {"Character": "SHADOW", "Replies": [{"Reply": "falls across them. Billy looks up to see... ", "Didascalie": "", "Start": 14112, "End": 14156}]}, {"Character": "PAUL", "Replies": [{"Reply": "I guarantee it'll be worth your while. ", "Didascalie": "", "Start": 17121, "End": 17160}, {"Reply": "First off let me say as a dinosaur enthusiasts, Amanda and I have admired your work for years. ", "Didascalie": "", "Start": 17577, "End": 17676}, {"Reply": "Amanda and I, well, we just love the outdoors. ", "Didascalie": "", "Start": 17874, "End": 17921}, {"Reply": "Now, for our wedding anniversary this year we wanted to do something really special, something... ", "Didascalie": "", "Start": 18169, "End": 18271}, {"Reply": "We've arranged for a private airplane to take us flying over Isla Sorna. And we want you to be our guide. ", "Didascalie": "", "Start": 18356, "End": 18466}, {"Reply": "No, no, see Dr. Grant, you're the best. You've seen these animals in the flesh. No one else has come close to you. ", "Didascalie": "", "Start": 18749, "End": 18868}, {"Reply": "Well, I'm no aviation specialist. But I do know it's hell of a lot lower than anyone else. ", "Didascalie": "", "Start": 19261, "End": 19356}, {"Reply": "Let's just say that through my business -- ", "Didascalie": "", "Start": 19480, "End": 19523}, {"Reply": "I can write all kinds of numbers on this check. Just tell me what exactly it would take. ", "Didascalie": "", "Start": 20019, "End": 20112}, {"Reply": "Dr. Grant if you'd just sit tight, we'll explain this all in a jiffy. ", "Didascalie": "", "Start": 25001, "End": 25073}, {"Reply": "Dr. Grant, are you alright? I'm sorry we had to be so... ", "Didascalie": "", "Start": 26328, "End": 26387}, {"Reply": "Establishing a perimeter. Making it safe. ", "Didascalie": "", "Start": 26536, "End": 26578}, {"Reply": " Amanda, Honey! Dr. Grant says it's a bad idea! ", "Didascalie": "(yelling)", "Start": 26980, "End": 27032}, {"Reply": " He says it's a bad idea! ", "Didascalie": "(pointing broadly at Alan)", "Start": 27112, "End": 27140}, {"Reply": " What was that? ", "Didascalie": "(to Alan)", "Start": 27322, "End": 27340}, {"Reply": "What's the problem? Can't you guys...? ", "Didascalie": "", "Start": 27704, "End": 27743}, {"Reply": "Don't worry, honey. We'll circle around and come back. ", "Didascalie": "", "Start": 28082, "End": 28139}, {"Reply": "What are you doing? That's Mr. Cooper! ", "Didascalie": "", "Start": 29242, "End": 29281}, {"Reply": "Right here! ", "Didascalie": "", "Start": 30961, "End": 30973}, {"Reply": "What is it? What's the matter? ", "Didascalie": "", "Start": 31464, "End": 31495}, {"Reply": "just about the greatest kid in the world. ", "Didascalie": "", "Start": 40116, "End": 40158}, {"Reply": "Her new boyfriend. ", "Didascalie": "", "Start": 40559, "End": 40578}, {"Reply": "We called everyone, did everything we could. ", "Didascalie": "", "Start": 40764, "End": 40809}, {"Reply": "We needed somebody who knew the lay of the land. Somebody who'd been to this island before. ", "Didascalie": "", "Start": 41270, "End": 41364}, {"Reply": "Sure you have. You wrote that book... ", "Didascalie": "", "Start": 41441, "End": 41479}, {"Reply": " I didn't know, there were two islands. ", "Didascalie": "(low, to Udesky)", "Start": 41584, "End": 41626}, {"Reply": "Eight weeks. ", "Didascalie": "", "Start": 41910, "End": 41923}, {"Reply": "Dr. Grant, we're not leaving without our son. ", "Didascalie": "", "Start": 42458, "End": 42504}, {"Reply": "What do we do? ", "Didascalie": "", "Start": 42840, "End": 42855}, {"Reply": "Excellent. ", "Didascalie": "", "Start": 43060, "End": 43071}, {"Reply": "Sorry. ", "Didascalie": "", "Start": 43623, "End": 43630}, {"Reply": "Twenty, twenty-fire pounds. I've been swimming at the Y. ", "Didascalie": "", "Start": 43792, "End": 43851}, {"Reply": "People change. ", "Didascalie": "", "Start": 43895, "End": 43910}, {"Reply": "You look good. ", "Didascalie": "", "Start": 43966, "End": 43981}, {"Reply": "Thirty-thousand, I think. Closer to the top. ", "Didascalie": "", "Start": 44876, "End": 44921}, {"Reply": "There is. I own a place called Kirby Paint and Title Plus. We're out in the Westgate Shopping Center in Enid, Oklahoma. The \"plus\" is for bathroom fixtures, fireplaces accessories, patio furniture. Stuff like that. ", "Didascalie": "", "Start": 45146, "End": 45372}, {"Reply": "Mortgaged everything we had to do it. Even the store. and if we make it off this island with my son, I swear, I'll make good on the money I owe you. I don't care if it takes me the rest of my life. ", "Didascalie": "", "Start": 45498, "End": 45704}, {"Reply": " Stop that. Dr. Grant says this is dangerous territory. ", "Didascalie": "(loud whisper to Amanda)", "Start": 45964, "End": 46024}, {"Reply": "No, Dr. Grant says... ", "Didascalie": "", "Start": 46119, "End": 46141}, {"Reply": "Well what's the use of hiring an expert if your not going to listen to him? ", "Didascalie": "", "Start": 46211, "End": 46289}, {"Reply": "Fine...and when the Tricyclatops comes after you, don't come crying to me. ", "Didascalie": "", "Start": 46397, "End": 46474}, {"Reply": "What? ", "Didascalie": "", "Start": 46528, "End": 46534}, {"Reply": "What did you say? ", "Didascalie": "", "Start": 46569, "End": 46587}, {"Reply": "What did you say! ", "Didascalie": "", "Start": 46622, "End": 46640}, {"Reply": "Young adult. ", "Didascalie": "", "Start": 47108, "End": 47121}, {"Reply": "See? He's okay. He's alive! Everything's going to be all right now. ", "Didascalie": "", "Start": 49997, "End": 50067}, {"Reply": "Amanda! ", "Didascalie": "", "Start": 50796, "End": 50804}, {"Reply": "I'm sorry Amanda. I am. And I'm sorry for the things I said about him. ", "Didascalie": "", "Start": 51140, "End": 51213}, {"Reply": "I know you liked Ben. I had no right to... ", "Didascalie": "", "Start": 51251, "End": 51294}, {"Reply": "Well that's good. ", "Didascalie": "", "Start": 52921, "End": 52939}, {"Reply": "I bet there's a very good chance Eric's in there. I'd bet my bottom dollar. ", "Didascalie": "", "Start": 54228, "End": 54306}, {"Reply": " Eric! Are you here? ", "Didascalie": "(calling out)", "Start": 55617, "End": 55640}, {"Reply": "Let's see. I've got about a dollar seventy- ", "Didascalie": "", "Start": 56312, "End": 56356}, {"Reply": "Amanda! ", "Didascalie": "", "Start": 58480, "End": 58488}, {"Reply": "In here! ", "Didascalie": "", "Start": 58854, "End": 58863}, {"Reply": "Udesky. ", "Didascalie": "", "Start": 63559, "End": 63567}, {"Reply": "It's not safe. ", "Didascalie": "", "Start": 64501, "End": 64516}, {"Reply": "to get us to come down. ", "Didascalie": "", "Start": 65014, "End": 65038}, {"Reply": "Where's Grant? ", "Didascalie": "", "Start": 65414, "End": 65429}, {"Reply": "I want to find them too, but we can't do a bit of good right now. For every scary thing we saw in the daylight, I'll bet there ten times more of 'em at night. ", "Didascalie": "", "Start": 72037, "End": 72202}, {"Reply": " Am I right? ", "Didascalie": "(to Billy)", "Start": 72215, "End": 72230}, {"Reply": "I thought you were an expert. ", "Didascalie": "", "Start": 72270, "End": 72300}, {"Reply": "I just want you know, Amanda. It's not your fault what happened. ", "Didascalie": "", "Start": 73160, "End": 73227}, {"Reply": "Eric has always been headstrong, and you throw Ben Hildebrand into the mix and well... ", "Didascalie": "", "Start": 73299, "End": 73388}, {"Reply": "Well damn it. I don't speak ill of the dead. ", "Didascalie": "", "Start": 73425, "End": 73470}, {"Reply": "That one time was just the bumper. ", "Didascalie": "", "Start": 73873, "End": 73908}, {"Reply": "I'm not sorry at all. ", "Didascalie": "", "Start": 74251, "End": 74273}, {"Reply": " He's probably has a better chance by the coast as it is. Figures that all the big dinosaurs would live in the center of the island. ", "Didascalie": "(rationalizing)", "Start": 75582, "End": 75721}, {"Reply": " Right? ", "Didascalie": "(to Billy)", "Start": 75734, "End": 75744}, {"Reply": "My phone. ", "Didascalie": "", "Start": 76358, "End": 76368}, {"Reply": "I don't know. I don't have it with me. ", "Didascalie": "", "Start": 76536, "End": 76575}, {"Reply": "The plane. I got a call on the plane, put it in my coat pocket, and... ", "Didascalie": "", "Start": 76710, "End": 76783}, {"Reply": "I loaned it to Nash. He must have had it on him when he... ", "Didascalie": "", "Start": 76934, "End": 76995}, {"Reply": "Never had a doubt. Never did. Us Kirby men, we stick around, huh? ", "Didascalie": "", "Start": 78809, "End": 78877}, {"Reply": "Honey, there's not enough spit in the world for that. ", "Didascalie": "", "Start": 78996, "End": 79052}, {"Reply": "Dr. Grant? ", "Didascalie": "", "Start": 82333, "End": 82344}, {"Reply": "We're not going anywhere, I promise. ", "Didascalie": "", "Start": 82590, "End": 82627}, {"Reply": "How 'bout if I... ", "Didascalie": "", "Start": 83328, "End": 83346}, {"Reply": " That's it Eric. Nice and easy... ", "Didascalie": "(muttering to himself)", "Start": 83470, "End": 83506}, {"Reply": "Eric! ", "Didascalie": "", "Start": 84901, "End": 84907}, {"Reply": "ERIC! ", "Didascalie": "", "Start": 85246, "End": 85252}, {"Reply": " I'm trying! That thing took him down this way! ", "Didascalie": "(shouting back)", "Start": 85947, "End": 85999}, {"Reply": "Hang on, Eric! ", "Didascalie": "", "Start": 88051, "End": 88066}, {"Reply": "It's no use, Dr. Grant. No use. ", "Didascalie": "", "Start": 92862, "End": 92894}, {"Reply": "My own kid was right in front of me and I didn't do a damn thing. ", "Didascalie": "", "Start": 94305, "End": 94373}, {"Reply": "I should have tried. It should have been me on that beach back there, not Billy. ", "Didascalie": "", "Start": 94433, "End": 94516}, {"Reply": "He could have died. ", "Didascalie": "", "Start": 94630, "End": 94650}, {"Reply": "I've got something. I think I've got something! ", "Didascalie": "", "Start": 98052, "End": 98102}, {"Reply": "Can't help but be a little offended. ", "Didascalie": "", "Start": 99073, "End": 99110}, {"Reply": "Whatever you do, don't call the U.S. Embassy. ", "Didascalie": "", "Start": 99259, "End": 99305}, {"Reply": " Stan. ", "Didascalie": "(to Amanda)", "Start": 99544, "End": 99553}, {"Reply": "Good thing I've been swimming, huh? ", "Didascalie": "", "Start": 108072, "End": 108108}, {"Reply": "You remember when we went fishing last summer? And I was trying to put the boat in and the trailer sank? And then the tow truck came and tried to pull it out, but it got dragged in? And the truck driver threatened to knock your Dad's lights out? So I said I was the governor and he believed me? ", "Didascalie": "", "Start": 108448, "End": 108755}, {"Reply": "That was a fun day. ", "Didascalie": "", "Start": 108897, "End": 108917}, {"Reply": "You mean it? ", "Didascalie": "", "Start": 109012, "End": 109025}, {"Reply": "Helicopters. Helicopters! ", "Didascalie": "", "Start": 110799, "End": 110825}, {"Reply": "Either that, or the government will firebomb it back to the Stone Age. ", "Didascalie": "", "Start": 115757, "End": 115830}]}, {"Character": "AMANDA", "Replies": [{"Reply": "We even have two seats reserved aboard the first commercial moon flight. ", "Didascalie": "", "Start": 18041, "End": 18116}, {"Reply": "...once-in-a-lifetime. ", "Didascalie": "", "Start": 18321, "End": 18344}, {"Reply": "You see, that's just the thing. Paul and I have special permission to fly low. ", "Didascalie": "", "Start": 19146, "End": 19227}, {"Reply": "From what I understand, it's pretty much whatever we want. ", "Didascalie": "", "Start": 19370, "End": 19431}, {"Reply": "Dr. Grant, you don't know how important it is for us to have you come along. It would make all the difference. ", "Didascalie": "", "Start": 19661, "End": 19776}, {"Reply": "It's going to be all right. Just... ", "Didascalie": "", "Start": 25125, "End": 25161}, {"Reply": "Eric! Eric! Are you there honey? Ben! ", "Didascalie": "", "Start": 25513, "End": 25551}, {"Reply": "ERRR-IIIC! ", "Didascalie": "", "Start": 26848, "End": 26859}, {"Reply": " What? ", "Didascalie": "(on the bullhorn)", "Start": 27064, "End": 27073}, {"Reply": " What's a bad idea? ", "Didascalie": "(on the bullhorn)", "Start": 27172, "End": 27194}, {"Reply": "We can't just... ", "Didascalie": "", "Start": 28053, "End": 28070}, {"Reply": "Oh, my God! Paul, my God! ", "Didascalie": "", "Start": 29838, "End": 29864}, {"Reply": "Our son is on this island. We need your help to find him. ", "Didascalie": "", "Start": 39916, "End": 39976}, {"Reply": "He's with a man named Ben Hildebrand. ", "Didascalie": "", "Start": 40484, "End": 40522}, {"Reply": "A friend. We were vacationing. Eric wanted to see the island and the dinosaurs, so Ben found a guy who would take them parasailing. ", "Didascalie": "", "Start": 40592, "End": 40728}, {"Reply": "Still, you have survived the dinosaurs before. You saved those kids. ", "Didascalie": "", "Start": 41640, "End": 41711}, {"Reply": "He's smart, Dr. Grant. And he knows so much about dinosaurs. ", "Didascalie": "", "Start": 42091, "End": 42154}, {"Reply": "Nothing you haven't seen before. ", "Didascalie": "", "Start": 43644, "End": 43677}, {"Reply": "How much weight have you lost? ", "Didascalie": "", "Start": 43749, "End": 43780}, {"Reply": "You hate to swim. ", "Didascalie": "", "Start": 43865, "End": 43883}, {"Reply": "So do you. ", "Didascalie": "", "Start": 43995, "End": 44006}, {"Reply": "Eric! ", "Didascalie": "", "Start": 45901, "End": 45907}, {"Reply": "Well we should split up or something. We can cover twice the area. ", "Didascalie": "", "Start": 46038, "End": 46107}, {"Reply": "Dr. Grant says this, Dr. Grant says that... ", "Didascalie": "", "Start": 46155, "End": 46199}, {"Reply": "Because \"Dr. Grant\" isn't looking for Eric. ", "Didascalie": "", "Start": 46303, "End": 46347}, {"Reply": "Oh, don't worry about that. ", "Didascalie": "", "Start": 46488, "End": 46516}, {"Reply": "Nothing. ", "Didascalie": "", "Start": 46548, "End": 46557}, {"Reply": "Nothing. ", "Didascalie": "", "Start": 46601, "End": 46610}, {"Reply": "Just drop it Paul! ", "Didascalie": "", "Start": 46654, "End": 46673}, {"Reply": "Eric... ", "Didascalie": "", "Start": 47135, "End": 47143}, {"Reply": "That's Ben's! ", "Didascalie": "", "Start": 47282, "End": 47296}, {"Reply": "It works! ", "Didascalie": "", "Start": 47940, "End": 47950}, {"Reply": "I filmed this the morning they left. ", "Didascalie": "", "Start": 48208, "End": 48245}, {"Reply": "No, it's... ", "Didascalie": "", "Start": 51227, "End": 51239}, {"Reply": "here somewhere. Our baby is all alone. ", "Didascalie": "", "Start": 51373, "End": 51412}, {"Reply": "I guess I was hoping that with Ben around, there'd be someone to keep him safe. ", "Didascalie": "", "Start": 51492, "End": 51574}, {"Reply": "Paul has no idea. ", "Didascalie": "", "Start": 52775, "End": 52793}, {"Reply": "Wait! Where's Billy? ", "Didascalie": "", "Start": 53021, "End": 53042}, {"Reply": " I thought we weren't suppose to yell. ", "Didascalie": "(almost sotto)", "Start": 53144, "End": 53185}, {"Reply": "Eric! ", "Didascalie": "", "Start": 55654, "End": 55660}, {"Reply": "What the hell. ", "Didascalie": "", "Start": 55896, "End": 55911}, {"Reply": "This is how you make dinosaurs? ", "Didascalie": "", "Start": 57420, "End": 57452}, {"Reply": "Push! ", "Didascalie": "", "Start": 59913, "End": 59919}, {"Reply": " He's this way. ", "Didascalie": "(Listening)", "Start": 63593, "End": 63611}, {"Reply": "We have to help him. ", "Didascalie": "", "Start": 64530, "End": 64551}, {"Reply": "He's not a kill, he's still alive. ", "Didascalie": "", "Start": 64634, "End": 64669}, {"Reply": "We can't just stop looking. Eric and Dr. ", "Didascalie": "", "Start": 71951, "End": 71992}, {"Reply": "Well Dr. Grant isn't here, so we're going to have to figure out what to do ourselves. ", "Didascalie": "", "Start": 72342, "End": 72430}, {"Reply": "So what do we do? ", "Didascalie": "", "Start": 72515, "End": 72533}, {"Reply": "Well what? ", "Didascalie": "", "Start": 73402, "End": 73413}, {"Reply": "This wouldn't happen if he was with you. I mean, you drive five miles below the speed limit. I totaled three cars in fives years. ", "Didascalie": "", "Start": 73725, "End": 73861}, {"Reply": "He would have been, safe. Completely, entirely, suffocatingly safe. ", "Didascalie": "", "Start": 73922, "End": 73992}, {"Reply": " I would have him to see more of the world than Enid, Oklahoma. I wanted to see more of the world than Enid, Oklahoma. And so yes, it's my fault that this happened. I'm sorry that you have to be here. ", "Didascalie": "(beat)", "Start": 74001, "End": 74212}, {"Reply": "What about Eric and Dr. Grant? ", "Didascalie": "", "Start": 75348, "End": 75379}, {"Reply": "What about Eric? ", "Didascalie": "", "Start": 75486, "End": 75503}, {"Reply": "You had the phone the whole time? ", "Didascalie": "", "Start": 76464, "End": 76498}, {"Reply": "When did you have it last? ", "Didascalie": "", "Start": 76589, "End": 76616}, {"Reply": "Think. ", "Didascalie": "", "Start": 76659, "End": 76666}, {"Reply": "What?...WHAT!? ", "Didascalie": "", "Start": 76907, "End": 76922}, {"Reply": " Sweetheart, you're okay. ", "Didascalie": "(reassuring him)", "Start": 78697, "End": 78725}, {"Reply": " You're okay. ", "Didascalie": "(reassuring herself)", "Start": 78748, "End": 78764}, {"Reply": " You're okay. ", "Didascalie": "(disbelieving)", "Start": 78781, "End": 78797}, {"Reply": "Then we go home. ", "Didascalie": "", "Start": 81121, "End": 81138}, {"Reply": "You okay? ", "Didascalie": "", "Start": 81611, "End": 81621}, {"Reply": "Do you think it goes all the way across? ", "Didascalie": "", "Start": 81807, "End": 81848}, {"Reply": "Eric, its okay. You'll be right behind me. ", "Didascalie": "", "Start": 82535, "End": 82578}, {"Reply": " Okay! Come on, Eric! ", "Didascalie": "(calling out)", "Start": 83208, "End": 83232}, {"Reply": "What is it? ", "Didascalie": "", "Start": 84196, "End": 84208}, {"Reply": " Paul! Where is he? Can you see him? ", "Didascalie": "(shouting)", "Start": 85880, "End": 85919}, {"Reply": "You couldn't have made that jump. ", "Didascalie": "", "Start": 94387, "End": 94421}, {"Reply": "How would you have helped Eric? ", "Didascalie": "", "Start": 94530, "End": 94562}, {"Reply": " He needs you, Paul. He needs us. ", "Didascalie": "(he can't answer)", "Start": 94582, "End": 94618}, {"Reply": "But he didn't. And neither did you. And I'm glad about that. ", "Didascalie": "", "Start": 94664, "End": 94727}, {"Reply": "I've got it! I've got it! ", "Didascalie": "", "Start": 98314, "End": 98340}, {"Reply": "I wouldn't trust Stan with a snowball in a blizzard. ", "Didascalie": "", "Start": 99567, "End": 99622}, {"Reply": "Who are you calling? ", "Didascalie": "", "Start": 100272, "End": 100293}, {"Reply": "PAUL! ", "Didascalie": "", "Start": 104361, "End": 104367}, {"Reply": "Just hold on. ", "Didascalie": "", "Start": 105045, "End": 105059}, {"Reply": "I know. I know. I want to look for him too. ", "Didascalie": "", "Start": 107269, "End": 107313}, {"Reply": "Let me tell you a few things about you Dad, okay? He's very very very clever, very very brave, and he loves you ever very much. ", "Didascalie": "", "Start": 107472, "End": 107604}, {"Reply": "Okay. He loves us very very much. And I know that right now more than anything, your Dad would want to know that we're safe. Okay? ", "Didascalie": "", "Start": 107648, "End": 107783}, {"Reply": "We're going to get out of this, and everything's going to be all right, I promise. ", "Didascalie": "", "Start": 107819, "End": 107904}, {"Reply": "We should try fishing again. ", "Didascalie": "", "Start": 108971, "End": 109000}, {"Reply": "I do. It's worth another shot. And who knows? ", "Didascalie": "", "Start": 109039, "End": 109085}, {"Reply": " You have to go back! We can't leave him! ", "Didascalie": "(to the pilot)", "Start": 113029, "End": 113073}, {"Reply": "They're not following. ", "Didascalie": "", "Start": 114016, "End": 114039}, {"Reply": "I would completely support that. ", "Didascalie": "", "Start": 115844, "End": 115877}]}, {"Character": "PUAL", "Replies": [{"Reply": "And of course, we're prepared to make a sizeable contribution to your research here. ", "Didascalie": "", "Start": 19873, "End": 19960}]}, {"Character": "COOPER", "Replies": [{"Reply": "Through our church. ", "Didascalie": "", "Start": 21865, "End": 21885}, {"Reply": " No, I thought I'd keep it to myself. ", "Didascalie": "(yelling back)", "Start": 23875, "End": 23915}, {"Reply": "emerges from the jungle. He stands in the middle of the runway. ", "Didascalie": "", "Start": 28743, "End": 28807}, {"Reply": "Come on, Nash. Slow down, buddy. ", "Didascalie": "", "Start": 28900, "End": 28933}]}, {"Character": "A RAPTOR", "Replies": [{"Reply": "sits besides him. The dinosaur eyes him curiously, then opens his mouth... ", "Didascalie": "", "Start": 22225, "End": 22301}]}, {"Character": "RAPTOR", "Replies": [{"Reply": "Alan. ", "Didascalie": "", "Start": 22315, "End": 22321}]}, {"Character": "ISLA SORNA", "Replies": [{"Reply": "rising majestically out of the water. ", "Didascalie": "", "Start": 22642, "End": 22680}]}, {"Character": "RADIO VOICE", "Replies": [{"Reply": " Unidentified aircraft approaching Isla Sorna, this is San Juan approach. You are flying in restricted airspace. Immediately turn to the coordinates two-zero-zero. I repeat redirect to... ", "Didascalie": "(Spanish accent)", "Start": 23174, "End": 23372}]}, {"Character": "NASH", "Replies": [{"Reply": "Are we on? ", "Didascalie": "", "Start": 24560, "End": 24571}, {"Reply": " We're going! ", "Didascalie": "(yelling back)", "Start": 28374, "End": 28390}, {"Reply": "Coop, you know I can't do it pal. ", "Didascalie": "", "Start": 29051, "End": 29085}, {"Reply": "Who's got the sat-phone? ", "Didascalie": "", "Start": 30924, "End": 30949}, {"Reply": "Shit! ", "Didascalie": "", "Start": 31446, "End": 31452}]}, {"Character": "A SHADOW", "Replies": [{"Reply": "falls over the injured mercenary. Then with brutal speed, an ENORMOUS BEAST seizes him in its massive jaws and lifts him into the air. ", "Didascalie": "", "Start": 29407, "End": 29544}]}, {"Character": "RECORDED VOICE", "Replies": [{"Reply": "We're sorry. All circuits are busy. Please try your call again later... ", "Didascalie": "", "Start": 31360, "End": 31434}]}, {"Character": "CLAMPS DOWN", "Replies": [{"Reply": "on Nash's legs. ", "Didascalie": "", "Start": 32421, "End": 32437}]}, {"Character": "HEAVIER TREES", "Replies": [{"Reply": "and leads the group into it. ", "Didascalie": "", "Start": 35585, "End": 35614}]}, {"Character": "TYRANNOSAURUS", "Replies": [{"Reply": "rises up behind the carcass. It was feeding, its mouth mottled with blood and carrion. ", "Didascalie": "", "Start": 36287, "End": 36375}]}, {"Character": "CAT-LIKE MOVEMENTS", "Replies": [{"Reply": "on the high ridge. To fast to see what it was. But too ominous to dismiss. ", "Didascalie": "", "Start": 54985, "End": 55061}]}, {"Character": "A CAVERNOUS HATCHING FACILITY", "Replies": [{"Reply": "filled with much of the same equipment we recognized from the first island, although the sheer size of this place dwarfs any of the facilities seen previously. ", "Didascalie": "", "Start": 56876, "End": 57038}]}, {"Character": "A GIGANTIC MANIFIED RAPTOR HEAD", "Replies": [{"Reply": "floating in the one tank. ", "Didascalie": "", "Start": 58107, "End": 58133}]}, {"Character": "AN ACTUAL RAPTOR", "Replies": [{"Reply": "lunges at her form behind the tank. She SCREAMS. ", "Didascalie": "", "Start": 58336, "End": 58385}]}, {"Character": "A PACK OF RAPTORS", "Replies": [{"Reply": "emerges from the jungles, coming their way. ", "Didascalie": "", "Start": 61298, "End": 61342}]}, {"Character": "HEADED OFF", "Replies": [{"Reply": "by a raptor. He turns to the other way, but finds  THERE ARE MORE RAPTORS. ", "Didascalie": "", "Start": 63086, "End": 63162}]}, {"Character": "ALL FOUR RAPTORS", "Replies": [{"Reply": "lead out from their hiding places. They almost catch her as Billy and Paul pull her back up on the limb  The raptors stare up at them, angry their plan didn't work. ", "Didascalie": "", "Start": 64788, "End": 64955}]}, {"Character": "LOOKING DOWN", "Replies": [{"Reply": "The entire pack is now standing still, watching him. In the center, the Alpha Male lets out a sort of BARK. Responding to the cry, the other raptors CALL BACK. ", "Didascalie": "", "Start": 65668, "End": 65830}]}, {"Character": "A BROKEN RAPTOR EGG", "Replies": [{"Reply": "inside, the white and green yolk still dripping from the pieces of the shell. There's another intact egg beside it. ", "Didascalie": "", "Start": 66489, "End": 66606}]}, {"Character": "FIVE CANISTERS", "Replies": [{"Reply": "that land in the area, creating a thick cloud. It's not just smoke though something far more caustic. ", "Didascalie": "", "Start": 67690, "End": 67793}]}, {"Character": "VOICE", "Replies": [{"Reply": "Come on! They'll be back! ", "Didascalie": "", "Start": 68379, "End": 68405}]}, {"Character": "A SMALL DIRTY HAND", "Replies": [{"Reply": "grabs his, pulling him along. ", "Didascalie": "", "Start": 68528, "End": 68558}]}, {"Character": "A SAIL", "Replies": [{"Reply": "moving through the low trees. We recognize it as the back of a spinosaurus. We might think it's any random spinosaurus, except for the RINGING coming from somewhere inside it. ", "Didascalie": "", "Start": 77160, "End": 77338}]}, {"Character": "PAUL AND AMANDA", "Replies": [{"Reply": "are no more than 20 yards away, also hiding. An involuntary reflex, Eric calls out... ", "Didascalie": "", "Start": 77749, "End": 77836}]}, {"Character": "SIX PTERANODON HATCHLINGS", "Replies": [{"Reply": "closing in on him with sharp-edged beaks. ", "Didascalie": "", "Start": 86597, "End": 86639}]}, {"Character": "A SECOND PTERANODON", "Replies": [{"Reply": "CRASH LANDS on the catwalk enclosure about them -- right next to a gaping hole in the mesh. The catwalk GROANS with the extra weight. ", "Didascalie": "", "Start": 88299, "End": 88435}]}, {"Character": "PTERANODON", "Replies": [{"Reply": "CRASHES into the mesh. It tears at the steel, actually ripping it in one place. ", "Didascalie": "", "Start": 93377, "End": 93458}]}, {"Character": "A SHIMMERING WAVE OF SILVER", "Replies": [{"Reply": "passes beneath the boat. ", "Didascalie": "", "Start": 99815, "End": 99840}]}, {"Character": "INTERCUT", "Replies": [{"Reply": "Recognizing who it must be... ", "Didascalie": "", "Start": 100627, "End": 100657}]}, {"Character": "GIGANTIC FIN", "Replies": [{"Reply": "rises from the water just fifty yards from the barge. It's headed right to them and closing fast. ", "Didascalie": "", "Start": 101077, "End": 101176}]}, {"Character": "SPINOSAURUS", "Replies": [{"Reply": "rises from the water, towering over the barge. As lightning FLASHES and thunder CRACKS, the dinosaur lets out an ear- ", "Didascalie": "", "Start": 101688, "End": 101807}]}, {"Character": "RIPS OFF", "Replies": [{"Reply": "the entire wheelhouse. ", "Didascalie": "", "Start": 101933, "End": 101956}]}, {"Character": "A VOICE", "Replies": [{"Reply": "Listen to your mother. ", "Didascalie": "", "Start": 107919, "End": 107942}]}, {"Character": "A PTERANODON", "Replies": [{"Reply": "flies up out of the trees, the first of twenty. It's a gorgeous and terrifying sight. ", "Didascalie": "", "Start": 112041, "End": 112128}]}]}
+{
+    "Title": [
+        "Jurassic Park III",
+        "   "
+    ],
+    "Author": [
+        "\u00a0\u00a0Peter Buchman\u00a0\u00a0Alexander Payne\u00a0\u00a0John August\u00a0\u00a0Jim Taylor"
+    ],
+    "Genre": [
+        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+    ],
+    "Characters": [
+        {
+            "Character": "JURASSIC PARK III",
+            "Replies": [
+                {
+                    "Reply": "A speedboat cuts swiftly through the ocean swells beneath the looming cliffs of ISLA SORNA.",
+                    "Didascalie": "",
+                    "Start": 167,
+                    "End": 260
+                }
+            ]
+        },
+        {
+            "Character": "BEN",
+            "Replies": [
+                {
+                    "Reply": "Unclip your line!",
+                    "Didascalie": "",
+                    "Start": 3079,
+                    "End": 3097
+                },
+                {
+                    "Reply": "Unclip the line!",
+                    "Didascalie": "",
+                    "Start": 48765,
+                    "End": 48782
+                },
+                {
+                    "Reply": "Hand on! Hang on buddy!",
+                    "Didascalie": "",
+                    "Start": 48982,
+                    "End": 49006
+                },
+                {
+                    "Reply": "Are you ok, buddy?",
+                    "Didascalie": "",
+                    "Start": 49407,
+                    "End": 49426
+                },
+                {
+                    "Reply": "We're okay. It's going to be okay. Here, get ready. I'm going to unhook you.",
+                    "Didascalie": "",
+                    "Start": 49574,
+                    "End": 49653
+                },
+                {
+                    "Reply": "We're going to get out of this, pal.",
+                    "Didascalie": "(O.S) (weaker)",
+                    "Start": 49858,
+                    "End": 49898
+                }
+            ]
+        },
+        {
+            "Character": "ENRIQUE",
+            "Replies": [
+                {
+                    "Reply": "Don't worry. I take you close. But not too close.",
+                    "Didascalie": "",
+                    "Start": 792,
+                    "End": 845
+                },
+                {
+                    "Reply": "You don't want them to eat you.",
+                    "Didascalie": "(rubbing Eric's head)",
+                    "Start": 869,
+                    "End": 904
+                },
+                {
+                    "Reply": "Ready, amigos?",
+                    "Didascalie": "",
+                    "Start": 1020,
+                    "End": 1035
+                }
+            ]
+        },
+        {
+            "Character": "ERIC",
+            "Replies": [
+                {
+                    "Reply": "What was that?",
+                    "Didascalie": "",
+                    "Start": 2366,
+                    "End": 2381
+                },
+                {
+                    "Reply": "Ben!",
+                    "Didascalie": "",
+                    "Start": 2710,
+                    "End": 2715
+                },
+                {
+                    "Reply": "Ben!",
+                    "Didascalie": "",
+                    "Start": 48749,
+                    "End": 48754
+                },
+                {
+                    "Reply": "I don't know. I think so.",
+                    "Didascalie": "(through his sobs)",
+                    "Start": 49534,
+                    "End": 49563
+                },
+                {
+                    "Reply": "In Costa Rica?",
+                    "Didascalie": "",
+                    "Start": 69739,
+                    "End": 69754
+                },
+                {
+                    "Reply": "They'll never make it. I mean, they can't manage when the cable goes out.",
+                    "Didascalie": "",
+                    "Start": 69855,
+                    "End": 69931
+                },
+                {
+                    "Reply": "You're Alan Grant, aren't you?",
+                    "Didascalie": "",
+                    "Start": 70077,
+                    "End": 70108
+                },
+                {
+                    "Reply": "I read both of your books.",
+                    "Didascalie": "(off surprised reaction)",
+                    "Start": 70135,
+                    "End": 70165
+                },
+                {
+                    "Reply": "The first one. Before you where on the island.",
+                    "Didascalie": "",
+                    "Start": 70215,
+                    "End": 70262
+                },
+                {
+                    "Reply": "When InGen cleared out, they left a lot of stuff behind.",
+                    "Didascalie": "",
+                    "Start": 70626,
+                    "End": 70685
+                },
+                {
+                    "Reply": "Found this, but the battery's dead.",
+                    "Didascalie": "",
+                    "Start": 70781,
+                    "End": 70817
+                },
+                {
+                    "Reply": "Is that all it's been? I thought it was longer.",
+                    "Didascalie": "",
+                    "Start": 71034,
+                    "End": 71082
+                },
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 71427,
+                    "End": 71433
+                },
+                {
+                    "Reply": "I dunno. I mean, it was kind of preachy.",
+                    "Didascalie": "",
+                    "Start": 71478,
+                    "End": 71519
+                },
+                {
+                    "Reply": "Know what this is?",
+                    "Didascalie": "",
+                    "Start": 74539,
+                    "End": 74558
+                },
+                {
+                    "Reply": "Mine's new.",
+                    "Didascalie": "",
+                    "Start": 74641,
+                    "End": 74653
+                },
+                {
+                    "Reply": "I stayed pretty close to the compound, Figured if anyone came to look for me, that's where they'd start.",
+                    "Didascalie": "",
+                    "Start": 74858,
+                    "End": 74967
+                },
+                {
+                    "Reply": "Are you sure?",
+                    "Didascalie": "",
+                    "Start": 75023,
+                    "End": 75037
+                },
+                {
+                    "Reply": "Closer you get to the water, the bigger things get.",
+                    "Didascalie": "",
+                    "Start": 75067,
+                    "End": 75121
+                },
+                {
+                    "Reply": "Mon! Dad!",
+                    "Didascalie": "",
+                    "Start": 77848,
+                    "End": 77858
+                },
+                {
+                    "Reply": "We do.",
+                    "Didascalie": "",
+                    "Start": 78889,
+                    "End": 78896
+                },
+                {
+                    "Reply": "Then we go home?",
+                    "Didascalie": "",
+                    "Start": 81090,
+                    "End": 81107
+                },
+                {
+                    "Reply": "No, I can do it.",
+                    "Didascalie": "",
+                    "Start": 83358,
+                    "End": 83375
+                },
+                {
+                    "Reply": "Mom?",
+                    "Didascalie": "",
+                    "Start": 83847,
+                    "End": 83852
+                },
+                {
+                    "Reply": "Do you have any kids?",
+                    "Didascalie": "",
+                    "Start": 94855,
+                    "End": 94877
+                },
+                {
+                    "Reply": "I want to be an astronaut.",
+                    "Didascalie": "",
+                    "Start": 95134,
+                    "End": 95161
+                },
+                {
+                    "Reply": "But then you never get to go in space.",
+                    "Didascalie": "",
+                    "Start": 95540,
+                    "End": 95579
+                },
+                {
+                    "Reply": "What's that?",
+                    "Didascalie": "",
+                    "Start": 99702,
+                    "End": 99715
+                },
+                {
+                    "Reply": "Something must've scared them.",
+                    "Didascalie": "",
+                    "Start": 99944,
+                    "End": 99975
+                },
+                {
+                    "Reply": "DAD!",
+                    "Didascalie": "",
+                    "Start": 104379,
+                    "End": 104384
+                },
+                {
+                    "Reply": "Where's Dad?",
+                    "Didascalie": "",
+                    "Start": 105018,
+                    "End": 105031
+                },
+                {
+                    "Reply": "We have to keep looking for Dad. We have to.",
+                    "Didascalie": "",
+                    "Start": 107210,
+                    "End": 107255
+                },
+                {
+                    "Reply": "then we should...",
+                    "Didascalie": "",
+                    "Start": 107325,
+                    "End": 107343
+                },
+                {
+                    "Reply": "He loves you too.",
+                    "Didascalie": "",
+                    "Start": 107616,
+                    "End": 107634
+                },
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 108810,
+                    "End": 108816
+                },
+                {
+                    "Reply": "The lady you called, how do you know she can help us?",
+                    "Didascalie": "",
+                    "Start": 109419,
+                    "End": 109475
+                },
+                {
+                    "Reply": "You should.",
+                    "Didascalie": "",
+                    "Start": 109714,
+                    "End": 109726
+                },
+                {
+                    "Reply": "No. I couldn't see.",
+                    "Didascalie": "",
+                    "Start": 110160,
+                    "End": 110180
+                },
+                {
+                    "Reply": "Mom! Dad!",
+                    "Didascalie": "(excited)",
+                    "Start": 110697,
+                    "End": 110710
+                },
+                {
+                    "Reply": "Dr. Grant! Helicopters are coming!",
+                    "Didascalie": "(yelling over)",
+                    "Start": 111353,
+                    "End": 111391
+                },
+                {
+                    "Reply": "We're safe!",
+                    "Didascalie": "",
+                    "Start": 111498,
+                    "End": 111510
+                },
+                {
+                    "Reply": "What do you think is going to happen with the dinosaurs?",
+                    "Didascalie": "",
+                    "Start": 115570,
+                    "End": 115629
+                },
+                {
+                    "Reply": "I hope they don't. I want to come back someday.",
+                    "Didascalie": "",
+                    "Start": 115939,
+                    "End": 115989
+                }
+            ]
+        },
+        {
+            "Character": "CHILD",
+            "Replies": [
+                {
+                    "Reply": "RRRRROW! GRRRRRR!",
+                    "Didascalie": "",
+                    "Start": 3434,
+                    "End": 3452
+                }
+            ]
+        },
+        {
+            "Character": "GRANT",
+            "Replies": [
+                {
+                    "Reply": "Oh, actually, Charlie, those two are herbivores. They wouldn't be interested in fighting each other. But these...",
+                    "Didascalie": "",
+                    "Start": 3727,
+                    "End": 3845
+                },
+                {
+                    "Reply": "See, these are carnivores. And this one here -- see its claws -- this one here uses its claws to gouge at the throat of its opponent\u00c2  As Grant demonstrates with some GRUNT and GROANS of his own, he only succeeds in frightening the boy.",
+                    "Didascalie": "(picking up two other dinosaurs)",
+                    "Start": 3880,
+                    "End": 4127
+                },
+                {
+                    "Reply": "Hmm?",
+                    "Didascalie": "",
+                    "Start": 4182,
+                    "End": 4187
+                },
+                {
+                    "Reply": "Oh, right.",
+                    "Didascalie": "",
+                    "Start": 4273,
+                    "End": 4284
+                },
+                {
+                    "Reply": "Happy dinosaurs.",
+                    "Didascalie": "(back to Charlie)",
+                    "Start": 4304,
+                    "End": 4324
+                },
+                {
+                    "Reply": "What's my name? Come on, Jack, say it. Is my name Alan? Say my name.",
+                    "Didascalie": "",
+                    "Start": 5382,
+                    "End": 5453
+                },
+                {
+                    "Reply": "He used to know me.",
+                    "Didascalie": "",
+                    "Start": 5504,
+                    "End": 5524
+                },
+                {
+                    "Reply": "What do you do there?",
+                    "Didascalie": "(To Mark)",
+                    "Start": 6003,
+                    "End": 6026
+                },
+                {
+                    "Reply": "Indeed.",
+                    "Didascalie": "",
+                    "Start": 6134,
+                    "End": 6142
+                },
+                {
+                    "Reply": "We have a new site in Montana. At least until the money runs out.",
+                    "Didascalie": "",
+                    "Start": 6286,
+                    "End": 6353
+                },
+                {
+                    "Reply": "Raptors, mostly.",
+                    "Didascalie": "",
+                    "Start": 6394,
+                    "End": 6411
+                },
+                {
+                    "Reply": "You remember the sounds they made?",
+                    "Didascalie": "",
+                    "Start": 6541,
+                    "End": 6576
+                },
+                {
+                    "Reply": "We've done cranial scans, and raptors actually had a quite sophisticated resonating chamber. I have a theory that their ability to vocalize is the key to their social intelligence. The way they can work together as a team.",
+                    "Didascalie": "",
+                    "Start": 6616,
+                    "End": 6849
+                },
+                {
+                    "Reply": "To a degree we never imagined.",
+                    "Didascalie": "",
+                    "Start": 6916,
+                    "End": 6947
+                },
+                {
+                    "Reply": "It was never easy, but before Jurassic Park, you could find money. Somewhere. Now fossils are out. Everyone wants to see a real live dinosaur.",
+                    "Didascalie": "",
+                    "Start": 7268,
+                    "End": 7417
+                },
+                {
+                    "Reply": "The last of my breed.",
+                    "Didascalie": "",
+                    "Start": 7508,
+                    "End": 7530
+                },
+                {
+                    "Reply": "I'd better get going.",
+                    "Didascalie": "",
+                    "Start": 7630,
+                    "End": 7652
+                },
+                {
+                    "Reply": "Okay. Goodbye, Ellie.",
+                    "Didascalie": "",
+                    "Start": 7829,
+                    "End": 7851
+                },
+                {
+                    "Reply": "A well-accepted theory.",
+                    "Didascalie": "",
+                    "Start": 8367,
+                    "End": 8391
+                },
+                {
+                    "Reply": "It's through the painstaking study of the Interior chamber in multiple specimens that we can determine this exciting correlation between the larynx and the upper plate. That lets us theorize -- theorize, mind you -- that the raptor might have been capable of bird-",
+                    "Didascalie": "",
+                    "Start": 9081,
+                    "End": 9356
+                },
+                {
+                    "Reply": "Does anyone have a question that doesn't relate to Jurassic Park?",
+                    "Didascalie": "",
+                    "Start": 9738,
+                    "End": 9807
+                },
+                {
+                    "Reply": "Or the incident in San Diego, which I'll remind you, I did not witness.",
+                    "Didascalie": "",
+                    "Start": 9858,
+                    "End": 9932
+                },
+                {
+                    "Reply": "No, and let me be perfectly clear on this point. Dinosaurs lived 65 million years ago.",
+                    "Didascalie": "",
+                    "Start": 10544,
+                    "End": 10633
+                },
+                {
+                    "Reply": "what John Hammond and InGen created are theme park monsters. Nothing more, nothing less.",
+                    "Didascalie": "",
+                    "Start": 10771,
+                    "End": 10864
+                },
+                {
+                    "Reply": "No force on this earth or in heaven could get me on that island.",
+                    "Didascalie": "",
+                    "Start": 11023,
+                    "End": 11090
+                },
+                {
+                    "Reply": "Mr. Brennan.",
+                    "Didascalie": "",
+                    "Start": 14245,
+                    "End": 14258
+                },
+                {
+                    "Reply": "We'll be broke in four weeks.",
+                    "Didascalie": "",
+                    "Start": 14439,
+                    "End": 14469
+                },
+                {
+                    "Reply": "You rented an automated litter box.",
+                    "Didascalie": "",
+                    "Start": 14783,
+                    "End": 14819
+                },
+                {
+                    "Reply": "Not if it can't dig.",
+                    "Didascalie": "",
+                    "Start": 15067,
+                    "End": 15088
+                },
+                {
+                    "Reply": "It's be my pleasure.",
+                    "Didascalie": "",
+                    "Start": 17302,
+                    "End": 17323
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 17745,
+                    "End": 17756
+                },
+                {
+                    "Reply": "Hmmm.",
+                    "Didascalie": "",
+                    "Start": 18151,
+                    "End": 18157
+                },
+                {
+                    "Reply": "That's a very nice offer, Mr. Kirby, but I'm afraid I'm much to busy. If you like I can refer you to a number of highly qualified...",
+                    "Didascalie": "",
+                    "Start": 18600,
+                    "End": 18737
+                },
+                {
+                    "Reply": "enough to see anything of interest.",
+                    "Didascalie": "",
+                    "Start": 19045,
+                    "End": 19081
+                },
+                {
+                    "Reply": "That's hard to believe.",
+                    "Didascalie": "",
+                    "Start": 19444,
+                    "End": 19468
+                },
+                {
+                    "Reply": "Even with what I pay you, you could get a better bag.",
+                    "Didascalie": "",
+                    "Start": 20537,
+                    "End": 20593
+                },
+                {
+                    "Reply": "That does sound lucky.",
+                    "Didascalie": "",
+                    "Start": 20778,
+                    "End": 20801
+                },
+                {
+                    "Reply": "Reverse-Darwinism. Survival of the most idiotic.",
+                    "Didascalie": "",
+                    "Start": 20912,
+                    "End": 20963
+                },
+                {
+                    "Reply": "The bones will be there when we get back.",
+                    "Didascalie": "",
+                    "Start": 21085,
+                    "End": 21127
+                },
+                {
+                    "Reply": "There. There! An Apatosaur. Look at the coloration.",
+                    "Didascalie": "",
+                    "Start": 23954,
+                    "End": 24008
+                },
+                {
+                    "Reply": "Mr. and Mrs. Kirby! If you look out the right you can see...",
+                    "Didascalie": "",
+                    "Start": 24222,
+                    "End": 24285
+                },
+                {
+                    "Reply": "That's not the landing gear?",
+                    "Didascalie": "",
+                    "Start": 24823,
+                    "End": 24852
+                },
+                {
+                    "Reply": "What you're...",
+                    "Didascalie": "",
+                    "Start": 24915,
+                    "End": 24930
+                },
+                {
+                    "Reply": "You can't land.",
+                    "Didascalie": "(CONT'D) (realizing)",
+                    "Start": 24944,
+                    "End": 24963
+                },
+                {
+                    "Reply": "This plane can not land!",
+                    "Didascalie": "",
+                    "Start": 25086,
+                    "End": 25111
+                },
+                {
+                    "Reply": "Tell me we didn't land.",
+                    "Didascalie": "",
+                    "Start": 25826,
+                    "End": 25850
+                },
+                {
+                    "Reply": "What the hell is going on? What are they doing?",
+                    "Didascalie": "",
+                    "Start": 26474,
+                    "End": 26524
+                },
+                {
+                    "Reply": "Mr. Kirby, trust me, on this island, there is no such thing as safe. We have to get back in this plane...",
+                    "Didascalie": "",
+                    "Start": 26650,
+                    "End": 26760
+                },
+                {
+                    "Reply": "And tell your wife to stop making so much noise! We're food to these damn animals.",
+                    "Didascalie": "",
+                    "Start": 26872,
+                    "End": 26958
+                },
+                {
+                    "Reply": "I don't think so.",
+                    "Didascalie": "",
+                    "Start": 27483,
+                    "End": 27501
+                },
+                {
+                    "Reply": "Sounds bigger.",
+                    "Didascalie": "",
+                    "Start": 27572,
+                    "End": 27587
+                },
+                {
+                    "Reply": "This way!",
+                    "Didascalie": "",
+                    "Start": 34996,
+                    "End": 35006
+                },
+                {
+                    "Reply": "Don't worry. It's dead.",
+                    "Didascalie": "",
+                    "Start": 36220,
+                    "End": 36244
+                },
+                {
+                    "Reply": "Nobody move a muscle.",
+                    "Didascalie": "",
+                    "Start": 36414,
+                    "End": 36436
+                },
+                {
+                    "Reply": "Come on!",
+                    "Didascalie": "",
+                    "Start": 39477,
+                    "End": 39486
+                },
+                {
+                    "Reply": "Why did you bring us here?",
+                    "Didascalie": "",
+                    "Start": 39783,
+                    "End": 39810
+                },
+                {
+                    "Reply": "So you hired these mercenaries.",
+                    "Didascalie": "",
+                    "Start": 41072,
+                    "End": 41104
+                },
+                {
+                    "Reply": "Then you duped us into coming here.",
+                    "Didascalie": "(interrupting)",
+                    "Start": 41219,
+                    "End": 41258
+                },
+                {
+                    "Reply": "I have never been on this island!",
+                    "Didascalie": "(disbelieving)",
+                    "Start": 41392,
+                    "End": 41429
+                },
+                {
+                    "Reply": "A few of us survived. A lot more died. And we were better prepared and better armed.",
+                    "Didascalie": "",
+                    "Start": 41724,
+                    "End": 41811
+                },
+                {
+                    "Reply": "How many days have they been missing?",
+                    "Didascalie": "(finally)",
+                    "Start": 41823,
+                    "End": 41864
+                },
+                {
+                    "Reply": "After what you've seen today, you really think your son could be alive?",
+                    "Didascalie": "",
+                    "Start": 42003,
+                    "End": 42077
+                },
+                {
+                    "Reply": "No, I'm sorry, but no. We'll savage what we can from the plane. Then we head for the coast. There may be a boat left, something to get us off this island.",
+                    "Didascalie": "",
+                    "Start": 42285,
+                    "End": 42446
+                },
+                {
+                    "Reply": "You can stick with us, or you can go and look for him. Either way you're probably not getting out of here alive.",
+                    "Didascalie": "",
+                    "Start": 42517,
+                    "End": 42634
+                },
+                {
+                    "Reply": "How would you classify it?",
+                    "Didascalie": "",
+                    "Start": 44215,
+                    "End": 44242
+                },
+                {
+                    "Reply": "They never got that big.",
+                    "Didascalie": "",
+                    "Start": 44337,
+                    "End": 44362
+                },
+                {
+                    "Reply": "Not with that sail.",
+                    "Didascalie": "",
+                    "Start": 44398,
+                    "End": 44418
+                },
+                {
+                    "Reply": "Spinosaurus Aegypticus.",
+                    "Didascalie": "(Billy gives up)",
+                    "Start": 44437,
+                    "End": 44464
+                },
+                {
+                    "Reply": "That's because it wasn't on their list. Who knows what else they were up to?",
+                    "Didascalie": "",
+                    "Start": 44529,
+                    "End": 44608
+                },
+                {
+                    "Reply": "There is no Kirby Enterprises, is there?",
+                    "Didascalie": "",
+                    "Start": 45093,
+                    "End": 45134
+                },
+                {
+                    "Reply": "Quiet!",
+                    "Didascalie": "",
+                    "Start": 45920,
+                    "End": 45927
+                },
+                {
+                    "Reply": "We should take it with us to signal any planes.",
+                    "Didascalie": "",
+                    "Start": 47651,
+                    "End": 47699
+                },
+                {
+                    "Reply": "Raptors.",
+                    "Didascalie": "",
+                    "Start": 52429,
+                    "End": 52438
+                },
+                {
+                    "Reply": "If we came across one, we might live.",
+                    "Didascalie": "",
+                    "Start": 52871,
+                    "End": 52909
+                },
+                {
+                    "Reply": "But you never came across just one.",
+                    "Didascalie": "",
+                    "Start": 52952,
+                    "End": 52988
+                },
+                {
+                    "Reply": "Ah yes, the first rule of academics. Publish or perish.",
+                    "Didascalie": "",
+                    "Start": 53733,
+                    "End": 53791
+                },
+                {
+                    "Reply": "This is how you play God.",
+                    "Didascalie": "",
+                    "Start": 57465,
+                    "End": 57491
+                },
+                {
+                    "Reply": "Back out! Move!",
+                    "Didascalie": "",
+                    "Start": 58501,
+                    "End": 58517
+                },
+                {
+                    "Reply": "She's calling for help.",
+                    "Didascalie": "",
+                    "Start": 60583,
+                    "End": 60607
+                },
+                {
+                    "Reply": "Head for the trees!",
+                    "Didascalie": "",
+                    "Start": 61355,
+                    "End": 61375
+                },
+                {
+                    "Reply": "THIS WAY!",
+                    "Didascalie": "",
+                    "Start": 61741,
+                    "End": 61751
+                },
+                {
+                    "Reply": "KEEP GOING!",
+                    "Didascalie": "",
+                    "Start": 62594,
+                    "End": 62606
+                },
+                {
+                    "Reply": "What does that mean? What are you saying?",
+                    "Didascalie": "",
+                    "Start": 66087,
+                    "End": 66129
+                },
+                {
+                    "Reply": "God damn you, Billy.",
+                    "Didascalie": "",
+                    "Start": 66670,
+                    "End": 66691
+                },
+                {
+                    "Reply": "It means, \"Give us the egg,\" doesn't it? \"We want the egg.\"",
+                    "Didascalie": "",
+                    "Start": 66909,
+                    "End": 66971
+                },
+                {
+                    "Reply": "Eric...",
+                    "Didascalie": "",
+                    "Start": 69576,
+                    "End": 69584
+                },
+                {
+                    "Reply": "Eric, your parents are both here.",
+                    "Didascalie": "",
+                    "Start": 69693,
+                    "End": 69727
+                },
+                {
+                    "Reply": "On the island.",
+                    "Didascalie": "",
+                    "Start": 69767,
+                    "End": 69782
+                },
+                {
+                    "Reply": "You'd be surprised what people can do when they have too.",
+                    "Didascalie": "",
+                    "Start": 69944,
+                    "End": 70004
+                },
+                {
+                    "Reply": "Which one do you prefer?",
+                    "Didascalie": "",
+                    "Start": 70178,
+                    "End": 70203
+                },
+                {
+                    "Reply": "Back then, they hadn't tried to eat me.",
+                    "Didascalie": "",
+                    "Start": 70308,
+                    "End": 70348
+                },
+                {
+                    "Reply": "Any weapons, radios?",
+                    "Didascalie": "",
+                    "Start": 70698,
+                    "End": 70719
+                },
+                {
+                    "Reply": "It's a wonder you aren't. I'm amazed, Eric. I barely lasted 30 hours. You lasted eight weeks.",
+                    "Didascalie": "",
+                    "Start": 70830,
+                    "End": 70929
+                },
+                {
+                    "Reply": "The important thing is we both made it.",
+                    "Didascalie": "(trying to be positive)",
+                    "Start": 71119,
+                    "End": 71162
+                },
+                {
+                    "Reply": "Did you read Malcolm's book?",
+                    "Didascalie": "",
+                    "Start": 71386,
+                    "End": 71415
+                },
+                {
+                    "Reply": "What did you think?",
+                    "Didascalie": "",
+                    "Start": 71446,
+                    "End": 71466
+                },
+                {
+                    "Reply": "That's two things we have in common.",
+                    "Didascalie": "",
+                    "Start": 71633,
+                    "End": 71670
+                },
+                {
+                    "Reply": "A raptor claw. I use to have one. A fossil.",
+                    "Didascalie": "(takes it)",
+                    "Start": 74582,
+                    "End": 74629
+                },
+                {
+                    "Reply": "How much of this island have you explored?",
+                    "Didascalie": "",
+                    "Start": 74803,
+                    "End": 74846
+                },
+                {
+                    "Reply": "We need to head for the coast.",
+                    "Didascalie": "",
+                    "Start": 74980,
+                    "End": 75011
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 75050,
+                    "End": 75055
+                },
+                {
+                    "Reply": "We need to keep moving.",
+                    "Didascalie": "",
+                    "Start": 79168,
+                    "End": 79192
+                },
+                {
+                    "Reply": "Billy, I can't talk to you now.",
+                    "Didascalie": "",
+                    "Start": 79276,
+                    "End": 79308
+                },
+                {
+                    "Reply": "Some of the worst things imaginable have been done with the best intentions. You rushed in with no thought to the consequences, to yourself or anyone else.",
+                    "Didascalie": "(finally turning on him)",
+                    "Start": 79857,
+                    "End": 80022
+                },
+                {
+                    "Reply": "You're no better than the people who built this place.",
+                    "Didascalie": "(finally)",
+                    "Start": 80034,
+                    "End": 80094
+                },
+                {
+                    "Reply": "We climb down to the barge and follow the river out to the ocean. With any luck, the Costa Rican coast guard will pick us up.",
+                    "Didascalie": "",
+                    "Start": 80948,
+                    "End": 81078
+                },
+                {
+                    "Reply": "How about if we try this way?",
+                    "Didascalie": "",
+                    "Start": 81681,
+                    "End": 81711
+                },
+                {
+                    "Reply": "One way to find out.",
+                    "Didascalie": "",
+                    "Start": 81861,
+                    "End": 81882
+                },
+                {
+                    "Reply": "We'd better do this one at a time.",
+                    "Didascalie": "(CONT'D) (glancing back)",
+                    "Start": 82107,
+                    "End": 82145
+                },
+                {
+                    "Reply": "Come on over. One at a time.",
+                    "Didascalie": "",
+                    "Start": 82430,
+                    "End": 82459
+                },
+                {
+                    "Reply": "Oh, my God.",
+                    "Didascalie": "",
+                    "Start": 84170,
+                    "End": 84182
+                },
+                {
+                    "Reply": "A bird cage.",
+                    "Didascalie": "",
+                    "Start": 84221,
+                    "End": 84234
+                },
+                {
+                    "Reply": "Split up!",
+                    "Didascalie": "",
+                    "Start": 86012,
+                    "End": 86022
+                },
+                {
+                    "Reply": "BILLY! WAIT!",
+                    "Didascalie": "",
+                    "Start": 86935,
+                    "End": 86948
+                },
+                {
+                    "Reply": "NO!",
+                    "Didascalie": "",
+                    "Start": 87049,
+                    "End": 87053
+                },
+                {
+                    "Reply": "He made it!",
+                    "Didascalie": "",
+                    "Start": 91880,
+                    "End": 91892
+                },
+                {
+                    "Reply": "Billy, look out!",
+                    "Didascalie": "",
+                    "Start": 92309,
+                    "End": 92326
+                },
+                {
+                    "Reply": "Billy!",
+                    "Didascalie": "",
+                    "Start": 92843,
+                    "End": 92850
+                },
+                {
+                    "Reply": "No. Although I've studied them in the wild.",
+                    "Didascalie": "",
+                    "Start": 94890,
+                    "End": 94934
+                },
+                {
+                    "Reply": "I have a theory that there's two kinds of boys. Those who want to be astronomers and those who want to be astronauts.",
+                    "Didascalie": "",
+                    "Start": 95000,
+                    "End": 95122
+                },
+                {
+                    "Reply": "See, I was the opposite. I never understood why anyone would want to go into space. It's so dangerous. You do one thing wrong and you're dead. The astronomer -- or the paleontologist -- get to study these amazing things from a place of complete safety. And truthfully, everything you really need to learn, you can learn it from the ground.",
+                    "Didascalie": "",
+                    "Start": 95174,
+                    "End": 95528
+                },
+                {
+                    "Reply": "Exactly. The difference between imagining how things might be and seeing how they really are. To be able to touch them. That's what Billy wanted to do.",
+                    "Didascalie": "",
+                    "Start": 95592,
+                    "End": 95750
+                },
+                {
+                    "Reply": "I can blame the people who made this island.",
+                    "Didascalie": "",
+                    "Start": 95936,
+                    "End": 95981
+                },
+                {
+                    "Reply": "How's a boy suppose to resist this?",
+                    "Didascalie": "",
+                    "Start": 96545,
+                    "End": 96581
+                },
+                {
+                    "Reply": "Keep quiet.",
+                    "Didascalie": "",
+                    "Start": 97118,
+                    "End": 97130
+                },
+                {
+                    "Reply": "Find it before it stops ringing!",
+                    "Didascalie": "",
+                    "Start": 97848,
+                    "End": 97881
+                },
+                {
+                    "Reply": "Well, we don't exactly have a Costa Rican phone book here, so it will have to be somebody we know in the states. Someone we can absolutely count on to send help.",
+                    "Didascalie": "",
+                    "Start": 99352,
+                    "End": 99520
+                },
+                {
+                    "Reply": "Bonitas.",
+                    "Didascalie": "",
+                    "Start": 99923,
+                    "End": 99932
+                },
+                {
+                    "Reply": "Get the motor going.",
+                    "Didascalie": "",
+                    "Start": 100038,
+                    "End": 100059
+                },
+                {
+                    "Reply": "Pick up! Pick up!",
+                    "Didascalie": "",
+                    "Start": 100352,
+                    "End": 100370
+                },
+                {
+                    "Reply": "Charlie? Charlie. Get your mother. Right away!",
+                    "Didascalie": "",
+                    "Start": 100670,
+                    "End": 100719
+                },
+                {
+                    "Reply": "Charlie? Are you there?",
+                    "Didascalie": "",
+                    "Start": 100796,
+                    "End": 100820
+                },
+                {
+                    "Reply": "Charlie! It's the dinosaur man! Go get mommy, okay?",
+                    "Didascalie": "(desperate)",
+                    "Start": 101201,
+                    "End": 101258
+                },
+                {
+                    "Reply": "ELLIE!",
+                    "Didascalie": "",
+                    "Start": 102765,
+                    "End": 102772
+                },
+                {
+                    "Reply": "Up! Up!",
+                    "Didascalie": "(looking around)",
+                    "Start": 104544,
+                    "End": 104555
+                },
+                {
+                    "Reply": "Jump! Swim for the far shore!",
+                    "Didascalie": "",
+                    "Start": 106528,
+                    "End": 106558
+                },
+                {
+                    "Reply": "She's the one person I could always count on.",
+                    "Didascalie": "",
+                    "Start": 109488,
+                    "End": 109534
+                },
+                {
+                    "Reply": "It's strikes me now I never told her that.",
+                    "Didascalie": "",
+                    "Start": 109659,
+                    "End": 109702
+                },
+                {
+                    "Reply": "You're right.",
+                    "Didascalie": "",
+                    "Start": 109739,
+                    "End": 109753
+                },
+                {
+                    "Reply": "Eric, do you know what happened to the boat?",
+                    "Didascalie": "",
+                    "Start": 110060,
+                    "End": 110105
+                },
+                {
+                    "Reply": "Do me a favor. Go back to your parents for a minute, would you?",
+                    "Didascalie": "",
+                    "Start": 110193,
+                    "End": 110259
+                },
+                {
+                    "Reply": "No we're not.",
+                    "Didascalie": "(to himself)",
+                    "Start": 111536,
+                    "End": 111553
+                },
+                {
+                    "Reply": "NO! STAY BACK! THEY'RE IN THE TREES!",
+                    "Didascalie": "",
+                    "Start": 111840,
+                    "End": 111877
+                },
+                {
+                    "Reply": "We have to cut it! Find something sharp!",
+                    "Didascalie": "(shouting over the noise)",
+                    "Start": 114407,
+                    "End": 114451
+                },
+                {
+                    "Reply": "The population will Stabilize eventually.",
+                    "Didascalie": "",
+                    "Start": 115642,
+                    "End": 115684
+                },
+                {
+                    "Reply": "So do I.",
+                    "Didascalie": "",
+                    "Start": 116030,
+                    "End": 116039
+                }
+            ]
+        },
+        {
+            "Character": "ELLIE",
+            "Replies": [
+                {
+                    "Reply": "Uh, Alan?",
+                    "Didascalie": "(interrupting)",
+                    "Start": 4155,
+                    "End": 4168
+                },
+                {
+                    "Reply": "He's three. Why don't you wait till he's a little older?",
+                    "Didascalie": "",
+                    "Start": 4200,
+                    "End": 4259
+                },
+                {
+                    "Reply": "That must be Mark.",
+                    "Didascalie": "",
+                    "Start": 4456,
+                    "End": 4475
+                },
+                {
+                    "Reply": "Good day?",
+                    "Didascalie": "",
+                    "Start": 4758,
+                    "End": 4768
+                },
+                {
+                    "Reply": "Mark, this is Alan Grant.",
+                    "Didascalie": "",
+                    "Start": 4884,
+                    "End": 4910
+                },
+                {
+                    "Reply": "Sorry, Alan it's been six years.",
+                    "Didascalie": "",
+                    "Start": 5537,
+                    "End": 5570
+                },
+                {
+                    "Reply": "Yes. Great.",
+                    "Didascalie": "(relived)",
+                    "Start": 5846,
+                    "End": 5861
+                },
+                {
+                    "Reply": "So, Mark's working at the State Department now.",
+                    "Didascalie": "",
+                    "Start": 5922,
+                    "End": 5972
+                },
+                {
+                    "Reply": "So what are you working on now?",
+                    "Didascalie": "",
+                    "Start": 6241,
+                    "End": 6273
+                },
+                {
+                    "Reply": "Anything good?",
+                    "Didascalie": "",
+                    "Start": 6366,
+                    "End": 6381
+                },
+                {
+                    "Reply": "My favorite.",
+                    "Didascalie": "",
+                    "Start": 6424,
+                    "End": 6437
+                },
+                {
+                    "Reply": "I try not to.",
+                    "Didascalie": "",
+                    "Start": 6589,
+                    "End": 6603
+                },
+                {
+                    "Reply": "You think they could talk to each other?",
+                    "Didascalie": "",
+                    "Start": 6862,
+                    "End": 6903
+                },
+                {
+                    "Reply": "You taught him that.",
+                    "Didascalie": "",
+                    "Start": 7077,
+                    "End": 7098
+                },
+                {
+                    "Reply": "Good luck with the fund raising.",
+                    "Didascalie": "",
+                    "Start": 7222,
+                    "End": 7255
+                },
+                {
+                    "Reply": "Times change Alan. But you're the still the best. I mean that.",
+                    "Didascalie": "",
+                    "Start": 7430,
+                    "End": 7495
+                },
+                {
+                    "Reply": "about asking for help, but please ask me.",
+                    "Didascalie": "",
+                    "Start": 7712,
+                    "End": 7754
+                },
+                {
+                    "Reply": "Goodbye, Alan.",
+                    "Didascalie": "",
+                    "Start": 7864,
+                    "End": 7879
+                },
+                {
+                    "Reply": "When I met you, I thought that one day millions of years ago, all the dinosaurs became extinct. Wiped out. But you told me otherwise. When conditions changed, dinosaurs changed. They became other things.",
+                    "Didascalie": "",
+                    "Start": 8126,
+                    "End": 8338
+                },
+                {
+                    "Reply": "Alan don't be afraid to evolve.",
+                    "Didascalie": "(simply)",
+                    "Start": 8413,
+                    "End": 8448
+                },
+                {
+                    "Reply": "Was somebody on the phone?",
+                    "Didascalie": "",
+                    "Start": 102136,
+                    "End": 102163
+                },
+                {
+                    "Reply": "Alan?",
+                    "Didascalie": "",
+                    "Start": 102833,
+                    "End": 102839
+                },
+                {
+                    "Reply": "Alan? Alan!",
+                    "Didascalie": "",
+                    "Start": 102898,
+                    "End": 102910
+                }
+            ]
+        },
+        {
+            "Character": "MARK",
+            "Replies": [
+                {
+                    "Reply": "Keeping the world safe.",
+                    "Didascalie": "",
+                    "Start": 4780,
+                    "End": 4804
+                },
+                {
+                    "Reply": "Nice to meet you, Alan. I've heard a lot about you.",
+                    "Didascalie": "",
+                    "Start": 4922,
+                    "End": 4976
+                },
+                {
+                    "Reply": "More coffee?",
+                    "Didascalie": "",
+                    "Start": 5810,
+                    "End": 5823
+                },
+                {
+                    "Reply": "I could tell you about it, but than I'd have to kill you.",
+                    "Didascalie": "(with mock bravado)",
+                    "Start": 6058,
+                    "End": 6121
+                }
+            ]
+        },
+        {
+            "Character": "CHARLIE",
+            "Replies": [
+                {
+                    "Reply": "Daddy, this is a herbabore.",
+                    "Didascalie": "",
+                    "Start": 5147,
+                    "End": 5175
+                },
+                {
+                    "Reply": "Hewwo?",
+                    "Didascalie": "",
+                    "Start": 100607,
+                    "End": 100614
+                },
+                {
+                    "Reply": "Hewwo?",
+                    "Didascalie": "",
+                    "Start": 100835,
+                    "End": 100842
+                },
+                {
+                    "Reply": "Okay.",
+                    "Didascalie": "",
+                    "Start": 101273,
+                    "End": 101279
+                },
+                {
+                    "Reply": "Dinosaur man.",
+                    "Didascalie": "",
+                    "Start": 102178,
+                    "End": 102192
+                },
+                {
+                    "Reply": "Raaaar!",
+                    "Didascalie": "(imitating)",
+                    "Start": 103088,
+                    "End": 103099
+                }
+            ]
+        },
+        {
+            "Character": "JACK",
+            "Replies": [
+                {
+                    "Reply": "Bullshit!",
+                    "Didascalie": "",
+                    "Start": 7008,
+                    "End": 7018
+                }
+            ]
+        },
+        {
+            "Character": "SYMPOSTIUM LEADER",
+            "Replies": [
+                {
+                    "Reply": "Thank you very much Dr. Grant. Now does anyone have a question?",
+                    "Didascalie": "",
+                    "Start": 9600,
+                    "End": 9666
+                }
+            ]
+        },
+        {
+            "Character": "MALE STUDENT",
+            "Replies": [
+                {
+                    "Reply": "Your theory on raptors is good and all, but isn't all this conjecture kind of moot?",
+                    "Didascalie": "",
+                    "Start": 10023,
+                    "End": 10109
+                },
+                {
+                    "Reply": "I mean, once the U.N. and Costa Rica and everyone decides how to handle the second island, scientist will just go in and look for themselves.",
+                    "Didascalie": "",
+                    "Start": 10179,
+                    "End": 10327
+                }
+            ]
+        },
+        {
+            "Character": "TOO-CLEVER SCIENCE REPORTER",
+            "Replies": [
+                {
+                    "Reply": "Isn't paleontology itself in danger of extinction?",
+                    "Didascalie": "",
+                    "Start": 10362,
+                    "End": 10415
+                }
+            ]
+        },
+        {
+            "Character": "ANOTHER STUDENT",
+            "Replies": [
+                {
+                    "Reply": "You're saying you wouldn't want to study them if you had the chance?",
+                    "Didascalie": "",
+                    "Start": 10939,
+                    "End": 11010
+                }
+            ]
+        },
+        {
+            "Character": "UDESKY",
+            "Replies": [
+                {
+                    "Reply": "Udesky.",
+                    "Didascalie": "",
+                    "Start": 11919,
+                    "End": 11927
+                },
+                {
+                    "Reply": "Yes sir. we're good to go. I'll lock it down as soon as you drop me the payment.",
+                    "Didascalie": "(beat)",
+                    "Start": 11936,
+                    "End": 12022
+                },
+                {
+                    "Reply": "That's right, two of the very best I could find. No, I haven't worked with them personally, but they come with the highest recommendations.",
+                    "Didascalie": "",
+                    "Start": 12379,
+                    "End": 12525
+                },
+                {
+                    "Reply": "You've got nothing to worry about, sir. This is going to be a piece of cake.",
+                    "Didascalie": "",
+                    "Start": 12713,
+                    "End": 12792
+                },
+                {
+                    "Reply": "Cooper! Yell up if you see anything!",
+                    "Didascalie": "",
+                    "Start": 23809,
+                    "End": 23846
+                },
+                {
+                    "Reply": "South shore is clear. The rest is rock.",
+                    "Didascalie": "",
+                    "Start": 24508,
+                    "End": 24548
+                },
+                {
+                    "Reply": "We're on.",
+                    "Didascalie": "",
+                    "Start": 24585,
+                    "End": 24595
+                },
+                {
+                    "Reply": "We gotta go, now!",
+                    "Didascalie": "",
+                    "Start": 27674,
+                    "End": 27692
+                },
+                {
+                    "Reply": "Coop's a professional. He can handle himself.",
+                    "Didascalie": "",
+                    "Start": 28218,
+                    "End": 28264
+                },
+                {
+                    "Reply": "Quiet! We're okay. Let's everybody just stay put.",
+                    "Didascalie": "",
+                    "Start": 30801,
+                    "End": 30853
+                },
+                {
+                    "Reply": "We prefer \"recovery specialists.\" We do overseas custody issues and...",
+                    "Didascalie": "",
+                    "Start": 41118,
+                    "End": 41191
+                },
+                {
+                    "Reply": "Well, I think we should start searching for your son. In the direction they're going.",
+                    "Didascalie": "",
+                    "Start": 42962,
+                    "End": 43048
+                },
+                {
+                    "Reply": "He paid us half up front. Cash.",
+                    "Didascalie": "",
+                    "Start": 45454,
+                    "End": 45486
+                },
+                {
+                    "Reply": "However long that is.",
+                    "Didascalie": "",
+                    "Start": 45764,
+                    "End": 45786
+                },
+                {
+                    "Reply": "If they split up, I'm going with you.",
+                    "Didascalie": "",
+                    "Start": 46784,
+                    "End": 46822
+                },
+                {
+                    "Reply": "Hey. Got something here.",
+                    "Didascalie": "",
+                    "Start": 47163,
+                    "End": 47188
+                },
+                {
+                    "Reply": "Here, give that to me.",
+                    "Didascalie": "",
+                    "Start": 47500,
+                    "End": 47523
+                },
+                {
+                    "Reply": "I think I've got it.",
+                    "Didascalie": "",
+                    "Start": 47719,
+                    "End": 47740
+                },
+                {
+                    "Reply": "I don't know for how long.",
+                    "Didascalie": "",
+                    "Start": 47964,
+                    "End": 47991
+                },
+                {
+                    "Reply": "Dr. Grant!",
+                    "Didascalie": "",
+                    "Start": 51708,
+                    "End": 51719
+                },
+                {
+                    "Reply": "They don't look that big. I mean, comparatively.",
+                    "Didascalie": "",
+                    "Start": 52807,
+                    "End": 52858
+                }
+            ]
+        },
+        {
+            "Character": "CHERYL",
+            "Replies": [
+                {
+                    "Reply": "Billy? I don't think I'm doing this right.",
+                    "Didascalie": "",
+                    "Start": 13333,
+                    "End": 13376
+                },
+                {
+                    "Reply": "I can never tell what's bone and what's rock.",
+                    "Didascalie": "",
+                    "Start": 13574,
+                    "End": 13620
+                },
+                {
+                    "Reply": "Rough.",
+                    "Didascalie": "",
+                    "Start": 13943,
+                    "End": 13950
+                },
+                {
+                    "Reply": "Smooth.",
+                    "Didascalie": "",
+                    "Start": 13998,
+                    "End": 14006
+                }
+            ]
+        },
+        {
+            "Character": "BILLY",
+            "Replies": [
+                {
+                    "Reply": "You need to go slowly. See, just take it little at a time.",
+                    "Didascalie": "",
+                    "Start": 13447,
+                    "End": 13508
+                },
+                {
+                    "Reply": "Technically, it's all rock. The calcium in the bones is replaced during fossilization. But you can feel the difference. See? Rough, smooth. Rough, smooth.",
+                    "Didascalie": "",
+                    "Start": 13633,
+                    "End": 13794
+                },
+                {
+                    "Reply": "Dr. Grant!",
+                    "Didascalie": "",
+                    "Start": 14169,
+                    "End": 14180
+                },
+                {
+                    "Reply": "How was your trip? Profitable?",
+                    "Didascalie": "",
+                    "Start": 14395,
+                    "End": 14426
+                },
+                {
+                    "Reply": "Three weeks. I had to rent some equipment.",
+                    "Didascalie": "",
+                    "Start": 14482,
+                    "End": 14525
+                },
+                {
+                    "Reply": "It's a rapid prototyper. I feed in the scan data from the raptor skull, than the computer breaks it into thousands of slices which this thing prints, one layer on top of the other.",
+                    "Didascalie": "",
+                    "Start": 14832,
+                    "End": 15019
+                },
+                {
+                    "Reply": "I give you a raptor's resonating chamber.",
+                    "Didascalie": "",
+                    "Start": 15244,
+                    "End": 15286
+                },
+                {
+                    "Reply": "How low?",
+                    "Didascalie": "",
+                    "Start": 19240,
+                    "End": 19249
+                },
+                {
+                    "Reply": "No way. This is lucky. Couple years ago some buddies and I went hang gliding off these cliffs in New Zealand. Updraft sent me right into the side. BOOM!",
+                    "Didascalie": "",
+                    "Start": 20606,
+                    "End": 20765
+                },
+                {
+                    "Reply": "It was this strap alone that saved my life.",
+                    "Didascalie": "",
+                    "Start": 20814,
+                    "End": 20858
+                },
+                {
+                    "Reply": "Listen Alan, I really appreciate you bringing me along.",
+                    "Didascalie": "",
+                    "Start": 21014,
+                    "End": 21072
+                },
+                {
+                    "Reply": "So how do you know the Kirby's?",
+                    "Didascalie": "",
+                    "Start": 21597,
+                    "End": 21629
+                },
+                {
+                    "Reply": "What Religion?",
+                    "Didascalie": "",
+                    "Start": 21898,
+                    "End": 21913
+                },
+                {
+                    "Reply": "Alan. We're almost there.",
+                    "Didascalie": "",
+                    "Start": 22468,
+                    "End": 22494
+                },
+                {
+                    "Reply": "Admit it. You're excited.",
+                    "Didascalie": "",
+                    "Start": 23706,
+                    "End": 23732
+                },
+                {
+                    "Reply": "I'm so use to seeing bones. It's weird to see skin.",
+                    "Didascalie": "(amazed)",
+                    "Start": 24152,
+                    "End": 24209
+                },
+                {
+                    "Reply": "I think they're looking for someone.",
+                    "Didascalie": "",
+                    "Start": 25916,
+                    "End": 25953
+                },
+                {
+                    "Reply": "Is it a rex?",
+                    "Didascalie": "(low)",
+                    "Start": 27454,
+                    "End": 27470
+                },
+                {
+                    "Reply": "What about the other guy?",
+                    "Didascalie": "",
+                    "Start": 28178,
+                    "End": 28204
+                },
+                {
+                    "Reply": "Is anyone hurt?",
+                    "Didascalie": "",
+                    "Start": 30669,
+                    "End": 30685
+                },
+                {
+                    "Reply": "Over here!",
+                    "Didascalie": "",
+                    "Start": 34646,
+                    "End": 34657
+                },
+                {
+                    "Reply": "Who's that?",
+                    "Didascalie": "",
+                    "Start": 40535,
+                    "End": 40547
+                },
+                {
+                    "Reply": "That was Isla Nublar. This is Isla Sorna.",
+                    "Didascalie": "",
+                    "Start": 41492,
+                    "End": 41534
+                },
+                {
+                    "Reply": "Obviously a superpredator.",
+                    "Didascalie": "",
+                    "Start": 44255,
+                    "End": 44282
+                },
+                {
+                    "Reply": "Suchimimus. that snout.",
+                    "Didascalie": "(best guess)",
+                    "Start": 44297,
+                    "End": 44324
+                },
+                {
+                    "Reply": "Baryonyx?",
+                    "Didascalie": "",
+                    "Start": 44375,
+                    "End": 44385
+                },
+                {
+                    "Reply": "I don't remember that on InGen's list.",
+                    "Didascalie": "",
+                    "Start": 44477,
+                    "End": 44516
+                },
+                {
+                    "Reply": "So Mr. Kirby, tell me, when you climbed K2, did you base camp at 25- or 30,000 feet?",
+                    "Didascalie": "",
+                    "Start": 44777,
+                    "End": 44864
+                },
+                {
+                    "Reply": "About a thousand feet above it, actually.",
+                    "Didascalie": "",
+                    "Start": 44934,
+                    "End": 44976
+                },
+                {
+                    "Reply": "Most mountain-climbers remember how tall that mountains were.",
+                    "Didascalie": "(closer)",
+                    "Start": 44987,
+                    "End": 45054
+                },
+                {
+                    "Reply": "I don't suppose that check you wrote us is any good.",
+                    "Didascalie": "",
+                    "Start": 45385,
+                    "End": 45440
+                },
+                {
+                    "Reply": "It looks intact.",
+                    "Didascalie": "",
+                    "Start": 47621,
+                    "End": 47638
+                },
+                {
+                    "Reply": "Here!",
+                    "Didascalie": "",
+                    "Start": 53204,
+                    "End": 53210
+                },
+                {
+                    "Reply": "I got some great pictures of the nest. You know this proves raptors raised their young in colonies.",
+                    "Didascalie": "",
+                    "Start": 53294,
+                    "End": 53398
+                },
+                {
+                    "Reply": "This speaks to a larger social structure, the possibility of Darwinian altruism. It changes everything.",
+                    "Didascalie": "",
+                    "Start": 53517,
+                    "End": 53625
+                },
+                {
+                    "Reply": "We could co-write a paper.",
+                    "Didascalie": "",
+                    "Start": 53693,
+                    "End": 53720
+                },
+                {
+                    "Reply": "Thank God for preservatives.",
+                    "Didascalie": "",
+                    "Start": 56583,
+                    "End": 56612
+                },
+                {
+                    "Reply": "Okay if I take pictures?",
+                    "Didascalie": "",
+                    "Start": 57566,
+                    "End": 57591
+                },
+                {
+                    "Reply": "ALAN!",
+                    "Didascalie": "",
+                    "Start": 62575,
+                    "End": 62581
+                },
+                {
+                    "Reply": "He's right. A predator wouldn't leave a kill wounded.",
+                    "Didascalie": "",
+                    "Start": 64564,
+                    "End": 64620
+                },
+                {
+                    "Reply": "They actually set a trap.",
+                    "Didascalie": "(amazed)",
+                    "Start": 65078,
+                    "End": 65107
+                },
+                {
+                    "Reply": "Dr. Grant was.",
+                    "Didascalie": "",
+                    "Start": 72313,
+                    "End": 72328
+                },
+                {
+                    "Reply": "We need to stick to the plan. Head for the coast.",
+                    "Didascalie": "",
+                    "Start": 75282,
+                    "End": 75334
+                },
+                {
+                    "Reply": "Sure.",
+                    "Didascalie": "",
+                    "Start": 75757,
+                    "End": 75763
+                },
+                {
+                    "Reply": "Where is it?",
+                    "Didascalie": "",
+                    "Start": 76511,
+                    "End": 76524
+                },
+                {
+                    "Reply": "Alan, I want to tell you that I'm so sorry about the...",
+                    "Didascalie": "",
+                    "Start": 79205,
+                    "End": 79263
+                },
+                {
+                    "Reply": "Please, okay? Just yell at me. Call me an idiot. An asshole. Stupid. Tell me I screwed up because I know I did.",
+                    "Didascalie": "",
+                    "Start": 79356,
+                    "End": 79472
+                },
+                {
+                    "Reply": "I thought if we could get a raptor back to the mainland, we could get serious money for it. Enough to fund the digging for 10 years. More. Whatever it took.",
+                    "Didascalie": "",
+                    "Start": 79519,
+                    "End": 79682
+                },
+                {
+                    "Reply": "You have to believe me. I did it with the best intentions.",
+                    "Didascalie": "",
+                    "Start": 79758,
+                    "End": 79819
+                },
+                {
+                    "Reply": "It won't hold!",
+                    "Didascalie": "",
+                    "Start": 84920,
+                    "End": 84935
+                },
+                {
+                    "Reply": "I CAN GET HIM!",
+                    "Didascalie": "",
+                    "Start": 87021,
+                    "End": 87036
+                },
+                {
+                    "Reply": "I KNOW THE CONSEQUENCES!",
+                    "Didascalie": "",
+                    "Start": 87066,
+                    "End": 87091
+                },
+                {
+                    "Reply": "ERIC! HOLD ON!",
+                    "Didascalie": "",
+                    "Start": 87815,
+                    "End": 87830
+                },
+                {
+                    "Reply": "Let go!",
+                    "Didascalie": "",
+                    "Start": 89487,
+                    "End": 89495
+                },
+                {
+                    "Reply": "Get back! Get back!",
+                    "Didascalie": "",
+                    "Start": 92431,
+                    "End": 92451
+                }
+            ]
+        },
+        {
+            "Character": "SHADOW",
+            "Replies": [
+                {
+                    "Reply": "falls across them. Billy looks up to see...",
+                    "Didascalie": "",
+                    "Start": 14112,
+                    "End": 14156
+                }
+            ]
+        },
+        {
+            "Character": "PAUL",
+            "Replies": [
+                {
+                    "Reply": "I guarantee it'll be worth your while.",
+                    "Didascalie": "",
+                    "Start": 17121,
+                    "End": 17160
+                },
+                {
+                    "Reply": "First off let me say as a dinosaur enthusiasts, Amanda and I have admired your work for years.",
+                    "Didascalie": "",
+                    "Start": 17577,
+                    "End": 17676
+                },
+                {
+                    "Reply": "Amanda and I, well, we just love the outdoors.",
+                    "Didascalie": "",
+                    "Start": 17874,
+                    "End": 17921
+                },
+                {
+                    "Reply": "Now, for our wedding anniversary this year we wanted to do something really special, something...",
+                    "Didascalie": "",
+                    "Start": 18169,
+                    "End": 18271
+                },
+                {
+                    "Reply": "We've arranged for a private airplane to take us flying over Isla Sorna. And we want you to be our guide.",
+                    "Didascalie": "",
+                    "Start": 18356,
+                    "End": 18466
+                },
+                {
+                    "Reply": "No, no, see Dr. Grant, you're the best. You've seen these animals in the flesh. No one else has come close to you.",
+                    "Didascalie": "",
+                    "Start": 18749,
+                    "End": 18868
+                },
+                {
+                    "Reply": "Well, I'm no aviation specialist. But I do know it's hell of a lot lower than anyone else.",
+                    "Didascalie": "",
+                    "Start": 19261,
+                    "End": 19356
+                },
+                {
+                    "Reply": "Let's just say that through my business --",
+                    "Didascalie": "",
+                    "Start": 19480,
+                    "End": 19523
+                },
+                {
+                    "Reply": "I can write all kinds of numbers on this check. Just tell me what exactly it would take.",
+                    "Didascalie": "",
+                    "Start": 20019,
+                    "End": 20112
+                },
+                {
+                    "Reply": "Dr. Grant if you'd just sit tight, we'll explain this all in a jiffy.",
+                    "Didascalie": "",
+                    "Start": 25001,
+                    "End": 25073
+                },
+                {
+                    "Reply": "Dr. Grant, are you alright? I'm sorry we had to be so...",
+                    "Didascalie": "",
+                    "Start": 26328,
+                    "End": 26387
+                },
+                {
+                    "Reply": "Establishing a perimeter. Making it safe.",
+                    "Didascalie": "",
+                    "Start": 26536,
+                    "End": 26578
+                },
+                {
+                    "Reply": "Amanda, Honey! Dr. Grant says it's a bad idea!",
+                    "Didascalie": "(yelling)",
+                    "Start": 26980,
+                    "End": 27032
+                },
+                {
+                    "Reply": "He says it's a bad idea!",
+                    "Didascalie": "(pointing broadly at Alan)",
+                    "Start": 27112,
+                    "End": 27140
+                },
+                {
+                    "Reply": "What was that?",
+                    "Didascalie": "(to Alan)",
+                    "Start": 27322,
+                    "End": 27340
+                },
+                {
+                    "Reply": "What's the problem? Can't you guys...?",
+                    "Didascalie": "",
+                    "Start": 27704,
+                    "End": 27743
+                },
+                {
+                    "Reply": "Don't worry, honey. We'll circle around and come back.",
+                    "Didascalie": "",
+                    "Start": 28082,
+                    "End": 28139
+                },
+                {
+                    "Reply": "What are you doing? That's Mr. Cooper!",
+                    "Didascalie": "",
+                    "Start": 29242,
+                    "End": 29281
+                },
+                {
+                    "Reply": "Right here!",
+                    "Didascalie": "",
+                    "Start": 30961,
+                    "End": 30973
+                },
+                {
+                    "Reply": "What is it? What's the matter?",
+                    "Didascalie": "",
+                    "Start": 31464,
+                    "End": 31495
+                },
+                {
+                    "Reply": "just about the greatest kid in the world.",
+                    "Didascalie": "",
+                    "Start": 40116,
+                    "End": 40158
+                },
+                {
+                    "Reply": "Her new boyfriend.",
+                    "Didascalie": "",
+                    "Start": 40559,
+                    "End": 40578
+                },
+                {
+                    "Reply": "We called everyone, did everything we could.",
+                    "Didascalie": "",
+                    "Start": 40764,
+                    "End": 40809
+                },
+                {
+                    "Reply": "We needed somebody who knew the lay of the land. Somebody who'd been to this island before.",
+                    "Didascalie": "",
+                    "Start": 41270,
+                    "End": 41364
+                },
+                {
+                    "Reply": "Sure you have. You wrote that book...",
+                    "Didascalie": "",
+                    "Start": 41441,
+                    "End": 41479
+                },
+                {
+                    "Reply": "I didn't know, there were two islands.",
+                    "Didascalie": "(low, to Udesky)",
+                    "Start": 41584,
+                    "End": 41626
+                },
+                {
+                    "Reply": "Eight weeks.",
+                    "Didascalie": "",
+                    "Start": 41910,
+                    "End": 41923
+                },
+                {
+                    "Reply": "Dr. Grant, we're not leaving without our son.",
+                    "Didascalie": "",
+                    "Start": 42458,
+                    "End": 42504
+                },
+                {
+                    "Reply": "What do we do?",
+                    "Didascalie": "",
+                    "Start": 42840,
+                    "End": 42855
+                },
+                {
+                    "Reply": "Excellent.",
+                    "Didascalie": "",
+                    "Start": 43060,
+                    "End": 43071
+                },
+                {
+                    "Reply": "Sorry.",
+                    "Didascalie": "",
+                    "Start": 43623,
+                    "End": 43630
+                },
+                {
+                    "Reply": "Twenty, twenty-fire pounds. I've been swimming at the Y.",
+                    "Didascalie": "",
+                    "Start": 43792,
+                    "End": 43851
+                },
+                {
+                    "Reply": "People change.",
+                    "Didascalie": "",
+                    "Start": 43895,
+                    "End": 43910
+                },
+                {
+                    "Reply": "You look good.",
+                    "Didascalie": "",
+                    "Start": 43966,
+                    "End": 43981
+                },
+                {
+                    "Reply": "Thirty-thousand, I think. Closer to the top.",
+                    "Didascalie": "",
+                    "Start": 44876,
+                    "End": 44921
+                },
+                {
+                    "Reply": "There is. I own a place called Kirby Paint and Title Plus. We're out in the Westgate Shopping Center in Enid, Oklahoma. The \"plus\" is for bathroom fixtures, fireplaces accessories, patio furniture. Stuff like that.",
+                    "Didascalie": "",
+                    "Start": 45146,
+                    "End": 45372
+                },
+                {
+                    "Reply": "Mortgaged everything we had to do it. Even the store. and if we make it off this island with my son, I swear, I'll make good on the money I owe you. I don't care if it takes me the rest of my life.",
+                    "Didascalie": "",
+                    "Start": 45498,
+                    "End": 45704
+                },
+                {
+                    "Reply": "Stop that. Dr. Grant says this is dangerous territory.",
+                    "Didascalie": "(loud whisper to Amanda)",
+                    "Start": 45964,
+                    "End": 46024
+                },
+                {
+                    "Reply": "No, Dr. Grant says...",
+                    "Didascalie": "",
+                    "Start": 46119,
+                    "End": 46141
+                },
+                {
+                    "Reply": "Well what's the use of hiring an expert if your not going to listen to him?",
+                    "Didascalie": "",
+                    "Start": 46211,
+                    "End": 46289
+                },
+                {
+                    "Reply": "Fine...and when the Tricyclatops comes after you, don't come crying to me.",
+                    "Didascalie": "",
+                    "Start": 46397,
+                    "End": 46474
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 46528,
+                    "End": 46534
+                },
+                {
+                    "Reply": "What did you say?",
+                    "Didascalie": "",
+                    "Start": 46569,
+                    "End": 46587
+                },
+                {
+                    "Reply": "What did you say!",
+                    "Didascalie": "",
+                    "Start": 46622,
+                    "End": 46640
+                },
+                {
+                    "Reply": "Young adult.",
+                    "Didascalie": "",
+                    "Start": 47108,
+                    "End": 47121
+                },
+                {
+                    "Reply": "See? He's okay. He's alive! Everything's going to be all right now.",
+                    "Didascalie": "",
+                    "Start": 49997,
+                    "End": 50067
+                },
+                {
+                    "Reply": "Amanda!",
+                    "Didascalie": "",
+                    "Start": 50796,
+                    "End": 50804
+                },
+                {
+                    "Reply": "I'm sorry Amanda. I am. And I'm sorry for the things I said about him.",
+                    "Didascalie": "",
+                    "Start": 51140,
+                    "End": 51213
+                },
+                {
+                    "Reply": "I know you liked Ben. I had no right to...",
+                    "Didascalie": "",
+                    "Start": 51251,
+                    "End": 51294
+                },
+                {
+                    "Reply": "Well that's good.",
+                    "Didascalie": "",
+                    "Start": 52921,
+                    "End": 52939
+                },
+                {
+                    "Reply": "I bet there's a very good chance Eric's in there. I'd bet my bottom dollar.",
+                    "Didascalie": "",
+                    "Start": 54228,
+                    "End": 54306
+                },
+                {
+                    "Reply": "Eric! Are you here?",
+                    "Didascalie": "(calling out)",
+                    "Start": 55617,
+                    "End": 55640
+                },
+                {
+                    "Reply": "Let's see. I've got about a dollar seventy-",
+                    "Didascalie": "",
+                    "Start": 56312,
+                    "End": 56356
+                },
+                {
+                    "Reply": "Amanda!",
+                    "Didascalie": "",
+                    "Start": 58480,
+                    "End": 58488
+                },
+                {
+                    "Reply": "In here!",
+                    "Didascalie": "",
+                    "Start": 58854,
+                    "End": 58863
+                },
+                {
+                    "Reply": "Udesky.",
+                    "Didascalie": "",
+                    "Start": 63559,
+                    "End": 63567
+                },
+                {
+                    "Reply": "It's not safe.",
+                    "Didascalie": "",
+                    "Start": 64501,
+                    "End": 64516
+                },
+                {
+                    "Reply": "to get us to come down.",
+                    "Didascalie": "",
+                    "Start": 65014,
+                    "End": 65038
+                },
+                {
+                    "Reply": "Where's Grant?",
+                    "Didascalie": "",
+                    "Start": 65414,
+                    "End": 65429
+                },
+                {
+                    "Reply": "I want to find them too, but we can't do a bit of good right now. For every scary thing we saw in the daylight, I'll bet there ten times more of 'em at night.",
+                    "Didascalie": "",
+                    "Start": 72037,
+                    "End": 72202
+                },
+                {
+                    "Reply": "Am I right?",
+                    "Didascalie": "(to Billy)",
+                    "Start": 72215,
+                    "End": 72230
+                },
+                {
+                    "Reply": "I thought you were an expert.",
+                    "Didascalie": "",
+                    "Start": 72270,
+                    "End": 72300
+                },
+                {
+                    "Reply": "I just want you know, Amanda. It's not your fault what happened.",
+                    "Didascalie": "",
+                    "Start": 73160,
+                    "End": 73227
+                },
+                {
+                    "Reply": "Eric has always been headstrong, and you throw Ben Hildebrand into the mix and well...",
+                    "Didascalie": "",
+                    "Start": 73299,
+                    "End": 73388
+                },
+                {
+                    "Reply": "Well damn it. I don't speak ill of the dead.",
+                    "Didascalie": "",
+                    "Start": 73425,
+                    "End": 73470
+                },
+                {
+                    "Reply": "That one time was just the bumper.",
+                    "Didascalie": "",
+                    "Start": 73873,
+                    "End": 73908
+                },
+                {
+                    "Reply": "I'm not sorry at all.",
+                    "Didascalie": "",
+                    "Start": 74251,
+                    "End": 74273
+                },
+                {
+                    "Reply": "He's probably has a better chance by the coast as it is. Figures that all the big dinosaurs would live in the center of the island.",
+                    "Didascalie": "(rationalizing)",
+                    "Start": 75582,
+                    "End": 75721
+                },
+                {
+                    "Reply": "Right?",
+                    "Didascalie": "(to Billy)",
+                    "Start": 75734,
+                    "End": 75744
+                },
+                {
+                    "Reply": "My phone.",
+                    "Didascalie": "",
+                    "Start": 76358,
+                    "End": 76368
+                },
+                {
+                    "Reply": "I don't know. I don't have it with me.",
+                    "Didascalie": "",
+                    "Start": 76536,
+                    "End": 76575
+                },
+                {
+                    "Reply": "The plane. I got a call on the plane, put it in my coat pocket, and...",
+                    "Didascalie": "",
+                    "Start": 76710,
+                    "End": 76783
+                },
+                {
+                    "Reply": "I loaned it to Nash. He must have had it on him when he...",
+                    "Didascalie": "",
+                    "Start": 76934,
+                    "End": 76995
+                },
+                {
+                    "Reply": "Never had a doubt. Never did. Us Kirby men, we stick around, huh?",
+                    "Didascalie": "",
+                    "Start": 78809,
+                    "End": 78877
+                },
+                {
+                    "Reply": "Honey, there's not enough spit in the world for that.",
+                    "Didascalie": "",
+                    "Start": 78996,
+                    "End": 79052
+                },
+                {
+                    "Reply": "Dr. Grant?",
+                    "Didascalie": "",
+                    "Start": 82333,
+                    "End": 82344
+                },
+                {
+                    "Reply": "We're not going anywhere, I promise.",
+                    "Didascalie": "",
+                    "Start": 82590,
+                    "End": 82627
+                },
+                {
+                    "Reply": "How 'bout if I...",
+                    "Didascalie": "",
+                    "Start": 83328,
+                    "End": 83346
+                },
+                {
+                    "Reply": "That's it Eric. Nice and easy...",
+                    "Didascalie": "(muttering to himself)",
+                    "Start": 83470,
+                    "End": 83506
+                },
+                {
+                    "Reply": "Eric!",
+                    "Didascalie": "",
+                    "Start": 84901,
+                    "End": 84907
+                },
+                {
+                    "Reply": "ERIC!",
+                    "Didascalie": "",
+                    "Start": 85246,
+                    "End": 85252
+                },
+                {
+                    "Reply": "I'm trying! That thing took him down this way!",
+                    "Didascalie": "(shouting back)",
+                    "Start": 85947,
+                    "End": 85999
+                },
+                {
+                    "Reply": "Hang on, Eric!",
+                    "Didascalie": "",
+                    "Start": 88051,
+                    "End": 88066
+                },
+                {
+                    "Reply": "It's no use, Dr. Grant. No use.",
+                    "Didascalie": "",
+                    "Start": 92862,
+                    "End": 92894
+                },
+                {
+                    "Reply": "My own kid was right in front of me and I didn't do a damn thing.",
+                    "Didascalie": "",
+                    "Start": 94305,
+                    "End": 94373
+                },
+                {
+                    "Reply": "I should have tried. It should have been me on that beach back there, not Billy.",
+                    "Didascalie": "",
+                    "Start": 94433,
+                    "End": 94516
+                },
+                {
+                    "Reply": "He could have died.",
+                    "Didascalie": "",
+                    "Start": 94630,
+                    "End": 94650
+                },
+                {
+                    "Reply": "I've got something. I think I've got something!",
+                    "Didascalie": "",
+                    "Start": 98052,
+                    "End": 98102
+                },
+                {
+                    "Reply": "Can't help but be a little offended.",
+                    "Didascalie": "",
+                    "Start": 99073,
+                    "End": 99110
+                },
+                {
+                    "Reply": "Whatever you do, don't call the U.S. Embassy.",
+                    "Didascalie": "",
+                    "Start": 99259,
+                    "End": 99305
+                },
+                {
+                    "Reply": "Stan.",
+                    "Didascalie": "(to Amanda)",
+                    "Start": 99544,
+                    "End": 99553
+                },
+                {
+                    "Reply": "Good thing I've been swimming, huh?",
+                    "Didascalie": "",
+                    "Start": 108072,
+                    "End": 108108
+                },
+                {
+                    "Reply": "You remember when we went fishing last summer? And I was trying to put the boat in and the trailer sank? And then the tow truck came and tried to pull it out, but it got dragged in? And the truck driver threatened to knock your Dad's lights out? So I said I was the governor and he believed me?",
+                    "Didascalie": "",
+                    "Start": 108448,
+                    "End": 108755
+                },
+                {
+                    "Reply": "That was a fun day.",
+                    "Didascalie": "",
+                    "Start": 108897,
+                    "End": 108917
+                },
+                {
+                    "Reply": "You mean it?",
+                    "Didascalie": "",
+                    "Start": 109012,
+                    "End": 109025
+                },
+                {
+                    "Reply": "Helicopters. Helicopters!",
+                    "Didascalie": "",
+                    "Start": 110799,
+                    "End": 110825
+                },
+                {
+                    "Reply": "Either that, or the government will firebomb it back to the Stone Age.",
+                    "Didascalie": "",
+                    "Start": 115757,
+                    "End": 115830
+                }
+            ]
+        },
+        {
+            "Character": "AMANDA",
+            "Replies": [
+                {
+                    "Reply": "We even have two seats reserved aboard the first commercial moon flight.",
+                    "Didascalie": "",
+                    "Start": 18041,
+                    "End": 18116
+                },
+                {
+                    "Reply": "...once-in-a-lifetime.",
+                    "Didascalie": "",
+                    "Start": 18321,
+                    "End": 18344
+                },
+                {
+                    "Reply": "You see, that's just the thing. Paul and I have special permission to fly low.",
+                    "Didascalie": "",
+                    "Start": 19146,
+                    "End": 19227
+                },
+                {
+                    "Reply": "From what I understand, it's pretty much whatever we want.",
+                    "Didascalie": "",
+                    "Start": 19370,
+                    "End": 19431
+                },
+                {
+                    "Reply": "Dr. Grant, you don't know how important it is for us to have you come along. It would make all the difference.",
+                    "Didascalie": "",
+                    "Start": 19661,
+                    "End": 19776
+                },
+                {
+                    "Reply": "It's going to be all right. Just...",
+                    "Didascalie": "",
+                    "Start": 25125,
+                    "End": 25161
+                },
+                {
+                    "Reply": "Eric! Eric! Are you there honey? Ben!",
+                    "Didascalie": "",
+                    "Start": 25513,
+                    "End": 25551
+                },
+                {
+                    "Reply": "ERRR-IIIC!",
+                    "Didascalie": "",
+                    "Start": 26848,
+                    "End": 26859
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "(on the bullhorn)",
+                    "Start": 27064,
+                    "End": 27073
+                },
+                {
+                    "Reply": "What's a bad idea?",
+                    "Didascalie": "(on the bullhorn)",
+                    "Start": 27172,
+                    "End": 27194
+                },
+                {
+                    "Reply": "We can't just...",
+                    "Didascalie": "",
+                    "Start": 28053,
+                    "End": 28070
+                },
+                {
+                    "Reply": "Oh, my God! Paul, my God!",
+                    "Didascalie": "",
+                    "Start": 29838,
+                    "End": 29864
+                },
+                {
+                    "Reply": "Our son is on this island. We need your help to find him.",
+                    "Didascalie": "",
+                    "Start": 39916,
+                    "End": 39976
+                },
+                {
+                    "Reply": "He's with a man named Ben Hildebrand.",
+                    "Didascalie": "",
+                    "Start": 40484,
+                    "End": 40522
+                },
+                {
+                    "Reply": "A friend. We were vacationing. Eric wanted to see the island and the dinosaurs, so Ben found a guy who would take them parasailing.",
+                    "Didascalie": "",
+                    "Start": 40592,
+                    "End": 40728
+                },
+                {
+                    "Reply": "Still, you have survived the dinosaurs before. You saved those kids.",
+                    "Didascalie": "",
+                    "Start": 41640,
+                    "End": 41711
+                },
+                {
+                    "Reply": "He's smart, Dr. Grant. And he knows so much about dinosaurs.",
+                    "Didascalie": "",
+                    "Start": 42091,
+                    "End": 42154
+                },
+                {
+                    "Reply": "Nothing you haven't seen before.",
+                    "Didascalie": "",
+                    "Start": 43644,
+                    "End": 43677
+                },
+                {
+                    "Reply": "How much weight have you lost?",
+                    "Didascalie": "",
+                    "Start": 43749,
+                    "End": 43780
+                },
+                {
+                    "Reply": "You hate to swim.",
+                    "Didascalie": "",
+                    "Start": 43865,
+                    "End": 43883
+                },
+                {
+                    "Reply": "So do you.",
+                    "Didascalie": "",
+                    "Start": 43995,
+                    "End": 44006
+                },
+                {
+                    "Reply": "Eric!",
+                    "Didascalie": "",
+                    "Start": 45901,
+                    "End": 45907
+                },
+                {
+                    "Reply": "Well we should split up or something. We can cover twice the area.",
+                    "Didascalie": "",
+                    "Start": 46038,
+                    "End": 46107
+                },
+                {
+                    "Reply": "Dr. Grant says this, Dr. Grant says that...",
+                    "Didascalie": "",
+                    "Start": 46155,
+                    "End": 46199
+                },
+                {
+                    "Reply": "Because \"Dr. Grant\" isn't looking for Eric.",
+                    "Didascalie": "",
+                    "Start": 46303,
+                    "End": 46347
+                },
+                {
+                    "Reply": "Oh, don't worry about that.",
+                    "Didascalie": "",
+                    "Start": 46488,
+                    "End": 46516
+                },
+                {
+                    "Reply": "Nothing.",
+                    "Didascalie": "",
+                    "Start": 46548,
+                    "End": 46557
+                },
+                {
+                    "Reply": "Nothing.",
+                    "Didascalie": "",
+                    "Start": 46601,
+                    "End": 46610
+                },
+                {
+                    "Reply": "Just drop it Paul!",
+                    "Didascalie": "",
+                    "Start": 46654,
+                    "End": 46673
+                },
+                {
+                    "Reply": "Eric...",
+                    "Didascalie": "",
+                    "Start": 47135,
+                    "End": 47143
+                },
+                {
+                    "Reply": "That's Ben's!",
+                    "Didascalie": "",
+                    "Start": 47282,
+                    "End": 47296
+                },
+                {
+                    "Reply": "It works!",
+                    "Didascalie": "",
+                    "Start": 47940,
+                    "End": 47950
+                },
+                {
+                    "Reply": "I filmed this the morning they left.",
+                    "Didascalie": "",
+                    "Start": 48208,
+                    "End": 48245
+                },
+                {
+                    "Reply": "No, it's...",
+                    "Didascalie": "",
+                    "Start": 51227,
+                    "End": 51239
+                },
+                {
+                    "Reply": "here somewhere. Our baby is all alone.",
+                    "Didascalie": "",
+                    "Start": 51373,
+                    "End": 51412
+                },
+                {
+                    "Reply": "I guess I was hoping that with Ben around, there'd be someone to keep him safe.",
+                    "Didascalie": "",
+                    "Start": 51492,
+                    "End": 51574
+                },
+                {
+                    "Reply": "Paul has no idea.",
+                    "Didascalie": "",
+                    "Start": 52775,
+                    "End": 52793
+                },
+                {
+                    "Reply": "Wait! Where's Billy?",
+                    "Didascalie": "",
+                    "Start": 53021,
+                    "End": 53042
+                },
+                {
+                    "Reply": "I thought we weren't suppose to yell.",
+                    "Didascalie": "(almost sotto)",
+                    "Start": 53144,
+                    "End": 53185
+                },
+                {
+                    "Reply": "Eric!",
+                    "Didascalie": "",
+                    "Start": 55654,
+                    "End": 55660
+                },
+                {
+                    "Reply": "What the hell.",
+                    "Didascalie": "",
+                    "Start": 55896,
+                    "End": 55911
+                },
+                {
+                    "Reply": "This is how you make dinosaurs?",
+                    "Didascalie": "",
+                    "Start": 57420,
+                    "End": 57452
+                },
+                {
+                    "Reply": "Push!",
+                    "Didascalie": "",
+                    "Start": 59913,
+                    "End": 59919
+                },
+                {
+                    "Reply": "He's this way.",
+                    "Didascalie": "(Listening)",
+                    "Start": 63593,
+                    "End": 63611
+                },
+                {
+                    "Reply": "We have to help him.",
+                    "Didascalie": "",
+                    "Start": 64530,
+                    "End": 64551
+                },
+                {
+                    "Reply": "He's not a kill, he's still alive.",
+                    "Didascalie": "",
+                    "Start": 64634,
+                    "End": 64669
+                },
+                {
+                    "Reply": "We can't just stop looking. Eric and Dr.",
+                    "Didascalie": "",
+                    "Start": 71951,
+                    "End": 71992
+                },
+                {
+                    "Reply": "Well Dr. Grant isn't here, so we're going to have to figure out what to do ourselves.",
+                    "Didascalie": "",
+                    "Start": 72342,
+                    "End": 72430
+                },
+                {
+                    "Reply": "So what do we do?",
+                    "Didascalie": "",
+                    "Start": 72515,
+                    "End": 72533
+                },
+                {
+                    "Reply": "Well what?",
+                    "Didascalie": "",
+                    "Start": 73402,
+                    "End": 73413
+                },
+                {
+                    "Reply": "This wouldn't happen if he was with you. I mean, you drive five miles below the speed limit. I totaled three cars in fives years.",
+                    "Didascalie": "",
+                    "Start": 73725,
+                    "End": 73861
+                },
+                {
+                    "Reply": "He would have been, safe. Completely, entirely, suffocatingly safe.",
+                    "Didascalie": "",
+                    "Start": 73922,
+                    "End": 73992
+                },
+                {
+                    "Reply": "I would have him to see more of the world than Enid, Oklahoma. I wanted to see more of the world than Enid, Oklahoma. And so yes, it's my fault that this happened. I'm sorry that you have to be here.",
+                    "Didascalie": "(beat)",
+                    "Start": 74001,
+                    "End": 74212
+                },
+                {
+                    "Reply": "What about Eric and Dr. Grant?",
+                    "Didascalie": "",
+                    "Start": 75348,
+                    "End": 75379
+                },
+                {
+                    "Reply": "What about Eric?",
+                    "Didascalie": "",
+                    "Start": 75486,
+                    "End": 75503
+                },
+                {
+                    "Reply": "You had the phone the whole time?",
+                    "Didascalie": "",
+                    "Start": 76464,
+                    "End": 76498
+                },
+                {
+                    "Reply": "When did you have it last?",
+                    "Didascalie": "",
+                    "Start": 76589,
+                    "End": 76616
+                },
+                {
+                    "Reply": "Think.",
+                    "Didascalie": "",
+                    "Start": 76659,
+                    "End": 76666
+                },
+                {
+                    "Reply": "What?...WHAT!?",
+                    "Didascalie": "",
+                    "Start": 76907,
+                    "End": 76922
+                },
+                {
+                    "Reply": "Sweetheart, you're okay.",
+                    "Didascalie": "(reassuring him)",
+                    "Start": 78697,
+                    "End": 78725
+                },
+                {
+                    "Reply": "You're okay.",
+                    "Didascalie": "(reassuring herself)",
+                    "Start": 78748,
+                    "End": 78764
+                },
+                {
+                    "Reply": "You're okay.",
+                    "Didascalie": "(disbelieving)",
+                    "Start": 78781,
+                    "End": 78797
+                },
+                {
+                    "Reply": "Then we go home.",
+                    "Didascalie": "",
+                    "Start": 81121,
+                    "End": 81138
+                },
+                {
+                    "Reply": "You okay?",
+                    "Didascalie": "",
+                    "Start": 81611,
+                    "End": 81621
+                },
+                {
+                    "Reply": "Do you think it goes all the way across?",
+                    "Didascalie": "",
+                    "Start": 81807,
+                    "End": 81848
+                },
+                {
+                    "Reply": "Eric, its okay. You'll be right behind me.",
+                    "Didascalie": "",
+                    "Start": 82535,
+                    "End": 82578
+                },
+                {
+                    "Reply": "Okay! Come on, Eric!",
+                    "Didascalie": "(calling out)",
+                    "Start": 83208,
+                    "End": 83232
+                },
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 84196,
+                    "End": 84208
+                },
+                {
+                    "Reply": "Paul! Where is he? Can you see him?",
+                    "Didascalie": "(shouting)",
+                    "Start": 85880,
+                    "End": 85919
+                },
+                {
+                    "Reply": "You couldn't have made that jump.",
+                    "Didascalie": "",
+                    "Start": 94387,
+                    "End": 94421
+                },
+                {
+                    "Reply": "How would you have helped Eric?",
+                    "Didascalie": "",
+                    "Start": 94530,
+                    "End": 94562
+                },
+                {
+                    "Reply": "He needs you, Paul. He needs us.",
+                    "Didascalie": "(he can't answer)",
+                    "Start": 94582,
+                    "End": 94618
+                },
+                {
+                    "Reply": "But he didn't. And neither did you. And I'm glad about that.",
+                    "Didascalie": "",
+                    "Start": 94664,
+                    "End": 94727
+                },
+                {
+                    "Reply": "I've got it! I've got it!",
+                    "Didascalie": "",
+                    "Start": 98314,
+                    "End": 98340
+                },
+                {
+                    "Reply": "I wouldn't trust Stan with a snowball in a blizzard.",
+                    "Didascalie": "",
+                    "Start": 99567,
+                    "End": 99622
+                },
+                {
+                    "Reply": "Who are you calling?",
+                    "Didascalie": "",
+                    "Start": 100272,
+                    "End": 100293
+                },
+                {
+                    "Reply": "PAUL!",
+                    "Didascalie": "",
+                    "Start": 104361,
+                    "End": 104367
+                },
+                {
+                    "Reply": "Just hold on.",
+                    "Didascalie": "",
+                    "Start": 105045,
+                    "End": 105059
+                },
+                {
+                    "Reply": "I know. I know. I want to look for him too.",
+                    "Didascalie": "",
+                    "Start": 107269,
+                    "End": 107313
+                },
+                {
+                    "Reply": "Let me tell you a few things about you Dad, okay? He's very very very clever, very very brave, and he loves you ever very much.",
+                    "Didascalie": "",
+                    "Start": 107472,
+                    "End": 107604
+                },
+                {
+                    "Reply": "Okay. He loves us very very much. And I know that right now more than anything, your Dad would want to know that we're safe. Okay?",
+                    "Didascalie": "",
+                    "Start": 107648,
+                    "End": 107783
+                },
+                {
+                    "Reply": "We're going to get out of this, and everything's going to be all right, I promise.",
+                    "Didascalie": "",
+                    "Start": 107819,
+                    "End": 107904
+                },
+                {
+                    "Reply": "We should try fishing again.",
+                    "Didascalie": "",
+                    "Start": 108971,
+                    "End": 109000
+                },
+                {
+                    "Reply": "I do. It's worth another shot. And who knows?",
+                    "Didascalie": "",
+                    "Start": 109039,
+                    "End": 109085
+                },
+                {
+                    "Reply": "You have to go back! We can't leave him!",
+                    "Didascalie": "(to the pilot)",
+                    "Start": 113029,
+                    "End": 113073
+                },
+                {
+                    "Reply": "They're not following.",
+                    "Didascalie": "",
+                    "Start": 114016,
+                    "End": 114039
+                },
+                {
+                    "Reply": "I would completely support that.",
+                    "Didascalie": "",
+                    "Start": 115844,
+                    "End": 115877
+                }
+            ]
+        },
+        {
+            "Character": "PUAL",
+            "Replies": [
+                {
+                    "Reply": "And of course, we're prepared to make a sizeable contribution to your research here.",
+                    "Didascalie": "",
+                    "Start": 19873,
+                    "End": 19960
+                }
+            ]
+        },
+        {
+            "Character": "COOPER",
+            "Replies": [
+                {
+                    "Reply": "Through our church.",
+                    "Didascalie": "",
+                    "Start": 21865,
+                    "End": 21885
+                },
+                {
+                    "Reply": "No, I thought I'd keep it to myself.",
+                    "Didascalie": "(yelling back)",
+                    "Start": 23875,
+                    "End": 23915
+                },
+                {
+                    "Reply": "emerges from the jungle. He stands in the middle of the runway.",
+                    "Didascalie": "",
+                    "Start": 28743,
+                    "End": 28807
+                },
+                {
+                    "Reply": "Come on, Nash. Slow down, buddy.",
+                    "Didascalie": "",
+                    "Start": 28900,
+                    "End": 28933
+                }
+            ]
+        },
+        {
+            "Character": "A RAPTOR",
+            "Replies": [
+                {
+                    "Reply": "sits besides him. The dinosaur eyes him curiously, then opens his mouth...",
+                    "Didascalie": "",
+                    "Start": 22225,
+                    "End": 22301
+                }
+            ]
+        },
+        {
+            "Character": "RAPTOR",
+            "Replies": [
+                {
+                    "Reply": "Alan.",
+                    "Didascalie": "",
+                    "Start": 22315,
+                    "End": 22321
+                }
+            ]
+        },
+        {
+            "Character": "ISLA SORNA",
+            "Replies": [
+                {
+                    "Reply": "rising majestically out of the water.",
+                    "Didascalie": "",
+                    "Start": 22642,
+                    "End": 22680
+                }
+            ]
+        },
+        {
+            "Character": "RADIO VOICE",
+            "Replies": [
+                {
+                    "Reply": "Unidentified aircraft approaching Isla Sorna, this is San Juan approach. You are flying in restricted airspace. Immediately turn to the coordinates two-zero-zero. I repeat redirect to...",
+                    "Didascalie": "(Spanish accent)",
+                    "Start": 23174,
+                    "End": 23372
+                }
+            ]
+        },
+        {
+            "Character": "NASH",
+            "Replies": [
+                {
+                    "Reply": "Are we on?",
+                    "Didascalie": "",
+                    "Start": 24560,
+                    "End": 24571
+                },
+                {
+                    "Reply": "We're going!",
+                    "Didascalie": "(yelling back)",
+                    "Start": 28374,
+                    "End": 28390
+                },
+                {
+                    "Reply": "Coop, you know I can't do it pal.",
+                    "Didascalie": "",
+                    "Start": 29051,
+                    "End": 29085
+                },
+                {
+                    "Reply": "Who's got the sat-phone?",
+                    "Didascalie": "",
+                    "Start": 30924,
+                    "End": 30949
+                },
+                {
+                    "Reply": "Shit!",
+                    "Didascalie": "",
+                    "Start": 31446,
+                    "End": 31452
+                }
+            ]
+        },
+        {
+            "Character": "A SHADOW",
+            "Replies": [
+                {
+                    "Reply": "falls over the injured mercenary. Then with brutal speed, an ENORMOUS BEAST seizes him in its massive jaws and lifts him into the air.",
+                    "Didascalie": "",
+                    "Start": 29407,
+                    "End": 29544
+                }
+            ]
+        },
+        {
+            "Character": "RECORDED VOICE",
+            "Replies": [
+                {
+                    "Reply": "We're sorry. All circuits are busy. Please try your call again later...",
+                    "Didascalie": "",
+                    "Start": 31360,
+                    "End": 31434
+                }
+            ]
+        },
+        {
+            "Character": "CLAMPS DOWN",
+            "Replies": [
+                {
+                    "Reply": "on Nash's legs.",
+                    "Didascalie": "",
+                    "Start": 32421,
+                    "End": 32437
+                }
+            ]
+        },
+        {
+            "Character": "HEAVIER TREES",
+            "Replies": [
+                {
+                    "Reply": "and leads the group into it.",
+                    "Didascalie": "",
+                    "Start": 35585,
+                    "End": 35614
+                }
+            ]
+        },
+        {
+            "Character": "TYRANNOSAURUS",
+            "Replies": [
+                {
+                    "Reply": "rises up behind the carcass. It was feeding, its mouth mottled with blood and carrion.",
+                    "Didascalie": "",
+                    "Start": 36287,
+                    "End": 36375
+                }
+            ]
+        },
+        {
+            "Character": "CAT-LIKE MOVEMENTS",
+            "Replies": [
+                {
+                    "Reply": "on the high ridge. To fast to see what it was. But too ominous to dismiss.",
+                    "Didascalie": "",
+                    "Start": 54985,
+                    "End": 55061
+                }
+            ]
+        },
+        {
+            "Character": "A CAVERNOUS HATCHING FACILITY",
+            "Replies": [
+                {
+                    "Reply": "filled with much of the same equipment we recognized from the first island, although the sheer size of this place dwarfs any of the facilities seen previously.",
+                    "Didascalie": "",
+                    "Start": 56876,
+                    "End": 57038
+                }
+            ]
+        },
+        {
+            "Character": "A GIGANTIC MANIFIED RAPTOR HEAD",
+            "Replies": [
+                {
+                    "Reply": "floating in the one tank.",
+                    "Didascalie": "",
+                    "Start": 58107,
+                    "End": 58133
+                }
+            ]
+        },
+        {
+            "Character": "AN ACTUAL RAPTOR",
+            "Replies": [
+                {
+                    "Reply": "lunges at her form behind the tank. She SCREAMS.",
+                    "Didascalie": "",
+                    "Start": 58336,
+                    "End": 58385
+                }
+            ]
+        },
+        {
+            "Character": "A PACK OF RAPTORS",
+            "Replies": [
+                {
+                    "Reply": "emerges from the jungles, coming their way.",
+                    "Didascalie": "",
+                    "Start": 61298,
+                    "End": 61342
+                }
+            ]
+        },
+        {
+            "Character": "HEADED OFF",
+            "Replies": [
+                {
+                    "Reply": "by a raptor. He turns to the other way, but finds  THERE ARE MORE RAPTORS.",
+                    "Didascalie": "",
+                    "Start": 63086,
+                    "End": 63162
+                }
+            ]
+        },
+        {
+            "Character": "ALL FOUR RAPTORS",
+            "Replies": [
+                {
+                    "Reply": "lead out from their hiding places. They almost catch her as Billy and Paul pull her back up on the limb  The raptors stare up at them, angry their plan didn't work.",
+                    "Didascalie": "",
+                    "Start": 64788,
+                    "End": 64955
+                }
+            ]
+        },
+        {
+            "Character": "LOOKING DOWN",
+            "Replies": [
+                {
+                    "Reply": "The entire pack is now standing still, watching him. In the center, the Alpha Male lets out a sort of BARK. Responding to the cry, the other raptors CALL BACK.",
+                    "Didascalie": "",
+                    "Start": 65668,
+                    "End": 65830
+                }
+            ]
+        },
+        {
+            "Character": "A BROKEN RAPTOR EGG",
+            "Replies": [
+                {
+                    "Reply": "inside, the white and green yolk still dripping from the pieces of the shell. There's another intact egg beside it.",
+                    "Didascalie": "",
+                    "Start": 66489,
+                    "End": 66606
+                }
+            ]
+        },
+        {
+            "Character": "FIVE CANISTERS",
+            "Replies": [
+                {
+                    "Reply": "that land in the area, creating a thick cloud. It's not just smoke though something far more caustic.",
+                    "Didascalie": "",
+                    "Start": 67690,
+                    "End": 67793
+                }
+            ]
+        },
+        {
+            "Character": "VOICE",
+            "Replies": [
+                {
+                    "Reply": "Come on! They'll be back!",
+                    "Didascalie": "",
+                    "Start": 68379,
+                    "End": 68405
+                }
+            ]
+        },
+        {
+            "Character": "A SMALL DIRTY HAND",
+            "Replies": [
+                {
+                    "Reply": "grabs his, pulling him along.",
+                    "Didascalie": "",
+                    "Start": 68528,
+                    "End": 68558
+                }
+            ]
+        },
+        {
+            "Character": "A SAIL",
+            "Replies": [
+                {
+                    "Reply": "moving through the low trees. We recognize it as the back of a spinosaurus. We might think it's any random spinosaurus, except for the RINGING coming from somewhere inside it.",
+                    "Didascalie": "",
+                    "Start": 77160,
+                    "End": 77338
+                }
+            ]
+        },
+        {
+            "Character": "PAUL AND AMANDA",
+            "Replies": [
+                {
+                    "Reply": "are no more than 20 yards away, also hiding. An involuntary reflex, Eric calls out...",
+                    "Didascalie": "",
+                    "Start": 77749,
+                    "End": 77836
+                }
+            ]
+        },
+        {
+            "Character": "SIX PTERANODON HATCHLINGS",
+            "Replies": [
+                {
+                    "Reply": "closing in on him with sharp-edged beaks.",
+                    "Didascalie": "",
+                    "Start": 86597,
+                    "End": 86639
+                }
+            ]
+        },
+        {
+            "Character": "A SECOND PTERANODON",
+            "Replies": [
+                {
+                    "Reply": "CRASH LANDS on the catwalk enclosure about them -- right next to a gaping hole in the mesh. The catwalk GROANS with the extra weight.",
+                    "Didascalie": "",
+                    "Start": 88299,
+                    "End": 88435
+                }
+            ]
+        },
+        {
+            "Character": "PTERANODON",
+            "Replies": [
+                {
+                    "Reply": "CRASHES into the mesh. It tears at the steel, actually ripping it in one place.",
+                    "Didascalie": "",
+                    "Start": 93377,
+                    "End": 93458
+                }
+            ]
+        },
+        {
+            "Character": "A SHIMMERING WAVE OF SILVER",
+            "Replies": [
+                {
+                    "Reply": "passes beneath the boat.",
+                    "Didascalie": "",
+                    "Start": 99815,
+                    "End": 99840
+                }
+            ]
+        },
+        {
+            "Character": "INTERCUT",
+            "Replies": [
+                {
+                    "Reply": "Recognizing who it must be...",
+                    "Didascalie": "",
+                    "Start": 100627,
+                    "End": 100657
+                }
+            ]
+        },
+        {
+            "Character": "GIGANTIC FIN",
+            "Replies": [
+                {
+                    "Reply": "rises from the water just fifty yards from the barge. It's headed right to them and closing fast.",
+                    "Didascalie": "",
+                    "Start": 101077,
+                    "End": 101176
+                }
+            ]
+        },
+        {
+            "Character": "SPINOSAURUS",
+            "Replies": [
+                {
+                    "Reply": "rises from the water, towering over the barge. As lightning FLASHES and thunder CRACKS, the dinosaur lets out an ear-",
+                    "Didascalie": "",
+                    "Start": 101688,
+                    "End": 101807
+                }
+            ]
+        },
+        {
+            "Character": "RIPS OFF",
+            "Replies": [
+                {
+                    "Reply": "the entire wheelhouse.",
+                    "Didascalie": "",
+                    "Start": 101933,
+                    "End": 101956
+                }
+            ]
+        },
+        {
+            "Character": "A VOICE",
+            "Replies": [
+                {
+                    "Reply": "Listen to your mother.",
+                    "Didascalie": "",
+                    "Start": 107919,
+                    "End": 107942
+                }
+            ]
+        },
+        {
+            "Character": "A PTERANODON",
+            "Replies": [
+                {
+                    "Reply": "flies up out of the trees, the first of twenty. It's a gorgeous and terrifying sight.",
+                    "Didascalie": "",
+                    "Start": 112041,
+                    "End": 112128
+                }
+            ]
+        }
+    ]
+}

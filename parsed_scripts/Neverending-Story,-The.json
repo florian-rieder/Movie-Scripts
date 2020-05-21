@@ -1,1 +1,87 @@
-{"Title": ["Neverending Story, The", "   "], "Author": ["\u00a0\u00a0Michael Ende\u00a0\u00a0Wolfgang Petersen\u00a0\u00a0Herman Weigel"], "Genre": ["\u00a0\u00a0Fantasy\u00a0\u00a0Adventure\u00a0\u00a0Family"], "Characters": [{"Character": "FADE", "Replies": [{"Reply": "the CREDITS PLAY OVER a dazzling display of some  great clouded storm. THE NOTHING. Great masses of clouds swirl and churn and collide on the screen. ", "Didascalie": "", "Start": 365, "End": 555}, {"Reply": "IN:  SPLIT VIEW: of Atreyu sitting on a log crying as he looks at the spot where Artax had once been, and of Bastian looking up from the book. Both have tears streaming down their face, Bastian blows his nose on his handkerchief. Bastian turns the page. ", "Didascalie": "", "Start": 26676, "End": 26965}]}, {"Character": "END", "Replies": [{"Reply": "that creature that saved him? Bastian sits back up and starts reading again.   Bastian: After days and nights of unconsciousness, Atreyu slowly opened his eyes and found himself in strange surroundings. He was clean and his wounds were dressed. ", "Didascalie": "", "Start": 32669, "End": 33001}]}, {"Character": "VIEW-", "Replies": [{"Reply": "The Auryn starts glowing and the fragments move, behind them standing in all its glory is the ivory tower. ", "Didascalie": "", "Start": 61411, "End": 61539}, {"Reply": "Atreyu walks up the stairs that lead to the Empress's room. The chamber door begins to open. He pauses and looks back at Falkor. ", "Didascalie": "", "Start": 62169, "End": 62319}, {"Reply": "the courtyard is being taken away by the Nothing. Because of Bastians new found disbelief the Nothing has grown stronger and is now attacking the last remaining part of Fantasia. ", "Didascalie": "", "Start": 70087, "End": 70294}]}, {"Character": "FADE TO-", "Replies": [{"Reply": "View of Atreyu on a lying on a beach. Atreyu wakes with a start, and discovers that the Auryn is gone. He stands up and looks at the sky, searching frantically for his friend Falkor, but Falkor is not there.   Atreyu: Falkor !Falkor !Where are you? Falkor ! ", "Didascalie": "", "Start": 51680, "End": 52025}]}, {"Character": "VIEW", "Replies": [{"Reply": "Falkor flies through a belt of fragments still remaining after the Nothing. The sky is\u00a0 graveyard of left over pieces of Fantasia. Atreyu wakes from his exhaustion and looks around with a heavy heart. ", "Didascalie": "", "Start": 60237, "End": 60473}]}]}
+{
+    "Title": [
+        "Neverending Story, The",
+        "   "
+    ],
+    "Author": [
+        "\u00a0\u00a0Michael Ende\u00a0\u00a0Wolfgang Petersen\u00a0\u00a0Herman Weigel"
+    ],
+    "Genre": [
+        "\u00a0\u00a0Fantasy\u00a0\u00a0Adventure\u00a0\u00a0Family"
+    ],
+    "Characters": [
+        {
+            "Character": "FADE",
+            "Replies": [
+                {
+                    "Reply": "the CREDITS PLAY OVER a dazzling display of some  great clouded storm. THE NOTHING. Great masses of clouds swirl and churn and collide on the screen.",
+                    "Didascalie": "",
+                    "Start": 365,
+                    "End": 555
+                },
+                {
+                    "Reply": "IN:  SPLIT VIEW: of Atreyu sitting on a log crying as he looks at the spot where Artax had once been, and of Bastian looking up from the book. Both have tears streaming down their face, Bastian blows his nose on his handkerchief. Bastian turns the page.",
+                    "Didascalie": "",
+                    "Start": 26676,
+                    "End": 26965
+                }
+            ]
+        },
+        {
+            "Character": "END",
+            "Replies": [
+                {
+                    "Reply": "that creature that saved him? Bastian sits back up and starts reading again.   Bastian: After days and nights of unconsciousness, Atreyu slowly opened his eyes and found himself in strange surroundings. He was clean and his wounds were dressed.",
+                    "Didascalie": "",
+                    "Start": 32669,
+                    "End": 33001
+                }
+            ]
+        },
+        {
+            "Character": "VIEW-",
+            "Replies": [
+                {
+                    "Reply": "The Auryn starts glowing and the fragments move, behind them standing in all its glory is the ivory tower.",
+                    "Didascalie": "",
+                    "Start": 61411,
+                    "End": 61539
+                },
+                {
+                    "Reply": "Atreyu walks up the stairs that lead to the Empress's room. The chamber door begins to open. He pauses and looks back at Falkor.",
+                    "Didascalie": "",
+                    "Start": 62169,
+                    "End": 62319
+                },
+                {
+                    "Reply": "the courtyard is being taken away by the Nothing. Because of Bastians new found disbelief the Nothing has grown stronger and is now attacking the last remaining part of Fantasia.",
+                    "Didascalie": "",
+                    "Start": 70087,
+                    "End": 70294
+                }
+            ]
+        },
+        {
+            "Character": "FADE TO-",
+            "Replies": [
+                {
+                    "Reply": "View of Atreyu on a lying on a beach. Atreyu wakes with a start, and discovers that the Auryn is gone. He stands up and looks at the sky, searching frantically for his friend Falkor, but Falkor is not there.   Atreyu: Falkor !Falkor !Where are you? Falkor !",
+                    "Didascalie": "",
+                    "Start": 51680,
+                    "End": 52025
+                }
+            ]
+        },
+        {
+            "Character": "VIEW",
+            "Replies": [
+                {
+                    "Reply": "Falkor flies through a belt of fragments still remaining after the Nothing. The sky is\u00a0 graveyard of left over pieces of Fantasia. Atreyu wakes from his exhaustion and looks around with a heavy heart.",
+                    "Didascalie": "",
+                    "Start": 60237,
+                    "End": 60473
+                }
+            ]
+        }
+    ]
+}

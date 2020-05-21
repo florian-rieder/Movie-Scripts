@@ -1,1 +1,47 @@
-{"Title": ["White Ribbon, The", "   "], "Author": ["\u00a0\u00a0Michael Haneke"], "Genre": ["\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery"], "Characters": [{"Character": "CORRIDOR", "Replies": [{"Reply": "and almost bumps into a group of pupils that have assembled there. ", "Didascalie": "", "Start": 144992, "End": 145059}]}, {"Character": "COURTYARD", "Replies": [{"Reply": "Coming from   the   manor,   the   steward   is   walking   over briskly. ", "Didascalie": "", "Start": 151286, "End": 151360}]}, {"Character": "SCREAMS OF PAIN", "Replies": [{"Reply": "After a short hesitation, the mother runs upstairs after her husband, and we now hear her trying in vain trying to control her husband. ", "Didascalie": "", "Start": 154555, "End": 154691}]}]}
+{
+    "Title": [
+        "White Ribbon, The",
+        "   "
+    ],
+    "Author": [
+        "\u00a0\u00a0Michael Haneke"
+    ],
+    "Genre": [
+        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+    ],
+    "Characters": [
+        {
+            "Character": "CORRIDOR",
+            "Replies": [
+                {
+                    "Reply": "and almost bumps into a group of pupils that have assembled there.",
+                    "Didascalie": "",
+                    "Start": 144992,
+                    "End": 145059
+                }
+            ]
+        },
+        {
+            "Character": "COURTYARD",
+            "Replies": [
+                {
+                    "Reply": "Coming from   the   manor,   the   steward   is   walking   over briskly.",
+                    "Didascalie": "",
+                    "Start": 151286,
+                    "End": 151360
+                }
+            ]
+        },
+        {
+            "Character": "SCREAMS OF PAIN",
+            "Replies": [
+                {
+                    "Reply": "After a short hesitation, the mother runs upstairs after her husband, and we now hear her trying in vain trying to control her husband.",
+                    "Didascalie": "",
+                    "Start": 154555,
+                    "End": 154691
+                }
+            ]
+        }
+    ]
+}

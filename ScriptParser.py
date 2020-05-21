@@ -6,9 +6,32 @@ from Character import Character
 class ScriptParser():
 	"""Parser for movie scripts. """
 
+	minimum_replies = 1 # number of replies under which a character will not be kept in the results
+
+	character_blacklist = [
+		' - ', ' -- ', '...', 
+		'LATER', 'LATE', 'FADE OUT', 'FADE IN', 'CUT TO', 'EXT.', 'EXTERIOR',
+		'INT.', 'INTERIOR', 'INSIDE', 'OUTSIDE', 'ANGLE ON', 'MUSIC ON', 'MUSIC UP', 
+		'CLOSE ON', 'THE END', 'CUT FROM', 'CAMERA', 'LENS', 'MINIATURE', 'ANGLE', 'POV', 
+		'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP', 'END '
+		'DAY', 'NIGHT', 'MORNING', 'WEEK', 'THE ', 'SCENE', 'ACTION', 'CONTINUED', 'CHANGED', 'HORIZON', 
+		'ENDS', 'MONTAGE', 'FROM', 'WIDE-SHOT', 'SHOT', 'EXPLOSION', 'THEY', 'DISSOLVE',
+		'CONTINUED', 'ROOM', 'UP AHEAD', 'SHOOTING SCRIPT', 'NEARBY', 'CUTS', 'SEES', 'INSERT'
+		' ON '
+	]
+
+	reply_blacklist = [
+		'LATER', 'FADE OUT', 'FADE IN', 'CUT TO', 'EXT.', 'EXTERIOR', 
+		'INT.', 'INTERIOR', 'INSIDE', 'OUTSIDE', 'ANGLE ON', 'MUSIC ON', 'MUSIC UP', 
+		'CLOSE ON', 'THE END', 'CUT FROM', 'CAMERA', 'LENS', 'MINIATURE', 'ANGLE', 'POV', 'DISSOLVE', 
+		'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP'
+	]
+
 	def parse(self, text):
-		"""This method takes a movie script (str) as an input, and returns a list
-		of all the characters in this movie script (Character class)."""
+		"""
+		This method takes a movie script (str) as an input, and returns a list
+		of all the characters in this movie script (Character class).
+		"""
 		characters = self._get_characters(text)
 
 		# si moins de 5 personnages cas spécial
@@ -26,13 +49,15 @@ class ScriptParser():
 		return characters
 
 	def _get_characters(self, text):
-		"""Input: correctly formatted movie script (str)
+		"""
+		Input: correctly formatted movie script (str)
 		Output: list of characters extracted from the script
 		"""
 		# group 1: character name, group 2: didascalie
 		header_regex = re.compile(r"(?m)^[ \t]*([A-Z][A-Z -]+?)(\([\w'\.]+\))?$")
 		# group 1: didascalie, group 2: reply text, group 3: final punctuation mark
 		reply_regex = re.compile(r"(?m)^\s*(\([\w][\w '.,\n]+?\))?([\w\s,\.:;!?'\"-]+?(([!?.\"-]|(\.{3} ))\n))")
+
 		characters = dict()
 		
 		matches = list(header_regex.finditer(text))
@@ -50,11 +75,9 @@ class ScriptParser():
 				segment = text[m.end():]
 
 			# clean segment
-			reply_matches = list(reply_regex.finditer(segment))
-			
 			replies = list()
-			
-			# for all matches
+
+			reply_matches = list(reply_regex.finditer(segment))
 			for idx, rm in enumerate(reply_matches):
 				
 				# reject matches after the first if they don't have a didascalie
@@ -64,10 +87,18 @@ class ScriptParser():
 				if idx > 0 and not rm.group(1):
 					break
 				
-				didascalie = self._clean_padding((char_didascalie + " " + rm.group(1) if rm.group(1) else "").strip())
+				# clean reply and didascalie
+				didascalie = self._clean_padding((char_didascalie + " " + rm.group(1) if rm.group(1) else ""))
 				reply_text = self._clean_padding(rm.group(2))
+
+				# compute start and end positions of the reply 
+				reply_start = m.end() + rm.start(2)
+				reply_end = m.end() + rm.end(2)
 				
-				reply = Reply(reply_text, didascalie, m.end() + rm.start(2), m.end() + rm.end(2))
+				# store in dataclass
+				reply = Reply(reply_text, didascalie, reply_start, reply_end)
+
+				# store dataclass instance in the list of replies for this character
 				replies.append(reply)
 				
 			# store in dataclasses
@@ -83,39 +114,25 @@ class ScriptParser():
 		return characters_list
     
 	def get_title(self, text):
+		"""Finds the title of the movie"""
 		title = re.findall(r"(?<=\t).+(?=\s+Writers :)", text)
 		return title
 
 	def get_author(self, text):
+		"""Finds a list of the movie's authors"""
 		auteurs = re.findall(r"(?<=Writers : ).+(?=\n)", text)
 		return auteurs
 
 	def get_genre(self, text):
+		"""Finds the list of the movie's genres"""
 		genre = re.findall(r"(?<=Genres : ).+(?=\n)", text)
 		return genre
 
 	def _clean_padding(self, segment):
-		return " ".join([l.strip() for l in segment.split("\n")])
+		"""Removes all extra padding and line breaks from a string. Returns a correctly formatted string"""
+		return " ".join([l.strip() for l in segment.split("\n")]).strip()
 
 	def _clean_character_list(self, charlist):
-		bad_words_char = [
-			' - ', ' -- ', '...', 
-			'LATER', 'LATE', 'FADE OUT', 'FADE IN', 'CUT TO', 'EXT.', 'EXTERIOR',
-			'INT.', 'INTERIOR', 'INSIDE', 'OUTSIDE', 'ANGLE ON', 'MUSIC ON', 'MUSIC UP', 
-			'CLOSE ON', 'THE END', 'CUT FROM', 'CAMERA', 'LENS', 'MINIATURE', 'ANGLE', 'POV', 
-			'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP', 'END '
-			'DAY', 'NIGHT', 'MORNING', 'WEEK', 'THE ', 'SCENE', 'ACTION', 'CONTINUED', 'CHANGED', 'HORIZON', 
-			'ENDS', 'MONTAGE', 'FROM', 'WIDE-SHOT', 'SHOT', 'EXPLOSION', 'THEY', 'DISSOLVE',
-			'CONTINUED', 'ROOM', 'UP AHEAD', 'SHOOTING SCRIPT', 'NEARBY'
-		]
-
-		bad_words_reply = [
-			'LATER', 'LATE', 'FADE OUT', 'FADE IN', 'CUT TO', 'EXT.', 'EXTERIOR', 
-			'INT.', 'INTERIOR', 'INSIDE', 'OUTSIDE', 'ANGLE ON', 'MUSIC ON', 'MUSIC UP', 
-			'CLOSE ON', 'THE END', 'CUT FROM', 'CAMERA', 'LENS', 'MINIATURE', 'ANGLE', 'POV', 'DISSOLVE', 
-			'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP'
-		]
-
 		# for each character, remove replies that contain bad words
 		clean_charlist = list()
 
@@ -128,12 +145,11 @@ class ScriptParser():
 				reply = r.Reply
 				keep_reply = True
 
-				# remove reply if any word in bad_words is contained in the reply (case sensitive)
-				if any([w in reply for w in bad_words_reply]):
-					keep_reply = False
-				
-				# remove replies that contain a page number (numbers followed by a dot)
-				if re.search(r"\d+\.", reply):
+				# check if this reply satisfies all the conditions to be kept
+				if (
+					any([w in reply for w in self.reply_blacklist]) or 	# remove reply if any bad word is contained in it (case sensitive)
+					re.search(r"\d+\.", reply) 							# remove replies that contain a page number (numbers followed by a dot)
+				):
 					keep_reply = False
 				
 				if keep_reply:
@@ -142,23 +158,18 @@ class ScriptParser():
 			# overwrite character's replies list
 			char.Replies = clean_replies
 
-			# remove characters that have no replies
-			if len(char.Replies) == 0:
-				keep_char = False
-
-			# remove characters which have bad words in them indicating they're not characters
-			if any([w in charname for w in bad_words_char]):
-				keep_char = False
-
-			# remove characters whose name contains too many spaces
-			if charname.count(" ") > 5:
-				keep_char = False
-
-			# remove characters whose name starts and ends with parenthesis or ends with a dot
-			if (charname.startswith('(') and charname.endswith(')')):
-				keep_char = False
-			
-			if charname.endswith(".") or charname.endswith(" -") or charname.startswith("ON ") or charname.startswith("BACK "):
+			# check if this character satisfies all the conditions to be kept
+			if (
+				len(char.Replies) < self.minimum_replies or					# remove characters that have less than the minimum number of replies
+				any([w in charname for w in self.character_blacklist]) or 	# remove characters which have bad words in them indicating they're not characters
+				charname.count(" ") > 5 or 									# remove characters whose name contains too many spaces
+				(charname.startswith('(') and charname.endswith(')')) or
+				charname.endswith(".") or
+				charname.endswith(" -") or 
+				charname.startswith("ON ") or 
+				charname.startswith("BACK ") or
+				charname.startswith("CUT ")
+			):
 				keep_char = False
 
 			if keep_char:

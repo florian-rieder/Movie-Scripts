@@ -1,1 +1,106 @@
-{"Title": ["Road, The", "   "], "Author": ["\u00a0\u00a0Joe Penhall"], "Genre": ["\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"], "Characters": [{"Character": "MAN", "Replies": [{"Reply": "Move! Let's go! ", "Didascalie": "", "Start": 33381, "End": 33397}, {"Reply": "Come on. Get up, get up quickly! ", "Didascalie": "", "Start": 33967, "End": 34000}, {"Reply": "Stop crying. You have to be a brave boy. You know how to do it. ", "Didascalie": "", "Start": 69562, "End": 69636}, {"Reply": "Say \"Yes I do Papa.\" ", "Didascalie": "", "Start": 69722, "End": 69743}, {"Reply": "Come down. Oh my God come down. ", "Didascalie": "", "Start": 108592, "End": 108624}, {"Reply": "It's not a dog. ", "Didascalie": "", "Start": 122157, "End": 122173}]}, {"Character": "VALLEY", "Replies": [{"Reply": "BOY. ", "Didascalie": "", "Start": 48968, "End": 48973}]}, {"Character": "BOY", "Replies": [{"Reply": "I think so. ", "Didascalie": "", "Start": 69673, "End": 69685}, {"Reply": "What is it, papa? ", "Didascalie": "", "Start": 77369, "End": 77387}, {"Reply": "Maybe it's a dog. ", "Didascalie": "", "Start": 122102, "End": 122120}, {"Reply": "Does it hurt? ", "Didascalie": "", "Start": 177609, "End": 177623}]}, {"Character": "WELL FED WOMAN", "Replies": [{"Reply": "Don't look at me like that. What are you doing? ", "Didascalie": "", "Start": 71077, "End": 71135}]}]}
+{
+    "Title": [
+        "Road, The",
+        "   "
+    ],
+    "Author": [
+        "\u00a0\u00a0Joe Penhall"
+    ],
+    "Genre": [
+        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+    ],
+    "Characters": [
+        {
+            "Character": "MAN",
+            "Replies": [
+                {
+                    "Reply": "Move! Let's go!",
+                    "Didascalie": "",
+                    "Start": 33381,
+                    "End": 33397
+                },
+                {
+                    "Reply": "Come on. Get up, get up quickly!",
+                    "Didascalie": "",
+                    "Start": 33967,
+                    "End": 34000
+                },
+                {
+                    "Reply": "Stop crying. You have to be a brave boy. You know how to do it.",
+                    "Didascalie": "",
+                    "Start": 69562,
+                    "End": 69636
+                },
+                {
+                    "Reply": "Say \"Yes I do Papa.\"",
+                    "Didascalie": "",
+                    "Start": 69722,
+                    "End": 69743
+                },
+                {
+                    "Reply": "Come down. Oh my God come down.",
+                    "Didascalie": "",
+                    "Start": 108592,
+                    "End": 108624
+                },
+                {
+                    "Reply": "It's not a dog.",
+                    "Didascalie": "",
+                    "Start": 122157,
+                    "End": 122173
+                }
+            ]
+        },
+        {
+            "Character": "VALLEY",
+            "Replies": [
+                {
+                    "Reply": "BOY.",
+                    "Didascalie": "",
+                    "Start": 48968,
+                    "End": 48973
+                }
+            ]
+        },
+        {
+            "Character": "BOY",
+            "Replies": [
+                {
+                    "Reply": "I think so.",
+                    "Didascalie": "",
+                    "Start": 69673,
+                    "End": 69685
+                },
+                {
+                    "Reply": "What is it, papa?",
+                    "Didascalie": "",
+                    "Start": 77369,
+                    "End": 77387
+                },
+                {
+                    "Reply": "Maybe it's a dog.",
+                    "Didascalie": "",
+                    "Start": 122102,
+                    "End": 122120
+                },
+                {
+                    "Reply": "Does it hurt?",
+                    "Didascalie": "",
+                    "Start": 177609,
+                    "End": 177623
+                }
+            ]
+        },
+        {
+            "Character": "WELL FED WOMAN",
+            "Replies": [
+                {
+                    "Reply": "Don't look at me like that. What are you doing?",
+                    "Didascalie": "",
+                    "Start": 71077,
+                    "End": 71135
+                }
+            ]
+        }
+    ]
+}

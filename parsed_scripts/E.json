@@ -1,1 +1,36 @@
-{"Title": ["E.T.", "   "], "Author": ["\u00a0\u00a0Melissa Mathison"], "Genre": ["\u00a0\u00a0Family\u00a0\u00a0Sci-Fi\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"], "Characters": [{"Character": "CLOSEUP", "Replies": [{"Reply": "The man with keys jangling on his side is putting on a pair of light-blue pants. ", "Didascalie": "", "Start": 77191, "End": 77272}]}, {"Character": "GSA", "Replies": [{"Reply": "The shadow of a shotgun covers the sign. Next, two shotguns are raised against E.T. and Elliott. ", "Didascalie": "", "Start": 95366, "End": 95463}]}]}
+{
+    "Title": [
+        "E.T.",
+        "   "
+    ],
+    "Author": [
+        "\u00a0\u00a0Melissa Mathison"
+    ],
+    "Genre": [
+        "\u00a0\u00a0Family\u00a0\u00a0Sci-Fi\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+    ],
+    "Characters": [
+        {
+            "Character": "CLOSEUP",
+            "Replies": [
+                {
+                    "Reply": "The man with keys jangling on his side is putting on a pair of light-blue pants.",
+                    "Didascalie": "",
+                    "Start": 77191,
+                    "End": 77272
+                }
+            ]
+        },
+        {
+            "Character": "GSA",
+            "Replies": [
+                {
+                    "Reply": "The shadow of a shotgun covers the sign. Next, two shotguns are raised against E.T. and Elliott.",
+                    "Didascalie": "",
+                    "Start": 95366,
+                    "End": 95463
+                }
+            ]
+        }
+    ]
+}
