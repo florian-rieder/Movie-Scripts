@@ -37,21 +37,19 @@ class ScriptParser():
 		characters = self._get_characters(text)
 
 		# if there are less than 5 characters, special case
-
-		# identify special case stereotype
-		allSameLine1 = ['American-Outlaws.txt', 'Made.txt', 'Omega-Man', 'Training-Day.txt']
-		noCapsColon2 = ['Mary-Poppins.txt', 'Napoleon-Dynamite.txt', 'Withnail-and-I.txt']
-		sameLineRepliesNoCaps3 = ['Benny-&-Joon.txt', 'Dawn of the Dead', 'Little-Mermaid,-The.txt', 'Mulan.txt', 'Ninth-Gate,-The.txt', 'Rescuers-Down-Under,-The.txt', 'Village,-The.txt']
-		sameLineRepliesCaps4 = ['Aladdin.txt', 'Labyrinth', 'Legend', 'Nightbreed', 'Star-Wars-Revenge-of-the-Sith.txt', 'Star-Wars-The-Phantom-Menace', 'White-Ribbon,-The.txt']
-		noCaps5 = ['Pokemon-Mewtwo-Returns.txt']
-		notScript6 = ['Artist, The', 'E.T.', 'Passion of Joan of Arc, The', 'Night Time (The Poltergeist Treatment)']
-
-		# if none works, warn user
+		if len(characters) < 5:
+			
+			# identify special case stereotype
+			characters = self._special_characters(text)
 
 		# retrieve metadata
 		title = self.get_title(text)
 		author = self.get_author(text)
 		genre = self.get_genre(text)
+
+		# if none works, warn user
+		if len(characters) == 0:
+			print("The script for %s was not parsed, because..." % title)		
 
 		# return instance of Movie
 		movie = Movie(title, author, genre, characters)
@@ -121,6 +119,27 @@ class ScriptParser():
 		characters_list = self._clean_character_list(list(characters.values()))
 
 		return characters_list
+
+	def _special_characters(self, text):
+		all_same_line = re.compile(r"^\s+.{1000}")
+		colon = re.compile(r"(?m)^(\s*)([A-Za-z.-]+)\s*:(\s*)(\n*)")
+		no_colon = re.compile(r"(?m)^(\s*)([A-Za-z]+)(\n+)")
+
+		fail = 10
+       
+		matches = re.findall(all_same_line, text)
+		if len(matches) == 1:
+			return self._get_characters(re.sub(r"\s{3,}", "\n", text))
+    
+		matches = re.findall(colon, text)
+		if len(matches) > fail:
+			return self._get_characters(re.sub(colon, lambda clean: clean.group(1) + clean.group(2).upper() + "\n", text))
+
+		matches = re.findall(no_colon, text)
+		if len(matches) > fail:
+			return self._get_characters(re.sub(no_colon, lambda clean: clean.group(1) + clean.group(2).upper() + "\n", text)) 
+
+		return [] 
     
 	def get_title(self, text):
 		"""Finds the title of the movie"""
@@ -185,3 +204,32 @@ class ScriptParser():
 				clean_charlist.append(char)
 
 		return clean_charlist
+
+
+		def _special_characters(self, text):
+        all_same_line = re.compile(r"^\s+.{1000}")
+        colon = re.compile(r"(?m)^(\s*)([A-Za-z.-]+)\s*:\s*(\n*)")
+        no_colon = re.compile(r"(?m)^(\s*)([A-Za-z]+)(\n+)")
+
+        fail = 10
+       
+        matches = re.findall(all_same_line, text)
+        if len(matches) == 1:
+            print("found one line")
+            return self.get_characters(re.sub(r"\s{3,}", "\n", text))
+    
+        matches = re.findall(colon, text)
+        if len(matches) > fail:
+            print("found colon")
+            text = re.sub(colon, lambda pat: pat.group(2).upper(), text)
+            return self.get_characters(re.sub(colon, r"$1$2\n", text))
+
+        matches = re.findall(no_colon, text)
+        if len(matches) > fail:
+            print("found no colon")
+            text = re.sub(no_colon, lambda pat: pat.group(2).upper(), text)
+            return self.get_characters(re.sub(no_colon, r"$1$2\n", text)) 
+
+        
+        print("found nothing")
+        return None 

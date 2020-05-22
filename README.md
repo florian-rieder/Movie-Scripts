@@ -11,7 +11,6 @@ The parsed JSON files we created can be found in the `parsed_scripts` folder of 
 - [dataclasses_json](https://pypi.org/project/dataclasses-json/)
 
 # Usage
-
 Create an instance of the `ScriptParser` class. Call the `parse()` method with a string corresponding to an entire movie script. It outputs a `Movie` instance.
 
 ```python
