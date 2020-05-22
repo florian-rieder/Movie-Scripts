@@ -204,32 +204,3 @@ class ScriptParser():
 				clean_charlist.append(char)
 
 		return clean_charlist
-
-
-		def _special_characters(self, text):
-        all_same_line = re.compile(r"^\s+.{1000}")
-        colon = re.compile(r"(?m)^(\s*)([A-Za-z.-]+)\s*:\s*(\n*)")
-        no_colon = re.compile(r"(?m)^(\s*)([A-Za-z]+)(\n+)")
-
-        fail = 10
-       
-        matches = re.findall(all_same_line, text)
-        if len(matches) == 1:
-            print("found one line")
-            return self.get_characters(re.sub(r"\s{3,}", "\n", text))
-    
-        matches = re.findall(colon, text)
-        if len(matches) > fail:
-            print("found colon")
-            text = re.sub(colon, lambda pat: pat.group(2).upper(), text)
-            return self.get_characters(re.sub(colon, r"$1$2\n", text))
-
-        matches = re.findall(no_colon, text)
-        if len(matches) > fail:
-            print("found no colon")
-            text = re.sub(no_colon, lambda pat: pat.group(2).upper(), text)
-            return self.get_characters(re.sub(no_colon, r"$1$2\n", text)) 
-
-        
-        print("found nothing")
-        return None 
