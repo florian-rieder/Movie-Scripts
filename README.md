@@ -62,7 +62,7 @@ A `get_start()` and a `get_end()` method allows access to the corresponding attr
 You can overwrite or change certain attributes of a `ScriptParser`, depending on your needs.
 | Attribute           | type  | Description  |
 | ------------------- |-------| ------------ |
-| `minimum_replies`     | `int` | The minimal amount of replies under which a character is rejected. The default value is 1. This discards all characters with no replies. With the value adjusted to 2, most false-positives will be eliminated, but also some minor characters with it. |
+| `minimum_replies`     | `int` | The minimal amount of replies under which a character is rejected. The default value is 1. This discards all characters with no replies. With the value adjusted to 2, most false-positives will be eliminated, but some minor characters along with them. |
 | `character_blacklist` | `list(str)` | A list of strings. If any of the strings in the list is contained in a character name, the character will be rejected. |
 | `reply_blacklist`     | `list(str)` | A list of strings used to filter replies. If any of the strings are found in the reply (case sensitive), the reply will be rejected |
 
@@ -77,12 +77,18 @@ parser.character_blacklist += ["NEW", "WORDS"]
 # overwrite the blacklist
 parser.character_blacklist = ["ENTIRELY", "NEW", "WORDS"]
 ```
+## Special Scripts
+Special scripts are determined by checking if a parsed script has less than `Variable` characters. The default is 5, and the script will then be sent to the `_special_characters()` method which will attempt to identify one of three special cases. 
+1. The entire text of the script is contained on a single line.
+2. Character names are not capitalized or are place on the same line as their replies followed by a colon.
+3. Character names are not capitalized and are not followed by a colon.
+
 # Error
-If a script isn't parsed, you'll get an error message. 
+If the script does not fit any of these cases or still has less than `Variable` characters after being parsed a second time, you will get the following error message: "The script was not parsed, because...". 
 There are a couple things you can do to fix it.
 
 1. Reformat the script so that the `ScriptParser` can parse it correctly. 
-Character's names shoud be in capital letters and finish with a line break. Replies should start on the line right after the character's name and fnish with a punctiation symbol and a line break. 
+Character names should be in capital letters and finish with a line break. Replies should start on the line right after the character name and finish with a punctuation symbol and a line break. Whitespace may be placed before and after the character names in order to improve readability, but can NOT be placed after the final punctuation symbol in the reply.
 
 Example:
 
@@ -106,9 +112,9 @@ Example:
                threat for Houston. I think it's free
                beer night at the Astrodome.
 
-2. You can also add a regex to the method special_characters() in the `ScriptParser`. This is an interesting option if you have many scripts with the same syntax. 
+2. You can also add a regex with a corresponding `if len(matches) > fail:` condition to the `_special_characters()` method in the `ScriptParser` class. This is an interesting option if you have many scripts with the same syntax. 
     - Add your new regex in `_special_characters()` in `ScriptParser.py`: it will identify scripts that have a particular syntax.
-    - Return a modified script that can be parsed by `ScriptParser`
+    - Return a modified script that can be parsed by the `_get_characters()` method. DISCLAIMER: This modified script must replicate all whitespace present in the original script in order for the positional methods `get_start()` and `get_end()` from the `Reply` class to work correctly, respecting the whitespace conditions mentioned above.
 
 
 
