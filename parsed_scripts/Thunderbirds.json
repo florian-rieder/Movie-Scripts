@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Thunderbirds",
-        "   "
-    ],
+    "Title": "Thunderbirds",
     "Author": [
-        "\u00a0\u00a0Peter Hewitt\u00a0\u00a0William Osborne\u00a0\u00a0Michael McCullers"
+        "Peter Hewitt",
+        "William Osborne",
+        "Michael McCullers"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Action",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {

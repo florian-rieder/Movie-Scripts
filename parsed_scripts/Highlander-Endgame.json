@@ -1,24 +1,20 @@
 {
-    "Title": [
-        "Highlander: Endgame",
-        "   "
-    ],
+    "Title": "Highlander: Endgame",
     "Author": [
-        "\u00a0\u00a0Gillian Horvath\u00a0\u00a0William N. Panzer\u00a0\u00a0Joel Soisson"
+        "Gillian Horvath",
+        "William N. Panzer",
+        "Joel Soisson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
             "Character": "VOICE",
             "Replies": [
-                {
-                    "Reply": "IN THE DAYS BEFORE MEMORY, THERE WERE THE IMMORTALS. WE WERE WITH YOU THEN, AND WE ARE WITH YOU NOW.",
-                    "Didascalie": "",
-                    "Start": 93,
-                    "End": 194
-                },
                 {
                     "Reply": "WE ARE DRIVEN BY THE CEASELESS FIGHT TO ENDURE. NO LIMIT, IT IS A BATTLE THAT KNOWS NO BOUNDRY OF TIME OR PLACE.",
                     "Didascalie": "",
@@ -40,17 +36,6 @@
             ]
         },
         {
-            "Character": "SWEEP LOW",
-            "Replies": [
-                {
-                    "Reply": "WE HAVE BEEN WORSHIPPED AS GODS MISTAKEN FOR DEMONS AND REVILED'AS WITCHES. WE ARE THE SEEDS OF A MILLION LEGENDS BUT OUR TRUE ORIGINS ARE UNKNOWN. WE SIMPLY ARE.",
-                    "Didascalie": "",
-                    "Start": 359,
-                    "End": 522
-                }
-            ]
-        },
-        {
             "Character": "RACHEL",
             "Replies": [
                 {
@@ -68,17 +53,6 @@
             ]
         },
         {
-            "Character": "A MUSIC BOX",
-            "Replies": [
-                {
-                    "Reply": "spools a faint, tinny madrigal.",
-                    "Didascalie": "",
-                    "Start": 2162,
-                    "End": 2194
-                }
-            ]
-        },
-        {
             "Character": "YOUNG RACHEL",
             "Replies": [
                 {
@@ -86,17 +60,6 @@
                     "Didascalie": "",
                     "Start": 3074,
                     "End": 3106
-                }
-            ]
-        },
-        {
-            "Character": "A MOUND OF BURNING CORPSES",
-            "Replies": [
-                {
-                    "Reply": "They crackle and twist in the fire that feeds off them. It takes a moment to realize they're LIVESTOCK-- oxen, pigs, goats, sheep-- piled like burning refuse.",
-                    "Didascalie": "",
-                    "Start": 4836,
-                    "End": 4995
                 }
             ]
         },
@@ -1275,12 +1238,6 @@
                     "End": 22389
                 },
                 {
-                    "Reply": "We mostly just sat around, downing shots, staring at the beer lights above the bar. When he finally got up to go, he looked at me like it was the last time I'd ever see him again. No goodbye. No handshake. Just got up and left. BACK TO SCENE: Duncan blinks back the memory.",
-                    "Didascalie": "",
-                    "Start": 22518,
-                    "End": 22793
-                },
-                {
                     "Reply": "Nobody's seen him since.",
                     "Didascalie": "",
                     "Start": 22809,
@@ -1767,12 +1724,6 @@
                     "End": 74569
                 },
                 {
-                    "Reply": "You'd have me kill her?! Is that it?! Is that what you came all this way to tell me on my WEDDING NIGHT?!",
-                    "Didascalie": "",
-                    "Start": 74734,
-                    "End": 74840
-                },
-                {
                     "Reply": "And if it were you in my place?",
                     "Didascalie": "",
                     "Start": 74954,
@@ -2061,17 +2012,6 @@
             ]
         },
         {
-            "Character": "A SILHOUETTE",
-            "Replies": [
-                {
-                    "Reply": "that ECLIPSES the rising sun.",
-                    "Didascalie": "",
-                    "Start": 24738,
-                    "End": 24768
-                }
-            ]
-        },
-        {
             "Character": "SILHOUETTE",
             "Replies": [
                 {
@@ -2123,17 +2063,6 @@
             ]
         },
         {
-            "Character": "A PHOTOGRAPH OF DUNCAN",
-            "Replies": [
-                {
-                    "Reply": "PULL BACK and see it's his passport, held by a US CUSTOMS OFFICER. He lowers the passport and turns to the long metal case Duncan's brought with him from the plane.",
-                    "Didascalie": "",
-                    "Start": 25855,
-                    "End": 26020
-                }
-            ]
-        },
-        {
             "Character": "CUSTOMS OFFICER",
             "Replies": [
                 {
@@ -2152,17 +2081,6 @@
                     "Didascalie": "",
                     "Start": 27385,
                     "End": 27516
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG WOMAN",
-            "Replies": [
-                {
-                    "Reply": "appears at the top of the stairs. She saunters toward him, glancing around.",
-                    "Didascalie": "",
-                    "Start": 31444,
-                    "End": 31520
                 }
             ]
         },
@@ -2353,17 +2271,6 @@
                     "Didascalie": "(considers)",
                     "Start": 107614,
                     "End": 107683
-                }
-            ]
-        },
-        {
-            "Character": "A FOURTH BIKE",
-            "Replies": [
-                {
-                    "Reply": "VAULTS the NARROW GAP between buildings and LANDS.",
-                    "Didascalie": "",
-                    "Start": 33381,
-                    "End": 33432
                 }
             ]
         },
@@ -2883,17 +2790,6 @@
             ]
         },
         {
-            "Character": "A HIDDEN CAR",
-            "Replies": [
-                {
-                    "Reply": "and climb inside.",
-                    "Didascalie": "",
-                    "Start": 45686,
-                    "End": 45704
-                }
-            ]
-        },
-        {
             "Character": "WIDE",
             "Replies": [
                 {
@@ -2979,17 +2875,6 @@
                     "Didascalie": "",
                     "Start": 53388,
                     "End": 53399
-                }
-            ]
-        },
-        {
-            "Character": "A WOOD AND SILVER CRUCIFIX",
-            "Replies": [
-                {
-                    "Reply": "dangling on Kase's swordtip.",
-                    "Didascalie": "",
-                    "Start": 54317,
-                    "End": 54346
                 }
             ]
         },
@@ -3108,17 +2993,6 @@
             ]
         },
         {
-            "Character": "A SOLITARY STONE CHURCH",
-            "Replies": [
-                {
-                    "Reply": "stands before him in a bed of crawling mist. It seems eerily out of place amid the urban blight around it.",
-                    "Didascalie": "",
-                    "Start": 62242,
-                    "End": 62349
-                }
-            ]
-        },
-        {
             "Character": "WINSTON",
             "Replies": [
                 {
@@ -3233,17 +3107,6 @@
                     "Didascalie": "",
                     "Start": 66282,
                     "End": 66349
-                }
-            ]
-        },
-        {
-            "Character": "A BEARDED BRAWLER",
-            "Replies": [
-                {
-                    "Reply": "CRASHES DOWN onto a wooden table. He takes the table cloth with him as he TUMBLES head over heels onto the floor in a cascade of soda bread and cabbage.",
-                    "Didascalie": "",
-                    "Start": 69439,
-                    "End": 69592
                 }
             ]
         },
@@ -3387,28 +3250,6 @@
             ]
         },
         {
-            "Character": "A SHADOW",
-            "Replies": [
-                {
-                    "Reply": "slices over him. He slowly tilts his gaze upward. Squints.",
-                    "Didascalie": "",
-                    "Start": 84668,
-                    "End": 84727
-                }
-            ]
-        },
-        {
-            "Character": "REAL TIME--",
-            "Replies": [
-                {
-                    "Reply": "THE BLADE CUTS CLEAN THROUGH CONNOR'S NECK WITH UNSTOPPABLE MOMENTUM.",
-                    "Didascalie": "",
-                    "Start": 88318,
-                    "End": 88388
-                }
-            ]
-        },
-        {
             "Character": "PURE ESSENCE--",
             "Replies": [
                 {
@@ -3416,17 +3257,6 @@
                     "Didascalie": "",
                     "Start": 88696,
                     "End": 88726
-                }
-            ]
-        },
-        {
-            "Character": "A FINAL BLAST OF ESSENCE",
-            "Replies": [
-                {
-                    "Reply": "RIPS through Duncan's BRAIN.",
-                    "Didascalie": "",
-                    "Start": 89221,
-                    "End": 89250
                 }
             ]
         },
@@ -3464,17 +3294,6 @@
             ]
         },
         {
-            "Character": "A SWORD",
-            "Replies": [
-                {
-                    "Reply": "JUTS from a small wooden table...",
-                    "Didascalie": "",
-                    "Start": 94281,
-                    "End": 94315
-                }
-            ]
-        },
-        {
             "Character": "CRACKER BOB",
             "Replies": [
                 {
@@ -3482,17 +3301,6 @@
                     "Didascalie": "",
                     "Start": 94624,
                     "End": 94647
-                }
-            ]
-        },
-        {
-            "Character": "A SINGLE SCRAP OF PAPER",
-            "Replies": [
-                {
-                    "Reply": "impaled on the blade.",
-                    "Didascalie": "",
-                    "Start": 94749,
-                    "End": 94771
                 }
             ]
         },
@@ -3526,17 +3334,6 @@
                     "Didascalie": "",
                     "Start": 99602,
                     "End": 99652
-                }
-            ]
-        },
-        {
-            "Character": "A FRESHLY-CUT QUARRY",
-            "Replies": [
-                {
-                    "Reply": "has been hewn from the hilltop by the massive sword of modern technology.",
-                    "Didascalie": "",
-                    "Start": 103257,
-                    "End": 103331
                 }
             ]
         },

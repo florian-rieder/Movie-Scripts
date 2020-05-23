@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Dogma",
-        "   "
-    ],
+    "Title": "Dogma",
     "Author": [
-        "\u00a0\u00a0Kevin Smith"
+        "Kevin Smith"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Adventure"
+        "Comedy",
+        "Fantasy",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -1996,12 +1995,6 @@
                     "End": 22865
                 },
                 {
-                    "Reply": "WHO THE FUCK ARE YOU AND WHAT THE FUCK ARE YOU DOING IN MY ROOM?!",
-                    "Didascalie": "",
-                    "Start": 25517,
-                    "End": 25583
-                },
-                {
                     "Reply": "I'm calling the cops! Breaking and entering, attempted arson... they're going to lock you up for life...!",
                     "Didascalie": "(reaching for phone, still holding bat)",
                     "Start": 25816,
@@ -3734,6 +3727,28 @@
                     "Didascalie": "(to Silent Bob)",
                     "Start": 219530,
                     "End": 219552
+                }
+            ]
+        },
+        {
+            "Character": "PROTESTOR 1",
+            "Replies": [
+                {
+                    "Reply": "You should be ashamed of yourself!",
+                    "Didascalie": "",
+                    "Start": 19273,
+                    "End": 19308
+                }
+            ]
+        },
+        {
+            "Character": "PROTESTOR 2",
+            "Replies": [
+                {
+                    "Reply": "Child killer!",
+                    "Didascalie": "",
+                    "Start": 19322,
+                    "End": 19336
                 }
             ]
         },
@@ -7003,6 +7018,17 @@
             ]
         },
         {
+            "Character": "GANGSTER 1",
+            "Replies": [
+                {
+                    "Reply": "Fat Albert like a mother fucker and shit!",
+                    "Didascalie": "",
+                    "Start": 105509,
+                    "End": 105551
+                }
+            ]
+        },
+        {
             "Character": "SERENDIPITY",
             "Replies": [
                 {
@@ -7838,12 +7864,6 @@
                     "Didascalie": "(to God)",
                     "Start": 208676,
                     "End": 208764
-                },
-                {
-                    "Reply": "OPERATOR! SEND MORE POLICE TO SAINT MICHAEL'S PARISH - NOW!! PEOPLE ARE GETTING KILLED BY...!",
-                    "Didascalie": "(to phone)",
-                    "Start": 208775,
-                    "End": 208871
                 }
             ]
         },
@@ -8312,6 +8332,17 @@
             ]
         },
         {
+            "Character": "ALTAR 1",
+            "Replies": [
+                {
+                    "Reply": "The same boring cereal again?",
+                    "Didascalie": "",
+                    "Start": 180246,
+                    "End": 180276
+                }
+            ]
+        },
+        {
             "Character": "CHRIST",
             "Replies": [
                 {
@@ -8354,6 +8385,17 @@
                     "Didascalie": "",
                     "Start": 180712,
                     "End": 180836
+                }
+            ]
+        },
+        {
+            "Character": "ALTAR 2",
+            "Replies": [
+                {
+                    "Reply": "I... I touched... m..myself! I'm...s...sorry...",
+                    "Didascalie": "",
+                    "Start": 181250,
+                    "End": 181298
                 }
             ]
         },

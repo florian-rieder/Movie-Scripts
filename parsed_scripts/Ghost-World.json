@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ghost World",
-        "   "
-    ],
+    "Title": "Ghost World",
     "Author": [
-        "\u00a0\u00a0Daniel Clowes\u00a0\u00a0Terry Zwigoff"
+        "Daniel Clowes",
+        "Terry Zwigoff"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Pearl Harbor",
-        "   "
-    ],
+    "Title": "Pearl Harbor",
     "Author": [
-        "\u00a0\u00a0Randall Wallace"
+        "Randall Wallace"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0War"
+        "Action",
+        "Drama",
+        "Romance",
+        "War"
     ],
     "Characters": [
         {
@@ -3293,6 +3293,57 @@
             ]
         },
         {
+            "Character": "NAVY GUY 1",
+            "Replies": [
+                {
+                    "Reply": "A woman beautiful as you shouldn't be sitting alone.  Buy you a drink?",
+                    "Didascalie": "",
+                    "Start": 31993,
+                    "End": 32067
+                },
+                {
+                    "Reply": "Ensign!  Smart too!",
+                    "Didascalie": "",
+                    "Start": 32185,
+                    "End": 32205
+                }
+            ]
+        },
+        {
+            "Character": "NAVY GUY 2",
+            "Replies": [
+                {
+                    "Reply": "So how about that drink?  Or dinner?",
+                    "Didascalie": "",
+                    "Start": 32225,
+                    "End": 32262
+                }
+            ]
+        },
+        {
+            "Character": "NAVY GUY 3",
+            "Replies": [
+                {
+                    "Reply": "Want to see something long and hard?",
+                    "Didascalie": "",
+                    "Start": 32355,
+                    "End": 32392
+                },
+                {
+                    "Reply": "Cold bitch.",
+                    "Didascalie": "",
+                    "Start": 32573,
+                    "End": 32585
+                },
+                {
+                    "Reply": "I said you're cold.",
+                    "Didascalie": "",
+                    "Start": 32702,
+                    "End": 32722
+                }
+            ]
+        },
+        {
             "Character": "PRESIDENT ROOSEVELT",
             "Replies": [
                 {
@@ -4124,6 +4175,28 @@
             ]
         },
         {
+            "Character": "VOLLEYBALL PLAYER 1",
+            "Replies": [
+                {
+                    "Reply": "Where's the Lexington going?",
+                    "Didascalie": "",
+                    "Start": 67378,
+                    "End": 67407
+                }
+            ]
+        },
+        {
+            "Character": "VOLLEYBALL PLAYER 2",
+            "Replies": [
+                {
+                    "Reply": "Out on maneuvers, like the Enterprise.",
+                    "Didascalie": "",
+                    "Start": 67436,
+                    "End": 67475
+                }
+            ]
+        },
+        {
             "Character": "DENTAL ASSISTANT",
             "Replies": [
                 {
@@ -4534,6 +4607,40 @@
                     "Didascalie": "",
                     "Start": 99407,
                     "End": 99486
+                }
+            ]
+        },
+        {
+            "Character": "SAILOR 1",
+            "Replies": [
+                {
+                    "Reply": "Look at that.",
+                    "Didascalie": "",
+                    "Start": 102312,
+                    "End": 102326
+                }
+            ]
+        },
+        {
+            "Character": "SAILOR 2",
+            "Replies": [
+                {
+                    "Reply": "It's the Army again, practicing on us.",
+                    "Didascalie": "",
+                    "Start": 102344,
+                    "End": 102383
+                },
+                {
+                    "Reply": "Practice torpedoes.",
+                    "Didascalie": "",
+                    "Start": 102498,
+                    "End": 102518
+                },
+                {
+                    "Reply": "Now listen, you'll hear a little thud when it hits the side of the ship.",
+                    "Didascalie": "",
+                    "Start": 102585,
+                    "End": 102661
                 }
             ]
         },

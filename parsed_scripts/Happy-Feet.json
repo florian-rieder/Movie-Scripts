@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Happy Feet",
-        "   "
-    ],
+    "Title": "Happy Feet",
     "Author": [
-        "\u00a0\u00a0George Miller\u00a0\u00a0John Collee"
+        "George Miller",
+        "John Collee"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Family"
+        "Animation",
+        "Comedy",
+        "Family"
     ],
     "Characters": [
         {
@@ -901,12 +901,6 @@
                     "End": 85015
                 },
                 {
-                    "Reply": "We're looking for the Mystic Beings  ELEPHANT SEAL 2 Mystic Who?",
-                    "Didascalie": "",
-                    "Start": 85671,
-                    "End": 85772
-                },
-                {
                     "Reply": "Aliens, the ones who made this.",
                     "Didascalie": "",
                     "Start": 85816,
@@ -1147,12 +1141,6 @@
                     "End": 110147
                 },
                 {
-                    "Reply": "Aliens everywhere, watching you eat, watching you sleep  Mumble backs away and knocks into the PAINTED HORIZON. He puts out a wing to steady himself and notices a metal tag on it. This place is beginning to upset him.",
-                    "Didascalie": "",
-                    "Start": 110306,
-                    "End": 110537
-                },
-                {
                     "Reply": "What have you done to my wing! This is not my home! I want to get out of here!",
                     "Didascalie": "(yells at the aliens)",
                     "Start": 110751,
@@ -1330,17 +1318,6 @@
                     "Didascalie": "",
                     "Start": 530,
                     "End": 556
-                }
-            ]
-        },
-        {
-            "Character": "A GREAT COMMUNITY",
-            "Replies": [
-                {
-                    "Reply": "EMPEROR PENGUINS all over the place, Its chaos - Grand central station - with everyone SINGING to each other.",
-                    "Didascalie": "",
-                    "Start": 1182,
-                    "End": 1296
                 }
             ]
         },
@@ -2899,17 +2876,6 @@
             ]
         },
         {
-            "Character": "A FEMALE",
-            "Replies": [
-                {
-                    "Reply": "Hey. Cool. Where'd you learn that?",
-                    "Didascalie": "",
-                    "Start": 53543,
-                    "End": 53578
-                }
-            ]
-        },
-        {
             "Character": "FEMALE",
             "Replies": [
                 {
@@ -3168,17 +3134,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "No, Son they're right.",
-                    "Didascalie": "",
-                    "Start": 74992,
-                    "End": 75015
-                }
-            ]
-        },
-        {
             "Character": "ALL",
             "Replies": [
                 {
@@ -3225,13 +3180,90 @@
             ]
         },
         {
-            "Character": "A MOUNTAIN RIDGE",
+            "Character": "ELEPHANT SEAL 1",
             "Replies": [
                 {
-                    "Reply": "The Adelies labour uphill into the wind. LOVEDAY is lagging behind, breathing hard.",
+                    "Reply": "Well roll me over and call me a dugong.",
                     "Didascalie": "",
-                    "Start": 83439,
-                    "End": 83523
+                    "Start": 84782,
+                    "End": 84822
+                },
+                {
+                    "Reply": "country.",
+                    "Didascalie": "",
+                    "Start": 85361,
+                    "End": 85370
+                },
+                {
+                    "Reply": "Anyhow. Its its forbidden to go there.",
+                    "Didascalie": "",
+                    "Start": 85475,
+                    "End": 85514
+                },
+                {
+                    "Reply": "Blizzard Walkers!",
+                    "Didascalie": "",
+                    "Start": 86119,
+                    "End": 86137
+                },
+                {
+                    "Reply": "Could be!? I heard they'd take a whole penguin, rip its skin right off and turn it into mush.",
+                    "Didascalie": "",
+                    "Start": 86527,
+                    "End": 86641
+                },
+                {
+                    "Reply": "Huh! Clubbing's a Clambake! My Granpappy says they been known to skin a seal from snout to tail in a hot second.",
+                    "Didascalie": "",
+                    "Start": 86858,
+                    "End": 86991
+                },
+                {
+                    "Reply": "The hell with \"useful\" Those critters'd y turn you into a food item! Little popsicle things! Ya hear me? One day you're a big ole whale and the next minute, FUNFOOD!!",
+                    "Didascalie": "",
+                    "Start": 87300,
+                    "End": 87507
+                }
+            ]
+        },
+        {
+            "Character": "ELEPHANT SEAL 2",
+            "Replies": [
+                {
+                    "Reply": "Sure. Just git yourselves over them there hills I'd come with you myself but...",
+                    "Didascalie": "",
+                    "Start": 85068,
+                    "End": 85161
+                },
+                {
+                    "Reply": "I heard its forbidden to ask how to get there!",
+                    "Didascalie": "",
+                    "Start": 85567,
+                    "End": 85627
+                },
+                {
+                    "Reply": "Mystic Who?",
+                    "Didascalie": "",
+                    "Start": 85760,
+                    "End": 85772
+                },
+                {
+                    "Reply": "Cut you up before they look at you.",
+                    "Didascalie": "",
+                    "Start": 86375,
+                    "End": 86411
+                },
+                {
+                    "Reply": "Huh! That's a Picnic! I hear tell they'd take a baby seal and club it to death.",
+                    "Didascalie": "",
+                    "Start": 86688,
+                    "End": 86778
+                },
+                {
+                    "Reply": "fat and turn you into a wide variety of useful items!",
+                    "Didascalie": "",
+                    "Start": 87189,
+                    "End": 87253
                 }
             ]
         },
@@ -3346,17 +3378,6 @@
                     "Didascalie": "",
                     "Start": 105118,
                     "End": 105174
-                }
-            ]
-        },
-        {
-            "Character": "A VAST OCEAN",
-            "Replies": [
-                {
-                    "Reply": "MUMBLE is a mere DOT now as the GREAT CURRENTS capture him and sweep him away.",
-                    "Didascalie": "",
-                    "Start": 105525,
-                    "End": 105604
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Three Kings",
-        "   "
-    ],
+    "Title": "Three Kings",
     "Author": [
-        "\u00a0\u00a0David O. Russell\u00a0\u00a0John Ridley"
+        "David O. Russell",
+        "John Ridley"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0War"
+        "Action",
+        "Adventure",
+        "War"
     ],
     "Characters": [
         {
@@ -6617,6 +6617,17 @@
                     "Didascalie": "",
                     "Start": 153422,
                     "End": 153435
+                }
+            ]
+        },
+        {
+            "Character": "FRIENDLY IRAQI 2",
+            "Replies": [
+                {
+                    "Reply": "No Lexus convertible.",
+                    "Didascalie": "",
+                    "Start": 151482,
+                    "End": 151504
                 }
             ]
         },

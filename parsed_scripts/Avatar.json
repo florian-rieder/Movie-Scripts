@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Avatar",
-        "   "
-    ],
+    "Title": "Avatar",
     "Author": [
-        "\u00a0\u00a0James Cameron"
+        "James Cameron"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1689,6 +1688,34 @@
                     "Didascalie": "",
                     "Start": 2417,
                     "End": 2598
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 1",
+            "Replies": [
+                {
+                    "Reply": "Are you Jake Sully?",
+                    "Didascalie": "",
+                    "Start": 7693,
+                    "End": 7713
+                },
+                {
+                    "Reply": "Your brother represented a significant investment. We'd like to talk to you about taking over his contract.",
+                    "Didascalie": "",
+                    "Start": 8954,
+                    "End": 9102
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 2",
+            "Replies": [
+                {
+                    "Reply": "It's about your brother.",
+                    "Didascalie": "",
+                    "Start": 7892,
+                    "End": 7917
                 }
             ]
         },

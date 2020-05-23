@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Island, The",
-        "   "
-    ],
+    "Title": "Island, The",
     "Author": [
-        "\u00a0\u00a0Caspian Tredwell-Owen"
+        "Caspian Tredwell-Owen"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2191,35 +2191,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Hey, you want to know something?",
-                    "Didascalie": "",
-                    "Start": 12801,
-                    "End": 12834
-                },
-                {
-                    "Reply": "C h e c k in at the nurse's station. Up the corridor, left, then first right.",
-                    "Didascalie": "",
-                    "Start": 98499,
-                    "End": 98598
-                },
-                {
-                    "Reply": "N o b o d y move! Stay right where you are!",
-                    "Didascalie": "",
-                    "Start": 112792,
-                    "End": 112836
-                },
-                {
-                    "Reply": "S i r , this is a restricted area...",
-                    "Didascalie": "",
-                    "Start": 301398,
-                    "End": 301435
-                }
-            ]
-        },
-        {
             "Character": "JONES",
             "Replies": [
                 {
@@ -2388,6 +2359,23 @@
                     "Didascalie": "",
                     "Start": 17557,
                     "End": 17596
+                }
+            ]
+        },
+        {
+            "Character": "CENSOR 1",
+            "Replies": [
+                {
+                    "Reply": "Census check.",
+                    "Didascalie": "",
+                    "Start": 19531,
+                    "End": 19545
+                },
+                {
+                    "Reply": "I hope nobody's drinking off-quota.",
+                    "Didascalie": "",
+                    "Start": 19835,
+                    "End": 19871
                 }
             ]
         },

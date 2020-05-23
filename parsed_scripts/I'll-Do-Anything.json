@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "I'll Do Anything",
-        "   "
-    ],
+    "Title": "I'll Do Anything",
     "Author": [
-        "\u00a0\u00a0James L. Brooks"
+        "James L. Brooks"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2300,17 +2298,6 @@
             ]
         },
         {
-            "Character": "A BLURRED IMAGE",
-            "Replies": [
-                {
-                    "Reply": "Then, the screen is CLEARED ON ONE HALF so we see half of a contact lens holder in focus--the other half blurred--until Matt gets his second contact in.",
-                    "Didascalie": "",
-                    "Start": 18001,
-                    "End": 18186
-                }
-            ]
-        },
-        {
             "Character": "MIDDLE-AGED ACTOR",
             "Replies": [
                 {
@@ -4320,17 +4307,6 @@
                     "Didascalie": "",
                     "Start": 38263,
                     "End": 38525
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "The pen is poised.",
-                    "Didascalie": "",
-                    "Start": 39247,
-                    "End": 39266
                 }
             ]
         },
@@ -6414,17 +6390,6 @@
                     "Didascalie": "",
                     "Start": 229234,
                     "End": 229364
-                }
-            ]
-        },
-        {
-            "Character": "INSERT ELECTRONIC NOTEBOOK",
-            "Replies": [
-                {
-                    "Reply": "Names and phone numbers.",
-                    "Didascalie": "",
-                    "Start": 230908,
-                    "End": 230933
                 }
             ]
         },

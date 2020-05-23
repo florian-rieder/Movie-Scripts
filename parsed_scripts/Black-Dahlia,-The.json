@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Black Dahlia, The",
-        "   "
-    ],
+    "Title": "Black Dahlia, The",
     "Author": [
-        "\u00a0\u00a0Josh Friedman\u00a0\u00a0James Ellroy"
+        "Josh Friedman",
+        "James Ellroy"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3503,17 +3504,6 @@
             ]
         },
         {
-            "Character": "AS WE PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Tomas Dos Santos dying in a large Plexiglas GAS CHAMBER.",
-                    "Didascalie": "",
-                    "Start": 8186,
-                    "End": 8243
-                }
-            ]
-        },
-        {
             "Character": "ROOKIE",
             "Replies": [
                 {
@@ -4279,17 +4269,6 @@
                     "Didascalie": "",
                     "Start": 32400,
                     "End": 32406
-                }
-            ]
-        },
-        {
-            "Character": "A HAMMER HITTING A BELL",
-            "Replies": [
-                {
-                    "Reply": "and the fight is on.",
-                    "Didascalie": "",
-                    "Start": 30995,
-                    "End": 31016
                 }
             ]
         },

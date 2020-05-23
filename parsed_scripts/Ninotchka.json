@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Ninotchka",
-        "   "
-    ],
+    "Title": "Ninotchka",
     "Author": [
-        "\u00a0\u00a0Melchior Lengyel\u00a0\u00a0Charles Brackett\u00a0\u00a0Billy Wilder\u00a0\u00a0Walter Reisch"
+        "Melchior Lengyel",
+        "Charles Brackett",
+        "Billy Wilder",
+        "Walter Reisch"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -7664,28 +7665,6 @@
                     "Didascalie": "",
                     "Start": 187553,
                     "End": 187568
-                }
-            ]
-        },
-        {
-            "Character": "INSERT OF PHOTOGRAPH OF LENIN",
-            "Replies": [
-                {
-                    "Reply": "The photograph of Lenin starts to smile in approval, as we...",
-                    "Didascalie": "",
-                    "Start": 222726,
-                    "End": 222788
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "\"...and sweetheart, I have kept my first promise. I sent poor old Gaston to the market this morning and if you will look deep into the flowers you will see what I got for him....\"",
-                    "Didascalie": "",
-                    "Start": 246299,
-                    "End": 246527
                 }
             ]
         },

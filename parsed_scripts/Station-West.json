@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Station West",
-        "   "
-    ],
+    "Title": "Station West",
     "Author": [
-        "\u00a0\u00a0Frank Fenton\u00a0\u00a0Winston Miller\u00a0\u00a0Luke Short"
+        "Frank Fenton",
+        "Winston Miller",
+        "Luke Short"
     ],
     "Genre": [
-        "\u00a0\u00a0Western"
+        "Western"
     ],
     "Characters": [
         {

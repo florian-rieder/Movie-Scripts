@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Neverending Story, The",
-        "   "
-    ],
+    "Title": "Neverending Story, The",
     "Author": [
-        "\u00a0\u00a0Michael Ende\u00a0\u00a0Wolfgang Petersen\u00a0\u00a0Herman Weigel"
+        "Michael Ende",
+        "Wolfgang Petersen",
+        "Herman Weigel"
     ],
     "Genre": [
-        "\u00a0\u00a0Fantasy\u00a0\u00a0Adventure\u00a0\u00a0Family"
+        "Fantasy",
+        "Adventure",
+        "Family"
     ],
     "Characters": [
         {

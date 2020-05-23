@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "Walk to Remember, A",
-        "   "
-    ],
+    "Title": "Walk to Remember, A",
     "Author": [
-        "\u00a0\u00a0Karen Janszen"
+        "Karen Janszen"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
-        {
-            "Character": "A WALK TO REMEMBER",
-            "Replies": [
-                {
-                    "Reply": "Screenplay by  Karen Janszen   Based on the novel by  Nicholas Sparks     No portion of this script may be performed, reproduced, or used by any means, or quoted or published in any medium without the prior written consent of Warner Bros.",
-                    "Didascalie": "",
-                    "Start": 61,
-                    "End": 394
-                }
-            ]
-        },
         {
             "Character": "ADULT LANDON",
             "Replies": [

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Death at a Funeral",
-        "   "
-    ],
+    "Title": "Death at a Funeral",
     "Author": [
-        "\u00a0\u00a0Chris Rock\u00a0\u00a0Aeysha Carr"
+        "Chris Rock",
+        "Aeysha Carr"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -299,12 +297,6 @@
                     "Didascalie": "",
                     "Start": 28700,
                     "End": 28715
-                },
-                {
-                    "Reply": "18  CONTINUED: Ryan takes a seat in one of the chairs flanking the coffin.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 28752,
-                    "End": 28982
                 },
                 {
                     "Reply": "By the way, I'm going to need that money.",
@@ -2047,12 +2039,6 @@
                     "Didascalie": "",
                     "Start": 64201,
                     "End": 64326
-                },
-                {
-                    "Reply": "40  CONTINUED: Elaine, turns around.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 64363,
-                    "End": 64554
                 },
                 {
                     "Reply": "Hey, Elaine, I know you don't think I'm part of the family--",
@@ -6509,6 +6495,17 @@
                     "Didascalie": "",
                     "Start": 154974,
                     "End": 155008
+                }
+            ]
+        },
+        {
+            "Character": "MOURNER 1",
+            "Replies": [
+                {
+                    "Reply": "There's someone in there!",
+                    "Didascalie": "",
+                    "Start": 185185,
+                    "End": 185211
                 }
             ]
         }

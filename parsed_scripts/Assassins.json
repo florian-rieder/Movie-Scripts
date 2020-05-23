@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Assassins",
-        "   "
-    ],
+    "Title": "Assassins",
     "Author": [
-        "\u00a0\u00a0Larry Wachowski\u00a0\u00a0Andy Wachowski"
+        "Larry Wachowski",
+        "Andy Wachowski"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Action",
+        "Thriller"
     ],
     "Characters": [
         {

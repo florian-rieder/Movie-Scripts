@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "Limey, The",
-        "   "
-    ],
+    "Title": "Limey, The",
     "Author": [
-        "\u00a0\u00a0Lem Dobbs"
+        "Lem Dobbs"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "LEM DOBBS",
-            "Replies": [
-                {
-                    "Reply": "NOTE:  THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS.",
-                    "Didascalie": "",
-                    "Start": 243,
-                    "End": 304
-                }
-            ]
-        },
         {
             "Character": "ENVELOPE",
             "Replies": [
@@ -4836,12 +4823,6 @@
                     "Didascalie": "",
                     "Start": 74225,
                     "End": 74268
-                },
-                {
-                    "Reply": "Who, in a SERIES OF CUTS, continue to talk.  Finally, they separate, Wilson heading outside onto a deck.",
-                    "Didascalie": "",
-                    "Start": 74404,
-                    "End": 74514
                 }
             ]
         },

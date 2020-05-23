@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Antz",
-        "   "
-    ],
+    "Title": "Antz",
     "Author": [
-        "\u00a0\u00a0Todd Alcott\u00a0\u00a0Chris Weitz\u00a0\u00a0Paul Weitz"
+        "Todd Alcott",
+        "Chris Weitz",
+        "Paul Weitz"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -113,17 +115,6 @@
                     "Didascalie": "",
                     "Start": 5943,
                     "End": 6070
-                }
-            ]
-        },
-        {
-            "Character": "PULL OUT TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "AZTECA, a feisty, cynical, female worker ant, who stands there, waiting to pass the dirt on.  Z is daydreaming behind her, with clumps of dirt starting to pile up in front of him.",
-                    "Didascalie": "",
-                    "Start": 6672,
-                    "End": 6862
                 }
             ]
         },

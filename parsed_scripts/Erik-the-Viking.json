@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Erik the Viking",
-        "   "
-    ],
+    "Title": "Erik the Viking",
     "Author": [
-        "\u00a0\u00a0Terry Jones"
+        "Terry Jones"
     ],
     "Genre": [
-        "\u00a0\u00a0Fantasy"
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -3348,12 +3345,6 @@
                     "End": 51572
                 },
                 {
-                    "Reply": "\"FRIENDS\"?",
-                    "Didascalie": "(with disgust)",
-                    "Start": 52058,
-                    "End": 52070
-                },
-                {
                     "Reply": "We can make \"friends\" at home...",
                     "Didascalie": "",
                     "Start": 52219,
@@ -4588,12 +4579,6 @@
                     "End": 48920
                 },
                 {
-                    "Reply": "How do you DEFEND yourselves?",
-                    "Didascalie": "",
-                    "Start": 54699,
-                    "End": 54729
-                },
-                {
                     "Reply": "That's fear.",
                     "Didascalie": "",
                     "Start": 67203,
@@ -5515,12 +5500,6 @@
                     "End": 65220
                 },
                 {
-                    "Reply": "I'm not hurting you, am I?",
-                    "Didascalie": "(pinning Erik's arms behind him)",
-                    "Start": 65263,
-                    "End": 65291
-                },
-                {
                     "Reply": "Careful!",
                     "Didascalie": "(to musicians)",
                     "Start": 65449,
@@ -5836,16 +5815,50 @@
                     "End": 91633
                 },
                 {
-                    "Reply": "How can you tell?",
-                    "Didascalie": "(with genuine interest)",
-                    "Start": 91666,
-                    "End": 91685
-                },
-                {
                     "Reply": "Er...",
                     "Didascalie": "(a bit stumped)",
                     "Start": 91705,
                     "End": 91712
+                }
+            ]
+        },
+        {
+            "Character": "MUSICIAN 1",
+            "Replies": [
+                {
+                    "Reply": "I'm not hurting you, am I?",
+                    "Didascalie": "(pinning Erik's arms behind him)",
+                    "Start": 65263,
+                    "End": 65291
+                },
+                {
+                    "Reply": "Are we?",
+                    "Didascalie": "(to Erik)",
+                    "Start": 66608,
+                    "End": 66617
+                }
+            ]
+        },
+        {
+            "Character": "MUSICIAN 2",
+            "Replies": [
+                {
+                    "Reply": "You WILL tell us if we hurt you?",
+                    "Didascalie": "",
+                    "Start": 65313,
+                    "End": 65346
+                },
+                {
+                    "Reply": "Oh no! We can hold onto you - just so long we don't squeeze too hard or bump you.",
+                    "Didascalie": "",
+                    "Start": 65544,
+                    "End": 65626
+                },
+                {
+                    "Reply": "We're not hurting him!",
+                    "Didascalie": "",
+                    "Start": 66565,
+                    "End": 66588
                 }
             ]
         },
@@ -5964,6 +5977,28 @@
             ]
         },
         {
+            "Character": "DOG-SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 74996,
+                    "End": 75000
+                }
+            ]
+        },
+        {
+            "Character": "DOG-SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "They're usually too scared of us.",
+                    "Didascalie": "",
+                    "Start": 75014,
+                    "End": 75048
+                }
+            ]
+        },
+        {
             "Character": "DOG-SOLDIER",
             "Replies": [
                 {
@@ -6056,6 +6091,45 @@
                     "Didascalie": "",
                     "Start": 91575,
                     "End": 91588
+                }
+            ]
+        },
+        {
+            "Character": "CITIZEN 1",
+            "Replies": [
+                {
+                    "Reply": "How can you tell?",
+                    "Didascalie": "(with genuine interest)",
+                    "Start": 91666,
+                    "End": 91685
+                },
+                {
+                    "Reply": "Panic-monger!",
+                    "Didascalie": "",
+                    "Start": 91901,
+                    "End": 91915
+                }
+            ]
+        },
+        {
+            "Character": "CITIZEN 2",
+            "Replies": [
+                {
+                    "Reply": "No THANKS!",
+                    "Didascalie": "",
+                    "Start": 91844,
+                    "End": 91855
+                }
+            ]
+        },
+        {
+            "Character": "CITIZEN 3",
+            "Replies": [
+                {
+                    "Reply": "Who do you think YOU are?",
+                    "Didascalie": "",
+                    "Start": 91865,
+                    "End": 91891
                 }
             ]
         },
@@ -6154,17 +6228,6 @@
                     "Didascalie": "(grinning cheerfully)",
                     "Start": 112928,
                     "End": 112957
-                }
-            ]
-        },
-        {
-            "Character": "A HORRIBLY SLAIN FRIEND OF HIS",
-            "Replies": [
-                {
-                    "Reply": "Yeah. It's much better than dying of old age.",
-                    "Didascalie": "",
-                    "Start": 112989,
-                    "End": 113035
                 }
             ]
         },

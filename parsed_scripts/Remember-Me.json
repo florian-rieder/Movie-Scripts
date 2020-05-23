@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Remember Me",
-        "   "
-    ],
+    "Title": "Remember Me",
     "Author": [
-        "\u00a0\u00a0William Fetters\u00a0\u00a0Jenny Lumet"
+        "William Fetters",
+        "Jenny Lumet"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

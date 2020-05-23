@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Descendants, The",
-        "   "
-    ],
+    "Title": "Descendants, The",
     "Author": [
-        "\u00a0\u00a0Alexander Payne\u00a0\u00a0Nat Faxon\u00a0\u00a0Jim Rash"
+        "Alexander Payne",
+        "Nat Faxon",
+        "Jim Rash"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5970,17 +5970,6 @@
             ]
         },
         {
-            "Character": "A VASE OF FLOWERS",
-            "Replies": [
-                {
-                    "Reply": "appearing in the doorway, topped by blonde hair and held by thin bronzed arms. It's JULIE SPEER.",
-                    "Didascalie": "",
-                    "Start": 221486,
-                    "End": 221589
-                }
-            ]
-        },
-        {
             "Character": "PADDLES",
             "Replies": [
                 {
@@ -5988,17 +5977,6 @@
                     "Didascalie": "",
                     "Start": 228590,
                     "End": 228604
-                }
-            ]
-        },
-        {
-            "Character": "A BOX ENCIRCLED BY LEIS",
-            "Replies": [
-                {
-                    "Reply": "sits tied to the seat of a small outrigger CANOE.",
-                    "Didascalie": "",
-                    "Start": 228641,
-                    "End": 228691
                 }
             ]
         }

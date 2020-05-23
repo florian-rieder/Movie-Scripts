@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Doors, The",
-        "   "
-    ],
+    "Title": "Doors, The",
     "Author": [
-        "\u00a0\u00a0Randall Jahnson\u00a0\u00a0Oliver Stone"
+        "Randall Jahnson",
+        "Oliver Stone"
     ],
     "Genre": [
-        "\u00a0\u00a0Biography\u00a0\u00a0Drama\u00a0\u00a0Music"
+        "Biography",
+        "Drama",
+        "Music"
     ],
     "Characters": [
         {
@@ -582,12 +582,6 @@
                     "End": 73785
                 },
                 {
-                    "Reply": "\"Love\".",
-                    "Didascalie": "(withering look, very hip)",
-                    "Start": 73917,
-                    "End": 73951
-                },
-                {
                     "Reply": "Yeah, Arthur Lee's cool.",
                     "Didascalie": "",
                     "Start": 74018,
@@ -1026,12 +1020,6 @@
                     "End": 133005
                 },
                 {
-                    "Reply": "...like a medicine man or witch doctor?",
-                    "Didascalie": "(smiling)",
-                    "Start": 133095,
-                    "End": 133187
-                },
-                {
                     "Reply": "I guess when you say something like that, it's a shortcut to thinking.",
                     "Didascalie": "",
                     "Start": 134640,
@@ -1042,12 +1030,6 @@
                     "Didascalie": "(softly)",
                     "Start": 135093,
                     "End": 135151
-                },
-                {
-                    "Reply": "And it's true you financed it's publication?",
-                    "Didascalie": "(having scored)",
-                    "Start": 135247,
-                    "End": 135344
                 },
                 {
                     "Reply": "Hey c'mon Ray, hate should be allowed.",
@@ -1066,12 +1048,6 @@
                     "Didascalie": "(graciously disdainful)",
                     "Start": 137544,
                     "End": 137899
-                },
-                {
-                    "Reply": "And alcohol? Is that considered part of the shaman's wisdom?",
-                    "Didascalie": "(ignoring his smile)",
-                    "Start": 138000,
-                    "End": 138113
                 },
                 {
                     "Reply": "Part of the clown's wisdom -- it's kinda the American way. You know we spend more on alcohol and tobacco than on education.",
@@ -2836,12 +2812,6 @@
                     "End": 205300
                 },
                 {
-                    "Reply": "The river runs red down the legs of the city She came The women are crying red rivers of weeping  The MONTAGE collides into an ECU on JIM -- drinking as if to silence the images, the sounds we hear and see on his face. Spirits crying for release. In alcoholic solace. He passes out, head hitting the bar.",
-                    "Didascalie": "",
-                    "Start": 207062,
-                    "End": 207462
-                },
-                {
                     "Reply": "Summer's almost gone Where will we be When the summer's gone?",
                     "Didascalie": "",
                     "Start": 215706,
@@ -3326,12 +3296,6 @@
                     "End": 133785
                 },
                 {
-                    "Reply": "Is that why they scream so much?",
-                    "Didascalie": "(glib)",
-                    "Start": 133872,
-                    "End": 133931
-                },
-                {
                     "Reply": "Have you bothered to read the poetry ma'm? You keep denying that anything good can come from L.A., I mean isn't that kind of a provincial attitude? That Bob Dylan's the only poet cause he's from the East Coast, but you won't even look past Jim's goddamn looks at the words man!",
                     "Didascalie": "(angry)",
                     "Start": 135545,
@@ -3627,6 +3591,23 @@
             ]
         },
         {
+            "Character": "STUDENT 1",
+            "Replies": [
+                {
+                    "Reply": "It was a bore!! That's what!",
+                    "Didascalie": "",
+                    "Start": 22394,
+                    "End": 22423
+                },
+                {
+                    "Reply": "TRICK, BONES and JACK, three friends sitting next to Jim, shoot their hands up.",
+                    "Didascalie": "(laughter)",
+                    "Start": 22463,
+                    "End": 22576
+                }
+            ]
+        },
+        {
             "Character": "TRICK",
             "Replies": [
                 {
@@ -3658,6 +3639,58 @@
                     "Didascalie": "",
                     "Start": 30641,
                     "End": 30658
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "No it wasn't. It was worse!",
+                    "Didascalie": "",
+                    "Start": 22753,
+                    "End": 22781
+                },
+                {
+                    "Reply": "\"Love\".",
+                    "Didascalie": "(withering look, very hip)",
+                    "Start": 73917,
+                    "End": 73951
+                },
+                {
+                    "Reply": "They're the best... better'n the Beatles.",
+                    "Didascalie": "",
+                    "Start": 74113,
+                    "End": 74181
+                },
+                {
+                    "Reply": "The Doors. I heard of you. That's the dumbest name. I wouldn't go to the Fog if you paid me.",
+                    "Didascalie": "(contempt)",
+                    "Start": 74757,
+                    "End": 74928
+                },
+                {
+                    "Reply": "Well, would you leave my name at the door?",
+                    "Didascalie": "(intrigued, to Jim)",
+                    "Start": 75829,
+                    "End": 75924
+                },
+                {
+                    "Reply": "Caprice.",
+                    "Didascalie": "",
+                    "Start": 76098,
+                    "End": 76107
+                }
+            ]
+        },
+        {
+            "Character": "STUDENT 2",
+            "Replies": [
+                {
+                    "Reply": "...is less pretentious! There was no political consciousness. Naziism is...",
+                    "Didascalie": "",
+                    "Start": 22957,
+                    "End": 23085
                 }
             ]
         },
@@ -3844,12 +3877,6 @@
                     "Didascalie": "",
                     "Start": 60051,
                     "End": 60062
-                },
-                {
-                    "Reply": "A row of NIGHTCLUBS glisten off the hoods of passing traffic. Marquees announce: THE BYRDS, RED ROOSTER, LOVE, THE HERD, TURTLES, CAPTAIN BEEFHEART. The CLUBS are PANDORA'S BOX, THE TRIP, CIRO'S, BIDO LITO'S, GAZZARRI'S, THE EXPERIENCE... . Headlights and neon intercut with:  DOCUMENTARY TYPE SHOTS of TEENAGERS, HIPPIES, LONGHAIRS, running summer rampant, banging tambourines. COPS busting kids against cars on the street as PARENTS go by rolling up their windows. The action was on the street. LIGHT MY FIRE carries over the montage.",
-                    "Didascalie": "",
-                    "Start": 60772,
-                    "End": 61452
                 },
                 {
                     "Reply": "What a sleaze! Man, Jim's gotta start facing the crowd if he's gonna be the front man.",
@@ -4930,6 +4957,29 @@
             ]
         },
         {
+            "Character": "GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "Oh please. I forgot my I.D.. I'm on the list.",
+                    "Didascalie": "",
+                    "Start": 62579,
+                    "End": 62651
+                },
+                {
+                    "Reply": "And who are you?",
+                    "Didascalie": "",
+                    "Start": 74476,
+                    "End": 74493
+                },
+                {
+                    "Reply": "I don't have a phone number. So give me your number then.",
+                    "Didascalie": "",
+                    "Start": 75454,
+                    "End": 75538
+                }
+            ]
+        },
+        {
             "Character": "JERRY",
             "Replies": [
                 {
@@ -5072,17 +5122,6 @@
                     "Didascalie": "",
                     "Start": 91591,
                     "End": 91934
-                }
-            ]
-        },
-        {
-            "Character": "AAAAAAAGGGGGGGHHHHHHH",
-            "Replies": [
-                {
-                    "Reply": "YOOOOOUUUUUUUUUU!!!!! FUCK YOU ALL NIGHT!",
-                    "Didascalie": "",
-                    "Start": 97057,
-                    "End": 97125
                 }
             ]
         },
@@ -5557,6 +5596,146 @@
                     "Didascalie": "",
                     "Start": 338980,
                     "End": 339261
+                }
+            ]
+        },
+        {
+            "Character": "JOURNALIST 1",
+            "Replies": [
+                {
+                    "Reply": "What are your songs about Mr. Morrison?",
+                    "Didascalie": "(stiff, Times type)",
+                    "Start": 131358,
+                    "End": 131450
+                },
+                {
+                    "Reply": "Can you define that a little more?",
+                    "Didascalie": "",
+                    "Start": 132082,
+                    "End": 132117
+                },
+                {
+                    "Reply": "...like a medicine man or witch doctor?",
+                    "Didascalie": "(smiling)",
+                    "Start": 133095,
+                    "End": 133187
+                },
+                {
+                    "Reply": "Is that why they scream so much?",
+                    "Didascalie": "(glib)",
+                    "Start": 133872,
+                    "End": 133931
+                },
+                {
+                    "Reply": "...but what really are your songs about Mr. Morrison? You preach, \"saving the planet\", \"making a new age\" but how does drinking, taking drugs, this boozy sort of apocalyptic stance at the world influence young people in a positive way?",
+                    "Didascalie": "",
+                    "Start": 136257,
+                    "End": 136649
+                }
+            ]
+        },
+        {
+            "Character": "JOURNALIST 2",
+            "Replies": [
+                {
+                    "Reply": "Do you really consider yourself a shaman Mr. Morrison?",
+                    "Didascalie": "",
+                    "Start": 132412,
+                    "End": 132493
+                },
+                {
+                    "Reply": "I have the feeling I'm being put on.",
+                    "Didascalie": "",
+                    "Start": 142263,
+                    "End": 142300
+                }
+            ]
+        },
+        {
+            "Character": "JOURNALIST 3",
+            "Replies": [
+                {
+                    "Reply": "Mr. Morrison, how do you feel about being called the \"ultimate barbie doll\".",
+                    "Didascalie": "(more down to earth)",
+                    "Start": 134360,
+                    "End": 134515
+                },
+                {
+                    "Reply": "Then do you \"think\" about the dreadful reviews your new poetry book has gotten?",
+                    "Didascalie": "",
+                    "Start": 134813,
+                    "End": 134945
+                },
+                {
+                    "Reply": "And it's true you financed it's publication?",
+                    "Didascalie": "(having scored)",
+                    "Start": 135247,
+                    "End": 135344
+                },
+                {
+                    "Reply": "Do you believe in drugs Mr. Morrison?",
+                    "Didascalie": "",
+                    "Start": 137342,
+                    "End": 137380
+                },
+                {
+                    "Reply": "And alcohol? Is that considered part of the shaman's wisdom?",
+                    "Didascalie": "(ignoring his smile)",
+                    "Start": 138000,
+                    "End": 138113
+                },
+                {
+                    "Reply": "Are you by any chance in a trance now Mr. Morrison?",
+                    "Didascalie": "",
+                    "Start": 138506,
+                    "End": 138584
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 138740,
+                    "End": 138746
+                },
+                {
+                    "Reply": "What are you doing?",
+                    "Didascalie": "",
+                    "Start": 138979,
+                    "End": 138999
+                },
+                {
+                    "Reply": "Are you serious?",
+                    "Didascalie": "",
+                    "Start": 139295,
+                    "End": 139312
+                }
+            ]
+        },
+        {
+            "Character": "JOURNALIST 4",
+            "Replies": [
+                {
+                    "Reply": "What do your parents think about what you are doing?",
+                    "Didascalie": "",
+                    "Start": 140035,
+                    "End": 140114
+                },
+                {
+                    "Reply": "But they must've expressed some feeling?",
+                    "Didascalie": "",
+                    "Start": 140697,
+                    "End": 140764
+                },
+                {
+                    "Reply": "Could you at least tell us how they died?",
+                    "Didascalie": "",
+                    "Start": 141139,
+                    "End": 141207
+                },
+                {
+                    "Reply": "I'm sorry.",
+                    "Didascalie": "",
+                    "Start": 142176,
+                    "End": 142187
                 }
             ]
         },
@@ -6325,6 +6504,29 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "I'm going to have to issue a warrant for his arrest.",
+                    "Didascalie": "",
+                    "Start": 185745,
+                    "End": 185824
+                },
+                {
+                    "Reply": "Hey whatcha got here? A boy or a girl?",
+                    "Didascalie": "(coming in)",
+                    "Start": 196578,
+                    "End": 196669
+                },
+                {
+                    "Reply": "Ain't he the prettiest long-haired boy y'ever saw?",
+                    "Didascalie": "",
+                    "Start": 197191,
+                    "End": 197268
+                }
+            ]
+        },
+        {
             "Character": "HECKLER",
             "Replies": [
                 {
@@ -6355,6 +6557,35 @@
                     "Didascalie": "",
                     "Start": 194709,
                     "End": 194804
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "What do you care. You're gonna fuck him anyway... Okay rock star, let's see the backdoor you keep bawling about.",
+                    "Didascalie": "(coming closer to Jim)",
+                    "Start": 196765,
+                    "End": 196982
+                },
+                {
+                    "Reply": "Where's the roach powder?",
+                    "Didascalie": "(stretching his ass cheeks)",
+                    "Start": 197070,
+                    "End": 197122
+                },
+                {
+                    "Reply": "Turn around rock star.",
+                    "Didascalie": "(reaching for a can)",
+                    "Start": 197362,
+                    "End": 197411
+                },
+                {
+                    "Reply": "Stand clear, who the hell knows what's living in there?",
+                    "Didascalie": "(backing off)",
+                    "Start": 197617,
+                    "End": 197725
                 }
             ]
         },
@@ -6846,6 +7077,17 @@
             ]
         },
         {
+            "Character": "TEENAGE GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "Where? I didn't see it.",
+                    "Didascalie": "",
+                    "Start": 317162,
+                    "End": 317186
+                }
+            ]
+        },
+        {
             "Character": "JUDGE VOICE",
             "Replies": [
                 {
@@ -6921,6 +7163,28 @@
                     "Didascalie": "(cheers)",
                     "Start": 333524,
                     "End": 333794
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "...but the promoters are cancelling your shows, will this affect the way you play?",
+                    "Didascalie": "(disinterested)",
+                    "Start": 335059,
+                    "End": 335220
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "But you've called yourself a shaman?",
+                    "Didascalie": "",
+                    "Start": 335493,
+                    "End": 335530
                 }
             ]
         },

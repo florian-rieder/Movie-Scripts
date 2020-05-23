@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Curious Case of Benjamin Button, The",
-        "   "
-    ],
+    "Title": "Curious Case of Benjamin Button, The",
     "Author": [
-        "\u00a0\u00a0Eric Roth"
+        "Eric Roth"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Mystery\u00a0\u00a0Romance"
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3177,41 +3177,6 @@
             ]
         },
         {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Join the club.",
-                    "Didascalie": "",
-                    "Start": 38925,
-                    "End": 38940
-                },
-                {
-                    "Reply": "When's dessert...?",
-                    "Didascalie": "",
-                    "Start": 52369,
-                    "End": 52388
-                },
-                {
-                    "Reply": "He never pays... He always says he'll have to owe it to you...",
-                    "Didascalie": "(warning them)",
-                    "Start": 105341,
-                    "End": 105435
-                },
-                {
-                    "Reply": "Places everybody... Once again...",
-                    "Didascalie": "",
-                    "Start": 150038,
-                    "End": 150072
-                },
-                {
-                    "Reply": "Before you look around they'll be in High School dating.",
-                    "Didascalie": "",
-                    "Start": 336208,
-                    "End": 336282
-                }
-            ]
-        },
-        {
             "Character": "BENJAMIN BUTTON",
             "Replies": [
                 {
@@ -5427,17 +5392,6 @@
                     "Didascalie": "",
                     "Start": 267291,
                     "End": 267325
-                }
-            ]
-        },
-        {
-            "Character": "A WESTERN UNION MESSENGER",
-            "Replies": [
-                {
-                    "Reply": "I have a telegram for Mr. Benjamin Button...",
-                    "Didascalie": "",
-                    "Start": 268597,
-                    "End": 268661
                 }
             ]
         },

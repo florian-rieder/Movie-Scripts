@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Six Degrees of Separation",
-        "   "
-    ],
+    "Title": "Six Degrees of Separation",
     "Author": [
-        "\u00a0\u00a0John Guare"
+        "John Guare"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Comedy",
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -817,12 +816,6 @@
                     "End": 79559
                 },
                 {
-                    "Reply": "All the better. 0 FLAN opens a door in the OFFICE. THE OFFICE connects to  THE MASTER BEDROOM.",
-                    "Didascalie": "",
-                    "Start": 79882,
-                    "End": 79997
-                },
-                {
                     "Reply": "You were wonderful!",
                     "Didascalie": "",
                     "Start": 80158,
@@ -1187,12 +1180,6 @@
                     "Didascalie": "",
                     "Start": 111090,
                     "End": 111128
-                },
-                {
-                    "Reply": "Our kids came down from Harvard. a Loud groans of protest and disbelief fill the  KITTREDGE'S LIVING ROOM DAY Two of FLAN and OUISA'S college aged CHILDREN, WOODY and TESS, and KITTY and LARKIN'S boy, BEN, slump around the room. They are in dismay at OUISA, FLAN, KITTY and LARKIN and their story.",
-                    "Didascalie": "",
-                    "Start": 112205,
-                    "End": 112563
                 },
                 {
                     "Reply": "And none of you knows this fellow? He has this wild quality--yet, a real elegance and a real concern and a real consideration.",
@@ -2968,12 +2955,6 @@
                     "End": 96336
                 },
                 {
-                    "Reply": "Well, it's not  BACK IN THE KITTREDGE'S LIVING ROOM FLAN and OUISA survey the living room.",
-                    "Didascalie": "",
-                    "Start": 96876,
-                    "End": 96987
-                },
-                {
                     "Reply": "I am shaking.",
                     "Didascalie": "",
                     "Start": 97028,
@@ -3320,12 +3301,6 @@
                     "Didascalie": "",
                     "Start": 157627,
                     "End": 157652
-                },
-                {
-                    "Reply": "We stepped out of the taxi from the airport and  EXT THE KITTREDGE'S APARTMENT BUILDING DAY FLAN steps out of the cab first.",
-                    "Didascalie": "",
-                    "Start": 157825,
-                    "End": 157970
                 },
                 {
                     "Reply": "Darling, they don't have to know every detail.",
@@ -5086,17 +5061,6 @@
             ]
         },
         {
-            "Character": "HANGS IN",
-            "Replies": [
-                {
-                    "Reply": "THE KITTREDGE'S LIVING ROOM.",
-                    "Didascalie": "",
-                    "Start": 12336,
-                    "End": 12365
-                }
-            ]
-        },
-        {
             "Character": "INT MILLBROOK CLUB DAY",
             "Replies": [
                 {
@@ -5426,17 +5390,6 @@
             ]
         },
         {
-            "Character": "A STATUE OF AN ALASKAN HUSKY",
-            "Replies": [
-                {
-                    "Reply": "baying up into the sky.",
-                    "Didascalie": "",
-                    "Start": 26870,
-                    "End": 26894
-                }
-            ]
-        },
-        {
             "Character": "INTO",
             "Replies": [
                 {
@@ -5496,12 +5449,6 @@
                     "Didascalie": "",
                     "Start": 63821,
                     "End": 63896
-                },
-                {
-                    "Reply": "It seems the BRIDE and GROOM have joined the people listening to FLAN and OUISA's tale.",
-                    "Didascalie": "",
-                    "Start": 74507,
-                    "End": 74605
                 },
                 {
                     "Reply": "THE CHUMS hang on OUISA's every word.",
@@ -5619,17 +5566,6 @@
             ]
         },
         {
-            "Character": "NEW BLACKS-",
-            "Replies": [
-                {
-                    "Reply": "KITTREDGE'S LIVING ROOM OUISA is trying to hear the other end of the call.",
-                    "Didascalie": "",
-                    "Start": 100157,
-                    "End": 100242
-                }
-            ]
-        },
-        {
             "Character": "INT AIRPORT IMMIGRATION",
             "Replies": [
                 {
@@ -5637,6 +5573,17 @@
                     "Didascalie": "",
                     "Start": 100612,
                     "End": 100663
+                }
+            ]
+        },
+        {
+            "Character": "EXT EAST 67TH STREET DAY",
+            "Replies": [
+                {
+                    "Reply": "Below us FLAN and,OUISA's car heads for the garage.",
+                    "Didascalie": "",
+                    "Start": 103122,
+                    "End": 103174
                 }
             ]
         },
@@ -6387,17 +6334,6 @@
                     "Didascalie": "",
                     "Start": 186776,
                     "End": 186809
-                }
-            ]
-        },
-        {
-            "Character": "A CONCERT-GOER",
-            "Replies": [
-                {
-                    "Reply": "No sons?",
-                    "Didascalie": "",
-                    "Start": 127302,
-                    "End": 127311
                 }
             ]
         },
@@ -7393,17 +7329,6 @@
                     "Didascalie": "(PAUL draws a circle on RICK's back.)",
                     "Start": 185614,
                     "End": 185656
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "NEW YORK TIMES article entitled: \"Who Says New Yorkers Don't Have a Heart\"",
-                    "Didascalie": "",
-                    "Start": 193569,
-                    "End": 193654
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Midnight in Paris",
-        "   "
-    ],
+    "Title": "Midnight in Paris",
     "Author": [
-        "\u00a0\u00a0Woody Allen"
+        "Woody Allen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Comedy",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {

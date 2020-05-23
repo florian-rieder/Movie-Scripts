@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "April Fool's Day",
-        "   "
-    ],
+    "Title": "April Fool's Day",
     "Author": [
-        "\u00a0\u00a0Danilo Bach"
+        "Danilo Bach"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Mystery"
+        "Comedy",
+        "Horror",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -4938,17 +4937,6 @@
                     "Didascalie": "(CRITICALLY)",
                     "Start": 162004,
                     "End": 162078
-                }
-            ]
-        },
-        {
-            "Character": "WIDEN TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Muffy, Nikki and Kit cooking a dinner of hot dogs... baked.",
-                    "Didascalie": "",
-                    "Start": 43883,
-                    "End": 43943
                 }
             ]
         },

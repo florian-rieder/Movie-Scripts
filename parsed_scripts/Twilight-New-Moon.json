@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Twilight: New Moon",
-        "   "
-    ],
+    "Title": "Twilight: New Moon",
     "Author": [
-        "\u00a0\u00a0Melissa Rosenberg\u00a0\u00a0Stephenie Meyer"
+        "Melissa Rosenberg",
+        "Stephenie Meyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {

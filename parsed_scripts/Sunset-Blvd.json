@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Sunset Blvd.",
-        "   "
-    ],
+    "Title": "Sunset Blvd.",
     "Author": [
-        "\u00a0\u00a0Charles Brackett\u00a0\u00a0Billy Wilder\u00a0\u00a0D.M. Harshman Jr."
+        "Charles Brackett",
+        "Billy Wilder",
+        "D.M. Harshman Jr."
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Film-Noir"
+        "Drama",
+        "Film-Noir"
     ],
     "Characters": [
         {
@@ -2754,6 +2754,61 @@
             ]
         },
         {
+            "Character": "A-16    ANOTHER CAR",
+            "Replies": [
+                {
+                    "Reply": "It is a dark-green Dodge business coupe, also waiting for the light to change.  but headed in the opposite direction.  In it are the two finance company men.",
+                    "Didascalie": "",
+                    "Start": 26611,
+                    "End": 26789
+                }
+            ]
+        },
+        {
+            "Character": "A-23    A DRIVEWAY",
+            "Replies": [
+                {
+                    "Reply": "It is overgrown with weeds and screened from the street by bushes and trees.  Gillis stops his car about thirty feet from the street and looks back.",
+                    "Didascalie": "",
+                    "Start": 27843,
+                    "End": 28012
+                }
+            ]
+        },
+        {
+            "Character": "A-25    GILLIS",
+            "Replies": [
+                {
+                    "Reply": "He watches his pursuers               GILLIS' VOICE shoot past and out of      Yeah...",
+                    "Didascalie": "",
+                    "Start": 28251,
+                    "End": 28348
+                }
+            ]
+        },
+        {
+            "Character": "A-27    GILLIS",
+            "Replies": [
+                {
+                    "Reply": "He gets back into his      There was another occupant in car and carefully pilots   that garage: an enormous the limping vehicle into   foreign-built automobile.  It one of the stalls.  In     must have burned up ten gallons the adjoining one is a     to a mile.  It had a 1932 large, dust-covered        license.  I figured that's Isotta-Fraschini propped   when the owners moved out...",
+                    "Didascalie": "",
+                    "Start": 29105,
+                    "End": 29553
+                }
+            ]
+        },
+        {
+            "Character": "A-28    UPSTAIRS LOGGIA",
+            "Replies": [
+                {
+                    "Reply": "Behind a bamboo blind there is a movement of a dark figure.",
+                    "Didascalie": "",
+                    "Start": 31206,
+                    "End": 31276
+                }
+            ]
+        },
+        {
             "Character": "MAX",
             "Replies": [
                 {
@@ -4443,6 +4498,39 @@
             ]
         },
         {
+            "Character": "B-1O   NORMA AND GILLIS",
+            "Replies": [
+                {
+                    "Reply": "GILLIS' VOICE They sit on a couch,facing    \"So much nicer than going the screen. On a table in     out,\" she'd say.  The front of them are champagne,  plain fact was that she cigarettes and coffee.        was afraid of that world Above their heads are the     outside.  Afraid it typical openings for a pro-   would remind her that jector. The lights go off.    time had passed.",
+                    "Didascalie": "",
+                    "Start": 70447,
+                    "End": 70897
+                }
+            ]
+        },
+        {
+            "Character": "B-12   NORMA AND GILLIS",
+            "Replies": [
+                {
+                    "Reply": "She'd sit very close to watching the screen.          me, and she'd smell of Gillis looks down and sees    tuberoses, which is not that Norma's hand is clasp-   my favorite perfume, not ing his ann tight. He         by a long shot. Sometines doesn't like it much but      as we watched, she'd c he can't do anything about    lutch my arm or my hand it. However. when she for     forgetting she was my a second lets go his arm      employer becoming just a to pick up a glass of         fan, excited about that champagne, he gently with-    actress up there on the draws his arm, leans away     screen....I guess I don't from her and crosses his      have to tell you who the arms to discourage any        star was.  They were resumption of her approach.   always her pictures --",
+                    "Didascalie": "",
+                    "Start": 71504,
+                    "End": 72423
+                }
+            ]
+        },
+        {
+            "Character": "B-17   GILLIS",
+            "Replies": [
+                {
+                    "Reply": "He steps back so that he cannot be seen from the door.  A second later Max appears, looking for him.",
+                    "Didascalie": "",
+                    "Start": 75233,
+                    "End": 75344
+                }
+            ]
+        },
+        {
             "Character": "SALESMAN",
             "Replies": [
                 {
@@ -4473,6 +4561,28 @@
                     "Didascalie": "",
                     "Start": 88808,
                     "End": 89047
+                }
+            ]
+        },
+        {
+            "Character": "C-14    MAX",
+            "Replies": [
+                {
+                    "Reply": "He is subtler than the musicians.  He appears very busy at the buffet, putting empty bottles and used glasses on a tray.  He walks across the room with them.",
+                    "Didascalie": "",
+                    "Start": 99832,
+                    "End": 100020
+                }
+            ]
+        },
+        {
+            "Character": "C-15    GILLIS",
+            "Replies": [
+                {
+                    "Reply": "He starts slowly out.  As he does so his long gold key chain catches on a carved ornament of the sofa and holds him for a second of additional embarrass-",
+                    "Didascalie": "",
+                    "Start": 100050,
+                    "End": 100224
                 }
             ]
         },
@@ -4730,6 +4840,17 @@
             ]
         },
         {
+            "Character": "D-10    STAGE 18",
+            "Replies": [
+                {
+                    "Reply": "to a second assistant.",
+                    "Didascalie": "",
+                    "Start": 141396,
+                    "End": 141419
+                }
+            ]
+        },
+        {
             "Character": "STAGE HAND",
             "Replies": [
                 {
@@ -4949,13 +5070,13 @@
             ]
         },
         {
-            "Character": "A VOICE",
+            "Character": "D-13    STAGE 18",
             "Replies": [
                 {
-                    "Reply": "Hey, Miss Desmond! Miss Desmond!",
+                    "Reply": "During the ensuing dialogue, Mr. deMille walks Norma towards the set.",
                     "Didascalie": "",
-                    "Start": 147296,
-                    "End": 147329
+                    "Start": 145258,
+                    "End": 145338
                 }
             ]
         },
@@ -5073,6 +5194,39 @@
                     "Didascalie": "",
                     "Start": 191319,
                     "End": 191380
+                }
+            ]
+        },
+        {
+            "Character": "E-36    BETTY",
+            "Replies": [
+                {
+                    "Reply": "She doesn't even look.  Her eyes filled with tears, she runs down the entrance porch toward her car.",
+                    "Didascalie": "",
+                    "Start": 197997,
+                    "End": 198108
+                }
+            ]
+        },
+        {
+            "Character": "E-40    STAIRCASE",
+            "Replies": [
+                {
+                    "Reply": "Gillis descending with the typewriter.",
+                    "Didascalie": "",
+                    "Start": 204935,
+                    "End": 204974
+                }
+            ]
+        },
+        {
+            "Character": "E-41    PATIO",
+            "Replies": [
+                {
+                    "Reply": "Dark except for lights from the house and the luminousness of the lit pool.",
+                    "Didascalie": "",
+                    "Start": 205473,
+                    "End": 205559
                 }
             ]
         },

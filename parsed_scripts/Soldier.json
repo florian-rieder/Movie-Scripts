@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Soldier",
-        "   "
-    ],
+    "Title": "Soldier",
     "Author": [
-        "\u00a0\u00a0David Webb Peoples"
+        "David Webb Peoples"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1320,6 +1319,95 @@
                     "Didascalie": "",
                     "Start": 251745,
                     "End": 251760
+                }
+            ]
+        },
+        {
+            "Character": "CAINE 607",
+            "Replies": [
+                {
+                    "Reply": "Sir!",
+                    "Didascalie": "",
+                    "Start": 23168,
+                    "End": 23173
+                },
+                {
+                    "Reply": "Crawler, Crawler to Daddy.  No hostiles!",
+                    "Didascalie": "",
+                    "Start": 131939,
+                    "End": 131999
+                },
+                {
+                    "Reply": "Crawler to Daddy, Crawler to Daddy.",
+                    "Didascalie": "",
+                    "Start": 166801,
+                    "End": 166837
+                },
+                {
+                    "Reply": "It's dark now, sir.",
+                    "Didascalie": "",
+                    "Start": 178274,
+                    "End": 178294
+                },
+                {
+                    "Reply": "No, sir.  But the manual says --",
+                    "Didascalie": "",
+                    "Start": 178482,
+                    "End": 178515
+                },
+                {
+                    "Reply": "Yes, sir.  But the sixth rule is \"never give the enemy an advantage unnecessarily.\"  If they're expecting us --",
+                    "Didascalie": "",
+                    "Start": 178717,
+                    "End": 178886
+                },
+                {
+                    "Reply": "Crawler One, do you require assistance?",
+                    "Didascalie": "",
+                    "Start": 185507,
+                    "End": 185566
+                },
+                {
+                    "Reply": "Roger, One.  We are proceeding to target.",
+                    "Didascalie": "",
+                    "Start": 185785,
+                    "End": 185846
+                },
+                {
+                    "Reply": "Crawler Two to Crawler One.  Come in, One.",
+                    "Didascalie": "",
+                    "Start": 200632,
+                    "End": 200694
+                },
+                {
+                    "Reply": "Two to one, take your port to our nine o'clock and commence firing.",
+                    "Didascalie": "",
+                    "Start": 200825,
+                    "End": 200912
+                },
+                {
+                    "Reply": "Crawler Two to Crawler One.  Again; proceed to port nine...",
+                    "Didascalie": "",
+                    "Start": 201297,
+                    "End": 201376
+                },
+                {
+                    "Reply": "Two to One.  You are still on twelve o'clock.  Correct to nine.",
+                    "Didascalie": "(into the mike)",
+                    "Start": 201683,
+                    "End": 201786
+                },
+                {
+                    "Reply": "Gunner, hard to port, target hard to port!",
+                    "Didascalie": "",
+                    "Start": 202067,
+                    "End": 202129
+                },
+                {
+                    "Reply": "It hurts!",
+                    "Didascalie": "",
+                    "Start": 233290,
+                    "End": 233300
                 }
             ]
         },

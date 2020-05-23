@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Shame",
-        "   "
-    ],
+    "Title": "Shame",
     "Author": [
-        "\u00a0\u00a0Steve McQueen\u00a0\u00a0Abi Morgan"
+        "Steve McQueen",
+        "Abi Morgan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4004,17 +4002,6 @@
                     "Didascalie": "",
                     "Start": 105520,
                     "End": 105531
-                }
-            ]
-        },
-        {
-            "Character": "A CAR HORN LOUD UNREMITTING-",
-            "Replies": [
-                {
-                    "Reply": "BRANDON turns, his hypnotism broken. It's as if he comes back to himself.",
-                    "Didascalie": "",
-                    "Start": 75410,
-                    "End": 75489
                 }
             ]
         },

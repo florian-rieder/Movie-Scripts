@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Independence Day",
-        "   "
-    ],
+    "Title": "Independence Day",
     "Author": [
-        "\u00a0\u00a0Dean Devlin\u00a0\u00a0Roland Emmerich"
+        "Dean Devlin",
+        "Roland Emmerich"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2370,17 +2369,6 @@
             ]
         },
         {
-            "Character": "A TELEVISION SET",
-            "Replies": [
-                {
-                    "Reply": "Bad reception.  A hand SMOCKS the side of it.  No use.",
-                    "Didascalie": "",
-                    "Start": 12421,
-                    "End": 12476
-                }
-            ]
-        },
-        {
             "Character": "MIGUEL",
             "Replies": [
                 {
@@ -2982,17 +2970,6 @@
                     "Didascalie": "",
                     "Start": 18109,
                     "End": 18221
-                }
-            ]
-        },
-        {
-            "Character": "A LINE OF TREES",
-            "Replies": [
-                {
-                    "Reply": "at the edge of the field, nearly on top of him.  In a trick move, Russell turns the plane on ITS SIDE, and SLICES through the narrow gap between the trees.",
-                    "Didascalie": "",
-                    "Start": 20195,
-                    "End": 20353
                 }
             ]
         },
@@ -5276,6 +5253,17 @@
             ]
         },
         {
+            "Character": "PACK OF AIM-9 SIDEWINDER MISSILES",
+            "Replies": [
+                {
+                    "Reply": "They reach the same quarter-mile proximity and EXPLODE.",
+                    "Didascalie": "",
+                    "Start": 84091,
+                    "End": 84147
+                }
+            ]
+        },
+        {
             "Character": "ALIEN ATTACKER",
             "Replies": [
                 {
@@ -5802,17 +5790,6 @@
                     "Didascalie": "",
                     "Start": 127260,
                     "End": 127287
-                }
-            ]
-        },
-        {
-            "Character": "A GARBAGE CAN",
-            "Replies": [
-                {
-                    "Reply": "Topples over with a BANG!  A foot steps in and starts kicking trash all over.",
-                    "Didascalie": "",
-                    "Start": 128857,
-                    "End": 128936
                 }
             ]
         },

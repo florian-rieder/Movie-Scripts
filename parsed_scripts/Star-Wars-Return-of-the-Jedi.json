@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Star Wars: Return of the Jedi",
-        "   "
-    ],
+    "Title": "Star Wars: Return of the Jedi",
     "Author": [
-        "\u00a0\u00a0George Lucas\u00a0\u00a0Lawrence Kasdan"
+        "George Lucas",
+        "Lawrence Kasdan"
     ],
     "Genre": [
-        "\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Fantasy",
+        "Sci-Fi",
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Clash of the Titans",
-        "   "
-    ],
+    "Title": "Clash of the Titans",
     "Author": [
-        "\u00a0\u00a0John Glenn\u00a0\u00a0Travis Wright"
+        "John Glenn",
+        "Travis Wright"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {

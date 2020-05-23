@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Scream 2",
-        "   "
-    ],
+    "Title": "Scream 2",
     "Author": [
-        "\u00a0\u00a0Kevin Williamson"
+        "Kevin Williamson"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5104,17 +5103,6 @@
             ]
         },
         {
-            "Character": "A RAGING PARTY",
-            "Replies": [
-                {
-                    "Reply": "Music peels paint as YOUNG COLLEGE STUDENTS rock to deafening tunes. A row of kegs line one wall as a the party gears up for a drunken night ahead.",
-                    "Didascalie": "",
-                    "Start": 112725,
-                    "End": 112879
-                }
-            ]
-        },
-        {
             "Character": "FRATERNITY JOCK",
             "Replies": [
                 {
@@ -5206,17 +5194,6 @@
                     "Didascalie": "",
                     "Start": 135897,
                     "End": 135951
-                }
-            ]
-        },
-        {
-            "Character": "A LARGE AUTOMATIC REVOLVER",
-            "Replies": [
-                {
-                    "Reply": "Gale's eyes move down the end of the gun to find...",
-                    "Didascalie": "",
-                    "Start": 159495,
-                    "End": 159547
                 }
             ]
         },

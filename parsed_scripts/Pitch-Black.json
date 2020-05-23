@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "Pitch Black",
-        "   "
-    ],
+    "Title": "Pitch Black",
     "Author": [
-        "\u00a0\u00a0David Twohy"
+        "David Twohy"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "PITCH BLACK",
-            "Replies": [
-                {
-                    "Reply": "NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS AND SOME \"OMITTED\" SLUGS. THEY HAVE BEEN REMOVED FOR THIS SOFT COPY.",
-                    "Didascalie": "",
-                    "Start": 370,
-                    "End": 508
-                }
-            ]
-        },
         {
             "Character": "FRY",
             "Replies": [

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Larry Crowne",
-        "   "
-    ],
+    "Title": "Larry Crowne",
     "Author": [
-        "\u00a0\u00a0Tom Hanks"
+        "Tom Hanks"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5804,6 +5803,17 @@
                     "Didascalie": "(THEN)",
                     "Start": 101883,
                     "End": 102041
+                }
+            ]
+        },
+        {
+            "Character": "BOOTH 6",
+            "Replies": [
+                {
+                    "Reply": "R       Perry is po ring coffee for the Agents, making small talk as...",
+                    "Didascalie": "",
+                    "Start": 103414,
+                    "End": 103581
                 }
             ]
         },

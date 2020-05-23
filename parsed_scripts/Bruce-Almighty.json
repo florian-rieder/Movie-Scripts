@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Bruce Almighty",
-        "   "
-    ],
+    "Title": "Bruce Almighty",
     "Author": [
-        "\u00a0\u00a0Steve Koren\u00a0\u00a0Mark O'Keefe\u00a0\u00a0Steve Oedekerk"
+        "Steve Koren",
+        "Mark O'Keefe",
+        "Steve Oedekerk"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Comedy",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4498,17 +4499,6 @@
                     "Didascalie": "",
                     "Start": 54529,
                     "End": 54553
-                }
-            ]
-        },
-        {
-            "Character": "SEVENTH FLOOR",
-            "Replies": [
-                {
-                    "Reply": "The stairwell door opens up to a LARGE ROOM with a SINGLE DESK at the end of an otherwise empty space.",
-                    "Didascalie": "",
-                    "Start": 50111,
-                    "End": 50214
                 }
             ]
         },

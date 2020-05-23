@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Major League",
-        "   "
-    ],
+    "Title": "Major League",
     "Author": [
-        "\u00a0\u00a0David S. Ward"
+        "David S. Ward"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2222,12 +2219,6 @@
                     "End": 220570
                 },
                 {
-                    "Reply": "grounding out, obviously having trouble running. We take CUTS of worried faces on the bench.",
-                    "Didascalie": "",
-                    "Start": 222602,
-                    "End": 222711
-                },
-                {
                     "Reply": "You want Vaughn?",
                     "Didascalie": "(surprised)",
                     "Start": 227691,
@@ -3861,12 +3852,6 @@
                     "End": 220496
                 },
                 {
-                    "Reply": "popping up and flinging his bat away in frustration. We take CUTS of the worried fans, chewing fingernails, wadding up programs, hanging their heads, etc.",
-                    "Didascalie": "",
-                    "Start": 222376,
-                    "End": 222563
-                },
-                {
                     "Reply": "We should've gotten him a live chicken.",
                     "Didascalie": "",
                     "Start": 224052,
@@ -5308,17 +5293,6 @@
                     "Didascalie": "",
                     "Start": 244709,
                     "End": 244839
-                }
-            ]
-        },
-        {
-            "Character": "A YANKEE HITTER",
-            "Replies": [
-                {
-                    "Reply": "flies out to Hayes, who makes a \"basket\" catch a la Willie Mays.",
-                    "Didascalie": "",
-                    "Start": 79966,
-                    "End": 80047
                 }
             ]
         },

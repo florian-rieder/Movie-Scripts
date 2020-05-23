@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Coriolanus",
-        "   "
-    ],
+    "Title": "Coriolanus",
     "Author": [
-        "\u00a0\u00a0John Logan\u00a0\u00a0William Shakespeare"
+        "John Logan",
+        "William Shakespeare"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller\u00a0\u00a0War"
+        "Drama",
+        "Thriller",
+        "War"
     ],
     "Characters": [
         {
@@ -2632,6 +2632,28 @@
             ]
         },
         {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Slain, sir, doubtless.",
+                    "Didascalie": "",
+                    "Start": 35145,
+                    "End": 35168
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "He is himself alone, To answer all the city.",
+                    "Didascalie": "",
+                    "Start": 35214,
+                    "End": 35269
+                }
+            ]
+        },
+        {
             "Character": "HEART",
             "Replies": [
                 {
@@ -3510,17 +3532,6 @@
             ]
         },
         {
-            "Character": "TO YOU",
-            "Replies": [
-                {
-                    "Reply": "When he hath power to crush?",
-                    "Didascalie": "",
-                    "Start": 81498,
-                    "End": 81527
-                }
-            ]
-        },
-        {
             "Character": "HATED",
             "Replies": [
                 {
@@ -4209,17 +4220,6 @@
                     "Didascalie": "",
                     "Start": 153981,
                     "End": 154129
-                }
-            ]
-        },
-        {
-            "Character": "REVEALING-",
-            "Replies": [
-                {
-                    "Reply": "Coriolanus. Transformed.",
-                    "Didascalie": "",
-                    "Start": 156774,
-                    "End": 156799
                 }
             ]
         },

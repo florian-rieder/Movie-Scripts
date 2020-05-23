@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Gangs of New York",
-        "   "
-    ],
+    "Title": "Gangs of New York",
     "Author": [
-        "\u00a0\u00a0Jay Cocks\u00a0\u00a0Steven Zaillian\u00a0\u00a0Kenneth Lonergan"
+        "Jay Cocks",
+        "Steven Zaillian",
+        "Kenneth Lonergan"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -1594,12 +1594,6 @@
                     "End": 154158
                 },
                 {
-                    "Reply": "Excuse me, we have to finish and...",
-                    "Didascalie": "(interrupting)",
-                    "Start": 154180,
-                    "End": 154217
-                },
-                {
                     "Reply": "Excuse me. We'll conclude in a moment.",
                     "Didascalie": "(to Gent 2)",
                     "Start": 154239,
@@ -2308,6 +2302,17 @@
                     "Didascalie": "",
                     "Start": 19694,
                     "End": 19724
+                }
+            ]
+        },
+        {
+            "Character": "NEW YORK CITY 1844",
+            "Replies": [
+                {
+                    "Reply": "at the low pale outlines of the city.",
+                    "Didascalie": "(MATTE)",
+                    "Start": 20440,
+                    "End": 20479
                 }
             ]
         },
@@ -3288,12 +3293,6 @@
                     "End": 175565
                 },
                 {
-                    "Reply": "Him. He looks likely, and he ain't workin'.",
-                    "Didascalie": "(looking at polling place)",
-                    "Start": 175599,
-                    "End": 175644
-                },
-                {
                     "Reply": "It's from the Armory Guards. That's the last before the wire went dead.",
                     "Didascalie": "",
                     "Start": 204185,
@@ -3702,6 +3701,17 @@
                     "Didascalie": "",
                     "Start": 37639,
                     "End": 37761
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "You get to live private until they come from the orphan's asylum. On account of your tender years.",
+                    "Didascalie": "",
+                    "Start": 38418,
+                    "End": 38517
                 }
             ]
         },
@@ -5995,6 +6005,23 @@
             ]
         },
         {
+            "Character": "NATIVE 2",
+            "Replies": [
+                {
+                    "Reply": "You can have as much as you can pay for.",
+                    "Didascalie": "",
+                    "Start": 140983,
+                    "End": 141024
+                },
+                {
+                    "Reply": "Anyone that's got the ned, step up with your pitchers. Any not, come back when you do.",
+                    "Didascalie": "(to crowd)",
+                    "Start": 141034,
+                    "End": 141122
+                }
+            ]
+        },
+        {
             "Character": "MOTHER JOYCE",
             "Replies": [
                 {
@@ -6107,6 +6134,94 @@
             ]
         },
         {
+            "Character": "GENT 1",
+            "Replies": [
+                {
+                    "Reply": "I'm glad you came in force. There's half a hundred people still in there.",
+                    "Didascalie": "(to Johnny)",
+                    "Start": 152219,
+                    "End": 152294
+                },
+                {
+                    "Reply": "And not one's given rent the whole year.",
+                    "Didascalie": "",
+                    "Start": 152322,
+                    "End": 152363
+                },
+                {
+                    "Reply": "No, no, of course not.",
+                    "Didascalie": "",
+                    "Start": 152397,
+                    "End": 152420
+                },
+                {
+                    "Reply": "Of course it is.",
+                    "Didascalie": "",
+                    "Start": 152637,
+                    "End": 152654
+                },
+                {
+                    "Reply": "We'll pay extra for the danger.",
+                    "Didascalie": "",
+                    "Start": 152830,
+                    "End": 152862
+                },
+                {
+                    "Reply": "Excuse me, but we really must conclude.",
+                    "Didascalie": "",
+                    "Start": 154482,
+                    "End": 154522
+                }
+            ]
+        },
+        {
+            "Character": "GENT 2",
+            "Replies": [
+                {
+                    "Reply": "Maybe more.",
+                    "Didascalie": "",
+                    "Start": 152302,
+                    "End": 152314
+                },
+                {
+                    "Reply": "Yes. Why?",
+                    "Didascalie": "",
+                    "Start": 152483,
+                    "End": 152493
+                },
+                {
+                    "Reply": "From their damned gang. Some of them live there.",
+                    "Didascalie": "",
+                    "Start": 152681,
+                    "End": 152730
+                },
+                {
+                    "Reply": "The Native Americans.",
+                    "Didascalie": "",
+                    "Start": 152763,
+                    "End": 152785
+                },
+                {
+                    "Reply": "Very much alright. Quite a spectacle.",
+                    "Didascalie": "",
+                    "Start": 153747,
+                    "End": 153785
+                },
+                {
+                    "Reply": "Excuse me, we have to finish and...",
+                    "Didascalie": "(interrupting)",
+                    "Start": 154180,
+                    "End": 154217
+                },
+                {
+                    "Reply": "They'll come back looking for you.",
+                    "Didascalie": "",
+                    "Start": 154943,
+                    "End": 154978
+                }
+            ]
+        },
+        {
             "Character": "BARNUM",
             "Replies": [
                 {
@@ -6200,6 +6315,61 @@
             ]
         },
         {
+            "Character": "DRAFTEE 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, tell your Papa to pass me three hundred dollars too.",
+                    "Didascalie": "",
+                    "Start": 170822,
+                    "End": 170880
+                }
+            ]
+        },
+        {
+            "Character": "DRAFTEE 2",
+            "Replies": [
+                {
+                    "Reply": "Tell him if he don't we'll come get you on our way to Gettysburg.",
+                    "Didascalie": "",
+                    "Start": 170891,
+                    "End": 170957
+                }
+            ]
+        },
+        {
+            "Character": "DRAFTEE 4",
+            "Replies": [
+                {
+                    "Reply": "We're bound by our wallets and the emptiness in them, that's what!",
+                    "Didascalie": "",
+                    "Start": 171835,
+                    "End": 171902
+                }
+            ]
+        },
+        {
+            "Character": "DRAFTEE 5",
+            "Replies": [
+                {
+                    "Reply": "Yeah, you could talk a dog off a meat wagen, Tweed. But let's see you fight!",
+                    "Didascalie": "",
+                    "Start": 172063,
+                    "End": 172140
+                }
+            ]
+        },
+        {
+            "Character": "DRAFTEE 6",
+            "Replies": [
+                {
+                    "Reply": "That'd be worth twice three hundred dollars to see!",
+                    "Didascalie": "",
+                    "Start": 172151,
+                    "End": 172203
+                }
+            ]
+        },
+        {
             "Character": "KILLORKN",
             "Replies": [
                 {
@@ -6207,6 +6377,40 @@
                     "Didascalie": "",
                     "Start": 174019,
                     "End": 174117
+                }
+            ]
+        },
+        {
+            "Character": "BOYO 1",
+            "Replies": [
+                {
+                    "Reply": "I ain't goin' up there. I got my election suit on.",
+                    "Didascalie": "",
+                    "Start": 175402,
+                    "End": 175453
+                },
+                {
+                    "Reply": "A dollar.",
+                    "Didascalie": "",
+                    "Start": 175814,
+                    "End": 175824
+                }
+            ]
+        },
+        {
+            "Character": "BOYO 2",
+            "Replies": [
+                {
+                    "Reply": "Him. He looks likely, and he ain't workin'.",
+                    "Didascalie": "(looking at polling place)",
+                    "Start": 175599,
+                    "End": 175644
+                },
+                {
+                    "Reply": "Well, now, if Amsterdam wouldn't like it ...",
+                    "Didascalie": "",
+                    "Start": 175990,
+                    "End": 176035
                 }
             ]
         },
@@ -6275,6 +6479,17 @@
                     "Didascalie": "",
                     "Start": 180450,
                     "End": 180515
+                }
+            ]
+        },
+        {
+            "Character": "CROWD MEMBER 2",
+            "Replies": [
+                {
+                    "Reply": "It's an army of the poor fighting for a bunch of rich slackers!",
+                    "Didascalie": "",
+                    "Start": 180372,
+                    "End": 180436
                 }
             ]
         },
@@ -6398,6 +6613,29 @@
                     "Didascalie": "",
                     "Start": 202009,
                     "End": 202097
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "We can't leave the post.",
+                    "Didascalie": "",
+                    "Start": 203138,
+                    "End": 203163
+                },
+                {
+                    "Reply": "Where's the others?",
+                    "Didascalie": "",
+                    "Start": 203225,
+                    "End": 203245
+                },
+                {
+                    "Reply": "God, it's good to see you!",
+                    "Didascalie": "",
+                    "Start": 203451,
+                    "End": 203478
                 }
             ]
         },

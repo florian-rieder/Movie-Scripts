@@ -1,26 +1,15 @@
 {
-    "Title": [
-        "Sandlot Kids, The",
-        "   "
-    ],
+    "Title": "Sandlot Kids, The",
     "Author": [
-        "\u00a0\u00a0David Mickey Evans\u00a0\u00a0Robert Gunter"
+        "David Mickey Evans",
+        "Robert Gunter"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Family"
+        "Comedy",
+        "Drama",
+        "Family"
     ],
     "Characters": [
-        {
-            "Character": "A FADED KODACHROME PHOTO",
-            "Replies": [
-                {
-                    "Reply": "makeshift baseball diamond - a sandlot... circa 1962:  SCOTTY SMALLS, studious-looking; ALAN \"YEAH-YEAH\" McCLENNAN, little, hyper; HAMILTON \"HAM\" PORTER, tubby with a huge smile; KENNY DeNUNEZ, handsome bean pole; TOMMY \"REPEAT\" TIMMONS and his brother TIMMY; BERTRAM GROVER WEEKS, wearing inch- thick horn rims; JEFF \"SQUINTS\" PALLEDOROUS, a transistor radio plug wedged in his ear; and BENNY RODRIGUEZ, leaning on Scotty's shoulder, sporting the world's all-time hottest sneakers... P.F. Flyers.",
-                    "Didascalie": "",
-                    "Start": 628,
-                    "End": 1231
-                }
-            ]
-        },
         {
             "Character": "NARRATOR",
             "Replies": [
@@ -4743,17 +4732,6 @@
             ]
         },
         {
-            "Character": "A TRASH BAG",
-            "Replies": [
-                {
-                    "Reply": "full of meat hits the ground - disappears. SLIFFTHT! It spits back INTO FRAME... empty and tattered.",
-                    "Didascalie": "",
-                    "Start": 81591,
-                    "End": 81702
-                }
-            ]
-        },
-        {
             "Character": "AN EYEBALL",
             "Replies": [
                 {
@@ -4772,17 +4750,6 @@
                     "Didascalie": "",
                     "Start": 82391,
                     "End": 82617
-                }
-            ]
-        },
-        {
-            "Character": "A GARGANTUAN FOOTPRINT",
-            "Replies": [
-                {
-                    "Reply": "in the center of an old truck tire.",
-                    "Didascalie": "",
-                    "Start": 82712,
-                    "End": 82748
                 }
             ]
         },
@@ -4820,17 +4787,6 @@
             ]
         },
         {
-            "Character": "A CRANE",
-            "Replies": [
-                {
-                    "Reply": "lowers a giant bathtub into the backyard. FIREMEN fill it with water.",
-                    "Didascalie": "",
-                    "Start": 87542,
-                    "End": 87622
-                }
-            ]
-        },
-        {
             "Character": "CONSTRUCTION WORKERS",
             "Replies": [
                 {
@@ -4838,17 +4794,6 @@
                     "Didascalie": "",
                     "Start": 87929,
                     "End": 87976
-                }
-            ]
-        },
-        {
-            "Character": "A WELDER",
-            "Replies": [
-                {
-                    "Reply": "Braises chain to the girder.",
-                    "Didascalie": "",
-                    "Start": 88217,
-                    "End": 88246
                 }
             ]
         },
@@ -4908,13 +4853,102 @@
             ]
         },
         {
-            "Character": "A GROUP",
+            "Character": "LEAGUER PUNK 1",
             "Replies": [
                 {
-                    "Reply": "of other kids comes out behind them. LITTLE LEAGUERS. Matching caps and shirts. The gang straightens up.",
+                    "Reply": "Yeah. Ya smell like one too. Hey guys, it's the sandlot babies!",
                     "Didascalie": "",
-                    "Start": 113202,
-                    "End": 113317
+                    "Start": 113395,
+                    "End": 113470
+                },
+                {
+                    "Reply": "Rodriquez, why do hang around with these rejects, man? You could be playin' with us on a official American Youth League certified big time diamond.",
+                    "Didascalie": "",
+                    "Start": 113885,
+                    "End": 114066
+                },
+                {
+                    "Reply": "Forget it, we play real ball, not with toy bats and sneakers!",
+                    "Didascalie": "",
+                    "Start": 114312,
+                    "End": 114385
+                },
+                {
+                    "Reply": "He said, they shouldn't be allowed to even touch a baseball. They're an insult to the game.",
+                    "Didascalie": "",
+                    "Start": 129903,
+                    "End": 130017
+                },
+                {
+                    "Reply": "We play on a real diamond, Porter. And you ain't good enough to lick the dirt off our cleats.",
+                    "Didascalie": "",
+                    "Start": 130338,
+                    "End": 130454
+                },
+                {
+                    "Reply": "Shut up, dipshit!",
+                    "Didascalie": "",
+                    "Start": 130622,
+                    "End": 130640
+                },
+                {
+                    "Reply": "Scab eater!",
+                    "Didascalie": "",
+                    "Start": 130794,
+                    "End": 130806
+                },
+                {
+                    "Reply": "Pus licker!",
+                    "Didascalie": "",
+                    "Start": 130965,
+                    "End": 130977
+                },
+                {
+                    "Reply": "Dog crap for breakfast eatin' geek!",
+                    "Didascalie": "",
+                    "Start": 131297,
+                    "End": 131333
+                },
+                {
+                    "Reply": "You bob for apples in your toilet, and you like it!",
+                    "Didascalie": "",
+                    "Start": 131537,
+                    "End": 131600
+                },
+                {
+                    "Reply": "What did you say?",
+                    "Didascalie": "",
+                    "Start": 131916,
+                    "End": 131934
+                },
+                {
+                    "Reply": "Tomorrow. Sun-up. At our field. Be there, buffalo-butt breath.",
+                    "Didascalie": "",
+                    "Start": 132093,
+                    "End": 132167
+                }
+            ]
+        },
+        {
+            "Character": "LEAGUER PUNK 2",
+            "Replies": [
+                {
+                    "Reply": "Skin yer knees lately sliding on rocks?!",
+                    "Didascalie": "",
+                    "Start": 113548,
+                    "End": 113589
+                },
+                {
+                    "Reply": "What're you gonna do, Porter, sit on me?!",
+                    "Didascalie": "",
+                    "Start": 113754,
+                    "End": 113807
+                },
+                {
+                    "Reply": "It's easy when you play with rejects and fat kids, Rodriquez.",
+                    "Didascalie": "",
+                    "Start": 129531,
+                    "End": 129604
                 }
             ]
         },
@@ -4952,17 +4986,6 @@
             ]
         },
         {
-            "Character": "A LONG LINE OF FIREWORKS",
-            "Replies": [
-                {
-                    "Reply": "in the street.",
-                    "Didascalie": "",
-                    "Start": 124412,
-                    "End": 124427
-                }
-            ]
-        },
-        {
             "Character": "MATCH HEADS",
             "Replies": [
                 {
@@ -4996,23 +5019,12 @@
             ]
         },
         {
-            "Character": "A FINAL FIREWORK EXPLODES",
+            "Character": "BATTER 1",
             "Replies": [
                 {
-                    "Reply": "in a beautiful burst above them.",
+                    "Reply": "Whif. Whif. Whif.",
                     "Didascalie": "",
-                    "Start": 128260,
-                    "End": 128293
-                }
-            ]
-        },
-        {
-            "Character": "STRIKES OUT",
-            "Replies": [
-                {
-                    "Reply": "BATTER 1  Whif. Whif. Whif.",
-                    "Didascalie": "",
-                    "Start": 132668,
+                    "Start": 132713,
                     "End": 132731
                 }
             ]
@@ -5025,6 +5037,29 @@
                     "Didascalie": "",
                     "Start": 133293,
                     "End": 133306
+                }
+            ]
+        },
+        {
+            "Character": "BATTER 3",
+            "Replies": [
+                {
+                    "Reply": "rounds 2nd base.",
+                    "Didascalie": "",
+                    "Start": 133980,
+                    "End": 133997
+                },
+                {
+                    "Reply": "rounds 3rd.",
+                    "Didascalie": "",
+                    "Start": 134324,
+                    "End": 134336
+                },
+                {
+                    "Reply": "slides in a cloud of dust.",
+                    "Didascalie": "",
+                    "Start": 134549,
+                    "End": 134576
                 }
             ]
         },
@@ -5062,17 +5097,6 @@
             ]
         },
         {
-            "Character": "A BRAND NEW BASEBALL",
-            "Replies": [
-                {
-                    "Reply": "Benny's hand signs B A B E R U T H across the leather in ridiculous chicken scrawl.",
-                    "Didascalie": "",
-                    "Start": 162318,
-                    "End": 162412
-                }
-            ]
-        },
-        {
             "Character": "DEN",
             "Replies": [
                 {
@@ -5080,17 +5104,6 @@
                     "Didascalie": "",
                     "Start": 163835,
                     "End": 163898
-                }
-            ]
-        },
-        {
-            "Character": "A GIANT PAW-THING",
-            "Replies": [
-                {
-                    "Reply": "emerges from under the lean-to, pushing the Babe Ruth autographed cowhide into full view - \"I dare you...\"",
-                    "Didascalie": "",
-                    "Start": 170211,
-                    "End": 170328
                 }
             ]
         },
@@ -5179,17 +5192,6 @@
                     "Didascalie": "",
                     "Start": 206321,
                     "End": 206467
-                }
-            ]
-        },
-        {
-            "Character": "A PICKLE",
-            "Replies": [
-                {
-                    "Reply": "Benny measures The Beast. Times its ballooning chest.",
-                    "Didascalie": "",
-                    "Start": 206724,
-                    "End": 206778
                 }
             ]
         },

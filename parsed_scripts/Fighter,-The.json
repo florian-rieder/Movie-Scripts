@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Fighter, The",
-        "   "
-    ],
+    "Title": "Fighter, The",
     "Author": [
-        "\u00a0\u00a0Scott Silver\u00a0\u00a0Paul Tamasy\u00a0\u00a0Eric Johnson"
+        "Scott Silver",
+        "Paul Tamasy",
+        "Eric Johnson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1841,12 +1840,6 @@
                     "Didascalie": "",
                     "Start": 141284,
                     "End": 141387
-                },
-                {
-                    "Reply": "Get back upstairs before I write ya up.",
-                    "Didascalie": "(steps out, puts a hand on  DICKY'S SHOULDER)",
-                    "Start": 141515,
-                    "End": 141576
                 },
                 {
                     "Reply": "- He don't gotta cry no more.",
@@ -3803,6 +3796,12 @@
                     "Didascalie": "",
                     "Start": 36091,
                     "End": 36126
+                },
+                {
+                    "Reply": "Dicky, YOUR MUTHUAH'S OUTSIDE!",
+                    "Didascalie": "(shouts from downstairs)",
+                    "Start": 52668,
+                    "End": 52710
                 }
             ]
         },
@@ -4374,6 +4373,40 @@
                     "Didascalie": "",
                     "Start": 127925,
                     "End": 128003
+                }
+            ]
+        },
+        {
+            "Character": "CORRECTIONS OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "Lookin' forward to seein' your HBO movie tonight.",
+                    "Didascalie": "",
+                    "Start": 135466,
+                    "End": 135526
+                }
+            ]
+        },
+        {
+            "Character": "CORRECTIONS OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "Dicky!? What're you doin' here?",
+                    "Didascalie": "(stands, surprised)",
+                    "Start": 140961,
+                    "End": 141004
+                },
+                {
+                    "Reply": "Get back upstairs before I write ya up.",
+                    "Didascalie": "(steps out, puts a hand on  DICKY'S SHOULDER)",
+                    "Start": 141515,
+                    "End": 141576
+                },
+                {
+                    "Reply": "I don't know what you're talking about, Dicky, but you can't be here. You gotta go back up.",
+                    "Didascalie": "",
+                    "Start": 141706,
+                    "End": 141818
                 }
             ]
         },

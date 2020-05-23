@@ -1,6 +1,6 @@
 # IMSDb Movie Script Parser
 A python parser for movie scripts.
-This project was conducted during the class "Object Oriented Programming in Python", given by Davide Picca and assisted by Coline Métrailler during the spring semester 2020.
+This project was conducted during the class "Object Oriented Programming in Python", given by Davide Picca and assisted by Coline Métrailler during the spring semester 2020 at the University of Lausanne (UNIL).
 
 We used a database of 1119 english-speaking movie scripts in plain text format (.txt), retrieved from the [Internet Movie Script Database](https://www.imsdb.com/). 
 
@@ -59,7 +59,7 @@ A `get_start()` and a `get_end()` method allows access to the corresponding attr
 | `End`        | `int` | end position in number of characters from the start of the script |
 
 # Parameters
-You can overwrite or change certain attributes of a `ScriptParser`, in function to your needs.
+You can overwrite or change certain attributes of a `ScriptParser`, depending on your needs.
 | Attribute           | type  | Description  |
 | ------------------- |-------| ------------ |
 | `minimum_replies`     | `int` | The minimal amount of replies under which a character is rejected. The default value is 1. This discards all characters with no replies. With the value adjusted to 2, most false-positives will be eliminated, but also some minor characters with it. |

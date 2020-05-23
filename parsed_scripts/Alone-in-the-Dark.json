@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Alone in the Dark",
-        "   "
-    ],
+    "Title": "Alone in the Dark",
     "Author": [
-        "\u00a0\u00a0Elan Mastai\u00a0\u00a0Michael Roesch"
+        "Elan Mastai",
+        "Michael Roesch"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1634,12 +1634,6 @@
                     "Didascalie": "",
                     "Start": 105213,
                     "End": 105349
-                },
-                {
-                    "Reply": "CONTINUED:   Miles steps in between Burke and Carnby.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 105449,
-                    "End": 105566
                 },
                 {
                     "Reply": "Aline Cedrac. Pleasure to meet you. How's the Ph.D. coming along?",

@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "World is not Enough, The",
-        "   "
-    ],
+    "Title": "World is not Enough, The",
     "Author": [
-        "\u00a0\u00a0Neal Purvis\u00a0\u00a0Robert Wade\u00a0\u00a0Bruce Feirstein\u00a0\u00a0Ian Fleming"
+        "Neal Purvis",
+        "Robert Wade",
+        "Bruce Feirstein",
+        "Ian Fleming"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller\u00a0\u00a0Adventure"
+        "Action",
+        "Thriller",
+        "Adventure"
     ],
     "Characters": [
         {

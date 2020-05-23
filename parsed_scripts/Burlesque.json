@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Burlesque",
-        "   "
-    ],
+    "Title": "Burlesque",
     "Author": [
-        "\u00a0\u00a0Steven Antin"
+        "Steven Antin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Musical\u00a0\u00a0Romance"
+        "Drama",
+        "Musical",
+        "Romance"
     ],
     "Characters": [
         {
@@ -918,22 +917,10 @@
                     "End": 10585
                 },
                 {
-                    "Reply": "I'VE GOT A FEELING, I FEEL SO  STRANGE. EVERYTHING ABOUT ME SEEMS  TO HAVE CHANGED, STEP BY STEP, I  GOT A BRAND NEW WALK, EVEN SOUND  SWEETER WHEN I TALK. I SAID, OH.",
-                    "Didascalie": "",
-                    "Start": 11050,
-                    "End": 11258
-                },
-                {
                     "Reply": "OOOH. HEY BABY, IT MUST BE LOVE!",
                     "Didascalie": "",
                     "Start": 11436,
                     "End": 11469
-                },
-                {
-                    "Reply": "YOU KNOW IT WALK LIKE LOVE. IT TALK  LIKE LOVE. IN THE MIDDLE OF THE  NIGHT, MAKE ME FEEL ALRIGHT: IN THE BURLESQUE LOUNGE, The Girls, Tess, the other Entertainers, Busboys, Waitresses, Bartenders and entire company do a BIG FINISH.",
-                    "Didascalie": "",
-                    "Start": 11806,
-                    "End": 12089
                 },
                 {
                     "Reply": "Loretta-- when I get out of this butt-hole of a town, I sure as shit won't be heading for Des Moines.",
@@ -2400,18 +2387,6 @@
                     "End": 152243
                 },
                 {
-                    "Reply": "THE LOVE THAT YOU REFUSE, SOME  OTHER GUY CAN USE, STRANGE THINGS  ARE HAPPENING EVERY DAY ...",
-                    "Didascalie": "",
-                    "Start": 152516,
-                    "End": 152631
-                },
-                {
-                    "Reply": "EVERY DAY.' THERE ' S STRANGE THINGS  HAPPENING EVERY DAY ...",
-                    "Didascalie": "",
-                    "Start": 153177,
-                    "End": 153249
-                },
-                {
                     "Reply": "So what if I'm getting a little male attention.",
                     "Didascalie": "",
                     "Start": 153586,
@@ -2428,18 +2403,6 @@
                     "Didascalie": "",
                     "Start": 154344,
                     "End": 154412
-                },
-                {
-                    "Reply": "STRANGE THINGS HAPPENING EVERY DAY.",
-                    "Didascalie": "",
-                    "Start": 154709,
-                    "End": 154745
-                },
-                {
-                    "Reply": "EVERY DAY. THERE ' S STRANGE THINGS  HAPPENING EVERY DAY ...",
-                    "Didascalie": "",
-                    "Start": 155573,
-                    "End": 155644
                 },
                 {
                     "Reply": "I THINK I FOUND SOMEONE NEW ...",
@@ -2664,12 +2627,6 @@
                     "End": 182602
                 },
                 {
-                    "Reply": "I ' LL NEVER BE LONELY. I'LL NEVER  LOSE YOU. I 'LL NEVER BE BLUE  OR BE ALL ALONE. JUST DON'T EVER  LEAVE ME. SO MY HEART WON'T GRIEVE  ME. AND OUR GOOD LOVIN  WON'T END IN VAIN...",
-                    "Didascalie": "",
-                    "Start": 183059,
-                    "End": 183291
-                },
-                {
                     "Reply": "Well, it's official.",
                     "Didascalie": "",
                     "Start": 183527,
@@ -2692,12 +2649,6 @@
                     "Didascalie": "",
                     "Start": 184722,
                     "End": 184758
-                },
-                {
-                    "Reply": "WE'RE JUST PRISONERS. OF OUR GOOD  LOVIN. WE'RE JUST SLAVES, BOUND IN  CHAINS. NO, NO, I DON ' T WANT TO  EVER BE FREE, SO DON'T EVER LEAVE  ME. AND OUR GOOD LOVIN,  WON'T END IN VAIN...",
-                    "Didascalie": "",
-                    "Start": 185159,
-                    "End": 185396
                 },
                 {
                     "Reply": "So, what about Natalie...?",
@@ -3325,18 +3276,6 @@
                     "Didascalie": "(WHISPER RAP A'LA FOSSE)",
                     "Start": 54818,
                     "End": 55095
-                },
-                {
-                    "Reply": "IN ALI'S HOTEL ROOM, Ali eats Chinese take-out as she pores over the book. Turns the page to a photo of OLD SCHOOL ACROBATS over \"Everybody Is A Star\"...",
-                    "Didascalie": "(CONT'D) (WHISPER RAP A'LA FOSSE)",
-                    "Start": 55368,
-                    "End": 55553
-                },
-                {
-                    "Reply": "IN ALI'S HOTEL ROOM, Ali thwacks down on an old mustard-",
-                    "Didascalie": "(WHISPER RAP A'LA FOSSE)",
-                    "Start": 56404,
-                    "End": 56472
                 }
             ]
         },
@@ -3365,18 +3304,6 @@
                     "Didascalie": "",
                     "Start": 10895,
                     "End": 11009
-                },
-                {
-                    "Reply": "EVERY DAY!",
-                    "Didascalie": "",
-                    "Start": 153125,
-                    "End": 153136
-                },
-                {
-                    "Reply": "EVERY DAY!",
-                    "Didascalie": "",
-                    "Start": 155521,
-                    "End": 155532
                 }
             ]
         },
@@ -6121,12 +6048,6 @@
                     "Didascalie": "",
                     "Start": 54656,
                     "End": 54680
-                },
-                {
-                    "Reply": "EVERYBODY WANTS TO SHINE. OOH AND  COME OUT ON A CLOUDY DAY ...",
-                    "Didascalie": "",
-                    "Start": 56024,
-                    "End": 56098
                 }
             ]
         },
@@ -6375,28 +6296,6 @@
                     "Didascalie": "",
                     "Start": 151750,
                     "End": 151757
-                }
-            ]
-        },
-        {
-            "Character": "STRANGE THINGS ARE HAPPENING",
-            "Replies": [
-                {
-                    "Reply": "EVERY DAY.",
-                    "Didascalie": "",
-                    "Start": 155211,
-                    "End": 155222
-                }
-            ]
-        },
-        {
-            "Character": "STRANGE THINGS ARE HAPPENING EVERY",
-            "Replies": [
-                {
-                    "Reply": "DAY, OOH EVERY DAY!",
-                    "Didascalie": "",
-                    "Start": 155453,
-                    "End": 155473
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Fear and Loathing in Las Vegas",
-        "   "
-    ],
+    "Title": "Fear and Loathing in Las Vegas",
     "Author": [
-        "\u00a0\u00a0Terry Gilliam\u00a0\u00a0Tony Grisoni"
+        "Terry Gilliam",
+        "Tony Grisoni"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3604,12 +3603,6 @@
         {
             "Character": "FILM NARRATOR",
             "Replies": [
-                {
-                    "Reply": "KNOW YOUR DOPE FIEND!  YOUR LIFE MAY DEPEND ON IT!  You will not be able to see his eyes because of Tea-Shades, but his knuckles will be white from inner tension...",
-                    "Didascalie": "",
-                    "Start": 124760,
-                    "End": 124973
-                },
                 {
                     "Reply": "... and his pants will be crusted with semen from constantly jacking off when he can't find a rape victim...",
                     "Didascalie": "",

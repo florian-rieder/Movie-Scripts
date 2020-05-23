@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "It's a Wonderful Life",
-        "   "
-    ],
+    "Title": "It's a Wonderful Life",
     "Author": [
-        "\u00a0\u00a0Frank Capra\u00a0\u00a0Frances Goodrich\u00a0\u00a0Albert Hackett\u00a0\u00a0Jo Swerling"
+        "Frank Capra",
+        "Frances Goodrich",
+        "Albert Hackett",
+        "Jo Swerling"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Family\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5118,17 +5121,6 @@
                     "Didascalie": "(looking at book)",
                     "Start": 364711,
                     "End": 364750
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "tied around two of the fingers, obviously to remind him of things he has to do.",
-                    "Didascalie": "",
-                    "Start": 24532,
-                    "End": 24628
                 }
             ]
         },

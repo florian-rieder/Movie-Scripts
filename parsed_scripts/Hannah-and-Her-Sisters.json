@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Hannah and Her Sisters",
-        "   "
-    ],
+    "Title": "Hannah and Her Sisters",
     "Author": [
-        "\u00a0\u00a0Woody Allen"
+        "Woody Allen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3239,12 +3238,6 @@
                     "End": 219602
                 },
                 {
-                    "Reply": "Can I try it?",
-                    "Didascalie": "(overlapping)",
-                    "Start": 219668,
-                    "End": 219695
-                },
-                {
                     "Reply": "Sure!  Yeah.  When we get to the country, we'll try it in the lake.",
                     "Didascalie": "(handing him the camera)",
                     "Start": 219771,
@@ -3255,18 +3248,6 @@
                     "Didascalie": "(resting her chin in her hands)",
                     "Start": 220120,
                     "End": 220139
-                },
-                {
-                    "Reply": "Can I go?",
-                    "Didascalie": "(overlapping)",
-                    "Start": 220205,
-                    "End": 220228
-                },
-                {
-                    "Reply": "Yeah.",
-                    "Didascalie": "(overlapping)",
-                    "Start": 220294,
-                    "End": 220313
                 },
                 {
                     "Reply": "Yeah!  Okay.",
@@ -4568,12 +4549,6 @@
                     "Didascalie": "(holding the straw towards Mickey)",
                     "Start": 209001,
                     "End": 209029
-                },
-                {
-                    "Reply": "\"I want to dress like you Say, I'll buy all the clothes I want to fuck like you Yeah, I'm sure it shows Because I'm...\"",
-                    "Didascalie": "(singing in the background while Holly and Mickey talk)",
-                    "Start": 209180,
-                    "End": 209361
                 },
                 {
                     "Reply": "Come on, Mickey.  Come on.",
@@ -9701,6 +9676,40 @@
                     "Didascalie": "(singing, continuing)",
                     "Start": 214623,
                     "End": 214695
+                }
+            ]
+        },
+        {
+            "Character": "CHILD 1",
+            "Replies": [
+                {
+                    "Reply": "Can I try it?",
+                    "Didascalie": "(overlapping)",
+                    "Start": 219668,
+                    "End": 219695
+                },
+                {
+                    "Reply": "Okay.",
+                    "Didascalie": "",
+                    "Start": 220012,
+                    "End": 220018
+                },
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "(overlapping)",
+                    "Start": 220294,
+                    "End": 220313
+                }
+            ]
+        },
+        {
+            "Character": "CHILD 2",
+            "Replies": [
+                {
+                    "Reply": "Can I go?",
+                    "Didascalie": "(overlapping)",
+                    "Start": 220205,
+                    "End": 220228
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Field of Dreams",
-        "   "
-    ],
+    "Title": "Field of Dreams",
     "Author": [
-        "\u00a0\u00a0Phil Alden Robinson"
+        "Phil Alden Robinson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Family\u00a0\u00a0Fantasy"
+        "Drama",
+        "Family",
+        "Fantasy"
     ],
     "Characters": [
         {

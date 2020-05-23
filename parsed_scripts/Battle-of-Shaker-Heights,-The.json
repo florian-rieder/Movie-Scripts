@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Battle of Shaker Heights, The",
-        "   "
-    ],
+    "Title": "Battle of Shaker Heights, The",
     "Author": [
-        "\u00a0\u00a0Erica Beeney"
+        "Erica Beeney"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Comedy"
+        "Drama",
+        "Romance",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -18,17 +17,6 @@
                     "Didascalie": "",
                     "Start": 309,
                     "End": 342
-                }
-            ]
-        },
-        {
-            "Character": "A RABBIT",
-            "Replies": [
-                {
-                    "Reply": "Darts out of a log, lifts itself on its hind legs and sniffs the air.",
-                    "Didascalie": "",
-                    "Start": 432,
-                    "End": 518
                 }
             ]
         },
@@ -5406,6 +5394,28 @@
             ]
         },
         {
+            "Character": "STUDENT 1",
+            "Replies": [
+                {
+                    "Reply": "Look, he's got a hard on.",
+                    "Didascalie": "",
+                    "Start": 106327,
+                    "End": 106353
+                }
+            ]
+        },
+        {
+            "Character": "STUDENT 2",
+            "Replies": [
+                {
+                    "Reply": "Eeeeew.",
+                    "Didascalie": "",
+                    "Start": 106426,
+                    "End": 106434
+                }
+            ]
+        },
+        {
             "Character": "MINNIE",
             "Replies": [
                 {
@@ -5809,6 +5819,28 @@
                     "Didascalie": "",
                     "Start": 189587,
                     "End": 189638
+                }
+            ]
+        },
+        {
+            "Character": "OLD SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "This is boring.",
+                    "Didascalie": "(to old soldier 2)",
+                    "Start": 195183,
+                    "End": 195225
+                }
+            ]
+        },
+        {
+            "Character": "OLD SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah. Let's see that slide of the wife again.",
+                    "Didascalie": "",
+                    "Start": 195302,
+                    "End": 195374
                 }
             ]
         },

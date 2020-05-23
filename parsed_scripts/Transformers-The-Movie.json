@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Transformers: The Movie",
-        "   "
-    ],
+    "Title": "Transformers: The Movie",
     "Author": [
-        "\u00a0\u00a0Ron Friedman"
+        "Ron Friedman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Animation\u00a0\u00a0Family\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Animation",
+        "Family",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -3224,17 +3224,6 @@
             ]
         },
         {
-            "Character": "A CROWD OF DECEPTICONS",
-            "Replies": [
-                {
-                    "Reply": "Who fight each other for a place on the shuttle.",
-                    "Didascalie": "",
-                    "Start": 45048,
-                    "End": 45097
-                }
-            ]
-        },
-        {
             "Character": "SCANNERS",
             "Replies": [
                 {
@@ -3996,17 +3985,6 @@
             ]
         },
         {
-            "Character": "A LARGE ASTEROID",
-            "Replies": [
-                {
-                    "Reply": "With incredible precision, the rays strike the asteroid, splitting it in two parts.",
-                    "Didascalie": "",
-                    "Start": 76061,
-                    "End": 76145
-                }
-            ]
-        },
-        {
             "Character": "SHUTTLE",
             "Replies": [
                 {
@@ -4334,17 +4312,6 @@
             ]
         },
         {
-            "Character": "A PATH",
-            "Replies": [
-                {
-                    "Reply": "It probably isn't lined with primroses, but it should be.",
-                    "Didascalie": "",
-                    "Start": 107919,
-                    "End": 107988
-                }
-            ]
-        },
-        {
             "Character": "SQUEAKY VOICE",
             "Replies": [
                 {
@@ -4496,17 +4463,6 @@
             ]
         },
         {
-            "Character": "A JUNKION",
-            "Replies": [
-                {
-                    "Reply": "roars alongside Springer on his motorcycle and throws out laser barbed grappling hook, trying to hook Springer.",
-                    "Didascalie": "",
-                    "Start": 131241,
-                    "End": 131373
-                }
-            ]
-        },
-        {
             "Character": "JUNKIONS",
             "Replies": [
                 {
@@ -4579,17 +4535,6 @@
             ]
         },
         {
-            "Character": "A FLEET OF DECEPTICON SHIPS",
-            "Replies": [
-                {
-                    "Reply": "streak out of Cybertron and begin firing on the enormous planet. Here, we see the true scale of Unicron. The fighters are the size of bees as they attack.",
-                    "Didascalie": "",
-                    "Start": 146749,
-                    "End": 146904
-                }
-            ]
-        },
-        {
             "Character": "UNICRON AND JUNKION CRUISER",
             "Replies": [
                 {
@@ -4608,17 +4553,6 @@
                     "Didascalie": "",
                     "Start": 150922,
                     "End": 150944
-                }
-            ]
-        },
-        {
-            "Character": "A CONTROL",
-            "Replies": [
-                {
-                    "Reply": "..     which controls the whole thing.",
-                    "Didascalie": "",
-                    "Start": 160391,
-                    "End": 160430
                 }
             ]
         },

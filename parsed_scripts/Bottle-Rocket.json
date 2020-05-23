@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Bottle Rocket",
-        "   "
-    ],
+    "Title": "Bottle Rocket",
     "Author": [
-        "\u00a0\u00a0Owen Wilson\u00a0\u00a0Wes Anderson"
+        "Owen Wilson",
+        "Wes Anderson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -5927,12 +5926,6 @@
                     "End": 133724
                 },
                 {
-                    "Reply": "Sure. Thanks.",
-                    "Didascalie": "(smiles brightly)",
-                    "Start": 133793,
-                    "End": 133820
-                },
-                {
                     "Reply": "I know it, man. Hang on.",
                     "Didascalie": "",
                     "Start": 134753,
@@ -6953,6 +6946,23 @@
                     "Didascalie": "",
                     "Start": 131987,
                     "End": 132012
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "I'm not chewing gum.",
+                    "Didascalie": "",
+                    "Start": 133637,
+                    "End": 133658
+                },
+                {
+                    "Reply": "Sure. Thanks.",
+                    "Didascalie": "(smiles brightly)",
+                    "Start": 133793,
+                    "End": 133820
                 }
             ]
         },

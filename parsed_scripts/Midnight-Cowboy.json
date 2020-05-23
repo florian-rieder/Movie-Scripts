@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Midnight Cowboy",
-        "   "
-    ],
+    "Title": "Midnight Cowboy",
     "Author": [
-        "\u00a0\u00a0James Leo Herlihy\u00a0\u00a0Waldo Salt"
+        "James Leo Herlihy",
+        "Waldo Salt"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2811,23 +2809,6 @@
                     "Didascalie": "",
                     "Start": 83604,
                     "End": 83651
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "A huge hypodermic fills the frame, sucking Joe's blood. O.S.",
-                    "Didascalie": "",
-                    "Start": 86332,
-                    "End": 86393
-                },
-                {
-                    "Reply": "Headline -- WALTER P. BOX TAKES NEW YORK BY SURPRISE.",
-                    "Didascalie": "",
-                    "Start": 114786,
-                    "End": 114840
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Dark Knight Rises, The",
-        "   "
-    ],
+    "Title": "Dark Knight Rises, The",
     "Author": [
-        "\u00a0\u00a0Jonathan Nolan\u00a0\u00a0Christopher Nolan"
+        "Jonathan Nolan",
+        "Christopher Nolan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1271,6 +1271,17 @@
             ]
         },
         {
+            "Character": "HOODED MAN 2",
+            "Replies": [
+                {
+                    "Reply": "Have we started the fire?",
+                    "Didascalie": "",
+                    "Start": 11700,
+                    "End": 11726
+                }
+            ]
+        },
+        {
             "Character": "MAYOR",
             "Replies": [
                 {
@@ -1701,6 +1712,28 @@
                     "Didascalie": "",
                     "Start": 26311,
                     "End": 26330
+                }
+            ]
+        },
+        {
+            "Character": "MAID 2",
+            "Replies": [
+                {
+                    "Reply": "They say he never leaves the East Wing.",
+                    "Didascalie": "",
+                    "Start": 19412,
+                    "End": 19463
+                }
+            ]
+        },
+        {
+            "Character": "MAID 3",
+            "Replies": [
+                {
+                    "Reply": "I heard he had an accident - that he's disfigured.",
+                    "Didascalie": "",
+                    "Start": 19508,
+                    "End": 19570
                 }
             ]
         },
@@ -5271,6 +5304,76 @@
             ]
         },
         {
+            "Character": "THUG 1",
+            "Replies": [
+                {
+                    "Reply": "Jesus. It's the Police Commissioner.",
+                    "Didascalie": "",
+                    "Start": 49173,
+                    "End": 49221
+                },
+                {
+                    "Reply": "Take him to Bane.",
+                    "Didascalie": "",
+                    "Start": 49353,
+                    "End": 49371
+                },
+                {
+                    "Reply": "Answer him!",
+                    "Didascalie": "",
+                    "Start": 50344,
+                    "End": 50356
+                },
+                {
+                    "Reply": "It's the Police Commissioner.",
+                    "Didascalie": "",
+                    "Start": 50572,
+                    "End": 50602
+                },
+                {
+                    "Reply": "No, he's alone -",
+                    "Didascalie": "",
+                    "Start": 50957,
+                    "End": 50974
+                }
+            ]
+        },
+        {
+            "Character": "THUG 2",
+            "Replies": [
+                {
+                    "Reply": "What do we do?",
+                    "Didascalie": "",
+                    "Start": 49266,
+                    "End": 49281
+                },
+                {
+                    "Reply": "We didn't know what to do. We -",
+                    "Didascalie": "",
+                    "Start": 50748,
+                    "End": 50780
+                },
+                {
+                    "Reply": "He's dead.",
+                    "Didascalie": "",
+                    "Start": 51605,
+                    "End": 51616
+                },
+                {
+                    "Reply": "That water runs to any one of the outflows - we'd never find him.",
+                    "Didascalie": "",
+                    "Start": 51845,
+                    "End": 51922
+                },
+                {
+                    "Reply": "Follow him?",
+                    "Didascalie": "",
+                    "Start": 52365,
+                    "End": 52377
+                }
+            ]
+        },
+        {
             "Character": "FOX",
             "Replies": [
                 {
@@ -5692,6 +5795,17 @@
             ]
         },
         {
+            "Character": "PAPARAZZI 2",
+            "Replies": [
+                {
+                    "Reply": "No, that's Bruce Wayne! Hey, Wayne, where you been hiding?",
+                    "Didascalie": "",
+                    "Start": 71100,
+                    "End": 71170
+                }
+            ]
+        },
+        {
             "Character": "GREETER",
             "Replies": [
                 {
@@ -5725,79 +5839,53 @@
             ]
         },
         {
-            "Character": "A U",
+            "Character": "TRADER 2",
             "Replies": [
                 {
-                    "Reply": "mentor.",
+                    "Reply": "You can't short the stock because Bruce Wayne goes to a party -",
                     "Didascalie": "",
-                    "Start": 83175,
-                    "End": 83183
+                    "Start": 85634,
+                    "End": 85709
                 },
                 {
-                    "Reply": "now?",
+                    "Reply": "On what basis?",
                     "Didascalie": "",
-                    "Start": 115879,
-                    "End": 115884
+                    "Start": 85873,
+                    "End": 85888
+                }
+            ]
+        },
+        {
+            "Character": "TRADER 1",
+            "Replies": [
+                {
+                    "Reply": "Wayne coming back is change. Change is either good or bad.",
+                    "Didascalie": "",
+                    "Start": 85756,
+                    "End": 85826
                 },
                 {
-                    "Reply": "Shadows. And I beat him. Bane's just a mercenary, and we have to find out what he's up to.",
+                    "Reply": "I flipped a coin.",
                     "Didascalie": "",
-                    "Start": 116003,
-                    "End": 116116
+                    "Start": 85962,
+                    "End": 85980
                 },
                 {
-                    "Reply": "destiny...",
+                    "Reply": "This is a stock exchange, there's no money you can steal -",
                     "Didascalie": "",
-                    "Start": 148500,
-                    "End": 148511
-                },
+                    "Start": 88160,
+                    "End": 88230
+                }
+            ]
+        },
+        {
+            "Character": "TRADER 3",
+            "Replies": [
                 {
-                    "Reply": "Did you not think I'd return, Bruce?",
+                    "Reply": "No. Rye. I told 'em rye.",
                     "Didascalie": "",
-                    "Start": 201840,
-                    "End": 201888
-                },
-                {
-                    "Reply": "I told you I was immortal.",
-                    "Didascalie": "",
-                    "Start": 202087,
-                    "End": 202114
-                },
-                {
-                    "Reply": "There are many forms of immortality.",
-                    "Didascalie": "",
-                    "Start": 202273,
-                    "End": 202321
-                },
-                {
-                    "Reply": "Once I had a wife. My great love.",
-                    "Didascalie": "",
-                    "Start": 202557,
-                    "End": 202591
-                },
-                {
-                    "Reply": "An heir to ensure the League of Shadows fulfills its duty to restore balance to civilization.",
-                    "Didascalie": "",
-                    "Start": 203053,
-                    "End": 203169
-                },
-                {
-                    "Reply": "You yourself fought the decadence of Gotham for years. With all your strength and resources, all your moral authority. And the only victory you could achieve was a lie. Finally you understand...",
-                    "Didascalie": "",
-                    "Start": 203288,
-                    "End": 203538
-                },
-                {
-                    "Reply": "And must be allowed to die.",
-                    "Didascalie": "",
-                    "Start": 203765,
-                    "End": 203793
-                },
-                {
-                    "Reply": "rescued me. That is why I must fulfill his plan. That is why I must avenge his murder.",
-                    "Didascalie": "",
-                    "Start": 257948,
-                    "End": 258057
+                    "Start": 86164,
+                    "End": 86189
                 }
             ]
         },
@@ -6589,6 +6677,17 @@
             ]
         },
         {
+            "Character": "BOARD MEMBER 2",
+            "Replies": [
+                {
+                    "Reply": "And he himself has run it -",
+                    "Didascalie": "",
+                    "Start": 128690,
+                    "End": 128718
+                }
+            ]
+        },
+        {
             "Character": "REPORTER",
             "Replies": [
                 {
@@ -6950,6 +7049,17 @@
             ]
         },
         {
+            "Character": "ANALYST 2",
+            "Replies": [
+                {
+                    "Reply": "Whatever it is...it's nuclear.",
+                    "Didascalie": "",
+                    "Start": 180656,
+                    "End": 180687
+                }
+            ]
+        },
+        {
             "Character": "CIA ANALYST",
             "Replies": [
                 {
@@ -7037,6 +7147,23 @@
                     "Didascalie": "(OVER RADIO)",
                     "Start": 185874,
                     "End": 186040
+                }
+            ]
+        },
+        {
+            "Character": "SPECIAL FORCES 1",
+            "Replies": [
+                {
+                    "Reply": "Of course not.",
+                    "Didascalie": "",
+                    "Start": 210390,
+                    "End": 210405
+                },
+                {
+                    "Reply": "Commissioner Gordon? Captain Jones, Special Forces.",
+                    "Didascalie": "",
+                    "Start": 210704,
+                    "End": 210767
                 }
             ]
         },
@@ -7132,6 +7259,17 @@
                     "Didascalie": "",
                     "Start": 219043,
                     "End": 219069
+                }
+            ]
+        },
+        {
+            "Character": "SPECIAL FORCES 2",
+            "Replies": [
+                {
+                    "Reply": "Men who haven't seen daylight for three months?",
+                    "Didascalie": "",
+                    "Start": 211852,
+                    "End": 211911
                 }
             ]
         },
@@ -7308,6 +7446,28 @@
             ]
         },
         {
+            "Character": "BASEMENT THUG 1",
+            "Replies": [
+                {
+                    "Reply": "Find this one a spot, he's got a big day tomorrow.",
+                    "Didascalie": "",
+                    "Start": 238103,
+                    "End": 238165
+                }
+            ]
+        },
+        {
+            "Character": "BASEMENT THUG 2",
+            "Replies": [
+                {
+                    "Reply": "We all do. It's not every day you bag Bruce Wayne...",
+                    "Didascalie": "",
+                    "Start": 238291,
+                    "End": 238355
+                }
+            ]
+        },
+        {
             "Character": "LUCIUS",
             "Replies": [
                 {
@@ -7472,6 +7632,34 @@
                     "Didascalie": "",
                     "Start": 285550,
                     "End": 285563
+                }
+            ]
+        },
+        {
+            "Character": "TECH 1",
+            "Replies": [
+                {
+                    "Reply": "Why worry about the stabilization software? This whole autopilot system's obsolete -",
+                    "Didascalie": "",
+                    "Start": 286016,
+                    "End": 286123
+                }
+            ]
+        },
+        {
+            "Character": "TECH 2",
+            "Replies": [
+                {
+                    "Reply": "patch...six months ago.",
+                    "Didascalie": "",
+                    "Start": 286368,
+                    "End": 286392
+                },
+                {
+                    "Reply": "Huh. Bruce Wayne.",
+                    "Didascalie": "",
+                    "Start": 286648,
+                    "End": 286666
                 }
             ]
         },

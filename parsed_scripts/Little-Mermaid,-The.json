@@ -1,13 +1,1907 @@
 {
-    "Title": [
-        "Little Mermaid, The",
-        "   "
-    ],
+    "Title": "Little Mermaid, The",
     "Author": [
-        "\u00a0\u00a0Roger Allers\u00a0\u00a0Hans Christian Andersen\u00a0\u00a0Howard Ashman\u00a0\u00a0Ron Clements\u00a0\u00a0John Musker"
+        "Roger Allers",
+        "Hans Christian Andersen",
+        "Howard Ashman",
+        "Ron Clements",
+        "John Musker"
     ],
     "Genre": [
-        "\u00a0\u00a0Family\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Musical\u00a0\u00a0Romance\u00a0\u00a0Fantasy"
+        "Family",
+        "Animation",
+        "Comedy",
+        "Musical",
+        "Romance",
+        "Fantasy"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "SAILORS",
+            "Replies": [
+                {
+                    "Reply": "I'll tell you a tale of the bottomless blue And it's hey to the starboard, heave ho Look out, lad, a mermaid be waitin' for you In mysterious fathoms below.",
+                    "Didascalie": "",
+                    "Start": 375,
+                    "End": 538
+                }
+            ]
+        },
+        {
+            "Character": "ERIC",
+            "Replies": [
+                {
+                    "Reply": "Isn't this great?  The salty sea air, the wind blowing in your face . . .",
+                    "Didascalie": "",
+                    "Start": 544,
+                    "End": 618
+                },
+                {
+                    "Reply": "King Triton?",
+                    "Didascalie": "",
+                    "Start": 814,
+                    "End": 827
+                },
+                {
+                    "Reply": "Ah, Grimsby - y'old beanpole, you shouldn't have.",
+                    "Didascalie": "",
+                    "Start": 12941,
+                    "End": 12991
+                },
+                {
+                    "Reply": "Gee, Grim.  It's, err, it's, err - it's really somethin'. . . .",
+                    "Didascalie": "",
+                    "Start": 13093,
+                    "End": 13157
+                },
+                {
+                    "Reply": "Come on, Grim, don't start.  Look, you're not still sore because I didn't fall for the princess of Glauerhaven, are you?",
+                    "Didascalie": "",
+                    "Start": 13270,
+                    "End": 13393
+                },
+                {
+                    "Reply": "Well, she's out there somewhere.  I just - I just haven't found her yet.",
+                    "Didascalie": "",
+                    "Start": 13518,
+                    "End": 13591
+                },
+                {
+                    "Reply": "A girl - rescued me. . . .  She was - singing . . . she had the most -",
+                    "Didascalie": "",
+                    "Start": 15174,
+                    "End": 15245
+                },
+                {
+                    "Reply": "Max? Huh . . . what, Max!",
+                    "Didascalie": "",
+                    "Start": 29560,
+                    "End": 29586
+                },
+                {
+                    "Reply": "Oh . . . Oh, I see. Are you O.K., miss?  I'm sorry if this knucklehead scared you.  He's harmless, really - . . . you . . . seem very familiar . . .",
+                    "Didascalie": "",
+                    "Start": 29789,
+                    "End": 29940
+                },
+                {
+                    "Reply": "Whoa, whoa, careful - careful - easy. Gee, you must have really been through something. Don't worry, I'll help you. Come on . . .",
+                    "Didascalie": "(She falls into him.)",
+                    "Start": 30354,
+                    "End": 30487
+                },
+                {
+                    "Reply": "I'm tellin' you, Grim, she was REAL!  I'm gonna find that girl - and I'm gonna marry her.",
+                    "Didascalie": "",
+                    "Start": 31489,
+                    "End": 31581
+                },
+                {
+                    "Reply": "You look - wonderful.",
+                    "Didascalie": "",
+                    "Start": 31712,
+                    "End": 31734
+                },
+                {
+                    "Reply": "Ahem, so sorry Grim.",
+                    "Didascalie": "",
+                    "Start": 32161,
+                    "End": 32182
+                },
+                {
+                    "Reply": "I'm sorry, Grim, what was that?",
+                    "Didascalie": "",
+                    "Start": 34244,
+                    "End": 34276
+                },
+                {
+                    "Reply": "It's not a bad idea.  If she's interested.  Well - whaddaya say?  Would you like to join me on a tour of my kingdom tomorrow?",
+                    "Didascalie": "",
+                    "Start": 34635,
+                    "End": 34763
+                },
+                {
+                    "Reply": "Wow. Somebody should find that poor animal and put it out of its misery.",
+                    "Didascalie": "",
+                    "Start": 36707,
+                    "End": 36780
+                },
+                {
+                    "Reply": "Did you hear something?",
+                    "Didascalie": "",
+                    "Start": 37193,
+                    "End": 37217
+                },
+                {
+                    "Reply": "You know, I feel really bad not knowing your name.  Heh - maybe I could guess.  Is it, err, Mildred?  O.K., no.  How 'bout - Diana?  Rachel?",
+                    "Didascalie": "",
+                    "Start": 37611,
+                    "End": 37754
+                },
+                {
+                    "Reply": "Ariel?  Ariel?  Well, that's kinda pretty.  O.K. - Ariel. . .",
+                    "Didascalie": "",
+                    "Start": 37798,
+                    "End": 37860
+                },
+                {
+                    "Reply": "We wish to be married as soon as possible.",
+                    "Didascalie": "",
+                    "Start": 40217,
+                    "End": 40260
+                },
+                {
+                    "Reply": "This afternoon, Grimsby.  The wedding ship departs at sunset.",
+                    "Didascalie": "",
+                    "Start": 40361,
+                    "End": 40423
+                },
+                {
+                    "Reply": "I do.",
+                    "Didascalie": "(Under spell.)",
+                    "Start": 42435,
+                    "End": 42442
+                },
+                {
+                    "Reply": "Ariel?",
+                    "Didascalie": "",
+                    "Start": 42768,
+                    "End": 42775
+                },
+                {
+                    "Reply": "You - you can talk.  You're the one.",
+                    "Didascalie": "",
+                    "Start": 42794,
+                    "End": 42831
+                },
+                {
+                    "Reply": "It - it was you all the time.",
+                    "Didascalie": "",
+                    "Start": 42871,
+                    "End": 42901
+                },
+                {
+                    "Reply": "Grim, I lost her once. I'm not going to lose her again.",
+                    "Didascalie": "",
+                    "Start": 43894,
+                    "End": 43950
+                },
+                {
+                    "Reply": "No, I won't leave you.",
+                    "Didascalie": "",
+                    "Start": 44760,
+                    "End": 44783
+                },
+                {
+                    "Reply": "Look out!",
+                    "Didascalie": "",
+                    "Start": 44849,
+                    "End": 44859
+                }
+            ]
+        },
+        {
+            "Character": "GRIMSBY",
+            "Replies": [
+                {
+                    "Reply": "Oh yes . . . delightful . . . .",
+                    "Didascalie": "(Leaning over side.)",
+                    "Start": 677,
+                    "End": 710
+                },
+                {
+                    "Reply": "Merpeople!  Eric, pay no attention to this nautical nonsense.",
+                    "Didascalie": "",
+                    "Start": 925,
+                    "End": 987
+                },
+                {
+                    "Reply": "Silence!  Silence!  It is now my honour and privilege to present our esteemed Prince Eric with a very special, very expensive, very large birthday present.",
+                    "Didascalie": "",
+                    "Start": 12775,
+                    "End": 12935
+                },
+                {
+                    "Reply": "Yes, I commissioned it myself.  Of course, I had hoped it would be a wedding present, but . . .",
+                    "Didascalie": "",
+                    "Start": 13166,
+                    "End": 13264
+                },
+                {
+                    "Reply": "Oh, Eric, it isn't me alone.  The entire kingdom wants to see you happily settled down with the right girl.",
+                    "Didascalie": "",
+                    "Start": 13402,
+                    "End": 13512
+                },
+                {
+                    "Reply": "Well, perhaps you haven't been looking hard enough.",
+                    "Didascalie": "",
+                    "Start": 13600,
+                    "End": 13652
+                },
+                {
+                    "Reply": "Eric!  Oh, Eric.  You really delight in these sadistic strains on my blood pressure, don't you?",
+                    "Didascalie": "",
+                    "Start": 15070,
+                    "End": 15168
+                },
+                {
+                    "Reply": "Ah, Eric, I think you've swallowed a bit too much seawater.  Off we go.  Come on, Max.",
+                    "Didascalie": "",
+                    "Start": 15273,
+                    "End": 15362
+                },
+                {
+                    "Reply": "Oh, Eric, be reasonable.  Nice young ladies just don't - swim around rescuing people in the middle of the ocean and then - flutter off into oblivion, like some -",
+                    "Didascalie": "",
+                    "Start": 31317,
+                    "End": 31483
+                },
+                {
+                    "Reply": "Oh, Eric, isn't she a vision?",
+                    "Didascalie": "",
+                    "Start": 31676,
+                    "End": 31706
+                },
+                {
+                    "Reply": "Oh, very amusing. Carlotta, my dear, what's for dinner?",
+                    "Didascalie": "(Wiping his face.)",
+                    "Start": 32282,
+                    "End": 32341
+                },
+                {
+                    "Reply": "You know, Eric, perhaps our young guest might enjoy seeing some of the sights of the kingdom.  Something in the way of a tour?",
+                    "Didascalie": "",
+                    "Start": 34109,
+                    "End": 34238
+                },
+                {
+                    "Reply": "Wonderful, now let's eat, before this crab wanders off my plate.",
+                    "Didascalie": "",
+                    "Start": 34837,
+                    "End": 34902
+                },
+                {
+                    "Reply": "Well, uh - err, Eric.  I-it appears that I was mistaken.  This mystery maiden of yours does - in fact exist.  And - and she is lovely.  Congratula-",
+                    "Didascalie": "",
+                    "Start": 40043,
+                    "End": 40193
+                },
+                {
+                    "Reply": "Oh, yes - of course, Eric, but, er - but these things do take time, you know. . . .",
+                    "Didascalie": "",
+                    "Start": 40269,
+                    "End": 40355
+                },
+                {
+                    "Reply": "Eric! What are you doing?",
+                    "Didascalie": "",
+                    "Start": 43862,
+                    "End": 43888
+                }
+            ]
+        },
+        {
+            "Character": "SAILOR 1",
+            "Replies": [
+                {
+                    "Reply": "A fine strong wind and a following sea.  King Triton must be in a friendly-type mood.",
+                    "Didascalie": "",
+                    "Start": 720,
+                    "End": 808
+                }
+            ]
+        },
+        {
+            "Character": "SAILOR 2",
+            "Replies": [
+                {
+                    "Reply": "Why, ruler of the merpeople, lad.  Thought every good sailor knew about him.",
+                    "Didascalie": "",
+                    "Start": 837,
+                    "End": 916
+                }
+            ]
+        },
+        {
+            "Character": "SEAHORSE",
+            "Replies": [
+                {
+                    "Reply": "Sebastian!  Sebastian, I've been looking all over for you.  I've got an urgent message from the sea king.",
+                    "Didascalie": "",
+                    "Start": 19403,
+                    "End": 19511
+                },
+                {
+                    "Reply": "He wants to see you right away - something about Ariel.",
+                    "Didascalie": "",
+                    "Start": 19546,
+                    "End": 19602
+                },
+                {
+                    "Reply": "No, Your Majesty.  We've searched everywhere.  We've found no trace of your daughter - or Sebastian.",
+                    "Didascalie": "",
+                    "Start": 35635,
+                    "End": 35738
+                }
+            ]
+        },
+        {
+            "Character": "TRITON",
+            "Replies": [
+                {
+                    "Reply": "I'm really looking forward to this performance, Sebastian.",
+                    "Didascalie": "",
+                    "Start": 1665,
+                    "End": 1724
+                },
+                {
+                    "Reply": "Yes, and especially my little Ariel.",
+                    "Didascalie": "",
+                    "Start": 1864,
+                    "End": 1901
+                },
+                {
+                    "Reply": "Ariel!!",
+                    "Didascalie": "(Very angry.)",
+                    "Start": 2517,
+                    "End": 2526
+                },
+                {
+                    "Reply": "I just don't know what we're going to do with you, young lady.",
+                    "Didascalie": "",
+                    "Start": 7171,
+                    "End": 7234
+                },
+                {
+                    "Reply": "As a result of your careless behaviour -",
+                    "Didascalie": "",
+                    "Start": 7286,
+                    "End": 7327
+                },
+                {
+                    "Reply": "- the entire celebration was, er -",
+                    "Didascalie": "",
+                    "Start": 7379,
+                    "End": 7414
+                },
+                {
+                    "Reply": "Seagull?  What?  Oh - you went up to the surface again, didn't you?",
+                    "Didascalie": "",
+                    "Start": 7913,
+                    "End": 7981
+                },
+                {
+                    "Reply": "Oh, Ariel, How many times must we go through this?  You could've been seen by one of those barbarians - by - by one of those humans!",
+                    "Didascalie": "",
+                    "Start": 8036,
+                    "End": 8171
+                },
+                {
+                    "Reply": "They're dangerous.  Do you think I want to see my youngest daughter snared by some fish-eater's hook?",
+                    "Didascalie": "",
+                    "Start": 8217,
+                    "End": 8321
+                },
+                {
+                    "Reply": "Don't you take that tone of voice with me young lady.  As long as you live under my ocean, you'll obey my rules!",
+                    "Didascalie": "",
+                    "Start": 8386,
+                    "End": 8501
+                },
+                {
+                    "Reply": "Do you, er, think I - I was too hard on her?",
+                    "Didascalie": "",
+                    "Start": 8797,
+                    "End": 8842
+                },
+                {
+                    "Reply": "You're absolutely right, Sebastian.",
+                    "Didascalie": "",
+                    "Start": 9050,
+                    "End": 9086
+                },
+                {
+                    "Reply": "Ariel needs constant supervision.",
+                    "Didascalie": "",
+                    "Start": 9116,
+                    "End": 9150
+                },
+                {
+                    "Reply": "Someone to watch over her - to keep her out of trouble.",
+                    "Didascalie": "",
+                    "Start": 9179,
+                    "End": 9235
+                },
+                {
+                    "Reply": "And YOU are just the crab to do it.",
+                    "Didascalie": "",
+                    "Start": 9269,
+                    "End": 9305
+                },
+                {
+                    "Reply": "What? What has she got?",
+                    "Didascalie": "",
+                    "Start": 16311,
+                    "End": 16335
+                },
+                {
+                    "Reply": "Ariel?  In love?",
+                    "Didascalie": "",
+                    "Start": 16395,
+                    "End": 16412
+                },
+                {
+                    "Reply": "Now, Sebastian, I'm concerned about Ariel.  Have you noticed she's been acting peculiar lately?",
+                    "Didascalie": "",
+                    "Start": 19928,
+                    "End": 20026
+                },
+                {
+                    "Reply": "You know, moaning about, daydreaming, singing to herself. . . .  You haven't noticed, hmm?",
+                    "Didascalie": "",
+                    "Start": 20055,
+                    "End": 20148
+                },
+                {
+                    "Reply": "Sebastian. . . .",
+                    "Didascalie": "",
+                    "Start": 20182,
+                    "End": 20199
+                },
+                {
+                    "Reply": "I know you've been keeping something from me. . . .",
+                    "Didascalie": "",
+                    "Start": 20224,
+                    "End": 20276
+                },
+                {
+                    "Reply": "About Ariel?",
+                    "Didascalie": "",
+                    "Start": 20320,
+                    "End": 20333
+                },
+                {
+                    "Reply": "In love?",
+                    "Didascalie": "",
+                    "Start": 20366,
+                    "End": 20375
+                },
+                {
+                    "Reply": "Humans?  WHAT ABOUT HUMANS?",
+                    "Didascalie": "",
+                    "Start": 20522,
+                    "End": 20550
+                },
+                {
+                    "Reply": "I consider myself a reasonable merman. I set certain rules, and I expect those rules to be obeyed.",
+                    "Didascalie": "",
+                    "Start": 21019,
+                    "End": 21120
+                },
+                {
+                    "Reply": "Is it true you rescued a human from drowing?",
+                    "Didascalie": "",
+                    "Start": 21147,
+                    "End": 21192
+                },
+                {
+                    "Reply": "Contact between the human world and the mer-world is strictly for-",
+                    "Didascalie": "",
+                    "Start": 21224,
+                    "End": 21291
+                },
+                {
+                    "Reply": "One less human to worry about!",
+                    "Didascalie": "",
+                    "Start": 21379,
+                    "End": 21410
+                },
+                {
+                    "Reply": "Know him? I don't have to know him. They're all the same. Spineless, savage, harpooning, fish-eaters, incapable of any feeling-",
+                    "Didascalie": "",
+                    "Start": 21450,
+                    "End": 21580
+                },
+                {
+                    "Reply": "No . . . Have you lost your senses completely? He's a human, you're a mermaid!",
+                    "Didascalie": "",
+                    "Start": 21614,
+                    "End": 21695
+                },
+                {
+                    "Reply": "Any sign of them?",
+                    "Didascalie": "",
+                    "Start": 35607,
+                    "End": 35625
+                },
+                {
+                    "Reply": "Well, keep looking.  Leave no shell unturned, no coral unexplored.  Let no one in this kingdom sleep until she's safe at home.",
+                    "Didascalie": "",
+                    "Start": 35746,
+                    "End": 35875
+                },
+                {
+                    "Reply": "Oh, what have I done? What have I done?",
+                    "Didascalie": "",
+                    "Start": 35916,
+                    "End": 35956
+                },
+                {
+                    "Reply": "Ursula, stop!",
+                    "Didascalie": "",
+                    "Start": 43210,
+                    "End": 43224
+                },
+                {
+                    "Reply": "Let her go.",
+                    "Didascalie": "",
+                    "Start": 43283,
+                    "End": 43295
+                },
+                {
+                    "Reply": "She really does love him, doesn't she, Sebastian?",
+                    "Didascalie": "",
+                    "Start": 45559,
+                    "End": 45609
+                },
+                {
+                    "Reply": "left.",
+                    "Didascalie": "",
+                    "Start": 45795,
+                    "End": 45801
+                }
+            ]
+        },
+        {
+            "Character": "SEBASTIAN",
+            "Replies": [
+                {
+                    "Reply": "Oh, Your Majesty, this will be the finest concert I have ever con-",
+                    "Didascalie": "",
+                    "Start": 1735,
+                    "End": 1802
+                },
+                {
+                    "Reply": "Triton's daughters: Ah, we are the daughters of Triton.",
+                    "Didascalie": "",
+                    "Start": 2091,
+                    "End": 2147
+                },
+                {
+                    "Reply": "Careless and reckless behaviour!",
+                    "Didascalie": "",
+                    "Start": 7338,
+                    "End": 7371
+                },
+                {
+                    "Reply": "Well, it was ruined!  That's all.  Completely destroyed! This concert was to be the pinnacle of my distinguished career. Now thanks to you I am the laughing stock of the entire kingdom!",
+                    "Didascalie": "",
+                    "Start": 7425,
+                    "End": 7615
+                },
+                {
+                    "Reply": "Hm! Teenagers. . . .  They think they know everything.  You give them an inch, they swim all over you.",
+                    "Didascalie": "",
+                    "Start": 8684,
+                    "End": 8789
+                },
+                {
+                    "Reply": "Definitely not.  Why, if Ariel was my daughter, I'd show her who was boss.  None of this \"flitting to the surface\" and other such nonsense.  No, sir - I'd keep her under tight control.",
+                    "Didascalie": "",
+                    "Start": 8853,
+                    "End": 9042
+                },
+                {
+                    "Reply": "Of course.",
+                    "Didascalie": "",
+                    "Start": 9097,
+                    "End": 9108
+                },
+                {
+                    "Reply": "Constant.",
+                    "Didascalie": "",
+                    "Start": 9161,
+                    "End": 9171
+                },
+                {
+                    "Reply": "All the time -",
+                    "Didascalie": "",
+                    "Start": 9246,
+                    "End": 9261
+                },
+                {
+                    "Reply": "Ariel - what, are you mad?  How could you - what is all this?",
+                    "Didascalie": "",
+                    "Start": 11422,
+                    "End": 11484
+                },
+                {
+                    "Reply": "Oh.  I see.  Your collection.  Hmmm.  IF YOUR FATHER KNEW ABOUT THIS PLACE HE'D -",
+                    "Didascalie": "",
+                    "Start": 11544,
+                    "End": 11628
+                },
+                {
+                    "Reply": "We just gotta forget this whole thing ever happened.  The sea king will never know.  You won't tell him, I won't tell him.  I will stay in one piece.",
+                    "Didascalie": "",
+                    "Start": 15373,
+                    "End": 15527
+                },
+                {
+                    "Reply": "O.K. So far, so good.  I don't think the king knows. But it will not be easy keeping something like this a secret for long.",
+                    "Didascalie": "",
+                    "Start": 16473,
+                    "End": 16599
+                },
+                {
+                    "Reply": "Ariel, stop talking crazy.",
+                    "Didascalie": "",
+                    "Start": 16722,
+                    "End": 16749
+                },
+                {
+                    "Reply": "Ariel - please.  Will you get your head out of the clouds and back in the water where it belongs?",
+                    "Didascalie": "",
+                    "Start": 16831,
+                    "End": 16931
+                },
+                {
+                    "Reply": "Down HERE is your home! Ariel - listen to me.  The human world -",
+                    "Didascalie": "",
+                    "Start": 17051,
+                    "End": 17116
+                },
+                {
+                    "Reply": "The sea king?",
+                    "Didascalie": "",
+                    "Start": 19522,
+                    "End": 19536
+                },
+                {
+                    "Reply": "He knows!",
+                    "Didascalie": "",
+                    "Start": 19613,
+                    "End": 19623
+                },
+                {
+                    "Reply": "Peculiar?",
+                    "Didascalie": "",
+                    "Start": 20037,
+                    "End": 20047
+                },
+                {
+                    "Reply": "Oh - well, I -",
+                    "Didascalie": "",
+                    "Start": 20159,
+                    "End": 20174
+                },
+                {
+                    "Reply": "Hmmm?",
+                    "Didascalie": "",
+                    "Start": 20210,
+                    "End": 20216
+                },
+                {
+                    "Reply": "Keeping . . . something?",
+                    "Didascalie": "",
+                    "Start": 20287,
+                    "End": 20312
+                },
+                {
+                    "Reply": "Ariel . . . ?",
+                    "Didascalie": "",
+                    "Start": 20344,
+                    "End": 20358
+                },
+                {
+                    "Reply": "I tried to stop her, sir.  She wouldn't listen.  I told her to stay away from humans - they are bad, they are trouble, they -",
+                    "Didascalie": "",
+                    "Start": 20386,
+                    "End": 20514
+                },
+                {
+                    "Reply": "Humans?  Ho ho ho ho. . . . Who said anything about humans?",
+                    "Didascalie": "",
+                    "Start": 20561,
+                    "End": 20621
+                },
+                {
+                    "Reply": "Ariel, no!  No, she's a demon, she's a monster!",
+                    "Didascalie": "",
+                    "Start": 23189,
+                    "End": 23237
+                },
+                {
+                    "Reply": "SHE'S GOT LEGS, YOU IDIOT!  She traded her voice to the sea witch and got legs.  Jeez, man . . .",
+                    "Didascalie": "",
+                    "Start": 28312,
+                    "End": 28411
+                },
+                {
+                    "Reply": "This has got to be, without a doubt, the single most humiliating day of my life.  I hope you appreciate what I go through for you, young lady.",
+                    "Didascalie": "",
+                    "Start": 35081,
+                    "End": 35226
+                },
+                {
+                    "Reply": "Jeez, man, I'm surrounded by amateurs!  You want something done, you've got to do it yourself.  First, we got to create the mood.",
+                    "Didascalie": "",
+                    "Start": 36791,
+                    "End": 36923
+                },
+                {
+                    "Reply": "Ariel.  Her name is Ariel.",
+                    "Didascalie": "",
+                    "Start": 37765,
+                    "End": 37792
+                },
+                {
+                    "Reply": "What is this idiot babbling about?",
+                    "Didascalie": "",
+                    "Start": 39650,
+                    "End": 39685
+                },
+                {
+                    "Reply": "Are you sure about this?",
+                    "Didascalie": "",
+                    "Start": 41303,
+                    "End": 41328
+                },
+                {
+                    "Reply": "I've gotta get to the sea king.  He must know about this.",
+                    "Didascalie": "",
+                    "Start": 41758,
+                    "End": 41816
+                },
+                {
+                    "Reply": "You - find a way to STALL THAT WEDDING!",
+                    "Didascalie": "",
+                    "Start": 41874,
+                    "End": 41914
+                },
+                {
+                    "Reply": "Well, it's like I always say, Your Majesty.  Children got to be free to lead their own lives.",
+                    "Didascalie": "",
+                    "Start": 45620,
+                    "End": 45716
+                },
+                {
+                    "Reply": "And what's that, Your Majesty?",
+                    "Didascalie": "",
+                    "Start": 45812,
+                    "End": 45843
+                }
+            ]
+        },
+        {
+            "Character": "FLOUNDER",
+            "Replies": [
+                {
+                    "Reply": "Ariel, wait for me . . .",
+                    "Didascalie": "(From distance.)",
+                    "Start": 2599,
+                    "End": 2625
+                },
+                {
+                    "Reply": "You know I can't swim that fast.",
+                    "Didascalie": "(Catching up.)",
+                    "Start": 2676,
+                    "End": 2710
+                },
+                {
+                    "Reply": "Yeah . . . sure . . . it - it's great.  Now let's get outta here.",
+                    "Didascalie": "",
+                    "Start": 2761,
+                    "End": 2827
+                },
+                {
+                    "Reply": "Who, me?  No way.  It's just, it, err . . . it looks - damp in there.",
+                    "Didascalie": "",
+                    "Start": 2887,
+                    "End": 2957
+                },
+                {
+                    "Reply": "O.K.  Yeah - you go.  I'll stay and - what?  Sharks!  Ariel!",
+                    "Didascalie": "",
+                    "Start": 3191,
+                    "End": 3252
+                },
+                {
+                    "Reply": "Ariel . . . I can't . . . I mean-",
+                    "Didascalie": "(He tries to fit through porthole.)",
+                    "Start": 3289,
+                    "End": 3324
+                },
+                {
+                    "Reply": "Yeah sure, no problem, I'm okay . . .",
+                    "Didascalie": "",
+                    "Start": 3849,
+                    "End": 3887
+                },
+                {
+                    "Reply": "Wow, cool!  But, err, what is it?",
+                    "Didascalie": "",
+                    "Start": 4020,
+                    "End": 4054
+                },
+                {
+                    "Reply": "What was that? Did you hear something?",
+                    "Didascalie": "",
+                    "Start": 4156,
+                    "End": 4195
+                },
+                {
+                    "Reply": "Ariel . .",
+                    "Didascalie": "",
+                    "Start": 4266,
+                    "End": 4276
+                },
+                {
+                    "Reply": "You big bully. THBBBTTTT . . .",
+                    "Didascalie": "(They crash through and go round and round. Flounder gets knocked silly but Ariel saves him and traps Shark)",
+                    "Start": 4671,
+                    "End": 4703
+                },
+                {
+                    "Reply": "I am not.",
+                    "Didascalie": "",
+                    "Start": 4808,
+                    "End": 4818
+                },
+                {
+                    "Reply": "Yeah - we were in this sunken ship - it was really creepy.",
+                    "Didascalie": "",
+                    "Start": 5169,
+                    "End": 5228
+                },
+                {
+                    "Reply": "What about that one?",
+                    "Didascalie": "",
+                    "Start": 5665,
+                    "End": 5686
+                },
+                {
+                    "Reply": "The concert was today?",
+                    "Didascalie": "",
+                    "Start": 6185,
+                    "End": 6208
+                },
+                {
+                    "Reply": "But it wasn't her fault! Ah - well - first, ahh, this shark chased us - yeah - yeah!  And we tried to - but we couldn't - and - grrrrrrrrr - and -",
+                    "Didascalie": "",
+                    "Start": 7625,
+                    "End": 7774
+                },
+                {
+                    "Reply": "Ariel, are you okay?",
+                    "Didascalie": "",
+                    "Start": 9655,
+                    "End": 9676
+                },
+                {
+                    "Reply": "You're not gonna tell him, are you?",
+                    "Didascalie": "",
+                    "Start": 11638,
+                    "End": 11674
+                },
+                {
+                    "Reply": "You'll see. It's a suprise.",
+                    "Didascalie": "",
+                    "Start": 20750,
+                    "End": 20778
+                },
+                {
+                    "Reply": "Poor Ariel.",
+                    "Didascalie": "(snif)",
+                    "Start": 22975,
+                    "End": 22988
+                },
+                {
+                    "Reply": "Has he kissed her yet?",
+                    "Didascalie": "(As they pass water.)",
+                    "Start": 36082,
+                    "End": 36106
+                },
+                {
+                    "Reply": "No, not yet.",
+                    "Didascalie": "",
+                    "Start": 36238,
+                    "End": 36251
+                },
+                {
+                    "Reply": "Move over - move your big feathers.  I can't see a thing.",
+                    "Didascalie": "",
+                    "Start": 36425,
+                    "End": 36483
+                },
+                {
+                    "Reply": "I'll try.",
+                    "Didascalie": "",
+                    "Start": 41737,
+                    "End": 41747
+                },
+                {
+                    "Reply": "Don't worry Ariel. ugh - we - we're gonna make it. We're almost there.",
+                    "Didascalie": "",
+                    "Start": 42227,
+                    "End": 42300
+                }
+            ]
+        },
+        {
+            "Character": "ARIEL",
+            "Replies": [
+                {
+                    "Reply": "Flounder, hurry up!",
+                    "Didascalie": "",
+                    "Start": 2632,
+                    "End": 2652
+                },
+                {
+                    "Reply": "There it is.  Isn't it fantastic?",
+                    "Didascalie": "",
+                    "Start": 2717,
+                    "End": 2751
+                },
+                {
+                    "Reply": "You're not getting cold fins now, are you?",
+                    "Didascalie": "",
+                    "Start": 2834,
+                    "End": 2877
+                },
+                {
+                    "Reply": "Oh, Flounder.",
+                    "Didascalie": "(Laughs.)",
+                    "Start": 3354,
+                    "End": 3369
+                },
+                {
+                    "Reply": "Flounder, don't be such a guppy.",
+                    "Didascalie": "",
+                    "Start": 3486,
+                    "End": 3519
+                },
+                {
+                    "Reply": "Oh, are you okay?",
+                    "Didascalie": "",
+                    "Start": 3821,
+                    "End": 3839
+                },
+                {
+                    "Reply": "seen anything so wonderful in your entire life?",
+                    "Didascalie": "",
+                    "Start": 3962,
+                    "End": 4010
+                },
+                {
+                    "Reply": "I don't know.  But I bet Scuttle will.",
+                    "Didascalie": "",
+                    "Start": 4061,
+                    "End": 4100
+                },
+                {
+                    "Reply": "Hmm, I wonder what this one is?",
+                    "Didascalie": "(Distracted by pipe.)",
+                    "Start": 4223,
+                    "End": 4256
+                },
+                {
+                    "Reply": "Flounder, will you relax. Nothing is going to happen.",
+                    "Didascalie": "",
+                    "Start": 4283,
+                    "End": 4337
+                },
+                {
+                    "Reply": "Flounder, you really are a guppy.",
+                    "Didascalie": "(Laughing.)",
+                    "Start": 4763,
+                    "End": 4798
+                },
+                {
+                    "Reply": "Scuttle!",
+                    "Didascalie": "",
+                    "Start": 4911,
+                    "End": 4920
+                },
+                {
+                    "Reply": "Scuttle - look what we found.",
+                    "Didascalie": "",
+                    "Start": 5129,
+                    "End": 5159
+                },
+                {
+                    "Reply": "What?  What is it?",
+                    "Didascalie": "",
+                    "Start": 5364,
+                    "End": 5383
+                },
+                {
+                    "Reply": "A dinglehopper!",
+                    "Didascalie": "",
+                    "Start": 5639,
+                    "End": 5655
+                },
+                {
+                    "Reply": "Music?  Oh, the concert! Oh my gosh, my father's gonna kill me!",
+                    "Didascalie": "",
+                    "Start": 6111,
+                    "End": 6175
+                },
+                {
+                    "Reply": "Daddy, I'm sorry, I just forgot, I -",
+                    "Didascalie": "",
+                    "Start": 7241,
+                    "End": 7278
+                },
+                {
+                    "Reply": "Nothing - happened. . . .",
+                    "Didascalie": "",
+                    "Start": 8002,
+                    "End": 8028
+                },
+                {
+                    "Reply": "Daddy, they're not barbarians!",
+                    "Didascalie": "",
+                    "Start": 8178,
+                    "End": 8209
+                },
+                {
+                    "Reply": "I'm sixteen years old - I'm not a child anymore -",
+                    "Didascalie": "",
+                    "Start": 8328,
+                    "End": 8378
+                },
+                {
+                    "Reply": "But if you would just listen -",
+                    "Didascalie": "",
+                    "Start": 8508,
+                    "End": 8539
+                },
+                {
+                    "Reply": "If only I could make him understand.  I just don't see things the way he does. I don't see how a world that makes such wonderful things - could be bad.",
+                    "Didascalie": "",
+                    "Start": 9683,
+                    "End": 9839
+                },
+                {
+                    "Reply": "Sebastion!?",
+                    "Didascalie": "",
+                    "Start": 11399,
+                    "End": 11411
+                },
+                {
+                    "Reply": "It, err, it's just my - collection. . . .",
+                    "Didascalie": "",
+                    "Start": 11491,
+                    "End": 11533
+                },
+                {
+                    "Reply": "Oh, please, Sebastian, he would never understand.",
+                    "Didascalie": "",
+                    "Start": 11681,
+                    "End": 11731
+                },
+                {
+                    "Reply": "What do you suppose?. . .",
+                    "Didascalie": "",
+                    "Start": 11903,
+                    "End": 11929
+                },
+                {
+                    "Reply": "Scuttle, be quiet!  They'll hear you.",
+                    "Didascalie": "",
+                    "Start": 12397,
+                    "End": 12435
+                },
+                {
+                    "Reply": "I've never seen a human this close before.  Oh - he's very handsome, isn't he?",
+                    "Didascalie": "",
+                    "Start": 12556,
+                    "End": 12637
+                },
+                {
+                    "Reply": "Not that one - the one playing the snarfblat.",
+                    "Didascalie": "",
+                    "Start": 12720,
+                    "End": 12766
+                },
+                {
+                    "Reply": "Is he - dead?",
+                    "Didascalie": "",
+                    "Start": 14461,
+                    "End": 14475
+                },
+                {
+                    "Reply": "No, look! He's breathing. He's so, beautiful.",
+                    "Didascalie": "",
+                    "Start": 14609,
+                    "End": 14655
+                },
+                {
+                    "Reply": "He loves me . . . hmmm, he loves me not. . . .  He loves me!  I knew it!",
+                    "Didascalie": "(Picking petals off a flower)",
+                    "Start": 16635,
+                    "End": 16711
+                },
+                {
+                    "Reply": "I gotta see him again - tonight!  Scuttle knows where he lives.",
+                    "Didascalie": "",
+                    "Start": 16756,
+                    "End": 16820
+                },
+                {
+                    "Reply": "I'll swim up to his castle.  Then Flounder will splash around to get his attention, and then with -",
+                    "Didascalie": "",
+                    "Start": 16938,
+                    "End": 17040
+                },
+                {
+                    "Reply": "Flounder, why can't you just tell me what this is all about?",
+                    "Didascalie": "",
+                    "Start": 20679,
+                    "End": 20740
+                },
+                {
+                    "Reply": "But Daddy!-",
+                    "Didascalie": "",
+                    "Start": 21127,
+                    "End": 21139
+                },
+                {
+                    "Reply": "Daddy, I had to-",
+                    "Didascalie": "",
+                    "Start": 21199,
+                    "End": 21216
+                },
+                {
+                    "Reply": "He would have died-",
+                    "Didascalie": "",
+                    "Start": 21351,
+                    "End": 21371
+                },
+                {
+                    "Reply": "You don't even know him.",
+                    "Didascalie": "",
+                    "Start": 21417,
+                    "End": 21442
+                },
+                {
+                    "Reply": "Daddy, I love him!",
+                    "Didascalie": "",
+                    "Start": 21587,
+                    "End": 21606
+                },
+                {
+                    "Reply": "I don't care.",
+                    "Didascalie": "",
+                    "Start": 21702,
+                    "End": 21716
+                },
+                {
+                    "Reply": "Daddy!. . . No . . . No, please- Daddy, stop!. . . Daddy, Nooo!!. . .",
+                    "Didascalie": "",
+                    "Start": 21874,
+                    "End": 21944
+                },
+                {
+                    "Reply": "Who - who are you?",
+                    "Didascalie": "",
+                    "Start": 22294,
+                    "End": 22313
+                },
+                {
+                    "Reply": "I don't understand.",
+                    "Didascalie": "",
+                    "Start": 22561,
+                    "End": 22581
+                },
+                {
+                    "Reply": "The sea witch?  Why, that's - I couldn't possibly - no!  Get out of here!  Leave me alone!",
+                    "Didascalie": "",
+                    "Start": 22620,
+                    "End": 22712
+                },
+                {
+                    "Reply": "Why don't you go tell my father?  You're good at that.",
+                    "Didascalie": "",
+                    "Start": 23244,
+                    "End": 23299
+                },
+                {
+                    "Reply": "Can you DO that?",
+                    "Didascalie": "",
+                    "Start": 23895,
+                    "End": 23912
+                },
+                {
+                    "Reply": "If I become human, I'll never be with my father or sisters again.",
+                    "Didascalie": "",
+                    "Start": 25654,
+                    "End": 25720
+                },
+                {
+                    "Reply": "But I don't have any -",
+                    "Didascalie": "",
+                    "Start": 25953,
+                    "End": 25976
+                },
+                {
+                    "Reply": "My voice?",
+                    "Didascalie": "",
+                    "Start": 26117,
+                    "End": 26127
+                },
+                {
+                    "Reply": "But without my voice, how can I -",
+                    "Didascalie": "",
+                    "Start": 26201,
+                    "End": 26235
+                },
+                {
+                    "Reply": "Eric.",
+                    "Didascalie": "",
+                    "Start": 42782,
+                    "End": 42788
+                },
+                {
+                    "Reply": "Oh, Eric, I - I wanted to tell you.",
+                    "Didascalie": "",
+                    "Start": 42908,
+                    "End": 42944
+                },
+                {
+                    "Reply": "Daddy, I'm sorry!  I - I - I didn't mean to.  I didn't know -",
+                    "Didascalie": "",
+                    "Start": 43366,
+                    "End": 43428
+                },
+                {
+                    "Reply": "No . . . Oh, No!",
+                    "Didascalie": "",
+                    "Start": 44133,
+                    "End": 44150
+                },
+                {
+                    "Reply": "Daddy? . . .",
+                    "Didascalie": "",
+                    "Start": 44191,
+                    "End": 44204
+                },
+                {
+                    "Reply": "You - You monster!",
+                    "Didascalie": "",
+                    "Start": 44270,
+                    "End": 44289
+                },
+                {
+                    "Reply": "Eric! Eric look out!",
+                    "Didascalie": "",
+                    "Start": 44432,
+                    "End": 44453
+                },
+                {
+                    "Reply": "Eric, you've got to get away from here.",
+                    "Didascalie": "",
+                    "Start": 44714,
+                    "End": 44754
+                },
+                {
+                    "Reply": "I love you Daddy.",
+                    "Didascalie": "",
+                    "Start": 46154,
+                    "End": 46172
+                }
+            ]
+        },
+        {
+            "Character": "SCUTTLE",
+            "Replies": [
+                {
+                    "Reply": "Whoa!",
+                    "Didascalie": "(Looking through the telescope the wrong way, shouting.)",
+                    "Start": 4985,
+                    "End": 4992
+                },
+                {
+                    "Reply": "Wow - this is special - this is very, very unusual.",
+                    "Didascalie": "",
+                    "Start": 5305,
+                    "End": 5357
+                },
+                {
+                    "Reply": "It's a dinglehopper! Humans use these little babies . . . to straighten their hair out. See - just a little twirl here an' a yank there and - voiolay!  You got an aesthetically pleasing configuration of hair that humans go nuts over!",
+                    "Didascalie": "",
+                    "Start": 5392,
+                    "End": 5632
+                },
+                {
+                    "Reply": "Ah - this I haven't seen in years.  This is wonderful!",
+                    "Didascalie": "(Holding pipe)",
+                    "Start": 5709,
+                    "End": 5765
+                },
+                {
+                    "Reply": "Now, the snarfblat dates back to prehistorical times, when humans used to sit around, and stare at each other all day.  Got very boring.  So, they invented the snarfblat to make fine music.  Allow me.",
+                    "Didascalie": "",
+                    "Start": 5834,
+                    "End": 6039
+                },
+                {
+                    "Reply": "Maybe you could make a little planter out of it or somethin'.",
+                    "Didascalie": "(Still contemplating pipe.)",
+                    "Start": 6244,
+                    "End": 6309
+                },
+                {
+                    "Reply": "Anytime sweetie, anytime.",
+                    "Didascalie": "",
+                    "Start": 6383,
+                    "End": 6409
+                },
+                {
+                    "Reply": "Hey there, sweetie!  Quite a show, eh?",
+                    "Didascalie": "",
+                    "Start": 12351,
+                    "End": 12390
+                },
+                {
+                    "Reply": "I dunno, he looks kinda hairy and slobbery to me.",
+                    "Didascalie": "(Looking at Max)",
+                    "Start": 12662,
+                    "End": 12713
+                },
+                {
+                    "Reply": "Well, look at what the catfish dragged in!  Look at ya!  Look at ya!",
+                    "Didascalie": "",
+                    "Start": 27918,
+                    "End": 27987
+                },
+                {
+                    "Reply": "I knew that.",
+                    "Didascalie": "",
+                    "Start": 28420,
+                    "End": 28433
+                },
+                {
+                    "Reply": "Now, Ariel, I'm tellin' ya, if you wanna be a human the first thing you gotta do is dress like one. Now lemme see.",
+                    "Didascalie": "",
+                    "Start": 29372,
+                    "End": 29489
+                },
+                {
+                    "Reply": "Yo, Flounder! Any kissing?",
+                    "Didascalie": "",
+                    "Start": 36201,
+                    "End": 36228
+                },
+                {
+                    "Reply": "drives, almost crashing. They end up rowing on a still lagoon in the even-",
+                    "Didascalie": "",
+                    "Start": 36332,
+                    "End": 36407
+                },
+                {
+                    "Reply": "Ariel!  Ariel, wake up!  Wake up!  I just heard the news.  Congratula-",
+                    "Didascalie": "",
+                    "Start": 39541,
+                    "End": 39612
+                },
+                {
+                    "Reply": "The sea witch! Oh no . . . She's-",
+                    "Didascalie": "(Seeing real Ursula in mirror.)",
+                    "Start": 40914,
+                    "End": 40949
+                },
+                {
+                    "Reply": "Have I ever been wrong?  I mean when it's important!",
+                    "Didascalie": "",
+                    "Start": 41337,
+                    "End": 41390
+                },
+                {
+                    "Reply": "What - What about me?  What about ME?",
+                    "Didascalie": "",
+                    "Start": 41825,
+                    "End": 41863
+                }
+            ]
+        },
+        {
+            "Character": "ARIEL AND FLOUNDER",
+            "Replies": [
+                {
+                    "Reply": "Oohhh.",
+                    "Didascalie": "",
+                    "Start": 5818,
+                    "End": 5825
+                }
+            ]
+        },
+        {
+            "Character": "URSULA",
+            "Replies": [
+                {
+                    "Reply": "Yeeeeeees, hurry home, princess.  We wouldn't want to miss old daddy's celebration, now, would we?  Huh!  Celebration indeed.  Bah!  In MY day, we had fantastical feasts when I lived in the palace.  And now, look at me -",
+                    "Didascalie": "",
+                    "Start": 6524,
+                    "End": 6749
+                },
+                {
+                    "Reply": "Oh, no, no, no, no, no, no.  I can't stand it - it's too easy.  The child is in love with a human.  And not just any human - a prince!  Her daddy'll LOVE that.  King Triton's headstrong, lovesick girl would make a charming addition to my little garden.",
+                    "Didascalie": "",
+                    "Start": 15772,
+                    "End": 16031
+                },
+                {
+                    "Reply": "Come in.  Come in, my child.  We mustn't lurk in doorways - it's rude.",
+                    "Didascalie": "",
+                    "Start": 23492,
+                    "End": 23563
+                },
+                {
+                    "Reply": "My dear, sweet child. That's what I do - it's what I live for. To help unfortunate merfolk - like yourself. Poor souls with no one else to turn to.",
+                    "Didascalie": "",
+                    "Start": 23920,
+                    "End": 24070
+                },
+                {
+                    "Reply": "Poor unfortunate souls In pain In need This one longing to be thinner That one wants to get the girl And do I help them?",
+                    "Didascalie": "(Pathetic)",
+                    "Start": 24499,
+                    "End": 24640
+                },
+                {
+                    "Reply": "Have we got a deal?",
+                    "Didascalie": "",
+                    "Start": 25627,
+                    "End": 25647
+                },
+                {
+                    "Reply": "That's right. . . .  But - you'll have your man.  Life's full of tough choices, innit? Oh - and there is one more thing. We haven't discussed the subject of payment.  You can't get something for nothing, you know.",
+                    "Didascalie": "",
+                    "Start": 25728,
+                    "End": 25946
+                },
+                {
+                    "Reply": "I'm not asking much. Just a token, really, a trifle.  You'll never even miss it.  What I want from you is . . . your voice.",
+                    "Didascalie": "",
+                    "Start": 25984,
+                    "End": 26110
+                },
+                {
+                    "Reply": "You've got it, sweetcakes.  No more talking, singing, zip.",
+                    "Didascalie": "",
+                    "Start": 26135,
+                    "End": 26194
+                },
+                {
+                    "Reply": "You'll have your looks! Your pretty face! And don't underestimate the importance of body language! Ha!",
+                    "Didascalie": "",
+                    "Start": 26243,
+                    "End": 26348
+                },
+                {
+                    "Reply": "Ursula. She laughs as Ariel is changed into a human and rushed to the surf-",
+                    "Didascalie": "",
+                    "Start": 27498,
+                    "End": 27574
+                },
+                {
+                    "Reply": "Nice work, boys.  That was a close one.  Too close.  The little tramp!",
+                    "Didascalie": "",
+                    "Start": 38698,
+                    "End": 38769
+                },
+                {
+                    "Reply": "You're too late!  You're too late!  So long, loverboy.",
+                    "Didascalie": "",
+                    "Start": 43014,
+                    "End": 43069
+                },
+                {
+                    "Reply": "Poor little princess - it's not you I'm after.  I've a much bigger fish to -",
+                    "Didascalie": "",
+                    "Start": 43123,
+                    "End": 43202
+                },
+                {
+                    "Reply": "Why, King Triton!  Ha ha ha - How ARE you?",
+                    "Didascalie": "",
+                    "Start": 43232,
+                    "End": 43275
+                },
+                {
+                    "Reply": "Not a chance, Triton!  She's mine now.  We made a deal.",
+                    "Didascalie": "",
+                    "Start": 43303,
+                    "End": 43359
+                },
+                {
+                    "Reply": "You see? The contract's legal, binding and completely unbreakable -",
+                    "Didascalie": "",
+                    "Start": 43521,
+                    "End": 43589
+                },
+                {
+                    "Reply": "At last, it's mine. Ho, Ho . . .",
+                    "Didascalie": "(Picks up crown.)",
+                    "Start": 44229,
+                    "End": 44263
+                },
+                {
+                    "Reply": "You pitiful, insignificant, fool!",
+                    "Didascalie": "(Now very large.)",
+                    "Start": 44808,
+                    "End": 44843
+                },
+                {
+                    "Reply": "Now I am the ruler of all the ocean!  The waves obey my every whim!",
+                    "Didascalie": "",
+                    "Start": 44867,
+                    "End": 44935
+                }
+            ]
+        },
+        {
+            "Character": "SEBASTION",
+            "Replies": [
+                {
+                    "Reply": "Ariel? Ariel!",
+                    "Didascalie": "",
+                    "Start": 11940,
+                    "End": 11954
+                },
+                {
+                    "Reply": "Ariel, what - what are you- jumpin' jellyfish! Ariel, Ariel!",
+                    "Didascalie": "",
+                    "Start": 12075,
+                    "End": 12136
+                },
+                {
+                    "Reply": "Ariel, I . . .",
+                    "Didascalie": "",
+                    "Start": 22021,
+                    "End": 22036
+                },
+                {
+                    "Reply": "Ariel - where are you going?  Ariel, what are you doing here with this riff-raff?",
+                    "Didascalie": "",
+                    "Start": 23063,
+                    "End": 23147
+                },
+                {
+                    "Reply": "And she's only got three days. Just look at her. On legs. On human legs! My nerves are shot. This is a catastrophe!  What would her father say?",
+                    "Didascalie": "",
+                    "Start": 28608,
+                    "End": 28754
+                },
+                {
+                    "Reply": "Madame, please ! . . .",
+                    "Didascalie": "",
+                    "Start": 31042,
+                    "End": 31065
+                },
+                {
+                    "Reply": "Not yet.",
+                    "Didascalie": "",
+                    "Start": 36117,
+                    "End": 36126
+                },
+                {
+                    "Reply": "Yes, you want her Look at her, you know you do Possible she wants you too There is one way to ask her It don't take a word Not a single word Go on and kiss the girl  Sha la la la la la My oh my Look like the boy too shy Ain't gonna kiss the girl Sha la la la la la Ain't that sad?",
+                    "Didascalie": "",
+                    "Start": 37231,
+                    "End": 37548
+                },
+                {
+                    "Reply": "Ariel, grab on to that. Flounder, get her to that boat as fast as your fins can carry you!",
+                    "Didascalie": "",
+                    "Start": 41634,
+                    "End": 41727
+                },
+                {
+                    "Reply": "Oh, your majesty . . .",
+                    "Didascalie": "",
+                    "Start": 44161,
+                    "End": 44184
+                },
+                {
+                    "Reply": "Come on! . . .",
+                    "Didascalie": "",
+                    "Start": 44512,
+                    "End": 44527
+                }
+            ]
+        },
+        {
+            "Character": "ANDRINA",
+            "Replies": [
+                {
+                    "Reply": "Ariel, dear, time to come out.  You've been in there all morning.",
+                    "Didascalie": "",
+                    "Start": 16094,
+                    "End": 16160
+                },
+                {
+                    "Reply": "Isn't it obvious, Daddy?  Ariel's in love.",
+                    "Didascalie": "",
+                    "Start": 16344,
+                    "End": 16387
+                }
+            ]
+        },
+        {
+            "Character": "ATINA",
+            "Replies": [
+                {
+                    "Reply": "What is with her lately?",
+                    "Didascalie": "",
+                    "Start": 16206,
+                    "End": 16231
+                },
+                {
+                    "Reply": "Oh, she's got it bad.",
+                    "Didascalie": "",
+                    "Start": 16281,
+                    "End": 16303
+                }
+            ]
+        },
+        {
+            "Character": "FLOTSAM",
+            "Replies": [
+                {
+                    "Reply": "Poor child.",
+                    "Didascalie": "",
+                    "Start": 22125,
+                    "End": 22137
+                },
+                {
+                    "Reply": "But there is something.",
+                    "Didascalie": "",
+                    "Start": 22263,
+                    "End": 22287
+                },
+                {
+                    "Reply": "We represent someone who can help you.",
+                    "Didascalie": "",
+                    "Start": 22347,
+                    "End": 22386
+                },
+                {
+                    "Reply": "Suit yourself.",
+                    "Didascalie": "",
+                    "Start": 22721,
+                    "End": 22736
+                }
+            ]
+        },
+        {
+            "Character": "JETSAM",
+            "Replies": [
+                {
+                    "Reply": "Poor, sweet child.",
+                    "Didascalie": "",
+                    "Start": 22145,
+                    "End": 22164
+                },
+                {
+                    "Reply": "If only there were something we could do.",
+                    "Didascalie": "",
+                    "Start": 22212,
+                    "End": 22254
+                },
+                {
+                    "Reply": "Don't be scared.",
+                    "Didascalie": "",
+                    "Start": 22321,
+                    "End": 22338
+                },
+                {
+                    "Reply": "Someone who could make all your dreams come true.",
+                    "Didascalie": "",
+                    "Start": 22394,
+                    "End": 22444
+                },
+                {
+                    "Reply": "You and your prince -",
+                    "Didascalie": "",
+                    "Start": 22487,
+                    "End": 22509
+                },
+                {
+                    "Reply": "It was only a suggestion.",
+                    "Didascalie": "",
+                    "Start": 22744,
+                    "End": 22770
+                }
+            ]
+        },
+        {
+            "Character": "FLOTSAM AND JETSAM",
+            "Replies": [
+                {
+                    "Reply": "Just imagine -",
+                    "Didascalie": "",
+                    "Start": 22464,
+                    "End": 22479
+                },
+                {
+                    "Reply": "Together, forever. . . .",
+                    "Didascalie": "",
+                    "Start": 22529,
+                    "End": 22554
+                },
+                {
+                    "Reply": "Yeeeeeeeeeess?",
+                    "Didascalie": "",
+                    "Start": 22883,
+                    "End": 22898
+                }
+            ]
+        },
+        {
+            "Character": "RIEL",
+            "Replies": [
+                {
+                    "Reply": "I'm going to see Ursula.",
+                    "Didascalie": "",
+                    "Start": 23153,
+                    "End": 23178
+                }
+            ]
+        },
+        {
+            "Character": "CARLOTTA",
+            "Replies": [
+                {
+                    "Reply": "get this washed for you.",
+                    "Didascalie": "",
+                    "Start": 30723,
+                    "End": 30748
+                },
+                {
+                    "Reply": "Oh, my!",
+                    "Didascalie": "",
+                    "Start": 32147,
+                    "End": 32155
+                },
+                {
+                    "Reply": "Why, Eric, that's the first time I've seen you smile in weeks.",
+                    "Didascalie": "",
+                    "Start": 32192,
+                    "End": 32255
+                },
+                {
+                    "Reply": "Oooh, you're gonna love it.  Chef's been fixing his specialty, stuffed crab.",
+                    "Didascalie": "",
+                    "Start": 32351,
+                    "End": 32430
+                },
+                {
+                    "Reply": "I think I'd better go see what Louis is up to.",
+                    "Didascalie": "",
+                    "Start": 33809,
+                    "End": 33856
+                },
+                {
+                    "Reply": "Louis!  What are you doing?",
+                    "Didascalie": "",
+                    "Start": 33980,
+                    "End": 34008
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Well you must have at least heard about this girl.",
+                    "Didascalie": "",
+                    "Start": 30807,
+                    "End": 30858
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Gretchen got anything right. I mean really, this girl shows up in rags and doesn't speak-",
+                    "Didascalie": "",
+                    "Start": 30939,
+                    "End": 31031
+                }
+            ]
+        },
+        {
+            "Character": "LOUIS",
+            "Replies": [
+                {
+                    "Reply": "Les poissons Les poissons How I love les poissons Love to chop And to serve little fish First I cut off their heads Then I pull out the bones Ah mais oui Ca c'est toujours delish Les poissons Les poissons Hee hee hee Hah hah hah With the cleaver I hack them in two I pull out what's inside And I serve it up fried God, I love little fishes Don't you?",
+                    "Didascalie": "",
+                    "Start": 32513,
+                    "End": 32915
+                },
+                {
+                    "Reply": "Come out you little pipsqueak and fight like a man!",
+                    "Didascalie": "",
+                    "Start": 33918,
+                    "End": 33970
+                },
+                {
+                    "Reply": "Well - I - I was just - er, er, I'm sorry, madame.",
+                    "Didascalie": "",
+                    "Start": 34015,
+                    "End": 34066
+                }
+            ]
+        },
+        {
+            "Character": "VANESSA",
+            "Replies": [
+                {
+                    "Reply": "What a lovely little bride I'll make, my dear I'll look divine Things are working out according to my ultimate design Soon I'll have that little mermaid and the ocean will be mine!",
+                    "Didascalie": "",
+                    "Start": 40689,
+                    "End": 40874
+                },
+                {
+                    "Reply": "struggle, the shell holding Ariel's voice it broken and it goes back to her.",
+                    "Didascalie": "",
+                    "Start": 42640,
+                    "End": 42717
+                },
+                {
+                    "Reply": "Eric, get away from her!",
+                    "Didascalie": "",
+                    "Start": 42840,
+                    "End": 42865
+                }
+            ]
+        },
+        {
+            "Character": "PRIEST",
+            "Replies": [
+                {
+                    "Reply": "Yes, um, do you Eric, take Vanessa, to be your lawfully wedded wife, for as long as you both shall live?",
+                    "Didascalie": "",
+                    "Start": 42308,
+                    "End": 42415
+                }
+            ]
+        },
+        {
+            "Character": "ALL",
+            "Replies": [
+                {
+                    "Reply": "Now we can walk, Now we can run, Now we can stay all day in the sun.",
+                    "Didascalie": "",
+                    "Start": 46280,
+                    "End": 46367
+                }
+            ]
+        }
+    ]
 }

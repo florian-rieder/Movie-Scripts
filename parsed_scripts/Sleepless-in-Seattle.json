@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Sleepless in Seattle",
-        "   "
-    ],
+    "Title": "Sleepless in Seattle",
     "Author": [
-        "\u00a0\u00a0Jeff Arch\u00a0\u00a0Nora Ephron\u00a0\u00a0David S. Ward"
+        "Jeff Arch",
+        "Nora Ephron",
+        "David S. Ward"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Comedy",
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4625,17 +4626,6 @@
             ]
         },
         {
-            "Character": "A PLAID SHIRT",
-            "Replies": [
-                {
-                    "Reply": "A MAP OF THE UNITED STATES -- the kind that's used in  schoolrooms that pulls down from a roller.",
-                    "Didascalie": "",
-                    "Start": 35785,
-                    "End": 35885
-                }
-            ]
-        },
-        {
             "Character": "LULU",
             "Replies": [
                 {
@@ -5223,17 +5213,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Can I have half your beer?",
-                    "Didascalie": "",
-                    "Start": 49342,
-                    "End": 49369
-                }
-            ]
-        },
-        {
             "Character": "MAGGIE",
             "Replies": [
                 {
@@ -5438,17 +5417,6 @@
             ]
         },
         {
-            "Character": "A PRINTOUT OF AN ARTICLE",
-            "Replies": [
-                {
-                    "Reply": "that Annie's reading.  There's a newspaper picture of  Sam at the dedication of a building site.  It's got that  kind of grainy quality that things have when they've  been transmitted, but you can make out Sam's basic good  looks.",
-                    "Didascalie": "",
-                    "Start": 75558,
-                    "End": 75797
-                }
-            ]
-        },
-        {
             "Character": "GERALDO",
             "Replies": [
                 {
@@ -5643,17 +5611,6 @@
             ]
         },
         {
-            "Character": "SEATTLE DETECTIVE",
-            "Replies": [
-                {
-                    "Reply": "sitting at a table across the room, having just taken  the picture of Sam we saw frozen, with a miniature  camera.  In QUICK CUTS we see a progression of later  photographs:    SAM AND VICTORIA SIMPLY TALKING.",
-                    "Didascalie": "",
-                    "Start": 82695,
-                    "End": 82912
-                }
-            ]
-        },
-        {
             "Character": "WHEEDLE",
             "Replies": [
                 {
@@ -5697,17 +5654,6 @@
                     "Didascalie": "",
                     "Start": 84220,
                     "End": 84476
-                }
-            ]
-        },
-        {
-            "Character": "A TAXICAB",
-            "Replies": [
-                {
-                    "Reply": "coming right at her, horn BLARING, tires SQUEALING.  Annie starts to jump to the other lane but there's a van  bearing down from the opposite direction.  She steps  back to the middle line.",
-                    "Didascalie": "",
-                    "Start": 106403,
-                    "End": 106600
                 }
             ]
         },

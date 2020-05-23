@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Replacements, The",
-        "   "
-    ],
+    "Title": "Replacements, The",
     "Author": [
-        "\u00a0\u00a0Vince McKewin"
+        "Vince McKewin"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3577,17 +3574,6 @@
                     "Didascalie": "",
                     "Start": 121372,
                     "End": 121394
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "We see two photographs of Earl: One with his current beard and the other, his clean-shaven mug shot of five years ago.",
-                    "Didascalie": "",
-                    "Start": 127262,
-                    "End": 127381
                 }
             ]
         },

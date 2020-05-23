@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Annie Hall",
-        "   "
-    ],
+    "Title": "Annie Hall",
     "Author": [
-        "\u00a0\u00a0Woody Allen\u00a0\u00a0Marshall Brickman"
+        "Woody Allen",
+        "Marshall Brickman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

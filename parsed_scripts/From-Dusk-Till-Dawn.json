@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "From Dusk Till Dawn",
-        "   "
-    ],
+    "Title": "From Dusk Till Dawn",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino"
+        "Quentin Tarantino"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Comedy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

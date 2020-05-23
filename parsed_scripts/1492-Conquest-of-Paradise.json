@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "1492: Conquest of Paradise",
-        "   "
-    ],
+    "Title": "1492: Conquest of Paradise",
     "Author": [
-        "\u00a0\u00a0Roslyne Bosch"
+        "Roslyne Bosch"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4053,17 +4051,6 @@
             ]
         },
         {
-            "Character": "A MAN IN BLACK",
-            "Replies": [
-                {
-                    "Reply": "Amerigo Vespucci, Excellency.",
-                    "Didascalie": "",
-                    "Start": 118441,
-                    "End": 118471
-                }
-            ]
-        },
-        {
             "Character": "DUENA",
             "Replies": [
                 {
@@ -4071,6 +4058,17 @@
                     "Didascalie": "",
                     "Start": 137523,
                     "End": 137670
+                }
+            ]
+        },
+        {
+            "Character": "IN 1511 DIEGO COLUMBUS BECAME",
+            "Replies": [
+                {
+                    "Reply": "GOVERNOR OF SANTO DOMINGO.",
+                    "Didascalie": "",
+                    "Start": 145177,
+                    "End": 145204
                 }
             ]
         }

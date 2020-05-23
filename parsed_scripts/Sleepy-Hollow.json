@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Sleepy Hollow",
-        "   "
-    ],
+    "Title": "Sleepy Hollow",
     "Author": [
-        "\u00a0\u00a0Andrew Kevin Walker\u00a0\u00a0Tom Stoppard"
+        "Andrew Kevin Walker",
+        "Tom Stoppard"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery"
+        "Horror",
+        "Mystery"
     ],
     "Characters": [
         {

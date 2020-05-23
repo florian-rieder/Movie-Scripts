@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Addams Family, The",
-        "   "
-    ],
+    "Title": "Addams Family, The",
     "Author": [
-        "\u00a0\u00a0Charles Addams\u00a0\u00a0Caroline Thompson"
+        "Charles Addams",
+        "Caroline Thompson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Family"
+        "Comedy",
+        "Fantasy",
+        "Horror",
+        "Family"
     ],
     "Characters": [
         {
@@ -1641,17 +1642,6 @@
                     "Didascalie": "",
                     "Start": 252396,
                     "End": 252434
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL --",
-            "Replies": [
-                {
-                    "Reply": "the family, appalled at the sight of Gate.    Lurch carries the sleeping Wednesday and Pugsley.",
-                    "Didascalie": "",
-                    "Start": 194522,
-                    "End": 194624
                 }
             ]
         },

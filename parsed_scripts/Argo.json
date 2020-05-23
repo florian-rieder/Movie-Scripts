@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Argo",
-        "   "
-    ],
+    "Title": "Argo",
     "Author": [
-        "\u00a0\u00a0Chris Terrio"
+        "Chris Terrio"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -220,21 +218,16 @@
                     "End": 11753
                 },
                 {
+                    "Reply": "No... Hal -- yes -- INSIDE the building, IN --",
+                    "Didascalie": "",
+                    "Start": 13920,
+                    "End": 13978
+                },
+                {
                     "Reply": "It's done. They're in.",
                     "Didascalie": "(into the phone)",
                     "Start": 16011,
                     "End": 16045
-                }
-            ]
-        },
-        {
-            "Character": "THOUSANDS --",
-            "Replies": [
-                {
-                    "Reply": "10 IN THE CONSULATE OFFICE - MORNING 10 Mark Lijek and Bob Anders look out windows, nervous, but not like the Iranian VISA APPLICANTS who are close to panic.",
-                    "Didascalie": "",
-                    "Start": 5322,
-                    "End": 5510
                 }
             ]
         },
@@ -4158,16 +4151,21 @@
                     "End": 194582
                 },
                 {
-                    "Reply": "SWISSAIR 363 --",
-                    "Didascalie": "",
-                    "Start": 195835,
-                    "End": 195851
-                },
-                {
                     "Reply": "-- you are cleared for take-off.",
                     "Didascalie": "",
                     "Start": 196014,
                     "End": 196047
+                }
+            ]
+        },
+        {
+            "Character": "SWISSAIR 363 --",
+            "Replies": [
+                {
+                    "Reply": "The Pilot puts his hand on the throttle control.",
+                    "Didascalie": "",
+                    "Start": 195861,
+                    "End": 195910
                 }
             ]
         },

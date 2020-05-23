@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "Long Kiss Goodnight, The",
-        "   "
-    ],
+    "Title": "Long Kiss Goodnight, The",
     "Author": [
-        "\u00a0\u00a0Shane Black"
+        "Shane Black"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Action",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "A WINDOWPANE",
-            "Replies": [
-                {
-                    "Reply": "Assaulted from without by SNOWFLAKES. Wind tossed.",
-                    "Didascalie": "",
-                    "Start": 331,
-                    "End": 382
-                }
-            ]
-        },
         {
             "Character": "VOICE",
             "Replies": [

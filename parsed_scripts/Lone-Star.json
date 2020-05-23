@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Lone Star",
-        "   "
-    ],
+    "Title": "Lone Star",
     "Author": [
-        "\u00a0\u00a0John Sayles"
+        "John Sayles"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -6833,6 +6832,28 @@
                     "Didascalie": "",
                     "Start": 71844,
                     "End": 72079
+                }
+            ]
+        },
+        {
+            "Character": "BYSTANDER 1",
+            "Replies": [
+                {
+                    "Reply": "It does look like old Buddy.",
+                    "Didascalie": "",
+                    "Start": 72315,
+                    "End": 72344
+                }
+            ]
+        },
+        {
+            "Character": "BYSTANDER 2",
+            "Replies": [
+                {
+                    "Reply": "Runnin that kid in for loiterin'--",
+                    "Didascalie": "",
+                    "Start": 72370,
+                    "End": 72405
                 }
             ]
         },

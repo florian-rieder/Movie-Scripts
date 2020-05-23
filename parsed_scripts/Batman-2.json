@@ -1,26 +1,15 @@
 {
-    "Title": [
-        "Batman 2",
-        "   "
-    ],
+    "Title": "Batman 2",
     "Author": [
-        "\u00a0\u00a0Sam Hamm"
+        "Sam Hamm"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Fantasy\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Fantasy",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "FIRST DRAFT",
-            "Replies": [
-                {
-                    "Reply": "NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS.",
-                    "Didascalie": "",
-                    "Start": 207,
-                    "End": 267
-                }
-            ]
-        },
         {
             "Character": "COP",
             "Replies": [

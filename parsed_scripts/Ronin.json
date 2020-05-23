@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "Ronin",
-        "   "
-    ],
+    "Title": "Ronin",
     "Author": [
-        "\u00a0\u00a0J.D. Zeik"
+        "J.D. Zeik"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "RONIN",
-            "Replies": [
-                {
-                    "Reply": "an original screenplay by  J.D. Zeik       DRAFT: May 20, 1997        A BLOOD RED SCREEN - A JAPANESE DRUM starts to play, softly, but tinged with a desperate edge, growing louder, joined by other DRUMS as a BLACK LEGEND scrolls up: In feudal Japan, the warrior class of Samurai were sworn to protect their liege lords with their lives.  Those Samurai whose liege was killed suffered a great shame, and they were forced to wander the land, looking for work as hired swords or bandits.  These masterless warriors were no longer referred to as Samurai, they were known by another name: Such men were called Ronin.",
-                    "Didascalie": "",
-                    "Start": 86,
-                    "End": 818
-                }
-            ]
-        },
         {
             "Character": "KILLER",
             "Replies": [

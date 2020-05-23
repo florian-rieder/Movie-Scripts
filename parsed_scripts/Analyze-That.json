@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Analyze That",
-        "   "
-    ],
+    "Title": "Analyze That",
     "Author": [
-        "\u00a0\u00a0Peter Steinfeld\u00a0\u00a0Harold Ramis\u00a0\u00a0Peter Tolan\u00a0\u00a0Kenneth Longeran"
+        "Peter Steinfeld",
+        "Harold Ramis",
+        "Peter Tolan",
+        "Kenneth Longeran"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -6661,17 +6662,6 @@
                     "Didascalie": "",
                     "Start": 179516,
                     "End": 179533
-                }
-            ]
-        },
-        {
-            "Character": "A LONE GUNMAN",
-            "Replies": [
-                {
-                    "Reply": "runs from the restaurant. After a long beat, the frightened patrons start to get up and chatter nervously.",
-                    "Didascalie": "",
-                    "Start": 95961,
-                    "End": 96068
                 }
             ]
         },

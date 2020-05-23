@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Syriana",
-        "   "
-    ],
+    "Title": "Syriana",
     "Author": [
-        "\u00a0\u00a0Stephen Gaghan\u00a0\u00a0Robert Baer"
+        "Stephen Gaghan",
+        "Robert Baer"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -46,12 +45,6 @@
                     "Didascalie": "",
                     "Start": 2704,
                     "End": 2733
-                },
-                {
-                    "Reply": "2  2 CONTINUED: 2 Bob doesn't respond. Arash shouts again --",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 2770,
-                    "End": 3001
                 },
                 {
                     "Reply": "What do you care?",
@@ -607,17 +600,6 @@
                     "Didascalie": "(CONT'D) (BEAT)",
                     "Start": 209382,
                     "End": 209446
-                }
-            ]
-        },
-        {
-            "Character": "TUITION --",
-            "Replies": [
-                {
-                    "Reply": "5  8 CONTINUED: 8 Bob's expression, not unkind, but familiar to her, says he knows exactly why she took Pakistan.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 8902,
-                    "End": 9196
                 }
             ]
         },
@@ -2341,12 +2323,6 @@
                     "End": 34673
                 },
                 {
-                    "Reply": "18  24 CONTINUED: 24 They start chanting HAKIM, HAKIM, HAKIM in encouragement.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 34710,
-                    "End": 34959
-                },
-                {
                     "Reply": "You can drink with one. You don't need two.",
                     "Didascalie": "",
                     "Start": 35292,
@@ -2871,12 +2847,6 @@
                     "End": 48616
                 },
                 {
-                    "Reply": "25  35 CONTINUED: 35 Bennett just stares for a moment. Bennett takes the oatmeal off the stove, sets a bowl in front of the man whose fingernails are black, whose dark suit is filthy.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 48653,
-                    "End": 49027
-                },
-                {
                     "Reply": "I had a little trouble at work.",
                     "Didascalie": "",
                     "Start": 49139,
@@ -2915,12 +2885,6 @@
                     "Didascalie": "",
                     "Start": 56596,
                     "End": 56707
-                },
-                {
-                    "Reply": "29  40 CONTINUED: 40 The Emir sort of wilts, fading out. Prince Meshal foists a remote control on his father. The other son, Prince Nasir observes his father and brother.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 56744,
-                    "End": 57105
                 },
                 {
                     "Reply": "Send a fool on a fool's errand.",
@@ -3758,17 +3722,6 @@
             ]
         },
         {
-            "Character": "GAS --",
-            "Replies": [
-                {
-                    "Reply": "49  69 CONTINUED: 69 Danny D.'s conversation floats up from a lower platform.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 94045,
-                    "End": 94293
-                }
-            ]
-        },
-        {
             "Character": "DANNY",
             "Replies": [
                 {
@@ -3810,12 +3763,6 @@
                     "Didascalie": "(BEAT)",
                     "Start": 103540,
                     "End": 103577
-                },
-                {
-                    "Reply": "54  75 CONTINUED: 75 The power CUTS OUT. The air-conditioner SLOWLY DIES OUT.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 103614,
-                    "End": 103862
                 }
             ]
         },
@@ -4336,28 +4283,6 @@
             ]
         },
         {
-            "Character": "WHISPERS --",
-            "Replies": [
-                {
-                    "Reply": "93  139 CONTINUED: 139  DANNY D.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 179409,
-                    "End": 179612
-                }
-            ]
-        },
-        {
-            "Character": "FATHER --",
-            "Replies": [
-                {
-                    "Reply": "95  141 CONTINUED: 141 The Emir raises his hand. Nasir gets control of himself.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 183486,
-                    "End": 183736
-                }
-            ]
-        },
-        {
             "Character": "ALARM COMPANY",
             "Replies": [
                 {
@@ -4389,17 +4314,6 @@
                     "Didascalie": "",
                     "Start": 190613,
                     "End": 190640
-                }
-            ]
-        },
-        {
-            "Character": "AN OLD PHOTO",
-            "Replies": [
-                {
-                    "Reply": "99  146 CONTINUED: 146 Of Dean Whiting and the old EMIR, NASIR'S FATHER.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 191076,
-                    "End": 191320
                 }
             ]
         },
@@ -4450,17 +4364,6 @@
             ]
         },
         {
-            "Character": "OW --",
-            "Replies": [
-                {
-                    "Reply": "106  153 CONTINUED: 153 Wasim looks down. A bee is on his arm. He brushes it off.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 204392,
-                    "End": 204644
-                }
-            ]
-        },
-        {
             "Character": "PRINCE",
             "Replies": [
                 {
@@ -4501,12 +4404,6 @@
                     "Didascalie": "",
                     "Start": 209948,
                     "End": 210185
-                },
-                {
-                    "Reply": "109  158 CONTINUED: 158 He stares long into his own royal reflection.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 210222,
-                    "End": 210462
                 }
             ]
         },
@@ -4577,12 +4474,6 @@
                     "Didascalie": "",
                     "Start": 215659,
                     "End": 215676
-                },
-                {
-                    "Reply": "112  164 CONTINUED: 164 As Nasir and Bryan enter a SILVER HUMMER.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 215713,
-                    "End": 215950
                 }
             ]
         },
@@ -4622,17 +4513,6 @@
                     "Didascalie": "",
                     "Start": 234477,
                     "End": 234508
-                }
-            ]
-        },
-        {
-            "Character": "A SMILEY FACE",
-            "Replies": [
-                {
-                    "Reply": "scratched into the surface of the Stinger, the same missile Bob intended to explode in the beginning.",
-                    "Didascalie": "",
-                    "Start": 237552,
-                    "End": 237664
                 }
             ]
         }

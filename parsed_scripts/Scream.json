@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Scream",
-        "   "
-    ],
+    "Title": "Scream",
     "Author": [
-        "\u00a0\u00a0Kevin Williamson"
+        "Kevin Williamson"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -689,6 +688,12 @@
                     "Didascalie": "",
                     "Start": 6468,
                     "End": 6498
+                },
+                {
+                    "Reply": "TO SEE WHAT YOUR INSIDES LOOK LIKE.",
+                    "Didascalie": "(pure evil)",
+                    "Start": 6782,
+                    "End": 6827
                 },
                 {
                     "Reply": "You should never say \"Who's there?\".",
@@ -2062,12 +2067,6 @@
                     "End": 98495
                 },
                 {
-                    "Reply": "THE FOG, TERROR TRAIN, PROM NIGHT --How come Jamie Lee Curtis is in all these movies?",
-                    "Didascalie": "",
-                    "Start": 102544,
-                    "End": 102646
-                },
-                {
                     "Reply": "Have they found my father?",
                     "Didascalie": "",
                     "Start": 104993,
@@ -3262,6 +3261,12 @@
                     "Didascalie": "",
                     "Start": 65446,
                     "End": 65485
+                },
+                {
+                    "Reply": "Hi! Gale Weathers. Field Correspondent, INSIDE STORY.",
+                    "Didascalie": "",
+                    "Start": 77532,
+                    "End": 77594
                 },
                 {
                     "Reply": "Productive. So they're closing down the school?",
@@ -5024,6 +5029,18 @@
                     "End": 103316
                 },
                 {
+                    "Reply": "Hey, guess who's here? It's that chick from INSIDE STORY?",
+                    "Didascalie": "(o.c.)",
+                    "Start": 103413,
+                    "End": 103488
+                },
+                {
+                    "Reply": "This must be big news to be on INSIDE STORY.",
+                    "Didascalie": "",
+                    "Start": 104137,
+                    "End": 104190
+                },
+                {
                     "Reply": "I can cry on cue.",
                     "Didascalie": "",
                     "Start": 104503,
@@ -5377,12 +5394,6 @@
                     "End": 88905
                 },
                 {
-                    "Reply": "Because, obviously they don't watch enough movies. This is standard horror movie stuff. PROM NIGHT revisited.",
-                    "Didascalie": "",
-                    "Start": 88998,
-                    "End": 89124
-                },
-                {
                     "Reply": "There's always some stupid bullshit reason to kill your girlfriend. That's the beauty of it all. Simplicity.",
                     "Didascalie": "",
                     "Start": 89286,
@@ -5399,12 +5410,6 @@
                     "Didascalie": "",
                     "Start": 89704,
                     "End": 89806
-                },
-                {
-                    "Reply": "Because he's probably dead. His body will come popping out in the last reel somewhere...eyes gauged. See, the police are always off track with this shit, if they'd watch PROM NIGHT they'd save time.",
-                    "Didascalie": "",
-                    "Start": 89935,
-                    "End": 90166
                 },
                 {
                     "Reply": "So while they're off investigating a dead end, Billy, who's been written off as a suspect, is busy planning his next hunting expedition.",
@@ -5643,28 +5648,6 @@
             ]
         },
         {
-            "Character": "FAX MODEM",
-            "Replies": [
-                {
-                    "Reply": "9-1-1 SEND  The knife slashes through the crack in the door wildly.",
-                    "Didascalie": "",
-                    "Start": 44026,
-                    "End": 44094
-                }
-            ]
-        },
-        {
-            "Character": "HELP KILLER",
-            "Replies": [
-                {
-                    "Reply": "34 ELM ST  Sidney presses SEND when it occurs to her-all is quiet.  The FIGURE is gone.  A fearful silence.  She looks around...the only sound her own rapid, terrified BREATHING.",
-                    "Didascalie": "",
-                    "Start": 44141,
-                    "End": 44320
-                }
-            ]
-        },
-        {
             "Character": "KENNY",
             "Replies": [
                 {
@@ -5827,17 +5810,6 @@
             ]
         },
         {
-            "Character": "A GHOST MASKED FIGURE",
-            "Replies": [
-                {
-                    "Reply": "Silhouetted in the dark, next to the kitchen door, his hand on the switch.  Tatum at once GASPS, taken back, but then relaxes.",
-                    "Didascalie": "",
-                    "Start": 106926,
-                    "End": 107053
-                }
-            ]
-        },
-        {
             "Character": "BORED TEEN",
             "Replies": [
                 {
@@ -5889,17 +5861,6 @@
                     "Didascalie": "",
                     "Start": 140280,
                     "End": 140339
-                }
-            ]
-        },
-        {
-            "Character": "A FIGURE LUNGES AT THEM",
-            "Replies": [
-                {
-                    "Reply": "Both Sid and Gale and Randy SCREAM in epic, final scare proportions as Mr. Prescott leaps forward, still bound and gagged.",
-                    "Didascalie": "",
-                    "Start": 153758,
-                    "End": 153881
                 }
             ]
         }

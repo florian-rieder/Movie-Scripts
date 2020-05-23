@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Miller's Crossing",
-        "   "
-    ],
+    "Title": "Miller's Crossing",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -76,17 +76,6 @@
             ]
         },
         {
-            "Character": "A HALLWAY",
-            "Replies": [
-                {
-                    "Reply": "A loose shot looking over Tom's shoulder as he knocks on an partment door.  Head credits continue.",
-                    "Didascalie": "",
-                    "Start": 16591,
-                    "End": 16696
-                }
-            ]
-        },
-        {
             "Character": "WIDER",
             "Replies": [
                 {
@@ -94,28 +83,6 @@
                     "Didascalie": "",
                     "Start": 18598,
                     "End": 18667
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "is slouched, half-sitting, against the wall of the alley.",
-                    "Didascalie": "",
-                    "Start": 28312,
-                    "End": 28370
-                }
-            ]
-        },
-        {
-            "Character": "INT   DINER EVENING",
-            "Replies": [
-                {
-                    "Reply": "A man sits facing us at the counter in the foreground.  His face is hidden by the newspaper he is reading.",
-                    "Didascalie": "",
-                    "Start": 30125,
-                    "End": 30237
                 }
             ]
         },
@@ -374,17 +341,6 @@
             ]
         },
         {
-            "Character": "A POLICE CAR",
-            "Replies": [
-                {
-                    "Reply": "Siren wailing, up on two wheels, taking a speeding turn onto the street.",
-                    "Didascalie": "",
-                    "Start": 129828,
-                    "End": 129906
-                }
-            ]
-        },
-        {
             "Character": "PULLING BERT",
             "Replies": [
                 {
@@ -492,17 +448,6 @@
                     "Didascalie": "",
                     "Start": 155981,
                     "End": 156095
-                }
-            ]
-        },
-        {
-            "Character": "A LARGE WINDOW",
-            "Replies": [
-                {
-                    "Reply": "We are looking at the ground-floor window from the street.",
-                    "Didascalie": "",
-                    "Start": 159071,
-                    "End": 159130
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "True Romance",
-        "   "
-    ],
+    "Title": "True Romance",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino"
+        "Quentin Tarantino"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {

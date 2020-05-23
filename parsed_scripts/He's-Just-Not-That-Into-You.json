@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "He's Just Not That Into You",
-        "   "
-    ],
+    "Title": "He's Just Not That Into You",
     "Author": [
-        "\u00a0\u00a0Abby Kohn\u00a0\u00a0Marc Silverstein"
+        "Abby Kohn",
+        "Marc Silverstein"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4690,12 +4690,6 @@
                     "Didascalie": "",
                     "Start": 27461,
                     "End": 27468
-                },
-                {
-                    "Reply": "Look, let me tell you - after the first time I went out with Ben, he didn't call me for eleven days. ELEVEN DAYS. And now he's like the world's best husband.",
-                    "Didascalie": "",
-                    "Start": 27593,
-                    "End": 27811
                 },
                 {
                     "Reply": "Yes, really.",

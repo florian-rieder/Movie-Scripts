@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Flintstones, The",
-        "   "
-    ],
+    "Title": "Flintstones, The",
     "Author": [
-        "\u00a0\u00a0Steven E. De Souza"
+        "Steven E. De Souza"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Family\u00a0\u00a0Fantasy"
+        "Comedy",
+        "Family",
+        "Fantasy"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "We Own the Night",
-        "   "
-    ],
+    "Title": "We Own the Night",
     "Author": [
-        "\u00a0\u00a0James Gray"
+        "James Gray"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

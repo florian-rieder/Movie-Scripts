@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Pride and Prejudice",
-        "   "
-    ],
+    "Title": "Pride and Prejudice",
     "Author": [
-        "\u00a0\u00a0Deborah Moggach"
+        "Deborah Moggach"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

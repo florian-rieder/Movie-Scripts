@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Godfather",
-        "   "
-    ],
+    "Title": "Godfather",
     "Author": [
-        "\u00a0\u00a0Mario Puzo\u00a0\u00a0Francis Ford Coppola"
+        "Mario Puzo",
+        "Francis Ford Coppola"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4936,6 +4935,17 @@
             ]
         },
         {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "It's the Don's kid; take the car, I'll bring him inside.",
+                    "Didascalie": "",
+                    "Start": 57583,
+                    "End": 57642
+                }
+            ]
+        },
+        {
             "Character": "BRUNO",
             "Replies": [
                 {
@@ -5100,17 +5110,6 @@
                     "Didascalie": "",
                     "Start": 83439,
                     "End": 83460
-                }
-            ]
-        },
-        {
-            "Character": "A DETECTIVE",
-            "Replies": [
-                {
-                    "Reply": "The Kid's clean, Captain...He's a war hero, and he's never been mixed up in the rackets...",
-                    "Didascalie": "",
-                    "Start": 84116,
-                    "End": 84211
                 }
             ]
         },

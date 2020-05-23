@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Ghost and the Darkness, The",
-        "   "
-    ],
+    "Title": "Ghost and the Darkness, The",
     "Author": [
-        "\u00a0\u00a0William Goldman"
+        "William Goldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1357,95 +1357,6 @@
             ]
         },
         {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "A DIFFERENT TRAIN, A DIFFERENT COUNTRY, A DIFFERENT WORLD.",
-                    "Didascalie": "",
-                    "Start": 6379,
-                    "End": 6438
-                },
-                {
-                    "Reply": "Hundreds of white claws.",
-                    "Didascalie": "",
-                    "Start": 11673,
-                    "End": 11698
-                },
-                {
-                    "Reply": "PATTERSON AND SAMUEL standing high above the Tsavo River. The track has come to the edge of the area above the riverbank- where it just stops-",
-                    "Didascalie": "",
-                    "Start": 15819,
-                    "End": 15964
-                },
-                {
-                    "Reply": "We're in a clearing with thick trees all around.",
-                    "Didascalie": "",
-                    "Start": 21818,
-                    "End": 21867
-                },
-                {
-                    "Reply": "PATTERSON sighting through it- we are on the far side of the river now. Singh is there, Starling, too.",
-                    "Didascalie": "",
-                    "Start": 26296,
-                    "End": 26400
-                },
-                {
-                    "Reply": "This is Singh's funeral pyre.",
-                    "Didascalie": "",
-                    "Start": 35547,
-                    "End": 35577
-                },
-                {
-                    "Reply": "PATTERSON AND BEAUMONT looking at it.",
-                    "Didascalie": "",
-                    "Start": 56743,
-                    "End": 56781
-                },
-                {
-                    "Reply": "AN ENORMOUS PISTOL. Pressed hard against Abdullah's temple.",
-                    "Didascalie": "",
-                    "Start": 70110,
-                    "End": 70170
-                },
-                {
-                    "Reply": "The rest of the cave. We are looking at a carpet of bones.",
-                    "Didascalie": "",
-                    "Start": 103949,
-                    "End": 104008
-                },
-                {
-                    "Reply": "Redbeard, holding a wooden ladder that is propped against the plank. Patterson climbs his slow way up. It's dangerous.",
-                    "Didascalie": "",
-                    "Start": 108458,
-                    "End": 108578
-                },
-                {
-                    "Reply": "THE EYES OF THE GHOST. Watching the donkey.",
-                    "Didascalie": "",
-                    "Start": 112245,
-                    "End": 112289
-                },
-                {
-                    "Reply": "BEAUMONT, kneeling by the dead animal. He is smiling beautifully, and there is no questioning the look of triumph on his face.",
-                    "Didascalie": "",
-                    "Start": 117296,
-                    "End": 117424
-                },
-                {
-                    "Reply": "PATTERSON IN HIS TENT,  continuing to cry out until he realized the nightmare he just had is over-",
-                    "Didascalie": "",
-                    "Start": 122784,
-                    "End": 122884
-                },
-                {
-                    "Reply": "PATTERSON AND SAMUEL, both armed, climbing the crane tower in use at the bridge, not far from the baboon.",
-                    "Didascalie": "",
-                    "Start": 125432,
-                    "End": 125539
-                }
-            ]
-        },
-        {
             "Character": "STARLING",
             "Replies": [
                 {
@@ -1771,35 +1682,6 @@
                     "Didascalie": "",
                     "Start": 42399,
                     "End": 42428
-                }
-            ]
-        },
-        {
-            "Character": "KEEP PULLING BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "They aren't claws at all, they're thorns as sharp as claws and they're on a twenty-foot high thorn tree.",
-                    "Didascalie": "",
-                    "Start": 11728,
-                    "End": 11834
-                },
-                {
-                    "Reply": "PATTERSON AND STARLING, seated uncomfortably in a tree on the edge of the clearing, twelve feet up in the air. Patterson has his rifle ready. This next is all whispered.",
-                    "Didascalie": "",
-                    "Start": 21897,
-                    "End": 22069
-                },
-                {
-                    "Reply": "The entire of the car- the thick bars separating the two halves. In one half, the huge lion. In the other, the three armed, tough coolies.",
-                    "Didascalie": "",
-                    "Start": 64505,
-                    "End": 64646
-                },
-                {
-                    "Reply": "REDBEARD'S FUNERAL PYRE. Flames consume the body.",
-                    "Didascalie": "",
-                    "Start": 125184,
-                    "End": 125234
                 }
             ]
         },
@@ -2287,17 +2169,6 @@
             ]
         },
         {
-            "Character": "A SLIGHTLY WOUNDED DONKEY",
-            "Replies": [
-                {
-                    "Reply": "It's roped loosely to a tree, bells around its neck. When it moves, they make a sound. Middle of the night. A night wind.",
-                    "Didascalie": "",
-                    "Start": 21673,
-                    "End": 21796
-                }
-            ]
-        },
-        {
             "Character": "JUST BEFORE DAWN",
             "Replies": [
                 {
@@ -2543,17 +2414,6 @@
                     "Didascalie": "",
                     "Start": 69030,
                     "End": 69064
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK FURTHER TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "REDBEARD.",
-                    "Didascalie": "",
-                    "Start": 70359,
-                    "End": 70369
                 }
             ]
         },

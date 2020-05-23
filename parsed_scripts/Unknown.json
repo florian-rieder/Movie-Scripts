@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Unknown",
-        "   "
-    ],
+    "Title": "Unknown",
     "Author": [
-        "\u00a0\u00a0Oliver Butcher\u00a0\u00a0Stephen Cornwell"
+        "Oliver Butcher",
+        "Stephen Cornwell"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1723,12 +1723,6 @@
                     "End": 198330
                 },
                 {
-                    "Reply": "CONTINUED: Gina SPUTTERS, tries to draw air. Her eyes LOCK on his.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 198367,
-                    "End": 198579
-                },
-                {
                     "Reply": ".Is this what you want? Is this the person you still want to help.",
                     "Didascalie": "",
                     "Start": 198631,
@@ -3399,28 +3393,6 @@
                     "Didascalie": "(off their hesitation)",
                     "Start": 84749,
                     "End": 84775
-                }
-            ]
-        },
-        {
-            "Character": "A FAMILIAR FIGURE",
-            "Replies": [
-                {
-                    "Reply": "shuffling towards the doors! Given away by the plastic bag and the hospital gown showing under the jacket.",
-                    "Didascalie": "",
-                    "Start": 86758,
-                    "End": 86875
-                }
-            ]
-        },
-        {
-            "Character": "A FOOD CART",
-            "Replies": [
-                {
-                    "Reply": "tended by a Middle-Eastern Man who stares at Martin.",
-                    "Didascalie": "",
-                    "Start": 88413,
-                    "End": 88466
                 }
             ]
         },

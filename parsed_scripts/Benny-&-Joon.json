@@ -1,13 +1,1004 @@
 {
-    "Title": [
-        "Benny & Joon",
-        "   "
-    ],
+    "Title": "Benny & Joon",
     "Author": [
-        "\u00a0\u00a0Barry Berman\u00a0\u00a0Lesley McNeil"
+        "Barry Berman",
+        "Lesley McNeil"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "RANDY",
+            "Replies": [
+                {
+                    "Reply": "So were planning our next vacation right. I want Australia, she wants Italy. I like snorkelling. She likes garlic. All of a sudden, out of nowhere, she says to me do I need her? Jesus Benny, what kind of question is that? I mean need, what does it mean to really need somebody?",
+                    "Didascalie": "",
+                    "Start": 97,
+                    "End": 375
+                }
+            ]
+        },
+        {
+            "Character": "ERIC",
+            "Replies": [
+                {
+                    "Reply": "Benny, fuel line.",
+                    "Didascalie": "",
+                    "Start": 382,
+                    "End": 400
+                },
+                {
+                    "Reply": "a group home is the right thing for her Benny.",
+                    "Didascalie": "",
+                    "Start": 9841,
+                    "End": 9888
+                },
+                {
+                    "Reply": "you know, once you get settled in you can actually take a vacation. Travel a little. I can hold down the fort no problem.",
+                    "Didascalie": "",
+                    "Start": 10287,
+                    "End": 10409
+                },
+                {
+                    "Reply": "you took him home?",
+                    "Didascalie": "",
+                    "Start": 15925,
+                    "End": 15944
+                },
+                {
+                    "Reply": "to your house?",
+                    "Didascalie": "",
+                    "Start": 15964,
+                    "End": 15979
+                },
+                {
+                    "Reply": "what are you crazy?",
+                    "Didascalie": "",
+                    "Start": 16011,
+                    "End": 16031
+                },
+                {
+                    "Reply": "Sam is cleaning and Joon is in the garden. She hears the loud music that Sam is playing and runs inside.",
+                    "Didascalie": "",
+                    "Start": 16503,
+                    "End": 16608
+                }
+            ]
+        },
+        {
+            "Character": "BENNY",
+            "Replies": [
+                {
+                    "Reply": "Hey Waldo, could you answer that phone?",
+                    "Didascalie": "",
+                    "Start": 408,
+                    "End": 448
+                },
+                {
+                    "Reply": "In a minute, meet me in the office.",
+                    "Didascalie": "",
+                    "Start": 516,
+                    "End": 552
+                },
+                {
+                    "Reply": "Whoa, put that out, I got a fuel line broke.",
+                    "Didascalie": "",
+                    "Start": 590,
+                    "End": 635
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 1753,
+                    "End": 1759
+                },
+                {
+                    "Reply": "Mrs Smeal! Please, wait, please. Let me talk to her. I can talk to her, you cant quit on such short notice.",
+                    "Didascalie": "",
+                    "Start": 1916,
+                    "End": 2024
+                },
+                {
+                    "Reply": "Yeah, she paints, she reads, she lights things on fire.",
+                    "Didascalie": "",
+                    "Start": 2419,
+                    "End": 2475
+                },
+                {
+                    "Reply": "Joon Dinner! Spaghetti and salad.",
+                    "Didascalie": "",
+                    "Start": 2718,
+                    "End": 2752
+                },
+                {
+                    "Reply": "what happened between you and Mrs Smeal?",
+                    "Didascalie": "",
+                    "Start": 2782,
+                    "End": 2823
+                },
+                {
+                    "Reply": "she said you wandered off. Did you leave the house alone?",
+                    "Didascalie": "",
+                    "Start": 2982,
+                    "End": 3040
+                },
+                {
+                    "Reply": "but then it was Mrs Piltz.",
+                    "Didascalie": "",
+                    "Start": 3337,
+                    "End": 3364
+                },
+                {
+                    "Reply": "Joon. You got a roommate? When did you get a roommate?",
+                    "Didascalie": "",
+                    "Start": 4980,
+                    "End": 5035
+                },
+                {
+                    "Reply": "can we make this the last hand? Come on, come on, play cards.",
+                    "Didascalie": "",
+                    "Start": 5594,
+                    "End": 5656
+                },
+                {
+                    "Reply": "do you ever stay in?",
+                    "Didascalie": "",
+                    "Start": 5755,
+                    "End": 5776
+                },
+                {
+                    "Reply": "us? Fine, normal, you know fine. Why?",
+                    "Didascalie": "",
+                    "Start": 6170,
+                    "End": 6208
+                },
+                {
+                    "Reply": "hey Waldo, did you start that brake job yet?",
+                    "Didascalie": "",
+                    "Start": 7672,
+                    "End": 7717
+                },
+                {
+                    "Reply": "she what?",
+                    "Didascalie": "",
+                    "Start": 7788,
+                    "End": 7798
+                },
+                {
+                    "Reply": "box seats. Hello, Joon?Back at the house. Joon is painting.",
+                    "Didascalie": "",
+                    "Start": 7950,
+                    "End": 8010
+                },
+                {
+                    "Reply": "oh yeah, no problem. Is it running alright?",
+                    "Didascalie": "",
+                    "Start": 8185,
+                    "End": 8229
+                },
+                {
+                    "Reply": "some dinner? Erm you serious?",
+                    "Didascalie": "",
+                    "Start": 8344,
+                    "End": 8374
+                },
+                {
+                    "Reply": "ok StevieHe goes to feed his fish, but it is dead. He takes it to the bathroom and flushes it down the toilet.",
+                    "Didascalie": "",
+                    "Start": 9538,
+                    "End": 9649
+                },
+                {
+                    "Reply": "travel? Travel?",
+                    "Didascalie": "",
+                    "Start": 10417,
+                    "End": 10433
+                },
+                {
+                    "Reply": "what in the pot?",
+                    "Didascalie": "",
+                    "Start": 12134,
+                    "End": 12151
+                },
+                {
+                    "Reply": "you cant bet a human being!",
+                    "Didascalie": "",
+                    "Start": 12654,
+                    "End": 12682
+                },
+                {
+                    "Reply": "oh god bless you.",
+                    "Didascalie": "",
+                    "Start": 13418,
+                    "End": 13436
+                },
+                {
+                    "Reply": "ok  Benny goes out to work and leaves Joon and Sam. Joon is making a breakfast smoothie and Sam is watching as he walks in.",
+                    "Didascalie": "",
+                    "Start": 15501,
+                    "End": 15625
+                },
+                {
+                    "Reply": "this today?",
+                    "Didascalie": "",
+                    "Start": 15754,
+                    "End": 15766
+                },
+                {
+                    "Reply": "whoa, whoa, whoa what, what happened? Did something happen?",
+                    "Didascalie": "",
+                    "Start": 16911,
+                    "End": 16971
+                },
+                {
+                    "Reply": "do it? What? What, did he, what did he do?",
+                    "Didascalie": "",
+                    "Start": 17160,
+                    "End": 17203
+                },
+                {
+                    "Reply": "and you kicked him out for that?",
+                    "Didascalie": "",
+                    "Start": 17239,
+                    "End": 17272
+                },
+                {
+                    "Reply": "There is a knock on the door and a jack-in-the-box is left on the floor. Joon picks it up. They both look up and see Sam sat on the mail box.",
+                    "Didascalie": "(laughs)",
+                    "Start": 17304,
+                    "End": 17448
+                },
+                {
+                    "Reply": "yeah before someone sticks a stamp on his head and mails him to Guam.",
+                    "Didascalie": "",
+                    "Start": 17497,
+                    "End": 17567
+                },
+                {
+                    "Reply": "is that a fact?",
+                    "Didascalie": "",
+                    "Start": 17713,
+                    "End": 17729
+                },
+                {
+                    "Reply": "uh-uh yeah. All for the grilled cheese I might of used the wool setting.",
+                    "Didascalie": "",
+                    "Start": 17807,
+                    "End": 17880
+                },
+                {
+                    "Reply": "really? What did he use?",
+                    "Didascalie": "",
+                    "Start": 17919,
+                    "End": 17944
+                },
+                {
+                    "Reply": "Joon  He looks outside and sees a car pull up. Ruthie, Sam and Joon get out of the car.",
+                    "Didascalie": "",
+                    "Start": 19625,
+                    "End": 19713
+                },
+                {
+                    "Reply": "where the hell have you two been?",
+                    "Didascalie": "",
+                    "Start": 19829,
+                    "End": 19863
+                },
+                {
+                    "Reply": "oh how you doing?",
+                    "Didascalie": "",
+                    "Start": 19951,
+                    "End": 19969
+                },
+                {
+                    "Reply": "oh look  Joon; they are both named Steven. One with a V and one with a PH.",
+                    "Didascalie": "",
+                    "Start": 20099,
+                    "End": 20174
+                },
+                {
+                    "Reply": "so why did you leave?",
+                    "Didascalie": "",
+                    "Start": 20311,
+                    "End": 20333
+                },
+                {
+                    "Reply": "what? Not even as a kid?",
+                    "Didascalie": "",
+                    "Start": 21528,
+                    "End": 21553
+                },
+                {
+                    "Reply": "but you know you could borrow it. But you know we could share it. Like joint custody. You could take it on the weekends you know. What is this?",
+                    "Didascalie": "",
+                    "Start": 21764,
+                    "End": 21908
+                },
+                {
+                    "Reply": "want to go to dinner?",
+                    "Didascalie": "",
+                    "Start": 22178,
+                    "End": 22200
+                },
+                {
+                    "Reply": "I know its amazing. What the hell is he doing?",
+                    "Didascalie": "",
+                    "Start": 23756,
+                    "End": 23803
+                },
+                {
+                    "Reply": "you like that?",
+                    "Didascalie": "",
+                    "Start": 24261,
+                    "End": 24276
+                },
+                {
+                    "Reply": "its eleven.",
+                    "Didascalie": "",
+                    "Start": 24319,
+                    "End": 24331
+                },
+                {
+                    "Reply": "listen erm can I tell you something?",
+                    "Didascalie": "",
+                    "Start": 24726,
+                    "End": 24763
+                },
+                {
+                    "Reply": "no  In the park the next day. Sam, Benny and Joon are sat on a rug.",
+                    "Didascalie": "",
+                    "Start": 24944,
+                    "End": 25012
+                },
+                {
+                    "Reply": "come on we should go. Knock it off.",
+                    "Didascalie": "",
+                    "Start": 25293,
+                    "End": 25329
+                },
+                {
+                    "Reply": "what?",
+                    "Didascalie": "",
+                    "Start": 26673,
+                    "End": 26679
+                },
+                {
+                    "Reply": "do you realise you could be the next Buster Keeton?",
+                    "Didascalie": "",
+                    "Start": 26892,
+                    "End": 26944
+                },
+                {
+                    "Reply": "you book them out of town?",
+                    "Didascalie": "",
+                    "Start": 27437,
+                    "End": 27464
+                },
+                {
+                    "Reply": "Whoa! Randy can you see him tonight?",
+                    "Didascalie": "",
+                    "Start": 27532,
+                    "End": 27569
+                },
+                {
+                    "Reply": "what? Tell me what?",
+                    "Didascalie": "",
+                    "Start": 29223,
+                    "End": 29243
+                },
+                {
+                    "Reply": "get the fuck out!",
+                    "Didascalie": "",
+                    "Start": 29397,
+                    "End": 29415
+                },
+                {
+                    "Reply": "can I get you anything?",
+                    "Didascalie": "",
+                    "Start": 29762,
+                    "End": 29786
+                },
+                {
+                    "Reply": "tapioca? Ok. Anything on it?",
+                    "Didascalie": "",
+                    "Start": 29809,
+                    "End": 29838
+                },
+                {
+                    "Reply": "yeah. Listen\u00c2\u0085 do you have any tapioca?",
+                    "Didascalie": "",
+                    "Start": 30204,
+                    "End": 30244
+                },
+                {
+                    "Reply": "yeah?",
+                    "Didascalie": "",
+                    "Start": 30385,
+                    "End": 30391
+                },
+                {
+                    "Reply": "Joon, Joon!",
+                    "Didascalie": "",
+                    "Start": 31421,
+                    "End": 31433
+                },
+                {
+                    "Reply": "look I a going to see my sister. Would you please tell me her room number?",
+                    "Didascalie": "",
+                    "Start": 31499,
+                    "End": 31574
+                },
+                {
+                    "Reply": "yeah I hope so.",
+                    "Didascalie": "",
+                    "Start": 32905,
+                    "End": 32921
+                },
+                {
+                    "Reply": "what room did he say?",
+                    "Didascalie": "",
+                    "Start": 33645,
+                    "End": 33667
+                },
+                {
+                    "Reply": "shit. What are you doing?",
+                    "Didascalie": "",
+                    "Start": 33926,
+                    "End": 33952
+                },
+                {
+                    "Reply": "ok  He looks in her room and sees Sam and Joon making grilled cheese with an iron. He leaves her some roses at her door.",
+                    "Didascalie": "",
+                    "Start": 37550,
+                    "End": 37671
+                }
+            ]
+        },
+        {
+            "Character": "WALDO",
+            "Replies": [
+                {
+                    "Reply": "Yeah, Hello?",
+                    "Didascalie": "",
+                    "Start": 456,
+                    "End": 469
+                }
+            ]
+        },
+        {
+            "Character": "POSTMAN",
+            "Replies": [
+                {
+                    "Reply": "I need a check Benny, C.O.D.",
+                    "Didascalie": "",
+                    "Start": 479,
+                    "End": 508
+                }
+            ]
+        },
+        {
+            "Character": "GIRL",
+            "Replies": [
+                {
+                    "Reply": "Yeah?",
+                    "Didascalie": "",
+                    "Start": 1304,
+                    "End": 1310
+                },
+                {
+                    "Reply": "so can I erm, make it up to you with some dinner.",
+                    "Didascalie": "",
+                    "Start": 8286,
+                    "End": 8336
+                }
+            ]
+        },
+        {
+            "Character": "JOON",
+            "Replies": [
+                {
+                    "Reply": "Get out of my sight!",
+                    "Didascalie": "",
+                    "Start": 1510,
+                    "End": 1531
+                },
+                {
+                    "Reply": "in that order?",
+                    "Didascalie": "",
+                    "Start": 2759,
+                    "End": 2774
+                },
+                {
+                    "Reply": "she was given the fits of semi-precious metaphors.",
+                    "Didascalie": "",
+                    "Start": 2830,
+                    "End": 2881
+                },
+                {
+                    "Reply": "she moved things.",
+                    "Didascalie": "",
+                    "Start": 2956,
+                    "End": 2974
+                },
+                {
+                    "Reply": "a woman deeply and hygienically disturbed. Her hair smelled.",
+                    "Didascalie": "",
+                    "Start": 3268,
+                    "End": 3329
+                },
+                {
+                    "Reply": "you installed cable TV.",
+                    "Didascalie": "",
+                    "Start": 5450,
+                    "End": 5474
+                },
+                {
+                    "Reply": "have we an internal sequin issue to deal with Benjamin?",
+                    "Didascalie": "",
+                    "Start": 5530,
+                    "End": 5586
+                },
+                {
+                    "Reply": "I have every right to be outside officer. I have ever right.",
+                    "Didascalie": "",
+                    "Start": 7538,
+                    "End": 7599
+                },
+                {
+                    "Reply": "it caught the corner.",
+                    "Didascalie": "",
+                    "Start": 8597,
+                    "End": 8619
+                },
+                {
+                    "Reply": "having a Boo Radley moment are we?",
+                    "Didascalie": "",
+                    "Start": 15632,
+                    "End": 15667
+                },
+                {
+                    "Reply": "aah, too loud.",
+                    "Didascalie": "",
+                    "Start": 16615,
+                    "End": 16630
+                },
+                {
+                    "Reply": "he can really cook cant he?",
+                    "Didascalie": "",
+                    "Start": 17771,
+                    "End": 17799
+                },
+                {
+                    "Reply": "right. Fortunately he consulted me before giving it steam. I was four square against it. I wish he could be my new smeal.",
+                    "Didascalie": "",
+                    "Start": 18037,
+                    "End": 18159
+                },
+                {
+                    "Reply": "cannibals  Sam; yeah. Do you like avocadoes?",
+                    "Didascalie": "",
+                    "Start": 19470,
+                    "End": 19515
+                },
+                {
+                    "Reply": "yes I did, I ran an errand.",
+                    "Didascalie": "",
+                    "Start": 20032,
+                    "End": 20060
+                },
+                {
+                    "Reply": "did you have to go to school for that?",
+                    "Didascalie": "",
+                    "Start": 25495,
+                    "End": 25534
+                },
+                {
+                    "Reply": "really?",
+                    "Didascalie": "",
+                    "Start": 25589,
+                    "End": 25597
+                },
+                {
+                    "Reply": "really?",
+                    "Didascalie": "",
+                    "Start": 25758,
+                    "End": 25766
+                },
+                {
+                    "Reply": "ok  Benny; that was, that was great.",
+                    "Didascalie": "",
+                    "Start": 25845,
+                    "End": 25882
+                },
+                {
+                    "Reply": "what?",
+                    "Didascalie": "",
+                    "Start": 26079,
+                    "End": 26085
+                },
+                {
+                    "Reply": "who died and made you Ed McMahon?",
+                    "Didascalie": "",
+                    "Start": 28764,
+                    "End": 28798
+                },
+                {
+                    "Reply": "I love him!",
+                    "Didascalie": "",
+                    "Start": 29506,
+                    "End": 29518
+                },
+                {
+                    "Reply": "shut up!",
+                    "Didascalie": "",
+                    "Start": 30789,
+                    "End": 30798
+                },
+                {
+                    "Reply": "an apartment?",
+                    "Didascalie": "",
+                    "Start": 34486,
+                    "End": 34500
+                },
+                {
+                    "Reply": "you just need me to be sick  The social worker enters the waiting room and goes over to the desk.",
+                    "Didascalie": "",
+                    "Start": 35022,
+                    "End": 35120
+                }
+            ]
+        },
+        {
+            "Character": "SMEAL",
+            "Replies": [
+                {
+                    "Reply": "Beware the winds of reason shall blow stern.",
+                    "Didascalie": "",
+                    "Start": 1700,
+                    "End": 1745
+                }
+            ]
+        },
+        {
+            "Character": "MAN",
+            "Replies": [
+                {
+                    "Reply": "Ruthie one of your ghosts come back to haunt you?",
+                    "Didascalie": "",
+                    "Start": 13759,
+                    "End": 13809
+                }
+            ]
+        },
+        {
+            "Character": "MIKE",
+            "Replies": [
+                {
+                    "Reply": "does it have little plastic ear pieces on the end?",
+                    "Didascalie": "",
+                    "Start": 4038,
+                    "End": 4089
+                },
+                {
+                    "Reply": "since last week. My cousin landed in town and my life has gone from heaven to hell in 7 days.",
+                    "Didascalie": "",
+                    "Start": 5042,
+                    "End": 5136
+                },
+                {
+                    "Reply": "yeah, and he keeps me up all night watching stupid old movies. My works starting to suffer.",
+                    "Didascalie": "",
+                    "Start": 5351,
+                    "End": 5443
+                },
+                {
+                    "Reply": "oh man, what are you doing you stupid jerk?",
+                    "Didascalie": "",
+                    "Start": 12892,
+                    "End": 12936
+                },
+                {
+                    "Reply": "what did you do with my hob caps?",
+                    "Didascalie": "",
+                    "Start": 12991,
+                    "End": 13025
+                }
+            ]
+        },
+        {
+            "Character": "THOMAS",
+            "Replies": [
+                {
+                    "Reply": "what do you care? You never win mike!",
+                    "Didascalie": "",
+                    "Start": 4098,
+                    "End": 4136
+                },
+                {
+                    "Reply": "you got that flash light?",
+                    "Didascalie": "",
+                    "Start": 10872,
+                    "End": 10898
+                },
+                {
+                    "Reply": "soap on a rope, slightly used. Cards?",
+                    "Didascalie": "",
+                    "Start": 11341,
+                    "End": 11379
+                },
+                {
+                    "Reply": "cards?",
+                    "Didascalie": "",
+                    "Start": 11401,
+                    "End": 11408
+                },
+                {
+                    "Reply": "see?",
+                    "Didascalie": "",
+                    "Start": 35727,
+                    "End": 35732
+                },
+                {
+                    "Reply": "Sam, where are you going?",
+                    "Didascalie": "",
+                    "Start": 35750,
+                    "End": 35776
+                },
+                {
+                    "Reply": "Sam what are you doing? Hey Sam come on! Get down right now!",
+                    "Didascalie": "",
+                    "Start": 36062,
+                    "End": 36123
+                },
+                {
+                    "Reply": "come down Sam!",
+                    "Didascalie": "",
+                    "Start": 36977,
+                    "End": 36992
+                },
+                {
+                    "Reply": "whoa! Whoa! Are you ok?",
+                    "Didascalie": "",
+                    "Start": 37038,
+                    "End": 37062
+                }
+            ]
+        },
+        {
+            "Character": "SW",
+            "Replies": [
+                {
+                    "Reply": "now let me tell you something. How are you two getting along?",
+                    "Didascalie": "",
+                    "Start": 6100,
+                    "End": 6162
+                },
+                {
+                    "Reply": "Benny, would you come inside a minute?",
+                    "Didascalie": "",
+                    "Start": 22541,
+                    "End": 22580
+                }
+            ]
+        },
+        {
+            "Character": "JACK",
+            "Replies": [
+                {
+                    "Reply": "hey thanks Benny.",
+                    "Didascalie": "",
+                    "Start": 7924,
+                    "End": 7942
+                }
+            ]
+        },
+        {
+            "Character": "SAM",
+            "Replies": [
+                {
+                    "Reply": "with an N?",
+                    "Didascalie": "",
+                    "Start": 13091,
+                    "End": 13102
+                },
+                {
+                    "Reply": "with an N?",
+                    "Didascalie": "",
+                    "Start": 13147,
+                    "End": 13158
+                },
+                {
+                    "Reply": "oh, oh Benny. Hey Benny. Thanks for the couch. Erm Mike made me sleep under the sink.",
+                    "Didascalie": "",
+                    "Start": 14650,
+                    "End": 14736
+                },
+                {
+                    "Reply": "good night  Next Morning  Sam is sleeping and Joon is drawing him. He moves so Joon quickly pits them away.",
+                    "Didascalie": "",
+                    "Start": 14781,
+                    "End": 14889
+                },
+                {
+                    "Reply": "mentally ill. Really?",
+                    "Didascalie": "",
+                    "Start": 14912,
+                    "End": 14934
+                },
+                {
+                    "Reply": "He switches the radio off and Joon takes it away.",
+                    "Didascalie": "",
+                    "Start": 16679,
+                    "End": 16729
+                },
+                {
+                    "Reply": "tapioca?",
+                    "Didascalie": "",
+                    "Start": 18817,
+                    "End": 18826
+                },
+                {
+                    "Reply": "why?",
+                    "Didascalie": "",
+                    "Start": 19012,
+                    "End": 19017
+                },
+                {
+                    "Reply": "Ruthie, do you got any avocadoes?",
+                    "Didascalie": "",
+                    "Start": 19555,
+                    "End": 19589
+                },
+                {
+                    "Reply": "why?",
+                    "Didascalie": "",
+                    "Start": 25113,
+                    "End": 25118
+                },
+                {
+                    "Reply": "oh  He tries to put his hat on his head but it just pops off again. He does it to Joon and tries to do it to Benny.",
+                    "Didascalie": "",
+                    "Start": 25169,
+                    "End": 25285
+                },
+                {
+                    "Reply": "no thank you. bye bye  Benny tries to do the trick with the bench that Sam did.",
+                    "Didascalie": "",
+                    "Start": 25918,
+                    "End": 25998
+                },
+                {
+                    "Reply": "like what?",
+                    "Didascalie": "",
+                    "Start": 26434,
+                    "End": 26445
+                },
+                {
+                    "Reply": "how sick is she?",
+                    "Didascalie": "",
+                    "Start": 26685,
+                    "End": 26702
+                },
+                {
+                    "Reply": "err Benny\u00c2\u0085Joon\u00c2\u0085 and\u00c2\u0085 and I\u00c2\u0085 are\u00c2\u0085 you know.",
+                    "Didascalie": "",
+                    "Start": 29249,
+                    "End": 29297
+                },
+                {
+                    "Reply": "Joon. Ok?",
+                    "Didascalie": "",
+                    "Start": 30527,
+                    "End": 30537
+                },
+                {
+                    "Reply": "sir? Sir! Stop the bus! Please stop the bus!",
+                    "Didascalie": "",
+                    "Start": 30891,
+                    "End": 30936
+                },
+                {
+                    "Reply": "have a nice day. Can I help you?",
+                    "Didascalie": "",
+                    "Start": 32864,
+                    "End": 32897
+                },
+                {
+                    "Reply": "Mommy?",
+                    "Didascalie": "",
+                    "Start": 34000,
+                    "End": 34007
+                }
+            ]
+        },
+        {
+            "Character": "RUTHIE",
+            "Replies": [
+                {
+                    "Reply": "you saw that?",
+                    "Didascalie": "",
+                    "Start": 14039,
+                    "End": 14053
+                },
+                {
+                    "Reply": "thank you. Maybe I should quit my job huh?",
+                    "Didascalie": "",
+                    "Start": 19778,
+                    "End": 19821
+                },
+                {
+                    "Reply": "Hi  Benny; running errands? You ran an errand?",
+                    "Didascalie": "",
+                    "Start": 19978,
+                    "End": 20025
+                },
+                {
+                    "Reply": "want a beer?",
+                    "Didascalie": "",
+                    "Start": 21977,
+                    "End": 21990
+                },
+                {
+                    "Reply": "uh-uh. What time you got?",
+                    "Didascalie": "",
+                    "Start": 24285,
+                    "End": 24311
+                },
+                {
+                    "Reply": "on the nose?",
+                    "Didascalie": "",
+                    "Start": 24340,
+                    "End": 24353
+                },
+                {
+                    "Reply": "what?",
+                    "Didascalie": "",
+                    "Start": 24772,
+                    "End": 24778
+                },
+                {
+                    "Reply": "is my car ready?",
+                    "Didascalie": "",
+                    "Start": 27626,
+                    "End": 27643
+                },
+                {
+                    "Reply": "how much do I owe you?",
+                    "Didascalie": "",
+                    "Start": 27939,
+                    "End": 27962
+                },
+                {
+                    "Reply": "what thing?",
+                    "Didascalie": "",
+                    "Start": 28194,
+                    "End": 28206
+                }
+            ]
+        },
+        {
+            "Character": "OWNER",
+            "Replies": [
+                {
+                    "Reply": "Sam picks up the pen and writes his name. He folds up the application and walks out of the shop.",
+                    "Didascalie": "",
+                    "Start": 23512,
+                    "End": 23609
+                }
+            ]
+        },
+        {
+            "Character": "LADY",
+            "Replies": [
+                {
+                    "Reply": "yeah?",
+                    "Didascalie": "",
+                    "Start": 32692,
+                    "End": 32698
+                }
+            ]
+        }
+    ]
 }

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Gremlins 2",
-        "   "
-    ],
+    "Title": "Gremlins 2",
     "Author": [
-        "\u00a0\u00a0Charlie Haas"
+        "Charlie Haas"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1733,12 +1733,6 @@
                     "End": 182704
                 },
                 {
-                    "Reply": "I know -- 0065  M 0 N He points to a coiled canvas FIRE HOSE in a case on the wall nearby.",
-                    "Didascalie": "",
-                    "Start": 184043,
-                    "End": 184166
-                },
-                {
                     "Reply": "Mr. Futterman. Get that hose.",
                     "Didascalie": "",
                     "Start": 184203,
@@ -2472,17 +2466,6 @@
                     "Didascalie": "",
                     "Start": 29956,
                     "End": 30080
-                }
-            ]
-        },
-        {
-            "Character": "A TECHNICIAN",
-            "Replies": [
-                {
-                    "Reply": "It's for you, sir.",
-                    "Didascalie": "",
-                    "Start": 31536,
-                    "End": 31555
                 }
             ]
         },
@@ -3428,13 +3411,19 @@
             ]
         },
         {
-            "Character": "CU",
+            "Character": "YOGURT JERK 1",
             "Replies": [
                 {
-                    "Reply": "6 5  YOGURT JERK 1 0 I'm not sure...Alexis, are the peanut butter cups all natural?",
+                    "Reply": "0 I'm not sure...Alexis, are the peanut butter cups all natural?",
                     "Didascalie": "",
-                    "Start": 87166,
+                    "Start": 87206,
                     "End": 87281
+                },
+                {
+                    "Reply": "Ma'am, we don't have anything that's like --",
+                    "Didascalie": "",
+                    "Start": 88090,
+                    "End": 88145
                 }
             ]
         },
@@ -3452,6 +3441,56 @@
                     "Didascalie": "",
                     "Start": 88530,
                     "End": 88535
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 2",
+            "Replies": [
+                {
+                    "Reply": "Miss, I asked for Oreo cookies and Gummy Bears -- this stuff is, like -- hair.",
+                    "Didascalie": "",
+                    "Start": 87954,
+                    "End": 88053
+                },
+                {
+                    "Reply": "What is it? It's a t.!",
+                    "Didascalie": "",
+                    "Start": 88472,
+                    "End": 88495
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 3",
+            "Replies": [
+                {
+                    "Reply": "What's going on here? Did that woman say there are rats?",
+                    "Didascalie": "",
+                    "Start": 88567,
+                    "End": 88634
+                }
+            ]
+        },
+        {
+            "Character": "YOGURT JERK 2",
+            "Replies": [
+                {
+                    "Reply": "Um, no, sir, she said there are mQ rats here --",
+                    "Didascalie": "",
+                    "Start": 88670,
+                    "End": 88729
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 1",
+            "Replies": [
+                {
+                    "Reply": "it's supposed to be health food.",
+                    "Didascalie": "",
+                    "Start": 89364,
+                    "End": 89397
                 }
             ]
         },
@@ -3545,6 +3584,35 @@
             ]
         },
         {
+            "Character": "TECHNICIAN 2",
+            "Replies": [
+                {
+                    "Reply": "Well, sure. you're going into a cocoon, you want to have a little something first.",
+                    "Didascalie": "",
+                    "Start": 102013,
+                    "End": 102118
+                },
+                {
+                    "Reply": "A caraway seed.",
+                    "Didascalie": "",
+                    "Start": 104456,
+                    "End": 104472
+                },
+                {
+                    "Reply": "Or what about if he's eating in an airplane, and they cross the time zone --",
+                    "Didascalie": "",
+                    "Start": 104863,
+                    "End": 104961
+                },
+                {
+                    "Reply": "Help -- me --",
+                    "Didascalie": "",
+                    "Start": 105431,
+                    "End": 105445
+                }
+            ]
+        },
+        {
             "Character": "KATSUJI",
             "Replies": [
                 {
@@ -3581,6 +3649,68 @@
                     "Didascalie": "",
                     "Start": 104276,
                     "End": 104420
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 1",
+            "Replies": [
+                {
+                    "Reply": "Whatever, right, and then after twelve o'clock, it comes out --",
+                    "Didascalie": "",
+                    "Start": 104508,
+                    "End": 104583
+                },
+                {
+                    "Reply": "Mister Forster, I show lighting brownouts in five locations.",
+                    "Didascalie": "",
+                    "Start": 110280,
+                    "End": 110351
+                }
+            ]
+        },
+        {
+            "Character": "GEORGE 06",
+            "Replies": [
+                {
+                    "Reply": "0 .5 Mi-cro-wave!",
+                    "Didascalie": "",
+                    "Start": 107743,
+                    "End": 107771
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 3",
+            "Replies": [
+                {
+                    "Reply": "I've got a climate control malfunction, floors fifteen and sixteen --",
+                    "Didascalie": "",
+                    "Start": 110387,
+                    "End": 110478
+                },
+                {
+                    "Reply": "No, he said he was going to Mister Clamp's office -- hey, do you know anything about --",
+                    "Didascalie": "",
+                    "Start": 111666,
+                    "End": 111774
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 4",
+            "Replies": [
+                {
+                    "Reply": "Uh, air --",
+                    "Didascalie": "",
+                    "Start": 110570,
+                    "End": 110581
+                },
+                {
+                    "Reply": "The Peat Infestation Monitor...",
+                    "Didascalie": "(CONT.) (points to screen)",
+                    "Start": 110699,
+                    "End": 110742
                 }
             ]
         },
@@ -3636,6 +3766,17 @@
                     "Didascalie": "",
                     "Start": 121121,
                     "End": 121181
+                }
+            ]
+        },
+        {
+            "Character": "LADY 1",
+            "Replies": [
+                {
+                    "Reply": "We'll get the next one.",
+                    "Didascalie": "(indicates other  ELEVATOR)",
+                    "Start": 121637,
+                    "End": 121672
                 }
             ]
         },
@@ -3733,12 +3874,18 @@
             ]
         },
         {
-            "Character": "CUSTOM",
+            "Character": "CUSTOMER 4",
             "Replies": [
                 {
-                    "Reply": "Really. IRY00 1-1  CUSTOMER 4 Of course, he's been in jail for a while now...",
+                    "Reply": "My broker a ,g s the strongest things in the ecb i f ght now are cigarette' a np4s magazines.",
                     "Didascalie": "",
-                    "Start": 131553,
+                    "Start": 131409,
+                    "End": 131525
+                },
+                {
+                    "Reply": "Of course, he's been in jail for a while now...",
+                    "Didascalie": "",
+                    "Start": 131605,
                     "End": 131664
                 }
             ]
@@ -3834,6 +3981,17 @@
             ]
         },
         {
+            "Character": "WORKER 2",
+            "Replies": [
+                {
+                    "Reply": "Fire! Fire!",
+                    "Didascalie": "",
+                    "Start": 137868,
+                    "End": 137880
+                }
+            ]
+        },
+        {
             "Character": "STRAIGHT AT HIM --",
             "Replies": [
                 {
@@ -3924,6 +4082,40 @@
             ]
         },
         {
+            "Character": "NEWSPERSON 2",
+            "Replies": [
+                {
+                    "Reply": ".stories about a fire, but also reports of an attack by some sort of animals -- again, none of this is confirmed...",
+                    "Didascalie": "",
+                    "Start": 145839,
+                    "End": 145985
+                },
+                {
+                    "Reply": "Look, just let us in there. We'll take the responsibility --",
+                    "Didascalie": "",
+                    "Start": 153126,
+                    "End": 153197
+                }
+            ]
+        },
+        {
+            "Character": "NEWSPERSON 3",
+            "Replies": [
+                {
+                    "Reply": ".people who are quite hysterical, talking about some sort of \"green men\" --",
+                    "Didascalie": "",
+                    "Start": 146019,
+                    "End": 146115
+                },
+                {
+                    "Reply": "Problems? You've got a guy in a Dracula costume in there, broadcasting stuff with little green monsters. Are you trying to panic New York City?",
+                    "Didascalie": "",
+                    "Start": 165359,
+                    "End": 165543
+                }
+            ]
+        },
+        {
             "Character": "COP",
             "Replies": [
                 {
@@ -3954,12 +4146,6 @@
                     "Didascalie": "",
                     "Start": 157769,
                     "End": 157775
-                },
-                {
-                    "Reply": "REVISED - June 8, 1989  88  142 CONTINUED: 142  MR. FUTTERMAN It's not fire in there -- it's gremlins. If you get water on 'em, they just mu1 in1v.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 157797,
-                    "End": 158069
                 },
                 {
                     "Reply": "You gotta let me in there. I know how to deal with it.",
@@ -4021,6 +4207,17 @@
                     "Didascalie": "",
                     "Start": 164704,
                     "End": 164798
+                }
+            ]
+        },
+        {
+            "Character": "NEWSPERSON 1",
+            "Replies": [
+                {
+                    "Reply": "Mister Clamp, is it true the building's been evacuated?",
+                    "Didascalie": "",
+                    "Start": 165043,
+                    "End": 165109
                 }
             ]
         },
@@ -4111,6 +4308,17 @@
                     "Didascalie": "",
                     "Start": 184592,
                     "End": 184794
+                }
+            ]
+        },
+        {
+            "Character": "M 0 N",
+            "Replies": [
+                {
+                    "Reply": "He points to a coiled canvas FIRE HOSE in a case on the wall nearby.",
+                    "Didascalie": "",
+                    "Start": 184087,
+                    "End": 184166
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Smashed",
-        "   "
-    ],
+    "Title": "Smashed",
     "Author": [
-        "\u00a0\u00a0Susan Burke\u00a0\u00a0James Ponsoldt"
+        "Susan Burke",
+        "James Ponsoldt"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Wild Bunch, The",
-        "   "
-    ],
+    "Title": "Wild Bunch, The",
     "Author": [
-        "\u00a0\u00a0Walon Green\u00a0\u00a0Sam Peckinpah"
+        "Walon Green",
+        "Sam Peckinpah"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Western"
+        "Action",
+        "Western"
     ],
     "Characters": [
         {
@@ -4343,6 +4342,12 @@
                     "Didascalie": "",
                     "Start": 135535,
                     "End": 135572
+                },
+                {
+                    "Reply": "Get them out of there;  300 INSIDE THE CAR, THE MEN HAVE CAUGHT AND SADDLED ONE HORSE.",
+                    "Didascalie": "(running to the car)",
+                    "Start": 135602,
+                    "End": 135710
                 },
                 {
                     "Reply": "Get out ; ...The engine's coming !",

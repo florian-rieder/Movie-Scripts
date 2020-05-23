@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "His Girl Friday",
-        "   "
-    ],
+    "Title": "His Girl Friday",
     "Author": [
-        "\u00a0\u00a0Ben Hecht\u00a0\u00a0Charles MacArthur"
+        "Ben Hecht",
+        "Charles MacArthur"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Comedy",
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {

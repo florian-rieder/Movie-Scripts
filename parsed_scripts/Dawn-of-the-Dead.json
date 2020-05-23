@@ -1,15 +1,3493 @@
 {
-    "Title": [
-        "Dawn of the Dead",
-        "   "
-    ],
+    "Title": "Dawn of the Dead",
     "Author": [
-        "\u00a0\u00a0George A. Romero"
+        "George A. Romero"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Drama"
+        "Action",
+        "Horror",
+        "Drama"
     ],
     "Characters": [
+        {
+            "Character": "TONY",
+            "Replies": [
+                {
+                    "Reply": "YOU OK?",
+                    "Didascalie": "",
+                    "Start": 1028,
+                    "End": 1036
+                },
+                {
+                    "Reply": "THE SHIT'S REALLY HITTING THE FAN.",
+                    "Didascalie": "",
+                    "Start": 1111,
+                    "End": 1146
+                }
+            ]
+        },
+        {
+            "Character": "VOICE",
+            "Replies": [
+                {
+                    "Reply": "YES, BUT THAT'S...",
+                    "Didascalie": "",
+                    "Start": 1763,
+                    "End": 1782
+                },
+                {
+                    "Reply": "THAT'S A WHOLE OTHER STUDY. THEY'RE TRYING...",
+                    "Didascalie": "",
+                    "Start": 1791,
+                    "End": 1837
+                },
+                {
+                    "Reply": "BUT IF WE KNEW THAT, WE COULD...",
+                    "Didascalie": "",
+                    "Start": 1846,
+                    "End": 1879
+                },
+                {
+                    "Reply": "WE DON'T KNOW THAT! WE DON'T KNOW THAT!",
+                    "Didascalie": "",
+                    "Start": 1888,
+                    "End": 1928
+                },
+                {
+                    "Reply": "YOU'RE NOT ALONE BROTHER.",
+                    "Didascalie": "",
+                    "Start": 29268,
+                    "End": 29294
+                },
+                {
+                    "Reply": "YOU WAS IN WOOLEY'S UNIT.",
+                    "Didascalie": "",
+                    "Start": 29485,
+                    "End": 29511
+                },
+                {
+                    "Reply": "YEAH. I KNOW.",
+                    "Didascalie": "",
+                    "Start": 29824,
+                    "End": 29838
+                },
+                {
+                    "Reply": "JUST STAY COOL.",
+                    "Didascalie": "",
+                    "Start": 43725,
+                    "End": 43741
+                },
+                {
+                    "Reply": "...NOT ACTUALLY CANNIBALISM...CANNIBALISM IN THE TRUE SENSE OF THE WORD, IMPLIES AN INTRASPECIE ACTIVITY... THESE CREATURES CANNOT BE CONSIDERED HUMAN..THEY PREY ON HUMANS...THEY DO NOT PREY ON EACH OTHER.",
+                    "Didascalie": "",
+                    "Start": 140310,
+                    "End": 140528
+                },
+                {
+                    "Reply": "THEY ATTACK AND...AND FEED...ONLY ON WARM HUMAN FLESH...",
+                    "Didascalie": "",
+                    "Start": 140674,
+                    "End": 140734
+                },
+                {
+                    "Reply": "INTELLIGENCE? SEEMINGLY LITTLE OR NO REASONING POWER. WHAT BASIC SKILLS REMAIN ARE MORE REMEMBERED BEHAVIOURS FROM...FROM NORMAL LIFE.",
+                    "Didascalie": "",
+                    "Start": 140961,
+                    "End": 141102
+                },
+                {
+                    "Reply": "THERE ARE REPORTS OF THE CREATURES USING TOOLS, BUT EVEN THESE ACTIONS ARE THE MOST PRIMITIVE...",
+                    "Didascalie": "",
+                    "Start": 141349,
+                    "End": 141449
+                },
+                {
+                    "Reply": "THESE CREATURES ARE NOTHING BUT PURE, MOTORISED INSTINCT...",
+                    "Didascalie": "",
+                    "Start": 141669,
+                    "End": 141732
+                },
+                {
+                    "Reply": "THEY MUST GET IN THROUGH THE ROOF.",
+                    "Didascalie": "",
+                    "Start": 209165,
+                    "End": 209200
+                },
+                {
+                    "Reply": "SON OF A BITCH!",
+                    "Didascalie": "",
+                    "Start": 209209,
+                    "End": 209225
+                },
+                {
+                    "Reply": "THERE'S TRUCKS BLOCKIN' ALL THE ENTRANCES.",
+                    "Didascalie": "",
+                    "Start": 209234,
+                    "End": 209277
+                },
+                {
+                    "Reply": "NO SWEAT!",
+                    "Didascalie": "",
+                    "Start": 209286,
+                    "End": 209296
+                },
+                {
+                    "Reply": "WHAT DO YA THINK? HIT 'EM NOW OR WAIT FOR TONIGHT?",
+                    "Didascalie": "",
+                    "Start": 209305,
+                    "End": 209359
+                },
+                {
+                    "Reply": "TONIGHT.",
+                    "Didascalie": "",
+                    "Start": 209368,
+                    "End": 209377
+                },
+                {
+                    "Reply": "HEY, ER...COULD YA USE SOME COMPANY IN THERE?",
+                    "Didascalie": "",
+                    "Start": 209699,
+                    "End": 209745
+                },
+                {
+                    "Reply": "WE'RE JUST RIDIN' BY...WE COULD SURE USE SOME SUPPLIES...WHAT'S THE CHANCE US GETTIN' IN THERE TO STOCK UP?",
+                    "Didascalie": "",
+                    "Start": 209806,
+                    "End": 209920
+                },
+                {
+                    "Reply": "HOW MANY OF YOU IN THERE, ANYWAY...THERE'S THREE OF US. COULDN'T YA USE THREE MORE GUNS?",
+                    "Didascalie": "",
+                    "Start": 209995,
+                    "End": 210087
+                },
+                {
+                    "Reply": "HEY...YOU IN THE MALL...YOU JUST FUCKED UP REAL BAD! WE DON'T LIKE PEOPLE WHO DON'T SHARE.",
+                    "Didascalie": "",
+                    "Start": 210899,
+                    "End": 210993
+                }
+            ]
+        },
+        {
+            "Character": "FRAN",
+            "Replies": [
+                {
+                    "Reply": "NO YOU'RE NOT.",
+                    "Didascalie": "",
+                    "Start": 2370,
+                    "End": 2385
+                },
+                {
+                    "Reply": "RESCUE STATIONS?",
+                    "Didascalie": "",
+                    "Start": 5250,
+                    "End": 5267
+                },
+                {
+                    "Reply": "I'M GONNA KNOCK OFF THE OLD RESCUE STATIONS.",
+                    "Didascalie": "",
+                    "Start": 6040,
+                    "End": 6085
+                },
+                {
+                    "Reply": "JESUS!",
+                    "Didascalie": "",
+                    "Start": 6508,
+                    "End": 6515
+                },
+                {
+                    "Reply": "I HAD IT...I WAS ASLEEP OVER THERE...",
+                    "Didascalie": "",
+                    "Start": 6546,
+                    "End": 6584
+                },
+                {
+                    "Reply": "I DON'T BELIEVE IT.",
+                    "Didascalie": "",
+                    "Start": 6935,
+                    "End": 6955
+                },
+                {
+                    "Reply": "IT'S REALLY GOING CRAZY.",
+                    "Didascalie": "",
+                    "Start": 7099,
+                    "End": 7124
+                },
+                {
+                    "Reply": "I GOTTA TYPE 'EM UP. KILL THE OLD ONES.",
+                    "Didascalie": "",
+                    "Start": 7353,
+                    "End": 7393
+                },
+                {
+                    "Reply": "KILL 'EM, DICK. TELL GIVENS TO SEE ME!",
+                    "Didascalie": "",
+                    "Start": 7435,
+                    "End": 7474
+                },
+                {
+                    "Reply": "OPERATIVE RESCUE STATIONS?",
+                    "Didascalie": "",
+                    "Start": 9124,
+                    "End": 9151
+                },
+                {
+                    "Reply": "YEAH, BUT NOT TO THE ENEMY.",
+                    "Didascalie": "",
+                    "Start": 9282,
+                    "End": 9310
+                },
+                {
+                    "Reply": "NOT MUCH LEFT, BUT HAVE A BALL.",
+                    "Didascalie": "",
+                    "Start": 9400,
+                    "End": 9432
+                },
+                {
+                    "Reply": "NOBODY. I KILLED 'EM. THEY'RE OUT OF DATE.",
+                    "Didascalie": "",
+                    "Start": 10274,
+                    "End": 10317
+                },
+                {
+                    "Reply": "STEPHEN...I DON'T BELIEVE THIS...WHAT...",
+                    "Didascalie": "(letting the camera slip slightly)",
+                    "Start": 14589,
+                    "End": 14634
+                },
+                {
+                    "Reply": "STEVE...WE CAN'T...WE'VE GOT TO...",
+                    "Didascalie": "",
+                    "Start": 14833,
+                    "End": 14868
+                },
+                {
+                    "Reply": "OH MY GOD!",
+                    "Didascalie": "",
+                    "Start": 40018,
+                    "End": 40029
+                },
+                {
+                    "Reply": "YOU SURE THIS'LL CARRY US ALL.",
+                    "Didascalie": "",
+                    "Start": 49122,
+                    "End": 49153
+                },
+                {
+                    "Reply": "AN EX-HUSBAND.",
+                    "Didascalie": "",
+                    "Start": 50485,
+                    "End": 50500
+                },
+                {
+                    "Reply": "REAL BROTHERS?",
+                    "Didascalie": "",
+                    "Start": 50892,
+                    "End": 50907
+                },
+                {
+                    "Reply": "REAL BROTHERS OR...STREET BROTHERS?",
+                    "Didascalie": "",
+                    "Start": 50959,
+                    "End": 50995
+                },
+                {
+                    "Reply": "HOW MANY REAL ONES?",
+                    "Didascalie": "",
+                    "Start": 51018,
+                    "End": 51038
+                },
+                {
+                    "Reply": "TWO.",
+                    "Didascalie": "",
+                    "Start": 51060,
+                    "End": 51065
+                },
+                {
+                    "Reply": "MOST OF THE TIME, YEAH.",
+                    "Didascalie": "",
+                    "Start": 51388,
+                    "End": 51412
+                },
+                {
+                    "Reply": "YEAH. ME TOO.",
+                    "Didascalie": "",
+                    "Start": 51464,
+                    "End": 51478
+                },
+                {
+                    "Reply": "NO...MY GOD...DON'T... WHAT ARE YOU DOING?",
+                    "Didascalie": "",
+                    "Start": 65799,
+                    "End": 65842
+                },
+                {
+                    "Reply": "JESUS CHRIST. WE DON'T EVEN KNOW WHERE WE'RE GOING.  WE DON'T HAVE A RADIO.  WE'RE RUNNING OUT OF WATER. WE NEED FOOD....STEPHEN, YOU NEED TO SLEEP.",
+                    "Didascalie": "",
+                    "Start": 68086,
+                    "End": 68244
+                },
+                {
+                    "Reply": "OH MY GOD!",
+                    "Didascalie": "",
+                    "Start": 70291,
+                    "End": 70302
+                },
+                {
+                    "Reply": "SPAM!",
+                    "Didascalie": "",
+                    "Start": 76611,
+                    "End": 76617
+                },
+                {
+                    "Reply": "OH.",
+                    "Didascalie": "",
+                    "Start": 76691,
+                    "End": 76695
+                },
+                {
+                    "Reply": "YOU'RE CRAZY!\tRoger:\tTHIS PLACE COULD BE A GOLD MINE.",
+                    "Didascalie": "",
+                    "Start": 78624,
+                    "End": 78678
+                },
+                {
+                    "Reply": "STEPHEN...",
+                    "Didascalie": "",
+                    "Start": 88642,
+                    "End": 88653
+                },
+                {
+                    "Reply": "STEPHEN...FOR GOD'S SAKE...LET'S GET UP ON THE ROOF...243\tSteve is at the middle landing. He stares down into the darkness below. More gunfire can be heard from the mall.",
+                    "Didascalie": "",
+                    "Start": 94771,
+                    "End": 94946
+                },
+                {
+                    "Reply": "GOD DAMMIT!",
+                    "Didascalie": "",
+                    "Start": 117160,
+                    "End": 117172
+                },
+                {
+                    "Reply": "SO I GUESS WE FORGET ABOUT CANADA, RIGHT?",
+                    "Didascalie": "",
+                    "Start": 135711,
+                    "End": 135753
+                },
+                {
+                    "Reply": "I GUESS NOBODY CARES ABOUT MY VOTE, HUH?",
+                    "Didascalie": "",
+                    "Start": 135979,
+                    "End": 136020
+                },
+                {
+                    "Reply": "WHAT HAPPENED TO GROWING VEGETABLES AND FISHING?",
+                    "Didascalie": "",
+                    "Start": 136074,
+                    "End": 136123
+                },
+                {
+                    "Reply": "STEPHEN, LET'S JUST TAKE WHAT WE NEED AND KEEP GOING.",
+                    "Didascalie": "",
+                    "Start": 136452,
+                    "End": 136509
+                },
+                {
+                    "Reply": "WHAY DO YOU WANT? A NEW SET OF FURNITURE? A FREEZER? A CONSOLE TV AND A STEREO? WE CAN TAKE WHAT WE NEED. WHAT WE NEED TO SURVIVE.",
+                    "Didascalie": "(angry)",
+                    "Start": 136585,
+                    "End": 136726
+                },
+                {
+                    "Reply": "I WOULD HAVE MADE COFFEE AND BREAKFAST, BUT I DON'T HAVE MY POTS AND PANS.",
+                    "Didascalie": "",
+                    "Start": 143287,
+                    "End": 143365
+                },
+                {
+                    "Reply": "CAN I SAY SOMETHING?",
+                    "Didascalie": "",
+                    "Start": 143488,
+                    "End": 143509
+                },
+                {
+                    "Reply": "I'M SORRY YOU FOUND OUT I'M PREGNANT, BECAUSE I DON'T WANT ANY OF YOU TO TREAT ME DIFFERENTLY THAN YOU'D TREAT ANOTHER GUY.",
+                    "Didascalie": "",
+                    "Start": 143550,
+                    "End": 143680
+                },
+                {
+                    "Reply": "AND,...I'M NOT GONNA BE DEN MOTHER FOR YOU GUYS.",
+                    "Didascalie": "",
+                    "Start": 143722,
+                    "End": 143771
+                },
+                {
+                    "Reply": "AND I WANT TO KNOW WHAT'S GOING ON. AND I WANT SOMETHING TO SAY ABOUT THE PLANS. THERE'S FOUR OF US, OK?",
+                    "Didascalie": "",
+                    "Start": 143818,
+                    "End": 143929
+                },
+                {
+                    "Reply": "NOW. WHAT'S GOIN' ON?",
+                    "Didascalie": "",
+                    "Start": 143983,
+                    "End": 144005
+                },
+                {
+                    "Reply": "SOMETHING ELSE.",
+                    "Didascalie": "",
+                    "Start": 144399,
+                    "End": 144415
+                },
+                {
+                    "Reply": "I DON'T KNOW ANOUT YOU TWO, BUT I WANNA LEARN HOW TO FLY THAT HELICOPTER.",
+                    "Didascalie": "",
+                    "Start": 144510,
+                    "End": 144587
+                },
+                {
+                    "Reply": "IF ANYTHING HAPPENS...WE'VE GOTTA BE ABLE TO GET OUT OF HERE.",
+                    "Didascalie": "",
+                    "Start": 144656,
+                    "End": 144721
+                },
+                {
+                    "Reply": "AND YOU'RE NOT LEAVING ME WITHOUT A GUN AGAIN.",
+                    "Didascalie": "",
+                    "Start": 144864,
+                    "End": 144911
+                },
+                {
+                    "Reply": "BE CAREFUL.",
+                    "Didascalie": "",
+                    "Start": 145763,
+                    "End": 145775
+                },
+                {
+                    "Reply": "ROGER...IN FRONT, ROGER...IN FRONT, ROGER...",
+                    "Didascalie": "",
+                    "Start": 157887,
+                    "End": 157932
+                },
+                {
+                    "Reply": "MONSTERS! MONSTERS!",
+                    "Didascalie": "",
+                    "Start": 158686,
+                    "End": 158706
+                },
+                {
+                    "Reply": "IT'S TOO FAR!",
+                    "Didascalie": "",
+                    "Start": 175453,
+                    "End": 175467
+                },
+                {
+                    "Reply": "WE'LL NEVER MAKE ALL FOUR. IT'S TOO RISKY.",
+                    "Didascalie": "",
+                    "Start": 175542,
+                    "End": 175585
+                },
+                {
+                    "Reply": "THE CAR!",
+                    "Didascalie": "",
+                    "Start": 175653,
+                    "End": 175662
+                },
+                {
+                    "Reply": "THE CAR!",
+                    "Didascalie": "",
+                    "Start": 175685,
+                    "End": 175694
+                },
+                {
+                    "Reply": "THE KEYS, STEPHEN...THE KEYS!",
+                    "Didascalie": "",
+                    "Start": 177237,
+                    "End": 177267
+                },
+                {
+                    "Reply": "JESUS CHRIST!",
+                    "Didascalie": "",
+                    "Start": 177373,
+                    "End": 177387
+                },
+                {
+                    "Reply": "KEEP 'EM...JUST KEEP 'EM...LOOK OUT!",
+                    "Didascalie": "",
+                    "Start": 177750,
+                    "End": 177787
+                },
+                {
+                    "Reply": "I DON'T KNOW WHAT ELSE TO DO...",
+                    "Didascalie": "",
+                    "Start": 189082,
+                    "End": 189114
+                },
+                {
+                    "Reply": "HIS LEG IS AWFUL...THE INFECTION IS SPREADING FAST.",
+                    "Didascalie": "",
+                    "Start": 189150,
+                    "End": 189202
+                },
+                {
+                    "Reply": "THIS MUST HAVE BEEN FOR TOUCH UP...IT LOOKS PERFECT.",
+                    "Didascalie": "",
+                    "Start": 190960,
+                    "End": 191016
+                },
+                {
+                    "Reply": "NO...",
+                    "Didascalie": "",
+                    "Start": 191294,
+                    "End": 191300
+                },
+                {
+                    "Reply": "LEAVE ME ALONE...IT'S ALRIGHT...IT'S MY PROBLEM.",
+                    "Didascalie": "",
+                    "Start": 191995,
+                    "End": 192044
+                },
+                {
+                    "Reply": "JUST GET OUTA HERE, STEPHEN...I DON'T WANT YOU HERE.",
+                    "Didascalie": "",
+                    "Start": 192072,
+                    "End": 192128
+                },
+                {
+                    "Reply": "I DON'T WANT YOU TO SEE ME THIS WAY...",
+                    "Didascalie": "",
+                    "Start": 192254,
+                    "End": 192293
+                },
+                {
+                    "Reply": "PLEASE GO...I'M ALRIGHT...PLEASE...",
+                    "Didascalie": "",
+                    "Start": 192404,
+                    "End": 192440
+                },
+                {
+                    "Reply": "THEY'RE STILL HERE.",
+                    "Didascalie": "",
+                    "Start": 196046,
+                    "End": 196066
+                },
+                {
+                    "Reply": "WHAT THE HELL ARE THEY?",
+                    "Didascalie": "",
+                    "Start": 196321,
+                    "End": 196345
+                },
+                {
+                    "Reply": "IT'S REALLY...ALL OVER, ISN'T IT...",
+                    "Didascalie": "",
+                    "Start": 204521,
+                    "End": 204557
+                },
+                {
+                    "Reply": "ADAM! NO NO!",
+                    "Didascalie": "",
+                    "Start": 205103,
+                    "End": 205116
+                },
+                {
+                    "Reply": "WHAT HAVE WE DONE TO OURSELVES?",
+                    "Didascalie": "",
+                    "Start": 208043,
+                    "End": 208075
+                },
+                {
+                    "Reply": "WELL, THEY KNOW WE'RE HERE, MAYBE WE SHOULD...",
+                    "Didascalie": "",
+                    "Start": 210113,
+                    "End": 210160
+                },
+                {
+                    "Reply": "WELL, IF THERE'S ONLY THREE OF THEM...",
+                    "Didascalie": "",
+                    "Start": 210318,
+                    "End": 210357
+                },
+                {
+                    "Reply": "I THINK WE SHOULD...",
+                    "Didascalie": "",
+                    "Start": 210667,
+                    "End": 210688
+                },
+                {
+                    "Reply": "WHAT'S HAPPENING?",
+                    "Didascalie": "",
+                    "Start": 212957,
+                    "End": 212975
+                },
+                {
+                    "Reply": "STEPHEN!",
+                    "Didascalie": "",
+                    "Start": 213063,
+                    "End": 213072
+                },
+                {
+                    "Reply": "NO.....NO!",
+                    "Didascalie": "",
+                    "Start": 228264,
+                    "End": 228275
+                },
+                {
+                    "Reply": "HE DOESN'T ANSWER THE RADIO...IT'S BEEN HOURS...",
+                    "Didascalie": "",
+                    "Start": 229677,
+                    "End": 229726
+                },
+                {
+                    "Reply": "FOR GOD SAKE. YOU BETTER COME ON BECAUSE IF I GET TO THINKIN' ABOUT THIS, I'LL JUST GO ON DOWN THERE AND LET THEM...LET THEM...",
+                    "Didascalie": "",
+                    "Start": 229761,
+                    "End": 229895
+                },
+                {
+                    "Reply": "WHAT IS IT?",
+                    "Didascalie": "",
+                    "Start": 230235,
+                    "End": 230247
+                },
+                {
+                    "Reply": "PETER...",
+                    "Didascalie": "",
+                    "Start": 230469,
+                    "End": 230478
+                },
+                {
+                    "Reply": "OH, JESUS, PETER...PLEASE...",
+                    "Didascalie": "",
+                    "Start": 230686,
+                    "End": 230715
+                },
+                {
+                    "Reply": "STEPHEN...STEPHEN...",
+                    "Didascalie": "",
+                    "Start": 230999,
+                    "End": 231020
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN",
+            "Replies": [
+                {
+                    "Reply": "MY TURN WITH THE COAT.",
+                    "Didascalie": "",
+                    "Start": 2394,
+                    "End": 2417
+                },
+                {
+                    "Reply": "THE GUYS ON THE CREW ARE GETTING CRAZY.",
+                    "Didascalie": "",
+                    "Start": 2607,
+                    "End": 2647
+                },
+                {
+                    "Reply": "NO! NO! MIGUEL...DIOS MIO...MIGUELITO...",
+                    "Didascalie": "",
+                    "Start": 27086,
+                    "End": 27127
+                },
+                {
+                    "Reply": "MIGUEL...MI VIDA...MIGUELITO...",
+                    "Didascalie": "",
+                    "Start": 27278,
+                    "End": 27310
+                }
+            ]
+        },
+        {
+            "Character": "TV MAN 1",
+            "Replies": [
+                {
+                    "Reply": "I DON'T BELIEVE THAT, DOCTOR, AND I DON'T BELIEVE...",
+                    "Didascalie": "",
+                    "Start": 3434,
+                    "End": 3490
+                },
+                {
+                    "Reply": "I'M NOT SO...",
+                    "Didascalie": "",
+                    "Start": 3570,
+                    "End": 3584
+                },
+                {
+                    "Reply": "I'M NOT SO SURE WHAT TO BELIEVE DOCTOR!",
+                    "Didascalie": "",
+                    "Start": 3689,
+                    "End": 3729
+                },
+                {
+                    "Reply": "ALL WE GET IS WHAT YOU PEOPLE TELL US.",
+                    "Didascalie": "(con't)",
+                    "Start": 3833,
+                    "End": 3876
+                },
+                {
+                    "Reply": "...FORGET ALL HUMAN DIGNITY...",
+                    "Didascalie": "",
+                    "Start": 4145,
+                    "End": 4176
+                },
+                {
+                    "Reply": "YOU'RE TALKING ABOUT ABANDONING EVERY HUMAN CODE OF BEHAVIOUR, AND THERE'S A LOT OF US WHO AREN'T READY FOR THAT DOCTOR FOSTER...",
+                    "Didascalie": "",
+                    "Start": 4337,
+                    "End": 4473
+                },
+                {
+                    "Reply": "WELL I DON'T BELIEVE IN GHOSTS, DOCTOR.",
+                    "Didascalie": "",
+                    "Start": 7666,
+                    "End": 7706
+                },
+                {
+                    "Reply": "PEOPLE AREN'T WILLING TO ACCEPT YOUR SOLUTIONS, DOCTOR, AND I, FOR ONE, DON'T BLAME THEM.",
+                    "Didascalie": "",
+                    "Start": 9607,
+                    "End": 9700
+                }
+            ]
+        },
+        {
+            "Character": "TV MAN 2",
+            "Replies": [
+                {
+                    "Reply": "IT'S FACT... IT'S FACT...",
+                    "Didascalie": "",
+                    "Start": 3929,
+                    "End": 3955
+                },
+                {
+                    "Reply": "HUMAN DIG... YOU CAN'T...",
+                    "Didascalie": "",
+                    "Start": 4104,
+                    "End": 4130
+                },
+                {
+                    "Reply": "YOU'RE NOT RUNNING A TALK SHOW HERE, MR.",
+                    "Didascalie": "",
+                    "Start": 4191,
+                    "End": 4232
+                },
+                {
+                    "Reply": "THESE ARE NOT GHOSTS. NOR ARE THESE HUMANS!",
+                    "Didascalie": "",
+                    "Start": 7721,
+                    "End": 7765
+                },
+                {
+                    "Reply": "YOU HAVE NOT LISTENED...YOU HAVE NOT LISTENED...",
+                    "Didascalie": "",
+                    "Start": 8182,
+                    "End": 8231
+                },
+                {
+                    "Reply": "THE SITUATION MUST BE CONTROLLED...BEFORE IT'S TOO LATE...THEY ARE MULTIPLYING TOO RAPIDLY...",
+                    "Didascalie": "",
+                    "Start": 8826,
+                    "End": 8923
+                }
+            ]
+        },
+        {
+            "Character": "MAN",
+            "Replies": [
+                {
+                    "Reply": "FRANNIE, GET ON THE NEW LIST OF RESCUE STATIONS.",
+                    "Didascalie": "",
+                    "Start": 4858,
+                    "End": 4907
+                },
+                {
+                    "Reply": "HEY, SHE'S ALRIGHT.",
+                    "Didascalie": "",
+                    "Start": 6368,
+                    "End": 6388
+                },
+                {
+                    "Reply": "SHE'S ALRIGHT.",
+                    "Didascalie": "",
+                    "Start": 6523,
+                    "End": 6538
+                },
+                {
+                    "Reply": "SOMEBODY STOLE IT. THERE'S A LOT OF 'EM MISSING.",
+                    "Didascalie": "",
+                    "Start": 6651,
+                    "End": 6703
+                },
+                {
+                    "Reply": "SHE'S ALRIGHT. LET HER THROUGH.",
+                    "Didascalie": "(to officer)",
+                    "Start": 6718,
+                    "End": 6754
+                }
+            ]
+        },
+        {
+            "Character": "CHARLIE",
+            "Replies": [
+                {
+                    "Reply": "SAY AGAIN...CAN'T HEAR YOU...",
+                    "Didascalie": "(into receiver)",
+                    "Start": 5207,
+                    "End": 5242
+                },
+                {
+                    "Reply": "HALF THOSE ARE INOPERATIVE ANY MORE.",
+                    "Didascalie": "",
+                    "Start": 5410,
+                    "End": 5447
+                },
+                {
+                    "Reply": "SAY AGAIN, NEW HOPE...",
+                    "Didascalie": "(into receiver)",
+                    "Start": 5681,
+                    "End": 5708
+                },
+                {
+                    "Reply": "I'M DOIN' WHAT I CAN. THESE ARE DEFINITE AS OF NOW. SKIP AND DUSTY ARE ON THE RADIO, TOO. GOOD LUCK.",
+                    "Didascalie": "",
+                    "Start": 5834,
+                    "End": 5941
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN",
+            "Replies": [
+                {
+                    "Reply": "WE'RE SENDING PEOPLE TO PLACES THAT HAVE CLOSED DOWN. I'M GONNA KILL THE OLD LIST.",
+                    "Didascalie": "",
+                    "Start": 6150,
+                    "End": 6236
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER",
+            "Replies": [
+                {
+                    "Reply": "WHERE'S YOUR BADGE?",
+                    "Didascalie": "",
+                    "Start": 6399,
+                    "End": 6419
+                }
+            ]
+        },
+        {
+            "Character": "DUSTY",
+            "Replies": [
+                {
+                    "Reply": "THEY'RE DROPPIN' LIKE FLIES. HERE'S A FEW.",
+                    "Didascalie": "",
+                    "Start": 9160,
+                    "End": 9203
+                }
+            ]
+        },
+        {
+            "Character": "GIVENS",
+            "Replies": [
+                {
+                    "Reply": "NOBODY HAS THE AUTHORITY TO DO THAT, I WANT...",
+                    "Didascalie": "",
+                    "Start": 10119,
+                    "End": 10166
+                },
+                {
+                    "Reply": "GARRET, WHO TOLD YOU TO KILL THE SUPERS?",
+                    "Didascalie": "",
+                    "Start": 10225,
+                    "End": 10266
+                },
+                {
+                    "Reply": "I WANT THOSE SUPERS ON THE AIR ALL THE TIME.",
+                    "Didascalie": "",
+                    "Start": 10328,
+                    "End": 10373
+                },
+                {
+                    "Reply": "LUCAS...LUCAS, WHAT THE HELL ARE YOU DOING...",
+                    "Didascalie": "",
+                    "Start": 10894,
+                    "End": 10940
+                },
+                {
+                    "Reply": "OFFICER...STOP THOSE MEN...",
+                    "Didascalie": "",
+                    "Start": 11576,
+                    "End": 11604
+                }
+            ]
+        },
+        {
+            "Character": "LUCAS",
+            "Replies": [
+                {
+                    "Reply": "ANYBODY NEED A RIDE!",
+                    "Didascalie": "",
+                    "Start": 11000,
+                    "End": 11021
+                }
+            ]
+        },
+        {
+            "Character": "VOICES",
+            "Replies": [
+                {
+                    "Reply": "WHAT THE HELL'S GOIN' ON IN THERE.",
+                    "Didascalie": "",
+                    "Start": 11459,
+                    "End": 11494
+                }
+            ]
+        },
+        {
+            "Character": "STEVE",
+            "Replies": [
+                {
+                    "Reply": "FRANNIE...AT NINE O'CLOCK MEET ME ON THE ROOF.",
+                    "Didascalie": "",
+                    "Start": 14478,
+                    "End": 14525
+                },
+                {
+                    "Reply": "WE'RE GETTING OUT. IN THE CHOPPER.",
+                    "Didascalie": "",
+                    "Start": 14643,
+                    "End": 14678
+                },
+                {
+                    "Reply": "NINE P.M. ALRIGHT?",
+                    "Didascalie": "",
+                    "Start": 14806,
+                    "End": 14825
+                },
+                {
+                    "Reply": "WE'VE GOT TO NOTHING, FRAN. WE'VE GOT TO SURVIVE. SOMEBODY'S GOT TO SURVIVE. NOW YOU COULD BE UP THERE AT NINE. DON'T MAKE ME COME LOOKIN' FOR YA.",
+                    "Didascalie": "",
+                    "Start": 14877,
+                    "End": 15033
+                },
+                {
+                    "Reply": "COME ON...I NEED YOU.",
+                    "Didascalie": "",
+                    "Start": 39719,
+                    "End": 39741
+                },
+                {
+                    "Reply": "I DON'T SEE ROGER. WE'LL GIVE HIM TEN MINUTES.",
+                    "Didascalie": "",
+                    "Start": 39963,
+                    "End": 40010
+                },
+                {
+                    "Reply": "YOU HAVEN'T BEEN OUT IN IT AT ALL.",
+                    "Didascalie": "",
+                    "Start": 40199,
+                    "End": 40234
+                },
+                {
+                    "Reply": "JUST LIKE THIS...LIKE A CAR...",
+                    "Didascalie": "",
+                    "Start": 41054,
+                    "End": 41085
+                },
+                {
+                    "Reply": "THAT'S IT...JUST HOLD HER THERE 'TIL SHE SPITS OUT AT YA.",
+                    "Didascalie": "",
+                    "Start": 41151,
+                    "End": 41212
+                },
+                {
+                    "Reply": "I HOPE IT'S ROGER.",
+                    "Didascalie": "",
+                    "Start": 42675,
+                    "End": 42694
+                },
+                {
+                    "Reply": "I'LL BE RIGHT THERE.",
+                    "Didascalie": "",
+                    "Start": 42734,
+                    "End": 42755
+                },
+                {
+                    "Reply": "WE'RE WITH J.A.S...WE...",
+                    "Didascalie": "",
+                    "Start": 44402,
+                    "End": 44427
+                },
+                {
+                    "Reply": "RIGHT...THAT'S ME...I'M STEVE ANDREW...",
+                    "Didascalie": "(trying to capitalise on his minor celebrity power)",
+                    "Start": 45235,
+                    "End": 45279
+                },
+                {
+                    "Reply": "LITTLE HARDER ON THE FUEL, BUT WE'LL BE OK.",
+                    "Didascalie": "",
+                    "Start": 49162,
+                    "End": 49206
+                },
+                {
+                    "Reply": "WHERE YA HEADED?",
+                    "Didascalie": "",
+                    "Start": 49487,
+                    "End": 49504
+                },
+                {
+                    "Reply": "STRAIGHT UP.",
+                    "Didascalie": "",
+                    "Start": 49702,
+                    "End": 49715
+                },
+                {
+                    "Reply": "YOU PETER?",
+                    "Didascalie": "",
+                    "Start": 50530,
+                    "End": 50541
+                },
+                {
+                    "Reply": "ANY MORE WATER?",
+                    "Didascalie": "",
+                    "Start": 51955,
+                    "End": 51971
+                },
+                {
+                    "Reply": "I KNOW EXACTLY WHERE WE ARE.",
+                    "Didascalie": "",
+                    "Start": 52360,
+                    "End": 52389
+                },
+                {
+                    "Reply": "PASSED IT ABOUT AN HOUR AGO.",
+                    "Didascalie": "",
+                    "Start": 52419,
+                    "End": 52448
+                },
+                {
+                    "Reply": "WE'RE PRETTY LOW ON FUEL. I'M JUST WAITIN' FOR FULL LIGHT SO WE CAN SEE WHAT WE'RE LANDIN' IN.",
+                    "Didascalie": "",
+                    "Start": 52505,
+                    "End": 52606
+                },
+                {
+                    "Reply": "WE'RE STILL PRETTY CLOSE TO JOHNSTOWN. WE'RE BETTER OFF AWAY FROM THE BIG CITIES.",
+                    "Didascalie": "",
+                    "Start": 53126,
+                    "End": 53211
+                },
+                {
+                    "Reply": "SHIT, MAN, DAMN NEAR EMPTY.",
+                    "Didascalie": "",
+                    "Start": 54075,
+                    "End": 54103
+                },
+                {
+                    "Reply": "TO WHERE? WHERE THE HELL CAN THEY GO?",
+                    "Didascalie": "",
+                    "Start": 54215,
+                    "End": 54253
+                },
+                {
+                    "Reply": "THERE'S A GOOD BIT LEFT IN THIS PUMP.",
+                    "Didascalie": "",
+                    "Start": 54428,
+                    "End": 54466
+                },
+                {
+                    "Reply": "DAMN. I GOTTA GET IT CLOSER.",
+                    "Didascalie": "",
+                    "Start": 54547,
+                    "End": 54576
+                },
+                {
+                    "Reply": "I'M GONNA SEE WHAT'S LEFT IN THE HANGARS.",
+                    "Didascalie": "",
+                    "Start": 55825,
+                    "End": 55867
+                },
+                {
+                    "Reply": "ROGER...ROGER...",
+                    "Didascalie": "",
+                    "Start": 57885,
+                    "End": 57902
+                },
+                {
+                    "Reply": "JUST RUN.",
+                    "Didascalie": "",
+                    "Start": 58450,
+                    "End": 58460
+                },
+                {
+                    "Reply": "RUN RIGHT PAST 'EM...RIGHT AROUND 'EM.",
+                    "Didascalie": "",
+                    "Start": 58558,
+                    "End": 58597
+                },
+                {
+                    "Reply": "RUN, FRANNIE. GODDAMMIT, I'M RIGHT BEHIND YOU.",
+                    "Didascalie": "",
+                    "Start": 58673,
+                    "End": 58720
+                },
+                {
+                    "Reply": "RUN, FRANNIE. MOVE!",
+                    "Didascalie": "",
+                    "Start": 59034,
+                    "End": 59054
+                },
+                {
+                    "Reply": "WE GOTTA FIND FUEL. MAYBE CLOSER TO PITTSBURGH.",
+                    "Didascalie": "",
+                    "Start": 66762,
+                    "End": 66810
+                },
+                {
+                    "Reply": "THERE'S THE LOCKS ALONG THE ALLGHENY.",
+                    "Didascalie": "(reluctantly going back to his charts)",
+                    "Start": 67453,
+                    "End": 67495
+                },
+                {
+                    "Reply": "THEY'RE JUST OUT AFTER SCAVENGERS...LOOTERS...",
+                    "Didascalie": "",
+                    "Start": 67617,
+                    "End": 67664
+                },
+                {
+                    "Reply": "I GOT J.A.S. ID. SO DOES FRAN.",
+                    "Didascalie": "(angrily)",
+                    "Start": 67734,
+                    "End": 67769
+                },
+                {
+                    "Reply": "YEAH, AND WE CAN'T GO DOWN THERE!",
+                    "Didascalie": "",
+                    "Start": 70430,
+                    "End": 70464
+                },
+                {
+                    "Reply": "SOME KIND OF INSTINCT. MEMORY...OF WHAT THEY USED TO DO. THIS WAS AN IMPORTANT PLACE IN THEIR LIVES.",
+                    "Didascalie": "(also looking down)",
+                    "Start": 72084,
+                    "End": 72195
+                },
+                {
+                    "Reply": "HOW DO WE GET DOWN THERE?",
+                    "Didascalie": "",
+                    "Start": 74290,
+                    "End": 74316
+                },
+                {
+                    "Reply": "JESUS CHRIST...",
+                    "Didascalie": "",
+                    "Start": 90631,
+                    "End": 90647
+                },
+                {
+                    "Reply": "IT'S ALRIGHT.",
+                    "Didascalie": "",
+                    "Start": 92110,
+                    "End": 92124
+                },
+                {
+                    "Reply": "IT'S ALRIGHT, I'M TELLIN 'YA. THOSE THINGS\t\t\tDON'T MOVE FAST ENOUGH TO CATCH US.\tMore gunfire can be heard.244\tNow the giant gate rolls up with a loud rumble. Peter ducks into the store even as the gate is still rising, but the inertia of the great metal cage carries the lip up out of Peter's grasp. He jumps to try to catch it, but he misses. It jerks up into its fully open position and rolls back down slightly, but still Peter cannot reach the lip. It slides back to rest about three feet above Peter's fingertips.245\tThe Zombies advance.246\tRoger drops another with a clean shot through the head, then he backs into the archway of the Department Store entrance. Peter is desperately looking around for something to stand on to reach the gate.247\tThe Zombies are very close to the arch now, advancing steadily.",
+                    "Didascalie": "",
+                    "Start": 94955,
+                    "End": 95780
+                },
+                {
+                    "Reply": "WHAT DO WE DO...",
+                    "Didascalie": "",
+                    "Start": 115722,
+                    "End": 115739
+                },
+                {
+                    "Reply": "I DON'T KNOW IF IT'S JUST HEATING DUCTS OR IF IT'S SOME KIND OF ACCESS. I SAW IT ON A MAP.",
+                    "Didascalie": "",
+                    "Start": 118313,
+                    "End": 118407
+                },
+                {
+                    "Reply": "WHY THE HELL WOULD THEY BE LOCKED?",
+                    "Didascalie": "",
+                    "Start": 119760,
+                    "End": 119795
+                },
+                {
+                    "Reply": "I CAN'T...I...",
+                    "Didascalie": "",
+                    "Start": 127724,
+                    "End": 127739
+                },
+                {
+                    "Reply": "JESUS CHRIST!",
+                    "Didascalie": "",
+                    "Start": 129128,
+                    "End": 129142
+                },
+                {
+                    "Reply": "FRANNIE!",
+                    "Didascalie": "",
+                    "Start": 129489,
+                    "End": 129498
+                },
+                {
+                    "Reply": "FRANNIE...ARE YOU ALRIGHT?",
+                    "Didascalie": "",
+                    "Start": 130294,
+                    "End": 130321
+                },
+                {
+                    "Reply": "FRANNIE...IT'S OK...COME ON, IT'S OK...ARE YOU HURT, HUN? DID YA HURT YOURSELF? FRANNIE...",
+                    "Didascalie": "",
+                    "Start": 130738,
+                    "End": 130832
+                },
+                {
+                    "Reply": "WE'RE OK...WE'RE ALL OK...WE GOT A LOT OF STUFF...ALL KINDS OF STUFF...",
+                    "Didascalie": "",
+                    "Start": 131350,
+                    "End": 131425
+                },
+                {
+                    "Reply": "THIS IS A TERRIFIC PLACE...FRANNIE. THIS PLACE IS PERFECT. WE GOT IT MADE IN HERE...FRANNIE.",
+                    "Didascalie": "",
+                    "Start": 131592,
+                    "End": 131688
+                },
+                {
+                    "Reply": "ONLY ABOUT NINE.",
+                    "Didascalie": "",
+                    "Start": 132998,
+                    "End": 133015
+                },
+                {
+                    "Reply": "AS LONG AS WE'RE GETTING THE PATTERN, THAT MEANS THEY'RE SENDING.",
+                    "Didascalie": "",
+                    "Start": 133195,
+                    "End": 133264
+                },
+                {
+                    "Reply": "I KNOW J.A.S IS OUT BY NOW...IT WAS A MADHOUSE BACK THERE...PEOPLE ARE CRAZY...IF THEY'D JUST ORGANISE...IT'S TOTAL CONFUSION...I DON'T BELIEVE IT'S GOTTEN THIS BAD. I DON'T BELIEVE THEY CAN'T HANDLE IT. LOOK AT US. LOOT AT WHAT WE WERE ABLE TO DO TODAY.",
+                    "Didascalie": "",
+                    "Start": 133739,
+                    "End": 134009
+                },
+                {
+                    "Reply": "WE KNOCKED THE SHIT OUT OF 'EM AND THEY NEVER TOUCHED US...NOT REALLY.",
+                    "Didascalie": "",
+                    "Start": 134233,
+                    "End": 134307
+                },
+                {
+                    "Reply": "HEY...YOU OK?",
+                    "Didascalie": "",
+                    "Start": 135566,
+                    "End": 135580
+                },
+                {
+                    "Reply": "JESUS, FRANNIE, THIS SET UP IS SENSATIONAL.",
+                    "Didascalie": "(taking her in his arms)",
+                    "Start": 135786,
+                    "End": 135834
+                },
+                {
+                    "Reply": "COME ON, FRANNIE, YOU WERE SLEEPING.",
+                    "Didascalie": "",
+                    "Start": 136029,
+                    "End": 136066
+                },
+                {
+                    "Reply": "WE CAN'T HARDLY CARRY ANYTHING IN THAT LITTLE BIRD.",
+                    "Didascalie": "",
+                    "Start": 136518,
+                    "End": 136570
+                },
+                {
+                    "Reply": "FRANNIE...",
+                    "Didascalie": "",
+                    "Start": 138520,
+                    "End": 138531
+                },
+                {
+                    "Reply": "DAMMIT, FRAN, YOU KNOW HOW MANY TIMES WE'D HAVE TO LAND FOR FUEL TRYIN' TO MAKE IT UP NORTH?",
+                    "Didascalie": "",
+                    "Start": 138563,
+                    "End": 138659
+                },
+                {
+                    "Reply": "COME ON...GET SOME SLEEP.",
+                    "Didascalie": "",
+                    "Start": 138920,
+                    "End": 138946
+                },
+                {
+                    "Reply": "FRANNIE. COME ON.",
+                    "Didascalie": "",
+                    "Start": 138981,
+                    "End": 138999
+                },
+                {
+                    "Reply": "I'M NOT JUST BEING STUBBORN. I REALLY THINK THIS IS BETTER. HELL. YOU'RE THE ONE'S BEEN WANTIN' TO SET UP HOUSE.",
+                    "Didascalie": "",
+                    "Start": 139458,
+                    "End": 139577
+                },
+                {
+                    "Reply": "SURE. WHAT DP YOU MEAN?",
+                    "Didascalie": "",
+                    "Start": 143518,
+                    "End": 143542
+                },
+                {
+                    "Reply": "HEY, FRANNIE, COME ON...",
+                    "Didascalie": "",
+                    "Start": 143689,
+                    "End": 143714
+                },
+                {
+                    "Reply": "JESUS, FRAN...",
+                    "Didascalie": "",
+                    "Start": 143938,
+                    "End": 143953
+                },
+                {
+                    "Reply": "I KNOW...I KNOW...IT'S ALRIGHT!",
+                    "Didascalie": "",
+                    "Start": 145453,
+                    "End": 145485
+                },
+                {
+                    "Reply": "YEAH.",
+                    "Didascalie": "",
+                    "Start": 145542,
+                    "End": 145548
+                },
+                {
+                    "Reply": "YEAH, WE'LL BE ALRIGHT.",
+                    "Didascalie": "",
+                    "Start": 145784,
+                    "End": 145808
+                },
+                {
+                    "Reply": "WELL IF WE CAN GET SOME MORE FLARES...OR MAYBE SOME OF THOSE PROPANE JOBS.",
+                    "Didascalie": "",
+                    "Start": 167750,
+                    "End": 167828
+                },
+                {
+                    "Reply": "WHAT?",
+                    "Didascalie": "",
+                    "Start": 170328,
+                    "End": 170334
+                },
+                {
+                    "Reply": "IT'S A LONG HAUL DOWN TO THE ENTRANCE.",
+                    "Didascalie": "",
+                    "Start": 175109,
+                    "End": 175148
+                },
+                {
+                    "Reply": "YOU JUST STAY HERE AND BE READY TO UPEN UP FOR US.",
+                    "Didascalie": "",
+                    "Start": 175594,
+                    "End": 175645
+                },
+                {
+                    "Reply": "IT'S GOIN' UP!",
+                    "Didascalie": "",
+                    "Start": 176240,
+                    "End": 176255
+                },
+                {
+                    "Reply": "YOU MOTHER!",
+                    "Didascalie": "",
+                    "Start": 177730,
+                    "End": 177742
+                },
+                {
+                    "Reply": "WATCH IS ROGER...ROGER!",
+                    "Didascalie": "",
+                    "Start": 180070,
+                    "End": 180094
+                },
+                {
+                    "Reply": "I'LL DRIVE IT...",
+                    "Didascalie": "",
+                    "Start": 181681,
+                    "End": 181698
+                },
+                {
+                    "Reply": "CAN'T THEY SMASH THE GLASS?",
+                    "Didascalie": "",
+                    "Start": 184108,
+                    "End": 184136
+                },
+                {
+                    "Reply": "WE'RE OK...WE GOT IT MADE...IT'GONNA WORK.",
+                    "Didascalie": "",
+                    "Start": 185063,
+                    "End": 185106
+                },
+                {
+                    "Reply": "HOW MANY YOU FIGURE ARE ALREADY IN...",
+                    "Didascalie": "",
+                    "Start": 185539,
+                    "End": 185577
+                },
+                {
+                    "Reply": "WHY CAN'T WE JUST BOARD UP THE STAIRWAY. HELL, THEY CAN'T EVEN GET THROUGH A STACK OF CARTONS.",
+                    "Didascalie": "",
+                    "Start": 187914,
+                    "End": 188012
+                },
+                {
+                    "Reply": "YOU'RE DOIN' FINE.",
+                    "Didascalie": "",
+                    "Start": 189123,
+                    "End": 189142
+                },
+                {
+                    "Reply": "ANYTHING ELSE YOU WANT BEFORE WE CLOSE IT OFF?",
+                    "Didascalie": "(to Fran)",
+                    "Start": 191235,
+                    "End": 191286
+                },
+                {
+                    "Reply": "FRANNIE...",
+                    "Didascalie": "",
+                    "Start": 192053,
+                    "End": 192064
+                },
+                {
+                    "Reply": "DON'T YA WONDER WHAT THE ARCHAEOLOGISTS ARE GONNA THINK...GUYS IN THE FUTURE...DIGGIN' THE PLACE UP. IMAGINE ALL THE STUFF IN THESE BOXES...",
+                    "Didascalie": "",
+                    "Start": 193846,
+                    "End": 193993
+                },
+                {
+                    "Reply": "THEY'RE AFTER US...THEY KNOW WE'RE IN HERE.",
+                    "Didascalie": "",
+                    "Start": 196075,
+                    "End": 196119
+                },
+                {
+                    "Reply": "WHAT?",
+                    "Didascalie": "",
+                    "Start": 196420,
+                    "End": 196426
+                },
+                {
+                    "Reply": "GET MORE VALIUM IN HIM...",
+                    "Didascalie": "",
+                    "Start": 196879,
+                    "End": 196905
+                },
+                {
+                    "Reply": "GET ANOTHER ONE...COME ON...",
+                    "Didascalie": "",
+                    "Start": 197021,
+                    "End": 197050
+                },
+                {
+                    "Reply": "THEY MIGHT COME BACK ON.",
+                    "Didascalie": "",
+                    "Start": 207643,
+                    "End": 207668
+                },
+                {
+                    "Reply": "OK, NOW EASY...EASY...BRING 'ER DOWN...",
+                    "Didascalie": "",
+                    "Start": 208251,
+                    "End": 208291
+                },
+                {
+                    "Reply": "EASY...STABILISE IT...THAT'S IT...",
+                    "Didascalie": "",
+                    "Start": 208471,
+                    "End": 208506
+                },
+                {
+                    "Reply": "THAT'S IT...THAT'S IT...YOU GOT IT!",
+                    "Didascalie": "",
+                    "Start": 208642,
+                    "End": 208678
+                },
+                {
+                    "Reply": "YOU DID IT...YOU DID IT, HON...YOU DID IT...",
+                    "Didascalie": "",
+                    "Start": 208811,
+                    "End": 208856
+                },
+                {
+                    "Reply": "HOLY SHIT!",
+                    "Didascalie": "",
+                    "Start": 212348,
+                    "End": 212359
+                },
+                {
+                    "Reply": "THERE'S HUNDREDS OF THOSE CREATURES DOWN THERE.",
+                    "Didascalie": "",
+                    "Start": 212418,
+                    "End": 212466
+                },
+                {
+                    "Reply": "I DUNNO...SEVERAL OF 'EM...",
+                    "Didascalie": "",
+                    "Start": 212643,
+                    "End": 212671
+                },
+                {
+                    "Reply": "THERE'S FIFTEEN OR TWENTY OF 'EM...",
+                    "Didascalie": "",
+                    "Start": 212984,
+                    "End": 213020
+                },
+                {
+                    "Reply": "WE'RE JUST GONNA SHUT THE GATES.",
+                    "Didascalie": "",
+                    "Start": 213081,
+                    "End": 213114
+                },
+                {
+                    "Reply": "OK...",
+                    "Didascalie": "",
+                    "Start": 214430,
+                    "End": 214436
+                },
+                {
+                    "Reply": "YEAH.",
+                    "Didascalie": "",
+                    "Start": 214473,
+                    "End": 214479
+                },
+                {
+                    "Reply": "THEY'RE COMIN' UP, PETER...THEY'RE COMIN' UP THE STAIRS.",
+                    "Didascalie": "",
+                    "Start": 219400,
+                    "End": 219460
+                },
+                {
+                    "Reply": "PETER...PETER...",
+                    "Didascalie": "",
+                    "Start": 220241,
+                    "End": 220258
+                },
+                {
+                    "Reply": "PETER!",
+                    "Didascalie": "",
+                    "Start": 226219,
+                    "End": 226226
+                },
+                {
+                    "Reply": "IN THE ELEVATOR!",
+                    "Didascalie": "",
+                    "Start": 226268,
+                    "End": 226285
+                }
+            ]
+        },
+        {
+            "Character": "ROGER",
+            "Replies": [
+                {
+                    "Reply": "LIGHTS.",
+                    "Didascalie": "(to himself)",
+                    "Start": 16305,
+                    "End": 16314
+                },
+                {
+                    "Reply": "I'M GIVIN' YOU THREE MINUTES, MARTINEZ...",
+                    "Didascalie": "",
+                    "Start": 17428,
+                    "End": 17470
+                },
+                {
+                    "Reply": "THERE ARE NO CHARGES AGAINST YOU...",
+                    "Didascalie": "",
+                    "Start": 17593,
+                    "End": 17629
+                },
+                {
+                    "Reply": "YET.",
+                    "Didascalie": "",
+                    "Start": 17714,
+                    "End": 17719
+                },
+                {
+                    "Reply": "AND COUNTING.",
+                    "Didascalie": "",
+                    "Start": 17768,
+                    "End": 17782
+                },
+                {
+                    "Reply": "There is a long silence.",
+                    "Didascalie": "(he looks at his watch)",
+                    "Start": 17808,
+                    "End": 17836
+                },
+                {
+                    "Reply": "COME ON, MARTINEZ!",
+                    "Didascalie": "",
+                    "Start": 17845,
+                    "End": 17864
+                },
+                {
+                    "Reply": "KEEP COOL. JUST DON'T POP OFF IN THERE WHEN WE GO IN.",
+                    "Didascalie": "",
+                    "Start": 18534,
+                    "End": 18591
+                },
+                {
+                    "Reply": "YOU GONNA BE ALRIGHT?",
+                    "Didascalie": "(to the boy)",
+                    "Start": 18880,
+                    "End": 18906
+                },
+                {
+                    "Reply": "HOLD IT...",
+                    "Didascalie": "",
+                    "Start": 20942,
+                    "End": 20953
+                },
+                {
+                    "Reply": "HOLD IT, KID...DON'T RUN OUT THERE!",
+                    "Didascalie": "",
+                    "Start": 21046,
+                    "End": 21082
+                },
+                {
+                    "Reply": "Wooley kicks in the door of another apartment. Roger charges at him and grabs him around the shoulders. The big man resists. His gun fires and bullets fly wildly. He struggles against Roger, but Roger manages to hold on.",
+                    "Didascalie": "",
+                    "Start": 22971,
+                    "End": 23195
+                },
+                {
+                    "Reply": "GIMME A HAND...SOMEBODY...",
+                    "Didascalie": "",
+                    "Start": 23204,
+                    "End": 23231
+                },
+                {
+                    "Reply": "GIMME A HAND.",
+                    "Didascalie": "",
+                    "Start": 23415,
+                    "End": 23429
+                },
+                {
+                    "Reply": "GODDAMMIT...HELP ME...HE'S CRAZY!",
+                    "Didascalie": "",
+                    "Start": 23608,
+                    "End": 23642
+                },
+                {
+                    "Reply": "I DIDN'T SEE NOTHIN.",
+                    "Didascalie": "",
+                    "Start": 29520,
+                    "End": 29541
+                },
+                {
+                    "Reply": "YOU RUNNIN?",
+                    "Didascalie": "",
+                    "Start": 29687,
+                    "End": 29699
+                },
+                {
+                    "Reply": "I DON'T JUST MEAN 'CAUSE OF WOOLEY.",
+                    "Didascalie": "",
+                    "Start": 29751,
+                    "End": 29787
+                },
+                {
+                    "Reply": "THERE'S A LOT OF PEOPLE RUNNIN'.",
+                    "Didascalie": "",
+                    "Start": 29847,
+                    "End": 29880
+                },
+                {
+                    "Reply": "I COULD RUN RIGHT TONIGHT.",
+                    "Didascalie": "",
+                    "Start": 29948,
+                    "End": 29975
+                },
+                {
+                    "Reply": "YOU THINK IT'S RIGHT TO RUN?",
+                    "Didascalie": "",
+                    "Start": 30201,
+                    "End": 30230
+                },
+                {
+                    "Reply": "LET'S GET HIM TO THE MEDICS...",
+                    "Didascalie": "",
+                    "Start": 31475,
+                    "End": 31506
+                },
+                {
+                    "Reply": "THEY'RE TAKIN' EVERYONE DOWN...THEY PROBABLY BROUGHT HER DOWN...COME ONE...",
+                    "Didascalie": "",
+                    "Start": 31634,
+                    "End": 31713
+                },
+                {
+                    "Reply": "THEY...ATTACK...EACH OTHER...",
+                    "Didascalie": "",
+                    "Start": 37698,
+                    "End": 37728
+                },
+                {
+                    "Reply": "WHY DID THESE PEOPLE KEEP THEM HERE? WHY DON'T THEY TURN THEM OVER...OR...OR DESTROY THEM THEMSELVES...IT'S INSANE...WHY DO THEY DO IT?",
+                    "Didascalie": "",
+                    "Start": 37793,
+                    "End": 37938
+                },
+                {
+                    "Reply": "WHAT'S THE PROBLEM, OFFICER?",
+                    "Didascalie": "",
+                    "Start": 47363,
+                    "End": 47392
+                },
+                {
+                    "Reply": "YOU OK?",
+                    "Didascalie": "",
+                    "Start": 48401,
+                    "End": 48409
+                },
+                {
+                    "Reply": "HIS NAME'S PETER. HE'S ALRIGHT.",
+                    "Didascalie": "",
+                    "Start": 48481,
+                    "End": 48513
+                },
+                {
+                    "Reply": "LET'S HUSTLE.",
+                    "Didascalie": "",
+                    "Start": 48576,
+                    "End": 48590
+                },
+                {
+                    "Reply": "YOU GUYS BETTER MOVE IT. THERE'S A RADIO REPORT ABOUT THE DOCK BEIN' KNOCKED OUT.",
+                    "Didascalie": "(to the other Policemen)",
+                    "Start": 48927,
+                    "End": 49016
+                },
+                {
+                    "Reply": "AN EX-WIFE.",
+                    "Didascalie": "",
+                    "Start": 50509,
+                    "End": 50521
+                },
+                {
+                    "Reply": "LOTTA PRIVATE PLANES IN FARM COUNTRY LIKE THIS.",
+                    "Didascalie": "",
+                    "Start": 54112,
+                    "End": 54160
+                },
+                {
+                    "Reply": "PETER.",
+                    "Didascalie": "",
+                    "Start": 65123,
+                    "End": 65130
+                },
+                {
+                    "Reply": "NO, WE'VE GOTTA STAY OUT OF THE BIG CITIES.",
+                    "Didascalie": "",
+                    "Start": 66819,
+                    "End": 66863
+                },
+                {
+                    "Reply": "WE'RE GETTIN' OUTA HERE FINE.",
+                    "Didascalie": "",
+                    "Start": 67024,
+                    "End": 67054
+                },
+                {
+                    "Reply": "WE GOTTA STAY IN THE STICKS. THERE'S BOUND TO BE MORE LITTLE PRIVATE AIRPORTS UPSTATE.",
+                    "Didascalie": "",
+                    "Start": 67316,
+                    "End": 67406
+                },
+                {
+                    "Reply": "PROB'LY STILL MANNED. WE DON'T NEED THOSE HASSLES EITHER.",
+                    "Didascalie": "",
+                    "Start": 67547,
+                    "End": 67608
+                },
+                {
+                    "Reply": "WAIT A MINUTE, WAIT A MINUTE...THEY CAN'T\t\t\tGET UP HERE.",
+                    "Didascalie": "",
+                    "Start": 70365,
+                    "End": 70422
+                },
+                {
+                    "Reply": "LET'S CHECK IT OUT.",
+                    "Didascalie": "",
+                    "Start": 70473,
+                    "End": 70493
+                },
+                {
+                    "Reply": "I HAVEN'T SEEN ANY OF THEM UP ON THE SECOND FLOOR.",
+                    "Didascalie": "",
+                    "Start": 71628,
+                    "End": 71682
+                },
+                {
+                    "Reply": "IF WE CAN GET IN UP TOP...",
+                    "Didascalie": "",
+                    "Start": 71754,
+                    "End": 71781
+                },
+                {
+                    "Reply": "CAN'T BE ENOUGH TO POWER THIS PLACE.",
+                    "Didascalie": "",
+                    "Start": 72773,
+                    "End": 72810
+                },
+                {
+                    "Reply": "IT'S PRETTY LIT UP IN THERE.",
+                    "Didascalie": "",
+                    "Start": 72853,
+                    "End": 72882
+                },
+                {
+                    "Reply": "THESE DON'T GO DOWN INTO THE MALL.",
+                    "Didascalie": "",
+                    "Start": 73230,
+                    "End": 73265
+                },
+                {
+                    "Reply": "HEY, OVER HERE. THERE'S SOMETHIN' HERE.",
+                    "Didascalie": "",
+                    "Start": 73770,
+                    "End": 73810
+                },
+                {
+                    "Reply": "STORAGE?",
+                    "Didascalie": "",
+                    "Start": 73931,
+                    "End": 73940
+                },
+                {
+                    "Reply": "AND BOXES OF CANNED FOOD!",
+                    "Didascalie": "",
+                    "Start": 74255,
+                    "End": 74281
+                },
+                {
+                    "Reply": "DOUBLE DAMN! LOOKS LIKE A FREE LUNCH, BUDDY.183\tIn the first room Stephen has started to rip open one of the cartons.",
+                    "Didascalie": "",
+                    "Start": 76484,
+                    "End": 76603
+                },
+                {
+                    "Reply": "YOU BRING A CAN OPENER?",
+                    "Didascalie": "",
+                    "Start": 76659,
+                    "End": 76683
+                },
+                {
+                    "Reply": "THEN DON'T KNOCK SPAM. IT'S GOT IT'S OWN KEY.",
+                    "Didascalie": "",
+                    "Start": 76704,
+                    "End": 76750
+                },
+                {
+                    "Reply": "WHATD'YA THINK?",
+                    "Didascalie": "",
+                    "Start": 77471,
+                    "End": 77487
+                },
+                {
+                    "Reply": "THIS IS THE ONLY WAY UP HERE. WHATD'YA THINK?",
+                    "Didascalie": "",
+                    "Start": 77588,
+                    "End": 77634
+                },
+                {
+                    "Reply": "YOU BETTER GET SOME SLEEP, TOO, BUDDY.",
+                    "Didascalie": "",
+                    "Start": 78173,
+                    "End": 78212
+                },
+                {
+                    "Reply": "I KNOW IT.",
+                    "Didascalie": "",
+                    "Start": 78302,
+                    "End": 78313
+                },
+                {
+                    "Reply": "HIT AND RUN.",
+                    "Didascalie": "",
+                    "Start": 78550,
+                    "End": 78563
+                },
+                {
+                    "Reply": "SEVENTY TWO...U. AND D. ...HERE IT IS...",
+                    "Didascalie": "",
+                    "Start": 87068,
+                    "End": 87109
+                },
+                {
+                    "Reply": "MUST BE LIKE LOADING DOCKS...BUT WHAT ARE THESE?",
+                    "Didascalie": "",
+                    "Start": 87330,
+                    "End": 87379
+                },
+                {
+                    "Reply": "HOW ABOUT A LITTLE MUSIC?",
+                    "Didascalie": "",
+                    "Start": 87665,
+                    "End": 87691
+                },
+                {
+                    "Reply": "THE MUSIC MIGHT COVER THE NOISE WE MAKE.\tPeter:\tHIT 'EM ALL. MIGHT AS WELL HAVE POWER IN\t\t\tEVERYTHING. WE MIGHT NEED IT.",
+                    "Didascalie": "",
+                    "Start": 88044,
+                    "End": 88165
+                },
+                {
+                    "Reply": "WHAT?",
+                    "Didascalie": "",
+                    "Start": 93132,
+                    "End": 93138
+                },
+                {
+                    "Reply": "LET UP A LITTLE...LET UP A LITTLE...",
+                    "Didascalie": "",
+                    "Start": 98214,
+                    "End": 98251
+                },
+                {
+                    "Reply": "HEY MAN, WE CAN'T CARRY ALL THIS SHIT...",
+                    "Didascalie": "",
+                    "Start": 101185,
+                    "End": 101226
+                },
+                {
+                    "Reply": "OH...WE'RE GONNA JUST WHEEL RIGHT BY 'EM, RIGHT?\tPeter:\tWE GONNA TRY, BROTHER. WE AIN'T DOIN' THIS FOR THE EXERCISE. WE MIGHT AS WELL TRY TO GET WHAT WE CAN.",
+                    "Didascalie": "",
+                    "Start": 101415,
+                    "End": 101579
+                },
+                {
+                    "Reply": "THERE'S NO WAY THIS IS GONNA HAPPEN...",
+                    "Didascalie": "",
+                    "Start": 101588,
+                    "End": 101627
+                },
+                {
+                    "Reply": "HEY, UGLY!",
+                    "Didascalie": "",
+                    "Start": 103583,
+                    "End": 103594
+                },
+                {
+                    "Reply": "OVER HERE...LET'S GO OVER HERE...",
+                    "Didascalie": "",
+                    "Start": 103943,
+                    "End": 103977
+                },
+                {
+                    "Reply": "I THINK WE CAN MOVE THE WAGON.",
+                    "Didascalie": "",
+                    "Start": 107582,
+                    "End": 107613
+                },
+                {
+                    "Reply": "NOT ALTOGETHER, BUT THEY'RE SPREAD OUT PRETTY GOOD...ENOUGH TO MOVE THE WAGON.",
+                    "Didascalie": "(over talking unit)",
+                    "Start": 107702,
+                    "End": 107788
+                },
+                {
+                    "Reply": "FUZZ MAYBE?",
+                    "Didascalie": "",
+                    "Start": 109407,
+                    "End": 109419
+                },
+                {
+                    "Reply": "CAN'T TELL.",
+                    "Didascalie": "",
+                    "Start": 109478,
+                    "End": 109490
+                },
+                {
+                    "Reply": "MAYBE WE SHOULD SEE WHAT'S HAPPENIN'...",
+                    "Didascalie": "",
+                    "Start": 109528,
+                    "End": 109568
+                },
+                {
+                    "Reply": "LET 'EM KNOW WE'RE HERE...",
+                    "Didascalie": "",
+                    "Start": 115748,
+                    "End": 115775
+                },
+                {
+                    "Reply": "WHOOOO HOOOOOO...OVER HERE...YEEE HAAAAAAAA.\tSteve starts to laugh at the ludicrous situation. Peter smiles at the young pilot.",
+                    "Didascalie": "(shouting)",
+                    "Start": 115788,
+                    "End": 115921
+                },
+                {
+                    "Reply": "WE JUST GOTTA WAIT LONGER BEFORE WE MOVE.",
+                    "Didascalie": "",
+                    "Start": 117420,
+                    "End": 117462
+                },
+                {
+                    "Reply": "YEAH, BUT WE CAN HANDLE THAT.  WE CAN BREAK THROUGH.",
+                    "Didascalie": "",
+                    "Start": 117554,
+                    "End": 117607
+                },
+                {
+                    "Reply": "WE CAN SURE AS HELL OUT RUN 'EM...LOAD UP WHAT WE CAN AND GET OUTTA HERE.",
+                    "Didascalie": "",
+                    "Start": 117704,
+                    "End": 117781
+                },
+                {
+                    "Reply": "DAMN. THAT'S THOSE OTHER LOCK NUMBERS WE SAW ON THE CHART.",
+                    "Didascalie": "",
+                    "Start": 119689,
+                    "End": 119751
+                },
+                {
+                    "Reply": "WHAT?\tPeter:\tTHEY'RE LOCKED BECAUSE YOU CAN GET THROUGH\t\t\t'EM EASY FROM OTHER PARTS OF THE BUILDING.\tSteve:\tOVER HERE.339\tSteve notices that one of the ceiling grids is very close to the elevators. Peter looks at the grids, then down at the double doors.\tPeter:\tTHE ELEVATOR SHAFT!",
+                    "Didascalie": "",
+                    "Start": 119843,
+                    "End": 120127
+                },
+                {
+                    "Reply": "I HOPE YOU KNOW WHERE YOU'RE GOIN', BUDDY.",
+                    "Didascalie": "",
+                    "Start": 123532,
+                    "End": 123575
+                },
+                {
+                    "Reply": "COME ON...YOU GOT IT.",
+                    "Didascalie": "(to Peter)",
+                    "Start": 129287,
+                    "End": 129313
+                },
+                {
+                    "Reply": "DON'T SHOOT...THEY'LL HEAR YA...",
+                    "Didascalie": "",
+                    "Start": 129808,
+                    "End": 129841
+                },
+                {
+                    "Reply": "WHAT THE HELL TIME IS IT, ANYWAY?",
+                    "Didascalie": "",
+                    "Start": 132955,
+                    "End": 132989
+                },
+                {
+                    "Reply": "On the screen we see the Civil Defence logo, and realise that the high pitched electronic signal is coming from the TV set.",
+                    "Didascalie": "",
+                    "Start": 133061,
+                    "End": 133186
+                },
+                {
+                    "Reply": "PHILLY...",
+                    "Didascalie": "",
+                    "Start": 133720,
+                    "End": 133730
+                },
+                {
+                    "Reply": "THEY'LL NEVER GET THROUGH THERE.",
+                    "Didascalie": "",
+                    "Start": 137771,
+                    "End": 137804
+                },
+                {
+                    "Reply": "YOU HAVEN'T SPENT ENOUGH TIME ON THE STREET.",
+                    "Didascalie": "",
+                    "Start": 142758,
+                    "End": 142803
+                },
+                {
+                    "Reply": "HEY, FRAN...",
+                    "Didascalie": "",
+                    "Start": 143266,
+                    "End": 143279
+                },
+                {
+                    "Reply": "GETTIN' IT.",
+                    "Didascalie": "",
+                    "Start": 146425,
+                    "End": 146437
+                },
+                {
+                    "Reply": "I GREW UP ON ONE OF THESE, LET'S GO.",
+                    "Didascalie": "",
+                    "Start": 146757,
+                    "End": 146794
+                },
+                {
+                    "Reply": "LIKE A CHARM, HUH? LIKE A FUCKING CHARM!",
+                    "Didascalie": "",
+                    "Start": 149593,
+                    "End": 149634
+                },
+                {
+                    "Reply": "YOU BASTARDS...YOU BASTARDS...  It seems as though his mind is snapping. His voice quivers as does his body.",
+                    "Didascalie": "",
+                    "Start": 154443,
+                    "End": 154555
+                },
+                {
+                    "Reply": "WE GOT 'EM, BUDDY...WE GOT 'EM DIDN'T WE!",
+                    "Didascalie": "",
+                    "Start": 154564,
+                    "End": 154606
+                },
+                {
+                    "Reply": "LET'S GO BABY...NUMBER TWO...",
+                    "Didascalie": "",
+                    "Start": 155093,
+                    "End": 155123
+                },
+                {
+                    "Reply": "PERFECT, BABY...PERFECT!",
+                    "Didascalie": "",
+                    "Start": 155154,
+                    "End": 155179
+                },
+                {
+                    "Reply": "THE WINDOWS...OPEN YOUR WINDOW...YOUR WINDOW...",
+                    "Didascalie": "",
+                    "Start": 157214,
+                    "End": 157262
+                },
+                {
+                    "Reply": "JESUS!",
+                    "Didascalie": "",
+                    "Start": 159951,
+                    "End": 159958
+                },
+                {
+                    "Reply": "MY GODDAM BAG...I LEFT MY GODDAM BAG IN THE OTHER TRUCK.",
+                    "Didascalie": "",
+                    "Start": 159982,
+                    "End": 160042
+                },
+                {
+                    "Reply": "YEAH, YEAH...I'M O.K. LET'S GO.",
+                    "Didascalie": "",
+                    "Start": 160190,
+                    "End": 160222
+                },
+                {
+                    "Reply": "YEAH.",
+                    "Didascalie": "",
+                    "Start": 160576,
+                    "End": 160582
+                },
+                {
+                    "Reply": "BULL SHIT.",
+                    "Didascalie": "",
+                    "Start": 165363,
+                    "End": 165374
+                },
+                {
+                    "Reply": "I'M DEALIN' WITH IT...I'M DEALIN' WITH IT FINE!",
+                    "Didascalie": "",
+                    "Start": 165421,
+                    "End": 165469
+                },
+                {
+                    "Reply": "YOUR DAMN RIGHT, I CAN...DAMN RIGHT, I CAN!",
+                    "Didascalie": "",
+                    "Start": 165565,
+                    "End": 165609
+                },
+                {
+                    "Reply": "I STOP MOVIN' THIS LEG...MAY NOT EVER GET IT GOIN' AGAIN...THERE'S A LOT TO GET DONE BEFORE...BEFORE YOU CAN AFFORD TO LOSE ME...",
+                    "Didascalie": "",
+                    "Start": 165826,
+                    "End": 165962
+                },
+                {
+                    "Reply": "JUST HURRY UP WITH THAT!",
+                    "Didascalie": "",
+                    "Start": 168232,
+                    "End": 168257
+                },
+                {
+                    "Reply": "KIND BUMPY. WATCH IT.",
+                    "Didascalie": "",
+                    "Start": 173436,
+                    "End": 173458
+                },
+                {
+                    "Reply": "I KNOW, I KNOW...SHUT UP.",
+                    "Didascalie": "",
+                    "Start": 173707,
+                    "End": 173733
+                },
+                {
+                    "Reply": "I GOT IT.",
+                    "Didascalie": "",
+                    "Start": 181707,
+                    "End": 181717
+                },
+                {
+                    "Reply": "PETER...PETER...WHERE ARE YOU?",
+                    "Didascalie": "",
+                    "Start": 189523,
+                    "End": 189554
+                },
+                {
+                    "Reply": "YEAH...YEAH...",
+                    "Didascalie": "",
+                    "Start": 189705,
+                    "End": 189720
+                },
+                {
+                    "Reply": "WE DID IT, HUH, BUDDY? WE WHIPPED 'EM.",
+                    "Didascalie": "",
+                    "Start": 189949,
+                    "End": 189988
+                },
+                {
+                    "Reply": "DIDN'T WE? PETER? DIDN'T WE WHIP 'EM?",
+                    "Didascalie": "",
+                    "Start": 190024,
+                    "End": 190062
+                },
+                {
+                    "Reply": "WE WHIPPED 'EM AND GOT IT ALL! WE GOT IT ALL!",
+                    "Didascalie": "",
+                    "Start": 190100,
+                    "End": 190146
+                },
+                {
+                    "Reply": "YOU...YOU'LL TAKE CARE OF ME, RIGHT, PETER?",
+                    "Didascalie": "",
+                    "Start": 198847,
+                    "End": 198891
+                },
+                {
+                    "Reply": "I DON'T WANNA BE WALKIN' AROUND LIKE THAT PETER...",
+                    "Didascalie": "",
+                    "Start": 198958,
+                    "End": 199009
+                },
+                {
+                    "Reply": "PETER? PETER?",
+                    "Didascalie": "",
+                    "Start": 199202,
+                    "End": 199216
+                },
+                {
+                    "Reply": "YOU'LL TAKE CARE OF ME...I KNOW YOU WILL...",
+                    "Didascalie": "",
+                    "Start": 199253,
+                    "End": 199297
+                },
+                {
+                    "Reply": "PETER?",
+                    "Didascalie": "",
+                    "Start": 199323,
+                    "End": 199330
+                },
+                {
+                    "Reply": "PETER, DON'T DO IT...TIL YOUR SURE...SURE I'M COMIN' BACK...DON'T DO IT TIL YOU'RE SURE...I MIGHT NOT COME BACK, PETER...I'M GONNA TRY NOT TO...I'M GONNA TRY...NOT TO COME BACK...",
+                    "Didascalie": "",
+                    "Start": 199363,
+                    "End": 199552
+                }
+            ]
+        },
+        {
+            "Character": "COMMANDER",
+            "Replies": [
+                {
+                    "Reply": "MARTINEZ...YOU'VE BEEN WATCHING...YOU KNOW WE HAVE THE BUILDING SURROUNDED...",
+                    "Didascalie": "",
+                    "Start": 16511,
+                    "End": 16592
+                },
+                {
+                    "Reply": "LITTLE BASTARD'S GOT 'EM ALL MOVED INTO ONE BUILDING...DUMB LITTLE BASTARD!",
+                    "Didascalie": "(not over the bullhorn)",
+                    "Start": 16879,
+                    "End": 16962
+                },
+                {
+                    "Reply": "MARTINEZ...THE PEOPLE IN THIS PROJECT ARE YOUR RESPONSIBILITY...WE DON'T WANT ANY OF THEM HURT AND NEITHER DO YOU!",
+                    "Didascalie": "(on the bullhorn again)",
+                    "Start": 17057,
+                    "End": 17182
+                },
+                {
+                    "Reply": "I'M GIVIN' YOU THREE MINUTES, MARTINEZ...",
+                    "Didascalie": "(Bullhorn)",
+                    "Start": 17495,
+                    "End": 17541
+                },
+                {
+                    "Reply": "THREE MINUTES, MARTINEZ.",
+                    "Didascalie": "",
+                    "Start": 17734,
+                    "End": 17759
+                },
+                {
+                    "Reply": "MASKS...",
+                    "Didascalie": "",
+                    "Start": 21584,
+                    "End": 21593
+                },
+                {
+                    "Reply": "BACK OFF...BACK OFF...SPREAD OUT...",
+                    "Didascalie": "",
+                    "Start": 34060,
+                    "End": 34096
+                }
+            ]
+        },
+        {
+            "Character": "SERGEANT",
+            "Replies": [
+                {
+                    "Reply": "LOOKS LIKE THEY'RE GONNA TRY TO FIGHT US.",
+                    "Didascalie": "",
+                    "Start": 16977,
+                    "End": 17019
+                },
+                {
+                    "Reply": "ALL UNITS... FULL OPERATION!",
+                    "Didascalie": "(into walkie talkie)",
+                    "Start": 19604,
+                    "End": 19637
+                },
+                {
+                    "Reply": "MASKS FOR GAS...MASKS FOR GAS.",
+                    "Didascalie": "(into walkie talkie)",
+                    "Start": 21628,
+                    "End": 21663
+                }
+            ]
+        },
+        {
+            "Character": "WOOLEY",
+            "Replies": [
+                {
+                    "Reply": "YEAH, COME ON, MARTINEZ...SHOW YOUR GREASY LITTLE PUERTO RICAN ASS...SO I CAN BLOW IT OFF...",
+                    "Didascalie": "",
+                    "Start": 18040,
+                    "End": 18136
+                },
+                {
+                    "Reply": "I'LL BLOW ALL THEIR ASSES OFF...LOW LIFE BASTARDS..",
+                    "Didascalie": "",
+                    "Start": 18235,
+                    "End": 18287
+                },
+                {
+                    "Reply": "LET'S GET ON WITH IT. THIS IS A WASTE OF MY TIME!",
+                    "Didascalie": "",
+                    "Start": 18952,
+                    "End": 19005
+                },
+                {
+                    "Reply": "COME ON YOU DUMB BASTARDS...",
+                    "Didascalie": "",
+                    "Start": 20609,
+                    "End": 20638
+                }
+            ]
+        },
+        {
+            "Character": "TROOPER",
+            "Replies": [
+                {
+                    "Reply": "STEP AWAY FROM HIM.",
+                    "Didascalie": "",
+                    "Start": 23386,
+                    "End": 23406
+                },
+                {
+                    "Reply": "STEP AWAY FROM HIM!",
+                    "Didascalie": "",
+                    "Start": 23653,
+                    "End": 23673
+                },
+                {
+                    "Reply": "JESUS...HOLY JESUS...",
+                    "Didascalie": "",
+                    "Start": 25071,
+                    "End": 25093
+                },
+                {
+                    "Reply": "JESUS CHRIST.",
+                    "Didascalie": "",
+                    "Start": 36609,
+                    "End": 36623
+                },
+                {
+                    "Reply": "YOU OK DOWN THERE?",
+                    "Didascalie": "",
+                    "Start": 36679,
+                    "End": 36698
+                }
+            ]
+        },
+        {
+            "Character": "TROOPER 2",
+            "Replies": [
+                {
+                    "Reply": "SHOOT IT...SHOOT IT THROUGH THE HEAD.",
+                    "Didascalie": "",
+                    "Start": 25228,
+                    "End": 25266
+                }
+            ]
+        },
+        {
+            "Character": "FIGURE",
+            "Replies": [
+                {
+                    "Reply": "SENORES...",
+                    "Didascalie": "",
+                    "Start": 31075,
+                    "End": 31086
+                }
+            ]
+        },
+        {
+            "Character": "PRIEST",
+            "Replies": [
+                {
+                    "Reply": "NO...NO...NO...PLEASE. JUST...LET ME PASS...MY SISTER...I GO UP TO SEVEN FLOOR...TO FIND MY SISTER...",
+                    "Didascalie": "",
+                    "Start": 31517,
+                    "End": 31625
+                },
+                {
+                    "Reply": "MY SISTER...SHE IS DEAD...THEY TELL ME...",
+                    "Didascalie": "",
+                    "Start": 31724,
+                    "End": 31766
+                },
+                {
+                    "Reply": "JUST LET ME PASS. MARTINEZ IS DEAD.",
+                    "Didascalie": "",
+                    "Start": 31873,
+                    "End": 31909
+                },
+                {
+                    "Reply": "I HAVE GIVEN THEM THE LAST RITES.",
+                    "Didascalie": "",
+                    "Start": 32387,
+                    "End": 32421
+                },
+                {
+                    "Reply": "YOU ARE STRONGER THAN US...BUT SOON, I THINK...THEY BE STRONGER THAN YOU...",
+                    "Didascalie": "",
+                    "Start": 32614,
+                    "End": 32693
+                },
+                {
+                    "Reply": "WHEN THE DEAD WALK, SENORES...WE MUST STOP THE KILLING...OR WE LOSE THE WAR...",
+                    "Didascalie": "",
+                    "Start": 32788,
+                    "End": 32870
+                }
+            ]
+        },
+        {
+            "Character": "BLACK",
+            "Replies": [
+                {
+                    "Reply": "JUST THE FRESH CORPSES...BEFORE THEY REVIVE...",
+                    "Didascalie": "",
+                    "Start": 37737,
+                    "End": 37784
+                },
+                {
+                    "Reply": "'CAUSE THEY STILL BELIEVE THERE'S RESPECT IN DYING.",
+                    "Didascalie": "",
+                    "Start": 37947,
+                    "End": 38002
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "IF YOU DIE...IT'LL BE YOUR OWN FAULT.",
+                    "Didascalie": "",
+                    "Start": 44022,
+                    "End": 44060
+                },
+                {
+                    "Reply": "GET A LOT FURTHER IN THIS BIRD!",
+                    "Didascalie": "",
+                    "Start": 46001,
+                    "End": 46033
+                },
+                {
+                    "Reply": "THEY SEEN US!",
+                    "Didascalie": "",
+                    "Start": 46359,
+                    "End": 46373
+                },
+                {
+                    "Reply": "YOU BETTER LEARN HOW TO USE THAT THING, WOMAN.",
+                    "Didascalie": "",
+                    "Start": 47948,
+                    "End": 47995
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "CAN'T ALL FIT.",
+                    "Didascalie": "",
+                    "Start": 45614,
+                    "End": 45629
+                },
+                {
+                    "Reply": "THAT'S TRUE...SOMETHIN' HAPPENS TO HIM AND WE'RE STUCK. STAY WITH THE LAUNCH!",
+                    "Didascalie": "",
+                    "Start": 45905,
+                    "End": 45986
+                },
+                {
+                    "Reply": "BULL SHIT...LET'S GET TO THE BOAT!",
+                    "Didascalie": "",
+                    "Start": 46529,
+                    "End": 46564
+                },
+                {
+                    "Reply": "HEY...YOU GOT ANY CIGARETTES.",
+                    "Didascalie": "",
+                    "Start": 49321,
+                    "End": 49351
+                },
+                {
+                    "Reply": "DOWN RIVER...GOT AN IDEA MAYBE WE CAN MAKE IT TO THE ISLANDS.",
+                    "Didascalie": "",
+                    "Start": 49519,
+                    "End": 49584
+                },
+                {
+                    "Reply": "ANY ISLANDS...WHAT ABOUT YOU? WHERE YOU HEADED?",
+                    "Didascalie": "",
+                    "Start": 49645,
+                    "End": 49693
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER 3",
+            "Replies": [
+                {
+                    "Reply": "WHO ARE YOU?",
+                    "Didascalie": "",
+                    "Start": 44380,
+                    "End": 44393
+                },
+                {
+                    "Reply": "HEY...J.A.S. TRAFFIC WATCH...",
+                    "Didascalie": "(looking at the insignia on the helicopter)",
+                    "Start": 45123,
+                    "End": 45157
+                },
+                {
+                    "Reply": "NO SHIT.",
+                    "Didascalie": "",
+                    "Start": 45294,
+                    "End": 45303
+                },
+                {
+                    "Reply": "YOU'RE RUNNIN', AIN'T YOU, FLY BOY?",
+                    "Didascalie": "",
+                    "Start": 46680,
+                    "End": 46716
+                },
+                {
+                    "Reply": "SIT TIGHT, BOYS...THEY'RE RUNIN', TOO.",
+                    "Didascalie": "",
+                    "Start": 46974,
+                    "End": 47013
+                },
+                {
+                    "Reply": "IT'D BE CRAZY TO START SHOOTIN' AT ONE ANOTHER, NOW WOULDN'T IT?",
+                    "Didascalie": "",
+                    "Start": 47678,
+                    "End": 47746
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER 4",
+            "Replies": [
+                {
+                    "Reply": "ABOUT A MINUTE AND A HALF.",
+                    "Didascalie": "(at the door)",
+                    "Start": 44455,
+                    "End": 44486
+                },
+                {
+                    "Reply": "Officer 3, the Skipper, pushes Steve with his gun barrel. Steve spins out through the open doorway. He looks up the dock and sees the vehicle which is just turning onto the pier which is almost a mile long.",
+                    "Didascalie": "(referring to the arrival time of the vehicle)",
+                    "Start": 44535,
+                    "End": 44748
+                },
+                {
+                    "Reply": "HEY, MAN, I AIN'T GOIN' NOWHERE IN NOTHIN' I CAN'T DRIVER MYSELF!",
+                    "Didascalie": "",
+                    "Start": 45718,
+                    "End": 45787
+                }
+            ]
+        },
+        {
+            "Character": "STEPHEN",
+            "Replies": [
+                {
+                    "Reply": "WHO'S HE?",
+                    "Didascalie": "(nods)",
+                    "Start": 48426,
+                    "End": 48440
+                },
+                {
+                    "Reply": "NO CHANCE. FORGET IT, LET'S GET OUTTA HERE.",
+                    "Didascalie": "",
+                    "Start": 70313,
+                    "End": 70357
+                }
+            ]
+        },
+        {
+            "Character": "PETER",
+            "Replies": [
+                {
+                    "Reply": "ANY OF YOU LEAVIN' PEOPLE BEHIND?",
+                    "Didascalie": "",
+                    "Start": 50443,
+                    "End": 50477
+                },
+                {
+                    "Reply": "SOME BROTHERS.",
+                    "Didascalie": "(still looking down)",
+                    "Start": 50570,
+                    "End": 50589
+                },
+                {
+                    "Reply": "BOTH.",
+                    "Didascalie": "",
+                    "Start": 51004,
+                    "End": 51010
+                },
+                {
+                    "Reply": "TWO.",
+                    "Didascalie": "",
+                    "Start": 51047,
+                    "End": 51052
+                },
+                {
+                    "Reply": "ONE'S IN JAIL. THE OTHER'S A PRO BALL PLAYER.",
+                    "Didascalie": "",
+                    "Start": 51074,
+                    "End": 51120
+                },
+                {
+                    "Reply": "HE YOUR MAN NOW?",
+                    "Didascalie": "",
+                    "Start": 51315,
+                    "End": 51332
+                },
+                {
+                    "Reply": "JUST LIKE TO KNOW WHO EVERYONE IS.",
+                    "Didascalie": "",
+                    "Start": 51421,
+                    "End": 51456
+                },
+                {
+                    "Reply": "YOU KNOW WHERE YOU ARE?",
+                    "Didascalie": "(to Stephen)",
+                    "Start": 52323,
+                    "End": 52351
+                },
+                {
+                    "Reply": "HARRISBURG?",
+                    "Didascalie": "",
+                    "Start": 52398,
+                    "End": 52410
+                },
+                {
+                    "Reply": "WHERE WE GOIN?",
+                    "Didascalie": "",
+                    "Start": 54262,
+                    "End": 54277
+                },
+                {
+                    "Reply": "YOU NEVER AIM A GUN AT ANYONE, MISTER.",
+                    "Didascalie": "",
+                    "Start": 65899,
+                    "End": 65938
+                },
+                {
+                    "Reply": "WE MIGHT NOT GET OUT OF ANY PLACE ALIVE.",
+                    "Didascalie": "",
+                    "Start": 66937,
+                    "End": 66978
+                },
+                {
+                    "Reply": "YEAH, WELL IT WASN'T \"THOSE THINGS\" THAT NEARLY BLEW ME AWAY!",
+                    "Didascalie": "",
+                    "Start": 67141,
+                    "End": 67206
+                },
+                {
+                    "Reply": "OH, YOU GOT THE PAPERS FOR THIS LIMOUSINE?",
+                    "Didascalie": "",
+                    "Start": 67673,
+                    "End": 67716
+                },
+                {
+                    "Reply": "MOST OF THE GATES ARE DOWN. I DON'T THINK\t\t\tTHEY CAN GET INTO THE STORES.164\tThe vantage point only reveals a small aspect of the interior, a square plaza with a garden beneath the sunroof of transparent bubbles. The space is open all the way down to the garden, which is two storeys below. Around the garden on the bottom floor can be seen the entrances to several shops. All but one have heavy metal cage gates down and locked into position.",
+                    "Didascalie": "",
+                    "Start": 70764,
+                    "End": 71213
+                },
+                {
+                    "Reply": "EMERGENCY SYSTEM, MAYBE.",
+                    "Didascalie": "",
+                    "Start": 72819,
+                    "End": 72844
+                },
+                {
+                    "Reply": "GUESS THE POWER'S NOT OFF IN THIS AREA.",
+                    "Didascalie": "",
+                    "Start": 72891,
+                    "End": 72931
+                },
+                {
+                    "Reply": "DAMN.",
+                    "Didascalie": "",
+                    "Start": 73715,
+                    "End": 73721
+                },
+                {
+                    "Reply": "OK.",
+                    "Didascalie": "",
+                    "Start": 75015,
+                    "End": 75019
+                },
+                {
+                    "Reply": "THERE'S AN AWFUL LOT OF STUFF DOWN THERE THAT WE COULD USE, BROTHER.",
+                    "Didascalie": "",
+                    "Start": 78221,
+                    "End": 78293
+                },
+                {
+                    "Reply": "HIT AND RUN... MAYBE GRAB US OFF A RADIO...",
+                    "Didascalie": "",
+                    "Start": 78572,
+                    "End": 78616
+                },
+                {
+                    "Reply": "THE ONLY PROBLEM AT THE AIRPORT WAS STRAY BULLETS!",
+                    "Didascalie": "",
+                    "Start": 78986,
+                    "End": 79037
+                },
+                {
+                    "Reply": "LEAVE HIM BE. WE'RE GOIN' OURSELVES.",
+                    "Didascalie": "(standing)",
+                    "Start": 79175,
+                    "End": 79216
+                },
+                {
+                    "Reply": "ANYONE BUT US COMES UP THEM STAIRS, YOU GUYS TAKE OFF IN THE MACHINE. WE'LL TRY TO MAKE IT OUT TO THE PARKIN' LOT. YOU CAN PICK US UP THERE.",
+                    "Didascalie": "",
+                    "Start": 79580,
+                    "End": 79727
+                },
+                {
+                    "Reply": "IF WE DON'T SHOW UP AFTER A FEW MINUTES...",
+                    "Didascalie": "",
+                    "Start": 79874,
+                    "End": 79917
+                },
+                {
+                    "Reply": "YOU'LL BE ALRIGHT. IT'S OUR ASSES THAT'S IN THE FIRE.",
+                    "Didascalie": "",
+                    "Start": 80479,
+                    "End": 80536
+                },
+                {
+                    "Reply": "FAT CITY, BROTHER. HOW WE GONNA WORK IT.\tRoger:\tWE GET INTO THE DEPARTMENT STORES UP HERE.\t\t\tTHEY PROB'LY HAVE THEIR OWN ESCALATORS INSIDE.",
+                    "Didascalie": "",
+                    "Start": 86369,
+                    "End": 86509
+                },
+                {
+                    "Reply": "LET'S CHECK THOSE KEYS.",
+                    "Didascalie": "",
+                    "Start": 86518,
+                    "End": 86542
+                },
+                {
+                    "Reply": "HERE.",
+                    "Didascalie": "",
+                    "Start": 87179,
+                    "End": 87185
+                },
+                {
+                    "Reply": "POWER SWITCHES.",
+                    "Didascalie": "",
+                    "Start": 88020,
+                    "End": 88036
+                },
+                {
+                    "Reply": "YOU GAME?\tRoger nods and the two men run down the hall toward the mall.\tTheir rifles poised, they are like commandos on an important mission.",
+                    "Didascalie": "",
+                    "Start": 90890,
+                    "End": 91033
+                },
+                {
+                    "Reply": "ON THE SIDE...",
+                    "Didascalie": "",
+                    "Start": 93192,
+                    "End": 93207
+                },
+                {
+                    "Reply": "HERE...COME ON...",
+                    "Didascalie": "",
+                    "Start": 95891,
+                    "End": 95909
+                },
+                {
+                    "Reply": "JUST GIVE IT TIME ...GIVE IT TIME.",
+                    "Didascalie": "",
+                    "Start": 104225,
+                    "End": 104260
+                },
+                {
+                    "Reply": "CLEAR?",
+                    "Didascalie": "",
+                    "Start": 107667,
+                    "End": 107674
+                },
+                {
+                    "Reply": "WHAT THE HELL IS THAT?",
+                    "Didascalie": "",
+                    "Start": 109375,
+                    "End": 109398
+                },
+                {
+                    "Reply": "OR MAYBE FLYBOY. WHERE'S IT COMIN' FROM?",
+                    "Didascalie": "",
+                    "Start": 109428,
+                    "End": 109469
+                },
+                {
+                    "Reply": "COME ON. OPEN UP.",
+                    "Didascalie": "",
+                    "Start": 109499,
+                    "End": 109517
+                },
+                {
+                    "Reply": "OPEN UP. I CAN GET THE WAGON OVER. IF IT IS FLYBOY, LET'S GET HIM ON OUR SIDE.",
+                    "Didascalie": "",
+                    "Start": 109577,
+                    "End": 109659
+                },
+                {
+                    "Reply": "YOU JUST COVER ME GOOD, YOU HEAR?",
+                    "Didascalie": "(setting his weapon on the floor)",
+                    "Start": 109749,
+                    "End": 109787
+                },
+                {
+                    "Reply": "RUN FOR IT.  RUN THIS WAY.",
+                    "Didascalie": "",
+                    "Start": 114059,
+                    "End": 114086
+                },
+                {
+                    "Reply": "DOWNSTAIRS AGAIN ...SAME TRICK.",
+                    "Didascalie": "",
+                    "Start": 115493,
+                    "End": 115525
+                },
+                {
+                    "Reply": "YOU DID ALRIGHT THIS TIME FLYBOY.",
+                    "Didascalie": "",
+                    "Start": 115930,
+                    "End": 115964
+                },
+                {
+                    "Reply": "NO. THERE'S ALWAYS A CHANCE OF SOME OF THEM STAYIN' UP ON THE BALCONY.",
+                    "Didascalie": "",
+                    "Start": 117471,
+                    "End": 117545
+                },
+                {
+                    "Reply": "IF ANY OF THEM SEE OR HEAR US, THEY'LL JUST FOLLOW US ON UP.  IT'S NO GOOD.",
+                    "Didascalie": "",
+                    "Start": 117616,
+                    "End": 117695
+                },
+                {
+                    "Reply": "I'M THINKIN' MAYBE WE GOT A GOOD THING GOIN' HERE.",
+                    "Didascalie": "",
+                    "Start": 117790,
+                    "End": 117841
+                },
+                {
+                    "Reply": "UPSTAIRS.  LET'S GO.",
+                    "Didascalie": "",
+                    "Start": 118416,
+                    "End": 118437
+                },
+                {
+                    "Reply": "JACKPOT, FLYBOY. YOU'RE RIGHT.",
+                    "Didascalie": "",
+                    "Start": 119804,
+                    "End": 119835
+                },
+                {
+                    "Reply": "HOLD 'EM.\tRoger stands against the rubber safety bumper, holding the car doors open wide. Peter steps onto the hand railing and reaches up for the escape hatch, which is held in place by four knub-",
+                    "Didascalie": "",
+                    "Start": 120187,
+                    "End": 120387
+                },
+                {
+                    "Reply": "IT'S HERE...AND IT AIN'T LOCKED. GET A SCREW-",
+                    "Didascalie": "",
+                    "Start": 120675,
+                    "End": 120721
+                },
+                {
+                    "Reply": "I SEEN IT. COME ON!\tThe men are in a large ductwork which seems to run along the entire length of the mall. They move as quietly as they can.",
+                    "Didascalie": "",
+                    "Start": 123206,
+                    "End": 123349
+                },
+                {
+                    "Reply": "THIS IS IT. COME ON.",
+                    "Didascalie": "(who is leading)",
+                    "Start": 123600,
+                    "End": 123625
+                },
+                {
+                    "Reply": "COME ON...",
+                    "Didascalie": "",
+                    "Start": 127640,
+                    "End": 127651
+                },
+                {
+                    "Reply": "THE DESK...GIMME A HAND.",
+                    "Didascalie": "(to Roger)",
+                    "Start": 127758,
+                    "End": 127787
+                },
+                {
+                    "Reply": "COME ON!",
+                    "Didascalie": "",
+                    "Start": 128211,
+                    "End": 128220
+                },
+                {
+                    "Reply": "LET'S GET THIS STUFF UP, COME ON.",
+                    "Didascalie": "",
+                    "Start": 130521,
+                    "End": 130555
+                },
+                {
+                    "Reply": "THEY TOUCHED US GOOD, FLYBOY. WE'RE LUCKY TO GET OUT WITH OUR ASSES. YOU DON'T FORGET THAT!",
+                    "Didascalie": "",
+                    "Start": 134316,
+                    "End": 134411
+                },
+                {
+                    "Reply": "YOU GET OVERCONFIDENT...UNDERESTIMATE THOSE SUCKERS...AND YOU GET EATEN! HOW YOU LIKE THAT?",
+                    "Didascalie": "",
+                    "Start": 134504,
+                    "End": 134602
+                },
+                {
+                    "Reply": "THEY GOT A BIG ADVANTAGE OVER US BROTHER.",
+                    "Didascalie": "",
+                    "Start": 134678,
+                    "End": 134720
+                },
+                {
+                    "Reply": "SHUT THAT THING OFF!",
+                    "Didascalie": "",
+                    "Start": 136794,
+                    "End": 136815
+                },
+                {
+                    "Reply": "SOMEBODY BETTER SIT WATCH ALL THE TIME.",
+                    "Didascalie": "",
+                    "Start": 137722,
+                    "End": 137762
+                },
+                {
+                    "Reply": "ENOUGH OF 'EM WILL. AND IT AIN'T JUST THEM THINGS WE GOT TO WORRY ABOUT. THAT CHOPPER UP THERE COULD GIVE US AWAY IF SOMEBODY COMES MESS' AROUND.",
+                    "Didascalie": "",
+                    "Start": 137813,
+                    "End": 137965
+                },
+                {
+                    "Reply": "SOMEBODY FINALLY GOT IT, THOUGH. IT COMES DOWN TO HOW MUCH ITS WORTH.",
+                    "Didascalie": "",
+                    "Start": 138326,
+                    "End": 138399
+                },
+                {
+                    "Reply": "WELL LET'S GET IT UP. THERE'S NOT TOO MANY OF 'EM AROUND YET THIS MORNIN'.",
+                    "Didascalie": "",
+                    "Start": 142812,
+                    "End": 142890
+                },
+                {
+                    "Reply": "FAIR ENOUGH!",
+                    "Didascalie": "",
+                    "Start": 143962,
+                    "End": 143975
+                },
+                {
+                    "Reply": "WE'RE GOIN' OUT.",
+                    "Didascalie": "",
+                    "Start": 144014,
+                    "End": 144031
+                },
+                {
+                    "Reply": "...AND YOU ARE NOT COMING WITH US!",
+                    "Didascalie": "",
+                    "Start": 144106,
+                    "End": 144141
+                },
+                {
+                    "Reply": "SHE'S RIGHT, FLYBOY. COME ON, LET'S GO.",
+                    "Didascalie": "",
+                    "Start": 144816,
+                    "End": 144856
+                },
+                {
+                    "Reply": "HOW ABOUT IT?",
+                    "Didascalie": "",
+                    "Start": 146402,
+                    "End": 146416
+                },
+                {
+                    "Reply": "I'LL JUST RIDE PICK UP, I'M NOT TOO SURE OF THIS THING...",
+                    "Didascalie": "",
+                    "Start": 146687,
+                    "End": 146748
+                },
+                {
+                    "Reply": "COME ON, COME ON... THREE MORE BABY.",
+                    "Didascalie": "",
+                    "Start": 149547,
+                    "End": 149584
+                },
+                {
+                    "Reply": "GET ITS HEAD UP...GET ITS HEAD UP...",
+                    "Didascalie": "",
+                    "Start": 152980,
+                    "End": 153017
+                },
+                {
+                    "Reply": "GET DOWN...STAY DOWN...I GOT IT!",
+                    "Didascalie": "",
+                    "Start": 154197,
+                    "End": 154230
+                },
+                {
+                    "Reply": "YOU ALRIGHT?",
+                    "Didascalie": "",
+                    "Start": 155132,
+                    "End": 155145
+                },
+                {
+                    "Reply": "FOR CHRISSAKE COME ON!",
+                    "Didascalie": "",
+                    "Start": 158096,
+                    "End": 158119
+                },
+                {
+                    "Reply": "WHAT?",
+                    "Didascalie": "",
+                    "Start": 159967,
+                    "End": 159973
+                },
+                {
+                    "Reply": "ALRIGHT, NOW YOU SON OF A BITCH! YOU BETTER SCREW YOUR FUCKIN' HEAD ON, BABY!",
+                    "Didascalie": "",
+                    "Start": 160100,
+                    "End": 160181
+                },
+                {
+                    "Reply": "I MEAN IT! NOW YOU'RE NOT JUST PLAYIN' WITH YOUR LIFE, YOUR PLAYIN' WITH MINE!",
+                    "Didascalie": "",
+                    "Start": 160330,
+                    "End": 160412
+                },
+                {
+                    "Reply": "ALRIGHT, NOW ARE YOU STRAIGHT?",
+                    "Didascalie": "(softer)",
+                    "Start": 160532,
+                    "End": 160567
+                },
+                {
+                    "Reply": "THAT'S IT.",
+                    "Didascalie": "",
+                    "Start": 165343,
+                    "End": 165354
+                },
+                {
+                    "Reply": "WE GOTTA DEAL WITH THAT LEG!",
+                    "Didascalie": "",
+                    "Start": 165383,
+                    "End": 165412
+                },
+                {
+                    "Reply": "CAN YOU WALK ON IT NOW?",
+                    "Didascalie": "",
+                    "Start": 165532,
+                    "End": 165556
+                },
+                {
+                    "Reply": "THE GUNS ARE FIRST. GUNS AND AMMUNITION.",
+                    "Didascalie": "",
+                    "Start": 167837,
+                    "End": 167878
+                },
+                {
+                    "Reply": "YOU SURE YOU GONNA MAKE IT, BUDDY?",
+                    "Didascalie": "",
+                    "Start": 168188,
+                    "End": 168223
+                },
+                {
+                    "Reply": "DON'T TRY TO SHOOT THROUGH THOSE GATES.",
+                    "Didascalie": "",
+                    "Start": 169862,
+                    "End": 169902
+                },
+                {
+                    "Reply": "HE CAN'T GET THROUGH...COME ON...",
+                    "Didascalie": "",
+                    "Start": 170064,
+                    "End": 170098
+                },
+                {
+                    "Reply": "AIN'T IT A CRIME!",
+                    "Didascalie": "",
+                    "Start": 170301,
+                    "End": 170319
+                },
+                {
+                    "Reply": "HOW'S THE RIDE?",
+                    "Didascalie": "",
+                    "Start": 173411,
+                    "End": 173427
+                },
+                {
+                    "Reply": "LOOK HERE...I...",
+                    "Didascalie": "",
+                    "Start": 173681,
+                    "End": 173698
+                },
+                {
+                    "Reply": "UNLOCK THE MIDDLE ONE LAST.",
+                    "Didascalie": "",
+                    "Start": 174645,
+                    "End": 174673
+                },
+                {
+                    "Reply": "ALRIGHT...THE TOUGHEST PART'LL BE GETTIN' BY THESE RIGHT HERE...",
+                    "Didascalie": "",
+                    "Start": 175032,
+                    "End": 175100
+                },
+                {
+                    "Reply": "THERE'S NO BACKIN' OUT NOW. WE GOTTA LOCK THOSE DOORS!",
+                    "Didascalie": "",
+                    "Start": 175476,
+                    "End": 175534
+                },
+                {
+                    "Reply": "WHAT?",
+                    "Didascalie": "",
+                    "Start": 175671,
+                    "End": 175677
+                },
+                {
+                    "Reply": "YOU OK TO START IT?",
+                    "Didascalie": "",
+                    "Start": 175885,
+                    "End": 175905
+                },
+                {
+                    "Reply": "CLOSE THE GATE...CLOSE THE GATE...",
+                    "Didascalie": "(shouting)",
+                    "Start": 177071,
+                    "End": 177110
+                },
+                {
+                    "Reply": "THROUGH.",
+                    "Didascalie": "",
+                    "Start": 184090,
+                    "End": 184099
+                },
+                {
+                    "Reply": "SAFETY STUFF...PRETTY INDESTRUCTIBLE...THEY GOT NO LEVERAGE UNDER THE TRUCK.. GIMME THE ALARMS...",
+                    "Didascalie": "",
+                    "Start": 184145,
+                    "End": 184246
+                },
+                {
+                    "Reply": "I'M HOPIN' THEY'LL JUST GO AWAY AFTER THEY FIND THEY CAN'T GET IN...",
+                    "Didascalie": "",
+                    "Start": 184547,
+                    "End": 184619
+                },
+                {
+                    "Reply": "DUNNO. NOT TOO MANY. WE'LL GET 'EM EASY. WE GET IT ALL LOCKED OFF AND WE'RE GOIN' ON A HUNT!",
+                    "Didascalie": "",
+                    "Start": 185586,
+                    "End": 185682
+                },
+                {
+                    "Reply": "GOOD.",
+                    "Didascalie": "",
+                    "Start": 188871,
+                    "End": 188877
+                },
+                {
+                    "Reply": "I'VE SEEN HALF A DOZEN GUYS GET BITTEN BY THOSE THINGS...NONE OF 'EM LASTED MORE THAN THIRTY SIX HOURS.",
+                    "Didascalie": "",
+                    "Start": 189333,
+                    "End": 189443
+                },
+                {
+                    "Reply": "THAT'S RIGHT ROG.",
+                    "Didascalie": "",
+                    "Start": 189997,
+                    "End": 190015
+                },
+                {
+                    "Reply": "WE SURE DID, BUDDY.",
+                    "Didascalie": "",
+                    "Start": 190071,
+                    "End": 190091
+                },
+                {
+                    "Reply": "THIS PLACE IS GONNA BE ROTTEN...WE GOTTA CLEAN UP, BROTHER.",
+                    "Didascalie": "",
+                    "Start": 192891,
+                    "End": 192954
+                },
+                {
+                    "Reply": "THEY'RE USUALLY ON A TIMER...OPEN AT NINE...LOCKED AT FOUR...KEEPS THE BANKERS HONEST.",
+                    "Didascalie": "",
+                    "Start": 193105,
+                    "End": 193195
+                },
+                {
+                    "Reply": "YOU NEVER KNOW, BROTHER.",
+                    "Didascalie": "",
+                    "Start": 193717,
+                    "End": 193742
+                },
+                {
+                    "Reply": "THAT'S EXACTLY WHAT IT IS, NOW.....",
+                    "Didascalie": "",
+                    "Start": 194130,
+                    "End": 194166
+                },
+                {
+                    "Reply": "THEY'RE AFTER THE PLACE...THEY DON'T KNOW WHY...THEY JUST REMEMBER...REMEMBER THAT THEY WANNA BE IN HERE!",
+                    "Didascalie": "",
+                    "Start": 196128,
+                    "End": 196240
+                },
+                {
+                    "Reply": "GO ON...I'LL STAY WITH HIM.",
+                    "Didascalie": "(to Steve)",
+                    "Start": 198402,
+                    "End": 198431
+                },
+                {
+                    "Reply": "I WILL.",
+                    "Didascalie": "",
+                    "Start": 198941,
+                    "End": 198949
+                },
+                {
+                    "Reply": "I'M HERE, TROOPER.",
+                    "Didascalie": "",
+                    "Start": 199225,
+                    "End": 199244
+                },
+                {
+                    "Reply": "I WILL.",
+                    "Didascalie": "",
+                    "Start": 199306,
+                    "End": 199314
+                },
+                {
+                    "Reply": "YEAH, BROTHER.",
+                    "Didascalie": "",
+                    "Start": 199339,
+                    "End": 199354
+                },
+                {
+                    "Reply": "RAIDERS.",
+                    "Didascalie": "",
+                    "Start": 210096,
+                    "End": 210105
+                },
+                {
+                    "Reply": "NO CHANCE.",
+                    "Didascalie": "(cutting her off)",
+                    "Start": 210186,
+                    "End": 210201
+                },
+                {
+                    "Reply": "WHO SAYS?",
+                    "Didascalie": "",
+                    "Start": 210366,
+                    "End": 210376
+                },
+                {
+                    "Reply": "SHHHH! QUIET!",
+                    "Didascalie": "",
+                    "Start": 210596,
+                    "End": 210610
+                },
+                {
+                    "Reply": "JESUS CHRIST, SHUT UP AND LISTEN!",
+                    "Didascalie": "",
+                    "Start": 210697,
+                    "End": 210731
+                },
+                {
+                    "Reply": "COME ON, MAN...GET IT UP.",
+                    "Didascalie": "",
+                    "Start": 211064,
+                    "End": 211090
+                },
+                {
+                    "Reply": "THEY'LL GET IN. THEY'LL MOVE THE TRUCKS.",
+                    "Didascalie": "",
+                    "Start": 212368,
+                    "End": 212409
+                },
+                {
+                    "Reply": "COME ON, MAN. THIS IS A PROFESSIONAL ARMY.",
+                    "Didascalie": "",
+                    "Start": 212475,
+                    "End": 212518
+                },
+                {
+                    "Reply": "WELL LET'S NOT MAKE IT EASY FOR 'EM...COME ON!",
+                    "Didascalie": "",
+                    "Start": 212680,
+                    "End": 212727
+                },
+                {
+                    "Reply": "DOWNSTAIRS FIRST...",
+                    "Didascalie": "(shouting)",
+                    "Start": 214397,
+                    "End": 214421
+                },
+                {
+                    "Reply": "GOT YOUR TALK BOX?",
+                    "Didascalie": "",
+                    "Start": 214445,
+                    "End": 214464
+                },
+                {
+                    "Reply": "KEEP IS HANDY.",
+                    "Didascalie": "",
+                    "Start": 214488,
+                    "End": 214503
+                },
+                {
+                    "Reply": "WHERE THE HELL ARE YOU?",
+                    "Didascalie": "",
+                    "Start": 226235,
+                    "End": 226259
+                },
+                {
+                    "Reply": "LISTEN, THOSE THINGS ARE ALL OVER THE PLACE.",
+                    "Didascalie": "",
+                    "Start": 226294,
+                    "End": 226339
+                },
+                {
+                    "Reply": "I HEARD HIS GUN...MAYBE HE'S ALRIGHT...WE'LL WAIT...WE'LL JUST WAIT A WHILE...",
+                    "Didascalie": "",
+                    "Start": 228392,
+                    "End": 228474
+                },
+                {
+                    "Reply": "IT'S STEPHEN...THEY'RE COMIN' UP!",
+                    "Didascalie": "",
+                    "Start": 230256,
+                    "End": 230290
+                },
+                {
+                    "Reply": "GO ON...YOU GET OUT OF HERE.",
+                    "Didascalie": "",
+                    "Start": 230432,
+                    "End": 230461
+                },
+                {
+                    "Reply": "I SAID...GET OUT OF HERE.",
+                    "Didascalie": "",
+                    "Start": 230487,
+                    "End": 230513
+                },
+                {
+                    "Reply": "I DON'T WANT TO GO...I REALLY DON'T...",
+                    "Didascalie": "",
+                    "Start": 230724,
+                    "End": 230763
+                },
+                {
+                    "Reply": "MOVE, WOMAN!",
+                    "Didascalie": "",
+                    "Start": 231274,
+                    "End": 231287
+                }
+            ]
+        },
+        {
+            "Character": "FRIENDLY VOICE",
+            "Replies": [
+                {
+                    "Reply": "... and for prices which anyone can afford,\t\t\tyou can live in these luxurious new homes by Brandon. Fully electric, central air, ..etc.",
+                    "Didascalie": "",
+                    "Start": 89827,
+                    "End": 89966
+                }
+            ]
+        },
         {
             "Character": "BOSTON AND CERTAIN SECTIONS OF PHILADELPHIA",
             "Replies": [
@@ -18,6 +3496,94 @@
                     "Didascalie": "",
                     "Start": 133690,
                     "End": 133711
+                }
+            ]
+        },
+        {
+            "Character": "SCIENTIST",
+            "Replies": [
+                {
+                    "Reply": "VERSUS THE AMOUNT OF FOOD AVAILABLE. LETS BE BLUNT.",
+                    "Didascalie": "",
+                    "Start": 200691,
+                    "End": 200743
+                },
+                {
+                    "Reply": "WE HAVE TO BE UNEMOTIONAL...WE HAVE TO PROVIDE COUNTER MEASURES OR WE'RE ALL...",
+                    "Didascalie": "",
+                    "Start": 201349,
+                    "End": 201432
+                },
+                {
+                    "Reply": "THEY CAN'T CONTROL THE RATE OF GROWTH AND CON-",
+                    "Didascalie": "",
+                    "Start": 201474,
+                    "End": 201521
+                },
+                {
+                    "Reply": "BY HELPING THEM IN THIS CASE WE SAVE OURSELVES...",
+                    "Didascalie": "",
+                    "Start": 201628,
+                    "End": 201678
+                },
+                {
+                    "Reply": "I'M PROPOSING THAT CERTAIN...NECESSARY MEASURES BE PUT INTO EFFECT AT ONCE...MEASURES APPLYING TO ALL OFFICIAL SEARCH AND DESTROY UNITS, WHILE THEY'RE STILL OPERATIVE...HOSPITALS...RESCUE STATIONS...AND ANY...PRIVATE CITIZENS...",
+                    "Didascalie": "",
+                    "Start": 201947,
+                    "End": 202188
+                },
+                {
+                    "Reply": "IN CO-OPERATION WITH THE MOBILE UNITS OF THE O.B.P.",
+                    "Didascalie": "",
+                    "Start": 202330,
+                    "End": 202382
+                },
+                {
+                    "Reply": "THIS COLLECTION...THIS COLLECTION...",
+                    "Didascalie": "",
+                    "Start": 202728,
+                    "End": 202765
+                },
+                {
+                    "Reply": "THIS COLLECTION COULD BE...STORED...RATIONED...",
+                    "Didascalie": "",
+                    "Start": 202922,
+                    "End": 202970
+                },
+                {
+                    "Reply": "THE DISSECTION...THE DISSECTION OF THE CORPSES CAN BE CARRIED OUT...CARRIED OUT WITH RESPECT FOR THE DIGNITY OF THE HUMAN BODY...",
+                    "Didascalie": "",
+                    "Start": 203335,
+                    "End": 203471
+                },
+                {
+                    "Reply": "WE'VE GOT TO REMAIN UNEMOTIONAL...UNEMOTIONAL...",
+                    "Didascalie": "",
+                    "Start": 204375,
+                    "End": 204424
+                }
+            ]
+        },
+        {
+            "Character": "RAIDER",
+            "Replies": [
+                {
+                    "Reply": "THEY'LL SPREAD OUT COMIN' AFTER US...",
+                    "Didascalie": "",
+                    "Start": 213827,
+                    "End": 213865
+                },
+                {
+                    "Reply": "SHIT...IT'S STILL TAPED UP...IT'S ALL READY FOR US...",
+                    "Didascalie": "",
+                    "Start": 215686,
+                    "End": 215743
+                },
+                {
+                    "Reply": "ALRIGHT...COUPLE OF YOU HOLD OFF THEM ZOMBIES...",
+                    "Didascalie": "",
+                    "Start": 218885,
+                    "End": 218934
                 }
             ]
         }

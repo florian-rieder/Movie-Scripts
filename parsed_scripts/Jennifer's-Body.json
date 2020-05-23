@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Jennifer's Body",
-        "   "
-    ],
+    "Title": "Jennifer's Body",
     "Author": [
-        "\u00a0\u00a0Diablo Cody"
+        "Diablo Cody"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Comedy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -41,12 +40,6 @@
                     "Didascalie": "(QUIETLY)",
                     "Start": 7277,
                     "End": 7318
-                },
-                {
-                    "Reply": "I'D RECOMMEND THAT YOU SHUT THE FUCK UP!",
-                    "Didascalie": "",
-                    "Start": 8008,
-                    "End": 8069
                 },
                 {
                     "Reply": "This is where it all went down.",
@@ -4400,17 +4393,6 @@
             ]
         },
         {
-            "Character": "A SERIES OF NEWSPAPER HEADLINES",
-            "Replies": [
-                {
-                    "Reply": "The familiar Soft Shoulder ballad plays as we see a dreamy montage of headlines.",
-                    "Didascalie": "",
-                    "Start": 114159,
-                    "End": 114250
-                }
-            ]
-        },
-        {
             "Character": "MOURNERS",
             "Replies": [
                 {
@@ -4657,17 +4639,6 @@
                     "Didascalie": "",
                     "Start": 192783,
                     "End": 192810
-                }
-            ]
-        },
-        {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "A group of student council kids are putting the finishing touches on the dance decorations. The theme is \"Through the Trees\" and there are papier mache trees everywhere.",
-                    "Didascalie": "",
-                    "Start": 184775,
-                    "End": 184965
                 }
             ]
         },

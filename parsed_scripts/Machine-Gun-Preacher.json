@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Machine Gun Preacher",
-        "   "
-    ],
+    "Title": "Machine Gun Preacher",
     "Author": [
-        "\u00a0\u00a0Jason Keller"
+        "Jason Keller"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime"
+        "Action",
+        "Crime"
     ],
     "Characters": [
         {
@@ -3656,17 +3654,6 @@
             ]
         },
         {
-            "Character": "A HITCHHIKER",
-            "Replies": [
-                {
-                    "Reply": "Up the road, standing in this bitter cold with his thumb out.",
-                    "Didascalie": "",
-                    "Start": 25297,
-                    "End": 25359
-                }
-            ]
-        },
-        {
             "Character": "DRIFTER",
             "Replies": [
                 {
@@ -4084,12 +4071,6 @@
                     "Didascalie": "(ARABIC)",
                     "Start": 68725,
                     "End": 68742
-                },
-                {
-                    "Reply": "Someone wants to speak with you.",
-                    "Didascalie": "(ARABIC)",
-                    "Start": 68843,
-                    "End": 68888
                 },
                 {
                     "Reply": "I'm sorry, Sam... I'll be five minutes.",
@@ -4651,6 +4632,23 @@
             ]
         },
         {
+            "Character": "SPLA SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Are you from Kitgum?",
+                    "Didascalie": "(ARABIC)",
+                    "Start": 68601,
+                    "End": 68634
+                },
+                {
+                    "Reply": "Someone wants to speak with you.",
+                    "Didascalie": "(ARABIC)",
+                    "Start": 68843,
+                    "End": 68888
+                }
+            ]
+        },
+        {
             "Character": "AGNETE",
             "Replies": [
                 {
@@ -5018,6 +5016,17 @@
                     "Didascalie": "",
                     "Start": 278235,
                     "End": 278261
+                }
+            ]
+        },
+        {
+            "Character": "VILLAGE MAN 1",
+            "Replies": [
+                {
+                    "Reply": "How far?",
+                    "Didascalie": "(ARABIC)",
+                    "Start": 131371,
+                    "End": 131392
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Indiana Jones IV",
-        "   "
-    ],
+    "Title": "Indiana Jones IV",
     "Author": [
-        "\u00a0\u00a0Christopher Columbus"
+        "Christopher Columbus"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -1061,12 +1059,6 @@
                     "Didascalie": "",
                     "Start": 148893,
                     "End": 149028
-                },
-                {
-                    "Reply": "is ASLEEP in his CABIN. Suddenly, the door SLOWLY CREAKS OPEN. A SHADOW appears on the cabin wall. COMING TOWARD Indiana. The shadow EXTENDS a hand. The hand GRABS Indy's blanket. Indy WAKES. He LEAPS out of bed and TACKLES the mysterious person. Indy FLIPS on the cabin lamp. The intruder is none other than...BETSY. Indiana PULLS Betsy to her feet. She gives a flirtatious SMILE.",
-                    "Didascalie": "",
-                    "Start": 149393,
-                    "End": 149815
                 },
                 {
                     "Reply": "I'm in the mood for isolation.",
@@ -3858,17 +3850,6 @@
             ]
         },
         {
-            "Character": "A PIRATE SHIP",
-            "Replies": [
-                {
-                    "Reply": "has APPEARED. BESIDE the river boat. The ship is ANCIENT. OMINOUS.",
-                    "Didascalie": "",
-                    "Start": 157857,
-                    "End": 157924
-                }
-            ]
-        },
-        {
             "Character": "INDIANA AND KEZURE",
             "Replies": [
                 {
@@ -4077,28 +4058,6 @@
             ]
         },
         {
-            "Character": "A HERD OF STAMPEDING WILDEBEEST",
-            "Replies": [
-                {
-                    "Reply": "Hundreds of the RAGING animals plow through the jungle. Moving FAST.",
-                    "Didascalie": "",
-                    "Start": 190707,
-                    "End": 190776
-                }
-            ]
-        },
-        {
-            "Character": "A GIANT TANK",
-            "Replies": [
-                {
-                    "Reply": "SHOOTS out of the jungle. A METAL MONSTROSITY. ONE of a kind. The tank is over TEN TIMES the size of a normal tank. Nearly 100 FEET LONG.",
-                    "Didascalie": "",
-                    "Start": 195192,
-                    "End": 195338
-                }
-            ]
-        },
-        {
             "Character": "CREW MEMBER",
             "Replies": [
                 {
@@ -4134,17 +4093,6 @@
                     "Didascalie": "(German, English subtitles)",
                     "Start": 241193,
                     "End": 241309
-                }
-            ]
-        },
-        {
-            "Character": "TYKI AND SEVERAL PYGMIES",
-            "Replies": [
-                {
-                    "Reply": "They have CLIMBED to the top of the City Walls. From here, they GUARD and DEFEND their city. Crowds of NAZI TROOPS are on foot. Running TOWARD the city walls. The pygmies SHOWER the Nazis with ARROWS, SPEARS and POISINOUS DARTS. The Nazis fight back with MACHINE GUNS and RIFLES. A HEATED, BLOODY BATTLE.",
-                    "Didascalie": "",
-                    "Start": 256071,
-                    "End": 256408
                 }
             ]
         },

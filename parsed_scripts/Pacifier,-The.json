@@ -1,15 +1,28 @@
 {
-    "Title": [
-        "Pacifier, The",
-        "   "
-    ],
+    "Title": "Pacifier, The",
     "Author": [
-        "\u00a0\u00a0Thomas Lennon\u00a0\u00a0Robert Ben Garant\u00a0\u00a0Jason Fulardi"
+        "Thomas Lennon",
+        "Robert Ben Garant",
+        "Jason Fulardi"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Action\u00a0\u00a0Family\u00a0\u00a0Thriller"
+        "Comedy",
+        "Action",
+        "Family",
+        "Thriller"
     ],
     "Characters": [
+        {
+            "Character": "SERB 2",
+            "Replies": [
+                {
+                    "Reply": "Fifteen minutes to delivery.",
+                    "Didascalie": "",
+                    "Start": 1116,
+                    "End": 1145
+                }
+            ]
+        },
         {
             "Character": "PILOT",
             "Replies": [
@@ -24,6 +37,40 @@
                     "Didascalie": "",
                     "Start": 3572,
                     "End": 3590
+                }
+            ]
+        },
+        {
+            "Character": "SERBIAN 2",
+            "Replies": [
+                {
+                    "Reply": "What happened?",
+                    "Didascalie": "",
+                    "Start": 4235,
+                    "End": 4250
+                }
+            ]
+        },
+        {
+            "Character": "SERBIAN 1",
+            "Replies": [
+                {
+                    "Reply": "We've been hit. We're taking on water.",
+                    "Didascalie": "",
+                    "Start": 4579,
+                    "End": 4618
+                },
+                {
+                    "Reply": "Grab the professor, quick!",
+                    "Didascalie": "",
+                    "Start": 4826,
+                    "End": 4853
+                },
+                {
+                    "Reply": "Something must be below us! Shoot! Shoot!",
+                    "Didascalie": "",
+                    "Start": 5211,
+                    "End": 5253
                 }
             ]
         },

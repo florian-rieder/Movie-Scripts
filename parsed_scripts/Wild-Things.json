@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Wild Things",
-        "   "
-    ],
+    "Title": "Wild Things",
     "Author": [
-        "\u00a0\u00a0Stephen Peters\u00a0\u00a0Kem Nunn"
+        "Stephen Peters",
+        "Kem Nunn"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5463,28 +5462,6 @@
                     "Didascalie": "",
                     "Start": 141024,
                     "End": 141068
-                }
-            ]
-        },
-        {
-            "Character": "A THIN STREAM OF MUDDY WATER",
-            "Replies": [
-                {
-                    "Reply": "flows beneath the gate, down the drive, toward the street.",
-                    "Didascalie": "",
-                    "Start": 155354,
-                    "End": 155413
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Black-and-whites, county cars -- police tape across the site.",
-                    "Didascalie": "",
-                    "Start": 162120,
-                    "End": 162182
                 }
             ]
         },

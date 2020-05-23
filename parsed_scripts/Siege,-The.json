@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Siege, The",
-        "   "
-    ],
+    "Title": "Siege, The",
     "Author": [
-        "\u00a0\u00a0Lawrence Wright\u00a0\u00a0Menno Meyjes\u00a0\u00a0Edward Zwick"
+        "Lawrence Wright",
+        "Menno Meyjes",
+        "Edward Zwick"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Action",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
         {
@@ -591,6 +592,17 @@
                     "Didascalie": "",
                     "Start": 2937,
                     "End": 3064
+                }
+            ]
+        },
+        {
+            "Character": "AN MC-130 COMBAT TALON AIRCRAFT",
+            "Replies": [
+                {
+                    "Reply": "Its \"Whiskers\" in the nose of the aircraft snag the cable without slowing and roars off, the Sheik dangling unconscious beneath -- just as the satchel charges EXPLODE the Mercedes.",
+                    "Didascalie": "",
+                    "Start": 4603,
+                    "End": 4816
                 }
             ]
         },
@@ -2824,12 +2836,6 @@
                     "Didascalie": "",
                     "Start": 147929,
                     "End": 148175
-                },
-                {
-                    "Reply": "YOU DON'T KNOW SHIT HOW I FEEL -- MY FRIENDS ARE DEAD. HUNDREDS OF PEOPLE ARE DEAD.",
-                    "Didascalie": "",
-                    "Start": 148345,
-                    "End": 148481
                 },
                 {
                     "Reply": "How?... Why soon?",
@@ -5480,17 +5486,6 @@
             ]
         },
         {
-            "Character": "A VAN",
-            "Replies": [
-                {
-                    "Reply": "Bears down on Khalil, its doors sliding open as TWO PAIRS OF HANDS reach out and ANOTHER MAN appears out of nowhere and BODYCHECKS Khalil into the van and jumps in after him.",
-                    "Didascalie": "",
-                    "Start": 34872,
-                    "End": 35079
-                }
-            ]
-        },
-        {
             "Character": "AN ORDINARY HOUSE",
             "Replies": [
                 {
@@ -5560,17 +5555,6 @@
                     "Didascalie": "",
                     "Start": 51034,
                     "End": 51170
-                }
-            ]
-        },
-        {
-            "Character": "A COMMAND POST",
-            "Replies": [
-                {
-                    "Reply": "Has been hastily improvised behind a SWAT van.",
-                    "Didascalie": "",
-                    "Start": 47823,
-                    "End": 47870
                 }
             ]
         },
@@ -5732,17 +5716,6 @@
             ]
         },
         {
-            "Character": "A HOLDING CELL",
-            "Replies": [
-                {
-                    "Reply": "Elise sits quietly with the stillness of those who have been there before. Hub enters.",
-                    "Didascalie": "",
-                    "Start": 72169,
-                    "End": 72272
-                }
-            ]
-        },
-        {
             "Character": "IN A DOWNTOWN DELI",
             "Replies": [
                 {
@@ -5750,17 +5723,6 @@
                     "Didascalie": "",
                     "Start": 73512,
                     "End": 73562
-                }
-            ]
-        },
-        {
-            "Character": "A CAFE",
-            "Replies": [
-                {
-                    "Reply": "Where Students sit inside and SMOKE, then SMOKE some more.",
-                    "Didascalie": "",
-                    "Start": 77884,
-                    "End": 77943
                 }
             ]
         },
@@ -6169,17 +6131,6 @@
             ]
         },
         {
-            "Character": "A YOUNG ARAB",
-            "Replies": [
-                {
-                    "Reply": "Opens the door to the length of a chain and hands Mike a twenty-dollar bill.",
-                    "Didascalie": "",
-                    "Start": 111562,
-                    "End": 111655
-                }
-            ]
-        },
-        {
             "Character": "YOUNG ARAB",
             "Replies": [
                 {
@@ -6187,17 +6138,6 @@
                     "Didascalie": "",
                     "Start": 111824,
                     "End": 111828
-                }
-            ]
-        },
-        {
-            "Character": "A STUN GRENADE",
-            "Replies": [
-                {
-                    "Reply": "Hidden within, EXPLODES with a blinding FLASH, knocking him to the ground.",
-                    "Didascalie": "",
-                    "Start": 112590,
-                    "End": 112681
                 }
             ]
         },
@@ -6270,17 +6210,6 @@
                     "Didascalie": "",
                     "Start": 124694,
                     "End": 124724
-                }
-            ]
-        },
-        {
-            "Character": "A DARKENED AIRPLANE",
-            "Replies": [
-                {
-                    "Reply": "Hub sits alone.",
-                    "Didascalie": "",
-                    "Start": 125067,
-                    "End": 125083
                 }
             ]
         },
@@ -6847,17 +6776,6 @@
             ]
         },
         {
-            "Character": "A HALF-OPENED DOOR OF AN APARTMENT",
-            "Replies": [
-                {
-                    "Reply": "Samir looks and sees Hub, standing beside Sharon.",
-                    "Didascalie": "",
-                    "Start": 180271,
-                    "End": 180321
-                }
-            ]
-        },
-        {
             "Character": "VAN LOUDSPEAKER",
             "Replies": [
                 {
@@ -6967,6 +6885,17 @@
                     "Didascalie": "",
                     "Start": 194428,
                     "End": 194588
+                }
+            ]
+        },
+        {
+            "Character": "AN M-60 TANK",
+            "Replies": [
+                {
+                    "Reply": "Races in from around the corner, only to be hit by A ROCKET-",
+                    "Didascalie": "",
+                    "Start": 196199,
+                    "End": 196260
                 }
             ]
         },
@@ -7143,17 +7072,6 @@
                     "Didascalie": "",
                     "Start": 235173,
                     "End": 235210
-                }
-            ]
-        },
-        {
-            "Character": "A HAMMAM",
-            "Replies": [
-                {
-                    "Reply": "An Arab bath-house. Rays of sunlight play off the steaming waters. Their footsteps ECHO off the tiled mosaic walls.",
-                    "Didascalie": "",
-                    "Start": 236881,
-                    "End": 237013
                 }
             ]
         },

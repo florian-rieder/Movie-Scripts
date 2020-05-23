@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Crow: City of Angels, The",
-        "   "
-    ],
+    "Title": "Crow: City of Angels, The",
     "Author": [
-        "\u00a0\u00a0David S Goyer\u00a0\u00a0James O'Barr"
+        "David S Goyer",
+        "James O'Barr"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Thriller\u00a0\u00a0Crime"
+        "Action",
+        "Fantasy",
+        "Thriller",
+        "Crime"
     ],
     "Characters": [
         {
@@ -540,28 +541,6 @@
                     "Didascalie": "",
                     "Start": 165235,
                     "End": 165263
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "the petals have clustered around Curve's body in the shape of a Crow. Curve continues to float downstream towards an estuary, borne away on the wings of the bird.",
-                    "Didascalie": "",
-                    "Start": 108340,
-                    "End": 108523
-                }
-            ]
-        },
-        {
-            "Character": "A FATHER AND HIS YOUNG SON",
-            "Replies": [
-                {
-                    "Reply": "boy.",
-                    "Didascalie": "",
-                    "Start": 2943,
-                    "End": 2948
                 }
             ]
         },
@@ -1784,17 +1763,6 @@
             ]
         },
         {
-            "Character": "A PALE FACE",
-            "Replies": [
-                {
-                    "Reply": "on drugs. The girl cowers in a narrow stairway, hugging herself, shivering from withdrawal.",
-                    "Didascalie": "",
-                    "Start": 14366,
-                    "End": 14468
-                }
-            ]
-        },
-        {
             "Character": "GRACE",
             "Replies": [
                 {
@@ -2473,17 +2441,6 @@
             ]
         },
         {
-            "Character": "A DARK FIGURE",
-            "Replies": [
-                {
-                    "Reply": "standing in front of him. It's the last thing Ashe sees before consciousness escapes him.",
-                    "Didascalie": "",
-                    "Start": 40320,
-                    "End": 40420
-                }
-            ]
-        },
-        {
             "Character": "GABRIEL",
             "Replies": [
                 {
@@ -2779,17 +2736,6 @@
             ]
         },
         {
-            "Character": "A LITTLE BOY",
-            "Replies": [
-                {
-                    "Reply": "is watching Ashe from one of the back pews. He clutches a striped ball. He drops it.",
-                    "Didascalie": "",
-                    "Start": 79715,
-                    "End": 79810
-                }
-            ]
-        },
-        {
             "Character": "BOY",
             "Replies": [
                 {
@@ -2834,17 +2780,6 @@
             ]
         },
         {
-            "Character": "A HORSE-DRAWN CARRIAGE",
-            "Replies": [
-                {
-                    "Reply": "piloted by a man in a devil mask suddenly looms up in front of Ashe. The street ahead has been cordoned off with flashing wooden barricades. There's some kind of street fiesta going on...",
-                    "Didascalie": "",
-                    "Start": 121680,
-                    "End": 121888
-                }
-            ]
-        },
-        {
             "Character": "STONE MAIDEN",
             "Replies": [
                 {
@@ -2874,17 +2809,6 @@
                     "Didascalie": "",
                     "Start": 135956,
                     "End": 136017
-                }
-            ]
-        },
-        {
-            "Character": "A CHILD",
-            "Replies": [
-                {
-                    "Reply": "wearing a skull mask pushes to the front of the crowd. He stares at Ashe a moment, then lifts the mask from his face...",
-                    "Didascalie": "",
-                    "Start": 137605,
-                    "End": 137735
                 }
             ]
         }

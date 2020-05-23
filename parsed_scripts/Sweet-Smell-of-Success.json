@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Sweet Smell of Success",
-        "   "
-    ],
+    "Title": "Sweet Smell of Success",
     "Author": [
-        "\u00a0\u00a0Ernest Lehman\u00a0\u00a0Clifford Odets"
+        "Ernest Lehman",
+        "Clifford Odets"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Film-Noir"
+        "Drama",
+        "Film-Noir"
     ],
     "Characters": [
         {
@@ -7337,17 +7336,6 @@
                     "Didascalie": "(giving her the papers)",
                     "Start": 121624,
                     "End": 121656
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "From Sidney's viewpoint, Hunsecker's column.  The shot is just too distant for us to be able to read the print.",
-                    "Didascalie": "",
-                    "Start": 124457,
-                    "End": 124569
                 }
             ]
         },

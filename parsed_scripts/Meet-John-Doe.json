@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Meet John Doe",
-        "   "
-    ],
+    "Title": "Meet John Doe",
     "Author": [
-        "\u00a0\u00a0Richard Connell\u00a0\u00a0Robert Presnell Sr."
+        "Richard Connell",
+        "Robert Presnell Sr."
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -6148,23 +6147,6 @@
                     "Didascalie": "",
                     "Start": 430568,
                     "End": 430636
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Back to the jungle, you hobo!",
-                    "Didascalie": "(yelling toward JOHN)",
-                    "Start": 432250,
-                    "End": 432344
-                },
-                {
-                    "Reply": "Just another racket!",
-                    "Didascalie": "(disgustedly)",
-                    "Start": 432491,
-                    "End": 432576
                 }
             ]
         },

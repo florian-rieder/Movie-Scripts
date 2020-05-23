@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "I, Robot",
-        "   "
-    ],
+    "Title": "I, Robot",
     "Author": [
-        "\u00a0\u00a0Hillary Seitz"
+        "Hillary Seitz"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3659,17 +3658,6 @@
             ]
         },
         {
-            "Character": "A STEEP DRIVEWAY",
-            "Replies": [
-                {
-                    "Reply": "Narrow. Out of the way. Spooner's brow furrows.     As he hears a faraway RUMBLING SOUND...",
-                    "Didascalie": "",
-                    "Start": 84631,
-                    "End": 84728
-                }
-            ]
-        },
-        {
             "Character": "DEMOLITION ROBOT",
             "Replies": [
                 {
@@ -3735,6 +3723,28 @@
                     "Didascalie": "",
                     "Start": 109314,
                     "End": 109319
+                }
+            ]
+        },
+        {
+            "Character": "MEDICAL ROBOT 1",
+            "Replies": [
+                {
+                    "Reply": "Stay still.",
+                    "Didascalie": "",
+                    "Start": 112610,
+                    "End": 112622
+                }
+            ]
+        },
+        {
+            "Character": "MEDICAL ROBOT 2",
+            "Replies": [
+                {
+                    "Reply": "Detective Del Spooner. You have suffered significant trauma to the head and chest...",
+                    "Didascalie": "",
+                    "Start": 113028,
+                    "End": 113145
                 }
             ]
         },
@@ -3960,28 +3970,6 @@
                     "Didascalie": "",
                     "Start": 163079,
                     "End": 163089
-                }
-            ]
-        },
-        {
-            "Character": "A HUGE KILLER ROBOT",
-            "Replies": [
-                {
-                    "Reply": "...rising up from all the parts. Like a phoenix. In all its glory. A hellish, metallic AMALGAMATION. Grabbing another arm here, another leg there, attaching pieces to itself.",
-                    "Didascalie": "",
-                    "Start": 170603,
-                    "End": 170790
-                }
-            ]
-        },
-        {
-            "Character": "A CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "of floor-to-ceiling PANELS.",
-                    "Didascalie": "",
-                    "Start": 181175,
-                    "End": 181203
                 }
             ]
         }

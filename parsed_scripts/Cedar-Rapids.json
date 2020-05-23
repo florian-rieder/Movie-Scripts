@@ -1,26 +1,12 @@
 {
-    "Title": [
-        "Cedar Rapids",
-        "   "
-    ],
+    "Title": "Cedar Rapids",
     "Author": [
-        "\u00a0\u00a0Phil Johnston"
+        "Phil Johnston"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
-        {
-            "Character": "A SHODDILY PRODUCED TV COMMERCIAL",
-            "Replies": [
-                {
-                    "Reply": "The ad depicts videotaped scenes from Wisconsin's north country-- a farmer and a cow, a woman waterskiing, a guy mowing his lawn. A flat, nasally V.O. accompanies the images.",
-                    "Didascalie": "",
-                    "Start": 477,
-                    "End": 672
-                }
-            ]
-        },
         {
             "Character": "ROGER LEMKE",
             "Replies": [
@@ -1651,12 +1637,6 @@
                     "Didascalie": "",
                     "Start": 129284,
                     "End": 129311
-                },
-                {
-                    "Reply": ".  QUICK CUTS: The Dudes get Tim and Mike Pyle into their climbing gear-- harnesses, helmets, crampons.",
-                    "Didascalie": "(Whitesnake's HERE I GO AGAIN, perhaps)",
-                    "Start": 129457,
-                    "End": 129606
                 },
                 {
                     "Reply": "Hang on... How's it...?",

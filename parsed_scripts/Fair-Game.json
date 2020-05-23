@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Fair Game",
-        "   "
-    ],
+    "Title": "Fair Game",
     "Author": [
-        "\u00a0\u00a0Jez Butterworth\u00a0\u00a0John-Henry Butterworth"
+        "Jez Butterworth",
+        "John-Henry Butterworth"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2963,6 +2963,58 @@
             ]
         },
         {
+            "Character": "ANALYST 1",
+            "Replies": [
+                {
+                    "Reply": "Memo comes out saying we got two percent women in executive roles.",
+                    "Didascalie": "",
+                    "Start": 43210,
+                    "End": 43297
+                },
+                {
+                    "Reply": "The Iraqis were trying to buy the tubes off the internet. They spent three million dollars weather-",
+                    "Didascalie": "",
+                    "Start": 76697,
+                    "End": 76839
+                },
+                {
+                    "Reply": "Don't make jokes.",
+                    "Didascalie": "",
+                    "Start": 77694,
+                    "End": 77712
+                }
+            ]
+        },
+        {
+            "Character": "ANALYST 2",
+            "Replies": [
+                {
+                    "Reply": "I wonder who's she's fucking.",
+                    "Didascalie": "",
+                    "Start": 43513,
+                    "End": 43543
+                },
+                {
+                    "Reply": "How was it?",
+                    "Didascalie": "",
+                    "Start": 77609,
+                    "End": 77621
+                },
+                {
+                    "Reply": "He thinks I don't know how serious it is.. weeks and weeks of fifteen hour days, we've gone back over and over it.",
+                    "Didascalie": "",
+                    "Start": 78170,
+                    "End": 78345
+                },
+                {
+                    "Reply": "Didn't you hear? Friday the DCI took him to the White House. He briefed the President on Aluminum tubes.",
+                    "Didascalie": "",
+                    "Start": 86454,
+                    "End": 86619
+                }
+            ]
+        },
+        {
             "Character": "JOE WILSON",
             "Replies": [
                 {
@@ -4143,6 +4195,40 @@
             ]
         },
         {
+            "Character": "AGENT 1",
+            "Replies": [
+                {
+                    "Reply": "The pages of this notebook are fast burning. You write on them like normal, but if you need to destroy them in an emergency..",
+                    "Didascalie": "",
+                    "Start": 96044,
+                    "End": 96230
+                },
+                {
+                    "Reply": "You have two of these in your luggage. Now this is the only pen we want you to use..",
+                    "Didascalie": "",
+                    "Start": 96382,
+                    "End": 96507
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 2",
+            "Replies": [
+                {
+                    "Reply": "The ink in this pen is visible for 10 seconds. Only when given the the correct chemical fixative can it be read.",
+                    "Didascalie": "",
+                    "Start": 96630,
+                    "End": 96803
+                },
+                {
+                    "Reply": "Ma'am, we have 50 very specific questions, some extremely technical.",
+                    "Didascalie": "",
+                    "Start": 97183,
+                    "End": 97292
+                }
+            ]
+        },
+        {
             "Character": "BLITZER",
             "Replies": [
                 {
@@ -4311,6 +4397,23 @@
             ]
         },
         {
+            "Character": "SCIENTIST 2",
+            "Replies": [
+                {
+                    "Reply": "We're free. Free to be blown to smithereens.",
+                    "Didascalie": "",
+                    "Start": 136108,
+                    "End": 136173
+                },
+                {
+                    "Reply": "And your ears. Your American friends are calling you right now.",
+                    "Didascalie": "",
+                    "Start": 137124,
+                    "End": 137208
+                }
+            ]
+        },
+        {
             "Character": "BETH",
             "Replies": [
                 {
@@ -4430,6 +4533,17 @@
                     "Didascalie": "",
                     "Start": 213045,
                     "End": 213113
+                }
+            ]
+        },
+        {
+            "Character": "JOURNALIST 2",
+            "Replies": [
+                {
+                    "Reply": "The President's statement was accurate?",
+                    "Didascalie": "",
+                    "Start": 152227,
+                    "End": 152289
                 }
             ]
         },
@@ -4643,6 +4757,17 @@
             ]
         },
         {
+            "Character": "SUPPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "You're a true American hero.",
+                    "Didascalie": "",
+                    "Start": 193500,
+                    "End": 193529
+                }
+            ]
+        },
+        {
             "Character": "RUMSFELD ON TV",
             "Replies": [
                 {
@@ -4695,6 +4820,17 @@
                     "Didascalie": "",
                     "Start": 211083,
                     "End": 211616
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Mr Wilson was Niger just a free holiday? A boondoggle?",
+                    "Didascalie": "",
+                    "Start": 212149,
+                    "End": 212224
                 }
             ]
         },
@@ -4780,6 +4916,17 @@
                     "Didascalie": "",
                     "Start": 224126,
                     "End": 224215
+                }
+            ]
+        },
+        {
+            "Character": "BUSINESSMAN 2",
+            "Replies": [
+                {
+                    "Reply": "No really we should.",
+                    "Didascalie": "",
+                    "Start": 224472,
+                    "End": 224493
                 }
             ]
         },
@@ -4929,23 +5076,6 @@
                     "Didascalie": "",
                     "Start": 245233,
                     "End": 245291
-                }
-            ]
-        },
-        {
-            "Character": "REAL VALERIE FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "...of safeguarding classified information. I'm grateful for this opportunity to set the record straight. I served the United States loyally and to the best of my ability as a covert operations officer for the Central Intelligence Agency. I worked on behalf of the national security of our country, on behalf of the people of the United States until my name and true affiliation were exposed in the national media on July 14th, 2003, after a leak by administration officials. Today I can tell this committee even more.",
-                    "Didascalie": "",
-                    "Start": 247790,
-                    "End": 248638
-                },
-                {
-                    "Reply": "In the run-up to the war with Iraq I worked in the Counter Proliferation Division of the CIA, still as a covert officer whose affiliation with the CIA was classified. I raced to discover solid intelligence for senior policy makers on Iraq 's presumed weapons of mass destruction program. While I helped to manage and run secret worldwide operations against this WMD target from CIA headquarters in Washington , I also traveled to foreign countries on secret missions to find vital intelligence. I loved my career because I love my country.",
-                    "Didascalie": "",
-                    "Start": 248844,
-                    "End": 249752
                 }
             ]
         }

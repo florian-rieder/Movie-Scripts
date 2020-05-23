@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Monkeybone",
-        "   "
-    ],
+    "Title": "Monkeybone",
     "Author": [
-        "\u00a0\u00a0Sam Hamm\u00a0\u00a0Kaja Blackley\u00a0\u00a0Vanessa Chong"
+        "Sam Hamm",
+        "Kaja Blackley",
+        "Vanessa Chong"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Fantasy\u00a0\u00a0Comedy"
+        "Animation",
+        "Fantasy",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2776,12 +2777,6 @@
                     "Didascalie": "",
                     "Start": 146029,
                     "End": 146058
-                },
-                {
-                    "Reply": "OKAY, STU. SEE YOU IN A DAY OR TWO.",
-                    "Didascalie": "(loudly)",
-                    "Start": 146083,
-                    "End": 146133
                 },
                 {
                     "Reply": "Go. Just go.",

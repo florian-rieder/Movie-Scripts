@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Scream 3",
-        "   "
-    ],
+    "Title": "Scream 3",
     "Author": [
-        "\u00a0\u00a0Kevin Williamson\u00a0\u00a0Ehren Kruger"
+        "Kevin Williamson",
+        "Ehren Kruger"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -321,12 +321,6 @@
                     "Didascalie": "",
                     "Start": 4766,
                     "End": 4814
-                },
-                {
-                    "Reply": "I mean, I'm standing right outside the LADIES ROOM door at the PLAZA THEATER. Your girlfriend Christine is in there.  She's all alone. Everyone's in the auditorium waiting for the film to start.",
-                    "Didascalie": "",
-                    "Start": 4951,
-                    "End": 5162
                 },
                 {
                     "Reply": "I've got my knife.",
@@ -4095,6 +4089,17 @@
                     "Didascalie": "",
                     "Start": 95235,
                     "End": 95258
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "NO.  But Wallace is around.",
+                    "Didascalie": "",
+                    "Start": 95279,
+                    "End": 95307
                 }
             ]
         },

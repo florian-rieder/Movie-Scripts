@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Bourne Ultimatum, The",
-        "   "
-    ],
+    "Title": "Bourne Ultimatum, The",
     "Author": [
-        "\u00a0\u00a0Tony Gilroy\u00a0\u00a0Scott Z. Burns\u00a0\u00a0George Nolfi"
+        "Tony Gilroy",
+        "Scott Z. Burns",
+        "George Nolfi"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -268,6 +270,12 @@
                     "Didascalie": "",
                     "Start": 43418,
                     "End": 43436
+                },
+                {
+                    "Reply": "INSIDE!",
+                    "Didascalie": "",
+                    "Start": 44120,
+                    "End": 44128
                 },
                 {
                     "Reply": "Service doorway -- Now!",
@@ -1073,12 +1081,6 @@
                     "Didascalie": "",
                     "Start": 65598,
                     "End": 65734
-                },
-                {
-                    "Reply": "I mean if your people use their cell phones as much as mine do, the list should be pretty small  TECHNICIAN 3 JIMMY Three names: Tom Brewster, Jack Boulin, Neal Daniels.",
-                    "Didascalie": "(looks at Cronin)",
-                    "Start": 65870,
-                    "End": 66111
                 },
                 {
                     "Reply": "Now check everything in Ross's apartment against those names.",
@@ -2655,6 +2657,23 @@
             ]
         },
         {
+            "Character": "MOBILE 2",
+            "Replies": [
+                {
+                    "Reply": "We have the subject confirmed.",
+                    "Didascalie": "(over radio)",
+                    "Start": 25084,
+                    "End": 25136
+                },
+                {
+                    "Reply": "Waterloo Station.",
+                    "Didascalie": "",
+                    "Start": 25274,
+                    "End": 25292
+                }
+            ]
+        },
+        {
             "Character": "HUB",
             "Replies": [
                 {
@@ -2723,6 +2742,17 @@
                     "Didascalie": "",
                     "Start": 42284,
                     "End": 42354
+                }
+            ]
+        },
+        {
+            "Character": "TECHY 2",
+            "Replies": [
+                {
+                    "Reply": "Store.   Three means of egress.",
+                    "Didascalie": "",
+                    "Start": 45058,
+                    "End": 45090
                 }
             ]
         },
@@ -2811,6 +2841,28 @@
                     "Didascalie": "(handing her the menu)",
                     "Start": 56992,
                     "End": 57010
+                }
+            ]
+        },
+        {
+            "Character": "TECH 3",
+            "Replies": [
+                {
+                    "Reply": "Zero results on the cross check.",
+                    "Didascalie": "",
+                    "Start": 65374,
+                    "End": 65407
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 3 JIMMY",
+            "Replies": [
+                {
+                    "Reply": "Three names: Tom Brewster, Jack Boulin, Neal Daniels.",
+                    "Didascalie": "",
+                    "Start": 66047,
+                    "End": 66111
                 }
             ]
         },
@@ -3051,6 +3103,40 @@
                     "Didascalie": "",
                     "Start": 101369,
                     "End": 101379
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 3",
+            "Replies": [
+                {
+                    "Reply": "Copy, we're going to take a left at 41st. One block, settle at the corner.",
+                    "Didascalie": "",
+                    "Start": 132559,
+                    "End": 132668
+                },
+                {
+                    "Reply": "Okay folks here we go, box at two hundred meters. Let's lock it down.",
+                    "Didascalie": "",
+                    "Start": 134005,
+                    "End": 134109
+                },
+                {
+                    "Reply": "Okay, here we go.",
+                    "Didascalie": "",
+                    "Start": 134729,
+                    "End": 134747
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 4",
+            "Replies": [
+                {
+                    "Reply": "It's a bad place to pick, it's too exposed.",
+                    "Didascalie": "",
+                    "Start": 132788,
+                    "End": 132849
                 }
             ]
         },
@@ -3321,6 +3407,50 @@
                     "Didascalie": "",
                     "Start": 181655,
                     "End": 181685
+                }
+            ]
+        },
+        {
+            "Character": "ANCHOR 1",
+            "Replies": [
+                {
+                    "Reply": "FBI agents arrested several senior CIA officials today in connection with the broadening scandal enveloping Washington today--",
+                    "Didascalie": "",
+                    "Start": 182527,
+                    "End": 182730
+                }
+            ]
+        },
+        {
+            "Character": "ANCHOR 2",
+            "Replies": [
+                {
+                    "Reply": "Assassination program code-named \"Blackbriar\" was exposed by a former assassin named David Webb--",
+                    "Didascalie": "",
+                    "Start": 182795,
+                    "End": 182931
+                }
+            ]
+        },
+        {
+            "Character": "ANCHOR 3",
+            "Replies": [
+                {
+                    "Reply": "Program reportedly targeting US Citizens in some cases...",
+                    "Didascalie": "",
+                    "Start": 183017,
+                    "End": 183094
+                }
+            ]
+        },
+        {
+            "Character": "ANCHOR 4",
+            "Replies": [
+                {
+                    "Reply": "CIA Director Ezra Kramer produced explosive documents for the Senate Committee indicating \"Blackbriar\" was authorized at the highest levels of government.",
+                    "Didascalie": "",
+                    "Start": 183159,
+                    "End": 183390
                 }
             ]
         }

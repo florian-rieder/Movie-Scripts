@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Indiana Jones and the Temple of Doom",
-        "   "
-    ],
+    "Title": "Indiana Jones and the Temple of Doom",
     "Author": [
-        "\u00a0\u00a0George Lucas\u00a0\u00a0Willard Huyck\u00a0\u00a0Gloria Katz"
+        "George Lucas",
+        "Willard Huyck",
+        "Gloria Katz"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {

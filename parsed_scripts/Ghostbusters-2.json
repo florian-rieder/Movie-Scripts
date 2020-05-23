@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Ghostbusters 2",
-        "   "
-    ],
+    "Title": "Ghostbusters 2",
     "Author": [
-        "\u00a0\u00a0Dan Aykroyd\u00a0\u00a0Harold Ramis"
+        "Dan Aykroyd",
+        "Harold Ramis"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Comedy\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Sci-Fi",
+        "Comedy",
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {

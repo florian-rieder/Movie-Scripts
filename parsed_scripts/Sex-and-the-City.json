@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Sex and the City",
-        "   "
-    ],
+    "Title": "Sex and the City",
     "Author": [
-        "\u00a0\u00a0Michael Patrick King"
+        "Michael Patrick King"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

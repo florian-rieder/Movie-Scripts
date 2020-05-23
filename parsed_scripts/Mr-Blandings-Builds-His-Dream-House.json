@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Mr Blandings Builds His Dream House",
-        "   "
-    ],
+    "Title": "Mr Blandings Builds His Dream House",
     "Author": [
-        "\u00a0\u00a0Melvin Frank\u00a0\u00a0Norman Panama"
+        "Melvin Frank",
+        "Norman Panama"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -748,23 +746,6 @@
                     "Didascalie": "(pause)",
                     "Start": 285146,
                     "End": 285397
-                }
-            ]
-        },
-        {
-            "Character": "A BILLBOARD",
-            "Replies": [
-                {
-                    "Reply": "A billboard -- against a white background is a large ham. In large letters across the ham is printed:  WHAM!",
-                    "Didascalie": "",
-                    "Start": 5459,
-                    "End": 5626
-                },
-                {
-                    "Reply": "And below this in quotes:  \"WHEN YOU'VE GOT THE WHIM, SAY 'WHAM!'\"",
-                    "Didascalie": "(A WHALE OF A HAM)",
-                    "Start": 5680,
-                    "End": 5789
                 }
             ]
         },
@@ -6738,17 +6719,6 @@
                     "Didascalie": "",
                     "Start": 213129,
                     "End": 213156
-                }
-            ]
-        },
-        {
-            "Character": "OTHER END OF BRIDGE AND FORK",
-            "Replies": [
-                {
-                    "Reply": "That's the wrong road! Any fool knows that!",
-                    "Didascalie": "(as Jim would say it)",
-                    "Start": 205749,
-                    "End": 205845
                 }
             ]
         },

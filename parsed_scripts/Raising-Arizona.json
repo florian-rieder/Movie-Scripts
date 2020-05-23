@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Raising Arizona",
-        "   "
-    ],
+    "Title": "Raising Arizona",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -660,17 +658,6 @@
                     "Didascalie": "",
                     "Start": 147279,
                     "End": 147352
-                }
-            ]
-        },
-        {
-            "Character": "A WALL",
-            "Replies": [
-                {
-                    "Reply": "With horizontal hatch lines.",
-                    "Didascalie": "",
-                    "Start": 292,
-                    "End": 321
                 }
             ]
         },
@@ -2631,17 +2618,6 @@
             ]
         },
         {
-            "Character": "NEWSREEL FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "A ballplayer connects - THWOCK - for a home run and the crowd roars.",
-                    "Didascalie": "",
-                    "Start": 2276,
-                    "End": 2347
-                }
-            ]
-        },
-        {
             "Character": "PRISON HALL",
             "Replies": [
                 {
@@ -3794,17 +3770,6 @@
                     "Didascalie": "",
                     "Start": 119625,
                     "End": 119694
-                }
-            ]
-        },
-        {
-            "Character": "A CALENDAR",
-            "Replies": [
-                {
-                    "Reply": "Ed is crossing off the last day on the calendar before a day circled in red.",
-                    "Didascalie": "",
-                    "Start": 14428,
-                    "End": 14507
                 }
             ]
         },
@@ -5625,17 +5590,6 @@
             ]
         },
         {
-            "Character": "A PARKED CAR",
-            "Replies": [
-                {
-                    "Reply": "As Hi lands against it, banging his head. He sinks to the ground.",
-                    "Didascalie": "",
-                    "Start": 134624,
-                    "End": 134692
-                }
-            ]
-        },
-        {
             "Character": "JUMP BACK",
             "Replies": [
                 {
@@ -5687,17 +5641,6 @@
                     "Didascalie": "",
                     "Start": 144777,
                     "End": 144850
-                }
-            ]
-        },
-        {
-            "Character": "A COUPLE",
-            "Replies": [
-                {
-                    "Reply": "The man and woman are sitting on a sofa in the foreground with their backs to the camera. They are in the living room of Hi and Ed's trailer, which is suffused with a warm golden light.",
-                    "Didascalie": "",
-                    "Start": 145673,
-                    "End": 145865
                 }
             ]
         }

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Slither",
-        "   "
-    ],
+    "Title": "Slither",
     "Author": [
-        "\u00a0\u00a0James Gunn"
+        "James Gunn"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {

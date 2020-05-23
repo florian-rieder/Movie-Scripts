@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Escape From New York",
-        "   "
-    ],
+    "Title": "Escape From New York",
     "Author": [
-        "\u00a0\u00a0John Carpenter\u00a0\u00a0Nick Castle"
+        "John Carpenter",
+        "Nick Castle"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2847,6 +2848,46 @@
                     "Didascalie": "",
                     "Start": 53505,
                     "End": 53576
+                }
+            ]
+        },
+        {
+            "Character": "SURVEILLANCE 4",
+            "Replies": [
+                {
+                    "Reply": "This is surveillance 4 to security control.  Nothing on the infrared body scan.  Nothing in the searchlight. There aren't any fires on the street.  Nobody moving down here.",
+                    "Didascalie": "",
+                    "Start": 41114,
+                    "End": 41287
+                },
+                {
+                    "Reply": "This is Surveillance 4 to Security Control.  Nothing on the infrared body scan.  Negative on the sweep.",
+                    "Didascalie": "",
+                    "Start": 42056,
+                    "End": 42160
+                },
+                {
+                    "Reply": "This is Surveillance 4 to Security Control.  Nothing on the infrared body scan.  Negative...",
+                    "Didascalie": "",
+                    "Start": 42340,
+                    "End": 42433
+                }
+            ]
+        },
+        {
+            "Character": "SURVEILLANCE 5",
+            "Replies": [
+                {
+                    "Reply": "Surveillance 5 . . . security control . . . negative on infrared body scan . . . no movement in the searchlight . . . nothing strange going on down there.",
+                    "Didascalie": "",
+                    "Start": 41364,
+                    "End": 41519
+                },
+                {
+                    "Reply": "Surveillance 5 still negative.",
+                    "Didascalie": "",
+                    "Start": 42293,
+                    "End": 42324
                 }
             ]
         },

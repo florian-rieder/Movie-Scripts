@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Rambo: First Blood II: The Mission",
-        "   "
-    ],
+    "Title": "Rambo: First Blood II: The Mission",
     "Author": [
-        "\u00a0\u00a0James Cameron"
+        "James Cameron"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -1850,12 +1848,6 @@
                     "End": 88780
                 },
                 {
-                    "Reply": "showing Rambo on his knees, at the center of a bare CONCRETE ROOM.  A single window admits a shaft of red dusk-light, like a spotlight.",
-                    "Didascalie": "",
-                    "Start": 91277,
-                    "End": 91413
-                },
-                {
                     "Reply": "The Huey's M-60 opens up, walking a parade of waterspouts toward him across the water.",
                     "Didascalie": "",
                     "Start": 140472,
@@ -1877,6 +1869,17 @@
                     "Didascalie": "(grimly)",
                     "Start": 53618,
                     "End": 53651
+                }
+            ]
+        },
+        {
+            "Character": "D-MINUS 51 HRS",
+            "Replies": [
+                {
+                    "Reply": "BANGKOK, THAILAND  Bangkok is a city of fervid motion and the street is chaotic with traffic.",
+                    "Didascalie": "",
+                    "Start": 15097,
+                    "End": 15191
                 }
             ]
         },
@@ -2694,6 +2697,17 @@
             ]
         },
         {
+            "Character": "D-MINUS 36 HRS",
+            "Replies": [
+                {
+                    "Reply": "BAN BUNG KHLA, THAILAND  A small airstrip transects a meadow bounded by rain-",
+                    "Didascalie": "",
+                    "Start": 19015,
+                    "End": 19093
+                }
+            ]
+        },
+        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -3010,6 +3024,17 @@
                     "Didascalie": "",
                     "Start": 82280,
                     "End": 82349
+                }
+            ]
+        },
+        {
+            "Character": "D-MINUS 11 HRS",
+            "Replies": [
+                {
+                    "Reply": "Brewer lifts an OLIVE-DRAB BOX onto the table inside the open-tent.  It looks like a large field radio with a complex console set in the top.",
+                    "Didascalie": "",
+                    "Start": 27696,
+                    "End": 27838
                 }
             ]
         },
@@ -4036,6 +4061,17 @@
             ]
         },
         {
+            "Character": "D-PLUS 53 HRS",
+            "Replies": [
+                {
+                    "Reply": "NAKON PHANOM, THAILAND  PAN OFF THE FLIGHTLINE onto Trautman gazing out the window of a small office.  He looks haggard.  Soul-weary.",
+                    "Didascalie": "",
+                    "Start": 111980,
+                    "End": 112114
+                }
+            ]
+        },
+        {
             "Character": "CORPORAL",
             "Replies": [
                 {
@@ -4071,6 +4107,17 @@
                     "Didascalie": "",
                     "Start": 122047,
                     "End": 122170
+                }
+            ]
+        },
+        {
+            "Character": "D-PLUS 58 HRS",
+            "Replies": [
+                {
+                    "Reply": "The telecom tech turns as Kirkhill enters.",
+                    "Didascalie": "",
+                    "Start": 126259,
+                    "End": 126302
                 }
             ]
         },
@@ -4145,6 +4192,17 @@
                     "Didascalie": "",
                     "Start": 153343,
                     "End": 153429
+                }
+            ]
+        },
+        {
+            "Character": "D-PLUS 60 HRS",
+            "Replies": [
+                {
+                    "Reply": "The battered Huey lumbers and dips over the terrain, barely in control.",
+                    "Didascalie": "",
+                    "Start": 154254,
+                    "End": 154326
                 }
             ]
         }

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Debt, The",
-        "   "
-    ],
+    "Title": "Debt, The",
     "Author": [
-        "\u00a0\u00a0Matthew Vaughn\u00a0\u00a0Jane Goldman\u00a0\u00a0Peter Straughan"
+        "Matthew Vaughn",
+        "Jane Goldman",
+        "Peter Straughan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3065,17 +3066,6 @@
             ]
         },
         {
-            "Character": "INSERT OF SYRINGE",
-            "Replies": [
-                {
-                    "Reply": "...which we see still contains some FLUID.",
-                    "Didascalie": "",
-                    "Start": 69778,
-                    "End": 69821
-                }
-            ]
-        },
-        {
             "Character": "EMERGENCY OPERATOR",
             "Replies": [
                 {
@@ -3253,17 +3243,6 @@
                     "Didascalie": "",
                     "Start": 153656,
                     "End": 153689
-                }
-            ]
-        },
-        {
-            "Character": "INSERT SHEET",
-            "Replies": [
-                {
-                    "Reply": "A photocopy of a JOURNALIST'S BY-LINE - a long, rather mournful face, the name YURI TITOV.",
-                    "Didascalie": "",
-                    "Start": 164488,
-                    "End": 164586
                 }
             ]
         },
@@ -3507,17 +3486,6 @@
                     "Didascalie": "",
                     "Start": 211662,
                     "End": 211772
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "We see the first line - \"My name is Rachel Singer.\"",
-                    "Didascalie": "",
-                    "Start": 213095,
-                    "End": 213147
                 }
             ]
         }

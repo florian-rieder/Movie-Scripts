@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Hard Rain",
-        "   "
-    ],
+    "Title": "Hard Rain",
     "Author": [
-        "\u00a0\u00a0Graham Yost"
+        "Graham Yost"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
         {
@@ -22,17 +22,6 @@
             ]
         },
         {
-            "Character": "A CHURCH",
-            "Replies": [
-                {
-                    "Reply": "Beautiful, old, ringed with a five-foot-high wall of sandbags. The floodwater is up to the first level of sandbags.",
-                    "Didascalie": "",
-                    "Start": 1321,
-                    "End": 1453
-                }
-            ]
-        },
-        {
             "Character": "CARS AND PICKUP TRUCKS",
             "Replies": [
                 {
@@ -40,17 +29,6 @@
                     "Didascalie": "",
                     "Start": 1508,
                     "End": 1613
-                }
-            ]
-        },
-        {
-            "Character": "A STATUE",
-            "Replies": [
-                {
-                    "Reply": "On an island in the middle of the street. It's Civil War-",
-                    "Didascalie": "",
-                    "Start": 1654,
-                    "End": 1712
                 }
             ]
         },
@@ -5022,17 +5000,6 @@
             ]
         },
         {
-            "Character": "A FIREBALL",
-            "Replies": [
-                {
-                    "Reply": "Shoots over him.",
-                    "Didascalie": "",
-                    "Start": 50480,
-                    "End": 50497
-                }
-            ]
-        },
-        {
             "Character": "KENNY AND RAY",
             "Replies": [
                 {
@@ -5121,17 +5088,6 @@
             ]
         },
         {
-            "Character": "A HANDRAIL",
-            "Replies": [
-                {
-                    "Reply": "On the wall, angles down into the water. Underwater there are a couple of steps leading up to a change in level in the hall -- that's what the jet-ski grounded on.",
-                    "Didascalie": "",
-                    "Start": 52153,
-                    "End": 52349
-                }
-            ]
-        },
-        {
             "Character": "HALLWAY",
             "Replies": [
                 {
@@ -5205,17 +5161,6 @@
                     "Didascalie": "",
                     "Start": 59464,
                     "End": 59494
-                }
-            ]
-        },
-        {
-            "Character": "A LARGE CRUCIFIX",
-            "Replies": [
-                {
-                    "Reply": "Being swung at his head. Thunk and...",
-                    "Didascalie": "",
-                    "Start": 59694,
-                    "End": 59732
                 }
             ]
         },
@@ -5713,28 +5658,6 @@
             ]
         },
         {
-            "Character": "A FIGURE",
-            "Replies": [
-                {
-                    "Reply": "Standing on the roof. The figure leans down and starts tugging at the wire cage over the inside of the fixture. In the light, Tom sees that it's...",
-                    "Didascalie": "",
-                    "Start": 81259,
-                    "End": 81439
-                }
-            ]
-        },
-        {
-            "Character": "A PROPANE TANK",
-            "Replies": [
-                {
-                    "Reply": "Explodes. The fireball rips across the dark sky, illuminating everything, showing...",
-                    "Didascalie": "",
-                    "Start": 82890,
-                    "End": 82991
-                }
-            ]
-        },
-        {
             "Character": "DARKNESS",
             "Replies": [
                 {
@@ -5834,23 +5757,6 @@
             ]
         },
         {
-            "Character": "A TRANSFORMER",
-            "Replies": [
-                {
-                    "Reply": "down the street explodes.",
-                    "Didascalie": "",
-                    "Start": 92504,
-                    "End": 92530
-                },
-                {
-                    "Reply": "the sparking sound. The floodwater is inching up the pole toward it.",
-                    "Didascalie": "",
-                    "Start": 92747,
-                    "End": 92832
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER TRANSFORMER",
             "Replies": [
                 {
@@ -5875,28 +5781,6 @@
                     "Didascalie": "",
                     "Start": 95488,
                     "End": 95613
-                }
-            ]
-        },
-        {
-            "Character": "A WOLF TRAP",
-            "Replies": [
-                {
-                    "Reply": "Laying on the floor, just below the window.",
-                    "Didascalie": "",
-                    "Start": 97514,
-                    "End": 97558
-                }
-            ]
-        },
-        {
-            "Character": "A POTTED CACTUS",
-            "Replies": [
-                {
-                    "Reply": "Off the windowsill. It falls straight down into...",
-                    "Didascalie": "",
-                    "Start": 97741,
-                    "End": 97792
                 }
             ]
         },
@@ -5945,17 +5829,6 @@
             ]
         },
         {
-            "Character": "A COW",
-            "Replies": [
-                {
-                    "Reply": "Floating in the water, tongue out, eyes glassy.",
-                    "Didascalie": "",
-                    "Start": 107686,
-                    "End": 107734
-                }
-            ]
-        },
-        {
             "Character": "HENRY AND DOREEN",
             "Replies": [
                 {
@@ -5975,17 +5848,6 @@
                     "Didascalie": "",
                     "Start": 189129,
                     "End": 189219
-                }
-            ]
-        },
-        {
-            "Character": "A DOZEN CASKETS",
-            "Replies": [
-                {
-                    "Reply": "Are floating in the water. Half of them have drifted up against the fence; the others are headed that way.",
-                    "Didascalie": "",
-                    "Start": 113715,
-                    "End": 113838
                 }
             ]
         },
@@ -6209,28 +6071,6 @@
             ]
         },
         {
-            "Character": "A QUARTER-MILE AWAY",
-            "Replies": [
-                {
-                    "Reply": "Looking back at the dam. The line of lights on top of the dam start to fall over, then go dark, snuffed out by an unseen force.",
-                    "Didascalie": "",
-                    "Start": 178560,
-                    "End": 178720
-                }
-            ]
-        },
-        {
-            "Character": "A BIBLE",
-            "Replies": [
-                {
-                    "Reply": "And he clutches it to his chest as...",
-                    "Didascalie": "",
-                    "Start": 183519,
-                    "End": 183557
-                }
-            ]
-        },
-        {
             "Character": "FIRE ESCAPE LADDER",
             "Replies": [
                 {
@@ -6253,17 +6093,6 @@
             ]
         },
         {
-            "Character": "A CAR",
-            "Replies": [
-                {
-                    "Reply": "At the front of the wave, being pushed by the water.",
-                    "Didascalie": "",
-                    "Start": 185280,
-                    "End": 185333
-                }
-            ]
-        },
-        {
             "Character": "PROPANE TANK",
             "Replies": [
                 {
@@ -6271,17 +6100,6 @@
                     "Didascalie": "",
                     "Start": 185667,
                     "End": 185775
-                }
-            ]
-        },
-        {
-            "Character": "A WINDOW",
-            "Replies": [
-                {
-                    "Reply": "Caves in and...",
-                    "Didascalie": "",
-                    "Start": 187302,
-                    "End": 187318
                 }
             ]
         },
@@ -6304,17 +6122,6 @@
                     "Didascalie": "",
                     "Start": 190420,
                     "End": 190444
-                }
-            ]
-        },
-        {
-            "Character": "A BOAT",
-            "Replies": [
-                {
-                    "Reply": "Racing toward the house. It's...",
-                    "Didascalie": "",
-                    "Start": 190960,
-                    "End": 190993
                 }
             ]
         }

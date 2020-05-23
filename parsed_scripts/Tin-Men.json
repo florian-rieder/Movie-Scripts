@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Tin Men",
-        "   "
-    ],
+    "Title": "Tin Men",
     "Author": [
-        "\u00a0\u00a0Barry Levinson"
+        "Barry Levinson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

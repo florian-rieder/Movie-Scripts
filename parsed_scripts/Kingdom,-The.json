@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Kingdom, The",
-        "   "
-    ],
+    "Title": "Kingdom, The",
     "Author": [
-        "\u00a0\u00a0Matthew Michael Carnahan"
+        "Matthew Michael Carnahan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3947,6 +3946,12 @@
                     "Didascalie": "",
                     "Start": 218353,
                     "End": 218359
+                },
+                {
+                    "Reply": "INSIDE!",
+                    "Didascalie": "(in Arabic)",
+                    "Start": 233984,
+                    "End": 234009
                 },
                 {
                     "Reply": "Is everyone alright?",

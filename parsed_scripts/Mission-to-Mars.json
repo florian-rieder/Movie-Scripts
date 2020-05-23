@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Mission to Mars",
-        "   "
-    ],
+    "Title": "Mission to Mars",
     "Author": [
-        "\u00a0\u00a0Lowell Cannon\u00a0\u00a0Jim Thomas\u00a0\u00a0John Thomas\u00a0\u00a0Graham Yost"
+        "Lowell Cannon",
+        "Jim Thomas",
+        "John Thomas",
+        "Graham Yost"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller\u00a0\u00a0Adventure"
+        "Drama",
+        "Sci-Fi",
+        "Thriller",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -5027,28 +5030,6 @@
             ]
         },
         {
-            "Character": "A SOBBING TECHNICIAN",
-            "Replies": [
-                {
-                    "Reply": "At her desk. TWO CO-WORKERS are trying to comfort her. One of these women looks up, and her reddened eyes meet...",
-                    "Didascalie": "",
-                    "Start": 75844,
-                    "End": 75974
-                }
-            ]
-        },
-        {
-            "Character": "A SPACESHIP",
-            "Replies": [
-                {
-                    "Reply": "much like its sister craft on Mars: a conical cockpit mounted above a \"tuna can\" crew Hab module.",
-                    "Didascalie": "",
-                    "Start": 88983,
-                    "End": 89097
-                }
-            ]
-        },
-        {
             "Character": "PHOTO OF A WOMAN",
             "Replies": [
                 {
@@ -5224,28 +5205,6 @@
                     "Didascalie": "",
                     "Start": 109819,
                     "End": 109908
-                }
-            ]
-        },
-        {
-            "Character": "A FIFTH PHOTO",
-            "Replies": [
-                {
-                    "Reply": "Shows McConnell, in a dress uniform, leaning in to kiss Maggie, who wears a white bridal gown.",
-                    "Didascalie": "",
-                    "Start": 110112,
-                    "End": 110223
-                }
-            ]
-        },
-        {
-            "Character": "A FINAL PHOTO",
-            "Replies": [
-                {
-                    "Reply": "Of Maggie in Jim's arms, both of them in goofy tropical vacation wear, smiling. Evidently a photo taken in the surf somewhere, but here it's been crudely superimposed onto a Martian landscape. Laughter greets this unlikely image.",
-                    "Didascalie": "",
-                    "Start": 111592,
-                    "End": 111870
                 }
             ]
         },
@@ -5550,39 +5509,6 @@
             ]
         },
         {
-            "Character": "A FRIGHTENING SIGHT",
-            "Replies": [
-                {
-                    "Reply": "The entire sky has darkened from its customary salmon into purplish-black at the horizon, with bloody streaks above. The DUST STORM has turned their way; it's now sixty kilometers away and closing. The main body of it reaches two thousand meters above the surface and stretches out along a thousand-",
-                    "Didascalie": "",
-                    "Start": 231019,
-                    "End": 231383
-                }
-            ]
-        },
-        {
-            "Character": "A SHAPE MATERIALIZES",
-            "Replies": [
-                {
-                    "Reply": "And slowly resolves itself into a glowing humanoid form, which we somehow sense is female. She appears benign, wondrous. This glowing MARTIAN -- a holograph -- regards the astronauts for a few moments, then beckons to them, as if to say \"Enter.\" All her motions are both calm and calming -- precise, unhurried, gracious.",
-                    "Didascalie": "",
-                    "Start": 243701,
-                    "End": 244102
-                }
-            ]
-        },
-        {
-            "Character": "A BLUE PLANET",
-            "Replies": [
-                {
-                    "Reply": "we do not recognize. All is peaceful, beautiful.",
-                    "Didascalie": "",
-                    "Start": 245747,
-                    "End": 245796
-                }
-            ]
-        },
-        {
             "Character": "SUDDENLY A HUGE ASTEROID",
             "Replies": [
                 {
@@ -5612,17 +5538,6 @@
                     "Didascalie": "",
                     "Start": 247578,
                     "End": 247683
-                }
-            ]
-        },
-        {
-            "Character": "A COBALT-BLUE TRANSPARENT LIQUID",
-            "Replies": [
-                {
-                    "Reply": "Is beginning to fill the cylinder! It swirls in, from some unknown source, rising rapidly; already his lower boots are covered.",
-                    "Didascalie": "",
-                    "Start": 263310,
-                    "End": 263470
                 }
             ]
         },

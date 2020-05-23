@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Airplane 2: The Sequel",
-        "   "
-    ],
+    "Title": "Airplane 2: The Sequel",
     "Author": [
-        "\u00a0\u00a0Ken Finkleman"
+        "Ken Finkleman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -29,12 +27,137 @@
                     "Didascalie": "",
                     "Start": 2757,
                     "End": 2889
-                },
+                }
+            ]
+        },
+        {
+            "Character": "CONTROLLER 1",
+            "Replies": [
                 {
                     "Reply": "You're programmed on R-two-niner and locked, Lunar eight six.  Over.",
                     "Didascalie": "(at computer screen)",
                     "Start": 2991,
                     "End": 3099
+                },
+                {
+                    "Reply": "This is Mercury launch control at \"T\"",
+                    "Didascalie": "",
+                    "Start": 61539,
+                    "End": 61577
+                },
+                {
+                    "Reply": "I said 'launch' not 'lunch'!",
+                    "Didascalie": "(V.O.) (on P.A.)",
+                    "Start": 61926,
+                    "End": 61975
+                },
+                {
+                    "Reply": "This is Mercury control at \"T\" minus fifty minutes and counting.  Commence loading of passengers requiring special boarding assistance.",
+                    "Didascalie": "(V.O.) (on P.A.)",
+                    "Start": 64789,
+                    "End": 65002
+                },
+                {
+                    "Reply": "Mike, give me a density reading.  I just hope it's not too heavy.",
+                    "Didascalie": "",
+                    "Start": 76619,
+                    "End": 76704
+                },
+                {
+                    "Reply": "That's heavy.",
+                    "Didascalie": "",
+                    "Start": 77038,
+                    "End": 77052
+                },
+                {
+                    "Reply": "Mark 'T' minus twenty and counting.",
+                    "Didascalie": "",
+                    "Start": 88272,
+                    "End": 88308
+                },
+                {
+                    "Reply": "Mark 'T' minus thirty seconds.",
+                    "Didascalie": "",
+                    "Start": 88736,
+                    "End": 88767
+                },
+                {
+                    "Reply": "'T' minus nine, eight, seven...",
+                    "Didascalie": "",
+                    "Start": 89201,
+                    "End": 89233
+                },
+                {
+                    "Reply": "Six, five, four...",
+                    "Didascalie": "",
+                    "Start": 89394,
+                    "End": 89413
+                },
+                {
+                    "Reply": "Three...",
+                    "Didascalie": "",
+                    "Start": 89540,
+                    "End": 89549
+                },
+                {
+                    "Reply": "Two, one.",
+                    "Didascalie": "",
+                    "Start": 90016,
+                    "End": 90026
+                },
+                {
+                    "Reply": "You have lift-off, Mercury One.",
+                    "Didascalie": "",
+                    "Start": 90195,
+                    "End": 90227
+                },
+                {
+                    "Reply": "Yes, sir.",
+                    "Didascalie": "",
+                    "Start": 138267,
+                    "End": 138277
+                },
+                {
+                    "Reply": "Yes, sir! Welcome home, sir!",
+                    "Didascalie": "",
+                    "Start": 138509,
+                    "End": 138538
+                },
+                {
+                    "Reply": "Come in, Mayflower.  This is mission control.  Over.  Come in, Mayflower!",
+                    "Didascalie": "(V.O.) (on radio)",
+                    "Start": 141345,
+                    "End": 141458
+                },
+                {
+                    "Reply": "Come in, Mayflower.  Over!",
+                    "Didascalie": "",
+                    "Start": 156621,
+                    "End": 156648
+                },
+                {
+                    "Reply": "Let me try, sir.  Come in, Mayflower.",
+                    "Didascalie": "(taking mike)",
+                    "Start": 159019,
+                    "End": 159077
+                },
+                {
+                    "Reply": "Do you read, Mayflower?  Over.  This is mission control.  Over.",
+                    "Didascalie": "",
+                    "Start": 163239,
+                    "End": 163322
+                },
+                {
+                    "Reply": "Could be those sunspots.",
+                    "Didascalie": "",
+                    "Start": 168978,
+                    "End": 169003
+                },
+                {
+                    "Reply": "They're screwed.",
+                    "Didascalie": "(V.O.) (thinking)",
+                    "Start": 172267,
+                    "End": 172304
                 }
             ]
         },
@@ -3208,6 +3331,62 @@
             ]
         },
         {
+            "Character": "PORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Say, wasn't that Dr. Barrington, the world-renowned agronomist?",
+                    "Didascalie": "",
+                    "Start": 34256,
+                    "End": 34339
+                },
+                {
+                    "Reply": "No, but the missus sure is.",
+                    "Didascalie": "",
+                    "Start": 34551,
+                    "End": 34579
+                }
+            ]
+        },
+        {
+            "Character": "PORTER 1",
+            "Replies": [
+                {
+                    "Reply": "That's right.  Are you familiar with his work?",
+                    "Didascalie": "",
+                    "Start": 34412,
+                    "End": 34478
+                }
+            ]
+        },
+        {
+            "Character": "BUSINESSMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Don't worry about the Viatex account.",
+                    "Didascalie": "",
+                    "Start": 35131,
+                    "End": 35169
+                },
+                {
+                    "Reply": "Don't sweat it.",
+                    "Didascalie": "",
+                    "Start": 35486,
+                    "End": 35502
+                }
+            ]
+        },
+        {
+            "Character": "BUSINESSMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Just keep on top of their legal people, Bob.",
+                    "Didascalie": "",
+                    "Start": 35344,
+                    "End": 35408
+                }
+            ]
+        },
+        {
             "Character": "AGENT",
             "Replies": [
                 {
@@ -4405,6 +4584,188 @@
             ]
         },
         {
+            "Character": "CHILD 1",
+            "Replies": [
+                {
+                    "Reply": "Will we die, Pappa?",
+                    "Didascalie": "",
+                    "Start": 73971,
+                    "End": 73991
+                }
+            ]
+        },
+        {
+            "Character": "CHILD 2",
+            "Replies": [
+                {
+                    "Reply": "Will we die soon, Pappa?",
+                    "Didascalie": "",
+                    "Start": 74152,
+                    "End": 74177
+                }
+            ]
+        },
+        {
+            "Character": "CONTROLLER 2",
+            "Replies": [
+                {
+                    "Reply": "There seems to be some fog rolling in from the west.",
+                    "Didascalie": "",
+                    "Start": 76470,
+                    "End": 76542
+                },
+                {
+                    "Reply": "Here are the navigational charts, sir.",
+                    "Didascalie": "(approaching McCrosky)",
+                    "Start": 138759,
+                    "End": 138818
+                },
+                {
+                    "Reply": "Let me try, sir.  Come in.  Over.  Damnit!",
+                    "Didascalie": "(taking mike)",
+                    "Start": 159286,
+                    "End": 159349
+                },
+                {
+                    "Reply": "They're dead.",
+                    "Didascalie": "(V.O.) (thinking)",
+                    "Start": 172403,
+                    "End": 172437
+                },
+                {
+                    "Reply": "McCROSKY How'd they come out?",
+                    "Didascalie": "",
+                    "Start": 193218,
+                    "End": 193267
+                },
+                {
+                    "Reply": "Upside-down, but I turned each page over and put them in order.  I'm afraid that computer is totally capable of taking control of that ship.",
+                    "Didascalie": "",
+                    "Start": 193344,
+                    "End": 193542
+                },
+                {
+                    "Reply": "I think...",
+                    "Didascalie": "",
+                    "Start": 207401,
+                    "End": 207412
+                },
+                {
+                    "Reply": "... No.",
+                    "Didascalie": "(V.O.) (changes mind)",
+                    "Start": 207450,
+                    "End": 207478
+                },
+                {
+                    "Reply": "I think...",
+                    "Didascalie": "",
+                    "Start": 207741,
+                    "End": 207752
+                },
+                {
+                    "Reply": "... No.",
+                    "Didascalie": "(V.O.) (changes mind)",
+                    "Start": 207790,
+                    "End": 207818
+                },
+                {
+                    "Reply": "I think...",
+                    "Didascalie": "",
+                    "Start": 208069,
+                    "End": 208080
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "(V.O.) (changes mind)",
+                    "Start": 208118,
+                    "End": 208142
+                }
+            ]
+        },
+        {
+            "Character": "CONTROLLER 3",
+            "Replies": [
+                {
+                    "Reply": "The fog, the fog, the torment clouded my mind.  Derision, contempt...",
+                    "Didascalie": "(reading from a book like Richard Burton)",
+                    "Start": 76852,
+                    "End": 76961
+                },
+                {
+                    "Reply": "McCrosky?  He hasn't handled a tower in twenty years.",
+                    "Didascalie": "",
+                    "Start": 129083,
+                    "End": 129156
+                },
+                {
+                    "Reply": "Pretty much the same as Reagan.",
+                    "Didascalie": "",
+                    "Start": 129540,
+                    "End": 129572
+                },
+                {
+                    "Reply": "Yes, sir.",
+                    "Didascalie": "",
+                    "Start": 139159,
+                    "End": 139169
+                },
+                {
+                    "Reply": "Let me try, sir.",
+                    "Didascalie": "",
+                    "Start": 159505,
+                    "End": 159522
+                },
+                {
+                    "Reply": "If you say so.",
+                    "Didascalie": "",
+                    "Start": 168557,
+                    "End": 168572
+                },
+                {
+                    "Reply": "Did I leave the iron on?",
+                    "Didascalie": "(V.O.) (thinking)",
+                    "Start": 172536,
+                    "End": 172581
+                },
+                {
+                    "Reply": "Eighty-three.  What's that mean?",
+                    "Didascalie": "(reading his slip)",
+                    "Start": 180773,
+                    "End": 180826
+                },
+                {
+                    "Reply": "These are their position calculations.",
+                    "Didascalie": "(rushes up with diagrams)",
+                    "Start": 193841,
+                    "End": 193900
+                },
+                {
+                    "Reply": "Should a man in his forties have a circumcision?",
+                    "Didascalie": "",
+                    "Start": 201034,
+                    "End": 201102
+                },
+                {
+                    "Reply": "We could knock out the wall between the cockpit and cabin, and hang plants.",
+                    "Didascalie": "",
+                    "Start": 207562,
+                    "End": 207657
+                },
+                {
+                    "Reply": "Not anymore.  It's Rex Kramer, now.",
+                    "Didascalie": "",
+                    "Start": 226365,
+                    "End": 226401
+                },
+                {
+                    "Reply": "No, Rex Kramer.",
+                    "Didascalie": "",
+                    "Start": 226567,
+                    "End": 226583
+                }
+            ]
+        },
+        {
             "Character": "MARY",
             "Replies": [
                 {
@@ -4454,12 +4815,6 @@
                     "Didascalie": "(to Texan)",
                     "Start": 96290,
                     "End": 96344
-                },
-                {
-                    "Reply": "TIME, NEWSWEEK, BUSINESS WEEK, and the TALMUD...",
-                    "Didascalie": "",
-                    "Start": 96556,
-                    "End": 96624
                 },
                 {
                     "Reply": "The twenty-four volume dissertation on the Hebrew law.",
@@ -4898,6 +5253,75 @@
             ]
         },
         {
+            "Character": "CONTROLLER 4",
+            "Replies": [
+                {
+                    "Reply": "Ever since Reagan fired the controllers, he's been completely senile and hasn't done a day's work.",
+                    "Didascalie": "",
+                    "Start": 129233,
+                    "End": 129370
+                },
+                {
+                    "Reply": "Here's all the available information on the sun.  That thing's hot, sir.",
+                    "Didascalie": "",
+                    "Start": 139246,
+                    "End": 139338
+                },
+                {
+                    "Reply": "Sir, your headlights are on and your doors are locked!",
+                    "Didascalie": "(rushes in)",
+                    "Start": 194333,
+                    "End": 194427
+                },
+                {
+                    "Reply": "Jesus!!  I'll be right back!",
+                    "Didascalie": "(spitting out coffee, Danny Thomas style)",
+                    "Start": 194571,
+                    "End": 194620
+                },
+                {
+                    "Reply": "You can't knock that wall out.  That's a support wall, asshole.",
+                    "Didascalie": "",
+                    "Start": 207902,
+                    "End": 207985
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 2",
+            "Replies": [
+                {
+                    "Reply": "Do you think we should bother him?  He's been acting a bit odd lately.",
+                    "Didascalie": "",
+                    "Start": 129989,
+                    "End": 130079
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 1",
+            "Replies": [
+                {
+                    "Reply": "He's fine.  He just thinks he's Lloyd Bridges.",
+                    "Didascalie": "",
+                    "Start": 130358,
+                    "End": 130424
+                },
+                {
+                    "Reply": "The phone's for you, Mr. McCrosky.",
+                    "Didascalie": "",
+                    "Start": 130603,
+                    "End": 130638
+                },
+                {
+                    "Reply": "Here, let me help you.  I think it's the space centre.  Now, let's not get too excited.",
+                    "Didascalie": "(holding it to his ear)",
+                    "Start": 130827,
+                    "End": 130973
+                }
+            ]
+        },
+        {
             "Character": "CLOSEUP OF ELAINE",
             "Replies": [
                 {
@@ -4905,6 +5329,23 @@
                     "Didascalie": "",
                     "Start": 132974,
                     "End": 132995
+                }
+            ]
+        },
+        {
+            "Character": "TERRORIST 1",
+            "Replies": [
+                {
+                    "Reply": "This is flight to Miami, yes?",
+                    "Didascalie": "",
+                    "Start": 133868,
+                    "End": 133898
+                },
+                {
+                    "Reply": "God is great!!",
+                    "Didascalie": "",
+                    "Start": 137106,
+                    "End": 137121
                 }
             ]
         },
@@ -4972,6 +5413,28 @@
             ]
         },
         {
+            "Character": "TERRORIST 2",
+            "Replies": [
+                {
+                    "Reply": "Death to America!!",
+                    "Didascalie": "",
+                    "Start": 137197,
+                    "End": 137216
+                }
+            ]
+        },
+        {
+            "Character": "TERRORIST 3",
+            "Replies": [
+                {
+                    "Reply": "The yellow pencil is on the table of my aunt!!",
+                    "Didascalie": "",
+                    "Start": 137292,
+                    "End": 137358
+                }
+            ]
+        },
+        {
             "Character": "GUARD ONE",
             "Replies": [
                 {
@@ -4979,6 +5442,57 @@
                     "Didascalie": "(Southern accent)",
                     "Start": 146377,
                     "End": 146439
+                }
+            ]
+        },
+        {
+            "Character": "PROFESSOR 1",
+            "Replies": [
+                {
+                    "Reply": "And I say essence precedes existence.",
+                    "Didascalie": "",
+                    "Start": 151692,
+                    "End": 151730
+                },
+                {
+                    "Reply": "Essence!",
+                    "Didascalie": "",
+                    "Start": 151925,
+                    "End": 151934
+                }
+            ]
+        },
+        {
+            "Character": "PROFESSOR 2",
+            "Replies": [
+                {
+                    "Reply": "You're crazy!  Existence precedes essence.",
+                    "Didascalie": "",
+                    "Start": 151806,
+                    "End": 151849
+                },
+                {
+                    "Reply": "Existence!",
+                    "Didascalie": "",
+                    "Start": 152010,
+                    "End": 152021
+                }
+            ]
+        },
+        {
+            "Character": "CONTROLLER 5",
+            "Replies": [
+                {
+                    "Reply": "Give 'em the lead!",
+                    "Didascalie": "",
+                    "Start": 160578,
+                    "End": 160597
+                },
+                {
+                    "Reply": "Did I flush?",
+                    "Didascalie": "",
+                    "Start": 208226,
+                    "End": 208239
                 }
             ]
         },
@@ -5111,47 +5625,42 @@
             ]
         },
         {
-            "Character": "BUFFALO LOCAL NEWS SET",
+            "Character": "ANCHOR 1",
             "Replies": [
                 {
-                    "Reply": "FILM INSET:  APARTMENT FIRE  Set logo reads, \"NEWS 4 BUFFALO.\"",
+                    "Reply": "Four alarm fire rages through downtown Buffalo!",
                     "Didascalie": "",
-                    "Start": 182534,
-                    "End": 182617
-                }
-            ]
-        },
-        {
-            "Character": "TOKYO LOCAL NEWS SET",
-            "Replies": [
-                {
-                    "Reply": "FILM INSET:  APARTMENT FIRE  Set logo reads, \"NEWS 4 TOKYO\"",
-                    "Didascalie": "",
-                    "Start": 182993,
-                    "End": 183073
+                    "Start": 182690,
+                    "End": 182757
                 },
                 {
                     "Reply": "Four alarm fire guts Tokyo apartment.",
                     "Didascalie": "(subtitles)",
                     "Start": 183162,
                     "End": 183220
-                }
-            ]
-        },
-        {
-            "Character": "MOSCOW LOCAL NEWS SET",
-            "Replies": [
-                {
-                    "Reply": "FILM INSET:  APARTMENT FIRE  Set logo reads, \"NEWS 3 MOSCOW.\"  A gun is held to ANCHORMAN'S head.",
-                    "Didascalie": "",
-                    "Start": 183545,
-                    "End": 183673
                 },
                 {
                     "Reply": "Four alarm fire in downtown Moscow clears way for glorious new tractor factory.",
                     "Didascalie": "(subtitles)",
                     "Start": 183762,
                     "End": 183881
+                }
+            ]
+        },
+        {
+            "Character": "ANCHOR 2",
+            "Replies": [
+                {
+                    "Reply": "Mercury shuttle heads for sun.",
+                    "Didascalie": "",
+                    "Start": 182888,
+                    "End": 182919
+                },
+                {
+                    "Reply": "Mercury mission in death struggle.",
+                    "Didascalie": "(subtitles)",
+                    "Start": 183415,
+                    "End": 183470
                 },
                 {
                     "Reply": "Capitalist, imperialist adventurism ends in space disaster.",
@@ -5545,6 +6054,17 @@
                     "Didascalie": "(V.O.) (voice fading)",
                     "Start": 243931,
                     "End": 244028
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "Sir, we have radio contact.",
+                    "Didascalie": "",
+                    "Start": 230986,
+                    "End": 231014
                 }
             ]
         },

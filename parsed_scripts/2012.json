@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "2012",
-        "   "
-    ],
+    "Title": "2012",
     "Author": [
-        "\u00a0\u00a0Roland Emmerich\u00a0\u00a0Harald Kloser"
+        "Roland Emmerich",
+        "Harald Kloser"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1472,6 +1474,29 @@
                     "Didascalie": "",
                     "Start": 15530,
                     "End": 15544
+                }
+            ]
+        },
+        {
+            "Character": "MI-6 OFFICER",
+            "Replies": [
+                {
+                    "Reply": "Has his Highness had the opportunity to study the dossier?",
+                    "Didascalie": "",
+                    "Start": 16805,
+                    "End": 16884
+                },
+                {
+                    "Reply": "Isaacs.",
+                    "Didascalie": "",
+                    "Start": 17197,
+                    "End": 17205
+                },
+                {
+                    "Reply": "I'm afraid the amount is in Euros, your Highness.",
+                    "Didascalie": "",
+                    "Start": 17441,
+                    "End": 17511
                 }
             ]
         },

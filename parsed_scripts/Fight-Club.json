@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Fight Club",
-        "   "
-    ],
+    "Title": "Fight Club",
     "Author": [
-        "\u00a0\u00a0Jim Uhls"
+        "Jim Uhls"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -7308,17 +7307,6 @@
             ]
         },
         {
-            "Character": "END INTERCUT",
-            "Replies": [
-                {
-                    "Reply": "Jack hangs up.  Tyler shrugs.",
-                    "Didascalie": "",
-                    "Start": 109629,
-                    "End": 109659
-                }
-            ]
-        },
-        {
             "Character": "FAT MAN",
             "Replies": [
                 {
@@ -7904,6 +7892,17 @@
                     "Didascalie": "",
                     "Start": 198130,
                     "End": 198169
+                }
+            ]
+        },
+        {
+            "Character": "BRUISED PATRON 12",
+            "Replies": [
+                {
+                    "Reply": "Is Mr. Durden building an army?",
+                    "Didascalie": "",
+                    "Start": 199271,
+                    "End": 199303
                 }
             ]
         },

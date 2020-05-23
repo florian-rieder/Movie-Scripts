@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "The Rage: Carrie 2",
-        "   "
-    ],
+    "Title": "The Rage: Carrie 2",
     "Author": [
-        "\u00a0\u00a0Rafael Moreu"
+        "Rafael Moreu"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -18,17 +17,6 @@
                     "Didascalie": "",
                     "Start": 115,
                     "End": 472
-                }
-            ]
-        },
-        {
-            "Character": "A FOUR-YEAR-OLD GIRL",
-            "Replies": [
-                {
-                    "Reply": "standing next to him, also watching. This is RACHEL. Dark haired, in a plain dress. Her large eyes are welling on the verge of tears.",
-                    "Didascalie": "",
-                    "Start": 1710,
-                    "End": 1864
                 }
             ]
         },
@@ -1142,17 +1130,6 @@
                     "Didascalie": "(QUIETLY)",
                     "Start": 5565,
                     "End": 5580
-                }
-            ]
-        },
-        {
-            "Character": "A CLOSET",
-            "Replies": [
-                {
-                    "Reply": "where she finds WALTER huddling and cradles him in her arms.",
-                    "Didascalie": "",
-                    "Start": 6561,
-                    "End": 6622
                 }
             ]
         },
@@ -3152,17 +3129,6 @@
             ]
         },
         {
-            "Character": "A STAIRWELL",
-            "Replies": [
-                {
-                    "Reply": "LISA ascends several flights, still brushing the wall, exiting onto the...",
-                    "Didascalie": "",
-                    "Start": 23287,
-                    "End": 23372
-                }
-            ]
-        },
-        {
             "Character": "SMOKING GIRL",
             "Replies": [
                 {
@@ -3181,17 +3147,6 @@
                     "Didascalie": "",
                     "Start": 23778,
                     "End": 23988
-                }
-            ]
-        },
-        {
-            "Character": "A ROW OF OUTDOOR LOCKERS",
-            "Replies": [
-                {
-                    "Reply": "to \"ULQ open, behind her, like dominoes, banging in a wave away from her, startling KIDS near them.",
-                    "Didascalie": "",
-                    "Start": 24521,
-                    "End": 24631
                 }
             ]
         },
@@ -4420,17 +4375,6 @@
             ]
         },
         {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "grabs her forearm. SUE jerks. Looks up.",
-                    "Didascalie": "",
-                    "Start": 93606,
-                    "End": 93646
-                }
-            ]
-        },
-        {
             "Character": "LIBRARY MATRON",
             "Replies": [
                 {
@@ -4629,17 +4573,6 @@
             ]
         },
         {
-            "Character": "A P-ALN",
-            "Replies": [
-                {
-                    "Reply": "Man, he'll ruin the whole effect.",
-                    "Didascalie": "",
-                    "Start": 134059,
-                    "End": 134093
-                }
-            ]
-        },
-        {
             "Character": "RA",
             "Replies": [
                 {
@@ -4673,17 +4606,6 @@
             ]
         },
         {
-            "Character": "A COUPLE MAKING LOVE --",
-            "Replies": [
-                {
-                    "Reply": "from the waist up, with thick scan lines that almost make it look surreal. It's obvious that the girl is RACHEL, and the boy is JESSE.",
-                    "Didascalie": "",
-                    "Start": 154153,
-                    "End": 154308
-                }
-            ]
-        },
-        {
             "Character": "CK",
             "Replies": [
                 {
@@ -4691,28 +4613,6 @@
                     "Didascalie": "",
                     "Start": 155440,
                     "End": 155471
-                }
-            ]
-        },
-        {
-            "Character": "A LAUGHING BRAD",
-            "Replies": [
-                {
-                    "Reply": "glances down at RACHEL's arm.",
-                    "Didascalie": "",
-                    "Start": 157731,
-                    "End": 157761
-                }
-            ]
-        },
-        {
-            "Character": "A KNIFE",
-            "Replies": [
-                {
-                    "Reply": "on the bar dances and rattles, then...",
-                    "Didascalie": "",
-                    "Start": 158760,
-                    "End": 158799
                 }
             ]
         },
@@ -4735,28 +4635,6 @@
                     "Didascalie": "",
                     "Start": 162009,
                     "End": 162025
-                }
-            ]
-        },
-        {
-            "Character": "A HALLWAY",
-            "Replies": [
-                {
-                    "Reply": "where each of the DOORS ahead of them SLAM SHUT as they approach.",
-                    "Didascalie": "",
-                    "Start": 165182,
-                    "End": 165258
-                }
-            ]
-        },
-        {
-            "Character": "A DEN",
-            "Replies": [
-                {
-                    "Reply": "where the walls are decorated with deer heads and hunting trophies. MARK and ERIC are smashing a standing glass case containing pistols and rifles.",
-                    "Didascalie": "",
-                    "Start": 165537,
-                    "End": 165705
                 }
             ]
         },
@@ -4790,17 +4668,6 @@
                     "Didascalie": "",
                     "Start": 172628,
                     "End": 172671
-                }
-            ]
-        },
-        {
-            "Character": "A LARGE SNAKE",
-            "Replies": [
-                {
-                    "Reply": "FLIES out and jams itself into JESSE's mouth, throwing him back.",
-                    "Didascalie": "",
-                    "Start": 179360,
-                    "End": 179435
                 }
             ]
         },

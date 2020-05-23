@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Superbad",
-        "   "
-    ],
+    "Title": "Superbad",
     "Author": [
-        "\u00a0\u00a0Seth Rogen\u00a0\u00a0Evan Goldberg"
+        "Seth Rogen",
+        "Evan Goldberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -5630,6 +5628,70 @@
             ]
         },
         {
+            "Character": "GUY 1",
+            "Replies": [
+                {
+                    "Reply": "What is that? Is that red wine?",
+                    "Didascalie": "",
+                    "Start": 119130,
+                    "End": 119162
+                },
+                {
+                    "Reply": "That shit you spilled all over yourself, idiot.",
+                    "Didascalie": "",
+                    "Start": 119638,
+                    "End": 119704
+                },
+                {
+                    "Reply": "Oh my lord. You were just dancing in there, right?",
+                    "Didascalie": "",
+                    "Start": 120187,
+                    "End": 120256
+                },
+                {
+                    "Reply": "It's fucking blood.",
+                    "Didascalie": "",
+                    "Start": 120412,
+                    "End": 120432
+                },
+                {
+                    "Reply": "I gotta show this to Bill.",
+                    "Didascalie": "",
+                    "Start": 121269,
+                    "End": 121296
+                },
+                {
+                    "Reply": "There! That's the guy!",
+                    "Didascalie": "",
+                    "Start": 134975,
+                    "End": 134998
+                }
+            ]
+        },
+        {
+            "Character": "GUY 2",
+            "Replies": [
+                {
+                    "Reply": "I've never seen that before in my life.",
+                    "Didascalie": "",
+                    "Start": 120790,
+                    "End": 120830
+                },
+                {
+                    "Reply": "We should find who did it.",
+                    "Didascalie": "",
+                    "Start": 121472,
+                    "End": 121499
+                },
+                {
+                    "Reply": "Who'd you dance with?",
+                    "Didascalie": "",
+                    "Start": 121667,
+                    "End": 121689
+                }
+            ]
+        },
+        {
             "Character": "PARTY DUDE",
             "Replies": [
                 {
@@ -5689,6 +5751,92 @@
                     "Didascalie": "",
                     "Start": 177584,
                     "End": 177625
+                }
+            ]
+        },
+        {
+            "Character": "DUDE 1",
+            "Replies": [
+                {
+                    "Reply": "They're going to kill that guy, man. That bitch's boyfriend is so pissed.",
+                    "Didascalie": "",
+                    "Start": 132026,
+                    "End": 132118
+                },
+                {
+                    "Reply": "AAAHHHHHHH!!! FUCK!!!",
+                    "Didascalie": "",
+                    "Start": 139031,
+                    "End": 139053
+                }
+            ]
+        },
+        {
+            "Character": "DUDE 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah. And he's a beast.",
+                    "Didascalie": "",
+                    "Start": 132172,
+                    "End": 132196
+                },
+                {
+                    "Reply": "I know you! Guys! I know that guy, he was at that party with me.",
+                    "Didascalie": "",
+                    "Start": 132872,
+                    "End": 132955
+                },
+                {
+                    "Reply": "He's Jimmy's brother. The dude with the crazy raps, the one I told you about!",
+                    "Didascalie": "",
+                    "Start": 133075,
+                    "End": 133171
+                },
+                {
+                    "Reply": "HOLD HIM!!!",
+                    "Didascalie": "",
+                    "Start": 139444,
+                    "End": 139456
+                }
+            ]
+        },
+        {
+            "Character": "DUDE 3",
+            "Replies": [
+                {
+                    "Reply": "Hey! Was it you? Are you the guy? The kid with the splotch on his crotch?",
+                    "Didascalie": "",
+                    "Start": 132363,
+                    "End": 132455
+                },
+                {
+                    "Reply": "No. No, that's you, man. You are fully Jimmy's brother! You were just so messed up you can't remember.",
+                    "Didascalie": "",
+                    "Start": 133465,
+                    "End": 133604
+                },
+                {
+                    "Reply": "It was you! I know it! Come on! Rap! I've been telling these guys about you. Just give them one rap. Come on. Rap. Rap.",
+                    "Didascalie": "",
+                    "Start": 133787,
+                    "End": 133943
+                },
+                {
+                    "Reply": "Hold him!",
+                    "Didascalie": "",
+                    "Start": 139320,
+                    "End": 139330
+                }
+            ]
+        },
+        {
+            "Character": "DUDE 4",
+            "Replies": [
+                {
+                    "Reply": "Who's he?",
+                    "Didascalie": "",
+                    "Start": 133011,
+                    "End": 133021
                 }
             ]
         },

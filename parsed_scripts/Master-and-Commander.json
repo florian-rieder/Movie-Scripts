@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Master and Commander",
-        "   "
-    ],
+    "Title": "Master and Commander",
     "Author": [
-        "\u00a0\u00a0John Collee\u00a0\u00a0Peter Weir"
+        "John Collee",
+        "Peter Weir"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Action",
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {
@@ -150,12 +150,6 @@
                     "Didascalie": "",
                     "Start": 26417,
                     "End": 26617
-                },
-                {
-                    "Reply": "Pass the word to ship oars   78 IN THE JOLLY BOATs. - NIGHT  The rowers slump forwards in their seats, their hands raw and crabbed.",
-                    "Didascalie": "",
-                    "Start": 27065,
-                    "End": 27197
                 },
                 {
                     "Reply": "Very good, Mr. Lamb.",

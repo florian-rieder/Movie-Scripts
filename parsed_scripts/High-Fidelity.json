@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "High Fidelity",
-        "   "
-    ],
+    "Title": "High Fidelity",
     "Author": [
-        "\u00a0\u00a0Nick Hornby\u00a0\u00a0D.V. DeVincentis"
+        "Nick Hornby",
+        "D.V. DeVincentis"
     ],
     "Genre": [
-        "\u00a0\u00a0Romance\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Music"
+        "Romance",
+        "Comedy",
+        "Drama",
+        "Music"
     ],
     "Characters": [
         {

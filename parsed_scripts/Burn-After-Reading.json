@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Burn After Reading",
-        "   "
-    ],
+    "Title": "Burn After Reading",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -6258,17 +6257,6 @@
                     "Didascalie": "",
                     "Start": 184657,
                     "End": 184688
-                }
-            ]
-        },
-        {
-            "Character": "A HOPPING MAN IN A UNITARD",
-            "Replies": [
-                {
-                    "Reply": "His hands are on his hips. He is darkly Mediterranean and very fit. He smiles into the camera as he hops in time to upbeat music, kicking a leg out on each beat.",
-                    "Didascalie": "",
-                    "Start": 129802,
-                    "End": 129976
                 }
             ]
         },

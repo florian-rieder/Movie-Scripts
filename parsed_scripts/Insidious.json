@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Insidious",
-        "   "
-    ],
+    "Title": "Insidious",
     "Author": [
-        "\u00a0\u00a0Leigh Whannell"
+        "Leigh Whannell"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

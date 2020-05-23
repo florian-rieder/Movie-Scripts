@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "South Park",
-        "   "
-    ],
+    "Title": "South Park",
     "Author": [
-        "\u00a0\u00a0Trey Parker\u00a0\u00a0Matt Stone\u00a0\u00a0Pam Brady"
+        "Trey Parker",
+        "Matt Stone",
+        "Pam Brady"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Musical"
+        "Animation",
+        "Comedy",
+        "Musical"
     ],
     "Characters": [
         {
@@ -4329,6 +4330,17 @@
             ]
         },
         {
+            "Character": "CHILD 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah, and fuck your yellow hair. And fuck your gay pants.",
+                    "Didascalie": "",
+                    "Start": 39495,
+                    "End": 39572
+                }
+            ]
+        },
+        {
             "Character": "CANADIAN MINISTER OF MOVIES",
             "Replies": [
                 {
@@ -4501,6 +4513,17 @@
                     "Didascalie": "",
                     "Start": 49684,
                     "End": 49699
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR 2",
+            "Replies": [
+                {
+                    "Reply": "My bad, sir.  I missed lunch.",
+                    "Didascalie": "",
+                    "Start": 50462,
+                    "End": 50492
                 }
             ]
         },
@@ -5730,6 +5753,17 @@
             ]
         },
         {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "You get a star for doing well in school.",
+                    "Didascalie": "",
+                    "Start": 115497,
+                    "End": 115538
+                }
+            ]
+        },
+        {
             "Character": "CHEF",
             "Replies": [
                 {
@@ -6048,6 +6082,17 @@
                     "Didascalie": "",
                     "Start": 133768,
                     "End": 133897
+                }
+            ]
+        },
+        {
+            "Character": "FIFTH GRADER 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah, go eat some potatoes and ride donkeys!",
+                    "Didascalie": "",
+                    "Start": 133036,
+                    "End": 133100
                 }
             ]
         },
@@ -6487,6 +6532,17 @@
             ]
         },
         {
+            "Character": "RANDOM SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Totally man!",
+                    "Didascalie": "",
+                    "Start": 189945,
+                    "End": 189958
+                }
+            ]
+        },
+        {
             "Character": "BIG GAY AL",
             "Replies": [
                 {
@@ -6612,6 +6668,29 @@
                     "Didascalie": "",
                     "Start": 198650,
                     "End": 198676
+                }
+            ]
+        },
+        {
+            "Character": "AMERICAN SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Me too!!",
+                    "Didascalie": "",
+                    "Start": 193533,
+                    "End": 193542
+                },
+                {
+                    "Reply": "Sir, look at this!",
+                    "Didascalie": "",
+                    "Start": 198466,
+                    "End": 198485
+                },
+                {
+                    "Reply": "He was writing some kind of diary...",
+                    "Didascalie": "(Holding up a book)",
+                    "Start": 198527,
+                    "End": 198584
                 },
                 {
                     "Reply": "Cookie monster.  Banana.",
@@ -6720,6 +6799,17 @@
                     "Didascalie": "",
                     "Start": 227244,
                     "End": 227282
+                }
+            ]
+        },
+        {
+            "Character": "CANADIAN SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Plastics are a cheap and efficient insulator for electrical applications.",
+                    "Didascalie": "",
+                    "Start": 227607,
+                    "End": 227700
                 }
             ]
         },

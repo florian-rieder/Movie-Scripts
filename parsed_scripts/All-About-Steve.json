@@ -1,26 +1,12 @@
 {
-    "Title": [
-        "All About Steve",
-        "   "
-    ],
+    "Title": "All About Steve",
     "Author": [
-        "\u00a0\u00a0Kim Barker"
+        "Kim Barker"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
-        {
-            "Character": "ALL ABOUT STEVE",
-            "Replies": [
-                {
-                    "Reply": "Written by  Kim Barker    November 2006     TNT. KITCHEN - DAY A New York Times crossword puzzle. The hand of MARY HOROWITZ scratches the answers in ink without pausing even a second between each one.",
-                    "Didascalie": "",
-                    "Start": 116,
-                    "End": 468
-                }
-            ]
-        },
         {
             "Character": "MARY",
             "Replies": [

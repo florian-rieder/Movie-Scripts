@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Drive Angry",
-        "   "
-    ],
+    "Title": "Drive Angry",
     "Author": [
-        "\u00a0\u00a0Todd Farmer\u00a0\u00a0Patrick Lussier"
+        "Todd Farmer",
+        "Patrick Lussier"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Fantasy"
+        "Action",
+        "Crime",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -2360,35 +2360,6 @@
             ]
         },
         {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "The ACCOUNTANT. Least he sure as shit looks like an accountant in blue suit and purple power tie. Not especially large. Nice looking face. Something trustworthy about him.",
-                    "Didascalie": "",
-                    "Start": 29776,
-                    "End": 29968
-                },
-                {
-                    "Reply": "Piper behind the wheel. Milton, shirtless, his stomach wrapped in homemade bandages, grabs his shotgun, reloads.",
-                    "Didascalie": "",
-                    "Start": 74272,
-                    "End": 74395
-                },
-                {
-                    "Reply": "Man With Wig crawls toward us. He's pale. Eyes dim.",
-                    "Didascalie": "",
-                    "Start": 105017,
-                    "End": 105069
-                },
-                {
-                    "Reply": "Milton sits on the GTO's hood. Piper stands between his legs cleaning his wound.",
-                    "Didascalie": "",
-                    "Start": 108495,
-                    "End": 108586
-                }
-            ]
-        },
-        {
             "Character": "ACCOUNTANT",
             "Replies": [
                 {
@@ -3202,23 +3173,6 @@
             ]
         },
         {
-            "Character": "A NOISE",
-            "Replies": [
-                {
-                    "Reply": "Piper spins, grips the hockey stick.",
-                    "Didascalie": "",
-                    "Start": 54091,
-                    "End": 54128
-                },
-                {
-                    "Reply": "Milton rolls Candy beneath him again and raises his head just in time to see--",
-                    "Didascalie": "",
-                    "Start": 58610,
-                    "End": 58699
-                }
-            ]
-        },
-        {
             "Character": "FOOTSTEPS",
             "Replies": [
                 {
@@ -3339,29 +3293,6 @@
             ]
         },
         {
-            "Character": "MOVE TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Milton stands behind her. Shakes his head.",
-                    "Didascalie": "",
-                    "Start": 73520,
-                    "End": 73563
-                },
-                {
-                    "Reply": "Like Piper, the Driver has his right hand tucked behind his back, wrapped around the handle of a .44 Magnum.",
-                    "Didascalie": "",
-                    "Start": 109807,
-                    "End": 109926
-                },
-                {
-                    "Reply": "The Accountant stands over him.",
-                    "Didascalie": "",
-                    "Start": 158427,
-                    "End": 158459
-                }
-            ]
-        },
-        {
             "Character": "THIN OLD MAN",
             "Replies": [
                 {
@@ -3459,17 +3390,6 @@
                     "Didascalie": "",
                     "Start": 137630,
                     "End": 137654
-                }
-            ]
-        },
-        {
-            "Character": "A SILHOUETTE APPROACHES",
-            "Replies": [
-                {
-                    "Reply": "Back lit by the early day sun. There's a bounce in his step.",
-                    "Didascalie": "",
-                    "Start": 105669,
-                    "End": 105730
                 }
             ]
         },

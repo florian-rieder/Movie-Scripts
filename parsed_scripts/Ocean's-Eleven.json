@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Ocean's Eleven",
-        "   "
-    ],
+    "Title": "Ocean's Eleven",
     "Author": [
-        "\u00a0\u00a0Ted Griffin\u00a0\u00a0George Clayton Johnson\u00a0\u00a0Jack Golden Russell\u00a0\u00a0Harry Brown\u00a0\u00a0Charles Lederer"
+        "Ted Griffin",
+        "George Clayton Johnson",
+        "Jack Golden Russell",
+        "Harry Brown",
+        "Charles Lederer"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Thriller\u00a0\u00a0Crime"
+        "Comedy",
+        "Thriller",
+        "Crime"
     ],
     "Characters": [
         {

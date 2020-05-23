@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Gandhi",
-        "   "
-    ],
+    "Title": "Gandhi",
     "Author": [
-        "\u00a0\u00a0John Briley"
+        "John Briley"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3581,29 +3578,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "God damn them!",
-                    "Didascalie": "",
-                    "Start": 84036,
-                    "End": 84051
-                },
-                {
-                    "Reply": "It's two days' march!",
-                    "Didascalie": "",
-                    "Start": 188937,
-                    "End": 188959
-                },
-                {
-                    "Reply": "Gandhiji! -- Gandhiji! Mr. Gandhi!",
-                    "Didascalie": "",
-                    "Start": 202043,
-                    "End": 202078
-                }
-            ]
-        },
-        {
             "Character": "MERCHANT",
             "Replies": [
                 {
@@ -6776,17 +6750,6 @@
                     "Didascalie": "",
                     "Start": 417568,
                     "End": 417713
-                }
-            ]
-        },
-        {
-            "Character": "A YOUTH",
-            "Replies": [
-                {
-                    "Reply": "There he is!",
-                    "Didascalie": "",
-                    "Start": 418441,
-                    "End": 418454
                 }
             ]
         },

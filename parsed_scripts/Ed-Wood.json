@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Ed Wood",
-        "   "
-    ],
+    "Title": "Ed Wood",
     "Author": [
-        "\u00a0\u00a0Scott Alexander\u00a0\u00a0Larry Karaszewski\u00a0\u00a0Tim Burton"
+        "Scott Alexander",
+        "Larry Karaszewski",
+        "Tim Burton"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4633,12 +4633,6 @@
                     "Didascalie": "",
                     "Start": 49008,
                     "End": 49164
-                },
-                {
-                    "Reply": "And what's with this new title?!  My poster says \"I CHANGED MY SEX\"!",
-                    "Didascalie": "",
-                    "Start": 49295,
-                    "End": 49379
                 },
                 {
                     "Reply": "Fine, shoot whatever baloney you want!  I give up.  Just make sure it's seven reels long.",

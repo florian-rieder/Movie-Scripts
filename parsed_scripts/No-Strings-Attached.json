@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "No Strings Attached",
-        "   "
-    ],
+    "Title": "No Strings Attached",
     "Author": [
-        "\u00a0\u00a0Elizabeth Meriwether"
+        "Elizabeth Meriwether"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3211,6 +3209,12 @@
                     "End": 90841
                 },
                 {
+                    "Reply": "INSIDE THE HAG! Wow!",
+                    "Didascalie": "",
+                    "Start": 90960,
+                    "End": 90981
+                },
+                {
                     "Reply": "I -loved you.",
                     "Didascalie": "",
                     "Start": 91206,
@@ -5428,12 +5432,6 @@
                     "Didascalie": "(A BEAT)",
                     "Start": 78801,
                     "End": 78818
-                },
-                {
-                    "Reply": "Yeah.we got those. i  TNT. STUDIO LOT- DAY An actor enters the Sit Corn living room set with a guitar case.",
-                    "Didascalie": "(A BEAT)",
-                    "Start": 78987,
-                    "End": 79137
                 }
             ]
         },
@@ -5745,17 +5743,6 @@
                     "Didascalie": "(WEIRDED OUT)",
                     "Start": 139977,
                     "End": 140037
-                }
-            ]
-        },
-        {
-            "Character": "RELATIONSHIPS--",
-            "Replies": [
-                {
-                    "Reply": "EXT: PARKING  LOT-- NIGHT Some other ho.",
-                    "Didascalie": "",
-                    "Start": 141351,
-                    "End": 141402
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Dances with Wolves",
-        "   "
-    ],
+    "Title": "Dances with Wolves",
     "Author": [
-        "\u00a0\u00a0Michael Blake"
+        "Michael Blake"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Western"
+        "Adventure",
+        "Drama",
+        "Western"
     ],
     "Characters": [
         {
@@ -576,6 +575,40 @@
                     "Didascalie": "",
                     "Start": 303697,
                     "End": 303795
+                }
+            ]
+        },
+        {
+            "Character": "SURGEON 1",
+            "Replies": [
+                {
+                    "Reply": "Is this the last one?",
+                    "Didascalie": "",
+                    "Start": 781,
+                    "End": 803
+                },
+                {
+                    "Reply": "There will be if it doesn't come off.",
+                    "Didascalie": "",
+                    "Start": 1336,
+                    "End": 1400
+                }
+            ]
+        },
+        {
+            "Character": "SURGEON 2",
+            "Replies": [
+                {
+                    "Reply": "God, what a mess... at least there's no gangrene.",
+                    "Didascalie": "",
+                    "Start": 1180,
+                    "End": 1256
+                },
+                {
+                    "Reply": "Well I can't saw if I can't keep my eyes open.  Let's coffee up... he can wait a few more minutes.",
+                    "Didascalie": "",
+                    "Start": 1480,
+                    "End": 1631
                 }
             ]
         },
@@ -3474,6 +3507,17 @@
             ]
         },
         {
+            "Character": "ESCORT 1",
+            "Replies": [
+                {
+                    "Reply": "He waved.",
+                    "Didascalie": "",
+                    "Start": 115037,
+                    "End": 115047
+                }
+            ]
+        },
+        {
             "Character": "BLACK SHAWL",
             "Replies": [
                 {
@@ -3778,6 +3822,39 @@
             ]
         },
         {
+            "Character": "SIOUX 1",
+            "Replies": [
+                {
+                    "Reply": "I killed this one.",
+                    "Didascalie": "",
+                    "Start": 231781,
+                    "End": 231800
+                }
+            ]
+        },
+        {
+            "Character": "SIOUX 2",
+            "Replies": [
+                {
+                    "Reply": "This one still breathes.",
+                    "Didascalie": "",
+                    "Start": 231871,
+                    "End": 231896
+                }
+            ]
+        },
+        {
+            "Character": "SIOUX 3",
+            "Replies": [
+                {
+                    "Reply": "Dances With Wolves...",
+                    "Didascalie": "",
+                    "Start": 232596,
+                    "End": 232618
+                }
+            ]
+        },
+        {
             "Character": "BAUER",
             "Replies": [
                 {
@@ -4013,6 +4090,34 @@
                     "Didascalie": "",
                     "Start": 282312,
                     "End": 282335
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "I got him...",
+                    "Didascalie": "",
+                    "Start": 283604,
+                    "End": 283617
+                },
+                {
+                    "Reply": "I got him... dead shot boys.",
+                    "Didascalie": "",
+                    "Start": 283783,
+                    "End": 283812
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "The hell you did...",
+                    "Didascalie": "",
+                    "Start": 283690,
+                    "End": 283710
                 }
             ]
         },

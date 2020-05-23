@@ -1,22 +1,21 @@
 {
-    "Title": [
-        "Bad Country",
-        "   "
-    ],
+    "Title": "Bad Country",
     "Author": [
-        "\u00a0\u00a0Jonathan Hirschbein"
+        "Jonathan Hirschbein"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
-            "Character": "BAD COUNTRY",
+            "Character": "MAY 2012",
             "Replies": [
                 {
-                    "Reply": "Written by  Jonathan Hirschbein     MAY 2012  TEXT OVER BLACK: \"Before all else, be armed\"",
-                    "Didascalie": "(aka WHISKEY BAY)",
-                    "Start": 126,
+                    "Reply": "TEXT OVER BLACK: \"Before all else, be armed\"",
+                    "Didascalie": "",
+                    "Start": 431,
                     "End": 476
                 }
             ]
@@ -3204,17 +3203,6 @@
             ]
         },
         {
-            "Character": "A TUNNEL",
-            "Replies": [
-                {
-                    "Reply": "between cell blocks. The ROAR of prisoners recedes as Jesse's dragged into darkness getting darker.",
-                    "Didascalie": "",
-                    "Start": 61787,
-                    "End": 61899
-                }
-            ]
-        },
-        {
             "Character": "JUDGE PONDER",
             "Replies": [
                 {
@@ -4163,17 +4151,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "ATF! THE PERIMETER'S SURROUNDED!",
-                    "Didascalie": "(over a loud speaker)",
-                    "Start": 111759,
-                    "End": 111815
-                }
-            ]
-        },
-        {
             "Character": "ENTRY AREA",
             "Replies": [
                 {
@@ -4302,17 +4279,6 @@
             ]
         },
         {
-            "Character": "A PAY-PHONE",
-            "Replies": [
-                {
-                    "Reply": "on a crowded sidewalk. Faces pass. A Man in a JACKET arrives at the phone. He waits. Checks his watch...",
-                    "Didascalie": "",
-                    "Start": 180973,
-                    "End": 181090
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER PHONE BOOTH",
             "Replies": [
                 {
@@ -4320,17 +4286,6 @@
                     "Didascalie": "",
                     "Start": 181599,
                     "End": 181656
-                }
-            ]
-        },
-        {
-            "Character": "A NEWSSTAND",
-            "Replies": [
-                {
-                    "Reply": "outside the liquor store. Bud buys cigarettes and a newspaper.",
-                    "Didascalie": "",
-                    "Start": 182560,
-                    "End": 182623
                 }
             ]
         },
@@ -4423,39 +4378,6 @@
                     "Didascalie": "",
                     "Start": 195353,
                     "End": 195357
-                }
-            ]
-        },
-        {
-            "Character": "A LONG HALLWAY",
-            "Replies": [
-                {
-                    "Reply": "as he pulls a REMINGTON SAWED-OFF, slung on a strap, to his left hand, .45 to his right.",
-                    "Didascalie": "",
-                    "Start": 204871,
-                    "End": 204972
-                }
-            ]
-        },
-        {
-            "Character": "A HALLWAY DOOR SWINGS OPEN",
-            "Replies": [
-                {
-                    "Reply": "HOLES in the wall.",
-                    "Didascalie": "",
-                    "Start": 210849,
-                    "End": 210868
-                }
-            ]
-        },
-        {
-            "Character": "A SECOND DOOR OPENS",
-            "Replies": [
-                {
-                    "Reply": "Bud aims past. FIRES ONCE.",
-                    "Didascalie": "",
-                    "Start": 211042,
-                    "End": 211069
                 }
             ]
         }

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Antitrust",
-        "   "
-    ],
+    "Title": "Antitrust",
     "Author": [
-        "\u00a0\u00a0Howard Franklin"
+        "Howard Franklin"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Thriller",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -731,12 +730,6 @@
                     "Didascalie": "",
                     "Start": 248195,
                     "End": 248531
-                },
-                {
-                    "Reply": "Easy to spin, old as the hills: What's good for Outpost is good for America.",
-                    "Didascalie": "(he's writing on a legal pad)",
-                    "Start": 248668,
-                    "End": 248797
                 },
                 {
                     "Reply": "\"I had no knowledge of these activities, but I have to ask myself if the competitive environment I encouraged in some small way contributed --\"",
@@ -4391,6 +4384,28 @@
             ]
         },
         {
+            "Character": "GEEK 1",
+            "Replies": [
+                {
+                    "Reply": "He's been in there like an hour.",
+                    "Didascalie": "",
+                    "Start": 53192,
+                    "End": 53225
+                }
+            ]
+        },
+        {
+            "Character": "GEEK 2",
+            "Replies": [
+                {
+                    "Reply": "Shit.",
+                    "Didascalie": "",
+                    "Start": 53295,
+                    "End": 53301
+                }
+            ]
+        },
+        {
             "Character": "DOJ AGENT",
             "Replies": [
                 {
@@ -5131,17 +5146,6 @@
             ]
         },
         {
-            "Character": "A BIG SPACE",
-            "Replies": [
-                {
-                    "Reply": "A studio-to-be, architectural touches like soffits framed in but not plaster-boarded. The portentous hum comes from around a corner. He approaches, convinced the answer lies here. Clearing the wall he sees:  A squat emergency generator sitting on the floor, powering construction lights. Something you'd buy at Sears.",
-                    "Didascalie": "",
-                    "Start": 112786,
-                    "End": 113183
-                }
-            ]
-        },
-        {
             "Character": "MULTIMEDIA NARRATOR",
             "Replies": [
                 {
@@ -5557,6 +5561,23 @@
                     "Didascalie": "(to Gunther)",
                     "Start": 239137,
                     "End": 239195
+                }
+            ]
+        },
+        {
+            "Character": "LAWYER 2",
+            "Replies": [
+                {
+                    "Reply": "Randy, Phil and whoever else knew about it.",
+                    "Didascalie": "",
+                    "Start": 246531,
+                    "End": 246601
+                },
+                {
+                    "Reply": "Easy to spin, old as the hills: What's good for Outpost is good for America.",
+                    "Didascalie": "(he's writing on a legal pad)",
+                    "Start": 248668,
+                    "End": 248797
                 }
             ]
         },

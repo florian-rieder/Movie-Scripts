@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Traffic",
-        "   "
-    ],
+    "Title": "Traffic",
     "Author": [
-        "\u00a0\u00a0Stephen Gaghan"
+        "Stephen Gaghan"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

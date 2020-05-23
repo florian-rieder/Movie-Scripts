@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Simone",
-        "   "
-    ],
+    "Title": "Simone",
     "Author": [
-        "\u00a0\u00a0Andrew Niccol"
+        "Andrew Niccol"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1729,12 +1728,6 @@
                     "End": 117279
                 },
                 {
-                    "Reply": "-- We've got the tracking numbers for \"Eternity Forever\".",
-                    "Didascalie": "(waving a spreadsheet)",
-                    "Start": 117351,
-                    "End": 117432
-                },
-                {
                     "Reply": "-- What do you want her to do, go door-to-door -- ?",
                     "Didascalie": "",
                     "Start": 117644,
@@ -2978,6 +2971,100 @@
                     "Didascalie": "(to Hal)",
                     "Start": 5419,
                     "End": 5457
+                }
+            ]
+        },
+        {
+            "Character": "EXECUTIVE 1",
+            "Replies": [
+                {
+                    "Reply": "She's good.  You can hardly tell she's reading off a teleprompter.",
+                    "Didascalie": "",
+                    "Start": 6622,
+                    "End": 6700
+                },
+                {
+                    "Reply": "-- We know she's in there!",
+                    "Didascalie": "",
+                    "Start": 117059,
+                    "End": 117086
+                },
+                {
+                    "Reply": "-- Even Garbo would be on the talk show circuit if she was alive today.",
+                    "Didascalie": "",
+                    "Start": 117753,
+                    "End": 117847
+                },
+                {
+                    "Reply": "Where is she?",
+                    "Didascalie": "",
+                    "Start": 119296,
+                    "End": 119310
+                },
+                {
+                    "Reply": "Probably spends her whole life in chat rooms.",
+                    "Didascalie": "(nodding in agreement)",
+                    "Start": 120120,
+                    "End": 120189
+                },
+                {
+                    "Reply": "We understand.  Thank you, Viktor.",
+                    "Didascalie": "",
+                    "Start": 121833,
+                    "End": 121868
+                },
+                {
+                    "Reply": "That agoraphobia -- it's like a plague.",
+                    "Didascalie": "(aside to a colleague)",
+                    "Start": 122073,
+                    "End": 122136
+                }
+            ]
+        },
+        {
+            "Character": "EXECUTIVE 2",
+            "Replies": [
+                {
+                    "Reply": "According to the writ her attorneys filed at noon today.  They'll sue if the film is released with Nicola in a single frame.",
+                    "Didascalie": "",
+                    "Start": 7048,
+                    "End": 7206
+                },
+                {
+                    "Reply": "-- We've got the tracking numbers for \"Eternity Forever\".",
+                    "Didascalie": "(waving a spreadsheet)",
+                    "Start": 117351,
+                    "End": 117432
+                },
+                {
+                    "Reply": "That's the problem.  She's more famous for her no-shows than her shows.",
+                    "Didascalie": "",
+                    "Start": 118263,
+                    "End": 118357
+                },
+                {
+                    "Reply": "She's not here.",
+                    "Didascalie": "",
+                    "Start": 119356,
+                    "End": 119372
+                },
+                {
+                    "Reply": "It's the one place she can be herself.",
+                    "Didascalie": "",
+                    "Start": 120235,
+                    "End": 120285
+                },
+                {
+                    "Reply": "Give her our best.",
+                    "Didascalie": "",
+                    "Start": 121914,
+                    "End": 121933
+                },
+                {
+                    "Reply": "It's out of control in Europe.",
+                    "Didascalie": "",
+                    "Start": 122182,
+                    "End": 122213
                 }
             ]
         },
@@ -4505,6 +4592,111 @@
             ]
         },
         {
+            "Character": "AUDIENCE MEMBER 1",
+            "Replies": [
+                {
+                    "Reply": "-- So fake.",
+                    "Didascalie": "",
+                    "Start": 33778,
+                    "End": 33790
+                },
+                {
+                    "Reply": "We're really supposed to believe that was 19th Century Lisbon?",
+                    "Didascalie": "",
+                    "Start": 34012,
+                    "End": 34086
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 2",
+            "Replies": [
+                {
+                    "Reply": "-- Totally artificial.",
+                    "Didascalie": "",
+                    "Start": 33842,
+                    "End": 33865
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 3",
+            "Replies": [
+                {
+                    "Reply": "Who's looking at the sets when she is on the screen?",
+                    "Didascalie": "",
+                    "Start": 34138,
+                    "End": 34202
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 4",
+            "Replies": [
+                {
+                    "Reply": "-- She is magnificent.",
+                    "Didascalie": "",
+                    "Start": 34695,
+                    "End": 34718
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 5",
+            "Replies": [
+                {
+                    "Reply": "-- Absolutely unreal.",
+                    "Didascalie": "",
+                    "Start": 34770,
+                    "End": 34792
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 6",
+            "Replies": [
+                {
+                    "Reply": "-- Who?  The nun?",
+                    "Didascalie": "",
+                    "Start": 34969,
+                    "End": 34987
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 7",
+            "Replies": [
+                {
+                    "Reply": "-- Or are you talking about the mother?",
+                    "Didascalie": "",
+                    "Start": 35039,
+                    "End": 35090
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 8",
+            "Replies": [
+                {
+                    "Reply": "-- A star like that, who cares about the supporting cast?",
+                    "Didascalie": "",
+                    "Start": 35142,
+                    "End": 35211
+                }
+            ]
+        },
+        {
+            "Character": "AUDIENCE MEMBER 9",
+            "Replies": [
+                {
+                    "Reply": "-- Congratulations again.  She was... not of this earth.  You should be very proud.",
+                    "Didascalie": "",
+                    "Start": 35263,
+                    "End": 35369
+                }
+            ]
+        },
+        {
             "Character": "ENTERTAINMENT REPORTER",
             "Replies": [
                 {
@@ -4577,6 +4769,79 @@
                     "Didascalie": "",
                     "Start": 40868,
                     "End": 40928
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Who are you?",
+                    "Didascalie": "",
+                    "Start": 44343,
+                    "End": 44356
+                },
+                {
+                    "Reply": "Yeah, but -- who are you?",
+                    "Didascalie": "",
+                    "Start": 44502,
+                    "End": 44528
+                },
+                {
+                    "Reply": "-- Is she the new Garbo?",
+                    "Didascalie": "",
+                    "Start": 46192,
+                    "End": 46217
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "-- Viktor, Viktor, who's Simone dating?",
+                    "Didascalie": "",
+                    "Start": 45873,
+                    "End": 45924
+                },
+                {
+                    "Reply": "-- Who's Garbo?",
+                    "Didascalie": "",
+                    "Start": 46262,
+                    "End": 46278
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "-- Viktor, where'd you find her?",
+                    "Didascalie": "",
+                    "Start": 45969,
+                    "End": 46002
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 4",
+            "Replies": [
+                {
+                    "Reply": "-- Is Simone her real name?",
+                    "Didascalie": "",
+                    "Start": 46047,
+                    "End": 46075
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 5",
+            "Replies": [
+                {
+                    "Reply": "-- What's she got to hide?",
+                    "Didascalie": "",
+                    "Start": 46120,
+                    "End": 46147
                 }
             ]
         },
@@ -5132,6 +5397,29 @@
             ]
         },
         {
+            "Character": "PHOTOGRAPHER 1",
+            "Replies": [
+                {
+                    "Reply": "That wasn't her, Taransky.",
+                    "Didascalie": "",
+                    "Start": 68332,
+                    "End": 68359
+                },
+                {
+                    "Reply": "Simone!",
+                    "Didascalie": "",
+                    "Start": 94603,
+                    "End": 94611
+                },
+                {
+                    "Reply": "I think I got a piece of her ear.",
+                    "Didascalie": "",
+                    "Start": 95127,
+                    "End": 95161
+                }
+            ]
+        },
+        {
             "Character": "ECHO PHOTOGRAPHER",
             "Replies": [
                 {
@@ -5336,6 +5624,28 @@
             ]
         },
         {
+            "Character": "PHOTOGRAPHER 3",
+            "Replies": [
+                {
+                    "Reply": "Come one Simone, take it off, baby!",
+                    "Didascalie": "",
+                    "Start": 94735,
+                    "End": 94771
+                }
+            ]
+        },
+        {
+            "Character": "PHOTOGRAPHER 4",
+            "Replies": [
+                {
+                    "Reply": "We got a job to do!",
+                    "Didascalie": "",
+                    "Start": 94820,
+                    "End": 94840
+                }
+            ]
+        },
+        {
             "Character": "FAITH",
             "Replies": [
                 {
@@ -5401,6 +5711,58 @@
             ]
         },
         {
+            "Character": "PREMIERE REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "-- What a night!  Anyone who's anyone is here at the premiere of \"Eternity Forever,\" but waiting for Simone to show may take even longer.  We do have her director, Viktor Taransky.",
+                    "Didascalie": "(talking to camera)",
+                    "Start": 105191,
+                    "End": 105439
+                },
+                {
+                    "Reply": "Viktor, Viktor, is Simone coming?",
+                    "Didascalie": "(ushering him over)",
+                    "Start": 105473,
+                    "End": 105519
+                }
+            ]
+        },
+        {
+            "Character": "PREMIERE REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "I hope she does show up.  Some of her fans got here at dawn.  We don't want to disappoint them.",
+                    "Didascalie": "",
+                    "Start": 105763,
+                    "End": 105881
+                },
+                {
+                    "Reply": "HARRY EPSON!",
+                    "Didascalie": "",
+                    "Start": 106162,
+                    "End": 106175
+                },
+                {
+                    "Reply": "Harry!  Harry!  Can we have a minute?  What brings you here tonight?",
+                    "Didascalie": "",
+                    "Start": 106322,
+                    "End": 106413
+                },
+                {
+                    "Reply": "There's a rumor that you're more than just \"good friends\"?",
+                    "Didascalie": "",
+                    "Start": 106605,
+                    "End": 106675
+                },
+                {
+                    "Reply": "Do I hear the sound of... wedding bells?",
+                    "Didascalie": "",
+                    "Start": 107001,
+                    "End": 107053
+                }
+            ]
+        },
+        {
             "Character": "HARRY",
             "Replies": [
                 {
@@ -5420,6 +5782,50 @@
                     "Didascalie": "(suddenly losing it)",
                     "Start": 107117,
                     "End": 107223
+                }
+            ]
+        },
+        {
+            "Character": "GUEST 1",
+            "Replies": [
+                {
+                    "Reply": "-- Simone's here!",
+                    "Didascalie": "",
+                    "Start": 110218,
+                    "End": 110236
+                }
+            ]
+        },
+        {
+            "Character": "GUEST 2",
+            "Replies": [
+                {
+                    "Reply": "-- Where is she?",
+                    "Didascalie": "",
+                    "Start": 110445,
+                    "End": 110462
+                }
+            ]
+        },
+        {
+            "Character": "GUEST 3",
+            "Replies": [
+                {
+                    "Reply": "-- Simone, over here!",
+                    "Didascalie": "",
+                    "Start": 110568,
+                    "End": 110590
+                }
+            ]
+        },
+        {
+            "Character": "GUEST 4",
+            "Replies": [
+                {
+                    "Reply": "-- Simone!",
+                    "Didascalie": "",
+                    "Start": 110632,
+                    "End": 110643
                 }
             ]
         },
@@ -5446,13 +5852,75 @@
             ]
         },
         {
-            "Character": "A TV",
+            "Character": "EXECUTIVE 3",
             "Replies": [
                 {
-                    "Reply": "The opening credits to \"FRANK BRAND LIVE\", a global cable show plays against a starscape -- images of famous politicians and world leaders interviewed by Frank.",
+                    "Reply": "-- I would say, even more beautiful in person, you have to see her to believe her.",
                     "Didascalie": "",
-                    "Start": 125644,
-                    "End": 125807
+                    "Start": 111947,
+                    "End": 112052
+                },
+                {
+                    "Reply": "-- They're in the toilet.",
+                    "Didascalie": "",
+                    "Start": 117478,
+                    "End": 117504
+                },
+                {
+                    "Reply": "-- This is over-shadowing the work!",
+                    "Didascalie": "",
+                    "Start": 118114,
+                    "End": 118150
+                },
+                {
+                    "Reply": "Anonymous.",
+                    "Didascalie": "",
+                    "Start": 120331,
+                    "End": 120342
+                }
+            ]
+        },
+        {
+            "Character": "MALE GUEST 1",
+            "Replies": [
+                {
+                    "Reply": "-- I can't reveal what we spoke about.  It was... personal.  Simone and I go back a long way.",
+                    "Didascalie": "",
+                    "Start": 112099,
+                    "End": 112215
+                }
+            ]
+        },
+        {
+            "Character": "FEMALE GUEST 1",
+            "Replies": [
+                {
+                    "Reply": "-- When she talks to you, for that moment, you are the only other human being in the room.",
+                    "Didascalie": "",
+                    "Start": 112264,
+                    "End": 112377
+                }
+            ]
+        },
+        {
+            "Character": "FEMALE GUEST 2",
+            "Replies": [
+                {
+                    "Reply": "-- I really don't know what the fuss is about.  So over-rated. She's done one film.  Talk to me when she's had the kind of career I've had.",
+                    "Didascalie": "(dress torn)",
+                    "Start": 112442,
+                    "End": 112639
+                }
+            ]
+        },
+        {
+            "Character": "MALE GUEST 2",
+            "Replies": [
+                {
+                    "Reply": "-- I do expect her to be nominated, yes.",
+                    "Didascalie": "",
+                    "Start": 112686,
+                    "End": 112738
                 }
             ]
         },
@@ -5650,6 +6118,39 @@
             ]
         },
         {
+            "Character": "FAN 1",
+            "Replies": [
+                {
+                    "Reply": "-- I swear, she looked right at me.",
+                    "Didascalie": "",
+                    "Start": 153164,
+                    "End": 153200
+                }
+            ]
+        },
+        {
+            "Character": "FAN 2",
+            "Replies": [
+                {
+                    "Reply": "-- She was, like, ethereal.",
+                    "Didascalie": "",
+                    "Start": 153240,
+                    "End": 153268
+                }
+            ]
+        },
+        {
+            "Character": "FAN 3",
+            "Replies": [
+                {
+                    "Reply": "-- One moment she seemed to walk right through her mike stand like it wasn't even there.",
+                    "Didascalie": "",
+                    "Start": 153308,
+                    "End": 153419
+                }
+            ]
+        },
+        {
             "Character": "PATROLMAN",
             "Replies": [
                 {
@@ -5680,6 +6181,46 @@
                     "Didascalie": "",
                     "Start": 200944,
                     "End": 200953
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Disgusting...",
+                    "Didascalie": "",
+                    "Start": 187134,
+                    "End": 187148
+                },
+                {
+                    "Reply": "I'm still naming my baby after her.",
+                    "Didascalie": "",
+                    "Start": 187355,
+                    "End": 187391
+                },
+                {
+                    "Reply": "So?",
+                    "Didascalie": "",
+                    "Start": 187496,
+                    "End": 187500
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "She must have been so desperate to do something like that, so depraved.",
+                    "Didascalie": "(sympathetic)",
+                    "Start": 187207,
+                    "End": 187313
+                },
+                {
+                    "Reply": "You're having a boy.",
+                    "Didascalie": "",
+                    "Start": 187433,
+                    "End": 187454
                 }
             ]
         },
@@ -5724,6 +6265,28 @@
                     "Didascalie": "",
                     "Start": 189918,
                     "End": 190019
+                }
+            ]
+        },
+        {
+            "Character": "PRESS REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "How did she die?",
+                    "Didascalie": "",
+                    "Start": 195261,
+                    "End": 195278
+                }
+            ]
+        },
+        {
+            "Character": "PRESS REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Did she suffer?",
+                    "Didascalie": "",
+                    "Start": 195510,
+                    "End": 195526
                 }
             ]
         },
@@ -5813,6 +6376,34 @@
                     "Didascalie": "(shaking his head in pity)",
                     "Start": 210419,
                     "End": 210479
+                }
+            ]
+        },
+        {
+            "Character": "DETECTIVE 2",
+            "Replies": [
+                {
+                    "Reply": "You really hated her, didn't you?",
+                    "Didascalie": "",
+                    "Start": 201592,
+                    "End": 201626
+                }
+            ]
+        },
+        {
+            "Character": "DIVER 1",
+            "Replies": [
+                {
+                    "Reply": "Nothing.",
+                    "Didascalie": "",
+                    "Start": 203719,
+                    "End": 203728
+                },
+                {
+                    "Reply": "We couldn't stay down any longer.",
+                    "Didascalie": "(gazing to the water)",
+                    "Start": 203764,
+                    "End": 203810
                 }
             ]
         },

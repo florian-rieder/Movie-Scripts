@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "In the Loop",
-        "   "
-    ],
+    "Title": "In the Loop",
     "Author": [
-        "\u00a0\u00a0Jesse Armstrong\u00a0\u00a0Simon Blackwell\u00a0\u00a0Armando Iannucci\u00a0\u00a0Tony Roche"
+        "Jesse Armstrong",
+        "Simon Blackwell",
+        "Armando Iannucci",
+        "Tony Roche"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -6026,6 +6026,17 @@
                     "Didascalie": "",
                     "Start": 50917,
                     "End": 50939
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Is war unforeseeable Minister?",
+                    "Didascalie": "",
+                    "Start": 51361,
+                    "End": 51392
                 }
             ]
         },

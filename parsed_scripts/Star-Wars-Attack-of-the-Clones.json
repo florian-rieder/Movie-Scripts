@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Star Wars: Attack of the Clones",
-        "   "
-    ],
+    "Title": "Star Wars: Attack of the Clones",
     "Author": [
-        "\u00a0\u00a0George Lucas"
+        "George Lucas"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Adventure\u00a0\u00a0Action\u00a0\u00a0Fantasy"
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -3453,6 +3453,35 @@
             ]
         },
         {
+            "Character": "PK-4",
+            "Replies": [
+                {
+                    "Reply": "Place the subject for analysis on the sensot tray, please.",
+                    "Didascalie": "",
+                    "Start": 44397,
+                    "End": 44459
+                },
+                {
+                    "Reply": "One moment, please.",
+                    "Didascalie": "",
+                    "Start": 44707,
+                    "End": 44727
+                },
+                {
+                    "Reply": "As you can see on your screen, subject weapon does not exist in any known culture. Markings cannot be identified. Probablt self-made by a warrior not associated with any known society.",
+                    "Didascalie": "(continuing)",
+                    "Start": 44889,
+                    "End": 45093
+                },
+                {
+                    "Reply": "Master Jedi, our records are very thorough. they cover eight percent of the galaxy. If I can't tell you where it came from, nobody can.",
+                    "Didascalie": "",
+                    "Start": 45164,
+                    "End": 45312
+                }
+            ]
+        },
+        {
             "Character": "SERVER",
             "Replies": [
                 {
@@ -4440,6 +4469,161 @@
             ]
         },
         {
+            "Character": "C-3PO",
+            "Replies": [
+                {
+                    "Reply": "Good evening. May I help you?",
+                    "Didascalie": "",
+                    "Start": 106216,
+                    "End": 106246
+                },
+                {
+                    "Reply": "Oh, my... oh, my! Master Anakin! My goodness, I can hardly believe it! And this must be Miss Padme.",
+                    "Didascalie": "",
+                    "Start": 106285,
+                    "End": 106394
+                },
+                {
+                    "Reply": "Oh, dear! I'm so terribly sorry, Master Annie.",
+                    "Didascalie": "",
+                    "Start": 106482,
+                    "End": 106532
+                },
+                {
+                    "Reply": "I think we'd better go inside.",
+                    "Didascalie": "",
+                    "Start": 106587,
+                    "End": 106618
+                },
+                {
+                    "Reply": "Master Lars - Master Owen!",
+                    "Didascalie": "",
+                    "Start": 106757,
+                    "End": 106784
+                },
+                {
+                    "Reply": "Please don't leave us, Miss Padme.",
+                    "Didascalie": "",
+                    "Start": 112753,
+                    "End": 112788
+                },
+                {
+                    "Reply": "That's something I cannot relate to. As a Protocol Droid, I'm either active or inactive.",
+                    "Didascalie": "",
+                    "Start": 112931,
+                    "End": 113026
+                },
+                {
+                    "Reply": "Do you really think so..? I suppose I shouldn't expect...",
+                    "Didascalie": "",
+                    "Start": 113102,
+                    "End": 113163
+                },
+                {
+                    "Reply": "Oh, I'm not unhappy... and my masters here ar so kind I wouldn't wish to trouuble them, it's just... being like this...",
+                    "Didascalie": "",
+                    "Start": 113214,
+                    "End": 113343
+                },
+                {
+                    "Reply": "Naked. If you pardon the expression. You see, when Master Annie made me, he never quite found the time to give me any outer covering. It's so humiliating. How would you like it if you had to go around with all your circuits showing?",
+                    "Didascalie": "",
+                    "Start": 113416,
+                    "End": 113670
+                },
+                {
+                    "Reply": "Of course you wouldn't. Nobody would. It's simply not protocol.",
+                    "Didascalie": "",
+                    "Start": 113733,
+                    "End": 113800
+                },
+                {
+                    "Reply": "I don't think so. Only Master Annie...",
+                    "Didascalie": "",
+                    "Start": 113944,
+                    "End": 113986
+                },
+                {
+                    "Reply": "Oh? How observant of you, Miss Padme. Of course, I'm just not mechanically minded... if you see what I mean.",
+                    "Didascalie": "",
+                    "Start": 114073,
+                    "End": 114191
+                },
+                {
+                    "Reply": "Ooooh! That's tickles.",
+                    "Didascalie": "",
+                    "Start": 114318,
+                    "End": 114341
+                },
+                {
+                    "Reply": "Um. How do I look?",
+                    "Didascalie": "",
+                    "Start": 124765,
+                    "End": 124784
+                },
+                {
+                    "Reply": "Perfect? Oh, Miss Padme, I'm so happy!",
+                    "Didascalie": "",
+                    "Start": 124836,
+                    "End": 124878
+                },
+                {
+                    "Reply": "Oh, pardon me.",
+                    "Didascalie": "(extending his hand to shake hers)",
+                    "Start": 124916,
+                    "End": 124935
+                },
+                {
+                    "Reply": "Thank you! Thank you! Thank you!",
+                    "Didascalie": "(continuing)",
+                    "Start": 125118,
+                    "End": 125155
+                },
+                {
+                    "Reply": "Oh, my!",
+                    "Didascalie": "",
+                    "Start": 125297,
+                    "End": 125305
+                },
+                {
+                    "Reply": "Yes, it is, Artoo. Most confusing. One moment they're generating a pleasant mutual attraction and the next, waves of violent hostility. Even though I'm programmed to understand them, I doubt if I ever shall.",
+                    "Didascalie": "",
+                    "Start": 131884,
+                    "End": 132110
+                },
+                {
+                    "Reply": "Yes, it has been rather a long time. Do you suppose something's happened to them?",
+                    "Didascalie": "",
+                    "Start": 144316,
+                    "End": 144404
+                },
+                {
+                    "Reply": "Danger? Oh no, I shouldn't think so. It looks a very dull planet to me. They should be back shortly. Just stop worrying, Artoo.",
+                    "Didascalie": "(continuing)",
+                    "Start": 144458,
+                    "End": 144599
+                },
+                {
+                    "Reply": "I don't hear anything.",
+                    "Didascalie": "",
+                    "Start": 146923,
+                    "End": 146946
+                },
+                {
+                    "Reply": "You're scaring me! Stop imagining things!",
+                    "Didascalie": "(Artoo beeps)",
+                    "Start": 146963,
+                    "End": 147012
+                },
+                {
+                    "Reply": "I'm sure I heard something, this time. Didn't you? It's probably just a celebration  ARTOO lets out an EXHAUSTED BLEEP.",
+                    "Didascalie": "",
+                    "Start": 151876,
+                    "End": 152002
+                }
+            ]
+        },
+        {
             "Character": "OWEN",
             "Replies": [
                 {
@@ -4858,17 +5042,6 @@
                     "Didascalie": "",
                     "Start": 143816,
                     "End": 143878
-                }
-            ]
-        },
-        {
-            "Character": "ARTOO BEEPS",
-            "Replies": [
-                {
-                    "Reply": "C-3PO Yes, it has been rather a long time. Do you suppose something's happened to them?",
-                    "Didascalie": "",
-                    "Start": 144307,
-                    "End": 144404
                 }
             ]
         },

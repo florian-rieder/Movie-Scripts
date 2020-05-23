@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Fugitive, The",
-        "   "
-    ],
+    "Title": "Fugitive, The",
     "Author": [
-        "\u00a0\u00a0Jeb Stuart\u00a0\u00a0David N. Twohy"
+        "Jeb Stuart",
+        "David N. Twohy"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Punch-Drunk Love",
-        "   "
-    ],
+    "Title": "Punch-Drunk Love",
     "Author": [
-        "\u00a0\u00a0Paul Thomas Anderson"
+        "Paul Thomas Anderson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5572,17 +5571,6 @@
                     "Didascalie": "",
                     "Start": 68185,
                     "End": 68250
-                }
-            ]
-        },
-        {
-            "Character": "WOMAN",
-            "Replies": [
-                {
-                    "Reply": "I WILL CRUSH YOU. I WILL FUCKING CRUSH YOU AND YOUR FRIENDS.",
-                    "Didascalie": "",
-                    "Start": 68842,
-                    "End": 68915
                 }
             ]
         },

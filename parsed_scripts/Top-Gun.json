@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Top Gun",
-        "   "
-    ],
+    "Title": "Top Gun",
     "Author": [
-        "\u00a0\u00a0Chip Proser"
+        "Chip Proser"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama"
+        "Action",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2469,12 +2467,6 @@
                     "Didascalie": "",
                     "Start": 138805,
                     "End": 138834
-                },
-                {
-                    "Reply": "ALL RIGHT, ICE. COME HARD STARBOARD, THEN EXTEND TO THE EAST.   Fungus is still lividly frazzled.",
-                    "Didascalie": "",
-                    "Start": 139767,
-                    "End": 139871
                 },
                 {
                     "Reply": "I GOT A WINDER LEFT, BUT NO GOOD TONE ON IT.",
@@ -6026,17 +6018,6 @@
                     "Didascalie": "",
                     "Start": 143893,
                     "End": 144144
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Who's in charge here?",
-                    "Didascalie": "",
-                    "Start": 149929,
-                    "End": 149951
                 }
             ]
         }

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Hellraiser 3: Hell on Earth",
-        "   "
-    ],
+    "Title": "Hellraiser 3: Hell on Earth",
     "Author": [
-        "\u00a0\u00a0Peter Atkins\u00a0\u00a0Tony Randel"
+        "Peter Atkins",
+        "Tony Randel"
     ],
     "Genre": [
-        "\u00a0\u00a0Fantasy\u00a0\u00a0Horror"
+        "Fantasy",
+        "Horror"
     ],
     "Characters": [
         {
@@ -1894,6 +1893,46 @@
             ]
         },
         {
+            "Character": "PARAMEDIC 1",
+            "Replies": [
+                {
+                    "Reply": "10 milligram IV Valium stat.  How the fuck did this happen ... ?!",
+                    "Didascalie": "",
+                    "Start": 16502,
+                    "End": 16592
+                },
+                {
+                    "Reply": "Yeah, sure.  Five times a fucking day.",
+                    "Didascalie": "",
+                    "Start": 17115,
+                    "End": 17154
+                },
+                {
+                    "Reply": "Worst case of status I've seen.  Even money at best.",
+                    "Didascalie": "",
+                    "Start": 17880,
+                    "End": 17957
+                }
+            ]
+        },
+        {
+            "Character": "PARAMEDIC 2",
+            "Replies": [
+                {
+                    "Reply": "You ever see anything like this before?",
+                    "Didascalie": "",
+                    "Start": 16795,
+                    "End": 16835
+                },
+                {
+                    "Reply": "Think they'll get him back?",
+                    "Didascalie": "",
+                    "Start": 17567,
+                    "End": 17595
+                }
+            ]
+        },
+        {
             "Character": "DOCTOR",
             "Replies": [
                 {
@@ -1987,17 +2026,6 @@
             ]
         },
         {
-            "Character": "A PUNK",
-            "Replies": [
-                {
-                    "Reply": "- stares blankly and blinks.",
-                    "Didascalie": "",
-                    "Start": 32440,
-                    "End": 32469
-                }
-            ]
-        },
-        {
             "Character": "TWO BIMBOS",
             "Replies": [
                 {
@@ -2005,6 +2033,40 @@
                     "Didascalie": "",
                     "Start": 32522,
                     "End": 32569
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Call for a Medi-Vac!",
+                    "Didascalie": "(off)",
+                    "Start": 35965,
+                    "End": 36011
+                },
+                {
+                    "Reply": "He's going.  He's going.  He's going ...",
+                    "Didascalie": "(off)",
+                    "Start": 131580,
+                    "End": 131646
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Don't die, man!  Don't fucking die!",
+                    "Didascalie": "(off)",
+                    "Start": 36193,
+                    "End": 36254
+                },
+                {
+                    "Reply": "We're losing him.  We're losing him.",
+                    "Didascalie": "(off)",
+                    "Start": 131749,
+                    "End": 131811
                 }
             ]
         },
@@ -2680,17 +2742,6 @@
                     "Didascalie": "",
                     "Start": 203404,
                     "End": 203538
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL TERRI",
-            "Replies": [
-                {
-                    "Reply": "- sitting at the table staring at the coffee.",
-                    "Didascalie": "",
-                    "Start": 128351,
-                    "End": 128397
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Living in Oblivion",
-        "   "
-    ],
+    "Title": "Living in Oblivion",
     "Author": [
-        "\u00a0\u00a0Tom DiCillo"
+        "Tom DiCillo"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

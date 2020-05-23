@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Nightmare Before Christmas, The",
-        "   "
-    ],
+    "Title": "Nightmare Before Christmas, The",
     "Author": [
-        "\u00a0\u00a0Caroline Thompson"
+        "Caroline Thompson"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Musical"
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Horror",
+        "Musical"
     ],
     "Characters": [
         {

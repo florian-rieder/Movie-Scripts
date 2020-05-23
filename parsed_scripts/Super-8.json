@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Super 8",
-        "   "
-    ],
+    "Title": "Super 8",
     "Author": [
-        "\u00a0\u00a0J.J. Abrams"
+        "J.J. Abrams"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Celeste & Jesse Forever",
-        "   "
-    ],
+    "Title": "Celeste & Jesse Forever",
     "Author": [
-        "\u00a0\u00a0Rashida Jones\u00a0\u00a0Will McCormack"
+        "Rashida Jones",
+        "Will McCormack"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4901,17 +4901,6 @@
             ]
         },
         {
-            "Character": "MORE COPIES OF THIS BOOK",
-            "Replies": [
-                {
-                    "Reply": "\"SHITEGEIST\" FOR MY FRIENDS? I HEARD IT IS ABSOLUTELY WONDERFUL!",
-                    "Didascalie": "",
-                    "Start": 55867,
-                    "End": 55943
-                }
-            ]
-        },
-        {
             "Character": "JESSE SKILLZ",
             "Replies": [
                 {
@@ -5614,12 +5603,6 @@
                     "Didascalie": "",
                     "Start": 195152,
                     "End": 195170
-                },
-                {
-                    "Reply": "IT'S OPENING NIGHT HERE. IT DOESN'T KNOW WHAT IT IS YET.",
-                    "Didascalie": "",
-                    "Start": 195467,
-                    "End": 195535
                 },
                 {
                     "Reply": "I LOVE IT HERE!!",

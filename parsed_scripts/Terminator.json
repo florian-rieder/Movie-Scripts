@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "Terminator",
-        "   "
-    ],
+    "Title": "Terminator",
     "Author": [
-        "\u00a0\u00a0Harlan Ellison\u00a0\u00a0James Cameron\u00a0\u00a0Gale Anne Hurd\u00a0\u00a0William Wisher Jr."
+        "Harlan Ellison",
+        "James Cameron",
+        "Gale Anne Hurd",
+        "William Wisher Jr."
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Sci-Fi",
+        "Thriller",
+        "Action",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

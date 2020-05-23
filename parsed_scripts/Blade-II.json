@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Blade II",
-        "   "
-    ],
+    "Title": "Blade II",
     "Author": [
-        "\u00a0\u00a0David S. Goyer"
+        "David S. Goyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2535,17 +2534,6 @@
             ]
         },
         {
-            "Character": "A FINAL DOOR",
-            "Replies": [
-                {
-                    "Reply": "Oak, set into a stainless steel wall.  Incalculably ancient, elaborately carved.  Brought over from the \"Old World.\"",
-                    "Didascalie": "",
-                    "Start": 45651,
-                    "End": 45780
-                }
-            ]
-        },
-        {
             "Character": "DAMASKINOS",
             "Replies": [
                 {
@@ -2888,28 +2876,6 @@
                     "Didascalie": "",
                     "Start": 193356,
                     "End": 193378
-                }
-            ]
-        },
-        {
-            "Character": "A CAR",
-            "Replies": [
-                {
-                    "Reply": "pull up to the pumps outside.  A MAN gets out, slides his credit card through the reader, starts pumping gas.",
-                    "Didascalie": "",
-                    "Start": 57100,
-                    "End": 57222
-                }
-            ]
-        },
-        {
-            "Character": "A GHOSTLY FIGURE",
-            "Replies": [
-                {
-                    "Reply": "Standing off in the fog-bound shadows.  The woman looks back to the mini-mart, then back again to where the figure was standing.  But the figure is gone!  Growing increasingly anxious, the woman hurries back.",
-                    "Didascalie": "",
-                    "Start": 58830,
-                    "End": 59075
                 }
             ]
         },
@@ -3315,17 +3281,6 @@
             ]
         },
         {
-            "Character": "A PAIR OF CLAWED HANDS",
-            "Replies": [
-                {
-                    "Reply": "Suddenly rip down through the ceiling of the van, peeling it up and back like it was tinfoil!  A REAPER with a bloody bandage covering his eye SNARLS down at us.",
-                    "Didascalie": "",
-                    "Start": 84368,
-                    "End": 84554
-                }
-            ]
-        },
-        {
             "Character": "LIGHTHAMMER",
             "Replies": [
                 {
@@ -3344,40 +3299,6 @@
                     "Didascalie": "",
                     "Start": 87530,
                     "End": 87805
-                }
-            ]
-        },
-        {
-            "Character": "A REAPER",
-            "Replies": [
-                {
-                    "Reply": "Cowering by the culvert.  One we recognize.  The other vampire guard from the bloodbank, now transformed.  He's shrunken and emaciated, pale.  And although he's obviously dying, he still HISSES, his fanged mouth snapping ineffectually at them.  His arm has been trapped -- pinned under one of the sectional culvert coverings.  It looks like he's been trying to gnaw it off in order to escape.",
-                    "Didascalie": "",
-                    "Start": 103932,
-                    "End": 104397
-                },
-                {
-                    "Reply": "Leaps, landing on Verlaine's back.  It grabs her head and deftly SNAPS her spine in half with a sickening CRUNCH!",
-                    "Didascalie": "",
-                    "Start": 140750,
-                    "End": 140876
-                },
-                {
-                    "Reply": "Lunges at them from the North.  Asad triggers his UV laser, scorching the creature.  It HOWLS and slinks backwards.",
-                    "Didascalie": "",
-                    "Start": 145764,
-                    "End": 145892
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Blade, Nyssa, and Scud are gathered around the autopsy table.",
-                    "Didascalie": "",
-                    "Start": 112718,
-                    "End": 112780
                 }
             ]
         },
@@ -3401,17 +3322,6 @@
                     "Didascalie": "",
                     "Start": 121147,
                     "End": 121170
-                }
-            ]
-        },
-        {
-            "Character": "A DOZEN REAPERS",
-            "Replies": [
-                {
-                    "Reply": "Clinging to the ceiling above.  They drop down on Chupa like a pack of rabid dogs, literally tearing him in half.",
-                    "Didascalie": "",
-                    "Start": 139499,
-                    "End": 139625
                 }
             ]
         },
@@ -3482,17 +3392,6 @@
             ]
         },
         {
-            "Character": "A SHAFT OF SUNLIGHT",
-            "Replies": [
-                {
-                    "Reply": "cuts through an icy window pane above, angling down near Nyssa's cot.  Dust motes swirl about it.",
-                    "Didascalie": "",
-                    "Start": 155432,
-                    "End": 155542
-                }
-            ]
-        },
-        {
             "Character": "PULLING BACK AGAIN",
             "Replies": [
                 {
@@ -3544,28 +3443,6 @@
                     "Didascalie": "",
                     "Start": 211641,
                     "End": 211964
-                }
-            ]
-        },
-        {
-            "Character": "A SERIES OF CLOSEUPS",
-            "Replies": [
-                {
-                    "Reply": "Images of a weapon being forged, all filtered through shimmering convection waves of intense heat.  We SEE a HAMMER CLANGING DOWN.  The FIRES of a ROARING furnace.  SPARKS showering up from titanium slowly being given shape.  Molten silver.  Acid etching.  And then we PULL BACK to reveal --",
-                    "Didascalie": "",
-                    "Start": 212085,
-                    "End": 212425
-                }
-            ]
-        },
-        {
-            "Character": "A NEW SWORD",
-            "Replies": [
-                {
-                    "Reply": "perfect.  Lethal.  Wrought from titanium, plated in sliver.",
-                    "Didascalie": "",
-                    "Start": 212790,
-                    "End": 212850
                 }
             ]
         }

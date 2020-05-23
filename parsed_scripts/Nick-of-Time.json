@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Nick of Time",
-        "   "
-    ],
+    "Title": "Nick of Time",
     "Author": [
-        "\u00a0\u00a0Patrick Duncan\u00a0\u00a0Ebbe Roe Smith"
+        "Patrick Duncan",
+        "Ebbe Roe Smith"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2599,23 +2599,6 @@
             ]
         },
         {
-            "Character": "INSERT FLOOR INDICATOR",
-            "Replies": [
-                {
-                    "Reply": "We are on the third floor.",
-                    "Didascalie": "",
-                    "Start": 51347,
-                    "End": 51374
-                },
-                {
-                    "Reply": "We are on the fourth floor.",
-                    "Didascalie": "",
-                    "Start": 52106,
-                    "End": 52134
-                }
-            ]
-        },
-        {
             "Character": "HUEY",
             "Replies": [
                 {
@@ -3142,17 +3125,6 @@
                     "Didascalie": "",
                     "Start": 159093,
                     "End": 159185
-                }
-            ]
-        },
-        {
-            "Character": "A REPORTER",
-            "Replies": [
-                {
-                    "Reply": "Have you ever thought of running for office yourself?",
-                    "Didascalie": "",
-                    "Start": 77950,
-                    "End": 78030
                 }
             ]
         },

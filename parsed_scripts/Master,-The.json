@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Master, The",
-        "   "
-    ],
+    "Title": "Master, The",
     "Author": [
-        "\u00a0\u00a0Paul Thomas Anderson"
+        "Paul Thomas Anderson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4073,12 +4070,6 @@
                     "End": 89279
                 },
                 {
-                    "Reply": "AND I WILL NOT DEFEND MYSELF TO YOU, YOU  SLIMY PIECE OF NOTHING.",
-                    "Didascalie": "",
-                    "Start": 90118,
-                    "End": 90194
-                },
-                {
                     "Reply": "STOP COUGHING. STOP COUGHING YOU HORRIBLE  OLD WOMAN. YOU DON'T GET IT. YOU DON'T  GET IT.",
                     "Didascalie": "",
                     "Start": 90725,
@@ -4659,12 +4650,6 @@
                     "Didascalie": "",
                     "Start": 196630,
                     "End": 196663
-                },
-                {
-                    "Reply": "IS THERE A RASCAL NEARBY?",
-                    "Didascalie": "",
-                    "Start": 196950,
-                    "End": 196976
                 },
                 {
                     "Reply": "Mold sparring partner.",
@@ -5474,17 +5459,6 @@
             ]
         },
         {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "She's sick! Please! She's sick!",
-                    "Didascalie": "",
-                    "Start": 91067,
-                    "End": 91099
-                }
-            ]
-        },
-        {
             "Character": "CLARK",
             "Replies": [
                 {
@@ -5748,6 +5722,23 @@
                     "Didascalie": "",
                     "Start": 117509,
                     "End": 117529
+                }
+            ]
+        },
+        {
+            "Character": "BOY 2",
+            "Replies": [
+                {
+                    "Reply": "I heard about that too.",
+                    "Didascalie": "",
+                    "Start": 117571,
+                    "End": 117595
+                },
+                {
+                    "Reply": "Holy shit.",
+                    "Didascalie": "",
+                    "Start": 121356,
+                    "End": 121367
                 }
             ]
         },
@@ -6108,17 +6099,6 @@
                     "Didascalie": "",
                     "Start": 171907,
                     "End": 172059
-                }
-            ]
-        },
-        {
-            "Character": "A TISKET-A-TASKET-MY PAST LIVES IN A",
-            "Replies": [
-                {
-                    "Reply": "BASKET!",
-                    "Didascalie": "",
-                    "Start": 176242,
-                    "End": 176250
                 }
             ]
         },

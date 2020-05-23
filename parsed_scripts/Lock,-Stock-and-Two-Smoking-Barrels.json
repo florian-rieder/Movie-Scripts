@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Lock, Stock and Two Smoking Barrels",
-        "   "
-    ],
+    "Title": "Lock, Stock and Two Smoking Barrels",
     "Author": [
-        "\u00a0\u00a0Guy Ritchie"
+        "Guy Ritchie"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Thriller\u00a0\u00a0Comedy"
+        "Crime",
+        "Thriller",
+        "Comedy"
     ],
     "Characters": [
         {

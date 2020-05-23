@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Edward Scissorhands",
-        "   "
-    ],
+    "Title": "Edward Scissorhands",
     "Author": [
-        "\u00a0\u00a0Tim Burton\u00a0\u00a0Caroline Thompson"
+        "Tim Burton",
+        "Caroline Thompson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Drama",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -726,12 +726,6 @@
                     "End": 38615
                 },
                 {
-                    "Reply": "WOMAN 1 Did you hear what he did to Peg's curtains?",
-                    "Didascalie": "(Margie and women on the phone.)",
-                    "Start": 38650,
-                    "End": 38712
-                },
-                {
                     "Reply": "Edward, do you want to give me that new haircut?",
                     "Didascalie": "",
                     "Start": 39373,
@@ -1047,12 +1041,6 @@
                     "End": 15364
                 },
                 {
-                    "Reply": "WOMAN 1 You must try this.",
-                    "Didascalie": "(Joyce helps Edward to eat.)",
-                    "Start": 15568,
-                    "End": 15605
-                },
-                {
                     "Reply": "Sorry, ladies. But he's promised to come to my house first.",
                     "Didascalie": "",
                     "Start": 15890,
@@ -1117,53 +1105,6 @@
                     "Didascalie": "",
                     "Start": 45690,
                     "End": 45773
-                }
-            ]
-        },
-        {
-            "Character": "A GIRL",
-            "Replies": [
-                {
-                    "Reply": "I like them both.",
-                    "Didascalie": "",
-                    "Start": 3354,
-                    "End": 3372
-                },
-                {
-                    "Reply": "You don't actually think I have any money, do you?",
-                    "Didascalie": "",
-                    "Start": 3414,
-                    "End": 3468
-                },
-                {
-                    "Reply": "You should see the clown in front of Ms. Peter's yard.",
-                    "Didascalie": "",
-                    "Start": 20577,
-                    "End": 20635
-                },
-                {
-                    "Reply": "That's him?",
-                    "Didascalie": "",
-                    "Start": 20693,
-                    "End": 20705
-                },
-                {
-                    "Reply": "Let's go.",
-                    "Didascalie": "",
-                    "Start": 20885,
-                    "End": 20895
-                },
-                {
-                    "Reply": "I can't eat that. He used his hands. I don't think it's sanitary.",
-                    "Didascalie": "",
-                    "Start": 22227,
-                    "End": 22296
-                },
-                {
-                    "Reply": "Are you sure he doesn't know this is Jim's house?",
-                    "Didascalie": "",
-                    "Start": 31019,
-                    "End": 31072
                 }
             ]
         },
@@ -1575,29 +1516,6 @@
                     "Didascalie": "",
                     "Start": 41771,
                     "End": 41805
-                }
-            ]
-        },
-        {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Joyce, I just saw this strange guy drop in with Peg. I didn't get a very good look at him. He looked kind of pale. Okay, I'll be right there. Don't do anything without me. Okay? Bye.",
-                    "Didascalie": "",
-                    "Start": 6140,
-                    "End": 6332
-                },
-                {
-                    "Reply": "Edward, you forgot your cookies.",
-                    "Didascalie": "",
-                    "Start": 20780,
-                    "End": 20813
-                },
-                {
-                    "Reply": "Please. We know him.",
-                    "Didascalie": "",
-                    "Start": 32932,
-                    "End": 32953
                 }
             ]
         },
@@ -2131,6 +2049,35 @@
             ]
         },
         {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "You must try this.",
+                    "Didascalie": "",
+                    "Start": 15586,
+                    "End": 15605
+                },
+                {
+                    "Reply": "What's been the best part of your new life here in town?",
+                    "Didascalie": "",
+                    "Start": 24824,
+                    "End": 24884
+                },
+                {
+                    "Reply": "Did you hear what he did to Peg's curtains?",
+                    "Didascalie": "",
+                    "Start": 38668,
+                    "End": 38712
+                },
+                {
+                    "Reply": "Oh, I don't think so.",
+                    "Didascalie": "",
+                    "Start": 38832,
+                    "End": 38854
+                }
+            ]
+        },
+        {
             "Character": "MARGE",
             "Replies": [
                 {
@@ -2161,6 +2108,40 @@
                     "Didascalie": "(to Edward)",
                     "Start": 22644,
                     "End": 22714
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "I want a row of angels.",
+                    "Didascalie": "",
+                    "Start": 15851,
+                    "End": 15875
+                },
+                {
+                    "Reply": "Have you ever thought of having corrective surgery or prosthetics? I know a doctor that might be able to help you.",
+                    "Didascalie": "",
+                    "Start": 24978,
+                    "End": 25099
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 3",
+            "Replies": [
+                {
+                    "Reply": "One more.",
+                    "Didascalie": "",
+                    "Start": 15970,
+                    "End": 15980
+                },
+                {
+                    "Reply": "But if you had regular hands you'd be like everyone else.",
+                    "Didascalie": "",
+                    "Start": 25287,
+                    "End": 25348
                 }
             ]
         },
@@ -3034,6 +3015,39 @@
             ]
         },
         {
+            "Character": "WOMAN 4",
+            "Replies": [
+                {
+                    "Reply": "Then no one would think you're special. You wouldn't be on TV or anything.",
+                    "Didascalie": "",
+                    "Start": 25435,
+                    "End": 25513
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 5",
+            "Replies": [
+                {
+                    "Reply": "Your work is so interesting distinctive and unique. Do you have plans to open your own beauty salon?",
+                    "Didascalie": "",
+                    "Start": 25636,
+                    "End": 25743
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 6",
+            "Replies": [
+                {
+                    "Reply": "Do you have a girl friend? Ahh.",
+                    "Didascalie": "",
+                    "Start": 25813,
+                    "End": 25845
+                }
+            ]
+        },
+        {
             "Character": "BANK CLERK",
             "Replies": [
                 {
@@ -3226,25 +3240,13 @@
             ]
         },
         {
-            "Character": "A MAN",
+            "Character": "PEOPLE 2",
             "Replies": [
                 {
-                    "Reply": "Have they caught him yet?",
+                    "Reply": "Get the police!",
                     "Didascalie": "",
-                    "Start": 44143,
-                    "End": 44169
-                },
-                {
-                    "Reply": "Him, that cripple. Let me know when they do. Let us all you know, okay? Like a good boy.",
-                    "Didascalie": "",
-                    "Start": 44204,
-                    "End": 44296
-                },
-                {
-                    "Reply": "Is he in there?",
-                    "Didascalie": "",
-                    "Start": 46277,
-                    "End": 46293
+                    "Start": 44804,
+                    "End": 44820
                 }
             ]
         },

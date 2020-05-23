@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Scarface",
-        "   "
-    ],
+    "Title": "Scarface",
     "Author": [
-        "\u00a0\u00a0Oliver Stone"
+        "Oliver Stone"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2902,12 +2901,6 @@
                     "End": 365332
                 },
                 {
-                    "Reply": "196   THROUGH TONY'S WINDSHIELD - DAY                                                                  19r The two children are now climbing in the back of Matos' sedan, the wife getting into the pasenger seat. They drive off.",
-                    "Didascalie": "",
-                    "Start": 367421,
-                    "End": 367666
-                },
-                {
                     "Reply": "He's gonna get out! Hurry UP,                                    hurry the fuck up!",
                     "Didascalie": "(suddenly panicked)",
                     "Start": 376510,
@@ -3135,17 +3128,6 @@
                     "Didascalie": "(Spanish)",
                     "Start": 60716,
                     "End": 60760
-                }
-            ]
-        },
-        {
-            "Character": "CONTINWED",
-            "Replies": [
-                {
-                    "Reply": "29   CONTINUED                                                      29 That's him -- El Mono's here!",
-                    "Didascalie": "",
-                    "Start": 52619,
-                    "End": 52737
                 }
             ]
         },
@@ -4034,12 +4016,6 @@
                     "End": 208571
                 },
                 {
-                    "Reply": "104   CONTINUED    -    2                                                                                104 . -.-.",
-                    "Didascalie": "",
-                    "Start": 209178,
-                    "End": 209294
-                },
-                {
                     "Reply": "to be back any moment and when he .-,-",
                     "Didascalie": "",
                     "Start": 209404,
@@ -4356,6 +4332,17 @@
                     "Didascalie": "",
                     "Start": 127084,
                     "End": 127187
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 47",
+            "Replies": [
+                {
+                    "Reply": "-.",
+                    "Didascalie": "",
+                    "Start": 136516,
+                    "End": 136519
                 }
             ]
         },

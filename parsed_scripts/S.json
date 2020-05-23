@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "S. Darko",
-        "   "
-    ],
+    "Title": "S. Darko",
     "Author": [
-        "\u00a0\u00a0Nathan Atkins"
+        "Nathan Atkins"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Crime",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4159,17 +4159,6 @@
                     "Didascalie": "",
                     "Start": 122273,
                     "End": 122498
-                }
-            ]
-        },
-        {
-            "Character": "DAY",
-            "Replies": [
-                {
-                    "Reply": "Billy sits at a table in the sunny, HEXAGONAL ROOM. He wears the BIRTHDAY HAT, SLACKS and COLLARED SHIRT.",
-                    "Didascalie": "",
-                    "Start": 122753,
-                    "End": 122869
                 }
             ]
         },

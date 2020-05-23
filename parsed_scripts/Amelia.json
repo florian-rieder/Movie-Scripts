@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Amelia",
-        "   "
-    ],
+    "Title": "Amelia",
     "Author": [
-        "\u00a0\u00a0Ronald Bass\u00a0\u00a0Anna Hamilton Phelan"
+        "Ronald Bass",
+        "Anna Hamilton Phelan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1890,12 +1888,6 @@
                     "Didascalie": "",
                     "Start": 248498,
                     "End": 248506
-                },
-                {
-                    "Reply": "IT'S GOING TO GET HEAVIER AND  WE COULD BE STUCK HERE FOR DAYS.",
-                    "Didascalie": "",
-                    "Start": 251407,
-                    "End": 251496
                 },
                 {
                     "Reply": "Stay if you like.",

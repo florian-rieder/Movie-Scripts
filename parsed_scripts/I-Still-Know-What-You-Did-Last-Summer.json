@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "I Still Know What You Did Last Summer",
-        "   "
-    ],
+    "Title": "I Still Know What You Did Last Summer",
     "Author": [
-        "\u00a0\u00a0Trey Callaway"
+        "Trey Callaway"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "A PRIEST",
-            "Replies": [
-                {
-                    "Reply": "enters the adjacent booth -- barely visible through the WICKER MESH.",
-                    "Didascalie": "",
-                    "Start": 887,
-                    "End": 956
-                }
-            ]
-        },
         {
             "Character": "JULIE",
             "Replies": [
@@ -1234,17 +1222,6 @@
                     "Didascalie": "(growls)",
                     "Start": 2583,
                     "End": 2622
-                }
-            ]
-        },
-        {
-            "Character": "A STEEL HOOK",
-            "Replies": [
-                {
-                    "Reply": "smashes through the screen right in Julie's face! She SCREAMS!",
-                    "Didascalie": "",
-                    "Start": 2639,
-                    "End": 2702
                 }
             ]
         },
@@ -3922,17 +3899,6 @@
             ]
         },
         {
-            "Character": "A BODY",
-            "Replies": [
-                {
-                    "Reply": "is sprawled out in the road away from the car. Ray pulls over to the shoulder and stops.",
-                    "Didascalie": "",
-                    "Start": 26241,
-                    "End": 26331
-                }
-            ]
-        },
-        {
             "Character": "BEHIND RAY",
             "Replies": [
                 {
@@ -4847,17 +4813,6 @@
             ]
         },
         {
-            "Character": "A STRAW FIGURE",
-            "Replies": [
-                {
-                    "Reply": "and impales it on his fishhook necklace.",
-                    "Didascalie": "",
-                    "Start": 67252,
-                    "End": 67293
-                }
-            ]
-        },
-        {
             "Character": "OLGA",
             "Replies": [
                 {
@@ -4950,28 +4905,6 @@
             ]
         },
         {
-            "Character": "A THUMPING DRYER",
-            "Replies": [
-                {
-                    "Reply": "in a small laundry room. Karla relaxes.",
-                    "Didascalie": "",
-                    "Start": 77400,
-                    "End": 77440
-                }
-            ]
-        },
-        {
-            "Character": "A BLOODY SHOE",
-            "Replies": [
-                {
-                    "Reply": "flies out and into her arms. She looks down a beat, and SCREAMS bloody murder.",
-                    "Didascalie": "",
-                    "Start": 77708,
-                    "End": 77788
-                }
-            ]
-        },
-        {
             "Character": "HIS FINGERNAILS SCRATHCED GROOVES",
             "Replies": [
                 {
@@ -4979,17 +4912,6 @@
                     "Didascalie": "",
                     "Start": 80420,
                     "End": 80477
-                }
-            ]
-        },
-        {
-            "Character": "A STUFFED MARLIN",
-            "Replies": [
-                {
-                    "Reply": "with the words \"I STILL KNOW\" written on it in blood.",
-                    "Didascalie": "",
-                    "Start": 83097,
-                    "End": 83151
                 }
             ]
         },
@@ -5007,17 +4929,6 @@
                     "Didascalie": "(sincere, but unsettling)",
                     "Start": 86161,
                     "End": 86231
-                }
-            ]
-        },
-        {
-            "Character": "A FRESHLY DUG GRAVE",
-            "Replies": [
-                {
-                    "Reply": "and the group moves slowly toward it. The headstone, partially obscured by the mound of dirt, comes into view.",
-                    "Didascalie": "",
-                    "Start": 94444,
-                    "End": 94556
                 }
             ]
         },
@@ -5046,50 +4957,6 @@
                     "Didascalie": "",
                     "Start": 98756,
                     "End": 98791
-                }
-            ]
-        },
-        {
-            "Character": "A ROLLING PIN",
-            "Replies": [
-                {
-                    "Reply": "bashes him on the back of the head. Tyrell hits the floor, unconscious.",
-                    "Didascalie": "",
-                    "Start": 99063,
-                    "End": 99136
-                }
-            ]
-        },
-        {
-            "Character": "A LOOSE KNIFE",
-            "Replies": [
-                {
-                    "Reply": "and hides it in her back pocket.",
-                    "Didascalie": "",
-                    "Start": 100976,
-                    "End": 101009
-                }
-            ]
-        },
-        {
-            "Character": "A BOAT",
-            "Replies": [
-                {
-                    "Reply": "drifting on the fast sea. The words \"Tower Bay\" are painted on the side. Ray pulls alongside and discovers the boat is empty.",
-                    "Didascalie": "",
-                    "Start": 101213,
-                    "End": 101340
-                }
-            ]
-        },
-        {
-            "Character": "A WOODEN LADDER",
-            "Replies": [
-                {
-                    "Reply": "pulls down. Nancy quickly climbs up.",
-                    "Didascalie": "",
-                    "Start": 102329,
-                    "End": 102366
                 }
             ]
         },
@@ -5198,39 +5065,6 @@
             ]
         },
         {
-            "Character": "A SPEAR TIP",
-            "Replies": [
-                {
-                    "Reply": "appears in the front of his chest.",
-                    "Didascalie": "",
-                    "Start": 114413,
-                    "End": 114448
-                }
-            ]
-        },
-        {
-            "Character": "A GLASS TABLE",
-            "Replies": [
-                {
-                    "Reply": "in the lobby area. The table explodes. Karla is finished.",
-                    "Didascalie": "",
-                    "Start": 115308,
-                    "End": 115366
-                }
-            ]
-        },
-        {
-            "Character": "A MUDDY LANDSLIDE",
-            "Replies": [
-                {
-                    "Reply": "slowly covers Ben up.",
-                    "Didascalie": "",
-                    "Start": 119967,
-                    "End": 119989
-                }
-            ]
-        },
-        {
             "Character": "GLEAMING METAL HOOK",
             "Replies": [
                 {
@@ -5238,28 +5072,6 @@
                     "Didascalie": "",
                     "Start": 120281,
                     "End": 120338
-                }
-            ]
-        },
-        {
-            "Character": "A DARK FIGURE",
-            "Replies": [
-                {
-                    "Reply": "jumps out. Julie yells. She and Ray jump back.",
-                    "Didascalie": "",
-                    "Start": 120515,
-                    "End": 120562
-                }
-            ]
-        },
-        {
-            "Character": "A COAST GUARD HELICOPTER",
-            "Replies": [
-                {
-                    "Reply": "rises into view.",
-                    "Didascalie": "",
-                    "Start": 121472,
-                    "End": 121489
                 }
             ]
         },

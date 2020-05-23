@@ -1,36 +1,12 @@
 {
-    "Title": [
-        "Saint, The",
-        "   "
-    ],
+    "Title": "Saint, The",
     "Author": [
-        "\u00a0\u00a0Jonathan Hensleigh"
+        "Jonathan Hensleigh"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Action",
+        "Romance",
+        "Thriller"
     ],
-    "Characters": [
-        {
-            "Character": "MICHAEL QUINN",
-            "Replies": [
-                {
-                    "Reply": "That's not my name.  Father O'Neal yanks the boy from the chair. Drags him by the arm across the room and out into the corridor.  THE OTHER BOYS wait two seconds, then they spring up and run, en masse, to the door. Grouped in the threshold, straining for a good view, they watch as --  FATHER O'NEIL pulls Michael Quinn into an office down the corridor. The door has a stained-glass window.  It begins. We see it in SILHOUETTE: Father O'Neal with a CANE SWITCH in his hand, the boy beneath him. Down the switch comes. Again. And again. The boy YELPS. And again and again and again... and now he SCREAMS...",
-                    "Didascalie": "",
-                    "Start": 1592,
-                    "End": 2212
-                }
-            ]
-        },
-        {
-            "Character": "TEMPLAR",
-            "Replies": [
-                {
-                    "Reply": "I'll make you an offer - pay me my fifteen million out of your royalties - should come to about one month's. . .",
-                    "Didascalie": "(beat)",
-                    "Start": 118573,
-                    "End": 118688
-                }
-            ]
-        }
-    ]
+    "Characters": "This script couldn't be parsed. Please check the original file's formatting, or add a special case in ScriptParser's _special_characters() method."
 }

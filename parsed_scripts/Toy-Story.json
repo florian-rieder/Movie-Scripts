@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Toy Story",
-        "   "
-    ],
+    "Title": "Toy Story",
     "Author": [
-        "\u00a0\u00a0Joss Whedon\u00a0\u00a0Andrew Stanton\u00a0\u00a0Joel Cohen\u00a0\u00a0Alec Sokolow"
+        "Joss Whedon",
+        "Andrew Stanton",
+        "Joel Cohen",
+        "Alec Sokolow"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Family\u00a0\u00a0Fantasy"
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -287,28 +290,6 @@
                     "Didascalie": "",
                     "Start": 168341,
                     "End": 168356
-                }
-            ]
-        },
-        {
-            "Character": "BEGIN TITLES",
-            "Replies": [
-                {
-                    "Reply": "SONG \"YOU'VE GOT A FRIEND IN ME\" plays while Andy does various activities with Woody:  -- Andy turns the Western town boxes around to reveal cows drawn on the other side.  He grabs a jump rope and pretends Woody is lassoing the cattle.",
-                    "Didascalie": "",
-                    "Start": 4264,
-                    "End": 4500
-                }
-            ]
-        },
-        {
-            "Character": "END TITLES",
-            "Replies": [
-                {
-                    "Reply": "Woody's eyes come to life.  The cowboy doll sits up, his expression changing from a smile to worry.",
-                    "Didascalie": "",
-                    "Start": 6854,
-                    "End": 6954
                 }
             ]
         },
@@ -3185,17 +3166,6 @@
             ]
         },
         {
-            "Character": "A BALL",
-            "Replies": [
-                {
-                    "Reply": "bounces into the hallway, followed by the sound of footsteps and kid clamor.",
-                    "Didascalie": "",
-                    "Start": 22768,
-                    "End": 22845
-                }
-            ]
-        },
-        {
             "Character": "BEAT",
             "Replies": [
                 {
@@ -4598,17 +4568,6 @@
             ]
         },
         {
-            "Character": "A BULLETIN BOARD",
-            "Replies": [
-                {
-                    "Reply": "The impact forces pushpins to fly out of the board.  Buzz ducks as pins land all around him, sticking into the desk like arrows.",
-                    "Didascalie": "",
-                    "Start": 59213,
-                    "End": 59342
-                }
-            ]
-        },
-        {
             "Character": "POTATO HEAD",
             "Replies": [
                 {
@@ -4616,17 +4575,6 @@
                     "Didascalie": "",
                     "Start": 59356,
                     "End": 59413
-                }
-            ]
-        },
-        {
-            "Character": "A GLOBE",
-            "Replies": [
-                {
-                    "Reply": "knocking it out of its stand.  The globe starts rolling right at Buzz.",
-                    "Didascalie": "",
-                    "Start": 59499,
-                    "End": 59570
                 }
             ]
         },
@@ -4679,28 +4627,6 @@
                     "Didascalie": "(electric motor sounds)",
                     "Start": 60986,
                     "End": 61030
-                }
-            ]
-        },
-        {
-            "Character": "A BUSH",
-            "Replies": [
-                {
-                    "Reply": "next to the van begins to rustle.  Hands part the foliage, revealing Buzz.  He eyes Woody going into the van and does a slow burn.",
-                    "Didascalie": "",
-                    "Start": 65255,
-                    "End": 65386
-                }
-            ]
-        },
-        {
-            "Character": "A GIGANTIC TIRE",
-            "Replies": [
-                {
-                    "Reply": "stops just millimeters from Woody's nose.",
-                    "Didascalie": "",
-                    "Start": 70157,
-                    "End": 70199
                 }
             ]
         },
@@ -4763,17 +4689,6 @@
             ]
         },
         {
-            "Character": "A LARGE TOOL BOX",
-            "Replies": [
-                {
-                    "Reply": "barreling towards him.",
-                    "Didascalie": "",
-                    "Start": 76780,
-                    "End": 76803
-                }
-            ]
-        },
-        {
             "Character": "ROBOT GUARDS",
             "Replies": [
                 {
@@ -4809,17 +4724,6 @@
                     "Didascalie": "",
                     "Start": 77687,
                     "End": 77766
-                }
-            ]
-        },
-        {
-            "Character": "A CRANE GAME",
-            "Replies": [
-                {
-                    "Reply": "It is modeled to look like a spaceship ready to launch.",
-                    "Didascalie": "",
-                    "Start": 81545,
-                    "End": 81601
                 }
             ]
         },
@@ -4866,17 +4770,6 @@
                     "Didascalie": "",
                     "Start": 87100,
                     "End": 87136
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL REPAIR DOOR",
-            "Replies": [
-                {
-                    "Reply": "Woody swims through the alien squeeze toys toward the door.",
-                    "Didascalie": "",
-                    "Start": 85905,
-                    "End": 85965
                 }
             ]
         },
@@ -5064,28 +4957,6 @@
             ]
         },
         {
-            "Character": "A CLOSET",
-            "Replies": [
-                {
-                    "Reply": "Woody slams the door shut just as Scud reaches the top of the landing.  CRASHED can be heard from behind the closet door, getting Scud's attention.",
-                    "Didascalie": "",
-                    "Start": 103852,
-                    "End": 104000
-                }
-            ]
-        },
-        {
-            "Character": "A TELEVISION SET",
-            "Replies": [
-                {
-                    "Reply": "Buzz's space ranger logo is on the screen over a field of stars.  The image quickly changes to two young boys playing in their backyard with a Buzz Lightyear doll.",
-                    "Didascalie": "",
-                    "Start": 104978,
-                    "End": 105142
-                }
-            ]
-        },
-        {
             "Character": "SPACE COMMANDER",
             "Replies": [
                 {
@@ -5195,17 +5066,6 @@
             ]
         },
         {
-            "Character": "A SMALL WINDOW",
-            "Replies": [
-                {
-                    "Reply": "It is open, revealing the blue sky beyond.  A bird flies past.",
-                    "Didascalie": "",
-                    "Start": 108111,
-                    "End": 108174
-                }
-            ]
-        },
-        {
             "Character": "HIS SEVERED LEFT ARM",
             "Replies": [
                 {
@@ -5224,61 +5084,6 @@
                     "Didascalie": "",
                     "Start": 109307,
                     "End": 109335
-                }
-            ]
-        },
-        {
-            "Character": "A MOVING TRUCK",
-            "Replies": [
-                {
-                    "Reply": "can be seen pulling up in front of Andy's house.",
-                    "Didascalie": "",
-                    "Start": 133611,
-                    "End": 133660
-                }
-            ]
-        },
-        {
-            "Character": "A STRAP",
-            "Replies": [
-                {
-                    "Reply": "dangles off the back of the truck.  Buzz makes a leap for it and grabs hold.  He climbs up the strap and onto the bumper.",
-                    "Didascalie": "",
-                    "Start": 150359,
-                    "End": 150481
-                }
-            ]
-        },
-        {
-            "Character": "A PILE OF MOVING BOXES",
-            "Replies": [
-                {
-                    "Reply": "with the words \"ANDY'S TOYS\" written on them in crayon.",
-                    "Didascalie": "",
-                    "Start": 152073,
-                    "End": 152129
-                }
-            ]
-        },
-        {
-            "Character": "A CAR",
-            "Replies": [
-                {
-                    "Reply": "whizzes right over them, blowing out the match.",
-                    "Didascalie": "",
-                    "Start": 160302,
-                    "End": 160350
-                }
-            ]
-        },
-        {
-            "Character": "A WHITE HOT DOT",
-            "Replies": [
-                {
-                    "Reply": "like the one generated from Sid's magnifying glass, appears on the back of Woody's hand.",
-                    "Didascalie": "",
-                    "Start": 160703,
-                    "End": 160792
                 }
             ]
         },

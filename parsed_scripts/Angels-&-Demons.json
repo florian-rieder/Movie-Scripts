@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Angels & Demons",
-        "   "
-    ],
+    "Title": "Angels & Demons",
     "Author": [
-        "\u00a0\u00a0David Koepp\u00a0\u00a0Akiva Goldsman"
+        "David Koepp",
+        "Akiva Goldsman"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4168,17 +4168,6 @@
                     "Didascalie": "",
                     "Start": 285743,
                     "End": 285907
-                }
-            ]
-        },
-        {
-            "Character": "A DOOR OPENS",
-            "Replies": [
-                {
-                    "Reply": "on a small incinerator. The ring of ballots is hurled inside and bursts immediately into flame.",
-                    "Didascalie": "",
-                    "Start": 121253,
-                    "End": 121359
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Tomorrow Never Dies",
-        "   "
-    ],
+    "Title": "Tomorrow Never Dies",
     "Author": [
-        "\u00a0\u00a0Bruce Feirstein\u00a0\u00a0Ian Fleming"
+        "Bruce Feirstein",
+        "Ian Fleming"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5255,6 +5255,51 @@
             ]
         },
         {
+            "Character": "CREWMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Sounding: Bottom is thirty fathoms.",
+                    "Didascalie": "",
+                    "Start": 139665,
+                    "End": 139701
+                }
+            ]
+        },
+        {
+            "Character": "CREWMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Nothing. Negative bounce.",
+                    "Didascalie": "",
+                    "Start": 139759,
+                    "End": 139785
+                }
+            ]
+        },
+        {
+            "Character": "OPERATOR 2",
+            "Replies": [
+                {
+                    "Reply": "Wait - I'm getting something.",
+                    "Didascalie": "",
+                    "Start": 139966,
+                    "End": 139996
+                },
+                {
+                    "Reply": "Not sure yet -",
+                    "Didascalie": "",
+                    "Start": 140274,
+                    "End": 140289
+                },
+                {
+                    "Reply": "The Shinjuku. Japanese troop carrier. World War II.",
+                    "Didascalie": "",
+                    "Start": 140482,
+                    "End": 140551
+                }
+            ]
+        },
+        {
             "Character": "CO-PILOT",
             "Replies": [
                 {
@@ -5268,6 +5313,17 @@
                     "Didascalie": "",
                     "Start": 145964,
                     "End": 146040
+                }
+            ]
+        },
+        {
+            "Character": "YOUNG MALE ASSISTANT 1",
+            "Replies": [
+                {
+                    "Reply": "Good morning Sir Elliot! Welcome to Kuala Lumpur -",
+                    "Didascalie": "",
+                    "Start": 141713,
+                    "End": 141781
                 }
             ]
         },
@@ -5303,6 +5359,56 @@
                     "Didascalie": "",
                     "Start": 206575,
                     "End": 206607
+                }
+            ]
+        },
+        {
+            "Character": "NEWS EDITOR 1",
+            "Replies": [
+                {
+                    "Reply": "- A ferry sank and burned in Pakistan; 457 dead.",
+                    "Didascalie": "",
+                    "Start": 143736,
+                    "End": 143802
+                },
+                {
+                    "Reply": "Riots broke out at the World Cup soccer finals -",
+                    "Didascalie": "",
+                    "Start": 144248,
+                    "End": 144314
+                }
+            ]
+        },
+        {
+            "Character": "NEWS EDITOR 2",
+            "Replies": [
+                {
+                    "Reply": "American jetliner down in Omaha -",
+                    "Didascalie": "",
+                    "Start": 143927,
+                    "End": 143961
+                }
+            ]
+        },
+        {
+            "Character": "NEWS EDITOR 3",
+            "Replies": [
+                {
+                    "Reply": "Economic summit ends in Tokyo -",
+                    "Didascalie": "",
+                    "Start": 144088,
+                    "End": 144120
+                }
+            ]
+        },
+        {
+            "Character": "NEWS EDITOR 4",
+            "Replies": [
+                {
+                    "Reply": "This just came in: There's something up with the British Navy in the Strait. Rescue planes, helicopters; two ships supposedly sailing from the Persian gulf. They just chased away one of our news boats.",
+                    "Didascalie": "",
+                    "Start": 144633,
+                    "End": 144920
                 }
             ]
         },

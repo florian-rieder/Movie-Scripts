@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Last of the Mohicans, The",
-        "   "
-    ],
+    "Title": "Last of the Mohicans, The",
     "Author": [
-        "\u00a0\u00a0Michael Mann\u00a0\u00a0Christopher Crowe"
+        "Michael Mann",
+        "Christopher Crowe"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Romance\u00a0\u00a0War"
+        "Adventure",
+        "Romance",
+        "War"
     ],
     "Characters": [
         {
@@ -1913,17 +1913,6 @@
                     "Didascalie": "",
                     "Start": 73158,
                     "End": 73246
-                }
-            ]
-        },
-        {
-            "Character": "A COLONIAL",
-            "Replies": [
-                {
-                    "Reply": "Got no families, Captain. Figured we'd stay and give 'em a hand even though ...",
-                    "Didascalie": "",
-                    "Start": 82044,
-                    "End": 82129
                 }
             ]
         },

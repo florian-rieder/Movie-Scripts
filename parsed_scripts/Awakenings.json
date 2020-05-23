@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Awakenings",
-        "   "
-    ],
+    "Title": "Awakenings",
     "Author": [
-        "\u00a0\u00a0Steven Zaillian"
+        "Steven Zaillian"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1668,6 +1665,17 @@
             ]
         },
         {
+            "Character": "FEMALE PATIENT 1",
+            "Replies": [
+                {
+                    "Reply": "Hello. Hello. Hello. Hello . . .",
+                    "Didascalie": "",
+                    "Start": 12344,
+                    "End": 12377
+                }
+            ]
+        },
+        {
             "Character": "ANTHONY",
             "Replies": [
                 {
@@ -1781,6 +1789,40 @@
                     "Didascalie": "",
                     "Start": 13651,
                     "End": 13720
+                }
+            ]
+        },
+        {
+            "Character": "MALE PATIENT 1",
+            "Replies": [
+                {
+                    "Reply": "Brooklyn Psychiatric Centerf Brooklyn. New York. Prior to thatP I was a person. And you.",
+                    "Didascalie": "",
+                    "Start": 14827,
+                    "End": 14938
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 1",
+            "Replies": [
+                {
+                    "Reply": "I wouldn't bet on it, he hasn't for twenty years.",
+                    "Didascalie": "",
+                    "Start": 15947,
+                    "End": 16014
+                },
+                {
+                    "Reply": "She's the daughter of the nephew of a Dutch archduke. She's royalty.",
+                    "Didascalie": "",
+                    "Start": 165694,
+                    "End": 165783
+                },
+                {
+                    "Reply": "He's been dead a hundred years.",
+                    "Didascalie": "",
+                    "Start": 166025,
+                    "End": 166057
                 }
             ]
         },
@@ -3346,6 +3388,28 @@
             ]
         },
         {
+            "Character": "ORDERLY 1",
+            "Replies": [
+                {
+                    "Reply": "You're Italian, he's Italian, what's the problem?",
+                    "Didascalie": "",
+                    "Start": 134500,
+                    "End": 134562
+                }
+            ]
+        },
+        {
+            "Character": "ORDERLY 2",
+            "Replies": [
+                {
+                    "Reply": "Italian.",
+                    "Didascalie": "",
+                    "Start": 134653,
+                    "End": 134662
+                }
+            ]
+        },
+        {
             "Character": "BERT",
             "Replies": [
                 {
@@ -3724,6 +3788,17 @@
             ]
         },
         {
+            "Character": "MOVER 1",
+            "Replies": [
+                {
+                    "Reply": "Excuse me, ma'am.                  .",
+                    "Didascalie": "",
+                    "Start": 172081,
+                    "End": 172118
+                }
+            ]
+        },
+        {
             "Character": "PSYCHIATRIST",
             "Replies": [
                 {
@@ -3731,6 +3806,29 @@
                     "Didascalie": "",
                     "Start": 182908,
                     "End": 182927
+                }
+            ]
+        },
+        {
+            "Character": "WARD 5 PATIENT",
+            "Replies": [
+                {
+                    "Reply": "I don't like it.",
+                    "Didascalie": "",
+                    "Start": 193917,
+                    "End": 193934
+                },
+                {
+                    "Reply": "I'm no animal.",
+                    "Didascalie": "",
+                    "Start": 194108,
+                    "End": 194123
+                },
+                {
+                    "Reply": "We can't allow it.",
+                    "Didascalie": "",
+                    "Start": 198393,
+                    "End": 198412
                 }
             ]
         },

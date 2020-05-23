@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "187",
-        "   "
-    ],
+    "Title": "187",
     "Author": [
-        "\u00a0\u00a0Scott Yagemann"
+        "Scott Yagemann"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -18,6 +15,17 @@
                     "Didascalie": "(clapping his hands)",
                     "Start": 2043,
                     "End": 2092
+                }
+            ]
+        },
+        {
+            "Character": "OCTOBER 1994",
+            "Replies": [
+                {
+                    "Reply": "The Assistant Principal, attention diverted, doesn't even notice Trevor as he enters on his bike and races down the sidewalk in front of the school. With all the prompting, students still don't seem to be in much of a hurry.",
+                    "Didascalie": "",
+                    "Start": 2509,
+                    "End": 2749
                 }
             ]
         },
@@ -4774,17 +4782,6 @@
             ]
         },
         {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "A concrete fortress... Ellen and Mrs. Chacon approach.",
-                    "Didascalie": "",
-                    "Start": 181830,
-                    "End": 181885
-                }
-            ]
-        },
-        {
             "Character": "ASSISTANT CORONER",
             "Replies": [
                 {
@@ -4969,17 +4966,6 @@
                     "Didascalie": "(V.O.) (beat)",
                     "Start": 245984,
                     "End": 246278
-                }
-            ]
-        },
-        {
-            "Character": "BLACKNESS",
-            "Replies": [
-                {
-                    "Reply": "... and ROLL END CREDITS.",
-                    "Didascalie": "",
-                    "Start": 255231,
-                    "End": 255257
                 }
             ]
         }

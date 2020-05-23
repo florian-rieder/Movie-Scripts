@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Lake Placid",
-        "   "
-    ],
+    "Title": "Lake Placid",
     "Author": [
-        "\u00a0\u00a0David E Kelley"
+        "David E Kelley"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Comedy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2754,23 +2754,6 @@
                     "Didascalie": "",
                     "Start": 129548,
                     "End": 129609
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "The teenagers have some or most of their clothes back on.",
-                    "Didascalie": "",
-                    "Start": 86861,
-                    "End": 86919
-                },
-                {
-                    "Reply": "Three, maybe four, crocodile hatchlings, a foot in length, are swimming near her feet, eating the bread, nibbling her toes.",
-                    "Didascalie": "",
-                    "Start": 141035,
-                    "End": 141164
                 }
             ]
         },

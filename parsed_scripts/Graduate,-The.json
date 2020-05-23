@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Graduate, The",
-        "   "
-    ],
+    "Title": "Graduate, The",
     "Author": [
-        "\u00a0\u00a0Buck Henry"
+        "Buck Henry"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3626,6 +3625,51 @@
             ]
         },
         {
+            "Character": "LADY 1",
+            "Replies": [
+                {
+                    "Reply": "Ben - we're all so proud of you.",
+                    "Didascalie": "",
+                    "Start": 8700,
+                    "End": 8735
+                }
+            ]
+        },
+        {
+            "Character": "LADY 2",
+            "Replies": [
+                {
+                    "Reply": "Proud, proud, proud, proud, proud.",
+                    "Didascalie": "",
+                    "Start": 8749,
+                    "End": 8786
+                },
+                {
+                    "Reply": "With your life.",
+                    "Didascalie": "",
+                    "Start": 8944,
+                    "End": 8960
+                }
+            ]
+        },
+        {
+            "Character": "LADY 3",
+            "Replies": [
+                {
+                    "Reply": "What are you going to do now?",
+                    "Didascalie": "",
+                    "Start": 8800,
+                    "End": 8830
+                },
+                {
+                    "Reply": "No - I meant with your future.",
+                    "Didascalie": "",
+                    "Start": 8899,
+                    "End": 8930
+                }
+            ]
+        },
+        {
             "Character": "PETER AND LOUISE",
             "Replies": [
                 {
@@ -4582,23 +4626,6 @@
                     "Didascalie": "",
                     "Start": 110769,
                     "End": 110842
-                }
-            ]
-        },
-        {
-            "Character": "A BOY",
-            "Replies": [
-                {
-                    "Reply": "Shall I get the cops?",
-                    "Didascalie": "",
-                    "Start": 114907,
-                    "End": 114929
-                },
-                {
-                    "Reply": "I'll get the cops.",
-                    "Didascalie": "",
-                    "Start": 114959,
-                    "End": 114978
                 }
             ]
         },

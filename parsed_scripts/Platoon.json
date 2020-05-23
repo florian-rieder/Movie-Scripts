@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Platoon",
-        "   "
-    ],
+    "Title": "Platoon",
     "Author": [
-        "\u00a0\u00a0Oliver Stone"
+        "Oliver Stone"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Action",
+        "Drama",
+        "War"
     ],
     "Characters": [
         {
@@ -31,12 +30,6 @@
                     "End": 1150
                 },
                 {
-                    "Reply": "I guess so ...",
-                    "Didascalie": "(a look)",
-                    "Start": 1174,
-                    "End": 1191
-                },
-                {
                     "Reply": "Hey Chris, I show you a picture of Lucy Jean?",
                     "Didascalie": "",
                     "Start": 17278,
@@ -47,6 +40,17 @@
                     "Didascalie": "(admiring)",
                     "Start": 17581,
                     "End": 17661
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "I guess so ...",
+                    "Didascalie": "(a look)",
+                    "Start": 1174,
+                    "End": 1191
                 }
             ]
         },
@@ -673,6 +677,12 @@
                     "Didascalie": "(distorted high frequency)",
                     "Start": 157643,
                     "End": 157824
+                },
+                {
+                    "Reply": "Snakebite leader, Bravo Six, for the record, it's my call.  Dump everything you got left ON MY POS.  I say again, I want all you're holding INSIDE the perimeter.  It's a lovely war.  Bravo Six Actual and Out.",
+                    "Didascalie": "",
+                    "Start": 157878,
+                    "End": 158095
                 },
                 {
                     "Reply": "You got Second Platoon Sergeant.",
@@ -4296,12 +4306,6 @@
                     "Didascalie": "",
                     "Start": 98603,
                     "End": 98776
-                },
-                {
-                    "Reply": "The world's gonna be ma oyster man.  First's I gonna EAT - all the hamburger and french fries and steaks soaked in onions and ketchup I can get.  Then I'se gonna FUCK and SUCK Sandy Bell till I sore all over and can't fuck no more, and den I'se gonna SLEEP for DAYS, for WEEKS!  Den I'se gonna think bout what comes next ...",
-                    "Didascalie": "",
-                    "Start": 98894,
-                    "End": 99231
                 }
             ]
         },
@@ -4416,7 +4420,23 @@
                     "Didascalie": "(looks at his watch, to his XO)",
                     "Start": 148829,
                     "End": 148975
-                },
+                }
+            ]
+        },
+        {
+            "Character": "RTO 2",
+            "Replies": [
+                {
+                    "Reply": "Charlie Company reports hand to hand on the perimeter sir.  Three holes are down.  They need help!",
+                    "Didascalie": "",
+                    "Start": 148685,
+                    "End": 148786
+                }
+            ]
+        },
+        {
+            "Character": "RTO 1",
+            "Replies": [
                 {
                     "Reply": "Bravo Six sir.",
                     "Didascalie": "(handing him the transmitter)",
@@ -4433,6 +4453,17 @@
                     "Didascalie": "",
                     "Start": 149236,
                     "End": 149273
+                }
+            ]
+        },
+        {
+            "Character": "RTO 3",
+            "Replies": [
+                {
+                    "Reply": "SIR!!",
+                    "Didascalie": "",
+                    "Start": 149788,
+                    "End": 149794
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Chronicle",
-        "   "
-    ],
+    "Title": "Chronicle",
     "Author": [
-        "\u00a0\u00a0Max Landis\u00a0\u00a0Josh Trank"
+        "Max Landis",
+        "Josh Trank"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Never Been Kissed",
-        "   "
-    ],
+    "Title": "Never Been Kissed",
     "Author": [
-        "\u00a0\u00a0Jerry Bicks\u00a0\u00a0Abby Kohn\u00a0\u00a0Marc Silverstein"
+        "Jerry Bicks",
+        "Abby Kohn",
+        "Marc Silverstein"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3313,12 +3313,6 @@
                     "End": 117758
                 },
                 {
-                    "Reply": "No- not really, Josie. NOT REALLY. How could you do that to me? I helped you. I got you everything you wanted. And how do you repay me- you blow everything TWO DAYS before pro scouts come to see me play. Once they had seen me really play- they wouldn't have given a shit about my age.",
-                    "Didascalie": "",
-                    "Start": 117804,
-                    "End": 118089
-                },
-                {
                     "Reply": "No, you weren't. Don't you realize the only time I was really happy in the last five years was when I was playing ball with those guys?",
                     "Didascalie": "",
                     "Start": 118129,
@@ -3760,6 +3754,52 @@
                     "Didascalie": "",
                     "Start": 113095,
                     "End": 113123
+                }
+            ]
+        },
+        {
+            "Character": "STONER 1",
+            "Replies": [
+                {
+                    "Reply": "Sorry. We sit here.",
+                    "Didascalie": "",
+                    "Start": 26269,
+                    "End": 26289
+                },
+                {
+                    "Reply": "Dude--we left Jed at the 7-11!",
+                    "Didascalie": "",
+                    "Start": 26503,
+                    "End": 26534
+                },
+                {
+                    "Reply": "Again!",
+                    "Didascalie": "(cont'd) (beat)",
+                    "Start": 26540,
+                    "End": 26548
+                },
+                {
+                    "Reply": "Oh, Dude--",
+                    "Didascalie": "(to Stoner 2)",
+                    "Start": 62292,
+                    "End": 62304
+                },
+                {
+                    "Reply": "It's Robilicious!",
+                    "Didascalie": "",
+                    "Start": 75054,
+                    "End": 75072
+                }
+            ]
+        },
+        {
+            "Character": "STONER 2",
+            "Replies": [
+                {
+                    "Reply": "Right. Except there are three of us--",
+                    "Didascalie": "",
+                    "Start": 26362,
+                    "End": 26400
                 }
             ]
         },

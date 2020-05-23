@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Ghost Ship",
-        "   "
-    ],
+    "Title": "Ghost Ship",
     "Author": [
-        "\u00a0\u00a0Mark Hanlon"
+        "Mark Hanlon"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -4764,6 +4765,17 @@
                     "Didascalie": "",
                     "Start": 131063,
                     "End": 131145
+                }
+            ]
+        },
+        {
+            "Character": "AT CABIN 400",
+            "Replies": [
+                {
+                    "Reply": "As Murphy comes to the door to see Dodge standing in the middle of the cabin.",
+                    "Didascalie": "",
+                    "Start": 79935,
+                    "End": 80015
                 }
             ]
         },

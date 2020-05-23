@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Something's Gotta Give",
-        "   "
-    ],
+    "Title": "Something's Gotta Give",
     "Author": [
-        "\u00a0\u00a0Nancy Meyers"
+        "Nancy Meyers"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Comedy",
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {
@@ -7441,17 +7440,6 @@
             ]
         },
         {
-            "Character": "A MATCH IS STRUCK",
-            "Replies": [
-                {
-                    "Reply": "and a CANDLE is lit. Then ANOTHER ONE, and ANOTHER ONE. Erica turns and finds Harry just looking at her. Before either of them has time to think, they kiss.",
-                    "Didascalie": "",
-                    "Start": 114843,
-                    "End": 115000
-                }
-            ]
-        },
-        {
             "Character": "HARRY FLOPS ONTO HIS BED",
             "Replies": [
                 {
@@ -7544,12 +7532,6 @@
         {
             "Character": "BLACK SCREEN",
             "Replies": [
-                {
-                    "Reply": "A LIGHT POPS ON and Erica ENTERS HER BEDROOM, crying. She flops down on her bed, picks up her phone, grabs her glasses, puts them on, doesn't realize they're Harry's. She dials.",
-                    "Didascalie": "",
-                    "Start": 159262,
-                    "End": 159440
-                },
                 {
                     "Reply": "A LIGHT POPS ON and we realize we are in HARRY'S CLOSET.",
                     "Didascalie": "",

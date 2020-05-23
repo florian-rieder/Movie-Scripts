@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Mask, The",
-        "   "
-    ],
+    "Title": "Mask, The",
     "Author": [
-        "\u00a0\u00a0Mark Verheiden"
+        "Mark Verheiden"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4572,17 +4574,6 @@
             ]
         },
         {
-            "Character": "A LIMOUSINE",
-            "Replies": [
-                {
-                    "Reply": "But not just any limousine. As it slowly pulls up by the front of the club we realized it's long... longer... the longest limousine we'vve ever seen. Finally the passenger door rolls into sight and the limo comes to a halt.",
-                    "Didascalie": "",
-                    "Start": 96782,
-                    "End": 97050
-                }
-            ]
-        },
-        {
             "Character": "DECOR",
             "Replies": [
                 {
@@ -4886,17 +4877,6 @@
             ]
         },
         {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "jams a quarter in the slot, opens the machine and pulls out the entire stack of papers.",
-                    "Didascalie": "",
-                    "Start": 134851,
-                    "End": 134950
-                }
-            ]
-        },
-        {
             "Character": "SAME",
             "Replies": [
                 {
@@ -5057,28 +5037,6 @@
             ]
         },
         {
-            "Character": "A NARROW ALLEY",
-            "Replies": [
-                {
-                    "Reply": "Stanley races down the lane - cops hot on his trail. Bullets EXPLODE all around him. Just as he reaches the next street...",
-                    "Didascalie": "",
-                    "Start": 158207,
-                    "End": 158341
-                }
-            ]
-        },
-        {
-            "Character": "A CAR",
-            "Replies": [
-                {
-                    "Reply": "screeches to a halt - almost running Stanley over. The window rolls down revealing...",
-                    "Didascalie": "",
-                    "Start": 158391,
-                    "End": 158488
-                }
-            ]
-        },
-        {
             "Character": "TYRANNOSAURUS",
             "Replies": [
                 {
@@ -5162,17 +5120,6 @@
             ]
         },
         {
-            "Character": "A BIG SEDAN",
-            "Replies": [
-                {
-                    "Reply": "roars up, cutting her off. She turns and runs back the way she came - but freezes when THE LIMO screeches up, blocking her.",
-                    "Didascalie": "",
-                    "Start": 175576,
-                    "End": 175711
-                }
-            ]
-        },
-        {
             "Character": "CROWD",
             "Replies": [
                 {
@@ -5247,17 +5194,6 @@
                     "Didascalie": "",
                     "Start": 196623,
                     "End": 196740
-                }
-            ]
-        },
-        {
-            "Character": "A HUGE GREEN CLAW",
-            "Replies": [
-                {
-                    "Reply": "drags Stanley out and SLAMS up against the prow next to Tina. One of his men immediately begins tying Stanley in place.",
-                    "Didascalie": "",
-                    "Start": 198646,
-                    "End": 198777
                 }
             ]
         },

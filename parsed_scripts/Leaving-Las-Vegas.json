@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Leaving Las Vegas",
-        "   "
-    ],
+    "Title": "Leaving Las Vegas",
     "Author": [
-        "\u00a0\u00a0Mike Figgis\u00a0\u00a0John O'Brian"
+        "Mike Figgis",
+        "John O'Brian"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "8MM",
-        "   "
-    ],
+    "Title": "8MM",
     "Author": [
-        "\u00a0\u00a0Andrew Kevin Walker"
+        "Andrew Kevin Walker"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

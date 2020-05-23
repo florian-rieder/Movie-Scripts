@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Thelma & Louise",
-        "   "
-    ],
+    "Title": "Thelma & Louise",
     "Author": [
-        "\u00a0\u00a0Callie Khouri"
+        "Callie Khouri"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

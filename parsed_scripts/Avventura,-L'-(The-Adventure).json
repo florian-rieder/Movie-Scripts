@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Avventura, L' (The Adventure)",
-        "   "
-    ],
+    "Title": "Avventura, L' (The Adventure)",
     "Author": [
-        "\u00a0\u00a0Michelangelo Antonioni\u00a0\u00a0Elio Bartolini\u00a0\u00a0Tonino Guerra"
+        "Michelangelo Antonioni",
+        "Elio Bartolini",
+        "Tonino Guerra"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3002,17 +3003,6 @@
                     "Didascalie": "(to the Marshal)",
                     "Start": 77142,
                     "End": 77177
-                }
-            ]
-        },
-        {
-            "Character": "A SAILOR",
-            "Replies": [
-                {
-                    "Reply": "Marshal!... Headquarters is calling. They have an important message.",
-                    "Didascalie": "(calling from the patrol boat)",
-                    "Start": 81345,
-                    "End": 81420
                 }
             ]
         },

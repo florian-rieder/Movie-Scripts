@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Death to Smoochy",
-        "   "
-    ],
+    "Title": "Death to Smoochy",
     "Author": [
-        "\u00a0\u00a0Marty Kaplan"
+        "Marty Kaplan"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {

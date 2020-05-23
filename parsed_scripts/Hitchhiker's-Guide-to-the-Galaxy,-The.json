@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Hitchhiker's Guide to the Galaxy, The",
-        "   "
-    ],
+    "Title": "Hitchhiker's Guide to the Galaxy, The",
     "Author": [
-        "\u00a0\u00a0Douglas Adams"
+        "Douglas Adams"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -216,17 +215,6 @@
                     "Didascalie": "",
                     "Start": 185225,
                     "End": 185441
-                }
-            ]
-        },
-        {
-            "Character": "END TITLES",
-            "Replies": [
-                {
-                    "Reply": "As night turns to morning, we hear CLICK, then...",
-                    "Didascalie": "",
-                    "Start": 2744,
-                    "End": 2794
                 }
             ]
         },
@@ -4404,6 +4392,137 @@
                     "Didascalie": "",
                     "Start": 236237,
                     "End": 236309
+                }
+            ]
+        },
+        {
+            "Character": "ZAPHOD HEAD 2",
+            "Replies": [
+                {
+                    "Reply": "You blew it with her, Earthman, so shut up or I'll kick you in the gones!",
+                    "Didascalie": "",
+                    "Start": 75880,
+                    "End": 75974
+                },
+                {
+                    "Reply": "You should teach your pal a lesson, Ford.",
+                    "Didascalie": "",
+                    "Start": 76356,
+                    "End": 76398
+                },
+                {
+                    "Reply": "Fine.   Get technical.",
+                    "Didascalie": "",
+                    "Start": 76871,
+                    "End": 76894
+                },
+                {
+                    "Reply": "They're after us! Fire a gun! Launch a missile! DO SOME DAMAGE!",
+                    "Didascalie": "",
+                    "Start": 77961,
+                    "End": 78048
+                },
+                {
+                    "Reply": "Fine! Play it!!",
+                    "Didascalie": "",
+                    "Start": 79808,
+                    "End": 79824
+                },
+                {
+                    "Reply": "This people personality thing is gonna drive me nuts! Can't you change it?",
+                    "Didascalie": "(to Trillian)",
+                    "Start": 79858,
+                    "End": 79970
+                },
+                {
+                    "Reply": "Leap to hyperspace!",
+                    "Didascalie": "",
+                    "Start": 80608,
+                    "End": 80628
+                },
+                {
+                    "Reply": "Or else what? They'll send a hundred and one ships? DO it!",
+                    "Didascalie": "",
+                    "Start": 80885,
+                    "End": 80962
+                },
+                {
+                    "Reply": "Damn, I'm good.",
+                    "Didascalie": "",
+                    "Start": 84865,
+                    "End": 84881
+                },
+                {
+                    "Reply": "I'll pull your spleen out through your ass!",
+                    "Didascalie": "",
+                    "Start": 86861,
+                    "End": 86926
+                },
+                {
+                    "Reply": "THIS!!",
+                    "Didascalie": "",
+                    "Start": 105988,
+                    "End": 105995
+                },
+                {
+                    "Reply": "Can you please change that zarking annoying voice!!?",
+                    "Didascalie": "",
+                    "Start": 110509,
+                    "End": 110580
+                },
+                {
+                    "Reply": "Yeah, as if, apeman.",
+                    "Didascalie": "",
+                    "Start": 111058,
+                    "End": 111079
+                },
+                {
+                    "Reply": "Humma Kavula!",
+                    "Didascalie": "",
+                    "Start": 111929,
+                    "End": 111943
+                },
+                {
+                    "Reply": "Humma Kavula!",
+                    "Didascalie": "",
+                    "Start": 115165,
+                    "End": 115179
+                },
+                {
+                    "Reply": "Humma Kavula!",
+                    "Didascalie": "",
+                    "Start": 119355,
+                    "End": 119369
+                },
+                {
+                    "Reply": "You called me stupid!",
+                    "Didascalie": "",
+                    "Start": 124144,
+                    "End": 124166
+                },
+                {
+                    "Reply": "During the campaign, Humma -- you said I was stupid.",
+                    "Didascalie": "",
+                    "Start": 124389,
+                    "End": 124459
+                },
+                {
+                    "Reply": "I DON'T CARE WHAT YOU CALL YOURSELF, YOU RIGHTEOUS FREAK!! YOU STARTED THE RUMOR THAT I'M STUPID AND YOU'RE GONNA PAY!!!",
+                    "Didascalie": "",
+                    "Start": 124992,
+                    "End": 125155
+                },
+                {
+                    "Reply": "Nooo!!!",
+                    "Didascalie": "",
+                    "Start": 130623,
+                    "End": 130631
+                },
+                {
+                    "Reply": "IDIOT! ZARKING MORON!! COME BACK!! YOU NEED ME!! COME BAAAAACKKKK!!!!",
+                    "Didascalie": "",
+                    "Start": 131299,
+                    "End": 131388
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "City of Joy",
-        "   "
-    ],
+    "Title": "City of Joy",
     "Author": [
-        "\u00a0\u00a0Gerald Brach\u00a0\u00a0Roland Joffe"
+        "Gerald Brach",
+        "Roland Joffe"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4769,17 +4767,6 @@
                     "Didascalie": "",
                     "Start": 133027,
                     "End": 133082
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL YARD",
-            "Replies": [
-                {
-                    "Reply": "... and something covered with a tarp.",
-                    "Didascalie": "",
-                    "Start": 149634,
-                    "End": 149673
                 }
             ]
         },

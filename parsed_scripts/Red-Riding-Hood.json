@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Red Riding Hood",
-        "   "
-    ],
+    "Title": "Red Riding Hood",
     "Author": [
-        "\u00a0\u00a0David Leslie Johnson"
+        "David Leslie Johnson"
     ],
     "Genre": [
-        "\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Mystery"
+        "Fantasy",
+        "Horror",
+        "Mystery"
     ],
     "Characters": [
         {

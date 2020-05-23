@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Despicable Me 2",
-        "   "
-    ],
+    "Title": "Despicable Me 2",
     "Author": [
-        "\u00a0\u00a0Cinco Paul\u00a0\u00a0Ken Daurio"
+        "Cinco Paul",
+        "Ken Daurio"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Animation",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2125,12 +2125,6 @@
                     "Didascalie": "",
                     "Start": 42508,
                     "End": 42546
-                },
-                {
-                    "Reply": "INT: BAKE MY DAY - SAME  Gru and Lucy stand next to each other under a domed lamp lowered from the ceiling.",
-                    "Didascalie": "",
-                    "Start": 42900,
-                    "End": 43008
                 },
                 {
                     "Reply": "No.    Not her.",

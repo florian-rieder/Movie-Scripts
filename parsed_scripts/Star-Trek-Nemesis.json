@@ -1,15 +1,38 @@
 {
-    "Title": [
-        "Star Trek: Nemesis",
-        "   "
-    ],
+    "Title": "Star Trek: Nemesis",
     "Author": [
-        "\u00a0\u00a0John Logan"
+        "John Logan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
+        {
+            "Character": "SENATOR 1",
+            "Replies": [
+                {
+                    "Reply": "... but if we hesitate we'll lose this important source of dilithium.",
+                    "Didascalie": "",
+                    "Start": 2420,
+                    "End": 2500
+                }
+            ]
+        },
+        {
+            "Character": "SENATOR 2",
+            "Replies": [
+                {
+                    "Reply": "Praetor, I recommend we dispatch a diplomatic mission to Celes II to open negotiations.",
+                    "Didascalie": "",
+                    "Start": 2620,
+                    "End": 2728
+                }
+            ]
+        },
         {
             "Character": "PRAETOR",
             "Replies": [
@@ -3216,12 +3239,6 @@
                     "End": 40058
                 },
                 {
-                    "Reply": "I was taken from my homeworld by people called the \"PakJeds.\" They are fat.  They traded me to a ship belonging to the \"Bolians.\" The \"Bolians\" are blue.  They put me in a seat and asked me questions.",
-                    "Didascalie": "(blandly)",
-                    "Start": 40108,
-                    "End": 40370
-                },
-                {
                     "Reply": "Yes, please continue.",
                     "Didascalie": "",
                     "Start": 42051,
@@ -4985,6 +5002,185 @@
                     "Didascalie": "(to Riker)",
                     "Start": 39643,
                     "End": 39677
+                }
+            ]
+        },
+        {
+            "Character": "B-9",
+            "Replies": [
+                {
+                    "Reply": "I was taken from my homeworld by people called the \"PakJeds.\" They are fat.  They traded me to a ship belonging to the \"Bolians.\" The \"Bolians\" are blue.  They put me in a seat and asked me questions.",
+                    "Didascalie": "(blandly)",
+                    "Start": 40108,
+                    "End": 40370
+                },
+                {
+                    "Reply": "Then people called the Delviciansans picked me up.  They have long teeth.  They asked if I do anything to help them.  I told them I could do whatever they wanted.  They asked me to clean out the matrix manifolds.  I told them I did not know what an Matrix manifold looks like.",
+                    "Didascalie": "",
+                    "Start": 40603,
+                    "End": 40960
+                },
+                {
+                    "Reply": "And after they showed me the \"engine manifolds.\" Then they showed me something called a \"plasma mop\"",
+                    "Didascalie": "",
+                    "Start": 41151,
+                    "End": 41282
+                },
+                {
+                    "Reply": "... then the \"Cardassians\" put me into something called a \"garbage chute\" and I went out into space again --",
+                    "Didascalie": "",
+                    "Start": 41448,
+                    "End": 41587
+                },
+                {
+                    "Reply": "Fuzzy face is gone.",
+                    "Didascalie": "",
+                    "Start": 41994,
+                    "End": 42014
+                },
+                {
+                    "Reply": "I was in space for a long time.",
+                    "Didascalie": "",
+                    "Start": 42109,
+                    "End": 42141
+                },
+                {
+                    "Reply": "Then I opened my eyes and saw you.",
+                    "Didascalie": "",
+                    "Start": 42581,
+                    "End": 42616
+                },
+                {
+                    "Reply": "You are me.",
+                    "Didascalie": "",
+                    "Start": 42762,
+                    "End": 42774
+                },
+                {
+                    "Reply": "I am in a room with lights.",
+                    "Didascalie": "",
+                    "Start": 53677,
+                    "End": 53705
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 53848,
+                    "End": 53852
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 54012,
+                    "End": 54016
+                },
+                {
+                    "Reply": "You have a soft voice.",
+                    "Didascalie": "",
+                    "Start": 54200,
+                    "End": 54223
+                },
+                {
+                    "Reply": "Where?",
+                    "Didascalie": "",
+                    "Start": 93255,
+                    "End": 93262
+                },
+                {
+                    "Reply": "I am to take the prisoner to the Praetor.",
+                    "Didascalie": "(to Reman guard)",
+                    "Start": 97209,
+                    "End": 97272
+                },
+                {
+                    "Reply": "If you resist, I will incapacitate you.",
+                    "Didascalie": "",
+                    "Start": 97354,
+                    "End": 97404
+                },
+                {
+                    "Reply": "Praetor Shinzon wants him on the bridge.",
+                    "Didascalie": "",
+                    "Start": 97795,
+                    "End": 97846
+                },
+                {
+                    "Reply": "Move.",
+                    "Didascalie": "",
+                    "Start": 99107,
+                    "End": 99113
+                },
+                {
+                    "Reply": "Brother.  I cannot move.",
+                    "Didascalie": "",
+                    "Start": 112288,
+                    "End": 112313
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 112478,
+                    "End": 112483
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 112583,
+                    "End": 112588
+                },
+                {
+                    "Reply": "I do not understand.",
+                    "Didascalie": "",
+                    "Start": 112764,
+                    "End": 112785
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 112999,
+                    "End": 113003
+                },
+                {
+                    "Reply": "No.  Can I move now?",
+                    "Didascalie": "",
+                    "Start": 113151,
+                    "End": 113172
+                },
+                {
+                    "Reply": "For how long?",
+                    "Didascalie": "",
+                    "Start": 113273,
+                    "End": 113287
+                },
+                {
+                    "Reply": "How long is that?",
+                    "Didascalie": "",
+                    "Start": 113374,
+                    "End": 113392
+                },
+                {
+                    "Reply": "My brother was not a human.",
+                    "Didascalie": "",
+                    "Start": 160707,
+                    "End": 160735
+                },
+                {
+                    "Reply": "I do not understand.",
+                    "Didascalie": "",
+                    "Start": 161074,
+                    "End": 161095
+                },
+                {
+                    "Reply": "\"Blue skies, smiling at me, Nothing but blue skies do I see.\"",
+                    "Didascalie": "",
+                    "Start": 161835,
+                    "End": 161907
+                },
+                {
+                    "Reply": "\"Never saw the sun shining so bright, Never saw things going so right.  Noticing the days hurrying by, When you're in love, my how they fly.  Blue days, all of them gone, Nothing but blue skies from now on.\"",
+                    "Didascalie": "",
+                    "Start": 168790,
+                    "End": 169058
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Sexual Life",
-        "   "
-    ],
+    "Title": "Sexual Life",
     "Author": [
-        "\u00a0\u00a0Ken Kwapis"
+        "Ken Kwapis"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3969,12 +3967,6 @@
                     "End": 102636
                 },
                 {
-                    "Reply": "I don't think I'm MALIBU NIGHTS material.",
-                    "Didascalie": "",
-                    "Start": 102833,
-                    "End": 102875
-                },
-                {
                     "Reply": "You look like you enjoy kissing them.",
                     "Didascalie": "",
                     "Start": 103052,
@@ -4473,12 +4465,6 @@
                     "Didascalie": "",
                     "Start": 101804,
                     "End": 101834
-                },
-                {
-                    "Reply": "Basically, why am I working on a piece of shit like MALIBU NIGHTS when I should be doing Shakespeare or Chekhov?",
-                    "Didascalie": "",
-                    "Start": 101977,
-                    "End": 102106
                 },
                 {
                     "Reply": "It was brutal.",

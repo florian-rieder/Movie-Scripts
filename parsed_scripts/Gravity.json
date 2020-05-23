@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Gravity",
-        "   "
-    ],
+    "Title": "Gravity",
     "Author": [
-        "\u00a0\u00a0Alfonso Cuaron\u00a0\u00a0Jonas Cuaron"
+        "Alfonso Cuaron",
+        "Jonas Cuaron"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -18,6 +17,39 @@
                     "Didascalie": "",
                     "Start": 119,
                     "End": 229
+                }
+            ]
+        },
+        {
+            "Character": "TEMPERATURE FLUCTUATES BETWEEN 120 AND",
+            "Replies": [
+                {
+                    "Reply": "-100 DEGREES CELSIUS.",
+                    "Didascalie": "",
+                    "Start": 438,
+                    "End": 460
+                }
+            ]
+        },
+        {
+            "Character": "CARD 2",
+            "Replies": [
+                {
+                    "Reply": "THERE IS NOTHING TO CARRY SOUND, NO OXYGEN, AND NO AIR PRESSURE.",
+                    "Didascalie": "",
+                    "Start": 575,
+                    "End": 651
+                }
+            ]
+        },
+        {
+            "Character": "CARD 3",
+            "Replies": [
+                {
+                    "Reply": "LIFE HERE IS IMPOSSIBLE.",
+                    "Didascalie": "",
+                    "Start": 766,
+                    "End": 791
                 }
             ]
         },
@@ -3459,6 +3491,17 @@
             ]
         },
         {
+            "Character": "UNITY NODE 2-",
+            "Replies": [
+                {
+                    "Reply": "Where she makes a quick turn and darts down into the-",
+                    "Didascalie": "",
+                    "Start": 113165,
+                    "End": 113219
+                }
+            ]
+        },
+        {
             "Character": "AND THEN-",
             "Replies": [
                 {
@@ -3621,17 +3664,6 @@
                     "Didascalie": "",
                     "Start": 143494,
                     "End": 143518
-                }
-            ]
-        },
-        {
-            "Character": "A DIAGRAM-",
-            "Replies": [
-                {
-                    "Reply": "An ILLUSTRATION of the Soyuz Capsule two meters before landing and hitting the ground. A thrust is shooting out from under its bottom, cushioning its fall: THE SOFT LANDING ENGINES.",
-                    "Didascalie": "",
-                    "Start": 159406,
-                    "End": 159608
                 }
             ]
         },

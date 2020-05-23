@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Forrest Gump",
-        "   "
-    ],
+    "Title": "Forrest Gump",
     "Author": [
-        "\u00a0\u00a0Eric Roth\u00a0\u00a0Winston Groom"
+        "Eric Roth",
+        "Winston Groom"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3899,17 +3898,6 @@
                     "Didascalie": "",
                     "Start": 230485,
                     "End": 230509
-                }
-            ]
-        },
-        {
-            "Character": "BLACK AND WHITE FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "The footage cuts to Governor Wallace as he speaks to General Graham.",
-                    "Didascalie": "",
-                    "Start": 51733,
-                    "End": 51818
                 }
             ]
         },

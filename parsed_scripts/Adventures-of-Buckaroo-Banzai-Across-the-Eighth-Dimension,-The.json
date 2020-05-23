@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Adventures of Buckaroo Banzai Across the Eighth Dimension, The",
-        "   "
-    ],
+    "Title": "Adventures of Buckaroo Banzai Across the Eighth Dimension, The",
     "Author": [
-        "\u00a0\u00a0Earl Mac Rauch"
+        "Earl Mac Rauch"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {

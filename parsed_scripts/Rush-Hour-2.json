@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Rush Hour 2",
-        "   "
-    ],
+    "Title": "Rush Hour 2",
     "Author": [
-        "\u00a0\u00a0Jeff Nathanson"
+        "Jeff Nathanson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Action",
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {

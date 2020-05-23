@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Buffy the Vampire Slayer",
-        "   "
-    ],
+    "Title": "Buffy the Vampire Slayer",
     "Author": [
-        "\u00a0\u00a0Joss Whedon"
+        "Joss Whedon"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Horror"
+        "Action",
+        "Comedy",
+        "Horror"
     ],
     "Characters": [
         {

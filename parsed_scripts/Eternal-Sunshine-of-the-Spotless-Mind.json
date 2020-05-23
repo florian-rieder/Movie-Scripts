@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Eternal Sunshine of the Spotless Mind",
-        "   "
-    ],
+    "Title": "Eternal Sunshine of the Spotless Mind",
     "Author": [
-        "\u00a0\u00a0Charlie Kaufman\u00a0\u00a0Michel Gondry\u00a0\u00a0Pierre Bismuth"
+        "Charlie Kaufman",
+        "Michel Gondry",
+        "Pierre Bismuth"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Drama",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {

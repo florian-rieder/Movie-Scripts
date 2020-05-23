@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "I Spit on Your Grave",
-        "   "
-    ],
+    "Title": "I Spit on Your Grave",
     "Author": [
-        "\u00a0\u00a0Adam Rockoff"
+        "Adam Rockoff"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Crime",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -581,12 +580,6 @@
                     "Didascalie": "",
                     "Start": 137799,
                     "End": 137858
-                },
-                {
-                    "Reply": "Forgive me father, for I will sin.  76 EST. HENDERSONVILLE RIVER - DAY 76 Andy and Stanley make their way to the falls. They carry flashlights, but they're turned off as day has broken.",
-                    "Didascalie": "",
-                    "Start": 139262,
-                    "End": 139479
                 },
                 {
                     "Reply": "I know. You like to watch. Don't you. Don't you worry, I'll give you quite a show.",
@@ -2312,12 +2305,6 @@
                     "Didascalie": "",
                     "Start": 154182,
                     "End": 154260
-                },
-                {
-                    "Reply": "85 TNT. DILAPIDATED HOUSE - DAY 85 The water has filled up the trough and is overflowing. Andy struggles to lift his head up to draw a few quick breaths.",
-                    "Didascalie": "",
-                    "Start": 154645,
-                    "End": 154819
                 }
             ]
         },

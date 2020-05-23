@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Bodies, Rest & Motion",
-        "   "
-    ],
+    "Title": "Bodies, Rest & Motion",
     "Author": [
-        "\u00a0\u00a0Roger Hedden"
+        "Roger Hedden"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5510,17 +5508,6 @@
                     "Didascalie": "(determined)",
                     "Start": 174440,
                     "End": 174481
-                }
-            ]
-        },
-        {
-            "Character": "A MAP",
-            "Replies": [
-                {
-                    "Reply": "of the Western half of the U.S.A. fills the FRAME. Carol's hand, holding a bright red felt-tip pen, ENTERS FRAME.",
-                    "Didascalie": "",
-                    "Start": 37035,
-                    "End": 37165
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Cooler, The",
-        "   "
-    ],
+    "Title": "Cooler, The",
     "Author": [
-        "\u00a0\u00a0Frank Hannah\u00a0\u00a0Wayne Kramer"
+        "Frank Hannah",
+        "Wayne Kramer"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Comedy"
+        "Drama",
+        "Romance",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3646,6 +3646,17 @@
                     "Didascalie": "",
                     "Start": 189734,
                     "End": 189747
+                }
+            ]
+        },
+        {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "Shake it, don't break it, baby!",
+                    "Didascalie": "",
+                    "Start": 189823,
+                    "End": 189855
                 }
             ]
         },

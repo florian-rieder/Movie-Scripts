@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Jay and Silent Bob Strike Back",
-        "   "
-    ],
+    "Title": "Jay and Silent Bob Strike Back",
     "Author": [
-        "\u00a0\u00a0Kevin Smith"
+        "Kevin Smith"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2088,6 +2086,112 @@
             ]
         },
         {
+            "Character": "TEEN 1",
+            "Replies": [
+                {
+                    "Reply": "Lemme get a nickel bag.",
+                    "Didascalie": "",
+                    "Start": 5046,
+                    "End": 5070
+                },
+                {
+                    "Reply": "What the hell are you singing?",
+                    "Didascalie": "(digging in pockets)",
+                    "Start": 5635,
+                    "End": 5692
+                },
+                {
+                    "Reply": "Purple Rain.",
+                    "Didascalie": "",
+                    "Start": 6185,
+                    "End": 6198
+                },
+                {
+                    "Reply": "Two packs of Wraps.",
+                    "Didascalie": "",
+                    "Start": 9557,
+                    "End": 9577
+                },
+                {
+                    "Reply": "Yo--how was the service?",
+                    "Didascalie": "(beat)",
+                    "Start": 9613,
+                    "End": 9664
+                },
+                {
+                    "Reply": "Jay said you had a Star-Wars--themed wedding and you guys tied the knot dressed like storm troopers.",
+                    "Didascalie": "",
+                    "Start": 10130,
+                    "End": 10283
+                },
+                {
+                    "Reply": "Holy shit, dude. The honeymoon's over.",
+                    "Didascalie": "(to TEEN 2)",
+                    "Start": 10896,
+                    "End": 10987
+                },
+                {
+                    "Reply": "Well, sure. Not in the eyes of the state or any real church, Skywalker.",
+                    "Didascalie": "",
+                    "Start": 11159,
+                    "End": 11257
+                },
+                {
+                    "Reply": "May the Foreskin be with you. Hand Jabba the Hutt.",
+                    "Didascalie": "(exiting)",
+                    "Start": 11699,
+                    "End": 11802
+                },
+                {
+                    "Reply": "Here're the rolling papers you wanted for your pot. And your change. Thanks.",
+                    "Didascalie": "",
+                    "Start": 12752,
+                    "End": 12855
+                },
+                {
+                    "Reply": "And The Time sucks ass!",
+                    "Didascalie": "(getting in Jay's face)",
+                    "Start": 12939,
+                    "End": 12989
+                }
+            ]
+        },
+        {
+            "Character": "TEEN 2",
+            "Replies": [
+                {
+                    "Reply": "The guys in that Prince movie?",
+                    "Didascalie": "",
+                    "Start": 6084,
+                    "End": 6115
+                },
+                {
+                    "Reply": "Man, that shit was so gay--fucking eighties style.",
+                    "Didascalie": "",
+                    "Start": 6268,
+                    "End": 6345
+                },
+                {
+                    "Reply": "The one at the Unitarian church where you two got married to each other last week.",
+                    "Didascalie": "",
+                    "Start": 9818,
+                    "End": 9953
+                },
+                {
+                    "Reply": "Yeah. And he said you're the bitch and you're the butch. Oh, sorry--the Leia and the Luke.",
+                    "Didascalie": "",
+                    "Start": 10353,
+                    "End": 10496
+                },
+                {
+                    "Reply": "In a galaxy far, far away!",
+                    "Didascalie": "",
+                    "Start": 11588,
+                    "End": 11615
+                }
+            ]
+        },
+        {
             "Character": "RANDAL",
             "Replies": [
                 {
@@ -2149,18 +2253,6 @@
                     "Didascalie": "",
                     "Start": 10651,
                     "End": 10721
-                },
-                {
-                    "Reply": "That does it. I'm gonna do something about those two. I shoulda done a long time ago  TEEN 2 In a galaxy far, far away!",
-                    "Didascalie": "(heading for the phone)",
-                    "Start": 11355,
-                    "End": 11615
-                },
-                {
-                    "Reply": "May the Foreskin be with you. Hand Jabba the Hutt.",
-                    "Didascalie": "(exiting)",
-                    "Start": 11699,
-                    "End": 11802
                 },
                 {
                     "Reply": "Yeah, I want to report a couple of drug dealers out in front of the Quick Stop.",
@@ -2232,12 +2324,6 @@
                     "Didascalie": "",
                     "Start": 10790,
                     "End": 10810
-                },
-                {
-                    "Reply": "Holy shit, dude. The honeymoon's over.",
-                    "Didascalie": "(to TEEN 2)",
-                    "Start": 10896,
-                    "End": 10987
                 },
                 {
                     "Reply": "We're not married to each other.",
@@ -4213,6 +4299,17 @@
             ]
         },
         {
+            "Character": "JAY DEVIL 2",
+            "Replies": [
+                {
+                    "Reply": "Right about here's where the angel's supposed to show up and tell you not to pull your dick out. But we bitch-",
+                    "Didascalie": "",
+                    "Start": 77789,
+                    "End": 77952
+                }
+            ]
+        },
+        {
             "Character": "JAY ANGEL",
             "Replies": [
                 {
@@ -4356,12 +4453,6 @@
                     "Didascalie": "",
                     "Start": 116638,
                     "End": 117078
-                },
-                {
-                    "Reply": "Twenty-four, sir!",
-                    "Didascalie": "(calling out from crowd)",
-                    "Start": 117207,
-                    "End": 117251
                 },
                 {
                     "Reply": "What?",
@@ -4784,6 +4875,12 @@
                     "End": 235495
                 },
                 {
+                    "Reply": "ONLY ON THE OUTSIDE!",
+                    "Didascalie": "",
+                    "Start": 235828,
+                    "End": 235849
+                },
+                {
                     "Reply": "Hello? Truce?",
                     "Didascalie": "",
                     "Start": 244836,
@@ -4854,6 +4951,109 @@
                     "Didascalie": "",
                     "Start": 260295,
                     "End": 260329
+                }
+            ]
+        },
+        {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Excuse me--who the hell are you?",
+                    "Didascalie": "",
+                    "Start": 115129,
+                    "End": 115162
+                },
+                {
+                    "Reply": "Oh really? And why is that?",
+                    "Didascalie": "",
+                    "Start": 115538,
+                    "End": 115566
+                },
+                {
+                    "Reply": "Well, we believe that was just a diversionary tactic used to call attention away from the real heist over here at the Diamond Exchange.",
+                    "Didascalie": "",
+                    "Start": 115805,
+                    "End": 116019
+                },
+                {
+                    "Reply": "Wouldn't it make sense to put them up at every twenty-four miles--seeing as that's how far they'd have gotten in the last six hours?",
+                    "Didascalie": "",
+                    "Start": 119311,
+                    "End": 119522
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "Sir, the Provasik people say they've rounded all their animals up, except for one: an orangutan.",
+                    "Didascalie": "",
+                    "Start": 116414,
+                    "End": 116563
+                }
+            ]
+        },
+        {
+            "Character": "COP 3",
+            "Replies": [
+                {
+                    "Reply": "Twenty-four, sir!",
+                    "Didascalie": "(calling out from crowd)",
+                    "Start": 117207,
+                    "End": 117251
+                },
+                {
+                    "Reply": "Six hours times four miles an hour is twenty-four.",
+                    "Didascalie": "",
+                    "Start": 117401,
+                    "End": 117478
+                },
+                {
+                    "Reply": "Or the people who stole the monkey?",
+                    "Didascalie": "",
+                    "Start": 118598,
+                    "End": 118634
+                }
+            ]
+        },
+        {
+            "Character": "COP 4",
+            "Replies": [
+                {
+                    "Reply": "Excuse me, sir?",
+                    "Didascalie": "",
+                    "Start": 117874,
+                    "End": 117890
+                },
+                {
+                    "Reply": "What does that mean, exactly--a \"hard target search\"? What's a \"hard target\"?",
+                    "Didascalie": "",
+                    "Start": 118040,
+                    "End": 118170
+                },
+                {
+                    "Reply": "So are you referring to the search's level of difficulty? Or is the hard target the monkey?",
+                    "Didascalie": "",
+                    "Start": 118385,
+                    "End": 118529
+                }
+            ]
+        },
+        {
+            "Character": "COP 5",
+            "Replies": [
+                {
+                    "Reply": "Sir, this was just delivered to the station.",
+                    "Didascalie": "",
+                    "Start": 120101,
+                    "End": 120172
+                },
+                {
+                    "Reply": "It's a tape from the terrorists who're claiming credit for the break-in.",
+                    "Didascalie": "",
+                    "Start": 120328,
+                    "End": 120427
                 }
             ]
         },
@@ -5122,6 +5322,58 @@
                     "Didascalie": "",
                     "Start": 160352,
                     "End": 160373
+                }
+            ]
+        },
+        {
+            "Character": "HOOKER 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, little man. You want some of this?",
+                    "Didascalie": "",
+                    "Start": 168980,
+                    "End": 169046
+                },
+                {
+                    "Reply": "If you've got fifty bucks we can get nasty.",
+                    "Didascalie": "",
+                    "Start": 169214,
+                    "End": 169284
+                },
+                {
+                    "Reply": "Oh, that's it honey. I quit.",
+                    "Didascalie": "",
+                    "Start": 170575,
+                    "End": 170604
+                },
+                {
+                    "Reply": "This job just passed the point of no return.",
+                    "Didascalie": "(walking away)",
+                    "Start": 170648,
+                    "End": 170745
+                }
+            ]
+        },
+        {
+            "Character": "HOOKER 2",
+            "Replies": [
+                {
+                    "Reply": "How about you, Big Boy?",
+                    "Didascalie": "",
+                    "Start": 169118,
+                    "End": 169142
+                },
+                {
+                    "Reply": "As nasty as you wanna be, poppie.",
+                    "Didascalie": "",
+                    "Start": 169443,
+                    "End": 169477
+                },
+                {
+                    "Reply": "You one fucked up puppy, poppie.",
+                    "Didascalie": "(to Jay)",
+                    "Start": 170830,
+                    "End": 170889
                 }
             ]
         },

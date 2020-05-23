@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Natural Born Killers",
-        "   "
-    ],
+    "Title": "Natural Born Killers",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino\u00a0\u00a0David Veloz\u00a0\u00a0Richard Rutowski\u00a0\u00a0Oliver Stone"
+        "Quentin Tarantino",
+        "David Veloz",
+        "Richard Rutowski",
+        "Oliver Stone"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2122,17 +2125,6 @@
                     "Didascalie": "",
                     "Start": 127391,
                     "End": 127658
-                }
-            ]
-        },
-        {
-            "Character": "A BUZZER SOUNDS",
-            "Replies": [
-                {
-                    "Reply": "McClusky opens the door and we follow him down the corridor. As soon as the door opens, we can hear a female voice singing the song 'Long Time Woman'.",
-                    "Didascalie": "",
-                    "Start": 16757,
-                    "End": 16918
                 }
             ]
         },

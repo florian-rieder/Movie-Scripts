@@ -1,26 +1,12 @@
 {
-    "Title": [
-        "Wall Street: Money Never Sleeps",
-        "   "
-    ],
+    "Title": "Wall Street: Money Never Sleeps",
     "Author": [
-        "\u00a0\u00a0Allan Loeb"
+        "Allan Loeb"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "A BLACK SCREEN",
-            "Replies": [
-                {
-                    "Reply": "Onto which is written in white letters...",
-                    "Didascalie": "",
-                    "Start": 201,
-                    "End": 243
-                }
-            ]
-        },
         {
             "Character": "SLAM BACK INTO",
             "Replies": [
@@ -2403,17 +2389,6 @@
                     "Didascalie": "",
                     "Start": 4526,
                     "End": 4580
-                }
-            ]
-        },
-        {
-            "Character": "A CHART",
-            "Replies": [
-                {
-                    "Reply": "Now filling the screen. It's of the Dow Jones Industrial Average. It's for the year 2008 and it's down to the right... not good.",
-                    "Didascalie": "",
-                    "Start": 4732,
-                    "End": 4881
                 }
             ]
         },
@@ -6364,17 +6339,6 @@
                     "Didascalie": "",
                     "Start": 141877,
                     "End": 141996
-                }
-            ]
-        },
-        {
-            "Character": "A TRANQUIL LAKE",
-            "Replies": [
-                {
-                    "Reply": "As it sits still in the setting sun. Untouched by man.",
-                    "Didascalie": "",
-                    "Start": 144349,
-                    "End": 144404
                 }
             ]
         },

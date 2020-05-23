@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Jacket, The",
-        "   "
-    ],
+    "Title": "Jacket, The",
     "Author": [
-        "\u00a0\u00a0Marc Rocco\u00a0\u00a0Tom Bleecker\u00a0\u00a0Massy Tadjedin"
+        "Marc Rocco",
+        "Tom Bleecker",
+        "Massy Tadjedin"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Thriller",
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -4395,6 +4396,17 @@
                     "Didascalie": "",
                     "Start": 165649,
                     "End": 165735
+                }
+            ]
+        },
+        {
+            "Character": "GROUP PATIENT 2",
+            "Replies": [
+                {
+                    "Reply": "That's because there is no such Organization, you idiot.",
+                    "Didascalie": "",
+                    "Start": 163675,
+                    "End": 163759
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ringu",
-        "   "
-    ],
+    "Title": "Ringu",
     "Author": [
-        "\u00a0\u00a0Takahashi Hiroshi"
+        "Takahashi Hiroshi"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

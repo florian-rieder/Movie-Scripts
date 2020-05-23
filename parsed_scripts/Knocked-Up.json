@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Knocked Up",
-        "   "
-    ],
+    "Title": "Knocked Up",
     "Author": [
-        "\u00a0\u00a0Judd Apatow"
+        "Judd Apatow"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

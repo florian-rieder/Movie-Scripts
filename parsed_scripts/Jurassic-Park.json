@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Jurassic Park",
-        "   "
-    ],
+    "Title": "Jurassic Park",
     "Author": [
-        "\u00a0\u00a0David Koepp"
+        "David Koepp"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

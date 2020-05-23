@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ex Machina",
-        "   "
-    ],
+    "Title": "Ex Machina",
     "Author": [
-        "\u00a0\u00a0Alex Garland"
+        "Alex Garland"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi"
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
     ],
     "Characters": [
         {

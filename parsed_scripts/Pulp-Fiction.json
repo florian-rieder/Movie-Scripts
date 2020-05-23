@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Pulp Fiction",
-        "   "
-    ],
+    "Title": "Pulp Fiction",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino\u00a0\u00a0Roger Avary"
+        "Quentin Tarantino",
+        "Roger Avary"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Moon",
-        "   "
-    ],
+    "Title": "Moon",
     "Author": [
-        "\u00a0\u00a0Duncan Jones\u00a0\u00a0Nathan Parker"
+        "Duncan Jones",
+        "Nathan Parker"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -929,12 +930,6 @@
                     "End": 97229
                 },
                 {
-                    "Reply": "He scares me, Gerty.",
-                    "Didascalie": "(a beat)",
-                    "Start": 97280,
-                    "End": 97313
-                },
-                {
                     "Reply": "What is it about Sam that scares you?",
                     "Didascalie": "",
                     "Start": 97352,
@@ -1079,12 +1074,6 @@
                     "End": 163027
                 },
                 {
-                    "Reply": "I'll require your assistance, Sam.  SAM 2 Sure, just let me finish this.",
-                    "Didascalie": "",
-                    "Start": 163374,
-                    "End": 163585
-                },
-                {
                     "Reply": "Okay, Sam.",
                     "Didascalie": "",
                     "Start": 165015,
@@ -1116,17 +1105,6 @@
             ]
         },
         {
-            "Character": "A RED LIGHT",
-            "Replies": [
-                {
-                    "Reply": "Pulsing rapidly. The \"ping-ping-ping\" of an alarm.",
-                    "Didascalie": "",
-                    "Start": 12357,
-                    "End": 12408
-                }
-            ]
-        },
-        {
             "Character": "BOARD",
             "Replies": [
                 {
@@ -1134,17 +1112,6 @@
                     "Didascalie": "",
                     "Start": 12552,
                     "End": 12587
-                }
-            ]
-        },
-        {
-            "Character": "A SPACE SUIT",
-            "Replies": [
-                {
-                    "Reply": "Resembling an unmanned puppet. Sam begins to insinuate his body into the suit.",
-                    "Didascalie": "",
-                    "Start": 12996,
-                    "End": 13080
                 }
             ]
         },
@@ -1461,12 +1428,6 @@
                     "End": 137972
                 },
                 {
-                    "Reply": "No you didn't...",
-                    "Didascalie": "(commenting as he watches)",
-                    "Start": 138075,
-                    "End": 138110
-                },
-                {
                     "Reply": "I'm sorry, she passed away some years ago.",
                     "Didascalie": "",
                     "Start": 138331,
@@ -1483,6 +1444,1804 @@
                     "Didascalie": "(then)",
                     "Start": 138799,
                     "End": 138833
+                }
+            ]
+        },
+        {
+            "Character": "SAM 1",
+            "Replies": [
+                {
+                    "Reply": "Where am I?",
+                    "Didascalie": "",
+                    "Start": 68658,
+                    "End": 68670
+                },
+                {
+                    "Reply": "I saw someone out there, Gerty.",
+                    "Didascalie": "",
+                    "Start": 69112,
+                    "End": 69144
+                },
+                {
+                    "Reply": "I saw a girl.",
+                    "Didascalie": "",
+                    "Start": 69442,
+                    "End": 69456
+                },
+                {
+                    "Reply": "Gerty?",
+                    "Didascalie": "",
+                    "Start": 70341,
+                    "End": 70348
+                },
+                {
+                    "Reply": "Is there someone in the room with us?",
+                    "Didascalie": "",
+                    "Start": 70459,
+                    "End": 70513
+                },
+                {
+                    "Reply": "Who is he?",
+                    "Didascalie": "",
+                    "Start": 70622,
+                    "End": 70633
+                },
+                {
+                    "Reply": "Hi.",
+                    "Didascalie": "",
+                    "Start": 71708,
+                    "End": 71712
+                },
+                {
+                    "Reply": "Gerty, what the hell is going on?",
+                    "Didascalie": "",
+                    "Start": 72008,
+                    "End": 72042
+                },
+                {
+                    "Reply": "Yes, Gerty, I'm out of bed.   Who is the guy in the rec room?",
+                    "Didascalie": "",
+                    "Start": 72359,
+                    "End": 72437
+                },
+                {
+                    "Reply": "Who the fuck is in the rec room, Gerty!?",
+                    "Didascalie": "",
+                    "Start": 72591,
+                    "End": 72648
+                },
+                {
+                    "Reply": "I don't understand what's happening, Gerty. I think I may be losing my mind.",
+                    "Didascalie": "",
+                    "Start": 72936,
+                    "End": 73045
+                },
+                {
+                    "Reply": "Recovered alive? What do you mean? Why haven't you reported to central?",
+                    "Didascalie": "",
+                    "Start": 73444,
+                    "End": 73548
+                },
+                {
+                    "Reply": "You're Sam Bell.",
+                    "Didascalie": "",
+                    "Start": 74815,
+                    "End": 74832
+                },
+                {
+                    "Reply": "I'm Sam Bell, too.",
+                    "Didascalie": "",
+                    "Start": 75108,
+                    "End": 75127
+                },
+                {
+                    "Reply": "This is fucked up.",
+                    "Didascalie": "",
+                    "Start": 75233,
+                    "End": 75252
+                },
+                {
+                    "Reply": "Why... What are you?",
+                    "Didascalie": "",
+                    "Start": 75433,
+                    "End": 75454
+                },
+                {
+                    "Reply": "How long have you been here?",
+                    "Didascalie": "",
+                    "Start": 75646,
+                    "End": 75675
+                },
+                {
+                    "Reply": "How are you getting on?",
+                    "Didascalie": "",
+                    "Start": 75776,
+                    "End": 75800
+                },
+                {
+                    "Reply": "They locked all the exits? What about the harvesters?",
+                    "Didascalie": "",
+                    "Start": 76147,
+                    "End": 76212
+                },
+                {
+                    "Reply": "I'm not a clone.",
+                    "Didascalie": "",
+                    "Start": 76725,
+                    "End": 76742
+                },
+                {
+                    "Reply": "You're the clone.",
+                    "Didascalie": "",
+                    "Start": 76872,
+                    "End": 76890
+                },
+                {
+                    "Reply": "Almost three years.",
+                    "Didascalie": "",
+                    "Start": 77193,
+                    "End": 77213
+                },
+                {
+                    "Reply": "Right.",
+                    "Didascalie": "(with a smile)",
+                    "Start": 77356,
+                    "End": 77380
+                },
+                {
+                    "Reply": "No, not really.",
+                    "Didascalie": "",
+                    "Start": 77545,
+                    "End": 77561
+                },
+                {
+                    "Reply": "Listen, I wanted to say thank-",
+                    "Didascalie": "",
+                    "Start": 77620,
+                    "End": 77651
+                },
+                {
+                    "Reply": "You look just like me. It's incredible.",
+                    "Didascalie": "",
+                    "Start": 78190,
+                    "End": 78247
+                },
+                {
+                    "Reply": "We look like each other, I guess.",
+                    "Didascalie": "",
+                    "Start": 78418,
+                    "End": 78452
+                },
+                {
+                    "Reply": "Your serve.",
+                    "Didascalie": "",
+                    "Start": 78962,
+                    "End": 78974
+                },
+                {
+                    "Reply": "Two points to eighteen.",
+                    "Didascalie": "",
+                    "Start": 79083,
+                    "End": 79107
+                },
+                {
+                    "Reply": "I don't remember doing all of it.",
+                    "Didascalie": "",
+                    "Start": 79916,
+                    "End": 79950
+                },
+                {
+                    "Reply": "Uh-huh. You know Fairfield?",
+                    "Didascalie": "",
+                    "Start": 80296,
+                    "End": 80324
+                },
+                {
+                    "Reply": "You know about Eve, right?",
+                    "Didascalie": "",
+                    "Start": 80675,
+                    "End": 80702
+                },
+                {
+                    "Reply": "We had a girl.",
+                    "Didascalie": "",
+                    "Start": 80806,
+                    "End": 80821
+                },
+                {
+                    "Reply": "She's beautiful. She's really beautiful.",
+                    "Didascalie": "",
+                    "Start": 81065,
+                    "End": 81117
+                },
+                {
+                    "Reply": "Nine pounds, eleven ounces.",
+                    "Didascalie": "",
+                    "Start": 81305,
+                    "End": 81333
+                },
+                {
+                    "Reply": "They're sending a Rescue Unit?",
+                    "Didascalie": "",
+                    "Start": 84658,
+                    "End": 84689
+                },
+                {
+                    "Reply": "Then I'm going back.",
+                    "Didascalie": "",
+                    "Start": 84947,
+                    "End": 84968
+                },
+                {
+                    "Reply": "I've done my three years. That's it for me --",
+                    "Didascalie": "",
+                    "Start": 85068,
+                    "End": 85130
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 85228,
+                    "End": 85234
+                },
+                {
+                    "Reply": "I've got a contract --",
+                    "Didascalie": "",
+                    "Start": 85363,
+                    "End": 85386
+                },
+                {
+                    "Reply": "I'm going home!",
+                    "Didascalie": "",
+                    "Start": 85658,
+                    "End": 85674
+                },
+                {
+                    "Reply": "I'm the original! I'm Sam fucking Bell! Me! Me!",
+                    "Didascalie": "",
+                    "Start": 86383,
+                    "End": 86447
+                },
+                {
+                    "Reply": "Gerty, am I a clone?",
+                    "Didascalie": "",
+                    "Start": 86673,
+                    "End": 86694
+                },
+                {
+                    "Reply": "Secret room?",
+                    "Didascalie": "(laughing)",
+                    "Start": 88130,
+                    "End": 88160
+                },
+                {
+                    "Reply": "I told you.",
+                    "Didascalie": "",
+                    "Start": 92125,
+                    "End": 92137
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 92370,
+                    "End": 92375
+                },
+                {
+                    "Reply": "You're not moving the model.",
+                    "Didascalie": "",
+                    "Start": 92507,
+                    "End": 92536
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 92701,
+                    "End": 92705
+                },
+                {
+                    "Reply": "Get off me!",
+                    "Didascalie": "",
+                    "Start": 94459,
+                    "End": 94471
+                },
+                {
+                    "Reply": "Who are you?",
+                    "Didascalie": "",
+                    "Start": 95516,
+                    "End": 95529
+                },
+                {
+                    "Reply": "Who are you!",
+                    "Didascalie": "(CONT'D) (shouting)",
+                    "Start": 95625,
+                    "End": 95658
+                },
+                {
+                    "Reply": "Hi Gerty.",
+                    "Didascalie": "",
+                    "Start": 96439,
+                    "End": 96449
+                },
+                {
+                    "Reply": "We had a fight. Me and the other guy, the other Sam. We had a fight, Gerty. He's a maniac. You know what he did? He flipped the entire model over. Do you know how much work I've put into that thing?",
+                    "Didascalie": "",
+                    "Start": 96745,
+                    "End": 97010
+                },
+                {
+                    "Reply": "938 hours, exactly.",
+                    "Didascalie": "",
+                    "Start": 97103,
+                    "End": 97123
+                },
+                {
+                    "Reply": "Really? 938 hours.",
+                    "Didascalie": "(then)",
+                    "Start": 97144,
+                    "End": 97175
+                },
+                {
+                    "Reply": "He scares me, Gerty.",
+                    "Didascalie": "(a beat)",
+                    "Start": 97280,
+                    "End": 97313
+                },
+                {
+                    "Reply": "He flies off the handle. I see it now...I see what Tess was talking about.",
+                    "Didascalie": "",
+                    "Start": 97440,
+                    "End": 97537
+                },
+                {
+                    "Reply": "I've never told you this, Gerty, but she left me. Tess left me.",
+                    "Didascalie": "(a beat)",
+                    "Start": 97560,
+                    "End": 97647
+                },
+                {
+                    "Reply": "Oh...",
+                    "Didascalie": "",
+                    "Start": 97811,
+                    "End": 97817
+                },
+                {
+                    "Reply": "It was the year before I came in here. She gave me a second chance. I promised her I'd change.",
+                    "Didascalie": "(beat)",
+                    "Start": 97838,
+                    "End": 97978
+                },
+                {
+                    "Reply": "Yeah, I guess I have.",
+                    "Didascalie": "",
+                    "Start": 98079,
+                    "End": 98101
+                },
+                {
+                    "Reply": "Gerty, since I've been up here I've sent Tess over a hundred video messages. Where did those messages go? Did they ever reach her?",
+                    "Didascalie": "",
+                    "Start": 98225,
+                    "End": 98400
+                },
+                {
+                    "Reply": "What about the messages she sent to me?",
+                    "Didascalie": "",
+                    "Start": 98552,
+                    "End": 98603
+                },
+                {
+                    "Reply": "Gerty, am I really a clone?",
+                    "Didascalie": "",
+                    "Start": 98783,
+                    "End": 98811
+                },
+                {
+                    "Reply": "I remember.",
+                    "Didascalie": "",
+                    "Start": 99136,
+                    "End": 99148
+                },
+                {
+                    "Reply": "And Tess?    Eve?",
+                    "Didascalie": "",
+                    "Start": 99604,
+                    "End": 99622
+                },
+                {
+                    "Reply": "No thanks, Gerty.",
+                    "Didascalie": "",
+                    "Start": 100102,
+                    "End": 100120
+                },
+                {
+                    "Reply": "You okay?",
+                    "Didascalie": "",
+                    "Start": 100950,
+                    "End": 100960
+                },
+                {
+                    "Reply": "Better.",
+                    "Didascalie": "",
+                    "Start": 101289,
+                    "End": 101297
+                },
+                {
+                    "Reply": "It's okay.",
+                    "Didascalie": "",
+                    "Start": 101542,
+                    "End": 101553
+                },
+                {
+                    "Reply": "Yes you do.",
+                    "Didascalie": "",
+                    "Start": 101874,
+                    "End": 101886
+                },
+                {
+                    "Reply": "Absolutely.",
+                    "Didascalie": "",
+                    "Start": 102210,
+                    "End": 102222
+                },
+                {
+                    "Reply": "Right.",
+                    "Didascalie": "",
+                    "Start": 102552,
+                    "End": 102559
+                },
+                {
+                    "Reply": "A live conversation?",
+                    "Didascalie": "",
+                    "Start": 103333,
+                    "End": 103354
+                },
+                {
+                    "Reply": "That's not possible.",
+                    "Didascalie": "",
+                    "Start": 103439,
+                    "End": 103460
+                },
+                {
+                    "Reply": "How do you know the conversation was live?",
+                    "Didascalie": "",
+                    "Start": 103711,
+                    "End": 103765
+                },
+                {
+                    "Reply": "The communications equipment is damaged -- there was a solar storm --",
+                    "Didascalie": "",
+                    "Start": 104204,
+                    "End": 104296
+                },
+                {
+                    "Reply": "Tabitha, right.",
+                    "Didascalie": "",
+                    "Start": 104384,
+                    "End": 104400
+                },
+                {
+                    "Reply": "How are they blocking the live feed? The base's communications equipment works fine --",
+                    "Didascalie": "",
+                    "Start": 104838,
+                    "End": 104959
+                },
+                {
+                    "Reply": "From where then?",
+                    "Didascalie": "",
+                    "Start": 105138,
+                    "End": 105155
+                },
+                {
+                    "Reply": "Just passing the last of the Harvesters -- looks like John --",
+                    "Didascalie": "",
+                    "Start": 105903,
+                    "End": 105982
+                },
+                {
+                    "Reply": "If I maintain this speed...a minute. Ninety seconds tops.",
+                    "Didascalie": "",
+                    "Start": 106586,
+                    "End": 106661
+                },
+                {
+                    "Reply": "No, never.",
+                    "Didascalie": "",
+                    "Start": 106874,
+                    "End": 106885
+                },
+                {
+                    "Reply": "You see anything yet?",
+                    "Didascalie": "",
+                    "Start": 107170,
+                    "End": 107192
+                },
+                {
+                    "Reply": "There isn't shit out here...I feel like I'm about to drive off the end of the world.",
+                    "Didascalie": "",
+                    "Start": 107309,
+                    "End": 107428
+                },
+                {
+                    "Reply": "It would help if I knew what I was looking for.",
+                    "Didascalie": "(then)",
+                    "Start": 107455,
+                    "End": 107538
+                },
+                {
+                    "Reply": "Wait a second, wait a second.",
+                    "Didascalie": "",
+                    "Start": 107679,
+                    "End": 107709
+                },
+                {
+                    "Reply": "I see something.",
+                    "Didascalie": "",
+                    "Start": 107881,
+                    "End": 107898
+                },
+                {
+                    "Reply": "Don't know yet.",
+                    "Didascalie": "",
+                    "Start": 108155,
+                    "End": 108171
+                },
+                {
+                    "Reply": "Looks like some kind of antenna.",
+                    "Didascalie": "",
+                    "Start": 108260,
+                    "End": 108293
+                },
+                {
+                    "Reply": "Whoever built these things meant business. They weren't fucking around.",
+                    "Didascalie": "",
+                    "Start": 109327,
+                    "End": 109421
+                },
+                {
+                    "Reply": "What do you think?",
+                    "Didascalie": "",
+                    "Start": 109588,
+                    "End": 109607
+                },
+                {
+                    "Reply": "Yeah, I hear you.",
+                    "Didascalie": "",
+                    "Start": 110633,
+                    "End": 110651
+                },
+                {
+                    "Reply": "I'm going to head back to base.",
+                    "Didascalie": "(then)",
+                    "Start": 110679,
+                    "End": 110730
+                },
+                {
+                    "Reply": "Fuck!",
+                    "Didascalie": "",
+                    "Start": 111520,
+                    "End": 111526
+                },
+                {
+                    "Reply": "The cryo pod in the Return Vehicle is an incinerator.",
+                    "Didascalie": "",
+                    "Start": 123514,
+                    "End": 123579
+                },
+                {
+                    "Reply": "I hacked into the Old Man.",
+                    "Didascalie": "(beat)",
+                    "Start": 124068,
+                    "End": 124149
+                },
+                {
+                    "Reply": "Enough.  A pause.",
+                    "Didascalie": "",
+                    "Start": 124364,
+                    "End": 124427
+                },
+                {
+                    "Reply": "Not now, Gerty, okay?",
+                    "Didascalie": "",
+                    "Start": 125412,
+                    "End": 125434
+                },
+                {
+                    "Reply": "There's something I've got to do.",
+                    "Didascalie": "",
+                    "Start": 126459,
+                    "End": 126493
+                },
+                {
+                    "Reply": "Come on...come on...",
+                    "Didascalie": "",
+                    "Start": 128000,
+                    "End": 128021
+                },
+                {
+                    "Reply": "Uh, Bell residence?",
+                    "Didascalie": "",
+                    "Start": 128700,
+                    "End": 128720
+                },
+                {
+                    "Reply": "I'm trying to reach Tess Bell.",
+                    "Didascalie": "",
+                    "Start": 129125,
+                    "End": 129156
+                },
+                {
+                    "Reply": "No...no way.",
+                    "Didascalie": "",
+                    "Start": 129462,
+                    "End": 129475
+                },
+                {
+                    "Reply": "Tess Bell? Are you sure?",
+                    "Didascalie": "",
+                    "Start": 129546,
+                    "End": 129571
+                },
+                {
+                    "Reply": "Eve?",
+                    "Didascalie": "",
+                    "Start": 129983,
+                    "End": 129988
+                },
+                {
+                    "Reply": "Hi... Hi. Eve. How old are you now?",
+                    "Didascalie": "(overwhelmed)",
+                    "Start": 130326,
+                    "End": 130385
+                },
+                {
+                    "Reply": "How did mom die, sweetheart?",
+                    "Didascalie": "",
+                    "Start": 130623,
+                    "End": 130652
+                },
+                {
+                    "Reply": "Want me to help?",
+                    "Didascalie": "",
+                    "Start": 132885,
+                    "End": 132902
+                },
+                {
+                    "Reply": "Remember that crazy drunk guy who used to hang out by the church?",
+                    "Didascalie": "",
+                    "Start": 133117,
+                    "End": 133200
+                },
+                {
+                    "Reply": "He looked like Barbara Streisand.",
+                    "Didascalie": "(with a smile)",
+                    "Start": 133400,
+                    "End": 133446
+                },
+                {
+                    "Reply": "Want me to show you?",
+                    "Didascalie": "",
+                    "Start": 133678,
+                    "End": 133699
+                },
+                {
+                    "Reply": "You need to hold the wood away from you. Like this.",
+                    "Didascalie": "",
+                    "Start": 133829,
+                    "End": 133892
+                },
+                {
+                    "Reply": "Watch what I'm doing.",
+                    "Didascalie": "",
+                    "Start": 134146,
+                    "End": 134168
+                },
+                {
+                    "Reply": "You watching?",
+                    "Didascalie": "(then)",
+                    "Start": 134189,
+                    "End": 134215
+                },
+                {
+                    "Reply": "Now you try.",
+                    "Didascalie": "",
+                    "Start": 134299,
+                    "End": 134312
+                },
+                {
+                    "Reply": "You'll get the hang of it.",
+                    "Didascalie": "",
+                    "Start": 134508,
+                    "End": 134535
+                },
+                {
+                    "Reply": "You see, that's a little better already.",
+                    "Didascalie": "(a beat)",
+                    "Start": 134558,
+                    "End": 134622
+                },
+                {
+                    "Reply": "I think I'm dying.",
+                    "Didascalie": "",
+                    "Start": 135375,
+                    "End": 135394
+                },
+                {
+                    "Reply": "There's blood in everything. My urine. My vomit. I've got a constant headache. Dizzy spells.",
+                    "Didascalie": "",
+                    "Start": 135469,
+                    "End": 135584
+                },
+                {
+                    "Reply": "The same thing happened to the other clones. I saw it when I hacked into the Old Man. After three years they all started to get sick. Now it's happening to me. Well, it's been happening for a while now. A couple of weeks.",
+                    "Didascalie": "(CONT'D) (a beat)",
+                    "Start": 135607,
+                    "End": 135907
+                },
+                {
+                    "Reply": "Maybe we don't live that long.",
+                    "Didascalie": "",
+                    "Start": 136011,
+                    "End": 136042
+                },
+                {
+                    "Reply": "No tranqs. I don't think I would ever wake up again.",
+                    "Didascalie": "(grim smile)",
+                    "Start": 136696,
+                    "End": 136784
+                },
+                {
+                    "Reply": "Uh, Bell Residence?",
+                    "Didascalie": "",
+                    "Start": 137875,
+                    "End": 137895
+                },
+                {
+                    "Reply": "I'm trying to reach Tess Bell.",
+                    "Didascalie": "",
+                    "Start": 138168,
+                    "End": 138199
+                },
+                {
+                    "Reply": "Tess Bell? Are you sure?",
+                    "Didascalie": "",
+                    "Start": 138640,
+                    "End": 138665
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 145410,
+                    "End": 145415
+                },
+                {
+                    "Reply": "That guy?",
+                    "Didascalie": "(points towards the Infirmary)",
+                    "Start": 146162,
+                    "End": 146190
+                },
+                {
+                    "Reply": "They'll expect to find a dead body in the crashed Rover.",
+                    "Didascalie": "",
+                    "Start": 146269,
+                    "End": 146343
+                },
+                {
+                    "Reply": "You're going to kill him?",
+                    "Didascalie": "(stunned)",
+                    "Start": 146466,
+                    "End": 146510
+                },
+                {
+                    "Reply": "What about us? Eliza arrives, finds you and me as the welcome party --",
+                    "Didascalie": "",
+                    "Start": 147017,
+                    "End": 147110
+                },
+                {
+                    "Reply": "How do you think she died?",
+                    "Didascalie": "",
+                    "Start": 147977,
+                    "End": 148004
+                },
+                {
+                    "Reply": "I wish I'd been there.",
+                    "Didascalie": "",
+                    "Start": 148288,
+                    "End": 148311
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 149658,
+                    "End": 149662
+                },
+                {
+                    "Reply": "We don't have to do anything. I changed my mind.",
+                    "Didascalie": "",
+                    "Start": 153091,
+                    "End": 153157
+                },
+                {
+                    "Reply": "I'm not going back.",
+                    "Didascalie": "",
+                    "Start": 153247,
+                    "End": 153267
+                },
+                {
+                    "Reply": "I'm coughing up blood, I'm as white as a ghost. I look like I belong in a graveyard. I meet Eve now, I'll scare the shit out of her more than anything else.",
+                    "Didascalie": "(CONT'D) (a beat)",
+                    "Start": 153296,
+                    "End": 153539
+                },
+                {
+                    "Reply": "She's not! She's not... my daughter. At least, I'm not her father. Not to her.",
+                    "Didascalie": "(angry)",
+                    "Start": 153895,
+                    "End": 154026
+                },
+                {
+                    "Reply": "I'll put myself in the Rover, I'll be the body -- it was me to begin with anyway, right? You go back to Earth. You go back.",
+                    "Didascalie": "",
+                    "Start": 154174,
+                    "End": 154331
+                },
+                {
+                    "Reply": "I don't know.",
+                    "Didascalie": "",
+                    "Start": 154916,
+                    "End": 154930
+                },
+                {
+                    "Reply": "It's what we were designed to do.",
+                    "Didascalie": "(beat)",
+                    "Start": 154951,
+                    "End": 154997
+                },
+                {
+                    "Reply": "You're a good guy, Sam.",
+                    "Didascalie": "",
+                    "Start": 155540,
+                    "End": 155564
+                },
+                {
+                    "Reply": "Yeah. You should travel.     I've always wanted to do that.",
+                    "Didascalie": "",
+                    "Start": 155954,
+                    "End": 156031
+                },
+                {
+                    "Reply": "Tess came in for the interview, remember?",
+                    "Didascalie": "",
+                    "Start": 157224,
+                    "End": 157283
+                },
+                {
+                    "Reply": "She was so beautiful. Even   if she wasn't the best candidate,   I just knew I had to give her the   job. I thought she was so sweet.",
+                    "Didascalie": "",
+                    "Start": 157397,
+                    "End": 157582
+                },
+                {
+                    "Reply": "And then it was the end of   the summer.",
+                    "Didascalie": "(CONT'D) (a beat)",
+                    "Start": 157611,
+                    "End": 157687
+                }
+            ]
+        },
+        {
+            "Character": "SAM 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 75167,
+                    "End": 75173
+                },
+                {
+                    "Reply": "Completely.",
+                    "Didascalie": "",
+                    "Start": 75291,
+                    "End": 75303
+                },
+                {
+                    "Reply": "I'm a clone, Sam.    Im a fucking clone.",
+                    "Didascalie": "",
+                    "Start": 75555,
+                    "End": 75607
+                },
+                {
+                    "Reply": "About a week.",
+                    "Didascalie": "",
+                    "Start": 75714,
+                    "End": 75728
+                },
+                {
+                    "Reply": "How am I getting on?",
+                    "Didascalie": "(repeating the question slowly)",
+                    "Start": 75891,
+                    "End": 75924
+                },
+                {
+                    "Reply": "The company ordered Gerty to lock all the exits. I haven't been able to do anything for seven days but sit on my ass.",
+                    "Didascalie": "(then)",
+                    "Start": 75945,
+                    "End": 76108
+                },
+                {
+                    "Reply": "Slowed them down to half speed, apparently.",
+                    "Didascalie": "",
+                    "Start": 76251,
+                    "End": 76306
+                },
+                {
+                    "Reply": "And then when I finally trick Gerty into letting me outside I find a clone of myself in a crashed rover. How am I getting on? Oh I'm loving it.",
+                    "Didascalie": "",
+                    "Start": 76468,
+                    "End": 76676
+                },
+                {
+                    "Reply": "Ok, Sam.   You're not a clone.",
+                    "Didascalie": "",
+                    "Start": 76792,
+                    "End": 76823
+                },
+                {
+                    "Reply": "How long have you been here?",
+                    "Didascalie": "",
+                    "Start": 77115,
+                    "End": 77144
+                },
+                {
+                    "Reply": "Hence the Captain's beard.",
+                    "Didascalie": "",
+                    "Start": 77262,
+                    "End": 77289
+                },
+                {
+                    "Reply": "I didn't know it could get so thick. Does it itch?",
+                    "Didascalie": "",
+                    "Start": 77429,
+                    "End": 77496
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 78055,
+                    "End": 78061
+                },
+                {
+                    "Reply": "Why do I look like you? Why don't you look like me?",
+                    "Didascalie": "",
+                    "Start": 78298,
+                    "End": 78367
+                },
+                {
+                    "Reply": "Score?",
+                    "Didascalie": "",
+                    "Start": 79025,
+                    "End": 79032
+                },
+                {
+                    "Reply": "How long did it take you to do this?",
+                    "Didascalie": "",
+                    "Start": 79750,
+                    "End": 79804
+                },
+                {
+                    "Reply": "It's Fairfield, right?",
+                    "Didascalie": "",
+                    "Start": 80178,
+                    "End": 80201
+                },
+                {
+                    "Reply": "There's Town Hall.",
+                    "Didascalie": "(pointing)",
+                    "Start": 80226,
+                    "End": 80257
+                },
+                {
+                    "Reply": "Yes.   I know Tess.",
+                    "Didascalie": "",
+                    "Start": 80616,
+                    "End": 80636
+                },
+                {
+                    "Reply": "We did?",
+                    "Didascalie": "",
+                    "Start": 80862,
+                    "End": 80870
+                },
+                {
+                    "Reply": "She thought she was going to have a boy. She was so sure.",
+                    "Didascalie": "(beat)",
+                    "Start": 80892,
+                    "End": 80973
+                },
+                {
+                    "Reply": "Eve?",
+                    "Didascalie": "(then)",
+                    "Start": 80995,
+                    "End": 81012
+                },
+                {
+                    "Reply": "How much did she weigh? Isn't that what you're supposed to ask, how much did she weigh?",
+                    "Didascalie": "",
+                    "Start": 81156,
+                    "End": 81266
+                },
+                {
+                    "Reply": "To fix the stalled harvester.",
+                    "Didascalie": "",
+                    "Start": 84744,
+                    "End": 84774
+                },
+                {
+                    "Reply": "Is that what you really think?",
+                    "Didascalie": "",
+                    "Start": 85283,
+                    "End": 85314
+                },
+                {
+                    "Reply": "You're a fucking clone! You don't have shit!",
+                    "Didascalie": "",
+                    "Start": 85436,
+                    "End": 85497
+                },
+                {
+                    "Reply": "You're not going anywhere!",
+                    "Didascalie": "",
+                    "Start": 85723,
+                    "End": 85750
+                },
+                {
+                    "Reply": "You've been up here too long, man! You've lost the plot!",
+                    "Didascalie": "",
+                    "Start": 85914,
+                    "End": 85987
+                },
+                {
+                    "Reply": "What, you think Tess is back home waiting for you? What about the original Sam?",
+                    "Didascalie": "",
+                    "Start": 86222,
+                    "End": 86334
+                },
+                {
+                    "Reply": "What about the other clones?",
+                    "Didascalie": "",
+                    "Start": 87043,
+                    "End": 87072
+                },
+                {
+                    "Reply": "Yeah, we might not be the first two to be woken up.",
+                    "Didascalie": "",
+                    "Start": 87177,
+                    "End": 87245
+                },
+                {
+                    "Reply": "You said that thing had already been started when you got here.",
+                    "Didascalie": "(CONT'D) (indicating the model)",
+                    "Start": 87287,
+                    "End": 87384
+                },
+                {
+                    "Reply": "I bet there's some kind of secret room --",
+                    "Didascalie": "",
+                    "Start": 88009,
+                    "End": 88067
+                },
+                {
+                    "Reply": "Yeah, secret room, why not?",
+                    "Didascalie": "",
+                    "Start": 88209,
+                    "End": 88237
+                },
+                {
+                    "Reply": "There's some area we don't know about. I'm going to find it.  Sam 1 shakes his head dismissively, picks up the wooden house, starts whittling.",
+                    "Didascalie": "(exhasperated)",
+                    "Start": 90794,
+                    "End": 91065
+                },
+                {
+                    "Reply": "Shut-up!",
+                    "Didascalie": "",
+                    "Start": 92187,
+                    "End": 92196
+                },
+                {
+                    "Reply": "Get out of the way.",
+                    "Didascalie": "",
+                    "Start": 92300,
+                    "End": 92320
+                },
+                {
+                    "Reply": "I want to check underneath there.",
+                    "Didascalie": "",
+                    "Start": 92424,
+                    "End": 92458
+                },
+                {
+                    "Reply": "Get the fuck out of my way!",
+                    "Didascalie": "",
+                    "Start": 92585,
+                    "End": 92613
+                },
+                {
+                    "Reply": "You okay?",
+                    "Didascalie": "",
+                    "Start": 93892,
+                    "End": 93902
+                },
+                {
+                    "Reply": "I hardly touched you.",
+                    "Didascalie": "",
+                    "Start": 94154,
+                    "End": 94176
+                },
+                {
+                    "Reply": "Let me see.",
+                    "Didascalie": "",
+                    "Start": 94268,
+                    "End": 94280
+                },
+                {
+                    "Reply": "I'm staring into space.",
+                    "Didascalie": "",
+                    "Start": 101011,
+                    "End": 101035
+                },
+                {
+                    "Reply": "Get it?",
+                    "Didascalie": "(points to the window)",
+                    "Start": 101078,
+                    "End": 101104
+                },
+                {
+                    "Reply": "How's the nose?",
+                    "Didascalie": "",
+                    "Start": 101220,
+                    "End": 101236
+                },
+                {
+                    "Reply": "Listen, I went haywire before. I lost it. I'm sorry.",
+                    "Didascalie": "",
+                    "Start": 101363,
+                    "End": 101433
+                },
+                {
+                    "Reply": "No it's not okay. I fucked up Fairfield -- your model -- that's unacceptable. I don't know what's wrong with me.",
+                    "Didascalie": "",
+                    "Start": 101593,
+                    "End": 101739
+                },
+                {
+                    "Reply": "I've got a temper. I need to do something about it.",
+                    "Didascalie": "(then)",
+                    "Start": 101760,
+                    "End": 101835
+                },
+                {
+                    "Reply": "I've been thinking. That Rescue Unit -- Eliza -- they'll be here in less than fourteen hours. I don't know about you but I'd like to figure out where we stand before they get here.",
+                    "Didascalie": "",
+                    "Start": 101935,
+                    "End": 102171
+                },
+                {
+                    "Reply": "Ostensibly they're coming to deal with the stalled harvester. We both know that isn't true.",
+                    "Didascalie": "",
+                    "Start": 102262,
+                    "End": 102376
+                },
+                {
+                    "Reply": "They're coming to dig your body out of that rover. They think you're in there.",
+                    "Didascalie": "(then)",
+                    "Start": 102397,
+                    "End": 102510
+                },
+                {
+                    "Reply": "What'll their reaction be when they find out you survived the crash? I wasn't supposed to find you. Lunar instructed Gerty to lock me inside the base for Christ's sake.",
+                    "Didascalie": "",
+                    "Start": 102598,
+                    "End": 102822
+                },
+                {
+                    "Reply": "And there's something else.",
+                    "Didascalie": "",
+                    "Start": 102904,
+                    "End": 102932
+                },
+                {
+                    "Reply": "Right around the time I was awakened...I walked in on Gerty talking to Central. He was having a live conversation.",
+                    "Didascalie": "",
+                    "Start": 103146,
+                    "End": 103294
+                },
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 103394,
+                    "End": 103400
+                },
+                {
+                    "Reply": "No no no, it is possible. It's possible because I saw it, that's my point.",
+                    "Didascalie": "",
+                    "Start": 103499,
+                    "End": 103596
+                },
+                {
+                    "Reply": "It was a back and forth exchange.",
+                    "Didascalie": "",
+                    "Start": 103804,
+                    "End": 103838
+                },
+                {
+                    "Reply": "Tabitha.",
+                    "Didascalie": "",
+                    "Start": 104336,
+                    "End": 104345
+                },
+                {
+                    "Reply": "Lunar made it up. Maybe. I don't know. Bottom line is they don't want us to be able to contact Earth. Otherwise why would they have lied to us?",
+                    "Didascalie": "",
+                    "Start": 104439,
+                    "End": 104627
+                },
+                {
+                    "Reply": "Maybe they're not blocking the signal from inside the base.",
+                    "Didascalie": "",
+                    "Start": 105010,
+                    "End": 105087
+                },
+                {
+                    "Reply": "How long until you're out of the base's range?",
+                    "Didascalie": "",
+                    "Start": 106414,
+                    "End": 106478
+                },
+                {
+                    "Reply": "You ever been this far out?",
+                    "Didascalie": "",
+                    "Start": 106712,
+                    "End": 106740
+                },
+                {
+                    "Reply": "Nothing. You?",
+                    "Didascalie": "",
+                    "Start": 107243,
+                    "End": 107257
+                },
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 108092,
+                    "End": 108104
+                },
+                {
+                    "Reply": "Antenna? Really?",
+                    "Didascalie": "",
+                    "Start": 108406,
+                    "End": 108423
+                },
+                {
+                    "Reply": "Hang on, looks like there's one on this side too.",
+                    "Didascalie": "(then)",
+                    "Start": 108444,
+                    "End": 108517
+                },
+                {
+                    "Reply": "I can just make out the top. Must be a hundred feet tall at least.",
+                    "Didascalie": "",
+                    "Start": 109188,
+                    "End": 109266
+                },
+                {
+                    "Reply": "Its not an antennae, dude. Its a jammer.",
+                    "Didascalie": "",
+                    "Start": 109646,
+                    "End": 109698
+                },
+                {
+                    "Reply": "No wonder we can't get a live feed. These things must be blocking our signal.",
+                    "Didascalie": "(looking around)",
+                    "Start": 109729,
+                    "End": 109841
+                },
+                {
+                    "Reply": "You okay?",
+                    "Didascalie": "",
+                    "Start": 110126,
+                    "End": 110136
+                },
+                {
+                    "Reply": "Sam?",
+                    "Didascalie": "",
+                    "Start": 110376,
+                    "End": 110381
+                },
+                {
+                    "Reply": "Sam, can you hear me?",
+                    "Didascalie": "",
+                    "Start": 110557,
+                    "End": 110579
+                },
+                {
+                    "Reply": "I'll stay out here a little longer. I want to see if there are any more of these things.",
+                    "Didascalie": "",
+                    "Start": 110827,
+                    "End": 110952
+                },
+                {
+                    "Reply": "I saw three more of those jammers. The base is surrounded.",
+                    "Didascalie": "",
+                    "Start": 120831,
+                    "End": 120907
+                },
+                {
+                    "Reply": "What? What is it?",
+                    "Didascalie": "",
+                    "Start": 121178,
+                    "End": 121196
+                },
+                {
+                    "Reply": "Who goes first?",
+                    "Didascalie": "",
+                    "Start": 121572,
+                    "End": 121588
+                },
+                {
+                    "Reply": "Is there a light?",
+                    "Didascalie": "",
+                    "Start": 122271,
+                    "End": 122289
+                },
+                {
+                    "Reply": "Why are there so many of them?",
+                    "Didascalie": "",
+                    "Start": 123444,
+                    "End": 123475
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 123658,
+                    "End": 123664
+                },
+                {
+                    "Reply": "How do you know all this?",
+                    "Didascalie": "",
+                    "Start": 123956,
+                    "End": 123982
+                },
+                {
+                    "Reply": "How many?",
+                    "Didascalie": "",
+                    "Start": 124313,
+                    "End": 124323
+                },
+                {
+                    "Reply": "If that Rescue Unit finds the two of us awake at the same time, they'll kill us both for sure.",
+                    "Didascalie": "",
+                    "Start": 124560,
+                    "End": 124689
+                },
+                {
+                    "Reply": "What are we going to do?",
+                    "Didascalie": "",
+                    "Start": 124802,
+                    "End": 124827
+                },
+                {
+                    "Reply": "Where are you going?",
+                    "Didascalie": "",
+                    "Start": 124978,
+                    "End": 124999
+                },
+                {
+                    "Reply": "What's going on?",
+                    "Didascalie": "",
+                    "Start": 126391,
+                    "End": 126408
+                },
+                {
+                    "Reply": "Barbara Streisand?",
+                    "Didascalie": "",
+                    "Start": 133251,
+                    "End": 133270
+                },
+                {
+                    "Reply": "How do you carve these things?",
+                    "Didascalie": "",
+                    "Start": 133608,
+                    "End": 133639
+                },
+                {
+                    "Reply": "You're shaking.",
+                    "Didascalie": "",
+                    "Start": 133931,
+                    "End": 133947
+                },
+                {
+                    "Reply": "Why are you shaking?",
+                    "Didascalie": "",
+                    "Start": 134085,
+                    "End": 134106
+                },
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 134254,
+                    "End": 134260
+                },
+                {
+                    "Reply": "I suck.",
+                    "Didascalie": "",
+                    "Start": 134461,
+                    "End": 134469
+                },
+                {
+                    "Reply": "What's happening to you?",
+                    "Didascalie": "",
+                    "Start": 134930,
+                    "End": 134955
+                },
+                {
+                    "Reply": "Listen, I realize I've been less than cooperative. But I want to change that. You and me, we need to work together. And that starts with not keeping secrets from each other.",
+                    "Didascalie": "",
+                    "Start": 135027,
+                    "End": 135256
+                },
+                {
+                    "Reply": "Now what's going on?",
+                    "Didascalie": "(CONT'D) (a beat)",
+                    "Start": 135279,
+                    "End": 135312
+                },
+                {
+                    "Reply": "What do you think it is?",
+                    "Didascalie": "",
+                    "Start": 135946,
+                    "End": 135971
+                },
+                {
+                    "Reply": "Jesus.",
+                    "Didascalie": "",
+                    "Start": 136145,
+                    "End": 136152
+                },
+                {
+                    "Reply": "Hey hey hey, you okay?",
+                    "Didascalie": "",
+                    "Start": 136279,
+                    "End": 136302
+                },
+                {
+                    "Reply": "Why don't you lie down for a while? Take some tranqs. Get some sleep.",
+                    "Didascalie": "",
+                    "Start": 136525,
+                    "End": 136629
+                },
+                {
+                    "Reply": "No you didn't...",
+                    "Didascalie": "(commenting as he watches)",
+                    "Start": 138075,
+                    "End": 138110
+                },
+                {
+                    "Reply": "Gerty, I need to talk to you.",
+                    "Didascalie": "",
+                    "Start": 139570,
+                    "End": 139600
+                },
+                {
+                    "Reply": "We found the hidden room. We know about the other clones.",
+                    "Didascalie": "",
+                    "Start": 139734,
+                    "End": 139809
+                },
+                {
+                    "Reply": "The hidden room under the Return Vehicle, Gerty. You know what I'm talking about. We found it on our own. Lunar doesn't know anything about it.",
+                    "Didascalie": "",
+                    "Start": 140024,
+                    "End": 140212
+                },
+                {
+                    "Reply": "Ordinarily, Gerty, but what with there being two of us awake at the same time, and what with the situation being unprecedented, the rules have had to change. Do you understand?",
+                    "Didascalie": "",
+                    "Start": 140364,
+                    "End": 140596
+                },
+                {
+                    "Reply": "Good.",
+                    "Didascalie": "",
+                    "Start": 140730,
+                    "End": 140736
+                },
+                {
+                    "Reply": "Gerty, how long does it take for a clone to wake up?",
+                    "Didascalie": "(a beat)",
+                    "Start": 140759,
+                    "End": 140835
+                },
+                {
+                    "Reply": "Gerty, we need to wake up a new clone.",
+                    "Didascalie": "",
+                    "Start": 141051,
+                    "End": 141101
+                },
+                {
+                    "Reply": "If we don't wake up another clone me and the other Sam will die.",
+                    "Didascalie": "",
+                    "Start": 141226,
+                    "End": 141302
+                },
+                {
+                    "Reply": "Do you want me and the other Sam to die?",
+                    "Didascalie": "",
+                    "Start": 141535,
+                    "End": 141593
+                },
+                {
+                    "Reply": "Then you have to wake up a new clone. Okay, pal?",
+                    "Didascalie": "",
+                    "Start": 141726,
+                    "End": 141792
+                },
+                {
+                    "Reply": "Don't touch him.",
+                    "Didascalie": "",
+                    "Start": 144929,
+                    "End": 144946
+                },
+                {
+                    "Reply": "He's not conscious yet. Gerty and I only woke him up a few hours ago.",
+                    "Didascalie": "",
+                    "Start": 145203,
+                    "End": 145307
+                },
+                {
+                    "Reply": "Come to the Rec Room.",
+                    "Didascalie": "",
+                    "Start": 145514,
+                    "End": 145536
+                },
+                {
+                    "Reply": "When the Rescue Unit arrives they'll expect to find a body in the crashed Rover, right?",
+                    "Didascalie": "",
+                    "Start": 145866,
+                    "End": 145988
+                },
+                {
+                    "Reply": "We've got our body.",
+                    "Didascalie": "(a beat)",
+                    "Start": 146017,
+                    "End": 146055
+                },
+                {
+                    "Reply": "I know.",
+                    "Didascalie": "",
+                    "Start": 146394,
+                    "End": 146402
+                },
+                {
+                    "Reply": "Someone's got to pull the short straw here, better someone who's unconscious than you or me.",
+                    "Didascalie": "",
+                    "Start": 146561,
+                    "End": 146688
+                },
+                {
+                    "Reply": "If we go through with this, I'm going to need your help hauling him out to the crash site.",
+                    "Didascalie": "",
+                    "Start": 146865,
+                    "End": 146978
+                },
+                {
+                    "Reply": "They're not going to find you and me as the welcome party, they're going to find me. You're going to blast back to Earth before they get here in one of the Helium 3 containers.",
+                    "Didascalie": "",
+                    "Start": 147149,
+                    "End": 147381
+                },
+                {
+                    "Reply": "You're going home.",
+                    "Didascalie": "(a beat)",
+                    "Start": 147404,
+                    "End": 147435
+                },
+                {
+                    "Reply": "You've done your three years. I can't expect you to stick around.",
+                    "Didascalie": "",
+                    "Start": 147514,
+                    "End": 147591
+                },
+                {
+                    "Reply": "I saw the message on the VP. Eve is beautiful. She looks like her mom.",
+                    "Didascalie": "",
+                    "Start": 147694,
+                    "End": 147787
+                },
+                {
+                    "Reply": "I don't know.",
+                    "Didascalie": "",
+                    "Start": 148044,
+                    "End": 148058
+                },
+                {
+                    "Reply": "Jane died of cancer. I mean, it was in the family. Who knows? Or maybe it was an accident? Could have been a million things.",
+                    "Didascalie": "(then)",
+                    "Start": 148079,
+                    "End": 148249
+                },
+                {
+                    "Reply": "Yeah. Me too.",
+                    "Didascalie": "",
+                    "Start": 148444,
+                    "End": 148458
+                },
+                {
+                    "Reply": "Go for it.",
+                    "Didascalie": "",
+                    "Start": 149292,
+                    "End": 149303
+                },
+                {
+                    "Reply": "Comfy?",
+                    "Didascalie": "",
+                    "Start": 149597,
+                    "End": 149604
+                },
+                {
+                    "Reply": "But you fit. That's good. You fit.",
+                    "Didascalie": "",
+                    "Start": 149736,
+                    "End": 149788
+                },
+                {
+                    "Reply": "Sam Bell reporting to Central.",
+                    "Didascalie": "",
+                    "Start": 150756,
+                    "End": 150787
+                },
+                {
+                    "Reply": "Bastards.",
+                    "Didascalie": "",
+                    "Start": 151699,
+                    "End": 151709
+                },
+                {
+                    "Reply": "Sam?",
+                    "Didascalie": "",
+                    "Start": 152588,
+                    "End": 152593
+                },
+                {
+                    "Reply": "We need to do it. We need to do it now. He'll be conscious any minute.",
+                    "Didascalie": "",
+                    "Start": 152779,
+                    "End": 152884
+                },
+                {
+                    "Reply": "We've been putting it off for long enough.",
+                    "Didascalie": "(a beat)",
+                    "Start": 152913,
+                    "End": 152991
+                },
+                {
+                    "Reply": "What are you talking about?",
+                    "Didascalie": "",
+                    "Start": 153709,
+                    "End": 153737
+                },
+                {
+                    "Reply": "This is wrong. What are we supposed to do? Sit around here and wait to die? Fuck that!",
+                    "Didascalie": "",
+                    "Start": 154767,
+                    "End": 154876
+                },
+                {
+                    "Reply": "Screw that! I'll go! ...And I'm going to find this asshole, Sam Bell, and ask him why the hell he put us through this shit!",
+                    "Didascalie": "",
+                    "Start": 155110,
+                    "End": 155267
+                },
+                {
+                    "Reply": "I'll be careful. I'll keep Eve out of it. She wont even know I exist.",
+                    "Didascalie": "",
+                    "Start": 155363,
+                    "End": 155455
+                },
+                {
+                    "Reply": "I might stop shaving; It suits us.",
+                    "Didascalie": "",
+                    "Start": 155604,
+                    "End": 155650
+                },
+                {
+                    "Reply": "If all our memories are implants, no disrespect, but I think its about time I got some of my own, as well.",
+                    "Didascalie": "(beat)",
+                    "Start": 155671,
+                    "End": 155823
+                },
+                {
+                    "Reply": "I'd like that.",
+                    "Didascalie": "",
+                    "Start": 156082,
+                    "End": 156097
+                },
+                {
+                    "Reply": "She was going back to San Francisco.",
+                    "Didascalie": "",
+                    "Start": 157739,
+                    "End": 157793
+                },
+                {
+                    "Reply": "You knew you had to take a chance. So you called her.",
+                    "Didascalie": "",
+                    "Start": 157966,
+                    "End": 158037
+                },
+                {
+                    "Reply": "That's when I knew she liked me.",
+                    "Didascalie": "",
+                    "Start": 158801,
+                    "End": 158834
+                },
+                {
+                    "Reply": "How long before he's conscious, Gerty?",
+                    "Didascalie": "",
+                    "Start": 160895,
+                    "End": 160951
+                },
+                {
+                    "Reply": "That's good. That's very good.",
+                    "Didascalie": "",
+                    "Start": 161119,
+                    "End": 161150
+                },
+                {
+                    "Reply": "He's gone home, Gerty.",
+                    "Didascalie": "",
+                    "Start": 161274,
+                    "End": 161297
+                },
+                {
+                    "Reply": "So that's what we're going to have to do.",
+                    "Didascalie": "",
+                    "Start": 163118,
+                    "End": 163177
+                },
+                {
+                    "Reply": "Sure, just let me finish this.",
+                    "Didascalie": "",
+                    "Start": 163554,
+                    "End": 163585
+                },
+                {
+                    "Reply": "I've set your computer to reboot the second I've blasted off.",
+                    "Didascalie": "",
+                    "Start": 164882,
+                    "End": 164961
+                },
+                {
+                    "Reply": "Thanks for all your help, Gerty.",
+                    "Didascalie": "",
+                    "Start": 165078,
+                    "End": 165111
+                },
+                {
+                    "Reply": "Thanks. Are you sure you're going to be ok?",
+                    "Didascalie": "",
+                    "Start": 165488,
+                    "End": 165577
+                },
+                {
+                    "Reply": "Gerty, I'm not programmed.",
+                    "Didascalie": "",
+                    "Start": 165857,
+                    "End": 165884
+                },
+                {
+                    "Reply": "Fuck!",
+                    "Didascalie": "",
+                    "Start": 168414,
+                    "End": 168420
                 }
             ]
         },
@@ -1505,6 +3264,39 @@
                     "Didascalie": "",
                     "Start": 95068,
                     "End": 95294
+                }
+            ]
+        },
+        {
+            "Character": "SAM 4",
+            "Replies": [
+                {
+                    "Reply": "...I've got blood coming out of my nose...",
+                    "Didascalie": "",
+                    "Start": 116776,
+                    "End": 116836
+                }
+            ]
+        },
+        {
+            "Character": "SAM 5",
+            "Replies": [
+                {
+                    "Reply": "I don't feel too well, Old Man.",
+                    "Didascalie": "",
+                    "Start": 116887,
+                    "End": 116919
+                }
+            ]
+        },
+        {
+            "Character": "SAM 6",
+            "Replies": [
+                {
+                    "Reply": "My hair's falling out...look it.",
+                    "Didascalie": "",
+                    "Start": 116970,
+                    "End": 117003
                 }
             ]
         },

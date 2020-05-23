@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "12 Monkeys",
-        "   "
-    ],
+    "Title": "12 Monkeys",
     "Author": [
-        "\u00a0\u00a0David Peoples\u00a0\u00a0Janet Peoples"
+        "David Peoples",
+        "Janet Peoples"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -432,12 +432,6 @@
                     "Didascalie": "",
                     "Start": 54522,
                     "End": 54563
-                },
-                {
-                    "Reply": "You were in a mental institution?!",
-                    "Didascalie": "(switching on the light)",
-                    "Start": 54610,
-                    "End": 54648
                 },
                 {
                     "Reply": "Where are you?",
@@ -4104,7 +4098,7 @@
             ]
         },
         {
-            "Character": "MADNESS AND APOCALYPTIC VISIONS",
+            "Character": "MAY 17",
             "Replies": [
                 {
                     "Reply": "A large screen dominates the auditorium stage.  On the screen is a slide of an engraving from the Middle Ages showing a MADMAN in apparent agony, his mouth shaped to a scream, as he is restrained by PEASANTS.  The projector ZOOMS slowly in on the agonized FACE of this MADMAN as we HEAR RAILLY'S VOICE lecturing.",

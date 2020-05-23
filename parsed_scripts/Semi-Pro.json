@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Semi-Pro",
-        "   "
-    ],
+    "Title": "Semi-Pro",
     "Author": [
-        "\u00a0\u00a0Scot Armstrong"
+        "Scot Armstrong"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2685,12 +2682,6 @@
                     "End": 17201
                 },
                 {
-                    "Reply": "FROM SOUTH BEND INDIANA, the man with a heart of gold, his brother's a retard, six foot one, he drives down to visit all the time, at forward, he reads to him, BEE BEE  ELLISSSSSSS!",
-                    "Didascalie": "",
-                    "Start": 17295,
-                    "End": 17527
-                },
-                {
                     "Reply": "YOUR MAN IN THE MIDDLE. Seven foot two, from the People's Republic of Uzbechistan, he's tall, he's sensitive -- loves candle light and long walks on the beach -- VAKIDIS  ROSCOVENSKIIIIIIII!",
                     "Didascalie": "",
                     "Start": 17619,
@@ -4599,23 +4590,6 @@
             ]
         },
         {
-            "Character": "A GIANT CHECK THAT SAYS TEN",
-            "Replies": [
-                {
-                    "Reply": "THOUSAND DOLLARS!",
-                    "Didascalie": "",
-                    "Start": 32810,
-                    "End": 32828
-                },
-                {
-                    "Reply": "LOOK AT THE SIZE OF THIS THING!",
-                    "Didascalie": "(faking it to the crowd)",
-                    "Start": 32862,
-                    "End": 32906
-                }
-            ]
-        },
-        {
             "Character": "KYLE",
             "Replies": [
                 {
@@ -6100,17 +6074,6 @@
                     "Didascalie": "",
                     "Start": 127494,
                     "End": 127651
-                }
-            ]
-        },
-        {
-            "Character": "TO FLINT MICHIGAN FAIRGROUNDS",
-            "Replies": [
-                {
-                    "Reply": "COLISEUM! EIGHT O'CLOCK!",
-                    "Didascalie": "",
-                    "Start": 127436,
-                    "End": 127461
                 }
             ]
         },

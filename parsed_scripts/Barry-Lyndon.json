@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Barry Lyndon",
-        "   "
-    ],
+    "Title": "Barry Lyndon",
     "Author": [
-        "\u00a0\u00a0Stanley Kubrick"
+        "Stanley Kubrick"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0War"
+        "Drama",
+        "Romance",
+        "War"
     ],
     "Characters": [
         {

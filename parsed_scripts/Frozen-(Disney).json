@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Frozen (Disney)",
-        "   "
-    ],
+    "Title": "Frozen (Disney)",
     "Author": [
-        "\u00a0\u00a0Jennifer Lee"
+        "Jennifer Lee"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Animation",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2226,12 +2225,6 @@
                     "End": 28669
                 },
                 {
-                    "Reply": "I KNOW IT ALL ENDS TOMORROW, SO IT HAS TO BE TODAY!!",
-                    "Didascalie": "",
-                    "Start": 29583,
-                    "End": 29654
-                },
-                {
                     "Reply": "Hey!",
                     "Didascalie": "(CONT'D) (frustrated)",
                     "Start": 30135,
@@ -3968,17 +3961,6 @@
             ]
         },
         {
-            "Character": "IT GETS A LITTLE LONELY",
-            "Replies": [
-                {
-                    "Reply": "ALL THESE EMPTY ROOMS.",
-                    "Didascalie": "",
-                    "Start": 16531,
-                    "End": 16554
-                }
-            ]
-        },
-        {
             "Character": "TEEN ANNA",
             "Replies": [
                 {
@@ -5068,17 +5050,6 @@
             ]
         },
         {
-            "Character": "A KINGDOM OF ISOLATION",
-            "Replies": [
-                {
-                    "Reply": "AND IT LOOKS LIKE I'M THE QUEEN.",
-                    "Didascalie": "",
-                    "Start": 60490,
-                    "End": 60523
-                }
-            ]
-        },
-        {
             "Character": "MY SOUL IS SPIRALING IN FROZEN",
             "Replies": [
                 {
@@ -6017,6 +5988,17 @@
                     "Didascalie": "",
                     "Start": 114891,
                     "End": 114901
+                }
+            ]
+        },
+        {
+            "Character": "NO ESCAPE",
+            "Replies": [
+                {
+                    "Reply": "FROM THE STORM INSIDE OF ME!",
+                    "Didascalie": "",
+                    "Start": 117335,
+                    "End": 117364
                 }
             ]
         },

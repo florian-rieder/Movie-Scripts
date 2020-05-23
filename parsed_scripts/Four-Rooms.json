@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Four Rooms",
-        "   "
-    ],
+    "Title": "Four Rooms",
     "Author": [
-        "\u00a0\u00a0Allison Anders\u00a0\u00a0Quentin Tarantino\u00a0\u00a0Robert Rodriguez\u00a0\u00a0Alexandre Rockwell"
+        "Allison Anders",
+        "Quentin Tarantino",
+        "Robert Rodriguez",
+        "Alexandre Rockwell"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2274,23 +2275,6 @@
             ]
         },
         {
-            "Character": "FADE TO BLACK",
-            "Replies": [
-                {
-                    "Reply": "STORY TITLE CARD:  ROOM 321 \"STRANGE BREW\"",
-                    "Didascalie": "",
-                    "Start": 19208,
-                    "End": 19330
-                },
-                {
-                    "Reply": "STORY TITLE CARD:  ROOM 716 \"THE MISBEHAVERS\"",
-                    "Didascalie": "",
-                    "Start": 136501,
-                    "End": 136624
-                }
-            ]
-        },
-        {
             "Character": "ATHENA",
             "Replies": [
                 {
@@ -2896,12 +2880,6 @@
                     "Didascalie": "(seduced now)",
                     "Start": 37081,
                     "End": 37113
-                },
-                {
-                    "Reply": "I WANT ROOM SERVICE!!",
-                    "Didascalie": "",
-                    "Start": 40259,
-                    "End": 40281
                 },
                 {
                     "Reply": "Oh wow -- if they were really back-",
@@ -5987,17 +5965,6 @@
                     "Didascalie": "",
                     "Start": 244940,
                     "End": 244946
-                }
-            ]
-        },
-        {
-            "Character": "FLASHBACK",
-            "Replies": [
-                {
-                    "Reply": "We see a quick MONTAGE of horrendous moments from all the other stories.",
-                    "Didascalie": "",
-                    "Start": 245168,
-                    "End": 245257
                 }
             ]
         },

@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "Wall-E",
-        "   "
-    ],
+    "Title": "Wall-E",
     "Author": [
-        "\u00a0\u00a0Andrew Stanton\u00a0\u00a0Pete Docter"
+        "Andrew Stanton",
+        "Pete Docter"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Family\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -502,23 +506,6 @@
                     "Didascalie": "",
                     "Start": 132175,
                     "End": 132279
-                }
-            ]
-        },
-        {
-            "Character": "A RED DOT",
-            "Replies": [
-                {
-                    "Reply": "quivers on the dirt.",
-                    "Didascalie": "",
-                    "Start": 13547,
-                    "End": 13568
-                },
-                {
-                    "Reply": "appears on the ground.",
-                    "Didascalie": "",
-                    "Start": 175420,
-                    "End": 175443
                 }
             ]
         },
@@ -1023,17 +1010,6 @@
                     "Didascalie": "",
                     "Start": 184168,
                     "End": 184183
-                }
-            ]
-        },
-        {
-            "Character": "A HUMAN PASSENGER",
-            "Replies": [
-                {
-                    "Reply": "sitting, reclined, in the chair.",
-                    "Didascalie": "",
-                    "Start": 49539,
-                    "End": 49572
                 }
             ]
         },
@@ -2224,17 +2200,6 @@
                     "Didascalie": "",
                     "Start": 142397,
                     "End": 142427
-                }
-            ]
-        },
-        {
-            "Character": "A YELLOW LINE",
-            "Replies": [
-                {
-                    "Reply": "painted haphazardly on the floor.",
-                    "Didascalie": "",
-                    "Start": 150416,
-                    "End": 150450
                 }
             ]
         },

@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "9",
-        "   "
-    ],
+    "Title": "9",
     "Author": [
-        "\u00a0\u00a0Pamela Pettler\u00a0\u00a0Shane Acker"
+        "Pamela Pettler",
+        "Shane Acker"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -136,17 +138,6 @@
                     "Didascalie": "(V.O.) (through static)",
                     "Start": 10067,
                     "End": 10123
-                }
-            ]
-        },
-        {
-            "Character": "DAYLIGHT",
-            "Replies": [
-                {
-                    "Reply": ". ..he is on the tabletop in the RUINS OF A SMALL ROOM.",
-                    "Didascalie": "",
-                    "Start": 13248,
-                    "End": 13315
                 }
             ]
         },

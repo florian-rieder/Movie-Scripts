@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Birthday Girl",
-        "   "
-    ],
+    "Title": "Birthday Girl",
     "Author": [
-        "\u00a0\u00a0Tom Butterworth\u00a0\u00a0Jez Butterworth"
+        "Tom Butterworth",
+        "Jez Butterworth"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Crime"
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Crime"
     ],
     "Characters": [
         {
@@ -3600,6 +3601,40 @@
                     "Didascalie": "",
                     "Start": 164330,
                     "End": 164354
+                }
+            ]
+        },
+        {
+            "Character": "POLICE 1",
+            "Replies": [
+                {
+                    "Reply": "Excuse me Sir...",
+                    "Didascalie": "",
+                    "Start": 165839,
+                    "End": 165856
+                },
+                {
+                    "Reply": "He doesn't speak English. He's epileptic or something.",
+                    "Didascalie": "",
+                    "Start": 166079,
+                    "End": 166160
+                }
+            ]
+        },
+        {
+            "Character": "POLICE 2",
+            "Replies": [
+                {
+                    "Reply": "Okay. Come with us now.",
+                    "Didascalie": "",
+                    "Start": 165983,
+                    "End": 166007
+                },
+                {
+                    "Reply": "Can he walk? Can you walk?",
+                    "Didascalie": "",
+                    "Start": 166232,
+                    "End": 166259
                 }
             ]
         },

@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "Cellular",
-        "   "
-    ],
+    "Title": "Cellular",
     "Author": [
-        "\u00a0\u00a0Larry Cohen\u00a0\u00a0Chris Morgan\u00a0\u00a0J. Mackye Gruber\u00a0\u00a0Eric Bress"
+        "Larry Cohen",
+        "Chris Morgan",
+        "J. Mackye Gruber",
+        "Eric Bress"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3587,12 +3591,6 @@
                     "End": 134809
                 },
                 {
-                    "Reply": "LYING BITCH! ! WHO WAS THAT KID IN  THE MAIL ROOM?!",
-                    "Didascalie": "",
-                    "Start": 191747,
-                    "End": 191816
-                },
-                {
                     "Reply": "Really?",
                     "Didascalie": "",
                     "Start": 193815,
@@ -3838,17 +3836,6 @@
                     "Didascalie": "",
                     "Start": 191921,
                     "End": 191949
-                }
-            ]
-        },
-        {
-            "Character": "A CITY BUS",
-            "Replies": [
-                {
-                    "Reply": "merges into traffic from a Bus Stop right ahead of him!",
-                    "Didascalie": "",
-                    "Start": 60829,
-                    "End": 60885
                 }
             ]
         },

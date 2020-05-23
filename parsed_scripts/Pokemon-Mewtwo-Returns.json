@@ -1,13 +1,1611 @@
 {
-    "Title": [
-        "Pokemon: Mewtwo Returns",
-        "   "
-    ],
+    "Title": "Pokemon: Mewtwo Returns",
     "Author": [
-        "\u00a0\u00a0Masamitsu Hidaka"
+        "Masamitsu Hidaka"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Family\u00a0\u00a0Fantasy"
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "VOICE",
+            "Replies": [
+                {
+                    "Reply": "Who are you? Wait! Am I apart of you...? Or not...?",
+                    "Didascalie": "(Mew swims by)",
+                    "Start": 427,
+                    "End": 480
+                },
+                {
+                    "Reply": "Where is this? Who am I? Who brought me here?",
+                    "Didascalie": "(Camera goes into a darker place with orange bubbles then it shows someone's eye open. Human figures are seen outside where he is.)",
+                    "Start": 614,
+                    "End": 661
+                }
+            ]
+        },
+        {
+            "Character": "MEWTWO",
+            "Replies": [
+                {
+                    "Reply": "Who am I and why am I here? I just appeared here. I haven't even been born to this world yet. Who am I?",
+                    "Didascalie": "",
+                    "Start": 724,
+                    "End": 829
+                },
+                {
+                    "Reply": "Mewtwo?",
+                    "Didascalie": "",
+                    "Start": 1035,
+                    "End": 1043
+                },
+                {
+                    "Reply": "Mew? Is that my parent? My father? My mother?",
+                    "Didascalie": "",
+                    "Start": 1217,
+                    "End": 1263
+                },
+                {
+                    "Reply": "Who is this? If neither my father nor mother. Then was it god? Did God create me?",
+                    "Didascalie": "",
+                    "Start": 1359,
+                    "End": 1442
+                },
+                {
+                    "Reply": "Who did this? Humans made me?",
+                    "Didascalie": "",
+                    "Start": 1530,
+                    "End": 1560
+                },
+                {
+                    "Reply": "Who am I? Where is this place? What was I born for?",
+                    "Didascalie": "",
+                    "Start": 1833,
+                    "End": 1885
+                },
+                {
+                    "Reply": "I stronger then you?",
+                    "Didascalie": "",
+                    "Start": 2326,
+                    "End": 2347
+                },
+                {
+                    "Reply": "The humans?",
+                    "Didascalie": "",
+                    "Start": 2467,
+                    "End": 2479
+                },
+                {
+                    "Reply": "The world would be ours?",
+                    "Didascalie": "",
+                    "Start": 2578,
+                    "End": 2603
+                },
+                {
+                    "Reply": "Control?",
+                    "Didascalie": "",
+                    "Start": 2704,
+                    "End": 2713
+                },
+                {
+                    "Reply": "Control myself with the armor that protects me? What are you going to make me do?",
+                    "Didascalie": "",
+                    "Start": 2893,
+                    "End": 2976
+                },
+                {
+                    "Reply": "and that is?",
+                    "Didascalie": "",
+                    "Start": 3074,
+                    "End": 3087
+                },
+                {
+                    "Reply": "What am I fighting for? What am I living for?",
+                    "Didascalie": "",
+                    "Start": 3838,
+                    "End": 3884
+                },
+                {
+                    "Reply": "My worth? Who am I? What do I live for?",
+                    "Didascalie": "",
+                    "Start": 3973,
+                    "End": 4013
+                },
+                {
+                    "Reply": "Who am I? Where is this place? Who asked to make me? Who wished to make me? I hate everything that made me! So this is neither an attack not a declaration of war but revenge on you who made me!",
+                    "Didascalie": "(Mewtwo blows up the place and flies off while all his armor slowly falls of into the sea. He lands on a rock.)",
+                    "Start": 4289,
+                    "End": 4486
+                },
+                {
+                    "Reply": "Certainly.",
+                    "Didascalie": "",
+                    "Start": 7033,
+                    "End": 7044
+                },
+                {
+                    "Reply": "I've decided my own rules.",
+                    "Didascalie": "",
+                    "Start": 14641,
+                    "End": 14668
+                },
+                {
+                    "Reply": "I no longer have any need for you anymore.",
+                    "Didascalie": "(looks at Joy)",
+                    "Start": 14993,
+                    "End": 15037
+                },
+                {
+                    "Reply": "quite useful. You don't remember anything though.",
+                    "Didascalie": "",
+                    "Start": 15273,
+                    "End": 15323
+                },
+                {
+                    "Reply": "Humans can be manipulated in any way with my power.",
+                    "Didascalie": "",
+                    "Start": 15356,
+                    "End": 15408
+                },
+                {
+                    "Reply": "What did you say? You're not being controlled? You're with the humans because you want to be? To be with them by itself is wrong.",
+                    "Didascalie": "",
+                    "Start": 17690,
+                    "End": 17822
+                },
+                {
+                    "Reply": "world.",
+                    "Didascalie": "",
+                    "Start": 18377,
+                    "End": 18384
+                },
+                {
+                    "Reply": "You wan to try?",
+                    "Didascalie": "",
+                    "Start": 18432,
+                    "End": 18448
+                },
+                {
+                    "Reply": "Charizard, Blastoise, Venusaur.",
+                    "Didascalie": "",
+                    "Start": 18896,
+                    "End": 18928
+                },
+                {
+                    "Reply": "What a bad tempered Charizard. So who's first?",
+                    "Didascalie": "",
+                    "Start": 19604,
+                    "End": 19651
+                },
+                {
+                    "Reply": "Vine Whip.",
+                    "Didascalie": "",
+                    "Start": 19821,
+                    "End": 19832
+                },
+                {
+                    "Reply": "Dive Bomb Slam!",
+                    "Didascalie": "",
+                    "Start": 20684,
+                    "End": 20700
+                },
+                {
+                    "Reply": "Both speed and power are lacking.",
+                    "Didascalie": "",
+                    "Start": 20848,
+                    "End": 20882
+                },
+                {
+                    "Reply": "It's suitable enough for me.",
+                    "Didascalie": "",
+                    "Start": 21375,
+                    "End": 21404
+                },
+                {
+                    "Reply": "I've decided my own rules.",
+                    "Didascalie": "(Mewtwo looks at Ash and throws him into Brock)",
+                    "Start": 21546,
+                    "End": 21574
+                },
+                {
+                    "Reply": "It's no use.",
+                    "Didascalie": "",
+                    "Start": 22474,
+                    "End": 22487
+                },
+                {
+                    "Reply": "Nurse Joy This place is no good. Let's run outside!",
+                    "Didascalie": "(Misty puts Togepy in her bag and shuts it tight while Brock holds Vulpix close.)",
+                    "Start": 22730,
+                    "End": 22784
+                },
+                {
+                    "Reply": "Humans, I won't take your lives too. Leave here.",
+                    "Didascalie": "",
+                    "Start": 25183,
+                    "End": 25232
+                },
+                {
+                    "Reply": "That is if you an make it out in that storm.",
+                    "Didascalie": "",
+                    "Start": 25269,
+                    "End": 25314
+                },
+                {
+                    "Reply": "What happened here?",
+                    "Didascalie": "",
+                    "Start": 25397,
+                    "End": 25417
+                },
+                {
+                    "Reply": "Did you set them free?",
+                    "Didascalie": "",
+                    "Start": 25628,
+                    "End": 25651
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 26041,
+                    "End": 26047
+                },
+                {
+                    "Reply": "world.",
+                    "Didascalie": "",
+                    "Start": 26732,
+                    "End": 26739
+                },
+                {
+                    "Reply": "I was made from you. But I am the stronger one...I am the true one.",
+                    "Didascalie": "",
+                    "Start": 26812,
+                    "End": 26881
+                },
+                {
+                    "Reply": "Your attacks are ineffective against me. Now is the time to decide which one of us is the true one, you the copy... which is the stronger? We were made stronger than the real ones.",
+                    "Didascalie": "",
+                    "Start": 27679,
+                    "End": 27862
+                },
+                {
+                    "Reply": "Nurse Joy What is this fighting? Both the real ones and copies are alive now.",
+                    "Didascalie": "",
+                    "Start": 28720,
+                    "End": 28799
+                },
+                {
+                    "Reply": "It might be better if no one knows about us, or any of this...",
+                    "Didascalie": "",
+                    "Start": 31352,
+                    "End": 31415
+                },
+                {
+                    "Reply": "Officer Jenny The ferry has been canceled! There's a hurricane coming!",
+                    "Didascalie": "(All of a sudden the whole castle fills up with bright light and everyone disappears......... Now we are back where all the trainers what to go on the ferry.)",
+                    "Start": 31851,
+                    "End": 31924
+                }
+            ]
+        },
+        {
+            "Character": "SCIENTIST",
+            "Replies": [
+                {
+                    "Reply": "It has awakened!",
+                    "Didascalie": "",
+                    "Start": 931,
+                    "End": 948
+                },
+                {
+                    "Reply": "Wonderful! Mewtwo has been completed.",
+                    "Didascalie": "",
+                    "Start": 984,
+                    "End": 1022
+                },
+                {
+                    "Reply": "You can say that, but not really. You've been made stronger based on a Mew.",
+                    "Didascalie": "",
+                    "Start": 1274,
+                    "End": 1351
+                },
+                {
+                    "Reply": "In the world the only ones that can create new life is man and god.",
+                    "Didascalie": "",
+                    "Start": 1453,
+                    "End": 1522
+                },
+                {
+                    "Reply": "This is truly a victory for science.",
+                    "Didascalie": "",
+                    "Start": 1571,
+                    "End": 1608
+                },
+                {
+                    "Reply": "I'm going to contact the other offices.",
+                    "Didascalie": "(all shaking hands)",
+                    "Start": 1784,
+                    "End": 1825
+                }
+            ]
+        },
+        {
+            "Character": "GIOVANNI",
+            "Replies": [
+                {
+                    "Reply": "another that would be the strongest.",
+                    "Didascalie": "",
+                    "Start": 2422,
+                    "End": 2459
+                },
+                {
+                    "Reply": "If you and a human were to cooperate then the world would be ours.",
+                    "Didascalie": "(nods)",
+                    "Start": 2497,
+                    "End": 2566
+                },
+                {
+                    "Reply": "If your power is set free the world would be ruined. You must control your power.",
+                    "Didascalie": "",
+                    "Start": 2613,
+                    "End": 2696
+                },
+                {
+                    "Reply": "Are you okay with destroying the world as it is with that power?",
+                    "Didascalie": "",
+                    "Start": 2723,
+                    "End": 2788
+                },
+                {
+                    "Reply": "It's simple. All you have to do are the things everyone else has been doing...",
+                    "Didascalie": "",
+                    "Start": 2986,
+                    "End": 3066
+                },
+                {
+                    "Reply": "Fighting, destruction, and plunder. The stronger will win.",
+                    "Didascalie": "",
+                    "Start": 3097,
+                    "End": 3156
+                },
+                {
+                    "Reply": "worth?",
+                    "Didascalie": "",
+                    "Start": 3958,
+                    "End": 3965
+                },
+                {
+                    "Reply": "What are you doing?",
+                    "Didascalie": "",
+                    "Start": 4067,
+                    "End": 4087
+                }
+            ]
+        },
+        {
+            "Character": "INTRODUCTION",
+            "Replies": [
+                {
+                    "Reply": "----------------------------------------------------",
+                    "Didascalie": "",
+                    "Start": 4553,
+                    "End": 4606
+                }
+            ]
+        },
+        {
+            "Character": "NARRATOR",
+            "Replies": [
+                {
+                    "Reply": "masters. It's a beautiful day so they take a break in a field.",
+                    "Didascalie": "",
+                    "Start": 4719,
+                    "End": 4782
+                }
+            ]
+        },
+        {
+            "Character": "ASH",
+            "Replies": [
+                {
+                    "Reply": "Is it ready yet?",
+                    "Didascalie": "",
+                    "Start": 4787,
+                    "End": 4804
+                },
+                {
+                    "Reply": "I can't I can't even move one millimeter because I'm so starved.",
+                    "Didascalie": "",
+                    "Start": 4838,
+                    "End": 4903
+                },
+                {
+                    "Reply": "That's right.",
+                    "Didascalie": "",
+                    "Start": 5106,
+                    "End": 5120
+                },
+                {
+                    "Reply": "Okay! I must have a solid fight!",
+                    "Didascalie": "(runs over to him)",
+                    "Start": 5192,
+                    "End": 5226
+                },
+                {
+                    "Reply": "I did it!",
+                    "Didascalie": "",
+                    "Start": 6217,
+                    "End": 6227
+                },
+                {
+                    "Reply": "This? For me?",
+                    "Didascalie": "(Dragonite hands Ash an invitation)",
+                    "Start": 7307,
+                    "End": 7322
+                },
+                {
+                    "Reply": "I don't feel uncomfortable with being told I'm a promising future trainer.",
+                    "Didascalie": "",
+                    "Start": 7901,
+                    "End": 7977
+                },
+                {
+                    "Reply": "It was a beautiful day!",
+                    "Didascalie": "",
+                    "Start": 8844,
+                    "End": 8868
+                },
+                {
+                    "Reply": "What do you mean?",
+                    "Didascalie": "",
+                    "Start": 10001,
+                    "End": 10019
+                },
+                {
+                    "Reply": "Across the sea lives the strongest trainer in the world. I can't cop out now.",
+                    "Didascalie": "",
+                    "Start": 10817,
+                    "End": 10896
+                },
+                {
+                    "Reply": "Right.",
+                    "Didascalie": "",
+                    "Start": 10956,
+                    "End": 10963
+                },
+                {
+                    "Reply": "You guys! You guys again?!",
+                    "Didascalie": "",
+                    "Start": 11327,
+                    "End": 11354
+                },
+                {
+                    "Reply": "What do you want?",
+                    "Didascalie": "",
+                    "Start": 11407,
+                    "End": 11425
+                },
+                {
+                    "Reply": "Hold on tight everyone!",
+                    "Didascalie": "",
+                    "Start": 11814,
+                    "End": 11838
+                },
+                {
+                    "Reply": "How's this?",
+                    "Didascalie": "",
+                    "Start": 12134,
+                    "End": 12146
+                },
+                {
+                    "Reply": ".  B rock That was you just as I thought!",
+                    "Didascalie": "(He shows her)",
+                    "Start": 12161,
+                    "End": 12203
+                },
+                {
+                    "Reply": "Only 3?",
+                    "Didascalie": "",
+                    "Start": 12846,
+                    "End": 12854
+                },
+                {
+                    "Reply": "You?",
+                    "Didascalie": "",
+                    "Start": 13600,
+                    "End": 13605
+                },
+                {
+                    "Reply": "Mewtwo?",
+                    "Didascalie": "",
+                    "Start": 14498,
+                    "End": 14506
+                },
+                {
+                    "Reply": "Pikachu!",
+                    "Didascalie": "",
+                    "Start": 17935,
+                    "End": 17944
+                },
+                {
+                    "Reply": "Yeah. How dare you attack Pikachu?!",
+                    "Didascalie": "",
+                    "Start": 18011,
+                    "End": 18047
+                },
+                {
+                    "Reply": "You don't know that before we try.",
+                    "Didascalie": "",
+                    "Start": 18389,
+                    "End": 18424
+                },
+                {
+                    "Reply": "We can ask for nothing better.",
+                    "Didascalie": "",
+                    "Start": 18453,
+                    "End": 18484
+                },
+                {
+                    "Reply": "I've got Charizard too. Charizard I chose you!",
+                    "Didascalie": "",
+                    "Start": 19306,
+                    "End": 19353
+                },
+                {
+                    "Reply": "I know.",
+                    "Didascalie": "",
+                    "Start": 20261,
+                    "End": 20269
+                },
+                {
+                    "Reply": "Charizard! Lets fight with speed not power! Okay go!",
+                    "Didascalie": "",
+                    "Start": 20316,
+                    "End": 20369
+                },
+                {
+                    "Reply": "Charizard!",
+                    "Didascalie": "",
+                    "Start": 20665,
+                    "End": 20676
+                },
+                {
+                    "Reply": "Hold on Charizard! Are you okay?",
+                    "Didascalie": "(Runs out to Charizard)",
+                    "Start": 20806,
+                    "End": 20840
+                },
+                {
+                    "Reply": "STOP!",
+                    "Didascalie": "",
+                    "Start": 21151,
+                    "End": 21157
+                },
+                {
+                    "Reply": "Stop! That's a violation of the rules!",
+                    "Didascalie": "",
+                    "Start": 21424,
+                    "End": 21463
+                },
+                {
+                    "Reply": "Run everyone!",
+                    "Didascalie": "",
+                    "Start": 21681,
+                    "End": 21695
+                },
+                {
+                    "Reply": "I'm sorry, I don't have time to deal with you today!",
+                    "Didascalie": "",
+                    "Start": 24064,
+                    "End": 24117
+                },
+                {
+                    "Reply": "Pikachu!",
+                    "Didascalie": "(All the hands break and the whole copy machine starts blowing up and Pikachu comes out of his ball.)",
+                    "Start": 24465,
+                    "End": 24475
+                },
+                {
+                    "Reply": "Those are all copies?",
+                    "Didascalie": "",
+                    "Start": 24708,
+                    "End": 24730
+                },
+                {
+                    "Reply": "I can not forgive...! I will not forgive you!",
+                    "Didascalie": "",
+                    "Start": 25492,
+                    "End": 25538
+                },
+                {
+                    "Reply": "That's Enough! Stop!",
+                    "Didascalie": "(looks at everyone fighting and getting so tired)",
+                    "Start": 29975,
+                    "End": 29997
+                },
+                {
+                    "Reply": "I've got to stop them.",
+                    "Didascalie": "",
+                    "Start": 30014,
+                    "End": 30037
+                },
+                {
+                    "Reply": "Stop!",
+                    "Didascalie": "",
+                    "Start": 30705,
+                    "End": 30711
+                },
+                {
+                    "Reply": "Pikachu!",
+                    "Didascalie": "",
+                    "Start": 31240,
+                    "End": 31249
+                },
+                {
+                    "Reply": "Why are you going everyone?",
+                    "Didascalie": "",
+                    "Start": 31542,
+                    "End": 31570
+                },
+                {
+                    "Reply": "But why are we here?",
+                    "Didascalie": "",
+                    "Start": 32182,
+                    "End": 32203
+                },
+                {
+                    "Reply": "It can't be...",
+                    "Didascalie": "(Everyone runs outside)",
+                    "Start": 32317,
+                    "End": 32333
+                },
+                {
+                    "Reply": "Look.",
+                    "Didascalie": "(looks up and sees a mew in the sky)",
+                    "Start": 32485,
+                    "End": 32492
+                }
+            ]
+        },
+        {
+            "Character": "MISTY",
+            "Replies": [
+                {
+                    "Reply": "Ash you can help too.",
+                    "Didascalie": "",
+                    "Start": 4811,
+                    "End": 4833
+                },
+                {
+                    "Reply": "I thought you couldn't move one millimeter?",
+                    "Didascalie": "",
+                    "Start": 5233,
+                    "End": 5277
+                },
+                {
+                    "Reply": "It was just because your opponent was weak.",
+                    "Didascalie": "",
+                    "Start": 6234,
+                    "End": 6278
+                },
+                {
+                    "Reply": "What do we do?",
+                    "Didascalie": "",
+                    "Start": 7837,
+                    "End": 7852
+                },
+                {
+                    "Reply": "Well then check yes on the card.",
+                    "Didascalie": "",
+                    "Start": 7984,
+                    "End": 8017
+                },
+                {
+                    "Reply": "Where is Ash and Pikachu?!",
+                    "Didascalie": "",
+                    "Start": 11688,
+                    "End": 11715
+                },
+                {
+                    "Reply": "That reminds me, she looks like her.",
+                    "Didascalie": "",
+                    "Start": 12311,
+                    "End": 12348
+                },
+                {
+                    "Reply": "That voice!",
+                    "Didascalie": "",
+                    "Start": 14675,
+                    "End": 14687
+                },
+                {
+                    "Reply": "With what power?",
+                    "Didascalie": "",
+                    "Start": 15415,
+                    "End": 15432
+                },
+                {
+                    "Reply": "Ash! Are you ok?",
+                    "Didascalie": "",
+                    "Start": 17989,
+                    "End": 18006
+                },
+                {
+                    "Reply": "Be careful Ash! His skills are strong!",
+                    "Didascalie": "",
+                    "Start": 20217,
+                    "End": 20256
+                },
+                {
+                    "Reply": "Where are the speed attacks?",
+                    "Didascalie": "",
+                    "Start": 20527,
+                    "End": 20556
+                },
+                {
+                    "Reply": "My Psyduck!",
+                    "Didascalie": "",
+                    "Start": 22883,
+                    "End": 22895
+                },
+                {
+                    "Reply": "Psyduck!",
+                    "Didascalie": "(sees Psyduck)",
+                    "Start": 25579,
+                    "End": 25589
+                },
+                {
+                    "Reply": "Ash!",
+                    "Didascalie": "",
+                    "Start": 25847,
+                    "End": 25852
+                },
+                {
+                    "Reply": "The real ones and the copies... But both of them are the same living things. There's no such thing as a win and losing.",
+                    "Didascalie": "",
+                    "Start": 28923,
+                    "End": 29044
+                },
+                {
+                    "Reply": "oh no.",
+                    "Didascalie": "",
+                    "Start": 30197,
+                    "End": 30204
+                },
+                {
+                    "Reply": "I don't know. We're here because we're here.",
+                    "Didascalie": "",
+                    "Start": 32210,
+                    "End": 32255
+                },
+                {
+                    "Reply": "What? I can't see anything.",
+                    "Didascalie": "",
+                    "Start": 32499,
+                    "End": 32527
+                }
+            ]
+        },
+        {
+            "Character": "BROCK",
+            "Replies": [
+                {
+                    "Reply": "This is lunch, so that would be before lunch.",
+                    "Didascalie": "",
+                    "Start": 5339,
+                    "End": 5385
+                },
+                {
+                    "Reply": "What a beautiful lady...",
+                    "Didascalie": "",
+                    "Start": 7436,
+                    "End": 7461
+                },
+                {
+                    "Reply": "Beautiful Lady...",
+                    "Didascalie": "",
+                    "Start": 7812,
+                    "End": 7830
+                },
+                {
+                    "Reply": "Lets go for it. We should go for it.",
+                    "Didascalie": "",
+                    "Start": 7859,
+                    "End": 7896
+                },
+                {
+                    "Reply": "The weather along this beach can change easily.",
+                    "Didascalie": "",
+                    "Start": 8875,
+                    "End": 8923
+                },
+                {
+                    "Reply": "Beautiful... Who? I've seen her somewhere before...",
+                    "Didascalie": "",
+                    "Start": 10212,
+                    "End": 10264
+                },
+                {
+                    "Reply": "Officer Jenny Stop! Stop or I'll arrest you!",
+                    "Didascalie": "(Some of the trainers go outside in the storm wanting to cross the ocean. Soroa gets onto his Pidgeot and flies off. Umio gets on his Gyarados and swims across.)",
+                    "Start": 10428,
+                    "End": 10475
+                },
+                {
+                    "Reply": "You guys appear at the very worst times!",
+                    "Didascalie": "",
+                    "Start": 11361,
+                    "End": 11402
+                },
+                {
+                    "Reply": "Ash! Misty!",
+                    "Didascalie": "",
+                    "Start": 11625,
+                    "End": 11637
+                },
+                {
+                    "Reply": "That picture of Nurse Joy I saw in the missing person report at the pier was you.",
+                    "Didascalie": "",
+                    "Start": 12221,
+                    "End": 12304
+                },
+                {
+                    "Reply": "So then you tested us?",
+                    "Didascalie": "",
+                    "Start": 12933,
+                    "End": 12956
+                },
+                {
+                    "Reply": "Telepathy!",
+                    "Didascalie": "",
+                    "Start": 14694,
+                    "End": 14705
+                },
+                {
+                    "Reply": "Nurse Joy.",
+                    "Didascalie": "",
+                    "Start": 15076,
+                    "End": 15087
+                },
+                {
+                    "Reply": "What did you say?",
+                    "Didascalie": "",
+                    "Start": 15330,
+                    "End": 15348
+                },
+                {
+                    "Reply": "Are you saying like your gonna rule it?",
+                    "Didascalie": "",
+                    "Start": 17473,
+                    "End": 17513
+                },
+                {
+                    "Reply": "The enemy is to fast!",
+                    "Didascalie": "",
+                    "Start": 20563,
+                    "End": 20585
+                },
+                {
+                    "Reply": "Copies?",
+                    "Didascalie": "",
+                    "Start": 21411,
+                    "End": 21419
+                },
+                {
+                    "Reply": "They're Coming!",
+                    "Didascalie": "",
+                    "Start": 21660,
+                    "End": 21676
+                },
+                {
+                    "Reply": "Vulpix!",
+                    "Didascalie": "",
+                    "Start": 22934,
+                    "End": 22942
+                },
+                {
+                    "Reply": "Vulpix!",
+                    "Didascalie": "(sees Vulpix)",
+                    "Start": 25611,
+                    "End": 25620
+                },
+                {
+                    "Reply": "Stop!",
+                    "Didascalie": "",
+                    "Start": 25859,
+                    "End": 25865
+                },
+                {
+                    "Reply": "That's...",
+                    "Didascalie": "",
+                    "Start": 26593,
+                    "End": 26603
+                },
+                {
+                    "Reply": "Mew and Mewtwo.",
+                    "Didascalie": "",
+                    "Start": 26967,
+                    "End": 26983
+                },
+                {
+                    "Reply": "Though they were created, there are living beings that live in this world.",
+                    "Didascalie": "",
+                    "Start": 28840,
+                    "End": 28916
+                },
+                {
+                    "Reply": "Ash!",
+                    "Didascalie": "",
+                    "Start": 30004,
+                    "End": 30009
+                },
+                {
+                    "Reply": "No. The battle will continue unless Mew and Mewtwo stop fighting.",
+                    "Didascalie": "",
+                    "Start": 30044,
+                    "End": 30110
+                },
+                {
+                    "Reply": "That may be for living beings but Mewtwo was made by humans.",
+                    "Didascalie": "",
+                    "Start": 30312,
+                    "End": 30373
+                },
+                {
+                    "Reply": "Nurse Joy, the officer, and Ms. Boijer. Even more beautiful than usual when they are wet by the rain.",
+                    "Didascalie": "",
+                    "Start": 32074,
+                    "End": 32177
+                },
+                {
+                    "Reply": "Besides the clouds.",
+                    "Didascalie": "",
+                    "Start": 32534,
+                    "End": 32554
+                }
+            ]
+        },
+        {
+            "Character": "PIRATE",
+            "Replies": [
+                {
+                    "Reply": "Hey you! The boy over there! Are you Ash from Pallet Town?",
+                    "Didascalie": "",
+                    "Start": 5042,
+                    "End": 5101
+                }
+            ]
+        },
+        {
+            "Character": "PIKACHU",
+            "Replies": [
+                {
+                    "Reply": "pika..chu...",
+                    "Didascalie": "",
+                    "Start": 5394,
+                    "End": 5407
+                },
+                {
+                    "Reply": "PIKA!",
+                    "Didascalie": "",
+                    "Start": 15441,
+                    "End": 15447
+                },
+                {
+                    "Reply": "Pika..pika pika!",
+                    "Didascalie": "",
+                    "Start": 17665,
+                    "End": 17682
+                },
+                {
+                    "Reply": "pika!",
+                    "Didascalie": "",
+                    "Start": 17924,
+                    "End": 17930
+                },
+                {
+                    "Reply": "Pika!",
+                    "Didascalie": "",
+                    "Start": 24484,
+                    "End": 24490
+                },
+                {
+                    "Reply": "Pika pi!!",
+                    "Didascalie": "",
+                    "Start": 31258,
+                    "End": 31268
+                }
+            ]
+        },
+        {
+            "Character": "JAMES",
+            "Replies": [
+                {
+                    "Reply": "Pikachu gets stronger and stronger.",
+                    "Didascalie": "",
+                    "Start": 6389,
+                    "End": 6425
+                },
+                {
+                    "Reply": "The answer to that is..",
+                    "Didascalie": "",
+                    "Start": 11471,
+                    "End": 11495
+                },
+                {
+                    "Reply": "Well then, let's sneak into this castle...",
+                    "Didascalie": "(outside and the front door shuts)",
+                    "Start": 13099,
+                    "End": 13143
+                },
+                {
+                    "Reply": "What's wrong Jessie?",
+                    "Didascalie": "",
+                    "Start": 13422,
+                    "End": 13443
+                },
+                {
+                    "Reply": "Is it really?",
+                    "Didascalie": "",
+                    "Start": 15675,
+                    "End": 15689
+                },
+                {
+                    "Reply": "I think so.",
+                    "Didascalie": "",
+                    "Start": 17110,
+                    "End": 17122
+                },
+                {
+                    "Reply": "But there's nothing wrong with it.",
+                    "Didascalie": "",
+                    "Start": 17142,
+                    "End": 17177
+                },
+                {
+                    "Reply": "But who?",
+                    "Didascalie": "",
+                    "Start": 17229,
+                    "End": 17238
+                },
+                {
+                    "Reply": "Was that a..?",
+                    "Didascalie": "",
+                    "Start": 18799,
+                    "End": 18813
+                },
+                {
+                    "Reply": "The real ones have come out to!",
+                    "Didascalie": "",
+                    "Start": 24888,
+                    "End": 24920
+                },
+                {
+                    "Reply": "They're bullying themselves.",
+                    "Didascalie": "",
+                    "Start": 29133,
+                    "End": 29162
+                },
+                {
+                    "Reply": "Its like seeing what we are now.",
+                    "Didascalie": "",
+                    "Start": 29213,
+                    "End": 29246
+                },
+                {
+                    "Reply": "Clean and clear...",
+                    "Didascalie": "",
+                    "Start": 32834,
+                    "End": 32853
+                }
+            ]
+        },
+        {
+            "Character": "JESSIE",
+            "Replies": [
+                {
+                    "Reply": "I will get that Pikachu.",
+                    "Didascalie": "",
+                    "Start": 6540,
+                    "End": 6565
+                },
+                {
+                    "Reply": "I got a frying pan...",
+                    "Didascalie": "",
+                    "Start": 6650,
+                    "End": 6672
+                },
+                {
+                    "Reply": "Don't say Goodbye without saying hello.",
+                    "Didascalie": "",
+                    "Start": 8266,
+                    "End": 8306
+                },
+                {
+                    "Reply": "If we're asked what we want...",
+                    "Didascalie": "",
+                    "Start": 11433,
+                    "End": 11464
+                },
+                {
+                    "Reply": "The only way is to use the exit.",
+                    "Didascalie": "",
+                    "Start": 13151,
+                    "End": 13184
+                },
+                {
+                    "Reply": "Over there...",
+                    "Didascalie": "",
+                    "Start": 13218,
+                    "End": 13232
+                },
+                {
+                    "Reply": "Don't complain!",
+                    "Didascalie": "",
+                    "Start": 13287,
+                    "End": 13303
+                },
+                {
+                    "Reply": "Nothing lets go.",
+                    "Didascalie": "",
+                    "Start": 13451,
+                    "End": 13468
+                },
+                {
+                    "Reply": "These aren't like any treasures I've seen.",
+                    "Didascalie": "",
+                    "Start": 15697,
+                    "End": 15740
+                },
+                {
+                    "Reply": "Meowth!",
+                    "Didascalie": "",
+                    "Start": 16053,
+                    "End": 16061
+                },
+                {
+                    "Reply": "This is the research office?",
+                    "Didascalie": "",
+                    "Start": 17074,
+                    "End": 17103
+                },
+                {
+                    "Reply": "Or maybe something created it again.",
+                    "Didascalie": "",
+                    "Start": 17185,
+                    "End": 17222
+                },
+                {
+                    "Reply": "Mew?",
+                    "Didascalie": "",
+                    "Start": 18821,
+                    "End": 18826
+                },
+                {
+                    "Reply": "Brat?",
+                    "Didascalie": "",
+                    "Start": 24053,
+                    "End": 24059
+                },
+                {
+                    "Reply": "Oh no! There coming out!",
+                    "Didascalie": "",
+                    "Start": 24658,
+                    "End": 24683
+                },
+                {
+                    "Reply": "Where are they all going?",
+                    "Didascalie": "",
+                    "Start": 24738,
+                    "End": 24764
+                },
+                {
+                    "Reply": "What is it saying?",
+                    "Didascalie": "",
+                    "Start": 27936,
+                    "End": 27955
+                },
+                {
+                    "Reply": "Its like seeing what we used to be.",
+                    "Didascalie": "",
+                    "Start": 29170,
+                    "End": 29206
+                },
+                {
+                    "Reply": "Well if its this empty...",
+                    "Didascalie": "",
+                    "Start": 32801,
+                    "End": 32827
+                }
+            ]
+        },
+        {
+            "Character": "MEOWTH",
+            "Replies": [
+                {
+                    "Reply": "We couldn't beat him even once. But the word surrender isn't in our dictionary.",
+                    "Didascalie": "",
+                    "Start": 6451,
+                    "End": 6532
+                },
+                {
+                    "Reply": "I'm so hungry.",
+                    "Didascalie": "",
+                    "Start": 6627,
+                    "End": 6642
+                },
+                {
+                    "Reply": "What good is such a thing without meat and vegetables? It's just an iron board.",
+                    "Didascalie": "",
+                    "Start": 6680,
+                    "End": 6761
+                },
+                {
+                    "Reply": "a post card?",
+                    "Didascalie": "",
+                    "Start": 8314,
+                    "End": 8327
+                },
+                {
+                    "Reply": "There's no time for saying that!",
+                    "Didascalie": "",
+                    "Start": 11503,
+                    "End": 11536
+                },
+                {
+                    "Reply": "Where's the exit?",
+                    "Didascalie": "",
+                    "Start": 13192,
+                    "End": 13210
+                },
+                {
+                    "Reply": "The s..s..sewer!? I'm not a brown rat!",
+                    "Didascalie": "",
+                    "Start": 13240,
+                    "End": 13279
+                },
+                {
+                    "Reply": "Cute!",
+                    "Didascalie": "",
+                    "Start": 15662,
+                    "End": 15668
+                },
+                {
+                    "Reply": "HELP! HELP!",
+                    "Didascalie": "",
+                    "Start": 16033,
+                    "End": 16045
+                },
+                {
+                    "Reply": "OUCH! My hair!",
+                    "Didascalie": "",
+                    "Start": 16210,
+                    "End": 16225
+                },
+                {
+                    "Reply": "All of TR MEOWTH?!",
+                    "Didascalie": "(on the computer screen a figure of a Meowth shows up and the computer starts saying some weird stuff then in an empty test tube next to Team Rocket, a Meowth falls down from a pipe into it)",
+                    "Start": 16419,
+                    "End": 16440
+                },
+                {
+                    "Reply": "I am Meowth.",
+                    "Didascalie": "",
+                    "Start": 16448,
+                    "End": 16461
+                },
+                {
+                    "Reply": "My copy to!",
+                    "Didascalie": "",
+                    "Start": 24691,
+                    "End": 24703
+                },
+                {
+                    "Reply": "I see.",
+                    "Didascalie": "",
+                    "Start": 27921,
+                    "End": 27928
+                },
+                {
+                    "Reply": "you're unfair.",
+                    "Didascalie": "",
+                    "Start": 29432,
+                    "End": 29447
+                },
+                {
+                    "Reply": "What? I'm more unfair? It's because I'm not fighting with you? Your nails would hurt more wouldn't they?",
+                    "Didascalie": "",
+                    "Start": 29481,
+                    "End": 29587
+                },
+                {
+                    "Reply": "You said tonight's moon would be round? You're right, it must be a full moon.",
+                    "Didascalie": "",
+                    "Start": 29623,
+                    "End": 29702
+                },
+                {
+                    "Reply": "Talking about the moon at a time like this is tasteful. Its philosophical.",
+                    "Didascalie": "",
+                    "Start": 29733,
+                    "End": 29809
+                },
+                {
+                    "Reply": "FEELS GOOOOOOOOOOOOOOOOD!!!!!",
+                    "Didascalie": "",
+                    "Start": 32917,
+                    "End": 32947
+                }
+            ]
+        },
+        {
+            "Character": "LADY",
+            "Replies": [
+                {
+                    "Reply": "Are you sending them an invitation?",
+                    "Didascalie": "",
+                    "Start": 6989,
+                    "End": 7025
+                },
+                {
+                    "Reply": "Please forgive me for the abrupt letter.",
+                    "Didascalie": "",
+                    "Start": 7388,
+                    "End": 7429
+                },
+                {
+                    "Reply": "coming or not. Please accept the invitation for the strongest trainer in the world.",
+                    "Didascalie": "",
+                    "Start": 7720,
+                    "End": 7805
+                },
+                {
+                    "Reply": "Welcome to the New Island. Please show me your invitation.",
+                    "Didascalie": "",
+                    "Start": 12070,
+                    "End": 12129
+                },
+                {
+                    "Reply": "Yes?",
+                    "Didascalie": "",
+                    "Start": 12209,
+                    "End": 12214
+                },
+                {
+                    "Reply": "I don't know what your talking about. I've been serving this castle ever since I was born. Come this way. The other guests are already waiting.",
+                    "Didascalie": "",
+                    "Start": 12354,
+                    "End": 12500
+                },
+                {
+                    "Reply": "Those are the trainers who have already arrived.",
+                    "Didascalie": "",
+                    "Start": 12792,
+                    "End": 12841
+                },
+                {
+                    "Reply": "The trainers who couldn't cross that storm aren't worth inviting.",
+                    "Didascalie": "",
+                    "Start": 12860,
+                    "End": 12926
+                },
+                {
+                    "Reply": "are the chosen trainers.",
+                    "Didascalie": "",
+                    "Start": 13031,
+                    "End": 13056
+                },
+                {
+                    "Reply": "Mr. Mewtwo.",
+                    "Didascalie": "",
+                    "Start": 14420,
+                    "End": 14432
+                }
+            ]
+        },
+        {
+            "Character": "CROWD",
+            "Replies": [
+                {
+                    "Reply": "Huh? The ferry has been canceled?",
+                    "Didascalie": "",
+                    "Start": 9040,
+                    "End": 9074
+                },
+                {
+                    "Reply": "Oh No! We were invited to go!",
+                    "Didascalie": "",
+                    "Start": 9120,
+                    "End": 9150
+                }
+            ]
+        },
+        {
+            "Character": "SWEET",
+            "Replies": [
+                {
+                    "Reply": "We can't go to the New Island?!",
+                    "Didascalie": "",
+                    "Start": 9081,
+                    "End": 9113
+                },
+                {
+                    "Reply": "Copies?",
+                    "Didascalie": "",
+                    "Start": 19031,
+                    "End": 19039
+                },
+                {
+                    "Reply": "I've got Blastoise for that copy one!",
+                    "Didascalie": "",
+                    "Start": 19263,
+                    "End": 19301
+                },
+                {
+                    "Reply": "I'm next! Go Blastoise!",
+                    "Didascalie": "",
+                    "Start": 19976,
+                    "End": 20000
+                },
+                {
+                    "Reply": "Blastoise, Hydro Pump!",
+                    "Didascalie": "",
+                    "Start": 20052,
+                    "End": 20075
+                },
+                {
+                    "Reply": "Blastoise!",
+                    "Didascalie": "",
+                    "Start": 20196,
+                    "End": 20207
+                },
+                {
+                    "Reply": "Mewtwo was made from Mew.",
+                    "Didascalie": "",
+                    "Start": 26990,
+                    "End": 27016
+                }
+            ]
+        },
+        {
+            "Character": "BOIJER",
+            "Replies": [
+                {
+                    "Reply": "I'm Boijer. If you want to know about the sea ask the seagulls on the pier. No need to bother. Just look at the flaw of the clouds. I've never seen such a hurricane in all my years.",
+                    "Didascalie": "",
+                    "Start": 9217,
+                    "End": 9401
+                },
+                {
+                    "Reply": "I grew up on a port and I've never experienced such a storm. Besides the storm is above New Island offshore of this pier. I can't let you be placed in danger. That's my wish as the one who guards this pier.",
+                    "Didascalie": "",
+                    "Start": 9445,
+                    "End": 9655
+                },
+                {
+                    "Reply": "Wait. I'm the one who knows the sea and I say no!",
+                    "Didascalie": "",
+                    "Start": 9811,
+                    "End": 9861
+                },
+                {
+                    "Reply": "trainers. If they were children who would stop after being told to, they wouldn't have gathered here. Let's just pray for there safety.",
+                    "Didascalie": "",
+                    "Start": 10602,
+                    "End": 10740
+                },
+                {
+                    "Reply": "I can run the ferry for again tomorrow.",
+                    "Didascalie": "",
+                    "Start": 32402,
+                    "End": 32442
+                }
+            ]
+        },
+        {
+            "Character": "UMIO",
+            "Replies": [
+                {
+                    "Reply": "cross the sea.",
+                    "Didascalie": "",
+                    "Start": 9788,
+                    "End": 9803
+                },
+                {
+                    "Reply": "Yeah, but if you can handle it, no one is more reliable.",
+                    "Didascalie": "",
+                    "Start": 13909,
+                    "End": 13966
+                },
+                {
+                    "Reply": "Darn it! Go Gyarados!",
+                    "Didascalie": "",
+                    "Start": 14793,
+                    "End": 14815
+                }
+            ]
+        },
+        {
+            "Character": "SORAO",
+            "Replies": [
+                {
+                    "Reply": "You came too?",
+                    "Didascalie": "",
+                    "Start": 13581,
+                    "End": 13595
+                }
+            ]
+        },
+        {
+            "Character": "COMPUTER",
+            "Replies": [
+                {
+                    "Reply": "...our study... to continue in our research ... we would have to collect samples from our test subjects...",
+                    "Didascalie": "",
+                    "Start": 15846,
+                    "End": 15954
+                }
+            ]
+        },
+        {
+            "Character": "SOROA",
+            "Replies": [
+                {
+                    "Reply": "Ryhorn!",
+                    "Didascalie": "",
+                    "Start": 18296,
+                    "End": 18304
+                },
+                {
+                    "Reply": "They are...?",
+                    "Didascalie": "",
+                    "Start": 19046,
+                    "End": 19059
+                },
+                {
+                    "Reply": "I've got Venusaur for that copy one!",
+                    "Didascalie": "",
+                    "Start": 19219,
+                    "End": 19256
+                },
+                {
+                    "Reply": "I was careless before, but it won't go that way this time.",
+                    "Didascalie": "",
+                    "Start": 19690,
+                    "End": 19749
+                },
+                {
+                    "Reply": "Venusaur! Razorleaf!",
+                    "Didascalie": "",
+                    "Start": 19792,
+                    "End": 19813
+                },
+                {
+                    "Reply": "Venusaur!",
+                    "Didascalie": "",
+                    "Start": 19959,
+                    "End": 19969
+                }
+            ]
+        },
+        {
+            "Character": "MEW",
+            "Replies": [
+                {
+                    "Reply": "mew.",
+                    "Didascalie": "",
+                    "Start": 31339,
+                    "End": 31344
+                },
+                {
+                    "Reply": "mew...",
+                    "Didascalie": "",
+                    "Start": 31420,
+                    "End": 31427
+                }
+            ]
+        }
+    ]
 }

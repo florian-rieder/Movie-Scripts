@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Hellboy",
-        "   "
-    ],
+    "Title": "Hellboy",
     "Author": [
-        "\u00a0\u00a0Mike Mignola\u00a0\u00a0Guillermo del Toro\u00a0\u00a0Peter Briggs"
+        "Mike Mignola",
+        "Guillermo del Toro",
+        "Peter Briggs"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Action"
+        "Adventure",
+        "Horror",
+        "Sci-Fi",
+        "Action"
     ],
     "Characters": [
         {
@@ -1013,6 +1015,46 @@
                     "Didascalie": "(in Romanian)",
                     "Start": 30197,
                     "End": 30247
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR 1",
+            "Replies": [
+                {
+                    "Reply": "Have you told him yet?",
+                    "Didascalie": "",
+                    "Start": 31821,
+                    "End": 31844
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR 2",
+            "Replies": [
+                {
+                    "Reply": "Malignant sarcoma. In the lungs...",
+                    "Didascalie": "",
+                    "Start": 32168,
+                    "End": 32204
+                },
+                {
+                    "Reply": "Maybe -- six weeks.",
+                    "Didascalie": "",
+                    "Start": 32418,
+                    "End": 32438
+                },
+                {
+                    "Reply": "I can arrange for hospitalization, pain management. Make the time more bearable --",
+                    "Didascalie": "",
+                    "Start": 32570,
+                    "End": 32705
+                },
+                {
+                    "Reply": "You can always get a second opinion.",
+                    "Didascalie": "",
+                    "Start": 33118,
+                    "End": 33155
                 }
             ]
         },
@@ -3092,6 +3134,39 @@
                     "Didascalie": "",
                     "Start": 57816,
                     "End": 57835
+                }
+            ]
+        },
+        {
+            "Character": "WORKER 1",
+            "Replies": [
+                {
+                    "Reply": "What the hell is that??",
+                    "Didascalie": "",
+                    "Start": 73069,
+                    "End": 73093
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "You! Don't move! Hands up!",
+                    "Didascalie": "",
+                    "Start": 89112,
+                    "End": 89139
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 6",
+            "Replies": [
+                {
+                    "Reply": "Don't --",
+                    "Didascalie": "",
+                    "Start": 89764,
+                    "End": 89773
                 }
             ]
         },

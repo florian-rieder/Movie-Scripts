@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Music of the Heart",
-        "   "
-    ],
+    "Title": "Music of the Heart",
     "Author": [
-        "\u00a0\u00a0Pamela Gray"
+        "Pamela Gray"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -18,17 +15,6 @@
                     "Didascalie": "",
                     "Start": 758,
                     "End": 875
-                }
-            ]
-        },
-        {
-            "Character": "END CREDITS",
-            "Replies": [
-                {
-                    "Reply": "photo album from the floor, looks at a photo and removes it. She's a beautiful woman with large, expressive eyes, but right now she looks like hell. She stares at the photo -- it's the two couples dancing. A quick glimpse of hurt on her face, then her jaw tightens and she rips the picture in half. There's muffled talking outside the door, and then two young boys' voices.",
-                    "Didascalie": "",
-                    "Start": 2596,
-                    "End": 3066
                 }
             ]
         },
@@ -6253,35 +6239,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "-- Terrific black and white shots of Roberta's advanced classes playing violin.",
-                    "Didascalie": "",
-                    "Start": 149160,
-                    "End": 149256
-                },
-                {
-                    "Reply": "The letter is designed like a newspaper with a headline that reads: JOURNALISM PROFESSOR DAN PAXTON ANSWERS PERSONAL AD; HOPES RUN HIGH BEAUTIFUL MUSICIAN WILL CALL FOR A DATE!",
-                    "Didascalie": "",
-                    "Start": 172960,
-                    "End": 173169
-                },
-                {
-                    "Reply": "-- A foil-covered plate with a note on top: DO YOU KNOW ANYONE AT THE NEW YORK TIMES?",
-                    "Didascalie": "",
-                    "Start": 189559,
-                    "End": 189661
-                },
-                {
-                    "Reply": "The page has a photo of Roberta at the Spring Concert, and a large article headlined A VIOLIN TEACHER FIGHTS BACK.",
-                    "Didascalie": "",
-                    "Start": 201855,
-                    "End": 201986
-                }
-            ]
-        },
-        {
             "Character": "CARLOS",
             "Replies": [
                 {
@@ -6678,17 +6635,6 @@
                     "Didascalie": "",
                     "Start": 250124,
                     "End": 250194
-                }
-            ]
-        },
-        {
-            "Character": "A FEW KIDS",
-            "Replies": [
-                {
-                    "Reply": "It's horsehair!",
-                    "Didascalie": "",
-                    "Start": 258274,
-                    "End": 258290
                 }
             ]
         }

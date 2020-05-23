@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Two For The Money",
-        "   "
-    ],
+    "Title": "Two For The Money",
     "Author": [
-        "\u00a0\u00a0Dan Gilroy"
+        "Dan Gilroy"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Sport\u00a0\u00a0Thriller"
+        "Comedy",
+        "Drama",
+        "Sport",
+        "Thriller"
     ],
     "Characters": [
         {

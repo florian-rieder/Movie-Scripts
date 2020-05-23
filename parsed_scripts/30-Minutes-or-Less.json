@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "30 Minutes or Less",
-        "   "
-    ],
+    "Title": "30 Minutes or Less",
     "Author": [
-        "\u00a0\u00a0Michael Diliberti\u00a0\u00a0Matthew Sullivan"
+        "Michael Diliberti",
+        "Matthew Sullivan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Action",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2039,6 +2039,29 @@
                     "Didascalie": "",
                     "Start": 228091,
                     "End": 228165
+                }
+            ]
+        },
+        {
+            "Character": "OTHER 15-YEAR-OLD",
+            "Replies": [
+                {
+                    "Reply": "Exactly. That's why we ordered from your shitty \"trattoria.\"",
+                    "Didascalie": "",
+                    "Start": 3080,
+                    "End": 3152
+                },
+                {
+                    "Reply": "We'd rather take the pizzas.",
+                    "Didascalie": "",
+                    "Start": 3417,
+                    "End": 3446
+                },
+                {
+                    "Reply": "Love that shit!",
+                    "Didascalie": "",
+                    "Start": 5697,
+                    "End": 5713
                 }
             ]
         },

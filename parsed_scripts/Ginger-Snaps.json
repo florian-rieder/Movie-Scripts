@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ginger Snaps",
-        "   "
-    ],
+    "Title": "Ginger Snaps",
     "Author": [
-        "\u00a0\u00a0Karen Walton"
+        "Karen Walton"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

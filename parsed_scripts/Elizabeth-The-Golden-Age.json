@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Elizabeth: The Golden Age",
-        "   "
-    ],
+    "Title": "Elizabeth: The Golden Age",
     "Author": [
-        "\u00a0\u00a0William Nicholson\u00a0\u00a0Michael Hirst"
+        "William Nicholson",
+        "Michael Hirst"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -595,12 +593,6 @@
                     "Didascalie": "(to Raleigh)",
                     "Start": 84473,
                     "End": 84540
-                },
-                {
-                    "Reply": "The Queen does not have a private life.  INT PRESENCE CHAMBER, WHITEHALL PALACE - DAY 35                                                                35 Elizabeth is on the throne. The Archduke Charles and his entourage face her. The court fills the room. Elizabeth makes her formal response to the young Archduke.",
-                    "Didascalie": "",
-                    "Start": 86233,
-                    "End": 86661
                 },
                 {
                     "Reply": "The Queen lives for her people.",
@@ -1978,17 +1970,6 @@
                     "Didascalie": "",
                     "Start": 239843,
                     "End": 239895
-                }
-            ]
-        },
-        {
-            "Character": "OMITTED",
-            "Replies": [
-                {
-                    "Reply": "10                                                              10       Double Pink revision 18 July - p.9   EXT THE TYGER, ENGLISH CHANNEL - DAY 11                                                                11 Raleigh is standing on the prow of a war-ship as it cuts through the water toward the white cliffs of Dover. The ship and its sailors have been at sea for many months, and it shows. Raleigh shouts to his Sailing-Master.",
-                    "Didascalie": "",
-                    "Start": 18163,
-                    "End": 18826
                 }
             ]
         },
@@ -3907,6 +3888,23 @@
                     "Didascalie": "",
                     "Start": 226697,
                     "End": 227009
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 3",
+            "Replies": [
+                {
+                    "Reply": "I come from your brother.",
+                    "Didascalie": "",
+                    "Start": 235694,
+                    "End": 235720
+                },
+                {
+                    "Reply": "He asks your forgiveness.",
+                    "Didascalie": "",
+                    "Start": 235951,
+                    "End": 235977
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Whistleblower, The",
-        "   "
-    ],
+    "Title": "Whistleblower, The",
     "Author": [
-        "\u00a0\u00a0Eilis Kirwan\u00a0\u00a0Larysa Kondracki"
+        "Eilis Kirwan",
+        "Larysa Kondracki"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2347,17 +2346,6 @@
             ]
         },
         {
-            "Character": "BELLA LUNA BAR",
-            "Replies": [
-                {
-                    "Reply": "Driving past a another BAR. GERMAN FLAG... A SIGN: BERLIN NIGHTS... Kathy passes by, amused.",
-                    "Didascalie": "",
-                    "Start": 16800,
-                    "End": 16898
-                }
-            ]
-        },
-        {
             "Character": "AMERICAN IPTF",
             "Replies": [
                 {
@@ -3823,17 +3811,6 @@
             ]
         },
         {
-            "Character": "A WIDE FIELD",
-            "Replies": [
-                {
-                    "Reply": "The SUV is jolted by the uneven terrain. Irka peers into the blinding light. Then runs...",
-                    "Didascalie": "",
-                    "Start": 103486,
-                    "End": 103582
-                }
-            ]
-        },
-        {
             "Character": "SECRETARY",
             "Replies": [
                 {
@@ -4376,6 +4353,40 @@
                     "Didascalie": "",
                     "Start": 153348,
                     "End": 153372
+                }
+            ]
+        },
+        {
+            "Character": "SUIT 2",
+            "Replies": [
+                {
+                    "Reply": "Let's go out. I wanna take you home.",
+                    "Didascalie": "",
+                    "Start": 153781,
+                    "End": 153818
+                },
+                {
+                    "Reply": "Ivan! C'mere!",
+                    "Didascalie": "",
+                    "Start": 153938,
+                    "End": 153952
+                },
+                {
+                    "Reply": "We wanna party on mate. How much to take them home for the day?",
+                    "Didascalie": "",
+                    "Start": 154080,
+                    "End": 154160
+                }
+            ]
+        },
+        {
+            "Character": "SUIT 1",
+            "Replies": [
+                {
+                    "Reply": "You're on.",
+                    "Didascalie": "",
+                    "Start": 154758,
+                    "End": 154769
                 }
             ]
         },

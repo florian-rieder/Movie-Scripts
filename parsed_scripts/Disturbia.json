@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Disturbia",
-        "   "
-    ],
+    "Title": "Disturbia",
     "Author": [
-        "\u00a0\u00a0Christopher Landon\u00a0\u00a0Carl Ellsworth"
+        "Christopher Landon",
+        "Carl Ellsworth"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller"
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4342,17 +4340,6 @@
                     "Didascalie": "(O.S.) (from inside house)",
                     "Start": 63998,
                     "End": 64055
-                }
-            ]
-        },
-        {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "suddenly enters frame, lands on Kale's shoulder! Kale SCREAMS, whips around -- Julie. She SCREAMS, too.",
-                    "Didascalie": "",
-                    "Start": 70066,
-                    "End": 70175
                 }
             ]
         },

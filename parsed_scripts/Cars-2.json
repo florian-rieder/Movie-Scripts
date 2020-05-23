@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Cars 2",
-        "   "
-    ],
+    "Title": "Cars 2",
     "Author": [
-        "\u00a0\u00a0Ben Queen"
+        "Ben Queen"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Animation",
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -5862,17 +5861,6 @@
             ]
         },
         {
-            "Character": "CORNER ---",
-            "Replies": [
-                {
-                    "Reply": "--- and STOPS. Finds himself in front of TWO BATHROOM DOORS, neither of which clearly indicate MALE or FEMALE.",
-                    "Didascalie": "",
-                    "Start": 60825,
-                    "End": 60946
-                }
-            ]
-        },
-        {
             "Character": "ROD REDLINE",
             "Replies": [
                 {
@@ -6282,17 +6270,6 @@
             ]
         },
         {
-            "Character": "REVEALING ---",
-            "Replies": [
-                {
-                    "Reply": "--- Finn, holding a fire extinguisher.",
-                    "Didascalie": "",
-                    "Start": 95936,
-                    "End": 95975
-                }
-            ]
-        },
-        {
             "Character": "PRESS",
             "Replies": [
                 {
@@ -6380,17 +6357,6 @@
                     "Didascalie": "",
                     "Start": 129538,
                     "End": 129566
-                }
-            ]
-        },
-        {
-            "Character": "TO ---",
-            "Replies": [
-                {
-                    "Reply": "--- Tomber who turns a corner and finds himself grill to grill with HOLLEY. He whips to the left but TURNS OVER, rolling sideways and CRASHING to a stop.",
-                    "Didascalie": "",
-                    "Start": 132037,
-                    "End": 132211
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Blade: Trinity",
-        "   "
-    ],
+    "Title": "Blade: Trinity",
     "Author": [
-        "\u00a0\u00a0David S. Goyer"
+        "David S. Goyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -299,6 +299,17 @@
                     "Didascalie": "",
                     "Start": 1259,
                     "End": 1458
+                }
+            ]
+        },
+        {
+            "Character": "TWO ANERICAN RAH-66 COMANCHE HELICOPTERS",
+            "Replies": [
+                {
+                    "Reply": "approach from the East.  They touch down near the base of the ziggurat, rotors stirring up clouds of dust.",
+                    "Didascalie": "",
+                    "Start": 1602,
+                    "End": 1721
                 }
             ]
         },
@@ -735,28 +746,6 @@
             ]
         },
         {
-            "Character": "A SLAB OF STONE",
-            "Replies": [
-                {
-                    "Reply": "slides down from above the stairs, sealing off the vault.",
-                    "Didascalie": "",
-                    "Start": 5822,
-                    "End": 5880
-                }
-            ]
-        },
-        {
-            "Character": "A HELLISH CREATURE",
-            "Replies": [
-                {
-                    "Reply": "unearths itself, ROARING.  It's difficult to make out in the flickering light.  But what we do see is terrifying.  Spiked, demonic armor, clutching a sword.  An elongated, helmeted face with a blood-splattered set of hinged fangs -- hinting at an inhuman physiognomy within.  The hinged jaws open, coming at us.  And just as the lantern goes out for good we --",
-                    "Didascalie": "",
-                    "Start": 7487,
-                    "End": 7908
-                }
-            ]
-        },
-        {
             "Character": "HENDRIX",
             "Replies": [
                 {
@@ -857,17 +846,6 @@
                     "Didascalie": "",
                     "Start": 12285,
                     "End": 12315
-                }
-            ]
-        },
-        {
-            "Character": "A VIDEO MONITOR",
-            "Replies": [
-                {
-                    "Reply": "LARRY KING launching into the intro of his show.",
-                    "Didascalie": "",
-                    "Start": 12643,
-                    "End": 12692
                 }
             ]
         },
@@ -1670,17 +1648,6 @@
             ]
         },
         {
-            "Character": "A BIG-RIG CAB",
-            "Replies": [
-                {
-                    "Reply": "hauling a semi-trailer THUNDERS beneath the overpass, sounding its AIR HORN.  It has safety cables running along the perimeter of the trailer roof, like an aircraft carrier.",
-                    "Didascalie": "",
-                    "Start": 22675,
-                    "End": 22873
-                }
-            ]
-        },
-        {
             "Character": "STONE AND CAMPBELL",
             "Replies": [
                 {
@@ -1710,17 +1677,6 @@
                     "Didascalie": "",
                     "Start": 30094,
                     "End": 30192
-                }
-            ]
-        },
-        {
-            "Character": "A ROOFTOP ABOVE",
-            "Replies": [
-                {
-                    "Reply": "Danica is perched there.  She backs into the shadows.  But Blade doesn't have time to investigate because --",
-                    "Didascalie": "",
-                    "Start": 30372,
-                    "End": 30493
                 }
             ]
         },
@@ -1843,17 +1799,6 @@
             ]
         },
         {
-            "Character": "A BULLETIN BOARD",
-            "Replies": [
-                {
-                    "Reply": "are blurry and indistinct -- akin to snaps taken of Bigfoot.",
-                    "Didascalie": "",
-                    "Start": 34076,
-                    "End": 34137
-                }
-            ]
-        },
-        {
             "Character": "HALE",
             "Replies": [
                 {
@@ -1966,17 +1911,6 @@
             ]
         },
         {
-            "Character": "A BLACK AND WHITE TABLOID",
-            "Replies": [
-                {
-                    "Reply": "on display nearby.  The cover story features a BLURRY PHOTO of Blade's recent melee with the vampires.",
-                    "Didascalie": "",
-                    "Start": 34845,
-                    "End": 34960
-                }
-            ]
-        },
-        {
             "Character": "FBI AGENT",
             "Replies": [
                 {
@@ -2006,17 +1940,6 @@
                     "Didascalie": "",
                     "Start": 39057,
                     "End": 39144
-                }
-            ]
-        },
-        {
-            "Character": "A ROOFTOP PARKING STRUCTURE",
-            "Replies": [
-                {
-                    "Reply": "a nice Ollie backside grab, then scoots over to --",
-                    "Didascalie": "",
-                    "Start": 39489,
-                    "End": 39540
                 }
             ]
         },
@@ -2158,23 +2081,6 @@
                     "Didascalie": "(over radio)",
                     "Start": 51394,
                     "End": 51452
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "VAULTS through the blown-out window, simultaneously drawing two high-tech electronic pistols.",
-                    "Didascalie": "",
-                    "Start": 68389,
-                    "End": 68495
-                },
-                {
-                    "Reply": "sits behind the wheel.  He raises a hand in greeting.",
-                    "Didascalie": "",
-                    "Start": 171062,
-                    "End": 171116
                 }
             ]
         },
@@ -2813,17 +2719,6 @@
             ]
         },
         {
-            "Character": "A FIRE EXTINGUISHER",
-            "Replies": [
-                {
-                    "Reply": "mounted at the end of the corridor.  She lets her arrow fly --",
-                    "Didascalie": "",
-                    "Start": 73960,
-                    "End": 74023
-                }
-            ]
-        },
-        {
             "Character": "HEADLIGHTS",
             "Replies": [
                 {
@@ -2831,17 +2726,6 @@
                     "Didascalie": "",
                     "Start": 76807,
                     "End": 77060
-                }
-            ]
-        },
-        {
-            "Character": "A DRIVER",
-            "Replies": [
-                {
-                    "Reply": "leans out his window, gives a little wave as the rear doors pop open.  Gruff and compact, he looks like a prize-fighter.",
-                    "Didascalie": "",
-                    "Start": 77103,
-                    "End": 77236
                 }
             ]
         },
@@ -2859,17 +2743,6 @@
                     "Didascalie": "",
                     "Start": 78554,
                     "End": 78589
-                }
-            ]
-        },
-        {
-            "Character": "A LITTLE GIRL",
-            "Replies": [
-                {
-                    "Reply": "peering down at him from atop one of the rafters.  As soon as he spots her, she ducks into the shadows.",
-                    "Didascalie": "",
-                    "Start": 81531,
-                    "End": 81647
                 }
             ]
         },
@@ -3505,17 +3378,6 @@
             ]
         },
         {
-            "Character": "A HEATING GRATE",
-            "Replies": [
-                {
-                    "Reply": "near the floor.  It's about fourteen inches wide -- just barely big enough for her to squeeze into.",
-                    "Didascalie": "",
-                    "Start": 156236,
-                    "End": 156348
-                }
-            ]
-        },
-        {
             "Character": "GRINWOOD",
             "Replies": [
                 {
@@ -3623,17 +3485,6 @@
             ]
         },
         {
-            "Character": "A SERIES OF LIGHTING GANTRIES",
-            "Replies": [
-                {
-                    "Reply": "span the length of the atrium ceiling.",
-                    "Didascalie": "",
-                    "Start": 196727,
-                    "End": 196766
-                }
-            ]
-        },
-        {
             "Character": "MORE VAMPIRES",
             "Replies": [
                 {
@@ -3652,17 +3503,6 @@
                     "Didascalie": "",
                     "Start": 208717,
                     "End": 208823
-                }
-            ]
-        },
-        {
-            "Character": "A TRIO OF MEDICAL EXAMINERS",
-            "Replies": [
-                {
-                    "Reply": "lift Blade's body onto an autopsy table.  They turn on a bank of overhead UV lights.  The lead examiner reaches for a scalpel.  But as he touches the scalpel to Blade's chest --",
-                    "Didascalie": "",
-                    "Start": 211727,
-                    "End": 211929
                 }
             ]
         },

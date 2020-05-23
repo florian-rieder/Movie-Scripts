@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Friday the 13th",
-        "   "
-    ],
+    "Title": "Friday the 13th",
     "Author": [
-        "\u00a0\u00a0Victor Miller"
+        "Victor Miller"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

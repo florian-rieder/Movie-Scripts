@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Bad Day at Black Rock",
-        "   "
-    ],
+    "Title": "Bad Day at Black Rock",
     "Author": [
-        "\u00a0\u00a0Don McGuire\u00a0\u00a0Millard Kaufman\u00a0\u00a0Howard Breslin"
+        "Don McGuire",
+        "Millard Kaufman",
+        "Howard Breslin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller\u00a0\u00a0Western"
+        "Drama",
+        "Thriller",
+        "Western"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Hostage",
-        "   "
-    ],
+    "Title": "Hostage",
     "Author": [
-        "\u00a0\u00a0Robert Crais"
+        "Robert Crais"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5512,17 +5512,6 @@
                     "Didascalie": "",
                     "Start": 178686,
                     "End": 178720
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "No fuckups allowed.",
-                    "Didascalie": "",
-                    "Start": 179342,
-                    "End": 179362
                 }
             ]
         }

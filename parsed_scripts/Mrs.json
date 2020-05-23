@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Mrs. Brown",
-        "   "
-    ],
+    "Title": "Mrs. Brown",
     "Author": [
-        "\u00a0\u00a0Jeremy Brock"
+        "Jeremy Brock"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3658,12 +3656,6 @@
                     "End": 48537
                 },
                 {
-                    "Reply": "I beg your pardon?",
-                    "Didascalie": "(thick as shit)",
-                    "Start": 48575,
-                    "End": 48597
-                },
-                {
                     "Reply": "Has anybody seen this ... Mr Brown?",
                     "Didascalie": "(changing tack)",
                     "Start": 48629,
@@ -4149,12 +4141,6 @@
                     "End": 48722
                 },
                 {
-                    "Reply": "Follows her wherever she goes.",
-                    "Didascalie": "(knowingly)",
-                    "Start": 48756,
-                    "End": 48790
-                },
-                {
                     "Reply": "What did he want?",
                     "Didascalie": "",
                     "Start": 51375,
@@ -4294,6 +4280,80 @@
                     "Didascalie": "",
                     "Start": 47321,
                     "End": 47373
+                }
+            ]
+        },
+        {
+            "Character": "SOCIETY LADY 1",
+            "Replies": [
+                {
+                    "Reply": "Why is the Queen penny-wise and pound foolish?  Because she looks after the Browns and lets the sovereigns take care of themselves!",
+                    "Didascalie": "",
+                    "Start": 47939,
+                    "End": 48077
+                },
+                {
+                    "Reply": "Well I ... well, I mean to say, it's hardly right, is it?",
+                    "Didascalie": "",
+                    "Start": 48251,
+                    "End": 48311
+                },
+                {
+                    "Reply": "Well, the Queen and --",
+                    "Didascalie": "",
+                    "Start": 48355,
+                    "End": 48378
+                },
+                {
+                    "Reply": "Mr Brown.",
+                    "Didascalie": "(appalled whisper)",
+                    "Start": 48399,
+                    "End": 48412
+                },
+                {
+                    "Reply": "Follows her wherever she goes.",
+                    "Didascalie": "(knowingly)",
+                    "Start": 48756,
+                    "End": 48790
+                }
+            ]
+        },
+        {
+            "Character": "SOCIETY LADY 2",
+            "Replies": [
+                {
+                    "Reply": "I beg your pardon?",
+                    "Didascalie": "(thick as shit)",
+                    "Start": 48575,
+                    "End": 48597
+                }
+            ]
+        },
+        {
+            "Character": "JOURNALIST 1",
+            "Replies": [
+                {
+                    "Reply": "Where did he get to?  I've lost him?",
+                    "Didascalie": "",
+                    "Start": 55775,
+                    "End": 55812
+                },
+                {
+                    "Reply": "Hard to tell.",
+                    "Didascalie": "",
+                    "Start": 55977,
+                    "End": 55991
+                }
+            ]
+        },
+        {
+            "Character": "JOURNALIST 2",
+            "Replies": [
+                {
+                    "Reply": "I don't know if there's much worth writing about.",
+                    "Didascalie": "",
+                    "Start": 55905,
+                    "End": 55957
                 }
             ]
         },
@@ -4444,6 +4504,28 @@
                     "Didascalie": "",
                     "Start": 68839,
                     "End": 68845
+                }
+            ]
+        },
+        {
+            "Character": "UPPER SERVANT 1",
+            "Replies": [
+                {
+                    "Reply": "Checked and locked, sir.",
+                    "Didascalie": "",
+                    "Start": 85380,
+                    "End": 85405
+                }
+            ]
+        },
+        {
+            "Character": "UPPER SERVANT 2",
+            "Replies": [
+                {
+                    "Reply": "Checked and locked, sir.",
+                    "Didascalie": "",
+                    "Start": 85732,
+                    "End": 85757
                 }
             ]
         },

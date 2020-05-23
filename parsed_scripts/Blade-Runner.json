@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Blade Runner",
-        "   "
-    ],
+    "Title": "Blade Runner",
     "Author": [
-        "\u00a0\u00a0Hampton Fancher\u00a0\u00a0David Peoples"
+        "Hampton Fancher",
+        "David Peoples"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -3282,6 +3282,17 @@
                     "Didascalie": "",
                     "Start": 32400,
                     "End": 32420
+                }
+            ]
+        },
+        {
+            "Character": "BLADE RUNNER ONE CODE ML-33",
+            "Replies": [
+                {
+                    "Reply": "Pause.",
+                    "Didascalie": "",
+                    "Start": 32466,
+                    "End": 32473
                 }
             ]
         },

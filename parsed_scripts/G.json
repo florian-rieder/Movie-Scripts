@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "G.I. Joe: The Rise of Cobra",
-        "   "
-    ],
+    "Title": "G.I. Joe: The Rise of Cobra",
     "Author": [
-        "\u00a0\u00a0Stuart Beattie\u00a0\u00a0John Lee Hancock\u00a0\u00a0Brian Koppelman\u00a0\u00a0David Levien"
+        "Stuart Beattie",
+        "John Lee Hancock",
+        "Brian Koppelman",
+        "David Levien"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4651,17 +4654,6 @@
                     "Didascalie": "",
                     "Start": 187793,
                     "End": 187806
-                }
-            ]
-        },
-        {
-            "Character": "HEADQUARTERS",
-            "Replies": [
-                {
-                    "Reply": "- DAY opening. Ana McCullen gazes a the IRON MASK we and Storm Sh saw his ance adow watc in the h onndual HOLOstor  PROJECTORS.",
-                    "Didascalie": "",
-                    "Start": 97381,
-                    "End": 97563
                 }
             ]
         },

@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Margaret",
-        "   "
-    ],
+    "Title": "Margaret",
     "Author": [
-        "\u00a0\u00a0Kenneth Lonergan"
+        "Kenneth Lonergan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -893,12 +890,6 @@
                     "Didascalie": "",
                     "Start": 49542,
                     "End": 49558
-                },
-                {
-                    "Reply": "I didn't bring her as a bodyguard.  NEIGHBORHOOD LADY 1 Oh, he's wonderful. He drives all the way to see her every Saturday.",
-                    "Didascalie": "",
-                    "Start": 51654,
-                    "End": 51825
                 },
                 {
                     "Reply": "NEIGHBORHOOD LADY 1 What are you muttering?",
@@ -5091,6 +5082,69 @@
             ]
         },
         {
+            "Character": "LISA 1ST MAN",
+            "Replies": [
+                {
+                    "Reply": "You're on Broadway and 75th Don't try to talk!",
+                    "Didascalie": "",
+                    "Start": 23728,
+                    "End": 23775
+                },
+                {
+                    "Reply": "You're gonna be all right! I'm sorry! I'm just The ambulance is on its way! trying to -- we're trying Just hold on until they get to put a tourniquet on you. here!",
+                    "Didascalie": "",
+                    "Start": 26472,
+                    "End": 26667
+                },
+                {
+                    "Reply": "What do you mean? Are they doctors? Who are they?",
+                    "Didascalie": "",
+                    "Start": 27145,
+                    "End": 27205
+                },
+                {
+                    "Reply": "No -- they're not doctors. I can't even see -",
+                    "Didascalie": "",
+                    "Start": 27239,
+                    "End": 27285
+                }
+            ]
+        },
+        {
+            "Character": "LISA 2ND MAN",
+            "Replies": [
+                {
+                    "Reply": "No -- I mean yes -- The accident All right, never mind.   is over, but I think you're a little confused --",
+                    "Didascalie": "",
+                    "Start": 25413,
+                    "End": 25567
+                },
+                {
+                    "Reply": "I'm not, I'm not gonna She needs a tourniquet or let go -- she's going to die.",
+                    "Didascalie": "",
+                    "Start": 26102,
+                    "End": 26191
+                },
+                {
+                    "Reply": "You were in a terrible I'll try it. You want me to accident! But you're try it?",
+                    "Didascalie": "",
+                    "Start": 28627,
+                    "End": 28717
+                }
+            ]
+        },
+        {
+            "Character": "MONICA 1ST MAN",
+            "Replies": [
+                {
+                    "Reply": "It's Lisa. It's OK --",
+                    "Didascalie": "",
+                    "Start": 30315,
+                    "End": 30337
+                }
+            ]
+        },
+        {
             "Character": "MITCHELL",
             "Replies": [
                 {
@@ -5985,12 +6039,6 @@
                     "Didascalie": "",
                     "Start": 206495,
                     "End": 206520
-                },
-                {
-                    "Reply": "124 INTERCUT -- LIVING ROOM. SIMULTANEOUS 124 Curtis, busy with his computer, doesn't answer.",
-                    "Didascalie": "",
-                    "Start": 206669,
-                    "End": 206773
                 },
                 {
                     "Reply": "'Bye sweetie.",
@@ -7084,6 +7132,51 @@
                     "Didascalie": "",
                     "Start": 198283,
                     "End": 198324
+                }
+            ]
+        },
+        {
+            "Character": "NEIGHBORHOOD LADY 1",
+            "Replies": [
+                {
+                    "Reply": "Oh, he's wonderful. He drives all the way to see her every Saturday.",
+                    "Didascalie": "",
+                    "Start": 51746,
+                    "End": 51825
+                },
+                {
+                    "Reply": "And she has a little dog that LISA used to belong to the father, Nothing.",
+                    "Didascalie": "",
+                    "Start": 52751,
+                    "End": 52835
+                },
+                {
+                    "Reply": "Barnaby.",
+                    "Didascalie": "",
+                    "Start": 53926,
+                    "End": 53935
+                }
+            ]
+        },
+        {
+            "Character": "NEIGHBORHOOD LADY 2 LISA",
+            "Replies": [
+                {
+                    "Reply": "That's a long drive. I forgot I told Becky I would do something with her NEIGHBORHOOD LADY 1 Friday night, so I invited You know he has three sisters? her along. I didn't think The older ones don't speak. it was gonna sully our They haven't spoken in four- whole relationship.",
+                    "Didascalie": "",
+                    "Start": 51932,
+                    "End": 52260
+                }
+            ]
+        },
+        {
+            "Character": "NEIGHBORHOOD LADY 2",
+            "Replies": [
+                {
+                    "Reply": "No, what's the name of the dog?",
+                    "Didascalie": "",
+                    "Start": 53838,
+                    "End": 53870
                 }
             ]
         },

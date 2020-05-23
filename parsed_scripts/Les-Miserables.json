@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Les Miserables",
-        "   "
-    ],
+    "Title": "Les Miserables",
     "Author": [
-        "\u00a0\u00a0William Nicholson\u00a0\u00a0Alain Boublil\u00a0\u00a0Claude- Michel Schonberg\u00a0\u00a0Herbert Kretzmer"
+        "William Nicholson",
+        "Alain Boublil",
+        "Claude- Michel Schonberg",
+        "Herbert Kretzmer"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Musical\u00a0\u00a0Romance"
+        "Drama",
+        "Musical",
+        "Romance"
     ],
     "Characters": [
         {
@@ -38,12 +40,6 @@
                     "End": 4784
                 },
                 {
-                    "Reply": "Look down, look down They've all forgotten you.  CONVICT 1 When I get free You won't see me Here for dust!",
-                    "Didascalie": "",
-                    "Start": 4958,
-                    "End": 5188
-                },
-                {
                     "Reply": "Look down, look down Don't look'em in the eye.",
                     "Didascalie": "",
                     "Start": 5289,
@@ -60,6 +56,56 @@
                     "Didascalie": "",
                     "Start": 8396,
                     "End": 8457
+                }
+            ]
+        },
+        {
+            "Character": "CONVICT 3",
+            "Replies": [
+                {
+                    "Reply": "Ha - Ha -",
+                    "Didascalie": "",
+                    "Start": 3479,
+                    "End": 3489
+                },
+                {
+                    "Reply": "How long, O Lord Before you let me die?",
+                    "Didascalie": "",
+                    "Start": 5424,
+                    "End": 5474
+                }
+            ]
+        },
+        {
+            "Character": "CONVICT 2",
+            "Replies": [
+                {
+                    "Reply": "I've done no wrong Sweet Jesus, hear my prayer!",
+                    "Didascalie": "",
+                    "Start": 4629,
+                    "End": 4687
+                }
+            ]
+        },
+        {
+            "Character": "CONVICT 5",
+            "Replies": [
+                {
+                    "Reply": "I know she'll wait I know that she'll be true -",
+                    "Didascalie": "",
+                    "Start": 4860,
+                    "End": 4918
+                }
+            ]
+        },
+        {
+            "Character": "CONVICT 1",
+            "Replies": [
+                {
+                    "Reply": "When I get free You won't see me Here for dust!",
+                    "Didascalie": "",
+                    "Start": 5120,
+                    "End": 5188
                 }
             ]
         },
@@ -1321,12 +1367,6 @@
                     "End": 33443
                 },
                 {
-                    "Reply": "At the end of the day just be glad to be working For a master who cares for the lives of the poor.  FACTORY WOMAN 7 He's a riddle..",
-                    "Didascalie": "",
-                    "Start": 33852,
-                    "End": 34132
-                },
-                {
                     "Reply": "Now someone say how this began!",
                     "Didascalie": "",
                     "Start": 39156,
@@ -1349,6 +1389,63 @@
                     "Didascalie": "",
                     "Start": 45516,
                     "End": 45539
+                }
+            ]
+        },
+        {
+            "Character": "FACTORY WOMAN 4",
+            "Replies": [
+                {
+                    "Reply": "There are children back at home -",
+                    "Didascalie": "",
+                    "Start": 32735,
+                    "End": 32769
+                },
+                {
+                    "Reply": "He's no fool..",
+                    "Didascalie": "",
+                    "Start": 34209,
+                    "End": 34224
+                },
+                {
+                    "Reply": "It's no wonder they made him the mayor!",
+                    "Didascalie": "",
+                    "Start": 34563,
+                    "End": 34613
+                }
+            ]
+        },
+        {
+            "Character": "FACTORY WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "And the children have got to be fed.",
+                    "Didascalie": "",
+                    "Start": 32865,
+                    "End": 32920
+                },
+                {
+                    "Reply": "And the boss, he never knows That the foreman is always on heat.",
+                    "Didascalie": "",
+                    "Start": 35620,
+                    "End": 35731
+                }
+            ]
+        },
+        {
+            "Character": "FACTORY WOMAN 7",
+            "Replies": [
+                {
+                    "Reply": "And you're lucky to be in a job -",
+                    "Didascalie": "",
+                    "Start": 33056,
+                    "End": 33090
+                },
+                {
+                    "Reply": "He's a riddle..",
+                    "Didascalie": "",
+                    "Start": 34116,
+                    "End": 34132
                 }
             ]
         },
@@ -1423,6 +1520,34 @@
             ]
         },
         {
+            "Character": "FACTORY WOMAN 3",
+            "Replies": [
+                {
+                    "Reply": "It's because little Fantine won't give him his way.",
+                    "Didascalie": "",
+                    "Start": 35337,
+                    "End": 35399
+                }
+            ]
+        },
+        {
+            "Character": "FACTORY WOMAN 5",
+            "Replies": [
+                {
+                    "Reply": "Take a look at his trousers, you'll see where he stands!",
+                    "Didascalie": "",
+                    "Start": 35476,
+                    "End": 35543
+                },
+                {
+                    "Reply": "You must sack her today!",
+                    "Didascalie": "",
+                    "Start": 41882,
+                    "End": 41907
+                }
+            ]
+        },
+        {
             "Character": "FANTINE",
             "Replies": [
                 {
@@ -1442,12 +1567,6 @@
                     "Didascalie": "",
                     "Start": 42203,
                     "End": 42258
-                },
-                {
-                    "Reply": "Thank you.  Drunken sailors spill out into the alleyway below. The first sailor is trying to find the whorehouse.  SAILOR 1 I smell women!",
-                    "Didascalie": "",
-                    "Start": 49268,
-                    "End": 49544
                 },
                 {
                     "Reply": "Alright, five.  The pawnbroker takes the locket in exchange for the money.  An old woman leers at Fantine from the shadows, beckoning. She approaches Fantine, reaching out to stroke her hair.",
@@ -1696,6 +1815,56 @@
             ]
         },
         {
+            "Character": "WHORE 1",
+            "Replies": [
+                {
+                    "Reply": "A bit of skirt, She's the one sold her hair.",
+                    "Didascalie": "",
+                    "Start": 58899,
+                    "End": 58954
+                },
+                {
+                    "Reply": "Make money in your sleep!",
+                    "Didascalie": "",
+                    "Start": 60679,
+                    "End": 60705
+                }
+            ]
+        },
+        {
+            "Character": "SAILOR 1",
+            "Replies": [
+                {
+                    "Reply": "I smell women!",
+                    "Didascalie": "",
+                    "Start": 49529,
+                    "End": 49544
+                }
+            ]
+        },
+        {
+            "Character": "SAILOR 2",
+            "Replies": [
+                {
+                    "Reply": "Seven months at sea can make you Hungry for a poke!",
+                    "Didascalie": "",
+                    "Start": 50005,
+                    "End": 50072
+                }
+            ]
+        },
+        {
+            "Character": "SAILOR 3",
+            "Replies": [
+                {
+                    "Reply": "Even stokers need a little stoke!",
+                    "Didascalie": "",
+                    "Start": 50273,
+                    "End": 50307
+                }
+            ]
+        },
+        {
             "Character": "HAIR CRONE",
             "Replies": [
                 {
@@ -1726,24 +1895,6 @@
                     "Didascalie": "",
                     "Start": 57958,
                     "End": 58055
-                },
-                {
-                    "Reply": "... why all the fuss.  WHORE 2 You're no grander than the rest of us.",
-                    "Didascalie": "",
-                    "Start": 59853,
-                    "End": 59996
-                },
-                {
-                    "Reply": "... make money in your sleep.  WHORE 2 That's right, dearie, Show him what you've got!",
-                    "Didascalie": "",
-                    "Start": 60781,
-                    "End": 60933
-                },
-                {
-                    "Reply": "... show him what you've got.  WHORE 3 That's right, dearie, Let him have the lot!",
-                    "Didascalie": "",
-                    "Start": 61009,
-                    "End": 61157
                 },
                 {
                     "Reply": "Old men, young men, take'em as they come!",
@@ -1794,6 +1945,23 @@
             ]
         },
         {
+            "Character": "LOVELY LADY 1",
+            "Replies": [
+                {
+                    "Reply": "Belly burns like fire, Will the bleeding ever stop!",
+                    "Didascalie": "",
+                    "Start": 58148,
+                    "End": 58216
+                },
+                {
+                    "Reply": "Only joking!",
+                    "Didascalie": "",
+                    "Start": 58533,
+                    "End": 58546
+                }
+            ]
+        },
+        {
             "Character": "PIMP",
             "Replies": [
                 {
@@ -1819,6 +1987,40 @@
                     "Didascalie": "",
                     "Start": 59235,
                     "End": 59282
+                }
+            ]
+        },
+        {
+            "Character": "WHORE 2",
+            "Replies": [
+                {
+                    "Reply": "You're no grander than the rest of us.",
+                    "Didascalie": "",
+                    "Start": 59947,
+                    "End": 59996
+                },
+                {
+                    "Reply": "That's right, dearie, Show him what you've got!",
+                    "Didascalie": "",
+                    "Start": 60875,
+                    "End": 60933
+                }
+            ]
+        },
+        {
+            "Character": "WHORE 3",
+            "Replies": [
+                {
+                    "Reply": "Life has dropped you at the bottom of the heap.",
+                    "Didascalie": "",
+                    "Start": 60224,
+                    "End": 60282
+                },
+                {
+                    "Reply": "That's right, dearie, Let him have the lot!",
+                    "Didascalie": "",
+                    "Start": 61103,
+                    "End": 61157
                 }
             ]
         },
@@ -2187,6 +2389,50 @@
                     "Didascalie": "",
                     "Start": 259502,
                     "End": 259527
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 1",
+            "Replies": [
+                {
+                    "Reply": "Mine host Thenardier He was there, so they say, At the field of Waterloo.",
+                    "Didascalie": "",
+                    "Start": 95627,
+                    "End": 95721
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 2",
+            "Replies": [
+                {
+                    "Reply": "Got there, it's true, When the fight was all through But he knew just what to do.",
+                    "Didascalie": "",
+                    "Start": 95799,
+                    "End": 95901
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 3",
+            "Replies": [
+                {
+                    "Reply": "Picking through the pockets of the English dead.",
+                    "Didascalie": "",
+                    "Start": 96191,
+                    "End": 96256
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 4",
+            "Replies": [
+                {
+                    "Reply": "He made a tidy score from the spoils of war.",
+                    "Didascalie": "",
+                    "Start": 96348,
+                    "End": 96409
                 }
             ]
         },
@@ -2683,6 +2929,17 @@
             ]
         },
         {
+            "Character": "BEGGAR 1",
+            "Replies": [
+                {
+                    "Reply": "When we gonna live?",
+                    "Didascalie": "",
+                    "Start": 129687,
+                    "End": 129707
+                }
+            ]
+        },
+        {
             "Character": "JOLY",
             "Replies": [
                 {
@@ -2738,6 +2995,17 @@
                     "Didascalie": "",
                     "Start": 224310,
                     "End": 224343
+                }
+            ]
+        },
+        {
+            "Character": "BEGGAR 2",
+            "Replies": [
+                {
+                    "Reply": "Something's gotta give!",
+                    "Didascalie": "",
+                    "Start": 129913,
+                    "End": 129937
                 }
             ]
         },
@@ -3901,6 +4169,95 @@
                     "Didascalie": "",
                     "Start": 230111,
                     "End": 230125
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Did you see them Going off to fight?",
+                    "Didascalie": "",
+                    "Start": 239508,
+                    "End": 239561
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Children of the barricade Who didn't last the night.",
+                    "Didascalie": "",
+                    "Start": 239612,
+                    "End": 239681
+                },
+                {
+                    "Reply": "No one ever told them that A summer day can kill.",
+                    "Didascalie": "",
+                    "Start": 240174,
+                    "End": 240240
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 3",
+            "Replies": [
+                {
+                    "Reply": "Did you see them Lying where they died?",
+                    "Didascalie": "",
+                    "Start": 239732,
+                    "End": 239788
+                },
+                {
+                    "Reply": "Where's that new world Now the fighting's done?",
+                    "Didascalie": "",
+                    "Start": 240486,
+                    "End": 240550
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 4",
+            "Replies": [
+                {
+                    "Reply": "Did you see them lying side by side?",
+                    "Didascalie": "",
+                    "Start": 239930,
+                    "End": 239983
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 5",
+            "Replies": [
+                {
+                    "Reply": "Who will wake them?",
+                    "Didascalie": "",
+                    "Start": 240034,
+                    "End": 240054
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 6",
+            "Replies": [
+                {
+                    "Reply": "No one ever will.",
+                    "Didascalie": "",
+                    "Start": 240105,
+                    "End": 240123
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 7",
+            "Replies": [
+                {
+                    "Reply": "They were schoolboys Never held a gun Fighting for a new world that Would rise up like the sun.",
+                    "Didascalie": "",
+                    "Start": 240291,
+                    "End": 240435
                 }
             ]
         },

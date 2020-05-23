@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Rocky Horror Picture Show, The",
-        "   "
-    ],
+    "Title": "Rocky Horror Picture Show, The",
     "Author": [
-        "\u00a0\u00a0Richard O'Brien\u00a0\u00a0 Jim Sharman"
+        "Richard O'Brien",
+        " Jim Sharman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Musical\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Horror",
+        "Musical",
+        "Sci-Fi"
     ],
     "Characters": [
         {

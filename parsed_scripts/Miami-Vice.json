@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Miami Vice",
-        "   "
-    ],
+    "Title": "Miami Vice",
     "Author": [
-        "\u00a0\u00a0Michael Mann\u00a0\u00a0Anthony Yerkovich"
+        "Michael Mann",
+        "Anthony Yerkovich"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -18,17 +19,6 @@
                     "Didascalie": "",
                     "Start": 70,
                     "End": 165
-                }
-            ]
-        },
-        {
-            "Character": "A DEEPLY-TANNED PLAYER",
-            "Replies": [
-                {
-                    "Reply": "named NICHOLAS in Vuarnet wraparounds and buzz-cut white hair glides by...",
-                    "Didascalie": "",
-                    "Start": 2689,
-                    "End": 2767
                 }
             ]
         },

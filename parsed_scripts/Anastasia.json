@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Anastasia",
-        "   "
-    ],
+    "Title": "Anastasia",
     "Author": [
-        "\u00a0\u00a0Susan Gauthier\u00a0\u00a0Bruce Graham"
+        "Susan Gauthier",
+        "Bruce Graham"
     ],
     "Genre": [
-        "\u00a0\u00a0Family\u00a0\u00a0Animation\u00a0\u00a0Musical"
+        "Family",
+        "Animation",
+        "Musical"
     ],
     "Characters": [
         {
@@ -1001,12 +1001,6 @@
                     "End": 34751
                 },
                 {
-                    "Reply": "Oh. . .  Grandmama it's me.",
-                    "Didascalie": "(O.C.) (stupid)",
-                    "Start": 34811,
-                    "End": 34850
-                },
-                {
                     "Reply": "Next!",
                     "Didascalie": "",
                     "Start": 35010,
@@ -1029,12 +1023,6 @@
                     "Didascalie": "",
                     "Start": 35635,
                     "End": 35641
-                },
-                {
-                    "Reply": "What's my modivation?",
-                    "Didascalie": "(O.C.) (very intense)",
-                    "Start": 35707,
-                    "End": 35740
                 },
                 {
                     "Reply": "Next!",
@@ -1705,17 +1693,6 @@
             ]
         },
         {
-            "Character": "A BLACK AND WHITE PHOTOGRAPH",
-            "Replies": [
-                {
-                    "Reply": "of Anastasia, in a happier time, smiling.",
-                    "Didascalie": "",
-                    "Start": 14647,
-                    "End": 14689
-                }
-            ]
-        },
-        {
             "Character": "GREGOR",
             "Replies": [
                 {
@@ -1931,12 +1908,6 @@
                     "Didascalie": "(doesn't get it)",
                     "Start": 28748,
                     "End": 28788
-                },
-                {
-                    "Reply": "Excuse me, do you know Dmitri. . .  PEASANT 9 I know nothing!",
-                    "Didascalie": "",
-                    "Start": 30209,
-                    "End": 30315
                 },
                 {
                     "Reply": "I wish they'd all stop telling me they didn't tell me!",
@@ -2664,13 +2635,41 @@
             ]
         },
         {
-            "Character": "END MUSICAL NUMBER",
+            "Character": "PEASANT 1",
             "Replies": [
                 {
-                    "Reply": "HUGE BONE in his mouth, being chased along the sidewalk by a pack of much larger, vicious DOGS until he bolts across Anya's path forcing her to skid to a stop. She watched him as he scoots into an alley, followed by the angry pack.",
+                    "Reply": "End of the line!",
                     "Didascalie": "",
-                    "Start": 24563,
-                    "End": 24795
+                    "Start": 26638,
+                    "End": 26655
+                }
+            ]
+        },
+        {
+            "Character": "PEASANT 2",
+            "Replies": [
+                {
+                    "Reply": "Any line.",
+                    "Didascalie": "",
+                    "Start": 26750,
+                    "End": 26760
+                }
+            ]
+        },
+        {
+            "Character": "PEASANT 3",
+            "Replies": [
+                {
+                    "Reply": "All lines are good lines.",
+                    "Didascalie": "",
+                    "Start": 26804,
+                    "End": 26830
+                },
+                {
+                    "Reply": "In our beloved Soviet Union!",
+                    "Didascalie": "(in unison)",
+                    "Start": 26901,
+                    "End": 26941
                 }
             ]
         },
@@ -2706,6 +2705,50 @@
                     "Didascalie": "",
                     "Start": 72133,
                     "End": 72155
+                }
+            ]
+        },
+        {
+            "Character": "PEASANT 4",
+            "Replies": [
+                {
+                    "Reply": "Travel? Travel to where?",
+                    "Didascalie": "",
+                    "Start": 27359,
+                    "End": 27384
+                }
+            ]
+        },
+        {
+            "Character": "PEASANT 5",
+            "Replies": [
+                {
+                    "Reply": "Paris?!  What do they have in Paris that they don't have here?",
+                    "Didascalie": "",
+                    "Start": 27553,
+                    "End": 27636
+                }
+            ]
+        },
+        {
+            "Character": "PEASANT 6",
+            "Replies": [
+                {
+                    "Reply": "Shorter lines?!",
+                    "Didascalie": "",
+                    "Start": 27680,
+                    "End": 27696
+                }
+            ]
+        },
+        {
+            "Character": "PEASANT 7",
+            "Replies": [
+                {
+                    "Reply": "Nobody leaves Soviet Russia.",
+                    "Didascalie": "(quietly)",
+                    "Start": 27851,
+                    "End": 27891
                 }
             ]
         },
@@ -2756,6 +2799,40 @@
             ]
         },
         {
+            "Character": "PEASANT 9",
+            "Replies": [
+                {
+                    "Reply": "Which line is this?",
+                    "Didascalie": "(to Peasant 10)",
+                    "Start": 30063,
+                    "End": 30094
+                },
+                {
+                    "Reply": "I know nothing!",
+                    "Didascalie": "",
+                    "Start": 30299,
+                    "End": 30315
+                }
+            ]
+        },
+        {
+            "Character": "PEASANT 10",
+            "Replies": [
+                {
+                    "Reply": "The line to get into the line.",
+                    "Didascalie": "",
+                    "Start": 30139,
+                    "End": 30170
+                },
+                {
+                    "Reply": "Nothing!",
+                    "Didascalie": "",
+                    "Start": 30360,
+                    "End": 30369
+                }
+            ]
+        },
+        {
             "Character": "TINY HUSBAND",
             "Replies": [
                 {
@@ -2778,13 +2855,13 @@
             ]
         },
         {
-            "Character": "A SIGN",
+            "Character": "ACTRESS 1",
             "Replies": [
                 {
-                    "Reply": "\"Pushkin Street\"",
-                    "Didascalie": "",
-                    "Start": 32045,
-                    "End": 32062
+                    "Reply": "Oh, Grandmama! It's me, Anastasia! I've waited so long to see you!",
+                    "Didascalie": "(over the top)",
+                    "Start": 32625,
+                    "End": 32723
                 }
             ]
         },
@@ -3172,6 +3249,61 @@
             ]
         },
         {
+            "Character": "ACTRESS 2",
+            "Replies": [
+                {
+                    "Reply": "Oh, Grandmama! It's me, Anastasia. I've waited so long to see you.",
+                    "Didascalie": "(heavy hasal)",
+                    "Start": 34599,
+                    "End": 34697
+                }
+            ]
+        },
+        {
+            "Character": "ACTRESS 3",
+            "Replies": [
+                {
+                    "Reply": "Oh. . .  Grandmama it's me.",
+                    "Didascalie": "(stupid)",
+                    "Start": 34811,
+                    "End": 34850
+                }
+            ]
+        },
+        {
+            "Character": "ACTRESS 5",
+            "Replies": [
+                {
+                    "Reply": "Oh, Grandmama. . .",
+                    "Didascalie": "",
+                    "Start": 35568,
+                    "End": 35587
+                }
+            ]
+        },
+        {
+            "Character": "ACTRESS 6",
+            "Replies": [
+                {
+                    "Reply": "What's my modivation?",
+                    "Didascalie": "(very intense)",
+                    "Start": 35707,
+                    "End": 35740
+                }
+            ]
+        },
+        {
+            "Character": "ACTRESS 7",
+            "Replies": [
+                {
+                    "Reply": "Oh. . .",
+                    "Didascalie": "",
+                    "Start": 36020,
+                    "End": 36028
+                }
+            ]
+        },
+        {
             "Character": "POLICEMAN",
             "Replies": [
                 {
@@ -3513,17 +3645,6 @@
             ]
         },
         {
-            "Character": "END NUMBER",
-            "Replies": [
-                {
-                    "Reply": "Dmitri's voice causes the visage to disintegrate.  All goes back to the way it was - dark and destroyed.",
-                    "Didascalie": "",
-                    "Start": 46160,
-                    "End": 46265
-                }
-            ]
-        },
-        {
             "Character": "YOU IDIOT",
             "Replies": [
                 {
@@ -3651,17 +3772,6 @@
             ]
         },
         {
-            "Character": "A POSSIBLE VLADIMIR SONG",
-            "Replies": [
-                {
-                    "Reply": "Vladimir would begin to sing here, telling Anya that she has a lot to learn. The music would probably have a LIGHT, SOMEWHAT COMEDIC tone, and would be just a SHORT SECTION OF SINGING, which would then SEGUE TO UNDERSCORE for the scenes of instruction which follow.",
-                    "Didascalie": "",
-                    "Start": 82021,
-                    "End": 82287
-                }
-            ]
-        },
-        {
             "Character": "ELDERLY DOWAGER",
             "Replies": [
                 {
@@ -3686,17 +3796,6 @@
                     "Didascalie": "(to reliquary)",
                     "Start": 93313,
                     "End": 93342
-                }
-            ]
-        },
-        {
-            "Character": "A BURST OF SUNLIGHT",
-            "Replies": [
-                {
-                    "Reply": "as Anya lands in a field of soft GOLDEN WHEAT. Unharmed and very relieved, she stands and looks around at the beautiful sunny wheat field.",
-                    "Didascalie": "",
-                    "Start": 95615,
-                    "End": 95754
                 }
             ]
         },

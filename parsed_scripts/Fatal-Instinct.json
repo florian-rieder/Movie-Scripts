@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Fatal Instinct",
-        "   "
-    ],
+    "Title": "Fatal Instinct",
     "Author": [
-        "\u00a0\u00a0David O'Malley"
+        "David O'Malley"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3000,17 +2999,6 @@
             ]
         },
         {
-            "Character": "REVEAL ARCH",
-            "Replies": [
-                {
-                    "Reply": "holding up a series of \"cue cards\"... as Ned reads from them.",
-                    "Didascalie": "",
-                    "Start": 18537,
-                    "End": 18599
-                }
-            ]
-        },
-        {
             "Character": "LANA",
             "Replies": [
                 {
@@ -4640,17 +4628,6 @@
             ]
         },
         {
-            "Character": "A FRAMED PHOTOGRAPH",
-            "Replies": [
-                {
-                    "Reply": "of her abusive HUSBAND... sneering. A circle has been drawn around his head with lipstick and a diagonal line slashed across his face.",
-                    "Didascalie": "",
-                    "Start": 78378,
-                    "End": 78545
-                }
-            ]
-        },
-        {
             "Character": "GUARD",
             "Replies": [
                 {
@@ -5003,13 +4980,24 @@
             ]
         },
         {
-            "Character": "SPINNING NEWSPAPER",
+            "Character": "INVESTIGATOR 1",
             "Replies": [
                 {
-                    "Reply": "whirls at us, snapping to a stop in someone's hands... upside down. The hands turn it rightside up. The headline reads:  \"COP ARRESTS WIFE FOR MURDER!... WILL DEFEND HER IN COURT!\"",
+                    "Reply": "It's your collar... your bust...",
                     "Didascalie": "",
-                    "Start": 181865,
-                    "End": 182077
+                    "Start": 188034,
+                    "End": 188068
+                }
+            ]
+        },
+        {
+            "Character": "INVESTIGATOR 2",
+            "Replies": [
+                {
+                    "Reply": "Sorry Mrs. Ravine... there's no makeup allowed in this building.",
+                    "Didascalie": "",
+                    "Start": 188518,
+                    "End": 188609
                 }
             ]
         },

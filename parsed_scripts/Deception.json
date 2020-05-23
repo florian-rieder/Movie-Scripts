@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Deception",
-        "   "
-    ],
+    "Title": "Deception",
     "Author": [
-        "\u00a0\u00a0Mark Bomback\u00a0\u00a0Patrick Marber"
+        "Mark Bomback",
+        "Patrick Marber"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -539,12 +541,6 @@
                     "Didascalie": "",
                     "Start": 50321,
                     "End": 50361
-                },
-                {
-                    "Reply": "27  CONTINUED: CLICK. The line goes dead.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 50383,
-                    "End": 50505
                 },
                 {
                     "Reply": "Hello?",
@@ -2371,6 +2367,40 @@
             ]
         },
         {
+            "Character": "LAWYER 1",
+            "Replies": [
+                {
+                    "Reply": "So, the Knicks win last night?",
+                    "Didascalie": "",
+                    "Start": 5672,
+                    "End": 5703
+                },
+                {
+                    "Reply": "Oh.",
+                    "Didascalie": "",
+                    "Start": 5981,
+                    "End": 5985
+                },
+                {
+                    "Reply": "Hey, so. did you get a chance to look over that memo from Watkins?",
+                    "Didascalie": "(back to Lawyer 2)",
+                    "Start": 6013,
+                    "End": 6101
+                }
+            ]
+        },
+        {
+            "Character": "LAWYER 2",
+            "Replies": [
+                {
+                    "Reply": "I'm pretty sure, yeah.",
+                    "Didascalie": "",
+                    "Start": 5733,
+                    "End": 5756
+                }
+            ]
+        },
+        {
             "Character": "MALE VOICE",
             "Replies": [
                 {
@@ -3392,17 +3422,6 @@
             ]
         },
         {
-            "Character": "A GRUFF VOICE",
-            "Replies": [
-                {
-                    "Reply": "Hey, quit looking down her shirt!",
-                    "Didascalie": "",
-                    "Start": 24814,
-                    "End": 24848
-                }
-            ]
-        },
-        {
             "Character": "EMCEE",
             "Replies": [
                 {
@@ -3466,6 +3485,17 @@
                     "Didascalie": "",
                     "Start": 49090,
                     "End": 49289
+                }
+            ]
+        },
+        {
+            "Character": "SECRETARY 1",
+            "Replies": [
+                {
+                    "Reply": ".That's just it. You caught him in a lie, so now everything he says you have to-",
+                    "Didascalie": "",
+                    "Start": 49698,
+                    "End": 49789
                 }
             ]
         },
@@ -3734,6 +3764,64 @@
                     "Didascalie": "",
                     "Start": 105988,
                     "End": 106013
+                }
+            ]
+        },
+        {
+            "Character": "SECURITY 1",
+            "Replies": [
+                {
+                    "Reply": "This woman you were with. What's her name?",
+                    "Didascalie": "",
+                    "Start": 111439,
+                    "End": 111482
+                },
+                {
+                    "Reply": "I thought you said there was blood?",
+                    "Didascalie": "",
+                    "Start": 112121,
+                    "End": 112157
+                },
+                {
+                    "Reply": "How about putting them on.",
+                    "Didascalie": "",
+                    "Start": 113510,
+                    "End": 113537
+                }
+            ]
+        },
+        {
+            "Character": "SECURITY 2",
+            "Replies": [
+                {
+                    "Reply": "Sir?",
+                    "Didascalie": "",
+                    "Start": 111563,
+                    "End": 111568
+                },
+                {
+                    "Reply": "Was shea prostitute?",
+                    "Didascalie": "",
+                    "Start": 111714,
+                    "End": 111735
+                },
+                {
+                    "Reply": "A friend with no name.",
+                    "Didascalie": "",
+                    "Start": 111836,
+                    "End": 111859
+                },
+                {
+                    "Reply": "Maybe she took them.",
+                    "Didascalie": "",
+                    "Start": 112711,
+                    "End": 112732
+                },
+                {
+                    "Reply": "It happens.",
+                    "Didascalie": "",
+                    "Start": 112801,
+                    "End": 112813
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Newsies",
-        "   "
-    ],
+    "Title": "Newsies",
     "Author": [
-        "\u00a0\u00a0Bob Tzudiker\u00a0\u00a0Noni White\u00a0\u00a0David Fallon\u00a0\u00a0Tom Rickman"
+        "Bob Tzudiker",
+        "Noni White",
+        "David Fallon",
+        "Tom Rickman"
     ],
     "Genre": [
-        "\u00a0\u00a0Family\u00a0\u00a0Musical"
+        "Family",
+        "Musical"
     ],
     "Characters": [
         {
@@ -3058,17 +3059,6 @@
             ]
         },
         {
-            "Character": "TWENTY",
-            "Replies": [
-                {
-                    "Reply": "BUT A DOZEN'LL BE PLENTY     WILL YA TELL ME HOW'S A GUY GONNA            HOW'M I GONNA MAKE ENDS MAKE ENDS MEET?              MEET?",
-                    "Didascalie": "",
-                    "Start": 21117,
-                    "End": 21262
-                }
-            ]
-        },
-        {
             "Character": "WE IMPROVES OUR CIRCULATION",
             "Replies": [
                 {
@@ -4854,17 +4844,6 @@
             ]
         },
         {
-            "Character": "GIVE OUR RIGHTS AWAY",
-            "Replies": [
-                {
-                    "Reply": "ARISE AND SEIZE THE DAY!",
-                    "Didascalie": "",
-                    "Start": 131597,
-                    "End": 131622
-                }
-            ]
-        },
-        {
             "Character": "COP",
             "Replies": [
                 {
@@ -5076,17 +5055,6 @@
                     "Didascalie": "",
                     "Start": 182114,
                     "End": 182135
-                }
-            ]
-        },
-        {
-            "Character": "MY OLD FRIEND",
-            "Replies": [
-                {
-                    "Reply": "I CAN'T SPEND MY WHOLE LIFE HIDIN' YOU'RE THE ONLY LIGHT THAT'S GUIDIN' ME TODAY Jack looks up as the serving panel opens and Crutchy peers through, offering him something furtively: a boiled potato.",
-                    "Didascalie": "",
-                    "Start": 203044,
-                    "End": 203388
                 }
             ]
         },

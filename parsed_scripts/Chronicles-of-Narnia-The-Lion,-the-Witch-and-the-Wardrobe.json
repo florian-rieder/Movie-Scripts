@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        "   "
-    ],
+    "Title": "Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "Author": [
-        "\u00a0\u00a0C.S. Lewis\u00a0\u00a0Ann Peacock"
+        "C.S. Lewis",
+        "Ann Peacock"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Family\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy"
     ],
     "Characters": [
         {

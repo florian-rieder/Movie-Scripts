@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Pineapple Express",
-        "   "
-    ],
+    "Title": "Pineapple Express",
     "Author": [
-        "\u00a0\u00a0Judd Apatow\u00a0\u00a0Seth Rogen\u00a0\u00a0Evan Goldberg"
+        "Judd Apatow",
+        "Seth Rogen",
+        "Evan Goldberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {

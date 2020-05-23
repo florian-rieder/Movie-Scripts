@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Game, The",
-        "   "
-    ],
+    "Title": "Game, The",
     "Author": [
-        "\u00a0\u00a0John Brancato\u00a0\u00a0Michael Ferris\u00a0\u00a0Larry Gross\u00a0\u00a0Andrew Kevin Walker"
+        "John Brancato",
+        "Michael Ferris",
+        "Larry Gross",
+        "Andrew Kevin Walker"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -449,12 +450,6 @@
                     "Didascalie": "",
                     "Start": 143144,
                     "End": 143232
-                },
-                {
-                    "Reply": "SCHUYLER'S MBZ cruises past rows of similar-looking, lower-middle- class homes, a pretty shabby neighborhood.  He parks the Benz.  A WHITE VAN is parked just up the street, a LOOP AND RABBIT EAR on the roof.  PAN to show THE DRIVER'S SIDE DOOR... A cartoonish logo with the CRS MAN holding a wrench by a TV SET in front of a RAINBOW, the words \"CABLE REPAIR SPECIALISTS.\"",
-                    "Didascalie": "",
-                    "Start": 143778,
-                    "End": 144176
                 },
                 {
                     "Reply": "Mr. Kaminsky?  Schuyler Van Orton--  MR. KAMINSKY Is that a name?  Look, I'm kinda busy.",

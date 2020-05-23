@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Kafka",
-        "   "
-    ],
+    "Title": "Kafka",
     "Author": [
-        "\u00a0\u00a0Lem Dobbs"
+        "Lem Dobbs"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3578,17 +3575,6 @@
             ]
         },
         {
-            "Character": "A LOPSIDED STAIRWAY",
-            "Replies": [
-                {
-                    "Reply": "Leads him up to a large attic.  Warning shadows.",
-                    "Didascalie": "",
-                    "Start": 58947,
-                    "End": 58996
-                }
-            ]
-        },
-        {
             "Character": "ATTIC",
             "Replies": [
                 {
@@ -4191,17 +4177,6 @@
             ]
         },
         {
-            "Character": "A WAGON",
-            "Replies": [
-                {
-                    "Reply": "Rolls along one of the moribund streets of the Old Town.  The Driver swivels in his seat, looking over his wide shoulder, as if to see if he's being followed.  The glint in his eye suggests Evil.",
-                    "Didascalie": "",
-                    "Start": 136631,
-                    "End": 136851
-                }
-            ]
-        },
-        {
             "Character": "OFFICE",
             "Replies": [
                 {
@@ -4434,17 +4409,6 @@
                     "Didascalie": "",
                     "Start": 165581,
                     "End": 165859
-                }
-            ]
-        },
-        {
-            "Character": "END OF CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "Kafka looks down a long dark staircase -- a hint of light glowing at the bottom.",
-                    "Didascalie": "",
-                    "Start": 166680,
-                    "End": 166769
                 }
             ]
         },

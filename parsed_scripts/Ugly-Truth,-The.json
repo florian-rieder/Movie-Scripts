@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Ugly Truth, The",
-        "   "
-    ],
+    "Title": "Ugly Truth, The",
     "Author": [
-        "\u00a0\u00a0Nicole Eastman\u00a0\u00a0Tracey Jackson\u00a0\u00a0Peter Hume\u00a0\u00a0David Diamond\u00a0\u00a0David Weissman\u00a0\u00a0Roger Kumble"
+        "Nicole Eastman",
+        "Tracey Jackson",
+        "Peter Hume",
+        "David Diamond",
+        "David Weissman",
+        "Roger Kumble"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

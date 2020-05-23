@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Little Nicky",
-        "   "
-    ],
+    "Title": "Little Nicky",
     "Author": [
-        "\u00a0\u00a0Tim Herlihy\u00a0\u00a0Adam Sandler\u00a0\u00a0Steven Brill"
+        "Tim Herlihy",
+        "Adam Sandler",
+        "Steven Brill"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Horror"
+        "Comedy",
+        "Fantasy",
+        "Horror"
     ],
     "Characters": [
         {
@@ -4333,23 +4334,6 @@
                     "Didascalie": "",
                     "Start": 70800,
                     "End": 71060
-                }
-            ]
-        },
-        {
-            "Character": "VIDEO FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "A few CATS are down in the aisle physically pushing around shocked audience members.",
-                    "Didascalie": "",
-                    "Start": 47244,
-                    "End": 47330
-                },
-                {
-                    "Reply": "The set of Regis and Kathy Lee.",
-                    "Didascalie": "",
-                    "Start": 47485,
-                    "End": 47517
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Sphere",
-        "   "
-    ],
+    "Title": "Sphere",
     "Author": [
-        "\u00a0\u00a0Stephen Hauser"
+        "Stephen Hauser"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -8239,17 +8237,6 @@
             ]
         },
         {
-            "Character": "A SEA SNAKE",
-            "Replies": [
-                {
-                    "Reply": "HISSES at his faceplate.  Norman SCREAMS.",
-                    "Didascalie": "",
-                    "Start": 147325,
-                    "End": 147367
-                }
-            ]
-        },
-        {
             "Character": "ROUNDS A CORNER",
             "Replies": [
                 {
@@ -8268,17 +8255,6 @@
                     "Didascalie": "",
                     "Start": 174438,
                     "End": 174550
-                }
-            ]
-        },
-        {
-            "Character": "A FAINT HIGH-PITCHED HISSING SOUND",
-            "Replies": [
-                {
-                    "Reply": "Norman looks over at the sinks.",
-                    "Didascalie": "",
-                    "Start": 178638,
-                    "End": 178670
                 }
             ]
         },
@@ -8384,17 +8360,6 @@
                     "Didascalie": "",
                     "Start": 214734,
                     "End": 214764
-                }
-            ]
-        },
-        {
-            "Character": "A BOX OF CORN FLAKES",
-            "Replies": [
-                {
-                    "Reply": "floats by his faceplate.",
-                    "Didascalie": "",
-                    "Start": 202800,
-                    "End": 202825
                 }
             ]
         },

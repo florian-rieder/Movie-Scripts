@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Platinum Blonde",
-        "   "
-    ],
+    "Title": "Platinum Blonde",
     "Author": [
-        "\u00a0\u00a0Harry E. Chandlee\u00a0\u00a0Douglas W. Churchill\u00a0\u00a0Robert Riskin"
+        "Harry E. Chandlee",
+        "Douglas W. Churchill",
+        "Robert Riskin"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

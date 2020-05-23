@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Wild Hogs",
-        "   "
-    ],
+    "Title": "Wild Hogs",
     "Author": [
-        "\u00a0\u00a0Brad Copeland"
+        "Brad Copeland"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Action",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2742,12 +2741,6 @@
                     "Didascalie": "",
                     "Start": 7406,
                     "End": 7426
-                },
-                {
-                    "Reply": "EEEEEIIIIIIIIIAAAAAAAAAAAA1 Bob winces, and looks around for his other daughter.",
-                    "Didascalie": "(screams at the top of her  LUNGS)",
-                    "Start": 7495,
-                    "End": 7613
                 },
                 {
                     "Reply": "Eeeeeeeiiiiiaaaaa!!",

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Go",
-        "   "
-    ],
+    "Title": "Go",
     "Author": [
-        "\u00a0\u00a0John August"
+        "John August"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -4030,23 +4028,6 @@
             ]
         },
         {
-            "Character": "A MONITOR",
-            "Replies": [
-                {
-                    "Reply": "In black-and-white VIDEO, we're looking down on wide-angle view of the entire room -- a surveillance camera. We can see the reflection of someone watching.",
-                    "Didascalie": "",
-                    "Start": 42176,
-                    "End": 42342
-                },
-                {
-                    "Reply": "19A.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 42420,
-                    "End": 42499
-                }
-            ]
-        },
-        {
             "Character": "LOOP",
             "Replies": [
                 {
@@ -4136,17 +4117,6 @@
             ]
         },
         {
-            "Character": "A CRAPPY CD PLAYER",
-            "Replies": [
-                {
-                    "Reply": "volume dial all the way up.",
-                    "Didascalie": "",
-                    "Start": 51947,
-                    "End": 51975
-                }
-            ]
-        },
-        {
             "Character": "TM",
             "Replies": [
                 {
@@ -4176,17 +4146,6 @@
                     "Didascalie": "",
                     "Start": 61472,
                     "End": 61484
-                }
-            ]
-        },
-        {
-            "Character": "A SIAMESE CAT",
-            "Replies": [
-                {
-                    "Reply": "lays down on a table in front of him, staring at him.",
-                    "Didascalie": "",
-                    "Start": 62911,
-                    "End": 62965
                 }
             ]
         },
@@ -4306,17 +4265,6 @@
                     "Didascalie": "",
                     "Start": 75131,
                     "End": 75137
-                }
-            ]
-        },
-        {
-            "Character": "A RED MIATA",
-            "Replies": [
-                {
-                    "Reply": "doing 20 in reverse. It brakes, but there's no time. It hits her hard.",
-                    "Didascalie": "",
-                    "Start": 79599,
-                    "End": 79675
                 }
             ]
         },
@@ -5056,12 +5004,6 @@
                     "Didascalie": "(whisper)",
                     "Start": 139591,
                     "End": 139623
-                },
-                {
-                    "Reply": "108A UP AHEAD                                                              108A  The end of the alley approaches. From the far edge, a flashing orange light. A giant street-sweeper is slowly crossing the alley. We WHIP BACK to see the Cadillac approaching.",
-                    "Didascalie": "",
-                    "Start": 146371,
-                    "End": 146646
                 },
                 {
                     "Reply": "Wait, no. They're coming in.",

@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Up",
-        "   "
-    ],
+    "Title": "Up",
     "Author": [
-        "\u00a0\u00a0Pete Docter\u00a0\u00a0Bob Peterson\u00a0\u00a0Thomas McCarthy"
+        "Pete Docter",
+        "Bob Peterson",
+        "Thomas McCarthy"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Family"
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family"
     ],
     "Characters": [
         {

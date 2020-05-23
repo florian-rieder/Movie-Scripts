@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Jaws 2",
-        "   "
-    ],
+    "Title": "Jaws 2",
     "Author": [
-        "\u00a0\u00a0Carl Gottlieb\u00a0\u00a0Howard Sackler"
+        "Carl Gottlieb",
+        "Howard Sackler"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Adventure"
+        "Horror",
+        "Thriller",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -6824,17 +6824,6 @@
             ]
         },
         {
-            "Character": "A SWIMMER",
-            "Replies": [
-                {
-                    "Reply": "What's going on?",
-                    "Didascalie": "",
-                    "Start": 120718,
-                    "End": 120735
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER SWIMMER",
             "Replies": [
                 {
@@ -6917,45 +6906,6 @@
                     "Didascalie": "",
                     "Start": 129281,
                     "End": 129315
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "Quietly gaining contrast in a pan of developer, a print of what at first looks like seaweed, then is unmistakably the grinning jaws of the Great White.",
-                    "Didascalie": "",
-                    "Start": 130070,
-                    "End": 130254
-                },
-                {
-                    "Reply": "Ed's hands on the rail, knuckles white, an iron grip. With awful finality, the force pulls down, and the wood shatters and splits away as Ed's hands are pulled down and under by the awful force.",
-                    "Didascalie": "",
-                    "Start": 175396,
-                    "End": 175639
-                }
-            ]
-        },
-        {
-            "Character": "INSERT PHOTOGRAPH IN DEVELOPER",
-            "Replies": [
-                {
-                    "Reply": "The close-up detail of this otherwise blurred and unreadable photo is unmistakably a detail from a very close view of the snapping jaws of a Great White; if you hadn't seen it as a memory, it would make no sense at all. For Brody, the meaning is all too clear; for anyone who's never seen the monster face-to-face, it's nothing.",
-                    "Didascalie": "",
-                    "Start": 130587,
-                    "End": 130996
-                }
-            ]
-        },
-        {
-            "Character": "INSERT PHOTO",
-            "Replies": [
-                {
-                    "Reply": "Just as before, an ambiguous pattern of light and dark; not proof of anything without Brody's inner vision.",
-                    "Didascalie": "",
-                    "Start": 134498,
-                    "End": 134622
                 }
             ]
         },

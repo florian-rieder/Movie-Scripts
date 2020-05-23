@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Donnie Brasco",
-        "   "
-    ],
+    "Title": "Donnie Brasco",
     "Author": [
-        "\u00a0\u00a0Paul Attanasio"
+        "Paul Attanasio"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2689,17 +2688,6 @@
             ]
         },
         {
-            "Character": "A PASS",
-            "Replies": [
-                {
-                    "Reply": "spirals up into the air...where it's INTERCEPTED by Joe, who appears out of nowhere.",
-                    "Didascalie": "",
-                    "Start": 10178,
-                    "End": 10267
-                }
-            ]
-        },
-        {
             "Character": "SHERRY",
             "Replies": [
                 {
@@ -3404,6 +3392,17 @@
                     "Didascalie": "",
                     "Start": 16427,
                     "End": 16457
+                }
+            ]
+        },
+        {
+            "Character": "J 9E",
+            "Replies": [
+                {
+                    "Reply": "It's   just six months.",
+                    "Didascalie": "",
+                    "Start": 14503,
+                    "End": 14527
                 }
             ]
         },
@@ -5672,12 +5671,6 @@
                     "End": 134372
                 },
                 {
-                    "Reply": "66   CONTINUED:    .",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 134434,
-                    "End": 134457
-                },
-                {
                     "Reply": "Hey, Lefty, why didn't you bring Louise?",
                     "Didascalie": "",
                     "Start": 134777,
@@ -6461,13 +6454,24 @@
             ]
         },
         {
-            "Character": "A RED LIGHT",
+            "Character": "DONNIE OUT",
             "Replies": [
                 {
-                    "Reply": "The cab stops. Lefty JUMPS out of the Cadillac...",
+                    "Reply": "of the Cadillac, running toward Lefty... INSIDE the cab, a nervous PASSENGER gathers her shopping bags...",
                     "Didascalie": "",
-                    "Start": 45624,
-                    "End": 45674
+                    "Start": 46411,
+                    "End": 46522
+                }
+            ]
+        },
+        {
+            "Character": "SMASH 1",
+            "Replies": [
+                {
+                    "Reply": "as the Cabbie's window CAVES IN...Lefty with the JACK. . . SWINGS down hard on the windshield. From INSIDE, a spider's web of shattered glass.",
+                    "Didascalie": "",
+                    "Start": 46540,
+                    "End": 46693
                 }
             ]
         },
@@ -6701,23 +6705,6 @@
             ]
         },
         {
-            "Character": "A MA BELL REPAIR VAN",
-            "Replies": [
-                {
-                    "Reply": "LINESMAN, climbs the pole...",
-                    "Didascalie": "",
-                    "Start": 62662,
-                    "End": 62691
-                },
-                {
-                    "Reply": "...By tonight we'll have a guy inside...",
-                    "Didascalie": "(to phone)",
-                    "Start": 63056,
-                    "End": 63129
-                }
-            ]
-        },
-        {
             "Character": "LZFTY",
             "Replies": [
                 {
@@ -6844,17 +6831,6 @@
             ]
         },
         {
-            "Character": "A TRACTOR TRAILER",
-            "Replies": [
-                {
-                    "Reply": "Donnie SWERVES. The car tumbles off the road onto a soft shoulder.",
-                    "Didascalie": "",
-                    "Start": 100516,
-                    "End": 100583
-                }
-            ]
-        },
-        {
             "Character": "KISS PASSIONATELY",
             "Replies": [
                 {
@@ -6884,17 +6860,6 @@
                     "Didascalie": "",
                     "Start": 106204,
                     "End": 106342
-                }
-            ]
-        },
-        {
-            "Character": "A YELLOW LIGHT",
-            "Replies": [
-                {
-                    "Reply": "Donnie slows, then SPEEDS through the intersection as the yellow light goes RED...Checks his mirror--the other car is STUCK at the light.",
-                    "Didascalie": "",
-                    "Start": 106476,
-                    "End": 106624
                 }
             ]
         },
@@ -7182,17 +7147,6 @@
             ]
         },
         {
-            "Character": "A BIRTHDAY CAKE",
-            "Replies": [
-                {
-                    "Reply": "half-eaten, with the elided legend, \"HAPPY SWEET SIXTEEN, TERRY.\" He missed the party.",
-                    "Didascalie": "",
-                    "Start": 152012,
-                    "End": 152104
-                }
-            ]
-        },
-        {
             "Character": "DISALVO",
             "Replies": [
                 {
@@ -7256,17 +7210,6 @@
                     "Didascalie": "",
                     "Start": 167602,
                     "End": 167714
-                }
-            ]
-        },
-        {
-            "Character": "DONNIE BLOWS",
-            "Replies": [
-                {
-                    "Reply": "GRABS the Maitre d' and RAMS him through the doors of the MEN'S   ROOM.",
-                    "Didascalie": "",
-                    "Start": 177905,
-                    "End": 177977
                 }
             ]
         },
@@ -7380,17 +7323,6 @@
                     "Didascalie": "",
                     "Start": 195308,
                     "End": 195419
-                }
-            ]
-        },
-        {
-            "Character": "A PISTOL",
-            "Replies": [
-                {
-                    "Reply": "Boobie running FREE in the night. . .Reaches the fountain, holds up his a rms in vic tory. Lea ns over, h ands on k nees, WHEE ZING. Turn s, smiling. And his smile FRACTURES.",
-                    "Didascalie": "",
-                    "Start": 195555,
-                    "End": 195740
                 }
             ]
         },
@@ -7661,17 +7593,6 @@
                     "Didascalie": "",
                     "Start": 224904,
                     "End": 225035
-                }
-            ]
-        },
-        {
-            "Character": "A GUN",
-            "Replies": [
-                {
-                    "Reply": "in Lefty's hand.",
-                    "Didascalie": "",
-                    "Start": 229860,
-                    "End": 229877
                 }
             ]
         },

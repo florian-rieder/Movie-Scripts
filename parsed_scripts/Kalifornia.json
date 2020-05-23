@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Kalifornia",
-        "   "
-    ],
+    "Title": "Kalifornia",
     "Author": [
-        "\u00a0\u00a0Tim Metcalfe"
+        "Tim Metcalfe"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4732,17 +4730,6 @@
                     "Didascalie": "",
                     "Start": 91696,
                     "End": 92019
-                }
-            ]
-        },
-        {
-            "Character": "TO FIND",
-            "Replies": [
-                {
-                    "Reply": "Early leaning quietly against the same wall. Listening to them. As he does, he uses the scissors to cut through the crusty bandage on his finger. Then, across the room he notices Adele in bed asleep... the scissors stop.",
-                    "Didascalie": "",
-                    "Start": 102142,
-                    "End": 102411
                 }
             ]
         },

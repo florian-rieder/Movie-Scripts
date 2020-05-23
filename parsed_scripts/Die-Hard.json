@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Die Hard",
-        "   "
-    ],
+    "Title": "Die Hard",
     "Author": [
-        "\u00a0\u00a0Jeb Stuart\u00a0\u00a0Steven E. De Souza"
+        "Jeb Stuart",
+        "Steven E. De Souza"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Action",
+        "Thriller"
     ],
     "Characters": [
         {

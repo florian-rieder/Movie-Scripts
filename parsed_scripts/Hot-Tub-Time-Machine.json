@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Hot Tub Time Machine",
-        "   "
-    ],
+    "Title": "Hot Tub Time Machine",
     "Author": [
-        "\u00a0\u00a0Josh Heald"
+        "Josh Heald"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {

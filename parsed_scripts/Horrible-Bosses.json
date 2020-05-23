@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Horrible Bosses",
-        "   "
-    ],
+    "Title": "Horrible Bosses",
     "Author": [
-        "\u00a0\u00a0Michael Markowitz"
+        "Michael Markowitz"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {

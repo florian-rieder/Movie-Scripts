@@ -1,13 +1,2343 @@
 {
-    "Title": [
-        "Rescuers Down Under, The",
-        "   "
-    ],
+    "Title": "Rescuers Down Under, The",
     "Author": [
-        "\u00a0\u00a0Margery Sharp\u00a0\u00a0Jim Cox\u00a0\u00a0Karey Kirkpatrick"
+        "Margery Sharp",
+        "Jim Cox",
+        "Karey Kirkpatrick"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Family\u00a0\u00a0Adventure"
+        "Animation",
+        "Family",
+        "Adventure"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "ANNOUNCER",
+            "Replies": [
+                {
+                    "Reply": "... thundershowers are expected in the Crocodile Falls area and some of the surrounding gullies so take out your...",
+                    "Didascalie": "",
+                    "Start": 1749,
+                    "End": 1879
+                },
+                {
+                    "Reply": "Ladies and gentlemen, Flight 12 is now approaching Sydney airport, make sure you pick up your parcels and packages and enjoy your stay in Australia.",
+                    "Didascalie": "(heard from inside of plane)",
+                    "Start": 23773,
+                    "End": 23942
+                },
+                {
+                    "Reply": "... those particular areas, in other news, authorities in Mugwomp Flats have called off the search for the missing boy.  His backpack was found near Crocodile Falls, and local rangers believe he was yet another victim of crocodile attack.",
+                    "Didascalie": "",
+                    "Start": 42857,
+                    "End": 43123
+                },
+                {
+                    "Reply": "Authorities once again warn residents to use extreme caution when they are....",
+                    "Didascalie": "(scene transitions to McLeach's hideout)",
+                    "Start": 43169,
+                    "End": 43267
+                }
+            ]
+        },
+        {
+            "Character": "MOM",
+            "Replies": [
+                {
+                    "Reply": "Cody!",
+                    "Didascalie": "(from inside upon hearing the door)",
+                    "Start": 2039,
+                    "End": 2046
+                },
+                {
+                    "Reply": "What about your breakfast?",
+                    "Didascalie": "",
+                    "Start": 2087,
+                    "End": 2114
+                },
+                {
+                    "Reply": "Well be home for supper.",
+                    "Didascalie": "",
+                    "Start": 2171,
+                    "End": 2196
+                },
+                {
+                    "Reply": "Cody!  Cody!  Cody!",
+                    "Didascalie": "",
+                    "Start": 23599,
+                    "End": 23619
+                }
+            ]
+        },
+        {
+            "Character": "CODY",
+            "Replies": [
+                {
+                    "Reply": "Yeah mom?",
+                    "Didascalie": "(whincing)",
+                    "Start": 2066,
+                    "End": 2077
+                },
+                {
+                    "Reply": "I've got some sandwiches in my pack.",
+                    "Didascalie": "",
+                    "Start": 2124,
+                    "End": 2161
+                },
+                {
+                    "Reply": "No worries mom.",
+                    "Didascalie": "(hopping the gate)",
+                    "Start": 2224,
+                    "End": 2241
+                },
+                {
+                    "Reply": "I know, I'm coming.",
+                    "Didascalie": "(to the birds)",
+                    "Start": 2458,
+                    "End": 2479
+                },
+                {
+                    "Reply": "Hustle up Nelson, Faloo's sounding the call!",
+                    "Didascalie": "(Cody jumps over a hollow log)",
+                    "Start": 2514,
+                    "End": 2570
+                },
+                {
+                    "Reply": "C'mon little wombats, hurry!",
+                    "Didascalie": "(Cody slides through a log, picks up a stick, and beats on the roof of the wombats home.)",
+                    "Start": 2668,
+                    "End": 2708
+                },
+                {
+                    "Reply": "Who's caught this time?",
+                    "Didascalie": "(to Faloo)",
+                    "Start": 2891,
+                    "End": 2916
+                },
+                {
+                    "Reply": "Where is she?",
+                    "Didascalie": "",
+                    "Start": 3017,
+                    "End": 3031
+                },
+                {
+                    "Reply": "I'll get her loose.",
+                    "Didascalie": "",
+                    "Start": 3151,
+                    "End": 3171
+                },
+                {
+                    "Reply": "Marahute!",
+                    "Didascalie": "",
+                    "Start": 3616,
+                    "End": 3626
+                },
+                {
+                    "Reply": "Heh heh... hey little fella, what happened to you?",
+                    "Didascalie": "",
+                    "Start": 6591,
+                    "End": 6642
+                },
+                {
+                    "Reply": "Don't worry, I'll get you loose.  Woah!",
+                    "Didascalie": "(as the mouse is speaking)",
+                    "Start": 6807,
+                    "End": 6848
+                },
+                {
+                    "Reply": "Yeah, I think so.",
+                    "Didascalie": "(rubbing his head)",
+                    "Start": 7183,
+                    "End": 7202
+                },
+                {
+                    "Reply": "Wait!  Hey!  Come back!",
+                    "Didascalie": "",
+                    "Start": 7253,
+                    "End": 7277
+                },
+                {
+                    "Reply": "That's great, just a little more, a little further... there!  I got it.",
+                    "Didascalie": "",
+                    "Start": 7482,
+                    "End": 7563
+                },
+                {
+                    "Reply": "Unh-unh.  It's a trap, and poachin's against the law.",
+                    "Didascalie": "",
+                    "Start": 8303,
+                    "End": 8357
+                },
+                {
+                    "Reply": "This IS a poacher's trap and YOU'RE a poacher.",
+                    "Didascalie": "",
+                    "Start": 8755,
+                    "End": 8802
+                },
+                {
+                    "Reply": "Let go!!  Hey get off of me!!",
+                    "Didascalie": "(to Joanna)",
+                    "Start": 8991,
+                    "End": 9022
+                },
+                {
+                    "Reply": "Cut it out!  Get off of me!",
+                    "Didascalie": "",
+                    "Start": 9157,
+                    "End": 9185
+                },
+                {
+                    "Reply": "It was a present.",
+                    "Didascalie": "(humbly)",
+                    "Start": 9631,
+                    "End": 9650
+                },
+                {
+                    "Reply": "It's a s... secret.",
+                    "Didascalie": "(stumbling)",
+                    "Start": 9734,
+                    "End": 9755
+                },
+                {
+                    "Reply": "NO!!",
+                    "Didascalie": "",
+                    "Start": 10101,
+                    "End": 10106
+                },
+                {
+                    "Reply": "My mom'll call the rangers!",
+                    "Didascalie": "",
+                    "Start": 10530,
+                    "End": 10558
+                },
+                {
+                    "Reply": "Help!  Help!",
+                    "Didascalie": "(from inside McLeach's cage)",
+                    "Start": 10930,
+                    "End": 10945
+                },
+                {
+                    "Reply": "Lemme outta here!!  Lemme go!!  You can't do this!!  Help!  Help!  Help!",
+                    "Didascalie": "(pounding on the cage)",
+                    "Start": 22859,
+                    "End": 22942
+                },
+                {
+                    "Reply": "I told you, I don't remember.",
+                    "Didascalie": "",
+                    "Start": 34277,
+                    "End": 34307
+                },
+                {
+                    "Reply": "You won't have any money after the rangers get through with you.",
+                    "Didascalie": "",
+                    "Start": 34506,
+                    "End": 34571
+                },
+                {
+                    "Reply": "I'll NEVER tell you where she is!  Never!  Never!",
+                    "Didascalie": "(yelling)",
+                    "Start": 37021,
+                    "End": 37072
+                },
+                {
+                    "Reply": "Hey, where did you come from?",
+                    "Didascalie": "",
+                    "Start": 37171,
+                    "End": 37201
+                },
+                {
+                    "Reply": "Be there MUST be a way out of here.",
+                    "Didascalie": "",
+                    "Start": 37420,
+                    "End": 37456
+                },
+                {
+                    "Reply": "Don't worry, we're gonna get out of here.",
+                    "Didascalie": "",
+                    "Start": 38128,
+                    "End": 38170
+                },
+                {
+                    "Reply": "Yeah!  If we all put our heads together, I'm sure we'll think of something.",
+                    "Didascalie": "",
+                    "Start": 38198,
+                    "End": 38283
+                },
+                {
+                    "Reply": "Frank, what's wrong?",
+                    "Didascalie": "",
+                    "Start": 38366,
+                    "End": 38387
+                },
+                {
+                    "Reply": "Come on everybody, get some more stuff!!",
+                    "Didascalie": "(he gets a piece of wood)",
+                    "Start": 39075,
+                    "End": 39117
+                },
+                {
+                    "Reply": "That's it, you've got it!  Hurry!  We need something to tie it together!",
+                    "Didascalie": "",
+                    "Start": 39179,
+                    "End": 39261
+                },
+                {
+                    "Reply": "Almost.... a little further...",
+                    "Didascalie": "",
+                    "Start": 39560,
+                    "End": 39591
+                },
+                {
+                    "Reply": "It's o.k. let's try again.",
+                    "Didascalie": "",
+                    "Start": 39674,
+                    "End": 39701
+                },
+                {
+                    "Reply": "Easy... easy does it.",
+                    "Didascalie": "",
+                    "Start": 39751,
+                    "End": 39773
+                },
+                {
+                    "Reply": "Frank, Frank, you're free!",
+                    "Didascalie": "",
+                    "Start": 45610,
+                    "End": 45637
+                },
+                {
+                    "Reply": "Calm down little mate.",
+                    "Didascalie": "",
+                    "Start": 45838,
+                    "End": 45861
+                },
+                {
+                    "Reply": "Frank, get the keys.",
+                    "Didascalie": "",
+                    "Start": 45938,
+                    "End": 45959
+                },
+                {
+                    "Reply": "Quick, get something to stand on.",
+                    "Didascalie": "",
+                    "Start": 46391,
+                    "End": 46425
+                },
+                {
+                    "Reply": "Use the box!  Climb up on the box!",
+                    "Didascalie": "",
+                    "Start": 46715,
+                    "End": 46750
+                },
+                {
+                    "Reply": "Let me go, let go, let go!!!!",
+                    "Didascalie": "",
+                    "Start": 48146,
+                    "End": 48176
+                },
+                {
+                    "Reply": "NO!!",
+                    "Didascalie": "",
+                    "Start": 49230,
+                    "End": 49235
+                },
+                {
+                    "Reply": "Huh?  Who are you?",
+                    "Didascalie": "",
+                    "Start": 51221,
+                    "End": 51240
+                },
+                {
+                    "Reply": "Marahute?!  It can't be!",
+                    "Didascalie": "(Marahute's screech is heard at a distance)",
+                    "Start": 51360,
+                    "End": 51386
+                },
+                {
+                    "Reply": "She's alive!!",
+                    "Didascalie": "(sees Marahute)",
+                    "Start": 51442,
+                    "End": 51457
+                },
+                {
+                    "Reply": "Marahute, NO!!!  Turn back!!  Turn back!!  Stay away!!  It's a trap!!",
+                    "Didascalie": "",
+                    "Start": 51636,
+                    "End": 51715
+                },
+                {
+                    "Reply": "NO!!!",
+                    "Didascalie": "",
+                    "Start": 51929,
+                    "End": 51935
+                },
+                {
+                    "Reply": "Help I'm slipping!",
+                    "Didascalie": "",
+                    "Start": 52316,
+                    "End": 52335
+                },
+                {
+                    "Reply": "NO!!  Please!!",
+                    "Didascalie": "",
+                    "Start": 52997,
+                    "End": 53012
+                },
+                {
+                    "Reply": "You can't do this!!  You're gonna get in big trouble!!",
+                    "Didascalie": "(screaming)",
+                    "Start": 55931,
+                    "End": 55987
+                },
+                {
+                    "Reply": "Help!!  Help!!",
+                    "Didascalie": "",
+                    "Start": 61088,
+                    "End": 61103
+                },
+                {
+                    "Reply": "mate.",
+                    "Didascalie": "",
+                    "Start": 62240,
+                    "End": 62246
+                },
+                {
+                    "Reply": "Come on Marahute, let's all go home.",
+                    "Didascalie": "",
+                    "Start": 62642,
+                    "End": 62679
+                }
+            ]
+        },
+        {
+            "Character": "FALOO",
+            "Replies": [
+                {
+                    "Reply": "You don't know her, Cody, her name is Marahute, the great golden eagle.",
+                    "Didascalie": "",
+                    "Start": 2926,
+                    "End": 3007
+                },
+                {
+                    "Reply": "She's caught, high on a cliff in a poacher's trap.  You're the only one who can reach her.",
+                    "Didascalie": "",
+                    "Start": 3041,
+                    "End": 3141
+                },
+                {
+                    "Reply": "Right-oh, hop on, no time to lose.",
+                    "Didascalie": "",
+                    "Start": 3181,
+                    "End": 3216
+                },
+                {
+                    "Reply": "She's up on top of that ridge.  Be careful lit'l friend.",
+                    "Didascalie": "(pointing up towards the cliff)",
+                    "Start": 3422,
+                    "End": 3489
+                }
+            ]
+        },
+        {
+            "Character": "BAITMOUSE",
+            "Replies": [
+                {
+                    "Reply": "Oh no! No, no, no, no!!  Get away, get away! It's a trap, it's a trap.  Be careful, NO!",
+                    "Didascalie": "(panicking)",
+                    "Start": 6668,
+                    "End": 6771
+                },
+                {
+                    "Reply": "Are you alright?",
+                    "Didascalie": "(from the top of the hole)",
+                    "Start": 7137,
+                    "End": 7155
+                },
+                {
+                    "Reply": "Here you go, grab on.",
+                    "Didascalie": "",
+                    "Start": 7450,
+                    "End": 7472
+                },
+                {
+                    "Reply": "Uh-oh.",
+                    "Didascalie": "",
+                    "Start": 7635,
+                    "End": 7642
+                },
+                {
+                    "Reply": "Yipe!",
+                    "Didascalie": "",
+                    "Start": 7745,
+                    "End": 7751
+                },
+                {
+                    "Reply": "Help, help, help!!  Someone help!  McLeach took the boy.  He took the little boy.  Send for help!!",
+                    "Didascalie": "(very fast and excited)",
+                    "Start": 11176,
+                    "End": 11288
+                }
+            ]
+        },
+        {
+            "Character": "MCLEACH",
+            "Replies": [
+                {
+                    "Reply": "Got one!!",
+                    "Didascalie": "(laughs)",
+                    "Start": 7028,
+                    "End": 7040
+                },
+                {
+                    "Reply": "Well Joanna, what'd we get today?",
+                    "Didascalie": "(unseen, approaching the trap)",
+                    "Start": 7943,
+                    "End": 7978
+                },
+                {
+                    "Reply": "of this little ol' lizard hole and you can just run along home.",
+                    "Didascalie": "",
+                    "Start": 8587,
+                    "End": 8651
+                },
+                {
+                    "Reply": "that dumb, slimey, egg-sucking salamander.",
+                    "Didascalie": "",
+                    "Start": 9104,
+                    "End": 9147
+                },
+                {
+                    "Reply": "Say where'd you get this pretty feather boy?",
+                    "Didascalie": "(to Cody)",
+                    "Start": 9567,
+                    "End": 9613
+                },
+                {
+                    "Reply": "Oh, that's real nice.  Who gave it to ya?",
+                    "Didascalie": "(coddling)",
+                    "Start": 9670,
+                    "End": 9713
+                },
+                {
+                    "Reply": "where momma and those little eggs are.",
+                    "Didascalie": "",
+                    "Start": 9982,
+                    "End": 10021
+                },
+                {
+                    "Reply": "Joanna, sick 'em!",
+                    "Didascalie": "",
+                    "Start": 10116,
+                    "End": 10134
+                },
+                {
+                    "Reply": "You're comin' with me boy.",
+                    "Didascalie": "",
+                    "Start": 10493,
+                    "End": 10520
+                },
+                {
+                    "Reply": "Oh no.... not the rangers, what'll I do??",
+                    "Didascalie": "(sarcastically)",
+                    "Start": 10583,
+                    "End": 10627
+                },
+                {
+                    "Reply": "in chains.  I cut through their sides, and I rip off their hides.",
+                    "Didascalie": "",
+                    "Start": 23394,
+                    "End": 23460
+                },
+                {
+                    "Reply": "Well boy, let's see if we can do something to refresh that rusty old memory of yours.  Is she on Satan's Ridge?",
+                    "Didascalie": "(sharpening a knife)",
+                    "Start": 33862,
+                    "End": 33984
+                },
+                {
+                    "Reply": "get a better offer than that boy.",
+                    "Didascalie": "",
+                    "Start": 34462,
+                    "End": 34496
+                },
+                {
+                    "Reply": "Ha heh!  Think you're pretty smart, don't you eh?",
+                    "Didascalie": "(to the radio)",
+                    "Start": 43291,
+                    "End": 43342
+                },
+                {
+                    "Reply": "Surprise!!  If I didn't know any better, I'd think you didn't like it here.",
+                    "Didascalie": "(catching Cody with the keys)",
+                    "Start": 48050,
+                    "End": 48136
+                },
+                {
+                    "Reply": "the last you'll ever see of 'em.",
+                    "Didascalie": "",
+                    "Start": 48408,
+                    "End": 48441
+                },
+                {
+                    "Reply": "Get out of here!!  Go on!  Git!!",
+                    "Didascalie": "(throwing Cody out)",
+                    "Start": 48926,
+                    "End": 48960
+                },
+                {
+                    "Reply": "Whaddya mean 'no'?  You callin' me a liar?  I heard it on the radio this morning, and she could have been mine if it weren't for you, now you better git outta here, before I change my mind.  Go on, git!!",
+                    "Didascalie": "",
+                    "Start": 49245,
+                    "End": 49476
+                },
+                {
+                    "Reply": "I didn't make it all the way through third grade for nothing.",
+                    "Didascalie": "(laughs)",
+                    "Start": 49993,
+                    "End": 50065
+                },
+                {
+                    "Reply": "... Meddlin' brat.  Gonna get rid of him for good.",
+                    "Didascalie": "(grumbles)",
+                    "Start": 52215,
+                    "End": 52266
+                },
+                {
+                    "Reply": "about some great, big, triple A, jumbo, eagle eggs!!!  Eh?!  You want 'em?!  Eh?!  You want 'em?  Go get 'em girl!!",
+                    "Didascalie": "",
+                    "Start": 52862,
+                    "End": 52987
+                },
+                {
+                    "Reply": "JOANNA!!  You hurry up and eat those eggs and get your tail up here!  MOVE IT!!",
+                    "Didascalie": "(screaming from on top of cliff)",
+                    "Start": 53515,
+                    "End": 53606
+                },
+                {
+                    "Reply": "I almost forgot...we got a loose end to tie up, haven't we girl?",
+                    "Didascalie": "(groan)",
+                    "Start": 56051,
+                    "End": 56126
+                },
+                {
+                    "Reply": "Are ya ready boy?",
+                    "Didascalie": "(Cody has been tied up to a hoist and hook)",
+                    "Start": 57575,
+                    "End": 57594
+                },
+                {
+                    "Reply": "truck.  Now you quit playing around and do your job, you four-",
+                    "Didascalie": "",
+                    "Start": 59072,
+                    "End": 59135
+                },
+                {
+                    "Reply": "Blasted!!",
+                    "Didascalie": "",
+                    "Start": 60305,
+                    "End": 60315
+                },
+                {
+                    "Reply": "Hey, get off me!!  Joanna!  What are ya.....",
+                    "Didascalie": "",
+                    "Start": 60630,
+                    "End": 60675
+                }
+            ]
+        },
+        {
+            "Character": "MOUSE",
+            "Replies": [
+                {
+                    "Reply": "Code red, code red!!  Attention all Rescue Aid Society delegates, all delegates please report immediately to the main assembly hall.",
+                    "Didascalie": "",
+                    "Start": 12445,
+                    "End": 12587
+                }
+            ]
+        },
+        {
+            "Character": "CHAIRMOUSE",
+            "Replies": [
+                {
+                    "Reply": "Order!  Order!  Yes, yes I know it's late but I'm... oh really!",
+                    "Didascalie": "",
+                    "Start": 12816,
+                    "End": 12880
+                },
+                {
+                    "Reply": "Ah, there you are, come along, come along.",
+                    "Didascalie": "",
+                    "Start": 16973,
+                    "End": 17016
+                },
+                {
+                    "Reply": "Oh good show!  Now, you must fly out immediately!  It's a little nippy outside, but we won't let that stop us, will we?  What?",
+                    "Didascalie": "",
+                    "Start": 17203,
+                    "End": 17344
+                }
+            ]
+        },
+        {
+            "Character": "CRICKET",
+            "Replies": [
+                {
+                    "Reply": "Oh.... pea soup.",
+                    "Didascalie": "",
+                    "Start": 13666,
+                    "End": 13683
+                }
+            ]
+        },
+        {
+            "Character": "CRICKET COOK",
+            "Replies": [
+                {
+                    "Reply": "Pea soup!",
+                    "Didascalie": "",
+                    "Start": 13820,
+                    "End": 13830
+                }
+            ]
+        },
+        {
+            "Character": "BIANCA",
+            "Replies": [
+                {
+                    "Reply": "To my dear Bernard, and our wonderful partnership.",
+                    "Didascalie": "",
+                    "Start": 14012,
+                    "End": 14063
+                },
+                {
+                    "Reply": "You've been very quiet this evening, is there something on your mind?",
+                    "Didascalie": "",
+                    "Start": 14149,
+                    "End": 14228
+                },
+                {
+                    "Reply": "Yes darling?",
+                    "Didascalie": "",
+                    "Start": 14342,
+                    "End": 14355
+                },
+                {
+                    "Reply": "Yes Francois?  What is it?",
+                    "Didascalie": "",
+                    "Start": 14864,
+                    "End": 14891
+                },
+                {
+                    "Reply": "Oh the poor boy.  This is dreadful.  Now where is Bernard I must tell him at once!",
+                    "Didascalie": "(reading message)",
+                    "Start": 15023,
+                    "End": 15116
+                },
+                {
+                    "Reply": "Bernard, did you talk to Francois?",
+                    "Didascalie": "",
+                    "Start": 15992,
+                    "End": 16027
+                },
+                {
+                    "Reply": "I know exactly what you're going to say.  Francois told me all about it.",
+                    "Didascalie": "",
+                    "Start": 16107,
+                    "End": 16189
+                },
+                {
+                    "Reply": "Oh it doesn't matter, I think it's a marvelous idea.",
+                    "Didascalie": "",
+                    "Start": 16245,
+                    "End": 16298
+                },
+                {
+                    "Reply": "I don't think it's a matter of wanting, it's a matter of duty.",
+                    "Didascalie": "",
+                    "Start": 16372,
+                    "End": 16435
+                },
+                {
+                    "Reply": "No, just a pair of khaki shorts and some hiking boots!",
+                    "Didascalie": "",
+                    "Start": 16844,
+                    "End": 16899
+                },
+                {
+                    "Reply": "Darling you'll be just fine!",
+                    "Didascalie": "",
+                    "Start": 17557,
+                    "End": 17586
+                },
+                {
+                    "Reply": "Oh, just knock on the door and see if Orville is there!!",
+                    "Didascalie": "(annoyed)",
+                    "Start": 17667,
+                    "End": 17725
+                },
+                {
+                    "Reply": "Wilbur.  C'mon darling, let's get a move out!",
+                    "Didascalie": "",
+                    "Start": 18052,
+                    "End": 18098
+                },
+                {
+                    "Reply": "Yoo-hoo!  Mr. Wilbur!  Hello?",
+                    "Didascalie": "",
+                    "Start": 18209,
+                    "End": 18239
+                },
+                {
+                    "Reply": "Bernard DO something!  He can't hear us!",
+                    "Didascalie": "",
+                    "Start": 18282,
+                    "End": 18323
+                },
+                {
+                    "Reply": "Excuse us for interrupting, we're from the Rescue Aid Society.  I am Miss Bianca...",
+                    "Didascalie": "",
+                    "Start": 18552,
+                    "End": 18645
+                },
+                {
+                    "Reply": "and this is my....",
+                    "Didascalie": "",
+                    "Start": 18695,
+                    "End": 18714
+                },
+                {
+                    "Reply": "No thank you...",
+                    "Didascalie": "",
+                    "Start": 19635,
+                    "End": 19651
+                },
+                {
+                    "Reply": "No, it's urgent that we leave immediately!",
+                    "Didascalie": "",
+                    "Start": 19846,
+                    "End": 19889
+                },
+                {
+                    "Reply": "Oh know, we must leave TONIGHT.",
+                    "Didascalie": "",
+                    "Start": 20247,
+                    "End": 20279
+                },
+                {
+                    "Reply": "But you don't understand, a boy needs our help, he's in trouble.",
+                    "Didascalie": "",
+                    "Start": 20615,
+                    "End": 20680
+                },
+                {
+                    "Reply": "He was kidnapped.",
+                    "Didascalie": "",
+                    "Start": 20742,
+                    "End": 20760
+                },
+                {
+                    "Reply": "Does that mean you'll take us?",
+                    "Didascalie": "",
+                    "Start": 21198,
+                    "End": 21229
+                },
+                {
+                    "Reply": "Captain, is this a non-stop flight to Australia??",
+                    "Didascalie": "",
+                    "Start": 22479,
+                    "End": 22529
+                },
+                {
+                    "Reply": "Yes.  You know, perhaps we should wake up Wilbur.",
+                    "Didascalie": "",
+                    "Start": 24071,
+                    "End": 24121
+                },
+                {
+                    "Reply": "Wilbur??  Are you awake??",
+                    "Didascalie": "(pleading)",
+                    "Start": 24489,
+                    "End": 24516
+                },
+                {
+                    "Reply": "Weeee!!",
+                    "Didascalie": "",
+                    "Start": 24876,
+                    "End": 24884
+                },
+                {
+                    "Reply": "Oh, how kind.",
+                    "Didascalie": "",
+                    "Start": 28065,
+                    "End": 28079
+                },
+                {
+                    "Reply": "Wilbur, are you alright?",
+                    "Didascalie": "",
+                    "Start": 28449,
+                    "End": 28474
+                },
+                {
+                    "Reply": "Wilbur, don't worry.  We'll come back the moment we find the boy.",
+                    "Didascalie": "",
+                    "Start": 28990,
+                    "End": 29056
+                },
+                {
+                    "Reply": "Doctor, will he be alright?",
+                    "Didascalie": "",
+                    "Start": 29302,
+                    "End": 29330
+                },
+                {
+                    "Reply": "Oh no, no, we're not married.",
+                    "Didascalie": "",
+                    "Start": 31607,
+                    "End": 31637
+                },
+                {
+                    "Reply": "Why that's right!  How did you know?",
+                    "Didascalie": "",
+                    "Start": 31808,
+                    "End": 31845
+                },
+                {
+                    "Reply": "Oh Mister Jake, will you guide us?",
+                    "Didascalie": "",
+                    "Start": 32668,
+                    "End": 32703
+                },
+                {
+                    "Reply": "Oh don't you worry about Jake, he can handle himself.",
+                    "Didascalie": "",
+                    "Start": 34895,
+                    "End": 34949
+                },
+                {
+                    "Reply": "I am just sure he'll be back in no time.",
+                    "Didascalie": "",
+                    "Start": 34991,
+                    "End": 35032
+                },
+                {
+                    "Reply": "Yes?  What is it?",
+                    "Didascalie": "",
+                    "Start": 35286,
+                    "End": 35304
+                },
+                {
+                    "Reply": "It's alright Bernard, Jake has everything under control.",
+                    "Didascalie": "",
+                    "Start": 36170,
+                    "End": 36227
+                },
+                {
+                    "Reply": "There is no time to waste.  We MUST try to get in.",
+                    "Didascalie": "",
+                    "Start": 48495,
+                    "End": 48546
+                },
+                {
+                    "Reply": "Look Bernard, it's the boy!",
+                    "Didascalie": "",
+                    "Start": 48970,
+                    "End": 48998
+                },
+                {
+                    "Reply": "Bird?",
+                    "Didascalie": "",
+                    "Start": 49858,
+                    "End": 49864
+                },
+                {
+                    "Reply": "Quickly Bernard, NOW!!",
+                    "Didascalie": "",
+                    "Start": 50242,
+                    "End": 50265
+                },
+                {
+                    "Reply": "Cody!",
+                    "Didascalie": "",
+                    "Start": 51205,
+                    "End": 51211
+                },
+                {
+                    "Reply": "Oh, there is no time to explain, you're in GREAT danger.",
+                    "Didascalie": "",
+                    "Start": 51250,
+                    "End": 51307
+                },
+                {
+                    "Reply": "Oh Cody, Cody wait!!",
+                    "Didascalie": "",
+                    "Start": 51396,
+                    "End": 51417
+                },
+                {
+                    "Reply": "Cody please!!  You MUST listen!!",
+                    "Didascalie": "",
+                    "Start": 51467,
+                    "End": 51500
+                },
+                {
+                    "Reply": "Bernard!",
+                    "Didascalie": "",
+                    "Start": 52137,
+                    "End": 52146
+                },
+                {
+                    "Reply": "Cody, don't move!!",
+                    "Didascalie": "",
+                    "Start": 52345,
+                    "End": 52364
+                },
+                {
+                    "Reply": "Now, now Cody, we mustn't loose hope.  Bernard is still out there...",
+                    "Didascalie": "(consoling)",
+                    "Start": 56276,
+                    "End": 56355
+                },
+                {
+                    "Reply": "Oh Bernard, please hurry!",
+                    "Didascalie": "(to the air)",
+                    "Start": 58276,
+                    "End": 58303
+                },
+                {
+                    "Reply": "Look, it's Bernard!",
+                    "Didascalie": "",
+                    "Start": 59762,
+                    "End": 59782
+                },
+                {
+                    "Reply": "Bernard the boy!!",
+                    "Didascalie": "",
+                    "Start": 60992,
+                    "End": 61010
+                },
+                {
+                    "Reply": "Oh Bernard you are magnificent, you are absolutely the hero of the day.",
+                    "Didascalie": "(hugging Bernard)",
+                    "Start": 62273,
+                    "End": 62355
+                }
+            ]
+        },
+        {
+            "Character": "BERNARD",
+            "Replies": [
+                {
+                    "Reply": "Ah... yeah.. yeah.. ah.. won... wonderful.",
+                    "Didascalie": "(nervous and fumbling)",
+                    "Start": 14095,
+                    "End": 14139
+                },
+                {
+                    "Reply": "excuse me for a minute?",
+                    "Didascalie": "",
+                    "Start": 14504,
+                    "End": 14528
+                },
+                {
+                    "Reply": "Miss Bianca, will you marry me?  Miss Bianca, will you please marry me?",
+                    "Didascalie": "(practicing)",
+                    "Start": 15517,
+                    "End": 15600
+                },
+                {
+                    "Reply": "Not now Francois, I'm busy!",
+                    "Didascalie": "",
+                    "Start": 15715,
+                    "End": 15743
+                },
+                {
+                    "Reply": "Ah yes, but uh.. there's... there's something I want ......",
+                    "Didascalie": "",
+                    "Start": 16037,
+                    "End": 16097
+                },
+                {
+                    "Reply": "He did?  How, how... how did he ...",
+                    "Didascalie": "",
+                    "Start": 16199,
+                    "End": 16235
+                },
+                {
+                    "Reply": "You do?  I mean, you... you really want to?",
+                    "Didascalie": "(shocked)",
+                    "Start": 16317,
+                    "End": 16362
+                },
+                {
+                    "Reply": "D-duty?  I... I never thought of it, well, umm... all righ.... all right.  How does... how does next ah-April sound to you?",
+                    "Didascalie": "",
+                    "Start": 16445,
+                    "End": 16578
+                },
+                {
+                    "Reply": "Tonight?  But, but, ah.. wait!  Uh, Bianca, this is so sudden, I mean, don't you at least need a gown or something?",
+                    "Didascalie": "",
+                    "Start": 16709,
+                    "End": 16834
+                },
+                {
+                    "Reply": "Hiking boots?",
+                    "Didascalie": "",
+                    "Start": 16909,
+                    "End": 16923
+                },
+                {
+                    "Reply": "Australia?",
+                    "Didascalie": "(surprised)",
+                    "Start": 17175,
+                    "End": 17188
+                },
+                {
+                    "Reply": "Miss Bianca, I'm not sure it's such a good idea to... to fly this soon after eating!",
+                    "Didascalie": "(yelling)",
+                    "Start": 17452,
+                    "End": 17547
+                },
+                {
+                    "Reply": "But aren't, aren't you supposed to wait 45 minutes?",
+                    "Didascalie": "",
+                    "Start": 17596,
+                    "End": 17648
+                },
+                {
+                    "Reply": "I wasn't playing in the snow.  It... it was an avalanche.",
+                    "Didascalie": "",
+                    "Start": 17911,
+                    "End": 17969
+                },
+                {
+                    "Reply": "Look out!!  Excuse me!",
+                    "Didascalie": "",
+                    "Start": 18249,
+                    "End": 18272
+                },
+                {
+                    "Reply": "That's better.",
+                    "Didascalie": "",
+                    "Start": 18527,
+                    "End": 18542
+                },
+                {
+                    "Reply": "Wilbur.",
+                    "Didascalie": "(dismayed)",
+                    "Start": 19961,
+                    "End": 19970
+                },
+                {
+                    "Reply": "Now look, we need a flight to Australia.",
+                    "Didascalie": "",
+                    "Start": 20014,
+                    "End": 20055
+                },
+                {
+                    "Reply": "Get, get up we're there!!",
+                    "Didascalie": "",
+                    "Start": 24526,
+                    "End": 24552
+                },
+                {
+                    "Reply": "Watch out you got....",
+                    "Didascalie": "",
+                    "Start": 24614,
+                    "End": 24636
+                },
+                {
+                    "Reply": "Here we go again!!",
+                    "Didascalie": "",
+                    "Start": 24821,
+                    "End": 24840
+                },
+                {
+                    "Reply": "Miss Bianca, from.. from now on, can't... can't we just take the train?",
+                    "Didascalie": "",
+                    "Start": 25270,
+                    "End": 25351
+                },
+                {
+                    "Reply": "Uh... Wilbur, if, if the runway isn't long enough...",
+                    "Didascalie": "(heard over radio)",
+                    "Start": 26312,
+                    "End": 26375
+                },
+                {
+                    "Reply": "We..., we'll never make it!!",
+                    "Didascalie": "",
+                    "Start": 26829,
+                    "End": 26858
+                },
+                {
+                    "Reply": "I've a.... I've got a lot of... luggage here...",
+                    "Didascalie": "(struggling)",
+                    "Start": 28144,
+                    "End": 28194
+                },
+                {
+                    "Reply": "Now we just.... gotta figure out how to get there.",
+                    "Didascalie": "",
+                    "Start": 31453,
+                    "End": 31504
+                },
+                {
+                    "Reply": "In fact we're, we're here on a, a top ah.. secret mission.",
+                    "Didascalie": "",
+                    "Start": 31647,
+                    "End": 31706
+                },
+                {
+                    "Reply": "Su... Suicide trail?",
+                    "Didascalie": "",
+                    "Start": 32163,
+                    "End": 32184
+                },
+                {
+                    "Reply": "Wait, wait, wait a minute, I don't.... I don't see any, any of that, that stuff on the map.",
+                    "Didascalie": "(puzzled)",
+                    "Start": 32384,
+                    "End": 32486
+                },
+                {
+                    "Reply": "Doesn't even know how to fold a map....",
+                    "Didascalie": "",
+                    "Start": 33005,
+                    "End": 33045
+                },
+                {
+                    "Reply": "Ah yeah, yeah, it's just a little, a little ah.. bumpy back here.",
+                    "Didascalie": "",
+                    "Start": 33342,
+                    "End": 33408
+                },
+                {
+                    "Reply": "Jake's been gone... ow.... been gone a long time... maybe I should go, oh!  Maybe I should go look for him.",
+                    "Didascalie": "",
+                    "Start": 34768,
+                    "End": 34885
+                },
+                {
+                    "Reply": "Yeah, I... I noticed.",
+                    "Didascalie": "",
+                    "Start": 34959,
+                    "End": 34981
+                },
+                {
+                    "Reply": "something that I've, I've been wanting to uh... to.. to ask you.",
+                    "Didascalie": "",
+                    "Start": 35211,
+                    "End": 35276
+                },
+                {
+                    "Reply": "Miss Bianca!",
+                    "Didascalie": "",
+                    "Start": 35707,
+                    "End": 35720
+                },
+                {
+                    "Reply": "Yeah, I noticed.",
+                    "Didascalie": "(disappointed and sarcastic)",
+                    "Start": 36265,
+                    "End": 36283
+                },
+                {
+                    "Reply": "Here, here Miss Bianca, start digging.",
+                    "Didascalie": "(handing her a stick)",
+                    "Start": 48577,
+                    "End": 48617
+                },
+                {
+                    "Reply": "Why is he letting him go??",
+                    "Didascalie": "(whispering)",
+                    "Start": 49498,
+                    "End": 49526
+                },
+                {
+                    "Reply": "Eggs?",
+                    "Didascalie": "",
+                    "Start": 49874,
+                    "End": 49880
+                },
+                {
+                    "Reply": "Oh no!! Oh no!!  Get between the treads!!",
+                    "Didascalie": "",
+                    "Start": 50352,
+                    "End": 50394
+                },
+                {
+                    "Reply": "Got it!!  Miss, Miss, Miss Bianca, you, you can do it!!!",
+                    "Didascalie": "",
+                    "Start": 50466,
+                    "End": 50523
+                },
+                {
+                    "Reply": "That's right, Mc.. McLeach is on the cliff.",
+                    "Didascalie": "",
+                    "Start": 51510,
+                    "End": 51554
+                },
+                {
+                    "Reply": "Bianca!!",
+                    "Didascalie": "",
+                    "Start": 52118,
+                    "End": 52127
+                },
+                {
+                    "Reply": "O.k. you guys, she fell for it.  Looks like the coast is clear.",
+                    "Didascalie": "(to the eggs)",
+                    "Start": 53858,
+                    "End": 53932
+                },
+                {
+                    "Reply": "The kidnapper took the boy and Jake.... Miss Bianca.",
+                    "Didascalie": "",
+                    "Start": 54485,
+                    "End": 54538
+                },
+                {
+                    "Reply": "Wilbur....",
+                    "Didascalie": "",
+                    "Start": 54818,
+                    "End": 54829
+                },
+                {
+                    "Reply": "Wilbur...",
+                    "Didascalie": "",
+                    "Start": 54956,
+                    "End": 54966
+                },
+                {
+                    "Reply": "Wilbur!",
+                    "Didascalie": "",
+                    "Start": 55045,
+                    "End": 55053
+                },
+                {
+                    "Reply": "right here that need your help.",
+                    "Didascalie": "",
+                    "Start": 55157,
+                    "End": 55189
+                },
+                {
+                    "Reply": "Oh my gosh!",
+                    "Didascalie": "",
+                    "Start": 56848,
+                    "End": 56860
+                },
+                {
+                    "Reply": "Woah!",
+                    "Didascalie": "(Joanna chases after him)",
+                    "Start": 59934,
+                    "End": 59941
+                },
+                {
+                    "Reply": "Oh my gosh!  I hope I know what I'm doing!",
+                    "Didascalie": "",
+                    "Start": 60325,
+                    "End": 60368
+                },
+                {
+                    "Reply": "Don't give up Cody!!",
+                    "Didascalie": "",
+                    "Start": 61624,
+                    "End": 61645
+                }
+            ]
+        },
+        {
+            "Character": "FRANCOIS",
+            "Replies": [
+                {
+                    "Reply": "You and Bernard have been asked to accept a dangerous mission to Australia.",
+                    "Didascalie": "",
+                    "Start": 14906,
+                    "End": 14996
+                },
+                {
+                    "Reply": "Allow me madame, I will tell him immediately.",
+                    "Didascalie": "",
+                    "Start": 15131,
+                    "End": 15177
+                },
+                {
+                    "Reply": "Quickly monsieur Bernard!  I must speak with you....",
+                    "Didascalie": "(as Bernard practices)",
+                    "Start": 15637,
+                    "End": 15705
+                },
+                {
+                    "Reply": "No, no, no, no, monsieur you don't......",
+                    "Didascalie": "",
+                    "Start": 15758,
+                    "End": 15799
+                }
+            ]
+        },
+        {
+            "Character": "WILBUR",
+            "Replies": [
+                {
+                    "Reply": "who killed the music?!?",
+                    "Didascalie": "",
+                    "Start": 18493,
+                    "End": 18517
+                },
+                {
+                    "Reply": "Miss Bianca!?!",
+                    "Didascalie": "(interrupting)",
+                    "Start": 18669,
+                    "End": 18685
+                },
+                {
+                    "Reply": "THE Miss Bianca?  I don't believe it.  My brother Orville told me ALL about you, oh boy, I... this is an honor to have.... may I just say enceinte senorita to you?  May I?",
+                    "Didascalie": "(still interrupting)",
+                    "Start": 18744,
+                    "End": 18935
+                },
+                {
+                    "Reply": "\"Albatross Air\"  -  a fair fare from here to there.",
+                    "Didascalie": "(pause)",
+                    "Start": 19109,
+                    "End": 19162
+                },
+                {
+                    "Reply": "carbonated.  Very nice.  I got little umbrellas for each one of them and a little coconut thing....",
+                    "Didascalie": "",
+                    "Start": 19727,
+                    "End": 19836
+                },
+                {
+                    "Reply": "Nothing?  Nothing at all?",
+                    "Didascalie": "(disappointed)",
+                    "Start": 19913,
+                    "End": 19941
+                },
+                {
+                    "Reply": "How about a cream soda?",
+                    "Didascalie": "",
+                    "Start": 19980,
+                    "End": 20004
+                },
+                {
+                    "Reply": "Australia?  The Land Down Under?  That's a fabulous idea!  So when can I pencil you in?  Ah... after spring thaw?  You know, mid-June would be very nice.",
+                    "Didascalie": "",
+                    "Start": 20065,
+                    "End": 20237
+                },
+                {
+                    "Reply": "What a bunch of jokers.",
+                    "Didascalie": "",
+                    "Start": 20581,
+                    "End": 20605
+                },
+                {
+                    "Reply": "A boy?  You mean, a little kid kinda boy?",
+                    "Didascalie": "",
+                    "Start": 20690,
+                    "End": 20732
+                },
+                {
+                    "Reply": "away while I'm around, nobody, do you hear me?!?",
+                    "Didascalie": "",
+                    "Start": 21139,
+                    "End": 21188
+                },
+                {
+                    "Reply": "Passengers are requested to please fasten their seat belts and secure all carry-ons.  We'll be departing following our standard pre-flight maintenance.  Thank you.",
+                    "Didascalie": "(scene changes to Bernard and Bianca on Wilbur's back)",
+                    "Start": 21399,
+                    "End": 21592
+                },
+                {
+                    "Reply": "What do I look like, Charles Lindburgh??",
+                    "Didascalie": "",
+                    "Start": 22689,
+                    "End": 22730
+                },
+                {
+                    "Reply": "That's all I need, five more minutes.",
+                    "Didascalie": "(groggy)",
+                    "Start": 24430,
+                    "End": 24469
+                },
+                {
+                    "Reply": "cause HERE I COME!!",
+                    "Didascalie": "",
+                    "Start": 24791,
+                    "End": 24811
+                },
+                {
+                    "Reply": "CANNONBALL!!!!!",
+                    "Didascalie": "",
+                    "Start": 24850,
+                    "End": 24866
+                },
+                {
+                    "Reply": "Gang way!  Comin' through, mice on board!!  Clear the way!  Move over madam, there you go!  Comin' through sir, thank you.",
+                    "Didascalie": "",
+                    "Start": 25031,
+                    "End": 25163
+                },
+                {
+                    "Reply": "Mugwomp tower, Mugwomp tower, this is Albatross One Three requesting permission to land.  Over?",
+                    "Didascalie": "(over radio)",
+                    "Start": 25716,
+                    "End": 25823
+                },
+                {
+                    "Reply": "Not long enough?!?  Look pal, I can land this thing on a dime!",
+                    "Didascalie": "",
+                    "Start": 26221,
+                    "End": 26284
+                },
+                {
+                    "Reply": "Listen you can't let these radar jockeys push you around.  Just leave it to me alright?",
+                    "Didascalie": "",
+                    "Start": 26385,
+                    "End": 26482
+                },
+                {
+                    "Reply": "And I say again, MATE, I'm comin' in!!",
+                    "Didascalie": "",
+                    "Start": 26558,
+                    "End": 26597
+                },
+                {
+                    "Reply": "Here we go!",
+                    "Didascalie": "",
+                    "Start": 26807,
+                    "End": 26819
+                },
+                {
+                    "Reply": "Hot!  Oooh!  Ow!  Passengers please remain seated until the aircraft comes to a full and complete stop.  Thank you.",
+                    "Didascalie": "(as he bounces along roof)",
+                    "Start": 26894,
+                    "End": 27030
+                },
+                {
+                    "Reply": "You captain thanks you for flying Albatross Airlines.....",
+                    "Didascalie": "",
+                    "Start": 27598,
+                    "End": 27656
+                },
+                {
+                    "Reply": "it's out!",
+                    "Didascalie": "",
+                    "Start": 28429,
+                    "End": 28439
+                },
+                {
+                    "Reply": "Oh.... can't go down, can't go up.  Oh ! Take the bags, take the bags!",
+                    "Didascalie": "",
+                    "Start": 28610,
+                    "End": 28690
+                },
+                {
+                    "Reply": "Hey, whaddya doin'?  Hey, what... what's going on?  Wait!  Hey wait a minute... just stop everything.",
+                    "Didascalie": "",
+                    "Start": 28869,
+                    "End": 28980
+                },
+                {
+                    "Reply": "Will it, will it hurt doc?",
+                    "Didascalie": "",
+                    "Start": 29698,
+                    "End": 29725
+                },
+                {
+                    "Reply": "Hey!  Hey wait!  Wait!  Woah!! I've been skewered.",
+                    "Didascalie": "",
+                    "Start": 29908,
+                    "End": 29959
+                },
+                {
+                    "Reply": "Hey... wha.... are... are you guys crazy?  You can't do that to me!  I'm an American citizen buddy!!!",
+                    "Didascalie": "",
+                    "Start": 30447,
+                    "End": 30558
+                },
+                {
+                    "Reply": "DOUBLE?!?",
+                    "Didascalie": "",
+                    "Start": 30596,
+                    "End": 30606
+                },
+                {
+                    "Reply": "Nooo!!",
+                    "Didascalie": "",
+                    "Start": 30716,
+                    "End": 30723
+                },
+                {
+                    "Reply": "Oh, I'm dreamin'... I'm dreamin'!!  Come on Wilbur, wake up boy, wake up!!",
+                    "Didascalie": "",
+                    "Start": 30781,
+                    "End": 30865
+                },
+                {
+                    "Reply": "Come on!!",
+                    "Didascalie": "",
+                    "Start": 30942,
+                    "End": 30952
+                },
+                {
+                    "Reply": "Come on, it's a joke, it's a joke!",
+                    "Didascalie": "",
+                    "Start": 30998,
+                    "End": 31033
+                },
+                {
+                    "Reply": "Oh no, don't go down two degrees!",
+                    "Didascalie": "",
+                    "Start": 31071,
+                    "End": 31105
+                },
+                {
+                    "Reply": "No I'm not ready!!  No, please!!",
+                    "Didascalie": "",
+                    "Start": 31165,
+                    "End": 31198
+                },
+                {
+                    "Reply": "please don't do this to me......",
+                    "Didascalie": "(crying)",
+                    "Start": 31232,
+                    "End": 31266
+                },
+                {
+                    "Reply": "Ow, ow, oh. ooo......",
+                    "Didascalie": "",
+                    "Start": 31355,
+                    "End": 31377
+                },
+                {
+                    "Reply": "Oh... that's gonna hurt.",
+                    "Didascalie": "",
+                    "Start": 41438,
+                    "End": 41463
+                },
+                {
+                    "Reply": "Mother!",
+                    "Didascalie": "",
+                    "Start": 41498,
+                    "End": 41506
+                },
+                {
+                    "Reply": "NO!",
+                    "Didascalie": "",
+                    "Start": 41751,
+                    "End": 41755
+                },
+                {
+                    "Reply": "You gotta catch me first doc!!",
+                    "Didascalie": "",
+                    "Start": 41927,
+                    "End": 41958
+                },
+                {
+                    "Reply": "Cowabunga!",
+                    "Didascalie": "",
+                    "Start": 42019,
+                    "End": 42030
+                },
+                {
+                    "Reply": "Oh.  Ugh.  oh... oh... my... my back!  Hey, hey... I can, I, it works!!  I'm cured!!",
+                    "Didascalie": "",
+                    "Start": 42335,
+                    "End": 42429
+                },
+                {
+                    "Reply": "on a diet when I get home.  Here we go!!",
+                    "Didascalie": "",
+                    "Start": 42663,
+                    "End": 42704
+                },
+                {
+                    "Reply": "said?",
+                    "Didascalie": "",
+                    "Start": 50845,
+                    "End": 50851
+                },
+                {
+                    "Reply": "Don't EVER do that to me again!",
+                    "Didascalie": "(screams and falls off the edge)",
+                    "Start": 54164,
+                    "End": 54197
+                },
+                {
+                    "Reply": "Yeah, sure.  Wait a minute.... what the heck are you doing up here anyway??",
+                    "Didascalie": "",
+                    "Start": 54390,
+                    "End": 54475
+                },
+                {
+                    "Reply": "disappointed in you.  Hidin' under a nest while Miss Bianca needs our help.  I gotta talk to you mister...",
+                    "Didascalie": "",
+                    "Start": 54692,
+                    "End": 54808
+                },
+                {
+                    "Reply": "I'll scan the coastline!",
+                    "Didascalie": "(fumbling)",
+                    "Start": 54920,
+                    "End": 54946
+                },
+                {
+                    "Reply": "That's what I'll do....  I'll ask the chicks on the beach.",
+                    "Didascalie": "",
+                    "Start": 54976,
+                    "End": 55035
+                },
+                {
+                    "Reply": "Huh?  What?!",
+                    "Didascalie": "",
+                    "Start": 55063,
+                    "End": 55076
+                },
+                {
+                    "Reply": "look at me like that!  You're gettin' no from me!  You understand?",
+                    "Didascalie": "",
+                    "Start": 55416,
+                    "End": 55483
+                }
+            ]
+        },
+        {
+            "Character": "BIANCA AND BERNARD",
+            "Replies": [
+                {
+                    "Reply": "Wilbur!!",
+                    "Didascalie": "(screams)",
+                    "Start": 24402,
+                    "End": 24412
+                },
+                {
+                    "Reply": "Aiighh!  Woah!",
+                    "Didascalie": "",
+                    "Start": 48787,
+                    "End": 48802
+                }
+            ]
+        },
+        {
+            "Character": "JAKE",
+            "Replies": [
+                {
+                    "Reply": "Well Sparky, you've had this comin' for a long time.  And now, you're gonna get it.  Ha!",
+                    "Didascalie": "",
+                    "Start": 25451,
+                    "End": 25549
+                },
+                {
+                    "Reply": "lockeet, freckled duck, culah, kukaberra, parrot, cockatoo, alba... alba...?!?!  It's a jumbo!!",
+                    "Didascalie": "",
+                    "Start": 25976,
+                    "End": 26081
+                },
+                {
+                    "Reply": "Negative one three, you'll have to turn back, our runway isn't long enough for a bird your size.",
+                    "Didascalie": "(into radio)",
+                    "Start": 26103,
+                    "End": 26211
+                },
+                {
+                    "Reply": "I say again mate, our runway is too short.",
+                    "Didascalie": "(into radio)",
+                    "Start": 26504,
+                    "End": 26548
+                },
+                {
+                    "Reply": "Crazy Yank.  Quick Sparky, we gotta find a way to extend the runway.",
+                    "Didascalie": "",
+                    "Start": 26607,
+                    "End": 26685
+                },
+                {
+                    "Reply": "Quick Sparky, we need to make a drag line!",
+                    "Didascalie": "",
+                    "Start": 27144,
+                    "End": 27187
+                },
+                {
+                    "Reply": "Bloke oughtta have his wings clipped.",
+                    "Didascalie": "",
+                    "Start": 27550,
+                    "End": 27588
+                },
+                {
+                    "Reply": "Crazy Yanks.  They think they can do any fool thing, without regard for.....",
+                    "Didascalie": "(aside to Sparky)",
+                    "Start": 27683,
+                    "End": 27770
+                },
+                {
+                    "Reply": "Welcome to Australia ma'am.  My name's Jake and if there's any way I can make your stay more pleasant, don't hesitate to ask.",
+                    "Didascalie": "(being suave)",
+                    "Start": 27910,
+                    "End": 28055
+                },
+                {
+                    "Reply": "Allow me to get that bag for ya.",
+                    "Didascalie": "",
+                    "Start": 28089,
+                    "End": 28122
+                },
+                {
+                    "Reply": "Don't worry ma'am, I'll handle this.  Sparky, you watch the tower, we gotta get this bird to the hospital.",
+                    "Didascalie": "",
+                    "Start": 28484,
+                    "End": 28600
+                },
+                {
+                    "Reply": "So, ah... you and your umm... husband here on a little outback excursion?",
+                    "Didascalie": "",
+                    "Start": 31514,
+                    "End": 31597
+                },
+                {
+                    "Reply": "Oh!  Gotta rescue that kid McLeach nabbed eh?",
+                    "Didascalie": "",
+                    "Start": 31752,
+                    "End": 31798
+                },
+                {
+                    "Reply": "Suicide trail through Nightmare Canyon, or the shortcut at Satan's ridge?",
+                    "Didascalie": "",
+                    "Start": 32070,
+                    "End": 32153
+                },
+                {
+                    "Reply": "once you cross Bloodworm Creek, you're scot free, this is until ummm... Dead Dingo Pass.",
+                    "Didascalie": "",
+                    "Start": 32267,
+                    "End": 32365
+                },
+                {
+                    "Reply": "the territory.",
+                    "Didascalie": "",
+                    "Start": 32643,
+                    "End": 32658
+                },
+                {
+                    "Reply": "Miss B. it was just me and four hundred of these big giant.....",
+                    "Didascalie": "",
+                    "Start": 32931,
+                    "End": 32995
+                },
+                {
+                    "Reply": "only way to travel, eh Berno?",
+                    "Didascalie": "",
+                    "Start": 33302,
+                    "End": 33332
+                },
+                {
+                    "Reply": "Cinch up your seatbelts mates, we're comin' in for a landing.",
+                    "Didascalie": "",
+                    "Start": 33519,
+                    "End": 33581
+                },
+                {
+                    "Reply": "I've been looking all over for you.  Now look... we got a long way to go, and you're gonna take us there, and you're not gonna give us any trouble about it.  Right??",
+                    "Didascalie": "(assertively)",
+                    "Start": 35743,
+                    "End": 35928
+                },
+                {
+                    "Reply": "ferocious mouse-eating dingo's right... had me surrounded....",
+                    "Didascalie": "",
+                    "Start": 36516,
+                    "End": 36578
+                },
+                {
+                    "Reply": "Ha, ha!!  Show him who's boss Berno!",
+                    "Didascalie": "",
+                    "Start": 40608,
+                    "End": 40645
+                },
+                {
+                    "Reply": "Has anyone considered trying... \"open sesame\"?",
+                    "Didascalie": "(sarcastically)",
+                    "Start": 48714,
+                    "End": 48762
+                },
+                {
+                    "Reply": "Hey it worked!!",
+                    "Didascalie": "(shocked)",
+                    "Start": 48821,
+                    "End": 48838
+                },
+                {
+                    "Reply": "And McLeach.",
+                    "Didascalie": "",
+                    "Start": 49008,
+                    "End": 49021
+                },
+                {
+                    "Reply": "It's gotta be a trick.",
+                    "Didascalie": "",
+                    "Start": 49536,
+                    "End": 49559
+                },
+                {
+                    "Reply": "Shh!  Listen.",
+                    "Didascalie": "",
+                    "Start": 49890,
+                    "End": 49904
+                },
+                {
+                    "Reply": "I don't know where he's going, but he can't let him get away.",
+                    "Didascalie": "",
+                    "Start": 50115,
+                    "End": 50177
+                },
+                {
+                    "Reply": "Bernard!! Bianca!!  Here, catch!!",
+                    "Didascalie": "(throwing a rope)",
+                    "Start": 50421,
+                    "End": 50456
+                },
+                {
+                    "Reply": "He's going down the cliff!  C'mon, we gotta warn him!",
+                    "Didascalie": "",
+                    "Start": 50959,
+                    "End": 51013
+                },
+                {
+                    "Reply": "Hold tight you two, we're going for a ride!",
+                    "Didascalie": "",
+                    "Start": 52033,
+                    "End": 52077
+                },
+                {
+                    "Reply": "It don't look good Miss B.  I can't see any way out of this one.",
+                    "Didascalie": "",
+                    "Start": 58189,
+                    "End": 58254
+                },
+                {
+                    "Reply": "I don't believe it!  Way to go mate!",
+                    "Didascalie": "",
+                    "Start": 59792,
+                    "End": 59829
+                },
+                {
+                    "Reply": "Hop on Miss B.!!",
+                    "Didascalie": "",
+                    "Start": 61806,
+                    "End": 61823
+                }
+            ]
+        },
+        {
+            "Character": "NURSEMICE",
+            "Replies": [
+                {
+                    "Reply": "Heave!  Ho!  Heave!  Ho!",
+                    "Didascalie": "",
+                    "Start": 28834,
+                    "End": 28859
+                },
+                {
+                    "Reply": "Sixty milligrams.",
+                    "Didascalie": "",
+                    "Start": 30317,
+                    "End": 30335
+                },
+                {
+                    "Reply": "Three degrees right.",
+                    "Didascalie": "",
+                    "Start": 30967,
+                    "End": 30988
+                },
+                {
+                    "Reply": "Down two degrees.",
+                    "Didascalie": "",
+                    "Start": 31120,
+                    "End": 31138
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR",
+            "Replies": [
+                {
+                    "Reply": "Now, now, my dear.  Keep a stiff upper lip.  They all come in with a whimper, and leave with a grin.  Off with you now.",
+                    "Didascalie": "(consoling)",
+                    "Start": 29351,
+                    "End": 29481
+                },
+                {
+                    "Reply": "back brace!",
+                    "Didascalie": "",
+                    "Start": 29810,
+                    "End": 29822
+                },
+                {
+                    "Reply": "I've already missed tea, Mr. Albatross, now don't force me to take drastic measures.  You MUST relax.",
+                    "Didascalie": "(cross)",
+                    "Start": 29976,
+                    "End": 30088
+                },
+                {
+                    "Reply": "Better double it!",
+                    "Didascalie": "",
+                    "Start": 30568,
+                    "End": 30586
+                },
+                {
+                    "Reply": "Prepare the albatross for medication.",
+                    "Didascalie": "",
+                    "Start": 30733,
+                    "End": 30771
+                },
+                {
+                    "Reply": "Three degrees right.",
+                    "Didascalie": "(giving directions to aim the gun.)",
+                    "Start": 30910,
+                    "End": 30932
+                },
+                {
+                    "Reply": "Down two degrees.",
+                    "Didascalie": "",
+                    "Start": 31043,
+                    "End": 31061
+                },
+                {
+                    "Reply": "Ready!",
+                    "Didascalie": "",
+                    "Start": 31148,
+                    "End": 31155
+                },
+                {
+                    "Reply": "Aim!!",
+                    "Didascalie": "",
+                    "Start": 31208,
+                    "End": 31214
+                },
+                {
+                    "Reply": "FIRE!!",
+                    "Didascalie": "",
+                    "Start": 31276,
+                    "End": 31283
+                },
+                {
+                    "Reply": "Are we ready nurse?",
+                    "Didascalie": "",
+                    "Start": 40927,
+                    "End": 40947
+                },
+                {
+                    "Reply": "Spinal stretch-u-lator.",
+                    "Didascalie": "",
+                    "Start": 41404,
+                    "End": 41428
+                },
+                {
+                    "Reply": "Artery router.",
+                    "Didascalie": "",
+                    "Start": 41473,
+                    "End": 41488
+                },
+                {
+                    "Reply": "This is rusted tight.  I wouldn't DREAM of using such a tool.",
+                    "Didascalie": "",
+                    "Start": 41516,
+                    "End": 41578
+                },
+                {
+                    "Reply": "Mr. Albatross we haven't operated yet!",
+                    "Didascalie": "",
+                    "Start": 41878,
+                    "End": 41917
+                },
+                {
+                    "Reply": "Mr. Albatross, we must return you to the operating room!",
+                    "Didascalie": "",
+                    "Start": 42040,
+                    "End": 42097
+                },
+                {
+                    "Reply": "My back!",
+                    "Didascalie": "",
+                    "Start": 42439,
+                    "End": 42448
+                }
+            ]
+        },
+        {
+            "Character": "FRANK",
+            "Replies": [
+                {
+                    "Reply": "Yeah, never tell!  You'll have to drag it out of us!",
+                    "Didascalie": "(mimicking Cody)",
+                    "Start": 37098,
+                    "End": 37161
+                },
+                {
+                    "Reply": "Um... the desert?",
+                    "Didascalie": "",
+                    "Start": 37211,
+                    "End": 37229
+                },
+                {
+                    "Reply": "No, no, no, I don't want to hear it.",
+                    "Didascalie": "",
+                    "Start": 37646,
+                    "End": 37683
+                },
+                {
+                    "Reply": "la.....",
+                    "Didascalie": "",
+                    "Start": 37872,
+                    "End": 37880
+                },
+                {
+                    "Reply": "don't let 'em do it!",
+                    "Didascalie": "",
+                    "Start": 38097,
+                    "End": 38118
+                },
+                {
+                    "Reply": "We are?",
+                    "Didascalie": "",
+                    "Start": 38180,
+                    "End": 38188
+                },
+                {
+                    "Reply": "I got it!!  All we gotta do, is get the keys!!",
+                    "Didascalie": "(straining to think)",
+                    "Start": 38519,
+                    "End": 38576
+                },
+                {
+                    "Reply": "Wood, yeah, wood, wood, wood, yeah good.",
+                    "Didascalie": "",
+                    "Start": 38850,
+                    "End": 38891
+                },
+                {
+                    "Reply": "Yeah, yeah, yeah, yeah, yeah.",
+                    "Didascalie": "",
+                    "Start": 39711,
+                    "End": 39741
+                },
+                {
+                    "Reply": "You've got it! You've got it!  You've got it!",
+                    "Didascalie": "",
+                    "Start": 39951,
+                    "End": 39997
+                },
+                {
+                    "Reply": "I've got it!  I'll just take my tail.... and I'll pick the lock.... like this!!",
+                    "Didascalie": "(Frank strains to think again)",
+                    "Start": 40154,
+                    "End": 40244
+                },
+                {
+                    "Reply": "Look at me, I'm free!",
+                    "Didascalie": "(sticks his head through the cage)",
+                    "Start": 45905,
+                    "End": 45928
+                },
+                {
+                    "Reply": "I should get the keys.  I'm stuck, I'm stuck, I'm stuck....",
+                    "Didascalie": "",
+                    "Start": 45969,
+                    "End": 46029
+                },
+                {
+                    "Reply": "Yeah, stand on, something to stand on.",
+                    "Didascalie": "",
+                    "Start": 46435,
+                    "End": 46474
+                },
+                {
+                    "Reply": "These are heavy!",
+                    "Didascalie": "(grumbles)",
+                    "Start": 46982,
+                    "End": 47000
+                },
+                {
+                    "Reply": "Let me in!  Let me in!!",
+                    "Didascalie": "(Joanna runs after Frank towards the cage)",
+                    "Start": 47814,
+                    "End": 47839
+                },
+                {
+                    "Reply": "Huh, missed.",
+                    "Didascalie": "(Joanna shoots the gun at Frank who is standing against a wall.  He is in a fancy position.)",
+                    "Start": 47987,
+                    "End": 48011
+                }
+            ]
+        },
+        {
+            "Character": "KREBBS",
+            "Replies": [
+                {
+                    "Reply": "Well, well, well, fancy that!  Looks likes McLeach has begun trapping his own kind!  There's no hope for any of us now.",
+                    "Didascalie": "",
+                    "Start": 37239,
+                    "End": 37368
+                },
+                {
+                    "Reply": "Oh, there's a way out all right.",
+                    "Didascalie": "",
+                    "Start": 37466,
+                    "End": 37499
+                },
+                {
+                    "Reply": "and our dear Frank....",
+                    "Didascalie": "",
+                    "Start": 37613,
+                    "End": 37636
+                },
+                {
+                    "Reply": "Frank will go as......",
+                    "Didascalie": "",
+                    "Start": 37693,
+                    "End": 37716
+                },
+                {
+                    "Reply": "A purse.",
+                    "Didascalie": "(pause until Frank uncovers his ears)",
+                    "Start": 37927,
+                    "End": 37937
+                },
+                {
+                    "Reply": "Ooo... a lovely ladies' purse.",
+                    "Didascalie": "",
+                    "Start": 37980,
+                    "End": 38011
+                },
+                {
+                    "Reply": "Oh, here he goes again.",
+                    "Didascalie": "",
+                    "Start": 38397,
+                    "End": 38421
+                },
+                {
+                    "Reply": "Ohhh!! Is that all??  Well then, we better start packing our bags.",
+                    "Didascalie": "(sarcastically)",
+                    "Start": 38601,
+                    "End": 38678
+                },
+                {
+                    "Reply": "Somebody shut him up!!",
+                    "Didascalie": "",
+                    "Start": 39841,
+                    "End": 39864
+                },
+                {
+                    "Reply": "Double or nothin' he's caught in five minutes.",
+                    "Didascalie": "",
+                    "Start": 45781,
+                    "End": 45828
+                },
+                {
+                    "Reply": "Quiet ya fool!",
+                    "Didascalie": "",
+                    "Start": 46096,
+                    "End": 46111
+                },
+                {
+                    "Reply": "This oughtta be rich.",
+                    "Didascalie": "",
+                    "Start": 46484,
+                    "End": 46506
+                }
+            ]
+        },
+        {
+            "Character": "RED",
+            "Replies": [
+                {
+                    "Reply": "Take it easy mate, you don't want to hurt yourself again.",
+                    "Didascalie": "",
+                    "Start": 38431,
+                    "End": 38489
+                },
+                {
+                    "Reply": "The kid's right, what are we waiting for?",
+                    "Didascalie": "",
+                    "Start": 39127,
+                    "End": 39169
+                },
+                {
+                    "Reply": "Aww Frank, give it a rest.",
+                    "Didascalie": "",
+                    "Start": 40254,
+                    "End": 40281
+                },
+                {
+                    "Reply": "Hey look!  Krebbs, Frank's out!",
+                    "Didascalie": "",
+                    "Start": 45568,
+                    "End": 45600
+                },
+                {
+                    "Reply": "Shhhhh!!! Joanna'll hear!",
+                    "Didascalie": "",
+                    "Start": 45745,
+                    "End": 45771
+                },
+                {
+                    "Reply": "Shhh quiet!",
+                    "Didascalie": "",
+                    "Start": 46074,
+                    "End": 46086
+                },
+                {
+                    "Reply": "ride 'em Frank!!!!",
+                    "Didascalie": "",
+                    "Start": 47534,
+                    "End": 47553
+                }
+            ]
+        },
+        {
+            "Character": "NURSEMOUSE",
+            "Replies": [
+                {
+                    "Reply": "Ready doctor.",
+                    "Didascalie": "",
+                    "Start": 40962,
+                    "End": 40976
+                },
+                {
+                    "Reply": "Forceps.",
+                    "Didascalie": "",
+                    "Start": 41188,
+                    "End": 41197
+                }
+            ]
+        },
+        {
+            "Character": "EVERYONE",
+            "Replies": [
+                {
+                    "Reply": "FRANK!",
+                    "Didascalie": "",
+                    "Start": 46698,
+                    "End": 46705
+                }
+            ]
+        },
+        {
+            "Character": "EVERYBODY",
+            "Replies": [
+                {
+                    "Reply": "SHHHHH!  Quiet!",
+                    "Didascalie": "",
+                    "Start": 46946,
+                    "End": 46962
+                }
+            ]
+        }
+    ]
 }

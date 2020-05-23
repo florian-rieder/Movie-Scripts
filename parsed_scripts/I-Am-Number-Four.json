@@ -1,34 +1,23 @@
 {
-    "Title": [
-        "I Am Number Four",
-        "   "
-    ],
+    "Title": "I Am Number Four",
     "Author": [
-        "\u00a0\u00a0Alfred Gough\u00a0\u00a0Miles Millar"
+        "Alfred Gough",
+        "Miles Millar"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
-            "Character": "A BILLION STARS",
+            "Character": "I AM NUMBER 4",
             "Replies": [
                 {
-                    "Reply": "pinprick the velvet-black sky that stretches over a vast sleeping jungle. A fingernail moon silvers the whispering canopy while gentle tendrils of steam rise.",
+                    "Reply": "The events in this film are real.",
                     "Didascalie": "",
-                    "Start": 749,
-                    "End": 928
-                }
-            ]
-        },
-        {
-            "Character": "A SERRATED METAL BLADE",
-            "Replies": [
-                {
-                    "Reply": "protruding from his chest. As the sword is viciously protracted through the door, the Man meets the Teen's haunted eyes and whispers his last, desperate word...",
-                    "Didascalie": "",
-                    "Start": 2353,
-                    "End": 2534
+                    "Start": 313,
+                    "End": 347
                 }
             ]
         },
@@ -40,28 +29,6 @@
                     "Didascalie": "",
                     "Start": 2586,
                     "End": 2591
-                }
-            ]
-        },
-        {
-            "Character": "A MONSTROUS HOWL",
-            "Replies": [
-                {
-                    "Reply": "ECHOES as something otherworldly catches his scent and begins thrashing in pursuit. The Teen's face tightens with dread and the SHOUTS of his pursuers hammer his ears.",
-                    "Didascalie": "",
-                    "Start": 3074,
-                    "End": 3262
-                }
-            ]
-        },
-        {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "wraps around his throat. He is effortlessly hoisted by a TOWERING MAN with skin as cold and pale as alabaster.",
-                    "Didascalie": "",
-                    "Start": 3904,
-                    "End": 4025
                 }
             ]
         },
@@ -79,17 +46,6 @@
                     "Didascalie": "",
                     "Start": 6164,
                     "End": 6175
-                }
-            ]
-        },
-        {
-            "Character": "A STILT HOUSE",
-            "Replies": [
-                {
-                    "Reply": "sits at the end. It's cake-frosting pink and is built right on the edge of a coral-white beach.",
-                    "Didascalie": "",
-                    "Start": 6851,
-                    "End": 6957
                 }
             ]
         },
@@ -934,17 +890,6 @@
                     "Didascalie": "",
                     "Start": 185431,
                     "End": 185463
-                }
-            ]
-        },
-        {
-            "Character": "A GECKO",
-            "Replies": [
-                {
-                    "Reply": "skitters across the ceiling, its glossy black eyes watch as Daniel frantically stuffs his clothes into a duffel bag. The walls are bare. No photos, no posters, no personality.",
-                    "Didascalie": "",
-                    "Start": 8188,
-                    "End": 8384
                 }
             ]
         },
@@ -2501,17 +2446,6 @@
             ]
         },
         {
-            "Character": "A BEAGLE",
-            "Replies": [
-                {
-                    "Reply": "slips between Henri's legs. It cocks its head, studies John's face, then pads forward and licks his cheek.",
-                    "Didascalie": "",
-                    "Start": 22979,
-                    "End": 23096
-                }
-            ]
-        },
-        {
             "Character": "FEMALE VOICE",
             "Replies": [
                 {
@@ -3286,17 +3220,6 @@
                     "Didascalie": "",
                     "Start": 191053,
                     "End": 191059
-                }
-            ]
-        },
-        {
-            "Character": "A BACKPACK",
-            "Replies": [
-                {
-                    "Reply": "viciously sideswipes him. The textbooks scatter across the checkerboard linoleum. John sees the culprit is Mark Jayne, who offers him a taunting grin. John fights his urge to react and watches as Mark struts over to his POSSE OF JOCKS.",
-                    "Didascalie": "",
-                    "Start": 29138,
-                    "End": 29404
                 }
             ]
         },
@@ -4090,28 +4013,6 @@
             ]
         },
         {
-            "Character": "A MOGADORIAN COMMANDER",
-            "Replies": [
-                {
-                    "Reply": "hunkered behind a column, his red coat billows behind him like a curse.",
-                    "Didascalie": "",
-                    "Start": 72961,
-                    "End": 73043
-                }
-            ]
-        },
-        {
-            "Character": "A MOGADORIAN TRANSPORT CRAFT",
-            "Replies": [
-                {
-                    "Reply": "suddenly swoops between them. The HOWLS of its occupants ricochet through the night. The heat from its engines washes the ground, warping the destruction like a ghastly mirage as two bay doors open. Young John looks back through the heat-",
-                    "Didascalie": "",
-                    "Start": 73792,
-                    "End": 74061
-                }
-            ]
-        },
-        {
             "Character": "FIVE GIANT RUBBER SPIDERS",
             "Replies": [
                 {
@@ -4141,17 +4042,6 @@
                     "Didascalie": "",
                     "Start": 85046,
                     "End": 85103
-                }
-            ]
-        },
-        {
-            "Character": "A THICK BRANCH",
-            "Replies": [
-                {
-                    "Reply": "cuts through the dark and viciously SMACKS John on the back.",
-                    "Didascalie": "",
-                    "Start": 85929,
-                    "End": 85990
                 }
             ]
         },
@@ -4298,17 +4188,6 @@
             ]
         },
         {
-            "Character": "A MOGADORIAN",
-            "Replies": [
-                {
-                    "Reply": "lurches into the mouth of the tunnel. Without a second's hesitation, Sam swings up his gun and BLASTS it. Mark looks at him in shock as they race through the embers. Sam shrugs.",
-                    "Didascalie": "",
-                    "Start": 181897,
-                    "End": 182095
-                }
-            ]
-        },
-        {
             "Character": "MOGADORIAN COMMANDER",
             "Replies": [
                 {
@@ -4430,17 +4309,6 @@
             ]
         },
         {
-            "Character": "A CANDLE",
-            "Replies": [
-                {
-                    "Reply": "onto the white shag rug.",
-                    "Didascalie": "",
-                    "Start": 148991,
-                    "End": 149016
-                }
-            ]
-        },
-        {
             "Character": "TEENS",
             "Replies": [
                 {
@@ -4474,17 +4342,6 @@
             ]
         },
         {
-            "Character": "A BURNING BEAM",
-            "Replies": [
-                {
-                    "Reply": "breaks free and swings down in front of them. Sarah SCREAMS, but watches in stunned amazement as John sweeps it out of the way with a telekinetic flick of his hand.",
-                    "Didascalie": "",
-                    "Start": 155652,
-                    "End": 155837
-                }
-            ]
-        },
-        {
             "Character": "RED-HAIRED TEEN",
             "Replies": [
                 {
@@ -4492,17 +4349,6 @@
                     "Didascalie": "",
                     "Start": 157158,
                     "End": 157179
-                }
-            ]
-        },
-        {
-            "Character": "A PHOTOGRAPH OF SARAH AND JOHN",
-            "Replies": [
-                {
-                    "Reply": "sharpens INTO FOCUS. It's the one Annie took of them at Thanksgiving. John and Sarah stand in the eerie red glow.",
-                    "Didascalie": "",
-                    "Start": 159430,
-                    "End": 159554
                 }
             ]
         },
@@ -4655,28 +4501,6 @@
                     "Didascalie": "",
                     "Start": 190250,
                     "End": 190301
-                }
-            ]
-        },
-        {
-            "Character": "A PIKEN",
-            "Replies": [
-                {
-                    "Reply": "PUMMEL-RAMS through the wall in a shower of bricks, books and paper. It utters a glass-shattering ROAR. John looks back and sees Bernie bravely holding his ground.",
-                    "Didascalie": "",
-                    "Start": 171694,
-                    "End": 171878
-                }
-            ]
-        },
-        {
-            "Character": "A MOGADORIAN SOLDIER",
-            "Replies": [
-                {
-                    "Reply": "steps out of the shadows. There is nowhere and no time for Henri and the others to run. But as the Mogadorian squeezes the trigger of his hand-cannon, the wall on his right  ERUPTS!",
-                    "Didascalie": "",
-                    "Start": 176691,
-                    "End": 176903
                 }
             ]
         },

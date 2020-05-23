@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "La La Land",
-        "   "
-    ],
+    "Title": "La La Land",
     "Author": [
-        "\u00a0\u00a0Damien Chazelle"
+        "Damien Chazelle"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Musical"
+        "Comedy",
+        "Drama",
+        "Musical"
     ],
     "Characters": [
         {

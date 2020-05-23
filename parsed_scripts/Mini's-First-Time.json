@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Mini's First Time",
-        "   "
-    ],
+    "Title": "Mini's First Time",
     "Author": [
-        "\u00a0\u00a0Nick Guthe"
+        "Nick Guthe"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Comedy",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {

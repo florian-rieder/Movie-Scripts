@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Hesher",
-        "   "
-    ],
+    "Title": "Hesher",
     "Author": [
-        "\u00a0\u00a0Spencer Susser\u00a0\u00a0David Michod"
+        "Spencer Susser",
+        "David Michod"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4006,6 +4004,82 @@
                     "Didascalie": "",
                     "Start": 16537,
                     "End": 16553
+                }
+            ]
+        },
+        {
+            "Character": "KID 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, TJ. You're back. Welcome back.",
+                    "Didascalie": "",
+                    "Start": 18740,
+                    "End": 18776
+                },
+                {
+                    "Reply": "Yeah, I tried calling you a bunch of times, but it kept saying there was a new number or something.",
+                    "Didascalie": "",
+                    "Start": 19787,
+                    "End": 19909
+                },
+                {
+                    "Reply": "Oh OK, cool... I didn't want to call cause I didn't know.",
+                    "Didascalie": "",
+                    "Start": 20109,
+                    "End": 20178
+                },
+                {
+                    "Reply": "You want some of my bagel?",
+                    "Didascalie": "(changing the subject)",
+                    "Start": 20211,
+                    "End": 20250
+                },
+                {
+                    "Reply": "Hey, can I be the first one to sign your cast?",
+                    "Didascalie": "",
+                    "Start": 20534,
+                    "End": 20592
+                },
+                {
+                    "Reply": "OK, cool. Well, welcome back, man.",
+                    "Didascalie": "",
+                    "Start": 20835,
+                    "End": 20870
+                },
+                {
+                    "Reply": "Hey, Teej. What are you doing? Come sit with us, we're in our spot.",
+                    "Didascalie": "",
+                    "Start": 83194,
+                    "End": 83273
+                }
+            ]
+        },
+        {
+            "Character": "KID 2",
+            "Replies": [
+                {
+                    "Reply": "Hey, Teej. Welcome back, man.",
+                    "Didascalie": "",
+                    "Start": 19113,
+                    "End": 19143
+                },
+                {
+                    "Reply": "How you feeling, man?",
+                    "Didascalie": "",
+                    "Start": 19311,
+                    "End": 19333
+                },
+                {
+                    "Reply": "I came by your house a while ago, see if you wanted to come skateboarding or something, but it looked like the place was empty. Have you moved or something?",
+                    "Didascalie": "",
+                    "Start": 19517,
+                    "End": 19718
+                },
+                {
+                    "Reply": "Yeah, welcome back, dude.",
+                    "Didascalie": "",
+                    "Start": 21136,
+                    "End": 21162
                 }
             ]
         },

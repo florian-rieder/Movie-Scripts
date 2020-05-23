@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Minority Report",
-        "   "
-    ],
+    "Title": "Minority Report",
     "Author": [
-        "\u00a0\u00a0Scott Frank"
+        "Scott Frank"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -269,6 +271,88 @@
                     "Didascalie": "",
                     "Start": 12745,
                     "End": 12988
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "Come out of the closet on your hands and knees.",
+                    "Didascalie": "",
+                    "Start": 14154,
+                    "End": 14227
+                },
+                {
+                    "Reply": "Hands and knees!",
+                    "Didascalie": "",
+                    "Start": 14675,
+                    "End": 14692
+                },
+                {
+                    "Reply": "John Palmer, if you were being arrested for any other crime, I would now read you your rights.",
+                    "Didascalie": "(to Johnny)",
+                    "Start": 15585,
+                    "End": 15756
+                },
+                {
+                    "Reply": "But you are under arrest for the future murderer of your wife, Carol Palmer.  You have no rights.",
+                    "Didascalie": "(beat)",
+                    "Start": 15792,
+                    "End": 15966
+                },
+                {
+                    "Reply": "He's got a hair dryer going.  Screwed up my reading.",
+                    "Didascalie": "",
+                    "Start": 98125,
+                    "End": 98203
+                },
+                {
+                    "Reply": "Got 27 warm bodies in this place.",
+                    "Didascalie": "",
+                    "Start": 135828,
+                    "End": 135862
+                },
+                {
+                    "Reply": "Stinking drunk.",
+                    "Didascalie": "",
+                    "Start": 140086,
+                    "End": 140102
+                },
+                {
+                    "Reply": "Let's eat.",
+                    "Didascalie": "",
+                    "Start": 142640,
+                    "End": 142651
+                }
+            ]
+        },
+        {
+            "Character": "OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "POSITIVE FOR JOHN PALMER.",
+                    "Didascalie": "",
+                    "Start": 15290,
+                    "End": 15316
+                },
+                {
+                    "Reply": "We're not picking up shit.",
+                    "Didascalie": "",
+                    "Start": 98308,
+                    "End": 98335
+                },
+                {
+                    "Reply": "Do four.  Speed things up, so we can go eat.",
+                    "Didascalie": "",
+                    "Start": 136029,
+                    "End": 136099
+                },
+                {
+                    "Reply": "Or a guy who doesn't want to get read.",
+                    "Didascalie": "(beat)",
+                    "Start": 140186,
+                    "End": 140276
                 }
             ]
         },
@@ -580,12 +664,6 @@
                     "Didascalie": "",
                     "Start": 121594,
                     "End": 121661
-                },
-                {
-                    "Reply": "Paul?  Paul?  He looks urgently to the phone technician  TECHNICIAN 1 He's still on the line.",
-                    "Didascalie": "(beat)",
-                    "Start": 121697,
-                    "End": 121888
                 },
                 {
                     "Reply": "They told me to move into Paul's office.  I said fuck you very much.",
@@ -3625,6 +3703,34 @@
                     "Didascalie": "",
                     "Start": 203111,
                     "End": 203259
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 2",
+            "Replies": [
+                {
+                    "Reply": "He's been Scanned.  He's on the 33rd Street Subway!",
+                    "Didascalie": "",
+                    "Start": 112498,
+                    "End": 112575
+                },
+                {
+                    "Reply": "We have visual verification -- he's still on the train.",
+                    "Didascalie": "",
+                    "Start": 119317,
+                    "End": 119398
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 1",
+            "Replies": [
+                {
+                    "Reply": "He's still on the line.",
+                    "Didascalie": "",
+                    "Start": 121864,
+                    "End": 121888
                 }
             ]
         },

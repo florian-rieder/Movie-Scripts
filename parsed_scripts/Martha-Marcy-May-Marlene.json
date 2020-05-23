@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Martha Marcy May Marlene",
-        "   "
-    ],
+    "Title": "Martha Marcy May Marlene",
     "Author": [
-        "\u00a0\u00a0Sean Durkin"
+        "Sean Durkin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "American History X",
-        "   "
-    ],
+    "Title": "American History X",
     "Author": [
-        "\u00a0\u00a0David McKenna"
+        "David McKenna"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4606,17 +4605,6 @@
                     "Didascalie": "",
                     "Start": 115821,
                     "End": 115889
-                }
-            ]
-        },
-        {
-            "Character": "A SERIES OF SMOTS",
-            "Replies": [
-                {
-                    "Reply": "Derek blows by Lawrence for a left handed layup. Derek hits a thirty looter. Curtis grabs a rebound and uses his elbows to get defenders off him. Big Lawrence fouls Derek hard and Derek stares at him. Big Lawrence makes a twenty foot turnaround. Lawrence advances on a three on two and dunks it. Derek pump fakes three times and uses the glass for a deuce. Finally, Derek drives the lane and dishes to Seth at the last minute for a bucket.",
-                    "Didascalie": "",
-                    "Start": 23190,
-                    "End": 23630
                 }
             ]
         },

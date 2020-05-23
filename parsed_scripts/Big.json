@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Big",
-        "   "
-    ],
+    "Title": "Big",
     "Author": [
-        "\u00a0\u00a0Gary Ross\u00a0\u00a0Anne Spielberg"
+        "Gary Ross",
+        "Anne Spielberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Family\u00a0\u00a0Fantasy"
+        "Comedy",
+        "Family",
+        "Fantasy"
     ],
     "Characters": [
         {

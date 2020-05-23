@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Juno",
-        "   "
-    ],
+    "Title": "Juno",
     "Author": [
-        "\u00a0\u00a0Diablo Cody"
+        "Diablo Cody"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

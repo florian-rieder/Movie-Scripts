@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Land of the Dead",
-        "   "
-    ],
+    "Title": "Land of the Dead",
     "Author": [
-        "\u00a0\u00a0George A. Romero"
+        "George A. Romero"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

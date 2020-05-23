@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Jackie Brown",
-        "   "
-    ],
+    "Title": "Jackie Brown",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino"
+        "Quentin Tarantino"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -7783,17 +7781,6 @@
             ]
         },
         {
-            "Character": "A BLACK FINGER",
-            "Replies": [
-                {
-                    "Reply": "Pressing a BLACK BUTTON next to the name, \"BEAUMONT LIVINGSTON\".",
-                    "Didascalie": "",
-                    "Start": 27553,
-                    "End": 27621
-                }
-            ]
-        },
-        {
             "Character": "BEAUMONT",
             "Replies": [
                 {
@@ -9060,17 +9047,6 @@
             ]
         },
         {
-            "Character": "END OF SPLIT SCREEN",
-            "Replies": [
-                {
-                    "Reply": "Jackie turns Ordell around, gun firmly in his back, and pushes him against the wall.",
-                    "Didascalie": "",
-                    "Start": 96464,
-                    "End": 96552
-                }
-            ]
-        },
-        {
             "Character": "DOORWAY",
             "Replies": [
                 {
@@ -9224,17 +9200,6 @@
                     "Didascalie": "",
                     "Start": 139774,
                     "End": 139790
-                }
-            ]
-        },
-        {
-            "Character": "A RELEASE FORM",
-            "Replies": [
-                {
-                    "Reply": "With a date on it. Jackie's hand is signing her name. We WHIP UP and se her face, just as Max Cherry approaches her, handing her his business card.",
-                    "Didascalie": "",
-                    "Start": 151266,
-                    "End": 151420
                 }
             ]
         },
@@ -9681,17 +9646,6 @@
                     "Didascalie": "(stoned)",
                     "Start": 243542,
                     "End": 243567
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG BLACK COMEDIAN ON TV",
-            "Replies": [
-                {
-                    "Reply": "Def Comedy Jam plays on TV, a black comedian does a nasty stand-up routine.",
-                    "Didascalie": "",
-                    "Start": 244370,
-                    "End": 244449
                 }
             ]
         }

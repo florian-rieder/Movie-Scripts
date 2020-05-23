@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Chinatown",
-        "   "
-    ],
+    "Title": "Chinatown",
     "Author": [
-        "\u00a0\u00a0Robert Towne"
+        "Robert Towne"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -6052,17 +6051,6 @@
             ]
         },
         {
-            "Character": "A FIREMAN",
-            "Replies": [
-                {
-                    "Reply": "No smoking, sir. It's a fire hazard this time of year.",
-                    "Didascalie": "",
-                    "Start": 69956,
-                    "End": 70037
-                }
-            ]
-        },
-        {
             "Character": "MORTY",
             "Replies": [
                 {
@@ -6722,28 +6710,6 @@
             ]
         },
         {
-            "Character": "INSERT PAGE",
-            "Replies": [
-                {
-                    "Reply": "Showing TRACT, LOT, PARCEL, even a METES AND BOUNDS designation where the description of the land parcel is long and hopelessly involved e.g. '6000 paces to Rio Seco, thence 7000 paces to Loma Linda, etc.' These descriptions are old and faded. In the owners' column, however there are numerous freshly typed names pasted over the prior owners.",
-                    "Didascalie": "",
-                    "Start": 156933,
-                    "End": 157357
-                }
-            ]
-        },
-        {
-            "Character": "INSERT PLAT BOOK NORTHWEST VALLEY",
-            "Replies": [
-                {
-                    "Reply": "Beside the OWNER column he places the ruler, looks toward the clerks, then swiftly rips down the page, tearing out a strip about two inches wide containing the owner's name and property description. As he tears, he either sniffles or coughs to cover the SOUND of the PAPER being ripped.",
-                    "Didascalie": "",
-                    "Start": 159601,
-                    "End": 159952
-                }
-            ]
-        },
-        {
             "Character": "OLD STUCCO BUILDINGS FURTHER ON",
             "Replies": [
                 {
@@ -7086,6 +7052,17 @@
                     "Didascalie": "",
                     "Start": 216779,
                     "End": 216851
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 0N PHONE",
+            "Replies": [
+                {
+                    "Reply": "Ida Sessions, you remember Ida.",
+                    "Didascalie": "",
+                    "Start": 216060,
+                    "End": 216092
                 }
             ]
         },

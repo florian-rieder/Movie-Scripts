@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Burning Annie",
-        "   "
-    ],
+    "Title": "Burning Annie",
     "Author": [
-        "\u00a0\u00a0Zack Ordynans"
+        "Zack Ordynans"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

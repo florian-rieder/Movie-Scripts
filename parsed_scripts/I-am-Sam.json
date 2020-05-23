@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "I am Sam",
-        "   "
-    ],
+    "Title": "I am Sam",
     "Author": [
-        "\u00a0\u00a0Kristine Johnson\u00a0\u00a0Jessie Nelson"
+        "Kristine Johnson",
+        "Jessie Nelson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {

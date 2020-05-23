@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Belle",
-        "   "
-    ],
+    "Title": "Belle",
     "Author": [
-        "\u00a0\u00a0Misan Sagay"
+        "Misan Sagay"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5114,6 +5112,23 @@
             ]
         },
         {
+            "Character": "GENTLEMAN 1",
+            "Replies": [
+                {
+                    "Reply": "I have six brothers, madam.",
+                    "Didascalie": "",
+                    "Start": 129370,
+                    "End": 129398
+                },
+                {
+                    "Reply": "...all older, madam, yes.",
+                    "Didascalie": "",
+                    "Start": 129618,
+                    "End": 129644
+                }
+            ]
+        },
+        {
             "Character": "BARONESS VERNON",
             "Replies": [
                 {
@@ -5209,6 +5224,17 @@
                     "Didascalie": "",
                     "Start": 164948,
                     "End": 164980
+                }
+            ]
+        },
+        {
+            "Character": "YOUNG MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Of course not - there is self-",
+                    "Didascalie": "",
+                    "Start": 165474,
+                    "End": 165505
                 }
             ]
         },

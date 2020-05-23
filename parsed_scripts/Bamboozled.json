@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Bamboozled",
-        "   "
-    ],
+    "Title": "Bamboozled",
     "Author": [
-        "\u00a0\u00a0Spike Lee"
+        "Spike Lee"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -6221,29 +6219,6 @@
                     "Didascalie": "",
                     "Start": 101443,
                     "End": 101552
-                }
-            ]
-        },
-        {
-            "Character": "NEWSREEL FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "Kids swinging in their hula hoops.",
-                    "Didascalie": "",
-                    "Start": 101784,
-                    "End": 101819
-                },
-                {
-                    "Reply": "Kids playing with their yo-yo's.",
-                    "Didascalie": "",
-                    "Start": 101901,
-                    "End": 101934
-                },
-                {
-                    "Reply": "A young girl petting her Pet Rock.",
-                    "Didascalie": "",
-                    "Start": 102032,
-                    "End": 102067
                 }
             ]
         },

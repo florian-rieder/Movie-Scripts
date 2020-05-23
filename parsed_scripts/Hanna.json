@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Hanna",
-        "   "
-    ],
+    "Title": "Hanna",
     "Author": [
-        "\u00a0\u00a0Seth Lochead"
+        "Seth Lochead"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Mystery"
+        "Action",
+        "Crime",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -2768,6 +2767,34 @@
             ]
         },
         {
+            "Character": "VOICE 1",
+            "Replies": [
+                {
+                    "Reply": "She hasn't moved since we brought her in.",
+                    "Didascalie": "",
+                    "Start": 36771,
+                    "End": 36823
+                },
+                {
+                    "Reply": "They want a psych evaluation before they interrogate.",
+                    "Didascalie": "",
+                    "Start": 36946,
+                    "End": 37010
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 2",
+            "Replies": [
+                {
+                    "Reply": "Has anyone talked to her?",
+                    "Didascalie": "",
+                    "Start": 36876,
+                    "End": 36902
+                }
+            ]
+        },
+        {
             "Character": "BURTON",
             "Replies": [
                 {
@@ -2829,6 +2856,46 @@
                     "Didascalie": "",
                     "Start": 48042,
                     "End": 48051
+                }
+            ]
+        },
+        {
+            "Character": "MILITARY DOCTOR 1",
+            "Replies": [
+                {
+                    "Reply": "John come and take a look at this kid's blood sample.",
+                    "Didascalie": "",
+                    "Start": 41689,
+                    "End": 41753
+                },
+                {
+                    "Reply": "And I got a sample of her hair.",
+                    "Didascalie": "",
+                    "Start": 41969,
+                    "End": 42001
+                },
+                {
+                    "Reply": "What contamination? What would it be?",
+                    "Didascalie": "",
+                    "Start": 42196,
+                    "End": 42244
+                }
+            ]
+        },
+        {
+            "Character": "MILITARY DOCTOR 2",
+            "Replies": [
+                {
+                    "Reply": "That must be contamination.",
+                    "Didascalie": "",
+                    "Start": 42114,
+                    "End": 42142
+                },
+                {
+                    "Reply": "Run it again.",
+                    "Didascalie": "",
+                    "Start": 42298,
+                    "End": 42312
                 }
             ]
         },

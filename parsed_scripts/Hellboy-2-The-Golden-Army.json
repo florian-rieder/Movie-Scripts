@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Hellboy 2: The Golden Army",
-        "   "
-    ],
+    "Title": "Hellboy 2: The Golden Army",
     "Author": [
-        "\u00a0\u00a0Guillermo del Toro"
+        "Guillermo del Toro"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -136,6 +135,17 @@
                     "Didascalie": "",
                     "Start": 3186,
                     "End": 3198
+                }
+            ]
+        },
+        {
+            "Character": "BELLBOY 2 4",
+            "Replies": [
+                {
+                    "Reply": "A few emergency lights come on, revealing The Shadowy Figure, who walks down the aisle to confront the auctioneer.",
+                    "Didascalie": "",
+                    "Start": 5192,
+                    "End": 5317
                 }
             ]
         },
@@ -2351,6 +2361,17 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 7",
+            "Replies": [
+                {
+                    "Reply": "Well- I'm not afraid of you! You hear??",
+                    "Didascalie": "(yelling at Liz)",
+                    "Start": 10353,
+                    "End": 10404
+                }
+            ]
+        },
+        {
             "Character": "LIZ",
             "Replies": [
                 {
@@ -2942,6 +2963,62 @@
                     "Didascalie": "",
                     "Start": 22454,
                     "End": 22474
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 16",
+            "Replies": [
+                {
+                    "Reply": "Hellboy stomps down hard, popping some creatures, bashing others with the butt of his shotgun. As flames leap up, the things regroup and renew their attack.",
+                    "Didascalie": "",
+                    "Start": 23193,
+                    "End": 23370
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "Check it out. That guy's make-up is so fake. I mean, come on, solid red-",
+                    "Didascalie": "",
+                    "Start": 26392,
+                    "End": 26475
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "And what's with his forehead? Is that goggles?",
+                    "Didascalie": "",
+                    "Start": 26543,
+                    "End": 26600
+                },
+                {
+                    "Reply": "Hey, we got us a wino.",
+                    "Didascalie": "",
+                    "Start": 26739,
+                    "End": 26762
+                },
+                {
+                    "Reply": "Hey- buddy- get the-",
+                    "Didascalie": "",
+                    "Start": 27034,
+                    "End": 27055
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 19",
+            "Replies": [
+                {
+                    "Reply": "Effortlessly, the SHADOWY FIGURE vaults the chainlink fence and walks into the roundhouse. WINK smashes the fence and follows him through.",
+                    "Didascalie": "",
+                    "Start": 27904,
+                    "End": 28063
                 }
             ]
         },
@@ -3631,6 +3708,17 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 23",
+            "Replies": [
+                {
+                    "Reply": "All of the family heads sheepishly bow their heads, then kneel.",
+                    "Didascalie": "",
+                    "Start": 34426,
+                    "End": 34500
+                }
+            ]
+        },
+        {
             "Character": "HELLBOY ON TV",
             "Replies": [
                 {
@@ -3638,6 +3726,17 @@
                     "Didascalie": "",
                     "Start": 37253,
                     "End": 37377
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 25",
+            "Replies": [
+                {
+                    "Reply": "Hellboy plunks himself down next to her, popping a can of beer.",
+                    "Didascalie": "",
+                    "Start": 37509,
+                    "End": 37583
                 }
             ]
         },
@@ -3660,6 +3759,17 @@
                     "Didascalie": "",
                     "Start": 38191,
                     "End": 38230
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 28",
+            "Replies": [
+                {
+                    "Reply": ".is a translucent glass bubble, full of gas!",
+                    "Didascalie": "",
+                    "Start": 41638,
+                    "End": 41683
                 }
             ]
         },
@@ -4329,6 +4439,57 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 33",
+            "Replies": [
+                {
+                    "Reply": "He comes closer to her.",
+                    "Didascalie": "",
+                    "Start": 48553,
+                    "End": 48577
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "C'mon- show us your powers-",
+                    "Didascalie": "",
+                    "Start": 50307,
+                    "End": 50335
+                },
+                {
+                    "Reply": "You say you can read things- things about people- so read me- c'mon- read me-",
+                    "Didascalie": "",
+                    "Start": 50537,
+                    "End": 50625
+                },
+                {
+                    "Reply": "What do you see?",
+                    "Didascalie": "",
+                    "Start": 50734,
+                    "End": 50751
+                },
+                {
+                    "Reply": "Oh, my God!! Oh, my- Roll! Roll on this!",
+                    "Didascalie": "(to his cameraman)",
+                    "Start": 81215,
+                    "End": 81267
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "What are you, a mermaid??",
+                    "Didascalie": "",
+                    "Start": 50433,
+                    "End": 50459
+                }
+            ]
+        },
+        {
             "Character": "REPORTER",
             "Replies": [
                 {
@@ -4368,6 +4529,28 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 4 0",
+            "Replies": [
+                {
+                    "Reply": "64  64 MECHANISM OF THE LOCK -filling it, making a few complex gears turn and move-",
+                    "Didascalie": "",
+                    "Start": 59009,
+                    "End": 59113
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 41",
+            "Replies": [
+                {
+                    "Reply": "Abe is thunderstruck.",
+                    "Didascalie": "",
+                    "Start": 60844,
+                    "End": 60866
+                }
+            ]
+        },
+        {
             "Character": "SHOP OWNER",
             "Replies": [
                 {
@@ -4397,6 +4580,28 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 42",
+            "Replies": [
+                {
+                    "Reply": "The shop owner's face suddenly grows pale.",
+                    "Didascalie": "",
+                    "Start": 62303,
+                    "End": 62346
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 44",
+            "Replies": [
+                {
+                    "Reply": "Abe tears it loose and crushes it underfoot. But his vision blurs, he staggers forward and falls, face first, onto the cobblestones.",
+                    "Didascalie": "",
+                    "Start": 65313,
+                    "End": 65466
+                }
+            ]
+        },
+        {
             "Character": "BOWLER",
             "Replies": [
                 {
@@ -4415,12 +4620,6 @@
                     "Didascalie": "",
                     "Start": 81133,
                     "End": 81165
-                },
-                {
-                    "Reply": "Oh, my God!! Oh, my- Roll! Roll on this!",
-                    "Didascalie": "(to his cameraman)",
-                    "Start": 81215,
-                    "End": 81267
                 }
             ]
         },
@@ -4489,6 +4688,17 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 55",
+            "Replies": [
+                {
+                    "Reply": "He throws the grenade. Hellboy dives, just in time to catch it. He's about to throw it down a sewer, when he listens to its clockwork innards then: PING!!!!",
+                    "Didascalie": "",
+                    "Start": 83245,
+                    "End": 83422
+                }
+            ]
+        },
+        {
             "Character": "TO",
             "Replies": [
                 {
@@ -4496,6 +4706,50 @@
                     "Didascalie": "",
                     "Start": 84253,
                     "End": 84325
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 61",
+            "Replies": [
+                {
+                    "Reply": "96  96 IN THE RIVER Abe makes it to the other side, surfacing with the cable, towing it to a half-submerged pontoon.",
+                    "Didascalie": "",
+                    "Start": 93013,
+                    "End": 93160
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 62",
+            "Replies": [
+                {
+                    "Reply": "The Prince walks to the edge of the tower, near a steel spire, his coat flapping in the night wind.",
+                    "Didascalie": "",
+                    "Start": 94577,
+                    "End": 94687
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 63",
+            "Replies": [
+                {
+                    "Reply": "The Creature dies, but even as it does, its branches embrace the steel structure and grow, Ultimately, blocks and blocks of the city are now covered in trees and grass and mossy leaves... A strangely beatific and precious change.",
+                    "Didascalie": "",
+                    "Start": 96424,
+                    "End": 96684
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 66",
+            "Replies": [
+                {
+                    "Reply": "With a CLANG! -- the bank of lockers comes to life! Metal doors smack Hellboy's head repeatedly, like a pinball machine! his face imprinted in the metal.",
+                    "Didascalie": "",
+                    "Start": 100787,
+                    "End": 100961
                 }
             ]
         },
@@ -4589,6 +4843,17 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 71",
+            "Replies": [
+                {
+                    "Reply": "Out of the mouths of the other guests, emerge other, equally large ectoplasmic shapes.",
+                    "Didascalie": "",
+                    "Start": 108322,
+                    "End": 108419
+                }
+            ]
+        },
+        {
             "Character": "STRUCK-",
             "Replies": [
                 {
@@ -4622,6 +4887,17 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 77",
+            "Replies": [
+                {
+                    "Reply": "Irritated, he scowls at the fan. Manning takes him by the elbow and leads him away.",
+                    "Didascalie": "",
+                    "Start": 117405,
+                    "End": 117499
+                }
+            ]
+        },
+        {
             "Character": "MAKEUP GIRL",
             "Replies": [
                 {
@@ -4639,6 +4915,28 @@
             ]
         },
         {
+            "Character": "MAKEUP GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "So, what color is that- green?",
+                    "Didascalie": "",
+                    "Start": 118360,
+                    "End": 118391
+                }
+            ]
+        },
+        {
+            "Character": "MAKEUP GIRL 3",
+            "Replies": [
+                {
+                    "Reply": "Are these really scars?",
+                    "Didascalie": "",
+                    "Start": 118605,
+                    "End": 118629
+                }
+            ]
+        },
+        {
             "Character": "ADVICE-",
             "Replies": [
                 {
@@ -4646,6 +4944,17 @@
                     "Didascalie": "(long beat, then sotto voce)",
                     "Start": 119091,
                     "End": 119179
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 79",
+            "Replies": [
+                {
+                    "Reply": "One of them, a puppet vendor, showcases his product. He manipulates a wooden marionette: A KNIGHT in SHINING ARMOR.",
+                    "Didascalie": "",
+                    "Start": 120284,
+                    "End": 120410
                 }
             ]
         },
@@ -4696,6 +5005,17 @@
             ]
         },
         {
+            "Character": "ANNOUNCER 1",
+            "Replies": [
+                {
+                    "Reply": "This is a news alert. Tokyo is under assault - repeat - this city has been attacked. Monstrous beings, defying description, have waded into the Ginza-",
+                    "Didascalie": "",
+                    "Start": 125708,
+                    "End": 125889
+                }
+            ]
+        },
+        {
             "Character": "ANNOUNCER I",
             "Replies": [
                 {
@@ -4703,6 +5023,67 @@
                     "Didascalie": "",
                     "Start": 126060,
                     "End": 126145
+                }
+            ]
+        },
+        {
+            "Character": "ANNOUNCER 2",
+            "Replies": [
+                {
+                    "Reply": "This is CNN in Moscow, where a Dragon has laid claim to Red Square. Yes- a DRAGON.",
+                    "Didascalie": "",
+                    "Start": 126414,
+                    "End": 126507
+                },
+                {
+                    "Reply": "Oh, my God...",
+                    "Didascalie": "",
+                    "Start": 126708,
+                    "End": 126722
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 83",
+            "Replies": [
+                {
+                    "Reply": "The DRAGON heads towards the TV REPORTER and screeching, it raises its PAW.",
+                    "Didascalie": "",
+                    "Start": 126589,
+                    "End": 126675
+                }
+            ]
+        },
+        {
+            "Character": "BELLBOY 2 84",
+            "Replies": [
+                {
+                    "Reply": "She hides the gold segment within the pages of \"Jane Eyre.\"",
+                    "Didascalie": "",
+                    "Start": 128136,
+                    "End": 128196
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 85",
+            "Replies": [
+                {
+                    "Reply": "- a couple of dead AGENTS sprawled on the loading dock.",
+                    "Didascalie": "",
+                    "Start": 129919,
+                    "End": 129975
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 87",
+            "Replies": [
+                {
+                    "Reply": "Hellboy grimaces and looks down: the Prince's SPEAR TIP is half-buried in his chest...!",
+                    "Didascalie": "",
+                    "Start": 133201,
+                    "End": 133299
                 }
             ]
         },
@@ -4746,6 +5127,17 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 93",
+            "Replies": [
+                {
+                    "Reply": "Sure enough, they get a glimpse of the transparent head through the cockpit window. Abe's there, too. He raises a webbed hand to wave goodbye.",
+                    "Didascalie": "",
+                    "Start": 142186,
+                    "End": 142349
+                }
+            ]
+        },
+        {
             "Character": "A-",
             "Replies": [
                 {
@@ -4753,6 +5145,17 @@
                     "Didascalie": "",
                     "Start": 143214,
                     "End": 143398
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 94",
+            "Replies": [
+                {
+                    "Reply": "Massive granite mountains encircle an impossibly green valley.",
+                    "Didascalie": "",
+                    "Start": 143853,
+                    "End": 143926
                 }
             ]
         },
@@ -4861,6 +5264,17 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 98",
+            "Replies": [
+                {
+                    "Reply": "Strange BIRDS hang upside down form the Cave's roof. A MASSIVE CHIMNEY has been carved out of the cave's rock at the other end. A Black, ancient figure is hunched there, warming its skeletal hands by the fire.",
+                    "Didascalie": "",
+                    "Start": 149449,
+                    "End": 149689
+                }
+            ]
+        },
+        {
             "Character": "ANGEL OF DEATH",
             "Replies": [
                 {
@@ -4914,6 +5328,50 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 99",
+            "Replies": [
+                {
+                    "Reply": "The ANGEL OF DEATH holds up the speartip and looks at it with distaste.",
+                    "Didascalie": "",
+                    "Start": 151361,
+                    "End": 151443
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 102",
+            "Replies": [
+                {
+                    "Reply": "He hits Wink again and again-",
+                    "Didascalie": "",
+                    "Start": 155805,
+                    "End": 155835
+                }
+            ]
+        },
+        {
+            "Character": "BELLBOY 2 103",
+            "Replies": [
+                {
+                    "Reply": "Seconds later, Hellboy is at his side, gripping the wheel in his huge hands. Using all his strength, Hellboy finally manages to turn it.",
+                    "Didascalie": "",
+                    "Start": 157421,
+                    "End": 157578
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 104",
+            "Replies": [
+                {
+                    "Reply": "162 AMONG THE SOLDIERS 162 Hellboy leads the way down a row of gleaming statues, pausing to gaze up at the blank face of one of the infantrymen.",
+                    "Didascalie": "",
+                    "Start": 158843,
+                    "End": 159018
+                }
+            ]
+        },
+        {
             "Character": "AS",
             "Replies": [
                 {
@@ -4925,6 +5383,39 @@
             ]
         },
         {
+            "Character": "HELLBOY 2 106",
+            "Replies": [
+                {
+                    "Reply": "A VOICE reaches their ears from the tunnel entrance behind them.",
+                    "Didascalie": "",
+                    "Start": 161830,
+                    "End": 161905
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 108",
+            "Replies": [
+                {
+                    "Reply": "Instantly, the thing whirls on its companions and starts chopping! Bits and pieces of gold machinery fly about as Johann rips into the enemy!!",
+                    "Didascalie": "",
+                    "Start": 165377,
+                    "End": 165540
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 110",
+            "Replies": [
+                {
+                    "Reply": "He impales himself on HELLBOY's sword. The blade goes through his abdomen and protrudes on the other side. Hellboy pulls it out, but it's too late. Both the Prince and the Princess collapse to the ground, mortally wounded.",
+                    "Didascalie": "",
+                    "Start": 168769,
+                    "End": 169022
+                }
+            ]
+        },
+        {
             "Character": "NO-",
             "Replies": [
                 {
@@ -4932,6 +5423,17 @@
                     "Didascalie": "",
                     "Start": 169081,
                     "End": 169166
+                }
+            ]
+        },
+        {
+            "Character": "HELLBOY 2 112",
+            "Replies": [
+                {
+                    "Reply": "Abe steps past Hellboy and removes his gunbelt and equipment pack.",
+                    "Didascalie": "",
+                    "Start": 172201,
+                    "End": 172278
                 }
             ]
         }

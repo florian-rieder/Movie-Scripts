@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Watchmen",
-        "   "
-    ],
+    "Title": "Watchmen",
     "Author": [
-        "\u00a0\u00a0David Hayter\u00a0\u00a0Alex Tse"
+        "David Hayter",
+        "Alex Tse"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -250,6 +251,35 @@
                     "Didascalie": "",
                     "Start": 87027,
                     "End": 87119
+                }
+            ]
+        },
+        {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Hey! This is still a goddamn crime scene!",
+                    "Didascalie": "",
+                    "Start": 5326,
+                    "End": 5368
+                },
+                {
+                    "Reply": "You sure it wasn't the wind?",
+                    "Didascalie": "",
+                    "Start": 13179,
+                    "End": 13208
+                },
+                {
+                    "Reply": "I tell ya, I'd rather do traffic duty than be posted at a crime scene all night. Watch the door.",
+                    "Didascalie": "",
+                    "Start": 13297,
+                    "End": 13414
+                },
+                {
+                    "Reply": "I got it. Christ, he stinks!",
+                    "Didascalie": "",
+                    "Start": 113296,
+                    "End": 113325
                 }
             ]
         },
@@ -629,12 +659,6 @@
                     "Didascalie": "",
                     "Start": 109245,
                     "End": 109249
-                },
-                {
-                    "Reply": "IF THERE'S ANYONE IN THERE WITH YOU, SEND  THEM OUT UNHARMED.",
-                    "Didascalie": "",
-                    "Start": 109506,
-                    "End": 109578
                 },
                 {
                     "Reply": "Framed. Set up. Walked right into it.",
@@ -1049,6 +1073,17 @@
                     "Didascalie": "",
                     "Start": 204854,
                     "End": 204864
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "Nah, I definitely heard something.",
+                    "Didascalie": "",
+                    "Start": 13235,
+                    "End": 13270
                 }
             ]
         },
@@ -1653,12 +1688,6 @@
                     "Didascalie": "",
                     "Start": 136094,
                     "End": 136156
-                },
-                {
-                    "Reply": "PLEASE REMAIN CALM. WE ARE SLOWING THE  FIRE DOWN FROM BELOW. CALMLY MAKE YOUR  WAY TO THE ROOF AND I'LL EXTEND A RAMP TO  YOU.",
-                    "Didascalie": "(over the LOUDSPEAKERS)",
-                    "Start": 136189,
-                    "End": 136359
                 },
                 {
                     "Reply": "Can you escort the people over?",
@@ -3851,6 +3880,28 @@
             ]
         },
         {
+            "Character": "KID 1",
+            "Replies": [
+                {
+                    "Reply": "I'm Dr. Manhattan, saving the Twin Towers!",
+                    "Didascalie": "",
+                    "Start": 46997,
+                    "End": 47050
+                }
+            ]
+        },
+        {
+            "Character": "KID 2",
+            "Replies": [
+                {
+                    "Reply": "No, I wanna be Dr. Manhattan!",
+                    "Didascalie": "",
+                    "Start": 47077,
+                    "End": 47107
+                }
+            ]
+        },
+        {
             "Character": "MOTHER",
             "Replies": [
                 {
@@ -4211,13 +4262,97 @@
             ]
         },
         {
-            "Character": "KASHMIR--",
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Did you give Ms. Slater cancer by sleeping with her?",
+                    "Didascalie": "",
+                    "Start": 82515,
+                    "End": 82578
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Do you even care about human life?",
+                    "Didascalie": "",
+                    "Start": 82671,
+                    "End": 82706
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 1",
+            "Replies": [
+                {
+                    "Reply": "Miss Jupiter, we need you to visualize Dr. Manhattan. Do you need a prompt?",
+                    "Didascalie": "",
+                    "Start": 88465,
+                    "End": 88551
+                },
+                {
+                    "Reply": "We're ready Miss Jupiter. We need you to try and talk to him.",
+                    "Didascalie": "",
+                    "Start": 88747,
+                    "End": 88819
+                },
+                {
+                    "Reply": "We've located his signal, yes.",
+                    "Didascalie": "",
+                    "Start": 89374,
+                    "End": 89405
+                },
+                {
+                    "Reply": "He's on Mars.",
+                    "Didascalie": "",
+                    "Start": 89564,
+                    "End": 89578
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 2",
+            "Replies": [
+                {
+                    "Reply": "Neurotransmissions tracking.",
+                    "Didascalie": "",
+                    "Start": 88617,
+                    "End": 88646
+                }
+            ]
+        },
+        {
+            "Character": "TECHNICIAN 3",
+            "Replies": [
+                {
+                    "Reply": "Transmitting on all frequencies.",
+                    "Didascalie": "",
+                    "Start": 88680,
+                    "End": 88713
+                }
+            ]
+        },
+        {
+            "Character": "NEWS REPORTER 2",
             "Replies": [
                 {
                     "Reply": "--unconfirmed reports of a gunfire exchange in Tehran--",
                     "Didascalie": "",
                     "Start": 89972,
                     "End": 90038
+                }
+            ]
+        },
+        {
+            "Character": "NEWS REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "--prompting the President to call an emergency meeting with his National Security Advisors--",
+                    "Didascalie": "",
+                    "Start": 90082,
+                    "End": 90195
                 }
             ]
         },
@@ -4330,6 +4465,80 @@
                     "Didascalie": "",
                     "Start": 103109,
                     "End": 103138
+                }
+            ]
+        },
+        {
+            "Character": "SWAT COP 1",
+            "Replies": [
+                {
+                    "Reply": "It's a bum tip, I'm telling you.",
+                    "Didascalie": "",
+                    "Start": 110416,
+                    "End": 110449
+                }
+            ]
+        },
+        {
+            "Character": "SWAT COP 2-",
+            "Replies": [
+                {
+                    "Reply": "Keep your eyes open.",
+                    "Didascalie": "",
+                    "Start": 110482,
+                    "End": 110503
+                }
+            ]
+        },
+        {
+            "Character": "SWAT COP 3",
+            "Replies": [
+                {
+                    "Reply": "Where'd he go?",
+                    "Didascalie": "",
+                    "Start": 111125,
+                    "End": 111140
+                },
+                {
+                    "Reply": "Where is he?!",
+                    "Didascalie": "",
+                    "Start": 111366,
+                    "End": 111380
+                },
+                {
+                    "Reply": "Send the second team in! Graves is down!",
+                    "Didascalie": "(into radio)",
+                    "Start": 111402,
+                    "End": 111454
+                },
+                {
+                    "Reply": "Get out of the way! I don't have room to--",
+                    "Didascalie": "",
+                    "Start": 111749,
+                    "End": 111792
+                }
+            ]
+        },
+        {
+            "Character": "SWAT COP 2",
+            "Replies": [
+                {
+                    "Reply": "Upstairs! He's upstairs! Go!",
+                    "Didascalie": "",
+                    "Start": 111172,
+                    "End": 111201
+                },
+                {
+                    "Reply": "Stay calm, the file says he never goes armed.",
+                    "Didascalie": "",
+                    "Start": 111538,
+                    "End": 111594
+                },
+                {
+                    "Reply": "AHH! I CAN'T SEE!",
+                    "Didascalie": "",
+                    "Start": 111699,
+                    "End": 111717
                 }
             ]
         },
@@ -4622,12 +4831,35 @@
             ]
         },
         {
-            "Character": "WHEELCHAIR",
+            "Character": "GANG MEMBER 1",
             "Replies": [
                 {
-                    "Reply": "GANG MEMBER 2 You say Nite Owl broke him out? Didn't he write a book or something? He lives over a garage near here.",
+                    "Reply": "Yo, y'all hear? Some super owl dude broke Rorschach outta prison.",
                     "Didascalie": "",
-                    "Start": 157570,
+                    "Start": 157388,
+                    "End": 157464
+                },
+                {
+                    "Reply": "Hold on, Derf, are you sure this is the right guy--he, he's just an old man.",
+                    "Didascalie": "",
+                    "Start": 159403,
+                    "End": 159490
+                },
+                {
+                    "Reply": "I told you we had the wrong guy.",
+                    "Didascalie": "(to Gang Leader)",
+                    "Start": 170577,
+                    "End": 170621
+                }
+            ]
+        },
+        {
+            "Character": "GANG MEMBER 2",
+            "Replies": [
+                {
+                    "Reply": "You say Nite Owl broke him out? Didn't he write a book or something? He lives over a garage near here.",
+                    "Didascalie": "",
+                    "Start": 157594,
                     "End": 157717
                 }
             ]

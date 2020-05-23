@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "25th Hour",
-        "   "
-    ],
+    "Title": "25th Hour",
     "Author": [
-        "\u00a0\u00a0David Benioff"
+        "David Benioff"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "INDUSTRY ENTERTAINMENT",
-            "Replies": [
-                {
-                    "Reply": "EXT . WES T SIDE HIGHWAY -- NIGHT     o    A blac k dog sleeps on the shoulder of the highway, head between his paws , curled up next to the barricad e that separates the north and southbound lanes .",
-                    "Didascalie": "",
-                    "Start": 147,
-                    "End": 357
-                }
-            ]
-        },
         {
             "Character": "MONTY",
             "Replies": [
@@ -557,12 +544,6 @@
                     "Didascalie": "",
                     "Start": 73831,
                     "End": 73849
-                },
-                {
-                    "Reply": "..... .       40   CONTINUED:         MR. BROGAN  Do I trust her? Why do J have to trust her?",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 73998,
-                    "End": 74214
                 },
                 {
                     "Reply": "Do you think I can trust her?",
@@ -1608,12 +1589,6 @@
                     "End": 54901
                 },
                 {
-                    "Reply": "29   CONTINUED:        Monty opens the front door. He stares down at Kostya.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 54969,
-                    "End": 55114
-                },
-                {
                     "Reply": "So many beautiful women, this neighborhood. I like very much.",
                     "Didascalie": "",
                     "Start": 55220,
@@ -2064,6 +2039,17 @@
             ]
         },
         {
+            "Character": "YOUNG MAN 1",
+            "Replies": [
+                {
+                    "Reply": "What up, Monty.",
+                    "Didascalie": "",
+                    "Start": 10406,
+                    "End": 10422
+                }
+            ]
+        },
+        {
             "Character": "SIMON",
             "Replies": [
                 {
@@ -2119,17 +2105,6 @@
                     "Didascalie": "",
                     "Start": 13892,
                     "End": 14012
-                }
-            ]
-        },
-        {
-            "Character": "INSERT PHOTOGRAPH",
-            "Replies": [
-                {
-                    "Reply": "The Campbell-Sawyer basketball team. The players stand in a semi-circle with their coaches. We move in closer on one face in particular: Monty, when he was sixteen, free and easy.",
-                    "Didascalie": "",
-                    "Start": 15295,
-                    "End": 15475
                 }
             ]
         },
@@ -2434,12 +2409,6 @@
                     "Didascalie": "",
                     "Start": 150949,
                     "End": 150967
-                },
-                {
-                    "Reply": "81   CONTINUED,:           O     She runs her fingernail down his side. Jakob, half-sleeping, smiles and caresses her hand. Then his eyes pop open. He jerks upright and Mary slides off him.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 151042,
-                    "End": 151324
                 },
                 {
                     "Reply": "Don't panic. Nobody here gives a shit.",
@@ -4050,6 +4019,28 @@
             ]
         },
         {
+            "Character": "TRADER 1",
+            "Replies": [
+                {
+                    "Reply": "Stop out of that! Stop out!",
+                    "Didascalie": "",
+                    "Start": 40024,
+                    "End": 40052
+                }
+            ]
+        },
+        {
+            "Character": "TRADER 2",
+            "Replies": [
+                {
+                    "Reply": "We're going for a ride!",
+                    "Didascalie": "",
+                    "Start": 40102,
+                    "End": 40126
+                }
+            ]
+        },
+        {
             "Character": "NATURELLE",
             "Replies": [
                 {
@@ -4225,12 +4216,6 @@
                     "Didascalie": "",
                     "Start": 129791,
                     "End": 129802
-                },
-                {
-                    "Reply": "CONTINUED :        o                         JAKOB No . . .",
-                    "Didascalie": "",
-                    "Start": 130360,
-                    "End": 130435
                 },
                 {
                     "Reply": "Okay. I'm Naturelle.",
@@ -4507,12 +4492,6 @@
                     "End": 70381
                 },
                 {
-                    "Reply": "38   CONTINUED :        Monty is silent for a few seconds. When he does speak, his tone is very quiet and deliberate -- he is trying to restrain his temper.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 70449,
-                    "End": 70673
-                },
-                {
                     "Reply": "Am I? That's sweet, you really trust her .",
                     "Didascalie": "",
                     "Start": 70783,
@@ -4594,6 +4573,41 @@
                     "Didascalie": "",
                     "Start": 72448,
                     "End": 72454
+                }
+            ]
+        },
+        {
+            "Character": "BOY 1",
+            "Replies": [
+                {
+                    "Reply": "These ones, they eat rat poison like chocolate.",
+                    "Didascalie": "",
+                    "Start": 58601,
+                    "End": 58660
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 60158,
+                    "End": 60162
+                },
+                {
+                    "Reply": "No .",
+                    "Didascalie": "",
+                    "Start": 60276,
+                    "End": 60281
+                },
+                {
+                    "Reply": "Soccer.",
+                    "Didascalie": "",
+                    "Start": 60405,
+                    "End": 60413
+                },
+                {
+                    "Reply": "You see that! You see that! Charlie got mad skills!",
+                    "Didascalie": "",
+                    "Start": 60978,
+                    "End": 61045
                 }
             ]
         },
@@ -4738,23 +4752,6 @@
                     "Didascalie": "",
                     "Start": 66651,
                     "End": 66754
-                }
-            ]
-        },
-        {
-            "Character": "INSERT PHOTO",
-            "Replies": [
-                {
-                    "Reply": "James Brogan, twenty years younger, his arm around his beautiful wife. The six-year-old Montgomery Brogan stands in front of them, wearing yellow pajamas and a red plastic fireman's helmet, staring at the floor.",
-                    "Didascalie": "",
-                    "Start": 77100,
-                    "End": 77327
-                },
-                {
-                    "Reply": "Monty in his fireman's helmet, standing before his parents.",
-                    "Didascalie": "",
-                    "Start": 184893,
-                    "End": 184953
                 }
             ]
         },
@@ -5095,17 +5092,6 @@
             ]
         },
         {
-            "Character": "INSERT PICTURE",
-            "Replies": [
-                {
-                    "Reply": "Slattery, Jakob and Monty at age sixteen, mugging for the camera.",
-                    "Didascalie": "",
-                    "Start": 93269,
-                    "End": 93335
-                }
-            ]
-        },
-        {
             "Character": "YOUNG SLATTERY",
             "Replies": [
                 {
@@ -5437,6 +5423,23 @@
                     "Didascalie": "",
                     "Start": 132444,
                     "End": 132505
+                }
+            ]
+        },
+        {
+            "Character": "HOODLUM 2",
+            "Replies": [
+                {
+                    "Reply": "Bid's tomorrow, huh?",
+                    "Didascalie": "",
+                    "Start": 147462,
+                    "End": 147483
+                },
+                {
+                    "Reply": "Nothing but a catnap. Be good, brother.",
+                    "Didascalie": "",
+                    "Start": 147578,
+                    "End": 147618
                 }
             ]
         },

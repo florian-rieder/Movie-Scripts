@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "All the President's Men",
-        "   "
-    ],
+    "Title": "All the President's Men",
     "Author": [
-        "\u00a0\u00a0William Goldman"
+        "William Goldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2329,65 +2327,6 @@
                     "Didascalie": "",
                     "Start": 21160,
                     "End": 21255
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "We're in a room in a police station and two men are present. One, a COP, is nervous as hell and constantly aware of the door. The other, BACHINSKI, is taking hurried notes in a reporter's type notebook as he examines the evidence.",
-                    "Didascalie": "",
-                    "Start": 19732,
-                    "End": 20011
-                },
-                {
-                    "Reply": "WOODWARD and BERNSTEIN standing there. The nod. One of them maybe says \"yessir,\" the other maybe \"please.\" The LIBRARIAN moves out of his office into a corridor. They go with him. No one else is around. The LIBRARIAN looks at them, quickly--",
-                    "Didascalie": "",
-                    "Start": 60830,
-                    "End": 61120
-                },
-                {
-                    "Reply": "BERNSTEIN, approaching the SECRETARY again. She is working on her right hand now.",
-                    "Didascalie": "",
-                    "Start": 95254,
-                    "End": 95352
-                },
-                {
-                    "Reply": "that it isn't exactly a gigantic headline piece. As a matter of fact, as more and more of page one appears, we see that their story is tucked away at the bottom and as bigger and bigger headlines are visible--",
-                    "Didascalie": "",
-                    "Start": 110098,
-                    "End": 110356
-                },
-                {
-                    "Reply": "--the whole first page. Plastered across the top in giant letters is the following: \"EAGLETON RESIGNS.\" And as you look at the whole page now, you can barely make out the tiny piddling Watergate story. The point is abundantly clear: nobody cared a whole lot.",
-                    "Didascalie": "",
-                    "Start": 110408,
-                    "End": 110731
-                },
-                {
-                    "Reply": "BERNSTEIN and WOODWARD in a crummy cafeteria, watching the evening news on the TV set high on the wall. WOODWARD eats a hamburger, BERNSTEIN smokes, sips coffee. It is night, as usual now.",
-                    "Didascalie": "",
-                    "Start": 147343,
-                    "End": 147580
-                },
-                {
-                    "Reply": "WOODWARD and BERNSTEIN sitting on a park bench swilling down a six-pack.",
-                    "Didascalie": "",
-                    "Start": 249373,
-                    "End": 249462
-                },
-                {
-                    "Reply": "A DRUGSTORE-TYPE PLACE. WOODWARD and BERNSTEIN are at the adjoining table.",
-                    "Didascalie": "",
-                    "Start": 251577,
-                    "End": 251668
-                },
-                {
-                    "Reply": "DEEP THROAT and WOODWARD in the underground garage.",
-                    "Didascalie": "",
-                    "Start": 271535,
-                    "End": 271587
                 }
             ]
         },
@@ -5681,17 +5620,6 @@
             ]
         },
         {
-            "Character": "A YOUNG GIRL",
-            "Replies": [
-                {
-                    "Reply": "--I can't--I'd like to but--",
-                    "Didascalie": "",
-                    "Start": 136403,
-                    "End": 136432
-                }
-            ]
-        },
-        {
             "Character": "OLD MAN",
             "Replies": [
                 {
@@ -5716,17 +5644,6 @@
                     "Didascalie": "",
                     "Start": 146755,
                     "End": 146905
-                }
-            ]
-        },
-        {
-            "Character": "A MIDDLE-AGED WOMAN--",
-            "Replies": [
-                {
-                    "Reply": "--kind of an honest, hard-working face.",
-                    "Didascalie": "",
-                    "Start": 139516,
-                    "End": 139556
                 }
             ]
         },
@@ -5915,17 +5832,6 @@
                     "Didascalie": "",
                     "Start": 159647,
                     "End": 159785
-                }
-            ]
-        },
-        {
-            "Character": "A TYPEWRITER",
-            "Replies": [
-                {
-                    "Reply": "clicking away. The words \"INTERVIEW WITH X. SEPT. 14\" are visible. There is music in the background, really blasting away, Rachmaninoff or worse.",
-                    "Didascalie": "",
-                    "Start": 160007,
-                    "End": 160185
                 }
             ]
         },
@@ -6234,17 +6140,6 @@
                     "Didascalie": "",
                     "Start": 185728,
                     "End": 185732
-                }
-            ]
-        },
-        {
-            "Character": "A TELETYPE MACHINE",
-            "Replies": [
-                {
-                    "Reply": "clacking away like crazy. We can read the words, \"The Senator finished by saying that although he was...\" and from there--",
-                    "Didascalie": "",
-                    "Start": 188621,
-                    "End": 188760
                 }
             ]
         },

@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "Darkman",
-        "   "
-    ],
+    "Title": "Darkman",
     "Author": [
-        "\u00a0\u00a0Joshua Goldin\u00a0\u00a0Daniel Goldin\u00a0\u00a0Sam Raimi\u00a0\u00a0Ivan Raimi\u00a0\u00a0Chuck Pfarrer"
+        "Joshua Goldin",
+        "Daniel Goldin",
+        "Sam Raimi",
+        "Ivan Raimi",
+        "Chuck Pfarrer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1072,12 +1076,6 @@
                     "End": 64857
                 },
                 {
-                    "Reply": "s connects and is electrified. Unable to lot go, he shrieks a s his body  S75  S75 CLOSE SHOT PEYTON'S HANDS - STOP MOTION ANIMATION His skin peels away from the bone under the intense electrical charge. OMIT 76  76 OMIT 77 77 Peyton opens his mouth, but no sounds come out.",
-                    "Didascalie": "",
-                    "Start": 65923,
-                    "End": 66302
-                },
-                {
                     "Reply": "pulls himself to his knees, cradling the smoking claws that were his hands. Durant lifts him to his feet.",
                     "Didascalie": "",
                     "Start": 67433,
@@ -1429,17 +1427,6 @@
                     "Didascalie": "",
                     "Start": 60330,
                     "End": 60412
-                }
-            ]
-        },
-        {
-            "Character": "A SKINU",
-            "Replies": [
-                {
-                    "Reply": "just hold up -- Y give me victim and a photograph of his old face -- he'll get more than a nose.",
-                    "Didascalie": "",
-                    "Start": 12159,
-                    "End": 12276
                 }
             ]
         },
@@ -2330,17 +2317,6 @@
             ]
         },
         {
-            "Character": "A SCREECHING SOUND",
-            "Replies": [
-                {
-                    "Reply": "as a midnight blue Lincoln Continental races away from the scene.",
-                    "Didascalie": "",
-                    "Start": 35812,
-                    "End": 35888
-                }
-            ]
-        },
-        {
             "Character": "DARKNESS",
             "Replies": [
                 {
@@ -2348,17 +2324,6 @@
                     "Didascalie": "",
                     "Start": 36479,
                     "End": 36635
-                }
-            ]
-        },
-        {
-            "Character": "A BEAM OF LIGHT",
-            "Replies": [
-                {
-                    "Reply": "extends from one wall to the other. Reacting to the shattered test-tube, Julie steps backward into the beam.",
-                    "Didascalie": "",
-                    "Start": 37576,
-                    "End": 37695
                 }
             ]
         },
@@ -2381,17 +2346,6 @@
                     "Didascalie": "",
                     "Start": 38028,
                     "End": 38072
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "fills the room. It is a hollow Voice that echos about the lab.",
-                    "Didascalie": "",
-                    "Start": 38116,
-                    "End": 38189
                 }
             ]
         },
@@ -2527,17 +2481,6 @@
             ]
         },
         {
-            "Character": "A SCREEN",
-            "Replies": [
-                {
-                    "Reply": "tak l in of her. Tvoice tak cati nal essono heomonotonousltone ofoatnarrator ofhedu films.",
-                    "Didascalie": "",
-                    "Start": 38393,
-                    "End": 38514
-                }
-            ]
-        },
-        {
             "Character": "TUA",
             "Replies": [
                 {
@@ -2562,17 +2505,6 @@
                     "Didascalie": "(WHISPERS)",
                     "Start": 49965,
                     "End": 50026
-                }
-            ]
-        },
-        {
-            "Character": "END A",
-            "Replies": [
-                {
-                    "Reply": "Peyton, you didn't go ou anp d you?",
-                    "Didascalie": "",
-                    "Start": 49626,
-                    "End": 49662
                 }
             ]
         },
@@ -3213,28 +3145,6 @@
             ]
         },
         {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "Juts out of the shadows and clutches at Peyton's wrist!",
-                    "Didascalie": "",
-                    "Start": 61252,
-                    "End": 61308
-                }
-            ]
-        },
-        {
-            "Character": "A TENSOR LIGHT",
-            "Replies": [
-                {
-                    "Reply": "Pauly's chunky outline flashes on in the back of the lab.",
-                    "Didascalie": "",
-                    "Start": 61624,
-                    "End": 61682
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER LIGHT",
             "Replies": [
                 {
@@ -3773,17 +3683,6 @@
             ]
         },
         {
-            "Character": "A DEFORMED SHADOW",
-            "Replies": [
-                {
-                    "Reply": "crawls along the wall, dropping down over Julie's form.",
-                    "Didascalie": "",
-                    "Start": 109541,
-                    "End": 109597
-                }
-            ]
-        },
-        {
             "Character": "DARKNAN",
             "Replies": [
                 {
@@ -3806,13 +3705,13 @@
             ]
         },
         {
-            "Character": "A MOTHER",
+            "Character": "DARK 4AN",
             "Replies": [
                 {
-                    "Reply": "Protectively pulls her child back, away from the cart.",
+                    "Reply": "I need you.",
                     "Didascalie": "",
-                    "Start": 111822,
-                    "End": 111877
+                    "Start": 110698,
+                    "End": 110710
                 }
             ]
         },
@@ -3824,28 +3723,6 @@
                     "Didascalie": "",
                     "Start": 111954,
                     "End": 111986
-                }
-            ]
-        },
-        {
-            "Character": "A BOLT CUTTER",
-            "Replies": [
-                {
-                    "Reply": "is raised from the cart.",
-                    "Didascalie": "",
-                    "Start": 112410,
-                    "End": 112435
-                }
-            ]
-        },
-        {
-            "Character": "A SINGLE BULB",
-            "Replies": [
-                {
-                    "Reply": "flickers on in the far rear of the warehouse casting the Darkman's face half in light, half shadow.",
-                    "Didascalie": "",
-                    "Start": 114196,
-                    "End": 114306
                 }
             ]
         },
@@ -3897,6 +3774,17 @@
                     "Didascalie": "",
                     "Start": 115331,
                     "End": 115415
+                }
+            ]
+        },
+        {
+            "Character": "H 193 HOLOGRAM",
+            "Replies": [
+                {
+                    "Reply": "In the time that has passed, the image of Peyton's face is growing more  194  194 THE COMPUTER SCREEN BESIDE IT READS; Reconstruction will take 61 hours and 11 minutes.",
+                    "Didascalie": "",
+                    "Start": 118334,
+                    "End": 118570
                 }
             ]
         },
@@ -4022,17 +3910,6 @@
             ]
         },
         {
-            "Character": "DABBXAN",
-            "Replies": [
-                {
-                    "Reply": "S255  I'VE BEEN ROBBED! THOSE BASTARDS TOOK... everything.",
-                    "Didascalie": "",
-                    "Start": 141542,
-                    "End": 141621
-                }
-            ]
-        },
-        {
             "Character": "DABXMAN",
             "Replies": [
                 {
@@ -4046,6 +3923,17 @@
                     "Didascalie": "",
                     "Start": 143742,
                     "End": 143753
+                }
+            ]
+        },
+        {
+            "Character": "I 46",
+            "Replies": [
+                {
+                    "Reply": "258 THE CAT bounds away with a cry, seeking shelter behind a crate.",
+                    "Didascalie": "",
+                    "Start": 142158,
+                    "End": 142248
                 }
             ]
         },
@@ -4094,17 +3982,6 @@
             ]
         },
         {
-            "Character": "A COLLECTION OF SIXTEEN FINGERS",
-            "Replies": [
-                {
-                    "Reply": "and arranged in neat littl e rows professionally preserved box -",
-                    "Didascalie": "",
-                    "Start": 152354,
-                    "End": 152430
-                }
-            ]
-        },
-        {
             "Character": "PHONE JUNCTURE BOX",
             "Replies": [
                 {
@@ -4116,24 +3993,13 @@
             ]
         },
         {
-            "Character": "A CHARRED WALKMAN TAPE-RECORDER",
+            "Character": "MUGGER 1",
             "Replies": [
                 {
-                    "Reply": "Its microcassette spins. Filtered through it we hear Durant's phone conversation continue.",
+                    "Reply": "Hey shithead, give up the radio. And the money.",
                     "Didascalie": "",
-                    "Start": 152897,
-                    "End": 152998
-                }
-            ]
-        },
-        {
-            "Character": "A SWITCH BLADE",
-            "Replies": [
-                {
-                    "Reply": "is shoved against his bandaged throat.",
-                    "Didascalie": "",
-                    "Start": 153835,
-                    "End": 153874
+                    "Start": 153911,
+                    "End": 153969
                 }
             ]
         },
@@ -4145,6 +4011,17 @@
                     "Didascalie": "",
                     "Start": 154971,
                     "End": 154990
+                }
+            ]
+        },
+        {
+            "Character": "DARE 4AN",
+            "Replies": [
+                {
+                    "Reply": "contorts his face into a ghastly interpretation of a smile, and slips back into the shadows.",
+                    "Didascalie": "",
+                    "Start": 155097,
+                    "End": 155200
                 }
             ]
         },
@@ -4173,17 +4050,6 @@
                     "Didascalie": "",
                     "Start": 161270,
                     "End": 161360
-                }
-            ]
-        },
-        {
-            "Character": "A GOLD CIGAR TRIMMER",
-            "Replies": [
-                {
-                    "Reply": "Snipping a cigar. We follow it up to the mouth of Robert G. Durant. His temple pulsates faintly.",
-                    "Didascalie": "",
-                    "Start": 161830,
-                    "End": 161937
                 }
             ]
         },
@@ -4349,17 +4215,6 @@
             ]
         },
         {
-            "Character": "A BURLY VHINESE WARRIOR",
-            "Replies": [
-                {
-                    "Reply": "who takes a step back, alongside Hung Fat.",
-                    "Didascalie": "",
-                    "Start": 169275,
-                    "End": 169318
-                }
-            ]
-        },
-        {
             "Character": "BODY GUARD",
             "Replies": [
                 {
@@ -4390,17 +4245,6 @@
                     "Didascalie": "",
                     "Start": 171686,
                     "End": 171755
-                }
-            ]
-        },
-        {
-            "Character": "A SECOND DURANT",
-            "Replies": [
-                {
-                    "Reply": "leaps out onto the street.",
-                    "Didascalie": "",
-                    "Start": 173326,
-                    "End": 173353
                 }
             ]
         },
@@ -4495,17 +4339,6 @@
             ]
         },
         {
-            "Character": "A TUNNEL",
-            "Replies": [
-                {
-                    "Reply": "is illuminated by the brilliant flash of the gun. Empty.",
-                    "Didascalie": "",
-                    "Start": 184498,
-                    "End": 184555
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER TUNNEL",
             "Replies": [
                 {
@@ -4591,13 +4424,13 @@
             ]
         },
         {
-            "Character": "A SCREAM",
+            "Character": "W HICH 368",
             "Replies": [
                 {
-                    "Reply": "373 373 She steadies herself against the computer table There are tears in her eyes. Trembling, she turns to face the darkness.",
+                    "Reply": "368 Beyond, two lab tables, made chains. oldoors, them hang suspended from the ceiling by tubes, and beakers of liquid skin. In the place of i the bge 66'aF rdpMustangcserveseas salvaged bucketeseathofean o the lab chair.",
                     "Didascalie": "",
-                    "Start": 205152,
-                    "End": 205310
+                    "Start": 203780,
+                    "End": 204056
                 }
             ]
         },
@@ -4642,28 +4475,6 @@
                     "Didascalie": "",
                     "Start": 218900,
                     "End": 218955
-                }
-            ]
-        },
-        {
-            "Character": "A HELICOPTER",
-            "Replies": [
-                {
-                    "Reply": "rises suddenly into frame, over the edge of Peres a roof. leaning , o undin h h machine gun , p g t e roof with gunfire.",
-                    "Didascalie": "",
-                    "Start": 219547,
-                    "End": 219710
-                }
-            ]
-        },
-        {
-            "Character": "A DOOR",
-            "Replies": [
-                {
-                    "Reply": "is kicked open as Smiley and Guzman enter, guns ps blazing, shooting the lab to hell. The gunfire sto and the lab is quiet.",
-                    "Didascalie": "",
-                    "Start": 220177,
-                    "End": 220321
                 }
             ]
         },
@@ -4729,17 +4540,6 @@
             ]
         },
         {
-            "Character": "A BOARD MEETING",
-            "Replies": [
-                {
-                    "Reply": "The executives stare in shock at the Darkman standing on their table.",
-                    "Didascalie": "",
-                    "Start": 230930,
-                    "End": 231010
-                }
-            ]
-        },
-        {
             "Character": "CLANGITY CLANGITY CLANG",
             "Replies": [
                 {
@@ -4784,17 +4584,6 @@
             ]
         },
         {
-            "Character": "A VOICE BEHIND HIM",
-            "Replies": [
-                {
-                    "Reply": "IDuis !",
-                    "Didascalie": "",
-                    "Start": 245376,
-                    "End": 245384
-                }
-            ]
-        },
-        {
             "Character": "OF",
             "Replies": [
                 {
@@ -4806,17 +4595,6 @@
             ]
         },
         {
-            "Character": "A RIVET GUN",
-            "Replies": [
-                {
-                    "Reply": "only a few inches from his grasp.",
-                    "Didascalie": "",
-                    "Start": 246540,
-                    "End": 246574
-                }
-            ]
-        },
-        {
             "Character": "DARIOM",
             "Replies": [
                 {
@@ -4824,17 +4602,6 @@
                     "Didascalie": "",
                     "Start": 246617,
                     "End": 246653
-                }
-            ]
-        },
-        {
-            "Character": "AS WE ROLL END CREDITS",
-            "Replies": [
-                {
-                    "Reply": "The camera pulls back into the crowd of pedestrians, any one of who could be Darkman... We continue to pull back, down avenues and side-streets, byways, courtyards, wherever the crowd spills, into an alley... As a street-",
-                    "Didascalie": "",
-                    "Start": 253342,
-                    "End": 253594
                 }
             ]
         }

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Cherry Falls",
-        "   "
-    ],
+    "Title": "Cherry Falls",
     "Author": [
-        "\u00a0\u00a0Ken Selden"
+        "Ken Selden"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Comedy\u00a0\u00a0Mystery"
+        "Horror",
+        "Thriller",
+        "Comedy",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -2434,6 +2434,46 @@
             ]
         },
         {
+            "Character": "CLASSMATE 1",
+            "Replies": [
+                {
+                    "Reply": "Jody!",
+                    "Didascalie": "",
+                    "Start": 17212,
+                    "End": 17218
+                },
+                {
+                    "Reply": "I bet she was. I heard someone stuffed a tent spike up her ass.",
+                    "Didascalie": "",
+                    "Start": 17534,
+                    "End": 17613
+                },
+                {
+                    "Reply": "Ha-ha. So funny. Sickfuck.",
+                    "Didascalie": "",
+                    "Start": 17787,
+                    "End": 17814
+                }
+            ]
+        },
+        {
+            "Character": "CLASSMATE 2",
+            "Replies": [
+                {
+                    "Reply": "Was Stacy raped?",
+                    "Didascalie": "",
+                    "Start": 17310,
+                    "End": 17327
+                },
+                {
+                    "Reply": "Gives new meaning to the idea of getting 'nailed'.",
+                    "Didascalie": "",
+                    "Start": 17666,
+                    "End": 17734
+                }
+            ]
+        },
+        {
             "Character": "MARLISTON",
             "Replies": [
                 {
@@ -3236,6 +3276,12 @@
                     "End": 24649
                 },
                 {
+                    "Reply": "Yeah. Chris BERRINGER WAS PARKED OUTSIDE THE WINDOW.",
+                    "Didascalie": "",
+                    "Start": 24869,
+                    "End": 24936
+                },
+                {
                     "Reply": "What I don't understand is why they asked Marliston if Rod was a virgin. They could have asked you Cindy.",
                     "Didascalie": "",
                     "Start": 25166,
@@ -3562,6 +3608,132 @@
             ]
         },
         {
+            "Character": "FATHER 1",
+            "Replies": [
+                {
+                    "Reply": "Well, what is it?",
+                    "Didascalie": "",
+                    "Start": 42344,
+                    "End": 42362
+                },
+                {
+                    "Reply": "Why didn't you tell us this yesterday?",
+                    "Didascalie": "",
+                    "Start": 43006,
+                    "End": 43045
+                }
+            ]
+        },
+        {
+            "Character": "MOTHER 1",
+            "Replies": [
+                {
+                    "Reply": "So?",
+                    "Didascalie": "",
+                    "Start": 42650,
+                    "End": 42654
+                },
+                {
+                    "Reply": "Virgins?",
+                    "Didascalie": "",
+                    "Start": 42845,
+                    "End": 42854
+                }
+            ]
+        },
+        {
+            "Character": "MOTHER 2",
+            "Replies": [
+                {
+                    "Reply": "You're almost positive that's who this monster is targeting?",
+                    "Didascalie": "(very concerned)",
+                    "Start": 42715,
+                    "End": 42803
+                },
+                {
+                    "Reply": "What are we supposed to tell our kids?",
+                    "Didascalie": "",
+                    "Start": 43519,
+                    "End": 43571
+                }
+            ]
+        },
+        {
+            "Character": "MOTHER 3",
+            "Replies": [
+                {
+                    "Reply": "Are you close to an arrest?",
+                    "Didascalie": "",
+                    "Start": 43262,
+                    "End": 43290
+                }
+            ]
+        },
+        {
+            "Character": "FATHER 2",
+            "Replies": [
+                {
+                    "Reply": "What are we supposed to do?",
+                    "Didascalie": "",
+                    "Start": 43391,
+                    "End": 43419
+                },
+                {
+                    "Reply": "To go out and get laid if they wanna feel safe?",
+                    "Didascalie": "",
+                    "Start": 43613,
+                    "End": 43674
+                },
+                {
+                    "Reply": "I wouldn't worry about it Victor.",
+                    "Didascalie": "",
+                    "Start": 43910,
+                    "End": 43944
+                },
+                {
+                    "Reply": "Nothing.",
+                    "Didascalie": "",
+                    "Start": 44084,
+                    "End": 44093
+                },
+                {
+                    "Reply": "Calm down. I was joking.",
+                    "Didascalie": "(getting worried)",
+                    "Start": 44300,
+                    "End": 44338
+                }
+            ]
+        },
+        {
+            "Character": "FATHER 3",
+            "Replies": [
+                {
+                    "Reply": "I can't lock my daughter in the basement.",
+                    "Didascalie": "",
+                    "Start": 43815,
+                    "End": 43869
+                },
+                {
+                    "Reply": "What's that supposed to mean?",
+                    "Didascalie": "",
+                    "Start": 44013,
+                    "End": 44043
+                },
+                {
+                    "Reply": "What are you saying about my daughter?",
+                    "Didascalie": "",
+                    "Start": 44134,
+                    "End": 44185
+                },
+                {
+                    "Reply": "Hell of a time to be joking about a thing like that you sick bastard!",
+                    "Didascalie": "",
+                    "Start": 44406,
+                    "End": 44488
+                }
+            ]
+        },
+        {
             "Character": "ANDY",
             "Replies": [
                 {
@@ -3592,6 +3764,206 @@
                     "Didascalie": "",
                     "Start": 58185,
                     "End": 58209
+                }
+            ]
+        },
+        {
+            "Character": "HYPOCRITE GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "Yeah. SO?",
+                    "Didascalie": "",
+                    "Start": 63575,
+                    "End": 63585
+                }
+            ]
+        },
+        {
+            "Character": "HYPOCRITE GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "What were we supposed to call you Cindy?",
+                    "Didascalie": "",
+                    "Start": 63631,
+                    "End": 63683
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "The slut from heaven?",
+                    "Didascalie": "",
+                    "Start": 63719,
+                    "End": 63741
+                },
+                {
+                    "Reply": "He's still got the blade!",
+                    "Didascalie": "",
+                    "Start": 135981,
+                    "End": 136007
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 3",
+            "Replies": [
+                {
+                    "Reply": "Just answer our questions please?",
+                    "Didascalie": "",
+                    "Start": 63777,
+                    "End": 63811
+                },
+                {
+                    "Reply": "What to do.",
+                    "Didascalie": "",
+                    "Start": 63956,
+                    "End": 63968
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "Please don't say they need our help with that.",
+                    "Didascalie": "",
+                    "Start": 64377,
+                    "End": 64435
+                }
+            ]
+        },
+        {
+            "Character": "BOY 1",
+            "Replies": [
+                {
+                    "Reply": "Romeo here asked me if chicks has two holes or three.",
+                    "Didascalie": "",
+                    "Start": 64744,
+                    "End": 64809
+                },
+                {
+                    "Reply": "You did so.",
+                    "Didascalie": "",
+                    "Start": 64889,
+                    "End": 64901
+                },
+                {
+                    "Reply": "I know it's a total bummer that three kids are dead, but, I'm sorry, this is kind of great.",
+                    "Didascalie": "",
+                    "Start": 65035,
+                    "End": 65149
+                },
+                {
+                    "Reply": "It's the freak!",
+                    "Didascalie": "",
+                    "Start": 135877,
+                    "End": 135893
+                }
+            ]
+        },
+        {
+            "Character": "BOY 2",
+            "Replies": [
+                {
+                    "Reply": "I did not.",
+                    "Didascalie": "",
+                    "Start": 64844,
+                    "End": 64855
+                },
+                {
+                    "Reply": "I was kidding.",
+                    "Didascalie": "",
+                    "Start": 64936,
+                    "End": 64951
+                },
+                {
+                    "Reply": "No. The killer could be offing chicks who haven't given head.",
+                    "Didascalie": "",
+                    "Start": 65294,
+                    "End": 65367
+                },
+                {
+                    "Reply": "Then I'd only have to worry about one.",
+                    "Didascalie": "",
+                    "Start": 65475,
+                    "End": 65525
+                }
+            ]
+        },
+        {
+            "Character": "BOY 3",
+            "Replies": [
+                {
+                    "Reply": "Were not dude.",
+                    "Didascalie": "",
+                    "Start": 64985,
+                    "End": 65000
+                },
+                {
+                    "Reply": "I'm way into this. This may be the best of all possible worlds.",
+                    "Didascalie": "",
+                    "Start": 65184,
+                    "End": 65259
+                },
+                {
+                    "Reply": "Come on! It's fuck him up time!",
+                    "Didascalie": "",
+                    "Start": 136178,
+                    "End": 136210
+                }
+            ]
+        },
+        {
+            "Character": "HOMELY GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "We'll meet someone at the party.",
+                    "Didascalie": "",
+                    "Start": 65706,
+                    "End": 65739
+                },
+                {
+                    "Reply": "If we don't, we sit back and watch everyone else camel.",
+                    "Didascalie": "",
+                    "Start": 65846,
+                    "End": 65913
+                },
+                {
+                    "Reply": "What's that?",
+                    "Didascalie": "",
+                    "Start": 66140,
+                    "End": 66153
+                }
+            ]
+        },
+        {
+            "Character": "HOMELY GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "You don't know that.",
+                    "Didascalie": "",
+                    "Start": 65782,
+                    "End": 65803
+                },
+                {
+                    "Reply": "I'm not going.",
+                    "Didascalie": "",
+                    "Start": 66030,
+                    "End": 66045
+                },
+                {
+                    "Reply": "Ok. Pick me up at seven.",
+                    "Didascalie": "(whispering)",
+                    "Start": 66774,
+                    "End": 66813
+                },
+                {
+                    "Reply": "What's that?",
+                    "Didascalie": "",
+                    "Start": 98144,
+                    "End": 98157
                 }
             ]
         },
@@ -3874,13 +4246,72 @@
             ]
         },
         {
-            "Character": "A THIRD HOUSE",
+            "Character": "NERD 1",
             "Replies": [
                 {
-                    "Reply": "A third kid raided his parents medicine cabinet. Lots of barbiturates in this house.",
+                    "Reply": "There's Jan and Heather.",
                     "Didascalie": "",
-                    "Start": 95547,
-                    "End": 95633
+                    "Start": 97276,
+                    "End": 97301
+                },
+                {
+                    "Reply": "Hide your laptop here.",
+                    "Didascalie": "",
+                    "Start": 97449,
+                    "End": 97472
+                },
+                {
+                    "Reply": "You can't bring it.",
+                    "Didascalie": "",
+                    "Start": 97548,
+                    "End": 97568
+                },
+                {
+                    "Reply": "Told you to hide it.",
+                    "Didascalie": "",
+                    "Start": 107089,
+                    "End": 107110
+                }
+            ]
+        },
+        {
+            "Character": "NERD 2",
+            "Replies": [
+                {
+                    "Reply": "Ok.",
+                    "Didascalie": "",
+                    "Start": 97409,
+                    "End": 97413
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 97509,
+                    "End": 97513
+                },
+                {
+                    "Reply": "I'm not leaving it here.",
+                    "Didascalie": "",
+                    "Start": 97603,
+                    "End": 97628
+                },
+                {
+                    "Reply": "Ever play QUAKE?",
+                    "Didascalie": "",
+                    "Start": 98084,
+                    "End": 98101
+                },
+                {
+                    "Reply": "A computer game.",
+                    "Didascalie": "",
+                    "Start": 98193,
+                    "End": 98210
+                },
+                {
+                    "Reply": "Hey! That was a 3k machine.",
+                    "Didascalie": "",
+                    "Start": 107023,
+                    "End": 107051
                 }
             ]
         },

@@ -1,26 +1,15 @@
 {
-    "Title": [
-        "Ladykillers, The",
-        "   "
-    ],
+    "Title": "Ladykillers, The",
     "Author": [
-        "\u00a0\u00a0William Rose\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "William Rose",
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
-        {
-            "Character": "A BOAT",
-            "Replies": [
-                {
-                    "Reply": "Specifically, a garbage scow.",
-                    "Didascalie": "",
-                    "Start": 437,
-                    "End": 467
-                }
-            ]
-        },
         {
             "Character": "AN OLD HOUND DOG",
             "Replies": [
@@ -40,17 +29,6 @@
                     "Didascalie": "",
                     "Start": 2487,
                     "End": 2539
-                }
-            ]
-        },
-        {
-            "Character": "A KEY",
-            "Replies": [
-                {
-                    "Reply": "We are ARCING slowly around a jailer's key on a ring that hangs from a nail. The OFFSCREEN snoring and whirring continues.",
-                    "Didascalie": "",
-                    "Start": 3299,
-                    "End": 3454
                 }
             ]
         },

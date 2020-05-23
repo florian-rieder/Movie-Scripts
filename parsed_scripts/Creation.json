@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Creation",
-        "   "
-    ],
+    "Title": "Creation",
     "Author": [
-        "\u00a0\u00a0John Collee"
+        "John Collee"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2144,12 +2141,6 @@
                     "Didascalie": "",
                     "Start": 91154,
                     "End": 91254
-                },
-                {
-                    "Reply": "I worry for you, Charles. Please talk to him   86   INT DARWIN'S STUDY. DAY                                       86  Fire flares in the grate as Darwin compares the skeletons of various pigeons.",
-                    "Didascalie": "(Beat)",
-                    "Start": 91279,
-                    "End": 91517
                 },
                 {
                     "Reply": "I think it is better she is here.",

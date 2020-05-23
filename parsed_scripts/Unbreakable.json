@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Unbreakable",
-        "   "
-    ],
+    "Title": "Unbreakable",
     "Author": [
-        "\u00a0\u00a0M. Night Shyamalan"
+        "M. Night Shyamalan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Thriller"
+        "Drama",
+        "Fantasy",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Starship Troopers",
-        "   "
-    ],
+    "Title": "Starship Troopers",
     "Author": [
-        "\u00a0\u00a0Robert A. Heinlein\u00a0\u00a0Edward Neumeier"
+        "Robert A. Heinlein",
+        "Edward Neumeier"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Action"
+        "Sci-Fi",
+        "Action"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Yes Man",
-        "   "
-    ],
+    "Title": "Yes Man",
     "Author": [
-        "\u00a0\u00a0Nicholas Stoller\u00a0\u00a0Danny Wallace"
+        "Nicholas Stoller",
+        "Danny Wallace"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

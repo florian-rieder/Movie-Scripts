@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ghost Rider",
-        "   "
-    ],
+    "Title": "Ghost Rider",
     "Author": [
-        "\u00a0\u00a0David S. Goyer"
+        "David S. Goyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Thriller"
+        "Action",
+        "Fantasy",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1378,17 +1377,6 @@
             ]
         },
         {
-            "Character": "A BROKEN-DOWN CAROUSEL",
-            "Replies": [
-                {
-                    "Reply": "Must have been magnificent in its day.",
-                    "Didascalie": "",
-                    "Start": 12932,
-                    "End": 12971
-                }
-            ]
-        },
-        {
             "Character": "FOLLOWING BLAZE",
             "Replies": [
                 {
@@ -1481,12 +1469,6 @@
                     "Didascalie": "",
                     "Start": 25709,
                     "End": 25777
-                },
-                {
-                    "Reply": "15,  CONTINUED: Blaze looks at the coin -- gleaming, golden, embossed with a soaring eagle on one side, a coyote on the obverse.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 25814,
-                    "End": 26108
                 },
                 {
                     "Reply": "She lives. You work for me.",
@@ -2723,17 +2705,6 @@
             ]
         },
         {
-            "Character": "TO --",
-            "Replies": [
-                {
-                    "Reply": "five other thugs lounging nearby -- FUSCO, ALBRIGHT, CHUDACOFF, LLOYD and ODELL.",
-                    "Didascalie": "",
-                    "Start": 30191,
-                    "End": 30283
-                }
-            ]
-        },
-        {
             "Character": "WEATHERMAN",
             "Replies": [
                 {
@@ -3059,17 +3030,6 @@
             ]
         },
         {
-            "Character": "A POWERFUL DUST STORM",
-            "Replies": [
-                {
-                    "Reply": "Raging full force. Blinding dust and debris batter closing store fronts. Roof sheeting tears away, street lamps rattle, hapless LOCALS struggle to get indoors.",
-                    "Didascalie": "",
-                    "Start": 66139,
-                    "End": 66319
-                }
-            ]
-        },
-        {
             "Character": "MAN",
             "Replies": [
                 {
@@ -3265,17 +3225,6 @@
                     "Didascalie": "",
                     "Start": 77511,
                     "End": 77538
-                }
-            ]
-        },
-        {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "slips under the body of the car.Butit's not a human hand.",
-                    "Didascalie": "",
-                    "Start": 80286,
-                    "End": 80344
                 }
             ]
         },
@@ -3512,17 +3461,6 @@
             ]
         },
         {
-            "Character": "A COLLISION OF IMAGES",
-            "Replies": [
-                {
-                    "Reply": "-- the El Camino sliding, spinning over. Metal rending.",
-                    "Didascalie": "",
-                    "Start": 110806,
-                    "End": 110862
-                }
-            ]
-        },
-        {
             "Character": "MEMORY FLASHES",
             "Replies": [
                 {
@@ -3736,17 +3674,6 @@
             ]
         },
         {
-            "Character": "A BLAST-WAVE OF LIGHT",
-            "Replies": [
-                {
-                    "Reply": "erupts from the Ghost Rider's eye sockets, engulfing Gunt.",
-                    "Didascalie": "",
-                    "Start": 144818,
-                    "End": 144877
-                }
-            ]
-        },
-        {
             "Character": "AN ONCOMING TANKER TRUCK",
             "Replies": [
                 {
@@ -3769,17 +3696,6 @@
             ]
         },
         {
-            "Character": "A FOREGROUND WORKER",
-            "Replies": [
-                {
-                    "Reply": "operating a jackhammer fails to notice the careening pickup racing by, which-is, in turn, followed by Arlo and --",
-                    "Didascalie": "",
-                    "Start": 152978,
-                    "End": 153102
-                }
-            ]
-        },
-        {
             "Character": "DEPUTY",
             "Replies": [
                 {
@@ -3793,17 +3709,6 @@
                     "Didascalie": "(shouts to door control)",
                     "Start": 157570,
                     "End": 157594
-                }
-            ]
-        },
-        {
-            "Character": "A MOTH",
-            "Replies": [
-                {
-                    "Reply": "fluttering by an outdoor light, casting distorted shadows on the stucco wall. Nomi stares, uneasy, something tugging at-",
-                    "Didascalie": "",
-                    "Start": 161920,
-                    "End": 162051
                 }
             ]
         },
@@ -4235,17 +4140,6 @@
             ]
         },
         {
-            "Character": "A STAIRCASE",
-            "Replies": [
-                {
-                    "Reply": "And still, they attack. And now the Ghost Rider is weakening. He stumbles on the steps, falls to his knees.",
-                    "Didascalie": "",
-                    "Start": 208687,
-                    "End": 208805
-                }
-            ]
-        },
-        {
             "Character": "SCARECROW",
             "Replies": [
                 {
@@ -4270,17 +4164,6 @@
                     "Didascalie": "",
                     "Start": 212093,
                     "End": 212154
-                }
-            ]
-        },
-        {
-            "Character": "A FLAME TSUNAMI",
-            "Replies": [
-                {
-                    "Reply": "steamrollers through every room and passage, destroying everything in its path, consuming itself.",
-                    "Didascalie": "",
-                    "Start": 216715,
-                    "End": 216823
                 }
             ]
         }

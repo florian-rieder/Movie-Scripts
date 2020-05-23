@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Gattaca",
-        "   "
-    ],
+    "Title": "Gattaca",
     "Author": [
-        "\u00a0\u00a0Andrew Niccol"
+        "Andrew Niccol"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2827,6 +2826,28 @@
             ]
         },
         {
+            "Character": "EMPLOYEE 1",
+            "Replies": [
+                {
+                    "Reply": "Awful.",
+                    "Didascalie": "(staring at the Director's body)",
+                    "Start": 69926,
+                    "End": 69948
+                }
+            ]
+        },
+        {
+            "Character": "EMPLOYEE 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah, awful it didn't happen sooner.",
+                    "Didascalie": "",
+                    "Start": 70001,
+                    "End": 70038
+                }
+            ]
+        },
+        {
             "Character": "ANNOUNCER",
             "Replies": [
                 {
@@ -2834,6 +2855,17 @@
                     "Didascalie": "",
                     "Start": 72572,
                     "End": 72669
+                }
+            ]
+        },
+        {
+            "Character": "EMPLOYEE 3",
+            "Replies": [
+                {
+                    "Reply": "What, no counselling?",
+                    "Didascalie": "(sarcastic aside)",
+                    "Start": 72838,
+                    "End": 72875
                 }
             ]
         },
@@ -4238,17 +4270,6 @@
                     "Didascalie": "",
                     "Start": 183415,
                     "End": 183435
-                }
-            ]
-        },
-        {
-            "Character": "A STARSCAPE",
-            "Replies": [
-                {
-                    "Reply": "As we pan across the constellations, a title is superimposed upon the starscape:  In a few short years, scientists will have completed the Human Genome Project, the mapping of all the genes that make up a human being.",
-                    "Didascalie": "",
-                    "Start": 205800,
-                    "End": 206079
                 }
             ]
         },

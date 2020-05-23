@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Four Feathers",
-        "   "
-    ],
+    "Title": "Four Feathers",
     "Author": [
-        "\u00a0\u00a0Michael Chiffer\u00a0\u00a0Hossein Amini"
+        "Michael Chiffer",
+        "Hossein Amini"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Adventure",
+        "Drama",
+        "War"
     ],
     "Characters": [
         {

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Jeux Interdits",
-        "   "
-    ],
+    "Title": "Jeux Interdits",
     "Author": [
-        "\u00a0\u00a0Jean Aurenche\u00a0\u00a0Pierre Bost\u00a0\u00a0Fran\u00c3\u00a7ois Boyer\u00a0\u00a0Ren\u00c3\u00a9 Cl\u00c3\u00a9ment"
+        "Jean Aurenche",
+        "Pierre Bost",
+        "Fran\u00c3\u00a7ois Boyer",
+        "Ren\u00c3\u00a9 Cl\u00c3\u00a9ment"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Drama",
+        "War"
     ],
     "Characters": [
         {

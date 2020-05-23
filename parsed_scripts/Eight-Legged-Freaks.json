@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Eight Legged Freaks",
-        "   "
-    ],
+    "Title": "Eight Legged Freaks",
     "Author": [
-        "\u00a0\u00a0Jesse Alexander\u00a0\u00a0 Ellory Elkayem"
+        "Jesse Alexander",
+        " Ellory Elkayem"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {

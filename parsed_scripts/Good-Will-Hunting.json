@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Good Will Hunting",
-        "   "
-    ],
+    "Title": "Good Will Hunting",
     "Author": [
-        "\u00a0\u00a0Matt Damon\u00a0\u00a0Ben Affleck"
+        "Matt Damon",
+        "Ben Affleck"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Breakdown",
-        "   "
-    ],
+    "Title": "Breakdown",
     "Author": [
-        "\u00a0\u00a0Jonathan Mostow"
+        "Jonathan Mostow"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Action",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4425,17 +4423,6 @@
                     "Didascalie": "",
                     "Start": 138432,
                     "End": 138570
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL BILLY",
-            "Replies": [
-                {
-                    "Reply": "lurking in the shadows at the corner of the barn, watching.",
-                    "Didascalie": "",
-                    "Start": 151452,
-                    "End": 151512
                 }
             ]
         },

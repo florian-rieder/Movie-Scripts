@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Chasing Amy",
-        "   "
-    ],
+    "Title": "Chasing Amy",
     "Author": [
-        "\u00a0\u00a0Kevin Smith"
+        "Kevin Smith"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -6017,12 +6015,6 @@
                     "End": 48913
                 },
                 {
-                    "Reply": "Uh... absolutely.  We'll just..",
-                    "Didascalie": "(looks to Exec 1)",
-                    "Start": 48947,
-                    "End": 48983
-                },
-                {
                     "Reply": "So?  Did I do good?",
                     "Didascalie": "",
                     "Start": 49120,
@@ -6093,6 +6085,52 @@
                     "Didascalie": "",
                     "Start": 52470,
                     "End": 52495
+                }
+            ]
+        },
+        {
+            "Character": "EXEC 1",
+            "Replies": [
+                {
+                    "Reply": "We just want to start off by saying that it's a pleasure to finally meet you.  While it's been - shall we say - an experience dealing with Sloss here, one of the main reasons we started this whole thing was to meet the guys that do 'Bluntman and Chronic'.",
+                    "Didascalie": "",
+                    "Start": 47693,
+                    "End": 47973
+                },
+                {
+                    "Reply": "Which brings us to our proposal: we are extremely interested in doing twelve, half-hour 'Bluntman and Chronic' cartoons.  The age of Beavis is coming to a close, and we're looking for something... something...",
+                    "Didascalie": "",
+                    "Start": 48171,
+                    "End": 48401
+                },
+                {
+                    "Reply": "So what do you say! Are we in business!",
+                    "Didascalie": "(composes himself)",
+                    "Start": 48673,
+                    "End": 48721
+                },
+                {
+                    "Reply": "Uh...wait outside  The Exec's smile and head our, closing the door behind then.  Sloss turns to Banky.",
+                    "Didascalie": "",
+                    "Start": 48999,
+                    "End": 49105
+                }
+            ]
+        },
+        {
+            "Character": "EXEC 2",
+            "Replies": [
+                {
+                    "Reply": "'Snootchie Bootchies'.",
+                    "Didascalie": "(points at them)",
+                    "Start": 48006,
+                    "End": 48033
+                },
+                {
+                    "Reply": "Uh... absolutely.  We'll just..",
+                    "Didascalie": "(looks to Exec 1)",
+                    "Start": 48947,
+                    "End": 48983
                 }
             ]
         },

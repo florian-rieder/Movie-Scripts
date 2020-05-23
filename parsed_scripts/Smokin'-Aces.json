@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Smokin' Aces",
-        "   "
-    ],
+    "Title": "Smokin' Aces",
     "Author": [
-        "\u00a0\u00a0Joe Carnahan"
+        "Joe Carnahan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3764,17 +3764,6 @@
                     "Didascalie": "",
                     "Start": 229197,
                     "End": 229227
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "A .50 Caliber sniper-rifle on a tri-pod, jutting just past the window, zeroed ut on the Penthouse level of the Nomad.",
-                    "Didascalie": "",
-                    "Start": 138101,
-                    "End": 138229
                 }
             ]
         },

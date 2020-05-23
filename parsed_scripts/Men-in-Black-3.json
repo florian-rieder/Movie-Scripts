@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Men in Black 3",
-        "   "
-    ],
+    "Title": "Men in Black 3",
     "Author": [
-        "\u00a0\u00a0Etan Cohen\u00a0\u00a0Lowell Cunningham"
+        "Etan Cohen",
+        "Lowell Cunningham"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -107,6 +107,58 @@
                     "Didascalie": "",
                     "Start": 153794,
                     "End": 153804
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "Lookie here. Yaz's visitor. I guess even a turd gets flies to land on it.",
+                    "Didascalie": "",
+                    "Start": 1743,
+                    "End": 1837
+                },
+                {
+                    "Reply": "I.D., visitation papers.",
+                    "Didascalie": "",
+                    "Start": 2256,
+                    "End": 2281
+                },
+                {
+                    "Reply": "This ain't a conjugal visit.",
+                    "Didascalie": "",
+                    "Start": 4740,
+                    "End": 4769
+                },
+                {
+                    "Reply": "Not great. She must.be good at somethin' else.",
+                    "Didascalie": "(MOUTH FULL)",
+                    "Start": 5350,
+                    "End": 5418
+                },
+                {
+                    "Reply": "Why's that, convict?",
+                    "Didascalie": "",
+                    "Start": 5580,
+                    "End": 5601
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 3",
+            "Replies": [
+                {
+                    "Reply": "Me, I like a big girl.",
+                    "Didascalie": "",
+                    "Start": 1881,
+                    "End": 1904
+                },
+                {
+                    "Reply": "She's clean. Well, not CLEAN, but you know.",
+                    "Didascalie": "",
+                    "Start": 2999,
+                    "End": 3053
                 }
             ]
         },
@@ -3769,6 +3821,64 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "'Scuse me?",
+                    "Didascalie": "",
+                    "Start": 51292,
+                    "End": 51303
+                },
+                {
+                    "Reply": "Kind of work you do, individual of your particular... ethnic persuasion... to buy a car like that?",
+                    "Didascalie": "",
+                    "Start": 51548,
+                    "End": 51677
+                },
+                {
+                    "Reply": "You an athlete or something?",
+                    "Didascalie": "",
+                    "Start": 51811,
+                    "End": 51840
+                },
+                {
+                    "Reply": "That sound like resisting arrest to you?",
+                    "Didascalie": "",
+                    "Start": 52043,
+                    "End": 52094
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "That's an awful nice car.",
+                    "Didascalie": "",
+                    "Start": 51432,
+                    "End": 51458
+                },
+                {
+                    "Reply": "Wouldn't be anything illegal, would it?",
+                    "Didascalie": "",
+                    "Start": 51719,
+                    "End": 51769
+                },
+                {
+                    "Reply": "Sure did.",
+                    "Didascalie": "",
+                    "Start": 52136,
+                    "End": 52146
+                },
+                {
+                    "Reply": "Well, well. Boy, you're gonna have a little problem explaining THIS.",
+                    "Didascalie": "",
+                    "Start": 52244,
+                    "End": 52323
+                }
+            ]
+        },
+        {
             "Character": "COP",
             "Replies": [
                 {
@@ -4716,6 +4826,17 @@
                     "Didascalie": "",
                     "Start": 126264,
                     "End": 126322
+                }
+            ]
+        },
+        {
+            "Character": "MIB 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah, but I heard there's some dry ice in Queens. Magic show at a kid's birthday party. Better hustle, you can get there before.",
+                    "Didascalie": "",
+                    "Start": 125955,
+                    "End": 126114
                 }
             ]
         },

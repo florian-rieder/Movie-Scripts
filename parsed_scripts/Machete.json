@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Machete",
-        "   "
-    ],
+    "Title": "Machete",
     "Author": [
-        "\u00a0\u00a0Robert Rodriguez"
+        "Robert Rodriguez"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Action",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3493,6 +3491,17 @@
             ]
         },
         {
+            "Character": "KILLER 5",
+            "Replies": [
+                {
+                    "Reply": "What do you want, little maricon?",
+                    "Didascalie": "(SPANISH)",
+                    "Start": 84783,
+                    "End": 84829
+                }
+            ]
+        },
+        {
             "Character": "PADRE",
             "Replies": [
                 {
@@ -3682,17 +3691,6 @@
             ]
         },
         {
-            "Character": "END INSET",
-            "Replies": [
-                {
-                    "Reply": "Luz laughs.",
-                    "Didascalie": "",
-                    "Start": 122093,
-                    "End": 122105
-                }
-            ]
-        },
-        {
             "Character": "FLASH CUT FLASHBACK",
             "Replies": [
                 {
@@ -3733,17 +3731,6 @@
                     "Didascalie": "",
                     "Start": 139752,
                     "End": 139783
-                }
-            ]
-        },
-        {
-            "Character": "A TRICKED OUT MOTORCYCLE",
-            "Replies": [
-                {
-                    "Reply": "--as Machete rides it out.",
-                    "Didascalie": "",
-                    "Start": 159145,
-                    "End": 159172
                 }
             ]
         },

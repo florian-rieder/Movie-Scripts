@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Willow",
-        "   "
-    ],
+    "Title": "Willow",
     "Author": [
-        "\u00a0\u00a0George Lucas\u00a0\u00a0Bob Dolman"
+        "George Lucas",
+        "Bob Dolman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -2156,29 +2157,6 @@
             ]
         },
         {
-            "Character": "A VILLAGER",
-            "Replies": [
-                {
-                    "Reply": "It said \"bordak\"!  What does it mean?",
-                    "Didascalie": "",
-                    "Start": 16641,
-                    "End": 16689
-                },
-                {
-                    "Reply": "It's a sign!  An omen!",
-                    "Didascalie": "",
-                    "Start": 18018,
-                    "End": 18041
-                },
-                {
-                    "Reply": "Who will do that?",
-                    "Didascalie": "",
-                    "Start": 20420,
-                    "End": 20438
-                }
-            ]
-        },
-        {
             "Character": "COUNCILMAN",
             "Replies": [
                 {
@@ -2242,17 +2220,6 @@
                     "Didascalie": "",
                     "Start": 20914,
                     "End": 20976
-                }
-            ]
-        },
-        {
-            "Character": "A COUNCILMAN",
-            "Replies": [
-                {
-                    "Reply": "You caused this trouble.  You found the baby...you get rid of it!",
-                    "Didascalie": "",
-                    "Start": 21589,
-                    "End": 21665
                 }
             ]
         },

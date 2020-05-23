@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Purple Rain",
-        "   "
-    ],
+    "Title": "Purple Rain",
     "Author": [
-        "\u00a0\u00a0Albert Magnoli\u00a0\u00a0William Blinn"
+        "Albert Magnoli",
+        "William Blinn"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Music"
+        "Drama",
+        "Music"
     ],
     "Characters": [
         {
@@ -4221,12 +4220,6 @@
                     "Didascalie": "",
                     "Start": 162378,
                     "End": 162510
-                },
-                {
-                    "Reply": "IN'T. -- THE TASTE -- NEAR CURTAIN -- NIGHT  as Prince waits impatiently in the long line.  Billy Sparks comes by, spots him and stops--",
-                    "Didascalie": "(95)",
-                    "Start": 162521,
-                    "End": 162689
                 }
             ]
         },

@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Intolerable Cruelty",
-        "   "
-    ],
+    "Title": "Intolerable Cruelty",
     "Author": [
-        "\u00a0\u00a0Matthew Stone\u00a0\u00a0John Romano\u00a0\u00a0Robert Ramsey\u00a0\u00a0Ethan Coen\u00a0\u00a0Joel Coen"
+        "Matthew Stone",
+        "John Romano",
+        "Robert Ramsey",
+        "Ethan Coen",
+        "Joel Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Crime"
+        "Comedy",
+        "Romance",
+        "Crime"
     ],
     "Characters": [
         {
@@ -3370,12 +3373,6 @@
                     "Didascalie": "",
                     "Start": 154036,
                     "End": 154185
-                },
-                {
-                    "Reply": "SEND IT ALL BACK FOR STORE CREDIT?",
-                    "Didascalie": "(Bitterly)",
-                    "Start": 154225,
-                    "End": 154286
                 },
                 {
                     "Reply": "I'm sorry, Darling. I love it. It's chic and timeless and elegant and eclectic and. It's you, Marylin. It is YOU.",

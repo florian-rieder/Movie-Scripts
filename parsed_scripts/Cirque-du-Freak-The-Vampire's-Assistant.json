@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Cirque du Freak: The Vampire's Assistant",
-        "   "
-    ],
+    "Title": "Cirque du Freak: The Vampire's Assistant",
     "Author": [
-        "\u00a0\u00a0Brian Helgeland"
+        "Brian Helgeland"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2438,17 +2438,6 @@
             ]
         },
         {
-            "Character": "A BOA OCCIDENTALIS",
-            "Replies": [
-                {
-                    "Reply": "Probing the confines of its glass prison. A BOA CONSTRICTOR by any other name. It's a prison within a prison because we're inside...",
-                    "Didascalie": "",
-                    "Start": 6455,
-                    "End": 6608
-                }
-            ]
-        },
-        {
             "Character": "ANNIE",
             "Replies": [
                 {
@@ -2808,17 +2797,6 @@
                     "Didascalie": "",
                     "Start": 92043,
                     "End": 92134
-                }
-            ]
-        },
-        {
-            "Character": "A HALLWAY",
-            "Replies": [
-                {
-                    "Reply": "They move toward a light at the end. Darren pauses at a darkened staircase. Headed up. He points it out to Steve...",
-                    "Didascalie": "",
-                    "Start": 20118,
-                    "End": 20244
                 }
             ]
         },
@@ -4981,17 +4959,6 @@
                     "Didascalie": "",
                     "Start": 186149,
                     "End": 186174
-                }
-            ]
-        },
-        {
-            "Character": "A BONFIRE",
-            "Replies": [
-                {
-                    "Reply": "Blazing in the Cirque campgrounds. The freaks are eating, drinking wine, relaxing after the show. Like a gypsy camp.",
-                    "Didascalie": "",
-                    "Start": 135182,
-                    "End": 135309
                 }
             ]
         },

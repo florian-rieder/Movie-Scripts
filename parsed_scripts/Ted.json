@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Ted",
-        "   "
-    ],
+    "Title": "Ted",
     "Author": [
-        "\u00a0\u00a0Seth Macfarlane\u00a0\u00a0Alec Sulkin\u00a0\u00a0Wellesley Wild"
+        "Seth Macfarlane",
+        "Alec Sulkin",
+        "Wellesley Wild"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -198,12 +198,6 @@
                     "Didascalie": "",
                     "Start": 61958,
                     "End": 61965
-                },
-                {
-                    "Reply": "30 CONTINUED:  Lori rolls over and goes to sleep with a groan.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 62002,
-                    "End": 62152
                 },
                 {
                     "Reply": "Lori! Hey, you're home early! The ladies and I were just watching \"Romancing the Stone.\" Got it on Blu-",
@@ -998,12 +992,6 @@
                     "End": 180035
                 },
                 {
-                    "Reply": "86 CONTINUED:  Ted pushes his own stomach in. We hear his soundbox squeak out the words \"I wuv you.\" John does not turn around. Ted looks after him, then slowly lowers his head sadly. He sits down on the sidewalk, dazed and defeated.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 180150,
-                    "End": 180501
-                },
-                {
                     "Reply": "Johnny, it's me.",
                     "Didascalie": "",
                     "Start": 191049,
@@ -1214,12 +1202,6 @@
                     "End": 214792
                 },
                 {
-                    "Reply": "101 CONTINUED:  We can see Lori starting to soften a bit.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 214829,
-                    "End": 214974
-                },
-                {
                     "Reply": "Look, I'm givin' this the best shot I got here, Lori. I'm beggin' you. I'm no good at this emotional crap, but I gotta help my best friend. Please. Just talk to him.",
                     "Didascalie": "",
                     "Start": 215050,
@@ -1320,12 +1302,6 @@
                     "Didascalie": "",
                     "Start": 225581,
                     "End": 225587
-                },
-                {
-                    "Reply": "106 CONTINUED:  Robert stands over him.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 225650,
-                    "End": 225777
                 },
                 {
                     "Reply": "That's a great story, I felt like I was there.",
@@ -1781,12 +1757,6 @@
                     "End": 9279
                 },
                 {
-                    "Reply": "5 CONTINUED:  John drifts off to sleep. The camera moves toward the window, and drifts outside. It pulls back from the house slowly.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 9368,
-                    "End": 9608
-                },
-                {
                     "Reply": "Teddy?",
                     "Didascalie": "",
                     "Start": 11326,
@@ -1797,12 +1767,6 @@
                     "Didascalie": "(beat, a bit more concerned)",
                     "Start": 11372,
                     "End": 11392
-                },
-                {
-                    "Reply": "6 CONTINUED:  John looks under the covers, but the bear is not there.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 11533,
-                    "End": 11690
                 },
                 {
                     "Reply": "Teddy?",
@@ -1893,12 +1857,6 @@
                     "Didascalie": "",
                     "Start": 21630,
                     "End": 21656
-                },
-                {
-                    "Reply": "11 CONTINUED:  They hug as we PULL BACK SLOWLY, dissolving through the covers.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 21693,
-                    "End": 21869
                 },
                 {
                     "Reply": "That's bullshit, what about Lori? She's hot.",
@@ -2765,12 +2723,6 @@
                     "End": 109645
                 },
                 {
-                    "Reply": "52 CONTINUED:  She laughs, and they kiss.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 109708,
-                    "End": 109837
-                },
-                {
                     "Reply": "No, you were right! Look, the reason I love you so much is the same reason I guess I take you for granted sometimes.",
                     "Didascalie": "",
                     "Start": 110470,
@@ -3555,12 +3507,6 @@
                     "Didascalie": "",
                     "Start": 196073,
                     "End": 196099
-                },
-                {
-                    "Reply": "93 CONTINUED:  Ted stares at him for a beat, then lunges at him, wrapping his whole body around John's face and head, like the facehuggers from \"Aliens.\" John stumbles around the room, trying to pry Ted off. Eventually, he stumbles into the bathroom, and crashes through the shower door, shattering it. He and Ted exchange punches to the face.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 196188,
-                    "End": 196669
                 },
                 {
                     "Reply": "AAAAAA!!! Fucking Jesus fucking Christ!",
@@ -4793,12 +4739,6 @@
                     "End": 79196
                 },
                 {
-                    "Reply": "38 CONTINUED:  Lori hands John a small box. He opens it up, revealing a very nice watch.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 79233,
-                    "End": 79419
-                },
-                {
                     "Reply": "I remember you liked it when you saw Tom Brady wearing one in GQ.",
                     "Didascalie": "",
                     "Start": 79674,
@@ -5872,12 +5812,6 @@
                     "Didascalie": "(BEAT)",
                     "Start": 70461,
                     "End": 70479
-                },
-                {
-                    "Reply": "34 CONTINUED:  The waitress walks away.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 70516,
-                    "End": 70643
                 }
             ]
         },
@@ -6530,12 +6464,6 @@
                     "Didascalie": "",
                     "Start": 205497,
                     "End": 205764
-                },
-                {
-                    "Reply": "97 CONTINUED:  The crowd applauds dutifully as John walks out onstage.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 205853,
-                    "End": 206011
                 },
                 {
                     "Reply": "Jesus.",

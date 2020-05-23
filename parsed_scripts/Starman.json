@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Starman",
-        "   "
-    ],
+    "Title": "Starman",
     "Author": [
-        "\u00a0\u00a0Bruce A. Evans\u00a0\u00a0Raynold Gideon"
+        "Bruce A. Evans",
+        "Raynold Gideon"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Adventure",
+        "Drama",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Woodsman, The",
-        "   "
-    ],
+    "Title": "Woodsman, The",
     "Author": [
-        "\u00a0\u00a0Steven Fechter\u00a0\u00a0Nicole Kassell"
+        "Steven Fechter",
+        "Nicole Kassell"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2525,12 +2523,6 @@
                     "Didascalie": "",
                     "Start": 229800,
                     "End": 229936
-                },
-                {
-                    "Reply": "CONTINUED: I understand that. I do. I just hope... I just want her to...",
-                    "Didascalie": "",
-                    "Start": 230193,
-                    "End": 230316
                 },
                 {
                     "Reply": "Time.",

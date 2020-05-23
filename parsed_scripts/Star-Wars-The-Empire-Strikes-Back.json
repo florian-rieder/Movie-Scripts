@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Star Wars: The Empire Strikes Back",
-        "   "
-    ],
+    "Title": "Star Wars: The Empire Strikes Back",
     "Author": [
-        "\u00a0\u00a0George Lucas\u00a0\u00a0Lawrence Kasdan\u00a0\u00a0Leigh Brackett"
+        "George Lucas",
+        "Lawrence Kasdan",
+        "Leigh Brackett"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {

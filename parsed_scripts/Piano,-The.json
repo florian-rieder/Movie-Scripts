@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Piano, The",
-        "   "
-    ],
+    "Title": "Piano, The",
     "Author": [
-        "\u00a0\u00a0Jane Campion"
+        "Jane Campion"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -557,12 +555,6 @@
                     "End": 29368
                 },
                 {
-                    "Reply": "Goodbye  Sc 28     EXT     BAINES'                    DAY     Sc 28  It is much later when BAINES emerges from his hut with a saddle over his arm. The two women are still there. ADA looks up at him expectantly.",
-                    "Didascalie": "(They continue to stare.)",
-                    "Start": 29408,
-                    "End": 29637
-                },
-                {
                     "Reply": "I - can't - take - you there. I can't do it.",
                     "Didascalie": "",
                     "Start": 29716,
@@ -1006,12 +998,6 @@
                     "End": 10519
                 },
                 {
-                    "Reply": "Sc 16     EXT     BEACH                     MORNINGSc 16  It is early morning. The sea is calmer and the tide is again low. The party or two EUROPEANS and fourteen MAORI MEN and WOMEN come out on to the beach. About half the MAORI party head straight for the shoreline where an older woman loudly organises a pipi collection. All sorts of containers are used from flax baskets to shirts with knots in their arms. The rest follow STEWART and BAINES over to the boxes. STEWART automatically re-combs his hair, patting it against his forehead, where it sticks in a raked pattern. On his head he carefully places a formal top hat, oddly dean compared to his mud splattered suit. The party stops short of the petticoats where a tell-tale foot reveals its occupants.",
-                    "Didascalie": "",
-                    "Start": 10798,
-                    "End": 11569
-                },
-                {
                     "Reply": "A man points at FLORA's feet and gestures as if holding one of the little shoes in his hand.",
                     "Didascalie": "",
                     "Start": 12054,
@@ -1054,12 +1040,6 @@
                     "End": 72916
                 },
                 {
-                    "Reply": "Sc 70     INT     SCHOOL HALL BACK STAGE       NIGHT     Sc 70  Backstage the CHIEF and his party are shown the theatrical devices; the blood-bucket, the paper axe, the splits in the sheets.",
-                    "Didascalie": "",
-                    "Start": 73080,
-                    "End": 73272
-                },
-                {
                     "Reply": "He messes up the pattern of twigs as he speaks.",
                     "Didascalie": "",
                     "Start": 76653,
@@ -1070,12 +1050,6 @@
                     "Didascalie": "",
                     "Start": 76898,
                     "End": 77027
-                },
-                {
-                    "Reply": "BACKGROUND DIALOGUE FOR END OF SCENE  Taiho. Kei muri pea inga rakan nei. Auc!",
-                    "Didascalie": "(ii)",
-                    "Start": 148050,
-                    "End": 148129
                 }
             ]
         },
@@ -1777,12 +1751,6 @@
                     "End": 76232
                 },
                 {
-                    "Reply": "Sc 122EXT     MAORI PA     DAY     Sc 122  Outside the Pa walls near the kumera gardens, HIRA holds BAINES' saddle bags. It is raining hard as he rides out, hatless, shoeless and gunless, but clutching to his chest ADA's engraved key.",
-                    "Didascalie": "",
-                    "Start": 123152,
-                    "End": 123389
-                },
-                {
                     "Reply": "Kahore ne huarahi - kahorene tutae.",
                     "Didascalie": "",
                     "Start": 148295,
@@ -1961,12 +1929,6 @@
                     "End": 62869
                 },
                 {
-                    "Reply": "Ah well, slowly, slowly  Sc 62     INT     BAINES' HUT                    DAY     Sc 62  BAINES secures a chair against the door while ADA is removing her dress top. She sits at the piano hugging herself against the chill. As BAINES passes be knocks the jacket off the chair back. He picks it up and takes it across to her seat by the window.",
-                    "Didascalie": "",
-                    "Start": 63099,
-                    "End": 63446
-                },
-                {
                     "Reply": "Mr. Baines, do come and turn pages  BAINES looks wildly about for rescue.",
                     "Didascalie": "",
                     "Start": 68227,
@@ -2030,12 +1992,6 @@
                     "Didascalie": "",
                     "Start": 21861,
                     "End": 21878
-                },
-                {
-                    "Reply": "Watch his hand  The REVEREND tickles his sister as she tries to get the sleeve off his hand. NESSIE squeals with excitement.",
-                    "Didascalie": "",
-                    "Start": 22089,
-                    "End": 22215
                 },
                 {
                     "Reply": "It will be very dramatic.",
@@ -2256,12 +2212,6 @@
                     "End": 60028
                 },
                 {
-                    "Reply": "And with the blood ... it will be a good effect:  Sc 60     INT     BAINES' HUT               DAY     Sc 60  ADA's finger plays the fourth black key from the left hand side, denoting lesson four.",
-                    "Didascalie": "",
-                    "Start": 60281,
-                    "End": 60494
-                },
-                {
                     "Reply": "And so the young maid came upon each and all of Bluebeard's missing wives, their severed heads still bleeding, their eyes still crying.",
                     "Didascalie": "",
                     "Start": 69967,
@@ -2423,12 +2373,6 @@
         {
             "Character": "MANA",
             "Replies": [
-                {
-                    "Reply": "Sc 117EXT          STEWART'S     DAY     Sc 117 The sky is dark and rain is falling heavily as STEWART strides fast towards the hut, his axe swinging in his hand. FLORA is far behind him, her angelwings sodden.",
-                    "Didascalie": "(no sing, no sing)",
-                    "Start": 117085,
-                    "End": 117300
-                },
                 {
                     "Reply": "It is mine. I found it.",
                     "Didascalie": "(In Macit)",

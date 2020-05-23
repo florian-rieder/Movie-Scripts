@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Manhunter",
-        "   "
-    ],
+    "Title": "Manhunter",
     "Author": [
-        "\u00a0\u00a0Thomas Harris\u00a0\u00a0Michael Mann"
+        "Thomas Harris",
+        "Michael Mann"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller\u00a0\u00a0Horror"
+        "Drama",
+        "Thriller",
+        "Horror"
     ],
     "Characters": [
         {
@@ -5116,17 +5116,6 @@
             ]
         },
         {
-            "Character": "A SYMBOL",
-            "Replies": [
-                {
-                    "Reply": "is carved in the wood.",
-                    "Didascalie": "",
-                    "Start": 65896,
-                    "End": 65919
-                }
-            ]
-        },
-        {
             "Character": "YOU WATCHED THEM ALL GODDAMN DAY",
             "Replies": [
                 {
@@ -5808,17 +5797,6 @@
                     "Didascalie": "",
                     "Start": 98042,
                     "End": 98106
-                }
-            ]
-        },
-        {
-            "Character": "A CORDON OF FLORIDA STATE TROOPERS",
-            "Replies": [
-                {
-                    "Reply": "hussle Molly and Kevin between them from their cars towards Graham. Two carry suitcases.",
-                    "Didascalie": "",
-                    "Start": 98204,
-                    "End": 98293
                 }
             ]
         },

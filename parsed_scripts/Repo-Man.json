@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Repo Man",
-        "   "
-    ],
+    "Title": "Repo Man",
     "Author": [
-        "\u00a0\u00a0Alex Cox"
+        "Alex Cox"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -3160,17 +3158,6 @@
             ]
         },
         {
-            "Character": "A BROTHER",
-            "Replies": [
-                {
-                    "Reply": "Hey Bud, hey Bud, who's your new girlfriend?",
-                    "Didascalie": "",
-                    "Start": 37952,
-                    "End": 37997
-                }
-            ]
-        },
-        {
             "Character": "NAPOLEON",
             "Replies": [
                 {
@@ -3870,6 +3857,46 @@
             ]
         },
         {
+            "Character": "REPO WIFE 1",
+            "Replies": [
+                {
+                    "Reply": "Here's the young new-waver we've all heard so much about.",
+                    "Didascalie": "",
+                    "Start": 120586,
+                    "End": 120670
+                },
+                {
+                    "Reply": "My old man was exactly the same way until we got married.",
+                    "Didascalie": "",
+                    "Start": 121256,
+                    "End": 121340
+                },
+                {
+                    "Reply": "Who?",
+                    "Didascalie": "",
+                    "Start": 121759,
+                    "End": 121764
+                }
+            ]
+        },
+        {
+            "Character": "REPO WIFE 2",
+            "Replies": [
+                {
+                    "Reply": "My old man had a mohawk on him when I met him. He was in the service then.",
+                    "Didascalie": "",
+                    "Start": 120746,
+                    "End": 120847
+                },
+                {
+                    "Reply": "My old man was such a monster. I used to have to tell him no.",
+                    "Didascalie": "",
+                    "Start": 121092,
+                    "End": 121180
+                }
+            ]
+        },
+        {
             "Character": "TV",
             "Replies": [
                 {
@@ -3906,6 +3933,68 @@
                     "Didascalie": "",
                     "Start": 129094,
                     "End": 129750
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 1",
+            "Replies": [
+                {
+                    "Reply": "The Malibu.",
+                    "Didascalie": "",
+                    "Start": 132964,
+                    "End": 132976
+                },
+                {
+                    "Reply": "But agent Rogersz, they're getting away.",
+                    "Didascalie": "",
+                    "Start": 136613,
+                    "End": 136654
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah?",
+                    "Didascalie": "",
+                    "Start": 133047,
+                    "End": 133053
+                },
+                {
+                    "Reply": "Not in my face.",
+                    "Didascalie": "",
+                    "Start": 133646,
+                    "End": 133662
+                },
+                {
+                    "Reply": "My Face!",
+                    "Didascalie": "",
+                    "Start": 133870,
+                    "End": 133879
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 1",
+            "Replies": [
+                {
+                    "Reply": "Let me see that. All wrong do it over.",
+                    "Didascalie": "",
+                    "Start": 138541,
+                    "End": 138580
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 2",
+            "Replies": [
+                {
+                    "Reply": "Oh well isn't that a shame.",
+                    "Didascalie": "",
+                    "Start": 138837,
+                    "End": 138865
                 }
             ]
         }

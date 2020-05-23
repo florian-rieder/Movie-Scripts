@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Reindeer Games",
-        "   "
-    ],
+    "Title": "Reindeer Games",
     "Author": [
-        "\u00a0\u00a0Ehren Kruger"
+        "Ehren Kruger"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Thriller\u00a0\u00a0Action\u00a0\u00a0Drama"
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2235,17 +2235,6 @@
             ]
         },
         {
-            "Character": "A WALL CALENDAR",
-            "Replies": [
-                {
-                    "Reply": "Shows the dates have been crossed off up to December 18th.",
-                    "Didascalie": "",
-                    "Start": 3410,
-                    "End": 3469
-                }
-            ]
-        },
-        {
             "Character": "NICK",
             "Replies": [
                 {
@@ -2853,17 +2842,6 @@
                     "Didascalie": "",
                     "Start": 31377,
                     "End": 31528
-                }
-            ]
-        },
-        {
-            "Character": "TO SEE A YOUNG WOMAN",
-            "Replies": [
-                {
-                    "Reply": "bundled in a silver ski jacket, pink wool hat with a poofball on top, scarf and mittens. Scanning the released prisoners.",
-                    "Didascalie": "",
-                    "Start": 32780,
-                    "End": 32918
                 }
             ]
         },
@@ -5971,17 +5949,6 @@
             ]
         },
         {
-            "Character": "A BLACKJACK TABLE",
-            "Replies": [
-                {
-                    "Reply": "where a trio of COLLEGE KIDS are forking over chips. One of them's dark-haired with a goatee, a sweatshirt and jeans. Rudy studies this kid for moment.",
-                    "Didascalie": "",
-                    "Start": 129451,
-                    "End": 129635
-                }
-            ]
-        },
-        {
             "Character": "BARTENDER",
             "Replies": [
                 {
@@ -6082,28 +6049,6 @@
                     "Didascalie": "",
                     "Start": 214746,
                     "End": 214772
-                }
-            ]
-        },
-        {
-            "Character": "WIDEN TO REVEAL TRAILER",
-            "Replies": [
-                {
-                    "Reply": "As Gabriel lifts a Santa Claus suit and presses it against Rudy. Ashley, Merlin, Jungy and Pug look on.",
-                    "Didascalie": "",
-                    "Start": 176989,
-                    "End": 177109
-                }
-            ]
-        },
-        {
-            "Character": "WIDEN TO REVEAL RUDY",
-            "Replies": [
-                {
-                    "Reply": "still cuffed to the bedframe, pulled close to a desk. He's sitting, working on the security level map.",
-                    "Didascalie": "",
-                    "Start": 178206,
-                    "End": 178325
                 }
             ]
         },
@@ -6286,17 +6231,6 @@
                     "Didascalie": "",
                     "Start": 219226,
                     "End": 219335
-                }
-            ]
-        },
-        {
-            "Character": "TO A PRIVATE HALLWAY",
-            "Replies": [
-                {
-                    "Reply": "with three doors. Gabriel stops at the first, grips his gun --",
-                    "Didascalie": "",
-                    "Start": 220671,
-                    "End": 220734
                 }
             ]
         },

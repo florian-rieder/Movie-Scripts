@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Horse Whisperer, The",
-        "   "
-    ],
+    "Title": "Horse Whisperer, The",
     "Author": [
-        "\u00a0\u00a0Eric Roth"
+        "Eric Roth"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4555,17 +4553,6 @@
                     "Didascalie": "",
                     "Start": 21642,
                     "End": 21679
-                }
-            ]
-        },
-        {
-            "Character": "END OF MEMORY",
-            "Replies": [
-                {
-                    "Reply": "Annie slides the Pilgrim picture back into the frame, then returns to her task of packing.",
-                    "Didascalie": "",
-                    "Start": 28240,
-                    "End": 28333
                 }
             ]
         },

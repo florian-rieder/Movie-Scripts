@@ -1,13 +1,112 @@
 {
-    "Title": [
-        "Ninth Gate, The",
-        "   "
-    ],
+    "Title": "Ninth Gate, The",
     "Author": [
-        "\u00a0\u00a0Arturo P\u00c3\u00a9rez-Reverte\u00a0\u00a0John Brownjohn\u00a0\u00a0Enrique Urbizu\u00a0\u00a0Roman Polanski"
+        "Arturo P\u00c3\u00a9rez-Reverte",
+        "John Brownjohn",
+        "Enrique Urbizu",
+        "Roman Polanski"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Mystery"
+        "Horror",
+        "Thriller",
+        "Mystery"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "CORSO",
+            "Replies": [
+                {
+                    "Reply": "'The Nine Gates of the Kingdom of Shadows...",
+                    "Didascalie": "(not looking at Balkan)",
+                    "Start": 13099,
+                    "End": 13146
+                },
+                {
+                    "Reply": "Sic Luceat Lux ... Thus let the light shine...",
+                    "Didascalie": "(Off Screen)",
+                    "Start": 23118,
+                    "End": 23167
+                },
+                {
+                    "Reply": "Hey, look, be reasonable...",
+                    "Didascalie": "",
+                    "Start": 32489,
+                    "End": 32518
+                },
+                {
+                    "Reply": "Thanks, man. I'm sorry...",
+                    "Didascalie": "",
+                    "Start": 34753,
+                    "End": 34780
+                },
+                {
+                    "Reply": "But that's absurd! You don't honestly believe...",
+                    "Didascalie": "",
+                    "Start": 41739,
+                    "End": 41789
+                },
+                {
+                    "Reply": "Liana...",
+                    "Didascalie": "",
+                    "Start": 91271,
+                    "End": 91281
+                }
+            ]
+        },
+        {
+            "Character": "SON",
+            "Replies": [
+                {
+                    "Reply": "How much were you thinking of...",
+                    "Didascalie": "",
+                    "Start": 3272,
+                    "End": 3306
+                }
+            ]
+        },
+        {
+            "Character": "BERNIE",
+            "Replies": [
+                {
+                    "Reply": "Beautiful, just beautiful...",
+                    "Didascalie": "(nods absently. He smiles to himself with an air of enchantment)",
+                    "Start": 27498,
+                    "End": 27529
+                }
+            ]
+        },
+        {
+            "Character": "BALKAN",
+            "Replies": [
+                {
+                    "Reply": "Relevant information may be found in Antoine Martin del Rio's 'Disquisitionum Magicarum', Louvain 1599, and earlier, in 1580, in 'De la d'monomanle des sorciers' by the Frenchman, Jean Bodin...",
+                    "Didascalie": "",
+                    "Start": 7469,
+                    "End": 7664
+                }
+            ]
+        },
+        {
+            "Character": "PEDRO",
+            "Replies": [
+                {
+                    "Reply": "We sold it when the opportunity presented itself. It was too...",
+                    "Didascalie": "",
+                    "Start": 37488,
+                    "End": 37553
+                }
+            ]
+        },
+        {
+            "Character": "GIRL",
+            "Replies": [
+                {
+                    "Reply": ": I'm a bit of a devil myself...",
+                    "Didascalie": "(smiles)",
+                    "Start": 76688,
+                    "End": 76722
+                }
+            ]
+        }
+    ]
 }

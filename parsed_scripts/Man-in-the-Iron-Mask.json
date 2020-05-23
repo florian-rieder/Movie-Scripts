@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "Man in the Iron Mask",
-        "   "
-    ],
+    "Title": "Man in the Iron Mask",
     "Author": [
-        "\u00a0\u00a0Randall Wallace"
+        "Randall Wallace"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Action",
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "A ROYAL BEDCHAMBER",
-            "Replies": [
-                {
-                    "Reply": "The royal DOCTOR kneels at the foot of her bed; her own royal mother grips her hands...",
-                    "Didascalie": "",
-                    "Start": 557,
-                    "End": 645
-                }
-            ]
-        },
         {
             "Character": "DOCTOR",
             "Replies": [
@@ -41,6 +29,28 @@
                     "Didascalie": "",
                     "Start": 1878,
                     "End": 1906
+                }
+            ]
+        },
+        {
+            "Character": "ADVISOR 1",
+            "Replies": [
+                {
+                    "Reply": "I shall tell the king!",
+                    "Didascalie": "",
+                    "Start": 1504,
+                    "End": 1527
+                }
+            ]
+        },
+        {
+            "Character": "ADVISOR 2",
+            "Replies": [
+                {
+                    "Reply": "I shall tell him!",
+                    "Didascalie": "",
+                    "Start": 1569,
+                    "End": 1587
                 }
             ]
         },
@@ -518,6 +528,17 @@
                     "Didascalie": "",
                     "Start": 178458,
                     "End": 178483
+                }
+            ]
+        },
+        {
+            "Character": "WENCH 1",
+            "Replies": [
+                {
+                    "Reply": "So are you.",
+                    "Didascalie": "",
+                    "Start": 7305,
+                    "End": 7317
                 }
             ]
         },
@@ -3188,6 +3209,28 @@
             ]
         },
         {
+            "Character": "FRIEND 1",
+            "Replies": [
+                {
+                    "Reply": "Raoul, son of Athos.",
+                    "Didascalie": "",
+                    "Start": 18221,
+                    "End": 18242
+                }
+            ]
+        },
+        {
+            "Character": "FRIEND 2",
+            "Replies": [
+                {
+                    "Reply": "Her name is Michelle.",
+                    "Didascalie": "",
+                    "Start": 18349,
+                    "End": 18371
+                }
+            ]
+        },
+        {
             "Character": "RAOUL AND MICHELLE",
             "Replies": [
                 {
@@ -3875,6 +3918,28 @@
             ]
         },
         {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "You ever wonder who he was?",
+                    "Didascalie": "",
+                    "Start": 83327,
+                    "End": 83355
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "No... Yes.  But I never asked -- and you better not either.",
+                    "Didascalie": "",
+                    "Start": 83395,
+                    "End": 83465
+                }
+            ]
+        },
+        {
             "Character": "PRISONER",
             "Replies": [
                 {
@@ -4337,17 +4402,6 @@
                     "Didascalie": "",
                     "Start": 165816,
                     "End": 165845
-                }
-            ]
-        },
-        {
-            "Character": "A SIDE CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "D'Artagnan leads them around another corner, into a long corridor; at the end of it is a massive door.  They reach it, and d'Artagnan produces a set of keys marked with the royal seal of the Musketeers; he begins unlocking the three padlocks that secure the door.",
-                    "Didascalie": "",
-                    "Start": 174581,
-                    "End": 174845
                 }
             ]
         },

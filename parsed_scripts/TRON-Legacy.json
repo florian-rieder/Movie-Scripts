@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "TRON: Legacy",
-        "   "
-    ],
+    "Title": "TRON: Legacy",
     "Author": [
-        "\u00a0\u00a0Richard Jefferies"
+        "Richard Jefferies"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -24,6 +23,17 @@
                     "Didascalie": "",
                     "Start": 37851,
                     "End": 37862
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 1",
+            "Replies": [
+                {
+                    "Reply": "This is the first time an Intruder has broken into X-Net!",
+                    "Didascalie": "",
+                    "Start": 3178,
+                    "End": 3253
                 }
             ]
         },
@@ -1086,12 +1096,6 @@
                     "End": 53116
                 },
                 {
-                    "Reply": "31  42   CONTINUED:  RUSH rolls the BIG ROMBALL over:     A peace offering.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 53179,
-                    "End": 53306
-                },
-                {
                     "Reply": "D-Rezz, we can use a guy with your raw power. You ready to be a hero for X-Net?",
                     "Didascalie": "",
                     "Start": 53730,
@@ -1318,12 +1322,6 @@
                     "Didascalie": "",
                     "Start": 77897,
                     "End": 77903
-                },
-                {
-                    "Reply": "45  53   CONTINUED:  His ankle.    He straightens, standing in front of D-rezz.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 77964,
-                    "End": 78094
                 },
                 {
                     "Reply": "Hey!   Pick on somebody your own size!",
@@ -1608,12 +1606,6 @@
                     "End": 109024
                 },
                 {
-                    "Reply": "63  73   CONTINUED:  Krod twists around, playing with his spinal nexus.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 109087,
-                    "End": 109210
-                },
-                {
                     "Reply": "Hey!     Down here!",
                     "Didascalie": "",
                     "Start": 115141,
@@ -1678,12 +1670,6 @@
                     "Didascalie": "",
                     "Start": 125987,
                     "End": 125995
-                },
-                {
-                    "Reply": "73  90   CONTINUED:  Fighters, Krod, Rush and Flynn surf down the data WHIRL, accelerating away from the hot zone.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 126058,
-                    "End": 126226
                 },
                 {
                     "Reply": "I got it, I got it, I got it.",
@@ -3255,6 +3241,63 @@
             ]
         },
         {
+            "Character": "X-TAKK 1",
+            "Replies": [
+                {
+                    "Reply": "RX23?!",
+                    "Didascalie": "",
+                    "Start": 32481,
+                    "End": 32488
+                },
+                {
+                    "Reply": "And whatever you do, don't let them hit you here...",
+                    "Didascalie": "",
+                    "Start": 108656,
+                    "End": 108726
+                },
+                {
+                    "Reply": "All X-Net Programs have a weak spot there.",
+                    "Didascalie": "",
+                    "Start": 108836,
+                    "End": 108897
+                },
+                {
+                    "Reply": "We got her!",
+                    "Didascalie": "",
+                    "Start": 126568,
+                    "End": 126580
+                }
+            ]
+        },
+        {
+            "Character": "X-TAKK 2",
+            "Replies": [
+                {
+                    "Reply": "But...    You crashed irrecoverably!",
+                    "Didascalie": "",
+                    "Start": 32621,
+                    "End": 32658
+                },
+                {
+                    "Reply": "How did he get that??",
+                    "Didascalie": "",
+                    "Start": 34139,
+                    "End": 34161
+                }
+            ]
+        },
+        {
+            "Character": "X-TAKK 3",
+            "Replies": [
+                {
+                    "Reply": "RX23 has been rebooted!",
+                    "Didascalie": "",
+                    "Start": 32798,
+                    "End": 32822
+                }
+            ]
+        },
+        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -3585,12 +3628,6 @@
                     "Didascalie": "",
                     "Start": 98319,
                     "End": 98448
-                },
-                {
-                    "Reply": "57  67   CONTINUED:  They arrive at a laser-barred JAIL BLOCK, where a dozen BIG X-Takk Troops are held prisoner.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 98508,
-                    "End": 98675
                 },
                 {
                     "Reply": "Independent operating instructions.",
@@ -4853,6 +4890,39 @@
             ]
         },
         {
+            "Character": "FIGHTER 1",
+            "Replies": [
+                {
+                    "Reply": "We gave it everything.",
+                    "Didascalie": "",
+                    "Start": 131119,
+                    "End": 131142
+                }
+            ]
+        },
+        {
+            "Character": "FIGHTER 2",
+            "Replies": [
+                {
+                    "Reply": "Interface.   We can resist.",
+                    "Didascalie": "",
+                    "Start": 131200,
+                    "End": 131228
+                }
+            ]
+        },
+        {
+            "Character": "FIGHTER 3",
+            "Replies": [
+                {
+                    "Reply": "Interface.",
+                    "Didascalie": "",
+                    "Start": 131286,
+                    "End": 131297
+                }
+            ]
+        },
+        {
             "Character": "X-NET BUILDER BOSS",
             "Replies": [
                 {
@@ -4932,6 +5002,17 @@
                     "Didascalie": "",
                     "Start": 189069,
                     "End": 189101
+                }
+            ]
+        },
+        {
+            "Character": "SECURITY MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Yes Sir, Mr. Flynn.",
+                    "Didascalie": "",
+                    "Start": 192546,
+                    "End": 192566
                 }
             ]
         }

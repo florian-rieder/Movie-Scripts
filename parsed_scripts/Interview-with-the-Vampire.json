@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Interview with the Vampire",
-        "   "
-    ],
+    "Title": "Interview with the Vampire",
     "Author": [
-        "\u00a0\u00a0Anne Rice\u00a0\u00a0Neil Jordan"
+        "Anne Rice",
+        "Neil Jordan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror"
+        "Drama",
+        "Horror"
     ],
     "Characters": [
         {
@@ -5167,28 +5166,6 @@
             ]
         },
         {
-            "Character": "A MAGNIFICENT HEARSE",
-            "Replies": [
-                {
-                    "Reply": "As in a dream, driven by Armand's human boy. The door of the hearse opens. Through the curtains enclosing the interior, we see Armand. He reaches a hand out to Louis and pulls him inside.",
-                    "Didascalie": "",
-                    "Start": 123930,
-                    "End": 124121
-                }
-            ]
-        },
-        {
-            "Character": "A VERITABLE JUNGLE",
-            "Replies": [
-                {
-                    "Reply": "Of overgrown rose and oak tree and wisteria. he sees a faint glimmer of light coming from a distant glass window of a huge Greek Revival house. He approaches then he sees -",
-                    "Didascalie": "",
-                    "Start": 127625,
-                    "End": 127801
-                }
-            ]
-        },
-        {
             "Character": "OLD SHRIVELLED CORPSE",
             "Replies": [
                 {
@@ -5196,17 +5173,6 @@
                     "Didascalie": "",
                     "Start": 127828,
                     "End": 127896
-                }
-            ]
-        },
-        {
-            "Character": "A TRUCK",
-            "Replies": [
-                {
-                    "Reply": "Coming towards them, about to crush the car.",
-                    "Didascalie": "",
-                    "Start": 135436,
-                    "End": 135481
                 }
             ]
         }

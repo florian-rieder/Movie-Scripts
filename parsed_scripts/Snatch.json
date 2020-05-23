@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Snatch",
-        "   "
-    ],
+    "Title": "Snatch",
     "Author": [
-        "\u00a0\u00a0Guy Ritchie"
+        "Guy Ritchie"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -119,12 +117,6 @@
                     "Didascalie": "",
                     "Start": 87704,
                     "End": 87726
-                },
-                {
-                    "Reply": "40   CONTINUED:    .",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 87798,
-                    "End": 87825
                 },
                 {
                     "Reply": "Now be a bunch of good fellas and lie down on the floor.",
@@ -1058,12 +1050,6 @@
                     "End": 139469
                 },
                 {
-                    "Reply": "82   CONTINUED:    .",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 139531,
-                    "End": 139558
-                },
-                {
                     "Reply": "We gotta get this stone first Rosy and then we'll get you to a hospital.",
                     "Didascalie": "",
                     "Start": 139870,
@@ -1094,12 +1080,6 @@
                     "End": 154729
                 },
                 {
-                    "Reply": "95   CONTINUED:    -",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 154795,
-                    "End": 154822
-                },
-                {
                     "Reply": "I wouldn't know what to do with it.",
                     "Didascalie": "",
                     "Start": 155660,
@@ -1122,12 +1102,6 @@
                     "Didascalie": "",
                     "Start": 158293,
                     "End": 158510
-                },
-                {
-                    "Reply": "99     CONTINUED:     -",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 158578,
-                    "End": 158608
                 },
                 {
                     "Reply": "What about Rose Bud?",
@@ -1692,12 +1666,6 @@
                     "End": 167883
                 },
                 {
-                    "Reply": "Ill   CONTINUED: They turn and Errol is waiting for them.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 167949,
-                    "End": 168018
-                },
-                {
                     "Reply": "I gotta say you have got some front coming round here Tone, you know the lads are picking straws. . .",
                     "Didascalie": "",
                     "Start": 176190,
@@ -2120,12 +2088,6 @@
                     "End": 93719
                 },
                 {
-                    "Reply": "44   CONTINUED:     He walks into his office, has a quick look around and makes his way to the safe under the floor. He decides to put the kettle on, does so, and his attention is caught by something, he looks at the cups on the side and sees that one is waiting to be made. He stands back and looks at the cupboards he sees that they are all open. Then he sees that the kettle is already boiled.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 93907,
-                    "End": 94345
-                },
-                {
                     "Reply": "Shit you scared the life outta me.",
                     "Didascalie": "",
                     "Start": 94526,
@@ -2220,12 +2182,6 @@
                     "Didascalie": "",
                     "Start": 106800,
                     "End": 106862
-                },
-                {
-                    "Reply": "50   CONTINUED:  Tommy looks a taken aback by this statement.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 106925,
-                    "End": 106998
                 },
                 {
                     "Reply": "Yeah before the Germans get there Tommy. How can a dog fuck a rabbit?...eh? If eats the bastard.",
@@ -2388,12 +2344,6 @@
                     "Didascalie": "",
                     "Start": 159997,
                     "End": 160022
-                },
-                {
-                    "Reply": "104   CONTINUED:    -",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 160093,
-                    "End": 160121
                 },
                 {
                     "Reply": "I don't want to go in there, he's a dangerous bastard, taken too many disco biscuits in the heat of Russian disputations, he's got as many of these nuts as those nuts.",
@@ -2651,12 +2601,6 @@
                     "Didascalie": "",
                     "Start": 79350,
                     "End": 79388
-                },
-                {
-                    "Reply": "36   CONTINUED:     .",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 79463,
-                    "End": 79491
                 },
                 {
                     "Reply": "Horrible bastard, it's his fight, made all his money in.",
@@ -4020,12 +3964,6 @@
                     "Didascalie": "",
                     "Start": 197445,
                     "End": 197475
-                },
-                {
-                    "Reply": "124   CONTINUED:    -",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 197545,
-                    "End": 197573
                 }
             ]
         },
@@ -4108,6 +4046,71 @@
                     "Didascalie": "",
                     "Start": 28059,
                     "End": 28129
+                }
+            ]
+        },
+        {
+            "Character": "KID 1",
+            "Replies": [
+                {
+                    "Reply": "That's a flash car Mister.",
+                    "Didascalie": "",
+                    "Start": 28600,
+                    "End": 28627
+                },
+                {
+                    "Reply": "Who you looking for?",
+                    "Didascalie": "",
+                    "Start": 28785,
+                    "End": 28806
+                },
+                {
+                    "Reply": "Do you want me to go and get him?",
+                    "Didascalie": "",
+                    "Start": 28932,
+                    "End": 28966
+                },
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 29371,
+                    "End": 29377
+                },
+                {
+                    "Reply": "The five quid you are going to pay me.",
+                    "Didascalie": "",
+                    "Start": 29552,
+                    "End": 29609
+                },
+                {
+                    "Reply": "Two fifty.",
+                    "Didascalie": "",
+                    "Start": 29774,
+                    "End": 29785
+                },
+                {
+                    "Reply": "Oh you're a tight fucker aren't ya?",
+                    "Didascalie": "",
+                    "Start": 29918,
+                    "End": 29954
+                },
+                {
+                    "Reply": "So aren't you gonna pay me?",
+                    "Didascalie": "",
+                    "Start": 200288,
+                    "End": 200316
+                },
+                {
+                    "Reply": "Bollocks to you, you tight git.",
+                    "Didascalie": "",
+                    "Start": 200437,
+                    "End": 200469
+                },
+                {
+                    "Reply": "Yeah fuck ya.",
+                    "Didascalie": "",
+                    "Start": 200612,
+                    "End": 200626
                 }
             ]
         },
@@ -4356,6 +4359,23 @@
             ]
         },
         {
+            "Character": "KID 2",
+            "Replies": [
+                {
+                    "Reply": "He's a big man that's for sure.",
+                    "Didascalie": "",
+                    "Start": 31382,
+                    "End": 31414
+                },
+                {
+                    "Reply": "Lift me up would you Mister?",
+                    "Didascalie": "",
+                    "Start": 32724,
+                    "End": 32753
+                }
+            ]
+        },
+        {
             "Character": "MUM",
             "Replies": [
                 {
@@ -4411,6 +4431,17 @@
                     "Didascalie": "",
                     "Start": 105415,
                     "End": 105552
+                }
+            ]
+        },
+        {
+            "Character": "KID 3",
+            "Replies": [
+                {
+                    "Reply": "I bet you can't lift us both at the same time.",
+                    "Didascalie": "",
+                    "Start": 32899,
+                    "End": 32963
                 }
             ]
         },
@@ -5038,12 +5069,6 @@
                     "Didascalie": "",
                     "Start": 101185,
                     "End": 101207
-                },
-                {
-                    "Reply": "47   CONTINUED:  Tony keeps going for him. Charlie raises the gun and points it at Tony's face and fires the last shot. The bullet goes straight into his mouth but it went in at an angle and it exits his cheek. Tony is standing there with six. bullet holes in him and bleeding all over the carpet. As he talks blood courses its way down his front and a strong lisp is frustrating the words.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 101270,
-                    "End": 101702
                 }
             ]
         },
@@ -5536,12 +5561,6 @@
                     "Didascalie": "",
                     "Start": 173531,
                     "End": 173703
-                },
-                {
-                    "Reply": "114   CONTINUED: -",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 173766,
-                    "End": 173791
                 },
                 {
                     "Reply": "If they weren't sniffing the dust they where flicking the ash. And never trust who puts anything other than a finger up his nose.",

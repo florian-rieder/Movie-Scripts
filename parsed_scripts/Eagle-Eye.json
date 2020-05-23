@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Eagle Eye",
-        "   "
-    ],
+    "Title": "Eagle Eye",
     "Author": [
-        "\u00a0\u00a0John Glenn\u00a0\u00a0Travis Wright"
+        "John Glenn",
+        "Travis Wright"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -341,6 +341,17 @@
                     "Didascalie": "",
                     "Start": 8184,
                     "End": 8269
+                }
+            ]
+        },
+        {
+            "Character": "TECHIE TECHIE 2",
+            "Replies": [
+                {
+                    "Reply": "-- Switching to Tac-2, -- MTS active, painting the acquisition's good -- target --",
+                    "Didascalie": "",
+                    "Start": 8857,
+                    "End": 8950
                 }
             ]
         },
@@ -4776,17 +4787,6 @@
                     "Didascalie": "",
                     "Start": 164702,
                     "End": 164758
-                }
-            ]
-        },
-        {
-            "Character": "THE--",
-            "Replies": [
-                {
-                    "Reply": "BATHROOM: slams the door and locks it.",
-                    "Didascalie": "",
-                    "Start": 165254,
-                    "End": 165293
                 }
             ]
         },

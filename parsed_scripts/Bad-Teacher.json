@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Bad Teacher",
-        "   "
-    ],
+    "Title": "Bad Teacher",
     "Author": [
-        "\u00a0\u00a0Lee Eisenberg\u00a0\u00a0Gene Stupnitsky"
+        "Lee Eisenberg",
+        "Gene Stupnitsky"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3284,23 +3282,6 @@
             ]
         },
         {
-            "Character": "TURN TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "AMY'S CLASSROOM The room has been decorated to within an inch of its life. Every surface is covered with posters like \"Noted African-Americans,\" or \"Hispanic American Hall of Fame,\"",
-                    "Didascalie": "",
-                    "Start": 14758,
-                    "End": 14970
-                },
-                {
-                    "Reply": "Elizabeth and Lynn on lunch duty.",
-                    "Didascalie": "",
-                    "Start": 66747,
-                    "End": 66781
-                }
-            ]
-        },
-        {
             "Character": "LYNN",
             "Replies": [
                 {
@@ -5445,17 +5426,6 @@
                     "Didascalie": "(quietly, to Principal Snur)",
                     "Start": 171929,
                     "End": 172014
-                }
-            ]
-        },
-        {
-            "Character": "TV NEWS FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "A REPORTER talks to camera on the steps of J.A.M.S.",
-                    "Didascalie": "",
-                    "Start": 172051,
-                    "End": 172103
                 }
             ]
         },

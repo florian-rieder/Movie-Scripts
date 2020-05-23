@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Bounty Hunter, The",
-        "   "
-    ],
+    "Title": "Bounty Hunter, The",
     "Author": [
-        "\u00a0\u00a0Sarah Thorp"
+        "Sarah Thorp"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Romance"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5664,78 +5664,6 @@
             ]
         },
         {
-            "Character": "INT WAREHOUSE- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "Lorraine waves Dwight over.",
-                    "Didascalie": "",
-                    "Start": 105826,
-                    "End": 105854
-                }
-            ]
-        },
-        {
-            "Character": "INT CADILLAC- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "Milo and Cass are back on the highway, both looking a little worse for wear. Milo's nose is swollen, Cass' clothes are muddy.",
-                    "Didascalie": "",
-                    "Start": 107800,
-                    "End": 107946
-                },
-                {
-                    "Reply": "CHIRON: \"6:00 PM. ABOVE THE ATLANTIC OCEAN. 13 HOURS TO GO\".",
-                    "Didascalie": "",
-                    "Start": 198288,
-                    "End": 198349
-                }
-            ]
-        },
-        {
-            "Character": "EXT HIGHWAY- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "The cadillac SPEEDS away, leaving Mahler's car behind.",
-                    "Didascalie": "",
-                    "Start": 113542,
-                    "End": 113597
-                }
-            ]
-        },
-        {
-            "Character": "EXT CADILLAC- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "The cadillac pulls a U-turn and HEADS BACK TOWARDS ATLANTIC CITY.",
-                    "Didascalie": "",
-                    "Start": 123576,
-                    "End": 123652
-                }
-            ]
-        },
-        {
-            "Character": "INT MALL- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "Sid's at the mall. On Dec 23rd. With all the other desperate, last-minute shoppers. In other words, HE'S IN HELL.",
-                    "Didascalie": "",
-                    "Start": 120425,
-                    "End": 120549
-                }
-            ]
-        },
-        {
-            "Character": "EXT HOTDOG STAND- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Milo buys a chili dog while talking to Cass who stands next to him, handcuffed.",
-                    "Didascalie": "",
-                    "Start": 123906,
-                    "End": 123996
-                }
-            ]
-        },
-        {
             "Character": "TOW TRUCK DRIVER",
             "Replies": [
                 {
@@ -5743,79 +5671,6 @@
                     "Didascalie": "",
                     "Start": 127212,
                     "End": 127248
-                }
-            ]
-        },
-        {
-            "Character": "EXT HIGHWAY- EVENING",
-            "Replies": [
-                {
-                    "Reply": "The tow truck is driving away from the garage.",
-                    "Didascalie": "",
-                    "Start": 127855,
-                    "End": 127902
-                },
-                {
-                    "Reply": "The Trump Casino on the strip, coming into view...",
-                    "Didascalie": "",
-                    "Start": 128885,
-                    "End": 128936
-                }
-            ]
-        },
-        {
-            "Character": "INT CADILLAC- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Milo climbs back into the car, holding a piece of paper with the words \"Trump Casino, room 2504\" on it. He grins at Cass.",
-                    "Didascalie": "",
-                    "Start": 127977,
-                    "End": 128109
-                },
-                {
-                    "Reply": "Milo and Cass are speeding away from the Trump Casino.",
-                    "Didascalie": "",
-                    "Start": 142786,
-                    "End": 142841
-                }
-            ]
-        },
-        {
-            "Character": "EXT TRUMP CASINO- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Cass screams as she falls. Milo falls next to her. They fall and fall and BOOSH: THEY LAND IN A SNOW BANK AND TUMBLE TO THE GROUND.",
-                    "Didascalie": "",
-                    "Start": 142267,
-                    "End": 142419
-                }
-            ]
-        },
-        {
-            "Character": "INT TRUMP CASINO- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Milo glides through the casino, past the blinking lights of the slot machines, headed for the elevators. A DRUNK GUY in a Hawaiian shirt is coming towards him and HE AND MILO COLLIDE...",
-                    "Didascalie": "",
-                    "Start": 130102,
-                    "End": 130318
-                }
-            ]
-        },
-        {
-            "Character": "INT HALLWAY- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Halfway down the hallway, THE MAID HEARS THE DOOR BEING KICKED IN. Nervous, she backs away, headed for the elevators...",
-                    "Didascalie": "",
-                    "Start": 136730,
-                    "End": 136870
-                },
-                {
-                    "Reply": "Cass and Milo run up to the elevators. ALL CARS ARE RISING: BACK-UP IS ON THE WAY. Milo hits the fire alarm and pulls Cass into the stairwell...",
-                    "Didascalie": "",
-                    "Start": 141420,
-                    "End": 141585
                 }
             ]
         },
@@ -5844,39 +5699,6 @@
                     "Didascalie": "(PANICKED)",
                     "Start": 140746,
                     "End": 140789
-                }
-            ]
-        },
-        {
-            "Character": "INT STAIRWELL- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Milo and Cass are almost to the bottom, WHEN SECURITY APPEARS IN THE STAIRWELL BENEATH THEM. Milo looks up. SECURITY IS COMING FROM ABOVE, AS WELL. Shit. Milo cracks the stairwell window and peers out: THEY ARE 4 STORIES UP.",
-                    "Didascalie": "",
-                    "Start": 141661,
-                    "End": 141916
-                }
-            ]
-        },
-        {
-            "Character": "INT POLICE STATION- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Bobby is in his office. His door opens onto the squad room, busy with police activity. Bobby sits up straighter in his chair.",
-                    "Didascalie": "",
-                    "Start": 143221,
-                    "End": 143367
-                }
-            ]
-        },
-        {
-            "Character": "EXT BACK OF TRUMP CASINO- EVENING",
-            "Replies": [
-                {
-                    "Reply": "The scene has calmed down a little. A DARK SEDAN appears and RAY AND DWIGHT exit the car, looking like a an ugly, dangerous Odd Couple.",
-                    "Didascalie": "",
-                    "Start": 145039,
-                    "End": 145195
                 }
             ]
         },
@@ -6119,17 +5941,6 @@
             ]
         },
         {
-            "Character": "EXT BOARDWALK- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "Cops everywhere, Dwight and Ray leaning over the hood of a squad car, being handcuffed, MAHLER UNCONSCIOUS ON A STRETCHER.",
-                    "Didascalie": "",
-                    "Start": 197707,
-                    "End": 197850
-                }
-            ]
-        },
-        {
             "Character": "BYSTANDER",
             "Replies": [
                 {
@@ -6137,61 +5948,6 @@
                     "Didascalie": "",
                     "Start": 198081,
                     "End": 198207
-                }
-            ]
-        },
-        {
-            "Character": "EXT TRUNK- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "CASS IS BACK IN THE TRUNK. Milo waves goodbye and SLAMS shut the lid.",
-                    "Didascalie": "",
-                    "Start": 198630,
-                    "End": 198710
-                }
-            ]
-        },
-        {
-            "Character": "EXT OCEAN- EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "The sound of a motorboat chugging along.",
-                    "Didascalie": "",
-                    "Start": 200497,
-                    "End": 200538
-                }
-            ]
-        },
-        {
-            "Character": "INT HULL OF YACHT- EVENING",
-            "Replies": [
-                {
-                    "Reply": "CHIRON: \"11:00 PM. ATLANTIC OCEAN. 10 HOURS TO GO\".",
-                    "Didascalie": "",
-                    "Start": 203064,
-                    "End": 203116
-                }
-            ]
-        },
-        {
-            "Character": "EXT PORTHOLE- EVENING",
-            "Replies": [
-                {
-                    "Reply": "We see MILO'S HEAD POP INTO VIEW, THEN DISAPPEAR.",
-                    "Didascalie": "",
-                    "Start": 213539,
-                    "End": 213589
-                }
-            ]
-        },
-        {
-            "Character": "INT HULL OF BOAT- EVENING",
-            "Replies": [
-                {
-                    "Reply": "Milo and Cass, both a little out of breath, stand still, listening. Silence.",
-                    "Didascalie": "",
-                    "Start": 214272,
-                    "End": 214359
                 }
             ]
         },

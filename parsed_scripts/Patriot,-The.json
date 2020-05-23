@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Patriot, The",
-        "   "
-    ],
+    "Title": "Patriot, The",
     "Author": [
-        "\u00a0\u00a0Robert Rodat"
+        "Robert Rodat"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Action",
+        "Drama",
+        "War"
     ],
     "Characters": [
         {
@@ -2641,6 +2640,17 @@
                     "Didascalie": "",
                     "Start": 44716,
                     "End": 44731
+                }
+            ]
+        },
+        {
+            "Character": "ELIZABETH PUTNAM MARION   1738-1773",
+            "Replies": [
+                {
+                    "Reply": "Above her name is a carving of the night sky, at the center of which is the NORTH STAR, steady and guiding.",
+                    "Didascalie": "",
+                    "Start": 4831,
+                    "End": 4939
                 }
             ]
         },

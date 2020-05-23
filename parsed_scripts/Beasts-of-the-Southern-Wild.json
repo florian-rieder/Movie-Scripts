@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Beasts of the Southern Wild",
-        "   "
-    ],
+    "Title": "Beasts of the Southern Wild",
     "Author": [
-        "\u00a0\u00a0Lucy Alibar\u00a0\u00a0Benh Zeitlin"
+        "Lucy Alibar",
+        "Benh Zeitlin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -1986,6 +1985,23 @@
                     "Didascalie": "(O.S.) (from outside the door)",
                     "Start": 111281,
                     "End": 111390
+                }
+            ]
+        },
+        {
+            "Character": "EVACUATOR 2",
+            "Replies": [
+                {
+                    "Reply": "Ma'am we're not gonna shoot you.",
+                    "Didascalie": "",
+                    "Start": 112283,
+                    "End": 112316
+                },
+                {
+                    "Reply": "Relax, relax ma'am.",
+                    "Didascalie": "",
+                    "Start": 112860,
+                    "End": 112880
                 }
             ]
         },

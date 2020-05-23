@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Gremlins",
-        "   "
-    ],
+    "Title": "Gremlins",
     "Author": [
-        "\u00a0\u00a0Chris Columbus"
+        "Chris Columbus"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Horror"
+        "Comedy",
+        "Fantasy",
+        "Horror"
     ],
     "Characters": [
         {
@@ -256,17 +255,6 @@
                     "Didascalie": "",
                     "Start": 940,
                     "End": 1097
-                }
-            ]
-        },
-        {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "reaches out and grabs Rand's arm. Startled, he turns.",
-                    "Didascalie": "",
-                    "Start": 1732,
-                    "End": 1786
                 }
             ]
         },
@@ -2668,17 +2656,6 @@
             ]
         },
         {
-            "Character": "A THREE FINGERED BLACK CLAW",
-            "Replies": [
-                {
-                    "Reply": "suddenly breaks out of one cocoon. It clutches at the air.",
-                    "Didascalie": "",
-                    "Start": 57366,
-                    "End": 57435
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER CLAW",
             "Replies": [
                 {
@@ -2770,47 +2747,6 @@
             ]
         },
         {
-            "Character": "A CREATURE",
-            "Replies": [
-                {
-                    "Reply": "leaps from the attic, into the hallway.",
-                    "Didascalie": "",
-                    "Start": 63792,
-                    "End": 63832
-                },
-                {
-                    "Reply": "leaps from the overhead chandelier. It lands on Billy's back.",
-                    "Didascalie": "",
-                    "Start": 65819,
-                    "End": 65891
-                },
-                {
-                    "Reply": "crawls out of the swimming pool.",
-                    "Didascalie": "",
-                    "Start": 81552,
-                    "End": 81585
-                },
-                {
-                    "Reply": "hisses. Behind Billy.",
-                    "Didascalie": "",
-                    "Start": 92711,
-                    "End": 92733
-                },
-                {
-                    "Reply": "leaps onto the car's passenger' side. The creature grabs Frank' arm. He tries to shake off the creature.",
-                    "Didascalie": "",
-                    "Start": 102562,
-                    "End": 102677
-                },
-                {
-                    "Reply": "leaps out of the darkness and grabs Gary by the throat.",
-                    "Didascalie": "",
-                    "Start": 130781,
-                    "End": 130837
-                }
-            ]
-        },
-        {
             "Character": "UPSTAIRS HALLWAY",
             "Replies": [
                 {
@@ -2840,28 +2776,6 @@
                     "Didascalie": "",
                     "Start": 68999,
                     "End": 69036
-                }
-            ]
-        },
-        {
-            "Character": "A SWIFT SHADOW",
-            "Replies": [
-                {
-                    "Reply": "moves across the floor, behind Billy.",
-                    "Didascalie": "",
-                    "Start": 70784,
-                    "End": 70822
-                }
-            ]
-        },
-        {
-            "Character": "A CLAW",
-            "Replies": [
-                {
-                    "Reply": "tears the phone cord from the wall.",
-                    "Didascalie": "",
-                    "Start": 70913,
-                    "End": 70949
                 }
             ]
         },
@@ -2926,6 +2840,17 @@
                     "Didascalie": "",
                     "Start": 75332,
                     "End": 75362
+                }
+            ]
+        },
+        {
+            "Character": "PEGGY 0",
+            "Replies": [
+                {
+                    "Reply": "Gee, Skippy...You look cute.",
+                    "Didascalie": "",
+                    "Start": 73628,
+                    "End": 73657
                 }
             ]
         },
@@ -2999,17 +2924,6 @@
                     "Didascalie": "",
                     "Start": 79859,
                     "End": 79962
-                }
-            ]
-        },
-        {
-            "Character": "A BASKETBALL",
-            "Replies": [
-                {
-                    "Reply": "rolls to a stop at Billy's feet.",
-                    "Didascalie": "",
-                    "Start": 80124,
-                    "End": 80157
                 }
             ]
         },
@@ -3214,6 +3128,17 @@
             ]
         },
         {
+            "Character": "INT LIVING 7 0",
+            "Replies": [
+                {
+                    "Reply": "Destroyed by lithe creatures. Furniture. is overturned.",
+                    "Didascalie": "",
+                    "Start": 116020,
+                    "End": 116076
+                }
+            ]
+        },
+        {
             "Character": "GARY I",
             "Replies": [
                 {
@@ -3284,17 +3209,6 @@
                     "Didascalie": "",
                     "Start": 138145,
                     "End": 138204
-                }
-            ]
-        },
-        {
-            "Character": "A GREENHOUSE",
-            "Replies": [
-                {
-                    "Reply": "sits in a large open area. It overlooks the entire town of Kingston Falls.",
-                    "Didascalie": "",
-                    "Start": 136408,
-                    "End": 136493
                 }
             ]
         },

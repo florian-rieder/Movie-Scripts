@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Black Swan",
-        "   "
-    ],
+    "Title": "Black Swan",
     "Author": [
-        "\u00a0\u00a0Mark Heyman\u00a0\u00a0Andres Heinz\u00a0\u00a0John McLaughlin"
+        "Mark Heyman",
+        "Andres Heinz",
+        "John McLaughlin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1910,6 +1911,23 @@
                     "Didascalie": "",
                     "Start": 10946,
                     "End": 10968
+                }
+            ]
+        },
+        {
+            "Character": "SOLOIST 1",
+            "Replies": [
+                {
+                    "Reply": "No one comes to see ballet period.",
+                    "Didascalie": "",
+                    "Start": 9953,
+                    "End": 9988
+                },
+                {
+                    "Reply": "Like who?",
+                    "Didascalie": "",
+                    "Start": 10418,
+                    "End": 10428
                 }
             ]
         },

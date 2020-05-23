@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Valkyrie",
-        "   "
-    ],
+    "Title": "Valkyrie",
     "Author": [
-        "\u00a0\u00a0Christopher McQuarrie\u00a0\u00a0Nathan Alexander"
+        "Christopher McQuarrie",
+        "Nathan Alexander"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller\u00a0\u00a0War"
+        "Drama",
+        "Thriller",
+        "War"
     ],
     "Characters": [
         {

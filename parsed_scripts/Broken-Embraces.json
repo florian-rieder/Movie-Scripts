@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "Broken Embraces",
-        "   "
-    ],
+    "Title": "Broken Embraces",
     "Author": [
-        "\u00a0\u00a0Pedro Almodovar"
+        "Pedro Almodovar"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Drama",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "BROKEN EMBRACES",
-            "Replies": [
-                {
-                    "Reply": "Written by  Pedro Almodovar        DUSK, OR NIGHT HAS ONLY BARELY FALLEN.",
-                    "Didascalie": "",
-                    "Start": 106,
-                    "End": 258
-                }
-            ]
-        },
         {
             "Character": "JUDIT",
             "Replies": [

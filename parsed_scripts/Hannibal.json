@@ -1,24 +1,16 @@
 {
-    "Title": [
-        "Hannibal",
-        "   "
-    ],
+    "Title": "Hannibal",
     "Author": [
-        "\u00a0\u00a0Steven Zaillian"
+        "Steven Zaillian"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
             "Character": "HANNIBAL",
             "Replies": [
-                {
-                    "Reply": "Screenplay by David Mamet  From the Novel by Thomas Harris           September 8, 1999                INT MIDWIVES OFFICE DAY.",
-                    "Didascalie": "",
-                    "Start": 89,
-                    "End": 345
-                },
                 {
                     "Reply": "Young man...",
                     "Didascalie": "",
@@ -305,12 +297,6 @@
                     "End": 30162
                 },
                 {
-                    "Reply": "INT COPBAR NIGHT.",
-                    "Didascalie": "(SHE RISES)",
-                    "Start": 30193,
-                    "End": 30219
-                },
-                {
                     "Reply": "Alcohol.  Where both its life-enhancing And its life destroying qualities...",
                     "Didascalie": "",
                     "Start": 31117,
@@ -591,12 +577,6 @@
                     "Didascalie": "",
                     "Start": 69226,
                     "End": 69266
-                },
-                {
-                    "Reply": "That ain't my case.  They assigned me, go do some legwork, Theft of Government Property.  Tha's what I'm gonna do, and then go home and burn the roast.  How the hell about that--I'm gonna swim with the current, and I don't care where he is.  AS BRIGHAM IS GATHERING HIS STUFF, HE DROPS THE CARD STARLING GAVE HIM, ON THE FILE WHICH WAS STARLING'S.  WE READ:  \"NONE OF THIS IS IN YOUR CONTROL.  BE HAPPY.  BE KIND.\" AND, AS BRIGHAM'S HANDS COME INTO THE FRAME TO GATHER THE MATERIAL UP, WE SEE THE AUCTION HOUSE CATALOGUE, AND THE PHOTO OF THE DRAWING, AND STARLING'S NOTES:  LION AND BIRD, MARBLE SCULPTURE __________ CEMETERY, FLORENCE, ITALY.  INT ALITALIA AIRLINER DAY.",
-                    "Didascalie": "",
-                    "Start": 69837,
-                    "End": 70657
                 },
                 {
                     "Reply": "I hereby acknowledge that...",
@@ -2471,12 +2451,6 @@
                     "End": 233326
                 },
                 {
-                    "Reply": "I'm awake.  Oh.  Is it Time!  CORDELL STARTS TO PUSH THE GURNEYBED OUT OF THE ROOM.",
-                    "Didascalie": "",
-                    "Start": 234807,
-                    "End": 234897
-                },
-                {
                     "Reply": "OHFORGODSAKE, get ON with it.  CORDELL MOVES TO THE FORKLIFT, STARTS IT, AND IT MOVES TOWARD THE GURNEY.",
                     "Didascalie": "",
                     "Start": 235942,
@@ -2684,17 +2658,6 @@
                     "Didascalie": "",
                     "Start": 85710,
                     "End": 85739
-                }
-            ]
-        },
-        {
-            "Character": "A THIRD OLD MAN",
-            "Replies": [
-                {
-                    "Reply": "Let him read the note...",
-                    "Didascalie": "",
-                    "Start": 82426,
-                    "End": 82451
                 }
             ]
         },
@@ -3010,12 +2973,6 @@
                     "Didascalie": "(PAUSE)",
                     "Start": 100296,
                     "End": 100453
-                },
-                {
-                    "Reply": "If you'll come down the street I will make you a cup of coffee.  INT BARNEY'S APARTMENT DAY.  AS THEY ENTER, THE APARTMENT WITH MANY DEADBOLTS.  STARLING ENTERS WARILY AND TAKES A SEAT WITH HER BACK TO THE WALL, IN THE SMALL STUDIO.  AS BARNEY BEGINS MAKING COFFEE.",
-                    "Didascalie": "",
-                    "Start": 100590,
-                    "End": 100901
                 },
                 {
                     "Reply": "You almost took down Evelda Drumgo.",
@@ -3416,12 +3373,6 @@
                     "Didascalie": "",
                     "Start": 202408,
                     "End": 202450
-                },
-                {
-                    "Reply": "Well...well...what did you have in mind...?  INT FBI HEADQUARTERS DAY.  CRAWFORD AND KRENDLER BOTH LOOKING AT CNN.",
-                    "Didascalie": "",
-                    "Start": 203490,
-                    "End": 203633
                 }
             ]
         },

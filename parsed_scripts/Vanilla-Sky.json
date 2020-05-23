@@ -1,26 +1,15 @@
 {
-    "Title": [
-        "Vanilla Sky",
-        "   "
-    ],
+    "Title": "Vanilla Sky",
     "Author": [
-        "\u00a0\u00a0Cameron Crowe"
+        "Cameron Crowe"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Mystery",
+        "Romance",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "A BLINK OF AN IMAGE",
-            "Replies": [
-                {
-                    "Reply": "New York City from a perspective of flight, not an airplane, a swooping diving shot. Back to black.",
-                    "Didascalie": "",
-                    "Start": 336,
-                    "End": 446
-                }
-            ]
-        },
         {
             "Character": "JULIANNA",
             "Replies": [
@@ -5408,17 +5397,6 @@
                     "Didascalie": "",
                     "Start": 147745,
                     "End": 147839
-                }
-            ]
-        },
-        {
-            "Character": "A FLASH OF FAMILIAR IMAGES",
-            "Replies": [
-                {
-                    "Reply": "from the life and psyche of his youth. Mirrored in David's life in moments we've already seen.",
-                    "Didascalie": "",
-                    "Start": 149841,
-                    "End": 149946
                 }
             ]
         },

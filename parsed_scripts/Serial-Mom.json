@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Serial Mom",
-        "   "
-    ],
+    "Title": "Serial Mom",
     "Author": [
-        "\u00a0\u00a0John Waters"
+        "John Waters"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Horror"
+        "Comedy",
+        "Crime",
+        "Horror"
     ],
     "Characters": [
         {
@@ -3428,17 +3427,6 @@
             ]
         },
         {
-            "Character": "ROOKIE",
-            "Replies": [
-                {
-                    "Reply": "MAY DAY!! MAY DAY!!",
-                    "Didascalie": "",
-                    "Start": 89152,
-                    "End": 89172
-                }
-            ]
-        },
-        {
             "Character": "DISPATCHER",
             "Replies": [
                 {
@@ -3492,12 +3480,6 @@
                     "Didascalie": "",
                     "Start": 109501,
                     "End": 109623
-                },
-                {
-                    "Reply": "...If ever there was a time to go on record against the death penalty, WASN'T IT THAT NIGHT?!...",
-                    "Didascalie": "",
-                    "Start": 109752,
-                    "End": 109885
                 },
                 {
                     "Reply": "CAPITAL PUNISHMENT is already the LAW in the State of Maryland!...",

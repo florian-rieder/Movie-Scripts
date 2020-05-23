@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Tall in the Saddle",
-        "   "
-    ],
+    "Title": "Tall in the Saddle",
     "Author": [
-        "\u00a0\u00a0Michael Hogan\u00a0\u00a0Paul P Fix\u00a0\u00a0Gordon Ray Young"
+        "Michael Hogan",
+        "Paul P Fix",
+        "Gordon Ray Young"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Western\u00a0\u00a0Romance"
+        "Mystery",
+        "Western",
+        "Romance"
     ],
     "Characters": [
         {

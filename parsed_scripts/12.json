@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "12",
-        "   "
-    ],
+    "Title": "12",
     "Author": [
-        "\u00a0\u00a0Lawrence Bridges"
+        "Lawrence Bridges"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -1032,12 +1029,6 @@
                     "End": 24417
                 },
                 {
-                    "Reply": "I want to cure my passive aggressive personality.  From now on when I want something I'm going to ask for it. I'm going to learn how to be more observant of signs and consider how other people might need clearer signals from me.  GUY 1 Why don't you get a job. That's what the man says....",
-                    "Didascalie": "",
-                    "Start": 24602,
-                    "End": 24911
-                },
-                {
                     "Reply": "I think I know what's going on here.",
                     "Didascalie": "",
                     "Start": 28544,
@@ -1780,6 +1771,62 @@
                     "Didascalie": "",
                     "Start": 24514,
                     "End": 24539
+                }
+            ]
+        },
+        {
+            "Character": "GUY 1",
+            "Replies": [
+                {
+                    "Reply": "Why don't you get a job. That's what the man says....",
+                    "Didascalie": "",
+                    "Start": 24855,
+                    "End": 24911
+                },
+                {
+                    "Reply": "Join a group. Do something for other people.",
+                    "Didascalie": "",
+                    "Start": 24985,
+                    "End": 25032
+                }
+            ]
+        },
+        {
+            "Character": "GUY 2",
+            "Replies": [
+                {
+                    "Reply": "...You look good, you'd do great in an interview.",
+                    "Didascalie": "",
+                    "Start": 24922,
+                    "End": 24974
+                }
+            ]
+        },
+        {
+            "Character": "GUY 3",
+            "Replies": [
+                {
+                    "Reply": "Go up and talk to people. See if you have someone in common...",
+                    "Didascalie": "",
+                    "Start": 25043,
+                    "End": 25108
+                },
+                {
+                    "Reply": "Ride the bus....",
+                    "Didascalie": "",
+                    "Start": 25219,
+                    "End": 25236
+                }
+            ]
+        },
+        {
+            "Character": "GUY 4",
+            "Replies": [
+                {
+                    "Reply": "Do some charity work...",
+                    "Didascalie": "",
+                    "Start": 25119,
+                    "End": 25143
                 }
             ]
         },

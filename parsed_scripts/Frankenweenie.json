@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Frankenweenie",
-        "   "
-    ],
+    "Title": "Frankenweenie",
     "Author": [
-        "\u00a0\u00a0John August"
+        "John August"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Family"
+        "Animation",
+        "Comedy",
+        "Family"
     ],
     "Characters": [
         {
@@ -2350,17 +2349,6 @@
             ]
         },
         {
-            "Character": "A CAR",
-            "Replies": [
-                {
-                    "Reply": "SCREECHES up at him.      Sparky reacts.    We CUT AWAY as the car hits.",
-                    "Didascalie": "",
-                    "Start": 23717,
-                    "End": 23790
-                }
-            ]
-        },
-        {
             "Character": "CHILDREN",
             "Replies": [
                 {
@@ -2492,6 +2480,17 @@
                     "Didascalie": "",
                     "Start": 62339,
                     "End": 62382
+                }
+            ]
+        },
+        {
+            "Character": "TOWNSFOLK 1",
+            "Replies": [
+                {
+                    "Reply": "Look out it's on fire!",
+                    "Didascalie": "",
+                    "Start": 102074,
+                    "End": 102097
                 }
             ]
         },

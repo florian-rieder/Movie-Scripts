@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ocean's Twelve",
-        "   "
-    ],
+    "Title": "Ocean's Twelve",
     "Author": [
-        "\u00a0\u00a0George Nolfi"
+        "George Nolfi"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -6132,6 +6131,28 @@
                     "Didascalie": "(speaking like an American)",
                     "Start": 209702,
                     "End": 209774
+                }
+            ]
+        },
+        {
+            "Character": "ITALIAN COP 1",
+            "Replies": [
+                {
+                    "Reply": "Pasqualli runs circles around Bologna's backfield every time.",
+                    "Didascalie": "",
+                    "Start": 146813,
+                    "End": 146891
+                }
+            ]
+        },
+        {
+            "Character": "ITALIAN COP 2",
+            "Replies": [
+                {
+                    "Reply": "Pasqualli could single-handedly--",
+                    "Didascalie": "",
+                    "Start": 146959,
+                    "End": 146993
                 }
             ]
         },

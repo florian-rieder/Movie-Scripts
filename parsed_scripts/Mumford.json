@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Mumford",
-        "   "
-    ],
+    "Title": "Mumford",
     "Author": [
-        "\u00a0\u00a0Lawrence Kasdan"
+        "Lawrence Kasdan"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Date Night",
-        "   "
-    ],
+    "Title": "Date Night",
     "Author": [
-        "\u00a0\u00a0Josh Klausner"
+        "Josh Klausner"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Romance"
+        "Comedy",
+        "Crime",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5221,17 +5220,6 @@
                     "Didascalie": "",
                     "Start": 93530,
                     "End": 93564
-                }
-            ]
-        },
-        {
-            "Character": "A FEW FBI AGENTS",
-            "Replies": [
-                {
-                    "Reply": "He wants your keycard.",
-                    "Didascalie": "",
-                    "Start": 97612,
-                    "End": 97635
                 }
             ]
         },

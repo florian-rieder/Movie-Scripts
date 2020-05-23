@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Bad Boys",
-        "   "
-    ],
+    "Title": "Bad Boys",
     "Author": [
-        "\u00a0\u00a0Michael Barrie\u00a0\u00a0Jim Mulholland\u00a0\u00a0Doug Richardson"
+        "Michael Barrie",
+        "Jim Mulholland",
+        "Doug Richardson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy"
+        "Action",
+        "Comedy"
     ],
     "Characters": [
         {

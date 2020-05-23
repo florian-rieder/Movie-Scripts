@@ -1,13 +1,1850 @@
 {
-    "Title": [
-        "Village, The",
-        "   "
-    ],
+    "Title": "Village, The",
     "Author": [
-        "\u00a0\u00a0M. Night Shyamalan"
+        "M. Night Shyamalan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "EDWARD WALKER",
+            "Replies": [
+                {
+                    "Reply": "We are grateful for the time we have been given.",
+                    "Didascalie": "",
+                    "Start": 1955,
+                    "End": 2004
+                }
+            ]
+        },
+        {
+            "Character": "EDWARD",
+            "Replies": [
+                {
+                    "Reply": "What manner of spectacle has attracted your attention so splendidly?  I ought to carry it in my pocket to help me teach.",
+                    "Didascalie": "",
+                    "Start": 4158,
+                    "End": 4280
+                },
+                {
+                    "Reply": "Who came upon this?  Philip, did you move this?",
+                    "Didascalie": "",
+                    "Start": 4364,
+                    "End": 4412
+                },
+                {
+                    "Reply": "I see.",
+                    "Didascalie": "",
+                    "Start": 4800,
+                    "End": 4807
+                },
+                {
+                    "Reply": "But who is the culprit?  Who has done this heinous act?   The girl who spoke before hesitates, but she decides to voice what is in all their minds.",
+                    "Didascalie": "",
+                    "Start": 4843,
+                    "End": 4993
+                },
+                {
+                    "Reply": "There it is.  Why would such a notion come into your mind?",
+                    "Didascalie": "",
+                    "Start": 5048,
+                    "End": 5107
+                },
+                {
+                    "Reply": "Children...  Those We Don't Speak Of, have not breached our borders in many years.  We do NOT go into THEIR woods, they do NOT come into OUR valley.  It is a truce.  We do not threaten them.  Why would they do this?",
+                    "Didascalie": "",
+                    "Start": 5227,
+                    "End": 5444
+                },
+                {
+                    "Reply": "I do not have a say in this matter.  August Nicholson is chair of today's meeting.",
+                    "Didascalie": "",
+                    "Start": 6066,
+                    "End": 6149
+                },
+                {
+                    "Reply": "Do not feel worried, Kitty.",
+                    "Didascalie": "",
+                    "Start": 9700,
+                    "End": 9728
+                },
+                {
+                    "Reply": "I am certain it will all end soon.",
+                    "Didascalie": "",
+                    "Start": 9771,
+                    "End": 9806
+                },
+                {
+                    "Reply": "It would be a relief.",
+                    "Didascalie": "",
+                    "Start": 9872,
+                    "End": 9894
+                },
+                {
+                    "Reply": "There's a proper manner in which these things are supposed to happen, such as the boy would normally be standing next to you, in a moment such as this!  Where is the BOY in all this, Kitty?!",
+                    "Didascalie": "",
+                    "Start": 10154,
+                    "End": 10346
+                },
+                {
+                    "Reply": "The young man is unaware of your intentions?!",
+                    "Didascalie": "",
+                    "Start": 10402,
+                    "End": 10448
+                },
+                {
+                    "Reply": "Kitty!",
+                    "Didascalie": "",
+                    "Start": 10615,
+                    "End": 10622
+                },
+                {
+                    "Reply": "Lucius.",
+                    "Didascalie": "",
+                    "Start": 10691,
+                    "End": 10699
+                },
+                {
+                    "Reply": "No.  No, I have been thinking about him.",
+                    "Didascalie": "",
+                    "Start": 10746,
+                    "End": 10787
+                },
+                {
+                    "Reply": "Look, do me one favor first.  Do NOT tell anyone else of your burstings until you have spoken with the young man.",
+                    "Didascalie": "",
+                    "Start": 11045,
+                    "End": 11160
+                },
+                {
+                    "Reply": "You are fearless in a way that I shall never know.  Lucius shakes badly, but manages the tiny beginnings of a smile.",
+                    "Didascalie": "",
+                    "Start": 31112,
+                    "End": 31230
+                },
+                {
+                    "Reply": "We are grateful... for the time we have been given.",
+                    "Didascalie": "",
+                    "Start": 31574,
+                    "End": 31626
+                },
+                {
+                    "Reply": "You are certain?   They nod.",
+                    "Didascalie": "",
+                    "Start": 35331,
+                    "End": 35362
+                },
+                {
+                    "Reply": "Can you boys stay close to Ivy, here?  She'll tell you some funny stories and have you laughing soon.",
+                    "Didascalie": "",
+                    "Start": 35373,
+                    "End": 35475
+                },
+                {
+                    "Reply": "We will go together.",
+                    "Didascalie": "",
+                    "Start": 35665,
+                    "End": 35686
+                },
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 42602,
+                    "End": 42614
+                },
+                {
+                    "Reply": "Ivy.  Come away.  COme away.",
+                    "Didascalie": "",
+                    "Start": 43795,
+                    "End": 43824
+                },
+                {
+                    "Reply": "Take her!!!  Take her!!!",
+                    "Didascalie": "",
+                    "Start": 43916,
+                    "End": 43941
+                },
+                {
+                    "Reply": "I know.",
+                    "Didascalie": "",
+                    "Start": 45254,
+                    "End": 45262
+                },
+                {
+                    "Reply": "What can be done to mend him?",
+                    "Didascalie": "",
+                    "Start": 45733,
+                    "End": 45763
+                },
+                {
+                    "Reply": "If there were no limitations, what could be done?",
+                    "Didascalie": "",
+                    "Start": 45803,
+                    "End": 45853
+                },
+                {
+                    "Reply": "Is there anything at all that can be done to mend the boy?  Please, Victor, would you be so kind as to answer my question.   Victor is stunned.  He says nothing for a moment.",
+                    "Didascalie": "",
+                    "Start": 45906,
+                    "End": 46084
+                },
+                {
+                    "Reply": "The moment I heard my daughter's vision had finally failed her, and that she would forever be blind, I was sitting in that very chair.  I was so ashamed.   ---",
+                    "Didascalie": "",
+                    "Start": 47089,
+                    "End": 47252
+                },
+                {
+                    "Reply": "What do you know about your grandfather?",
+                    "Didascalie": "",
+                    "Start": 47350,
+                    "End": 47391
+                },
+                {
+                    "Reply": "That he was, he had a gift for that.  If he was given one dollar, in less than a fortnight, he would have turned it into five.  You do not know of money.  It is not part of our life here.  Money can be a wicked thing.  It can turn men's hearts black.  Good men's hearts.  My father could not see this, for all his gifts.  He was a poor judge of a man's character.  Your grandfather WAS a good man, Ivy.  He had a laugh that could be heard three houses away.  He used to hold my hand as I hold yours.  He taught me strength, and showed me love, and told me to lead when others would only follow.  Your grandfather, James Walker, died in his sleep.  A man put a gun to his head and shot him while he dreamed.  I tell you this so you will understand some of the reasons for my actions, and the actions of others.  You are a strong one, Ivy.  You lead when others would only follow.  You see light, when there is only darkness.  I trust you.  I trust you among all others.",
+                    "Didascalie": "",
+                    "Start": 47500,
+                    "End": 48477
+                },
+                {
+                    "Reply": "Ivy, do you know where you are?",
+                    "Didascalie": "",
+                    "Start": 48600,
+                    "End": 48632
+                },
+                {
+                    "Reply": "Yeah.  Ivy.",
+                    "Didascalie": "",
+                    "Start": 48802,
+                    "End": 48814
+                },
+                {
+                    "Reply": "Do your very best not to scream.",
+                    "Didascalie": "",
+                    "Start": 48846,
+                    "End": 48879
+                },
+                {
+                    "Reply": "Ivy... has asked... to go to the towns... for medicines.   The elders are shocked.",
+                    "Didascalie": "",
+                    "Start": 49584,
+                    "End": 49669
+                },
+                {
+                    "Reply": "It is ahead of you.",
+                    "Didascalie": "",
+                    "Start": 51945,
+                    "End": 51965
+                },
+                {
+                    "Reply": "Do not be frightened.  It is only... farce.  Do not be frightened.",
+                    "Didascalie": "",
+                    "Start": 52319,
+                    "End": 52386
+                },
+                {
+                    "Reply": "There did exist rumors of creatures in these woods.  It is one of the history books I used to teach in the towns.",
+                    "Didascalie": "",
+                    "Start": 52753,
+                    "End": 52868
+                },
+                {
+                    "Reply": "We created those sounds.",
+                    "Didascalie": "",
+                    "Start": 52917,
+                    "End": 52942
+                },
+                {
+                    "Reply": "We remove it ourselves.  An elder is always assigned.",
+                    "Didascalie": "",
+                    "Start": 52983,
+                    "End": 53037
+                },
+                {
+                    "Reply": "We did not want anyone to go to the towns, Ivy.",
+                    "Didascalie": "",
+                    "Start": 53124,
+                    "End": 53172
+                },
+                {
+                    "Reply": "I BELIEVE ONE of the elders is responsible.  It will not happen again.  There is no one in this village who has not lost someone irreplaceable, who has nt felt loss so deeply that they questioned the very merit of living at all.",
+                    "Didascalie": "",
+                    "Start": 53279,
+                    "End": 53509
+                },
+                {
+                    "Reply": "It is a darkness I wished... you would never know.",
+                    "Didascalie": "",
+                    "Start": 53596,
+                    "End": 53647
+                },
+                {
+                    "Reply": "Forgive us our silly lies, Ivy.  They were not meant to harm.   Edward holds her.  She seems to come to a decision.",
+                    "Didascalie": "",
+                    "Start": 53678,
+                    "End": 53796
+                },
+                {
+                    "Reply": "On this paper has been written a tool of medicine.  It is common in the towns.  You will go... with two escorts.  Follow the sounds of a stream.  A half-day's journey will bring you to a hidden road.  At this hidden road, the two escorts will wait as you continue.  You alone will follow the road... and leave Covington Woods.  You are to tell no one in the towns where we are... and return with haste.  I cannot come with you.  You gave your heart to this boy.  He is in need.  Are you ready to take this burden, which by right, is yours and yours alone?",
+                    "Didascalie": "",
+                    "Start": 54087,
+                    "End": 54647
+                },
+                {
+                    "Reply": "Alice, I've sent for help.   Alice turns to him, hopeful.",
+                    "Didascalie": "",
+                    "Start": 54857,
+                    "End": 54917
+                },
+                {
+                    "Reply": "It is all that I can give you.  It is all that I can give you.",
+                    "Didascalie": "",
+                    "Start": 54993,
+                    "End": 55056
+                },
+                {
+                    "Reply": "He is the victim of a crime.   MRS. CLACK We have agreed NEVER to go back, NEVER.",
+                    "Didascalie": "",
+                    "Start": 55513,
+                    "End": 55599
+                },
+                {
+                    "Reply": "What was the purpose of our leaving?  Let us not forget it was out of hope of something good and right.",
+                    "Didascalie": "",
+                    "Start": 55610,
+                    "End": 55714
+                },
+                {
+                    "Reply": "She's more capable than most in this village... and she is led by love.  The world moves for love.  It kneels before it in awe.   ---",
+                    "Didascalie": "",
+                    "Start": 57016,
+                    "End": 57153
+                },
+                {
+                    "Reply": "His will to live is very strong.   ---",
+                    "Didascalie": "",
+                    "Start": 61818,
+                    "End": 61859
+                },
+                {
+                    "Reply": "My father was shot by a business partner, who then hanged himself in my father's closet.  They had argued over money.  I am a professor.  I teach American History at the University of Pennsylvania.  I have an idea that I would like to talk to you about.   ---",
+                    "Didascalie": "",
+                    "Start": 64578,
+                    "End": 64842
+                },
+                {
+                    "Reply": "We will find him.  We will give him... a proper burial.  We will tell the others... he was killed by the creatures.  Your son has made our stories real.  Noah has given us a chance to continue this place.  If that is something... we still wish for.",
+                    "Didascalie": "",
+                    "Start": 69587,
+                    "End": 69838
+                }
+            ]
+        },
+        {
+            "Character": "PHILIP",
+            "Replies": [
+                {
+                    "Reply": "No, Mr. Walker.",
+                    "Didascalie": "",
+                    "Start": 4423,
+                    "End": 4439
+                }
+            ]
+        },
+        {
+            "Character": "GIRL",
+            "Replies": [
+                {
+                    "Reply": "I inspected it carefully.  Its head was twisted back, and much of its fur removed.",
+                    "Didascalie": "",
+                    "Start": 4706,
+                    "End": 4789
+                },
+                {
+                    "Reply": "Those We Don't Speak Of killed it.",
+                    "Didascalie": "",
+                    "Start": 5002,
+                    "End": 5037
+                },
+                {
+                    "Reply": "They have large claws.",
+                    "Didascalie": "",
+                    "Start": 5193,
+                    "End": 5216
+                },
+                {
+                    "Reply": "Why don't they grab it?",
+                    "Didascalie": "",
+                    "Start": 15231,
+                    "End": 15255
+                }
+            ]
+        },
+        {
+            "Character": "BOY",
+            "Replies": [
+                {
+                    "Reply": "It was murdered.",
+                    "Didascalie": "",
+                    "Start": 4815,
+                    "End": 4832
+                },
+                {
+                    "Reply": "They're meat-eaters.",
+                    "Didascalie": "",
+                    "Start": 5115,
+                    "End": 5136
+                },
+                {
+                    "Reply": "Ivy has returned with medicines from the towns.  She was attacked by a creature and killed it.   He dashes off.  Vivian begins to sob over her lost son.",
+                    "Didascalie": "",
+                    "Start": 69394,
+                    "End": 69549
+                }
+            ]
+        },
+        {
+            "Character": "VIVIAN",
+            "Replies": [
+                {
+                    "Reply": "And we ought not to.... overlook The Flight of the Birds.  We didn't have it last year, and I, for one, missed it desperately.  And I know your wife missed the children, dressed in feathers and such.",
+                    "Didascalie": "",
+                    "Start": 5787,
+                    "End": 5988
+                },
+                {
+                    "Reply": "Who has written this note?   No one answers.  She stands, clears her throat, and reads it aloud.",
+                    "Didascalie": "",
+                    "Start": 30145,
+                    "End": 30244
+                },
+                {
+                    "Reply": "Please read so that all may hear.  I have brought this burden upon us.  On the day before last, I crossed the forbidden line into Covington Woods...",
+                    "Didascalie": "",
+                    "Start": 30255,
+                    "End": 30405
+                },
+                {
+                    "Reply": "... and was witnessed there by Those We Don't Speak Of.  I am deeply sorry.  I have shamed myself and my family.  I pray that my actions will cause no further pains.  With deepest sorrow...... Lucius Hunt.",
+                    "Didascalie": "",
+                    "Start": 30456,
+                    "End": 30663
+                },
+                {
+                    "Reply": "Noah?  You'll be late for the meeting hall.  Would you like your father to walk you there?  Noah?",
+                    "Didascalie": "",
+                    "Start": 42064,
+                    "End": 42162
+                },
+                {
+                    "Reply": "Noah?",
+                    "Didascalie": "",
+                    "Start": 60698,
+                    "End": 60704
+                },
+                {
+                    "Reply": "Where is HE?",
+                    "Didascalie": "",
+                    "Start": 60841,
+                    "End": 60854
+                },
+                {
+                    "Reply": "Oh, no.  Oh, God.  The animals!",
+                    "Didascalie": "",
+                    "Start": 61109,
+                    "End": 61141
+                },
+                {
+                    "Reply": "Noah.  Oh, God.",
+                    "Didascalie": "",
+                    "Start": 69560,
+                    "End": 69576
+                }
+            ]
+        },
+        {
+            "Character": "TABITHA",
+            "Replies": [
+                {
+                    "Reply": "I am fond of it.",
+                    "Didascalie": "",
+                    "Start": 6000,
+                    "End": 6017
+                },
+                {
+                    "Reply": "I must speak up.  You have a restless spirit.  I know the thing that is in your head.  You're thinking of going to the towns.  Tell me I'm wrong.  You have made an oath, Edward, as all have, never to go back.  It is a painful bargain, but no good can come without sacrifice.  These are your words I'm saying.  You cannot break the oath. It is sacred.",
+                    "Didascalie": "",
+                    "Start": 46233,
+                    "End": 46588
+                },
+                {
+                    "Reply": "YOU have taken the oath, you and the rest of the elders, are you listening to me?  YOU.... have taken the oath.",
+                    "Didascalie": "",
+                    "Start": 46657,
+                    "End": 46769
+                }
+            ]
+        },
+        {
+            "Character": "MAN",
+            "Replies": [
+                {
+                    "Reply": "There is a young man who has requested a word with the elders.",
+                    "Didascalie": "",
+                    "Start": 6294,
+                    "End": 6357
+                },
+                {
+                    "Reply": "I beg your pardon.",
+                    "Didascalie": "",
+                    "Start": 42572,
+                    "End": 42591
+                },
+                {
+                    "Reply": "There's been an accident.",
+                    "Didascalie": "",
+                    "Start": 42622,
+                    "End": 42648
+                },
+                {
+                    "Reply": "What's with the girl?  I tried calling you back on the walkie, you didn't answer.",
+                    "Didascalie": "",
+                    "Start": 67757,
+                    "End": 67839
+                },
+                {
+                    "Reply": "Can I give you some advice?  Don't get into conversations.  You start talkin', you start gettin' into how some estate is payin' all of us, and no one's allowed to go in there and disturb the animal sanctuary.  People's interest gets piqued.  It's a really easy gig, Kevin.  Maintain and protect the border.  A few years ago, it got out in the papers that some government guys had been paid off to keep plane routes from flying over this place.  That was a very stresful time for me.  Don't cause me any troubles.  Do not get into conversations.   The man goes back to his newspaper.  Kevin walks over to the side table and munches on some snacks, all the while putting the items on Ivy's list in his pocket, including antibiotics.  He walks to the door, then as an afterthought, he turns back to his boss.",
+                    "Didascalie": "",
+                    "Start": 67906,
+                    "End": 68720
+                }
+            ]
+        },
+        {
+            "Character": "AUGUST",
+            "Replies": [
+                {
+                    "Reply": "Well, do have him come forward.",
+                    "Didascalie": "",
+                    "Start": 6368,
+                    "End": 6400
+                },
+                {
+                    "Reply": "Hello, Lucius.",
+                    "Didascalie": "",
+                    "Start": 6761,
+                    "End": 6776
+                },
+                {
+                    "Reply": "I often wondered if yu and my son bonded because neither of you were fond of speaking.  You're very kind. You must pardon my manners, I haven't slept in many nights.   ---",
+                    "Didascalie": "",
+                    "Start": 13089,
+                    "End": 13265
+                },
+                {
+                    "Reply": "You know, like a dog can smell you.",
+                    "Didascalie": "",
+                    "Start": 14095,
+                    "End": 14131
+                },
+                {
+                    "Reply": "You may run from sorrow, as we have.  Sorrow will find you.  It can smell you.",
+                    "Didascalie": "",
+                    "Start": 14179,
+                    "End": 14258
+                },
+                {
+                    "Reply": "I had a difficult time getting away.  What is it?",
+                    "Didascalie": "",
+                    "Start": 49467,
+                    "End": 49517
+                },
+                {
+                    "Reply": "Let her go.  If it ends, it ends.  We can move towards hope, it's what's beautiful about this place.  We must not run from heartache.  You know, my brother was slain in the towns.  The rest of my family died here.  Heartache is a part of life.  We know that now.  Ivy's running toward hope, let her run.  If this place is worthy, she'll be successful in her quest.   MRS. CLACK How could you have sent HER?  She's blind.",
+                    "Didascalie": "",
+                    "Start": 56577,
+                    "End": 57005
+                },
+                {
+                    "Reply": "My brother worked in an emergency room downtown.  A drug addict came in with a wound to his ribs.  My brother tried to dress the wound.  He pulled a gun from his jacket, then he shot my brother through his left eye.",
+                    "Didascalie": "",
+                    "Start": 63716,
+                    "End": 63933
+                }
+            ]
+        },
+        {
+            "Character": "LUCIUS",
+            "Replies": [
+                {
+                    "Reply": "My mother is unaware of the reason for my visit today.  She did not give her consent, or consult me in any form.  The passing of little Daniel Nicholson, from illness, and other events, have weighed on my thoughts.  I ask permission to cross into the forbidden woods and travel to the nearest town.  I will gather medicines, and I will return.  With regards to Those We Don't Speak Of, I am certain they will let me pass.  Creatures can sense emotion and fear.  They will see I am pure of intention, and not afraid.  The end.   His voice has been shaky throughout.  It is clear that such a long speech from him is an unheard-of, thing, and that he is normally so quiet that people ask him to speak up.  The elders stare at him.  The wind moans past the watchtower.",
+                    "Didascalie": "",
+                    "Start": 6787,
+                    "End": 7559
+                },
+                {
+                    "Reply": "Finton Coin is in the tower, and I've promised to sit with him.",
+                    "Didascalie": "",
+                    "Start": 8074,
+                    "End": 8138
+                },
+                {
+                    "Reply": "Do you ever think of the towns, Finton?",
+                    "Didascalie": "",
+                    "Start": 8335,
+                    "End": 8375
+                },
+                {
+                    "Reply": "Pardon me, Mr. Nicholson?",
+                    "Didascalie": "",
+                    "Start": 14142,
+                    "End": 14168
+                },
+                {
+                    "Reply": "You run like a boy.",
+                    "Didascalie": "",
+                    "Start": 18513,
+                    "End": 18533
+                },
+                {
+                    "Reply": "Be cautious.  You are holding the bad color.",
+                    "Didascalie": "",
+                    "Start": 19426,
+                    "End": 19471
+                },
+                {
+                    "Reply": "I've never set eyes on these before.  You did not pick that now.  Where did you find this?   Noah takes his hand and leads him around the side of the rock.  He is mentally retarded, but he knows that something has changed this afternoon.",
+                    "Didascalie": "",
+                    "Start": 19822,
+                    "End": 20063
+                },
+                {
+                    "Reply": "Today at Resting Rock, Noah Percy handed Ivy Walker berries of the bad color.  When asked where he found these berries, for they were not like others I have seen, he pointed to the drawing upon resting rock.",
+                    "Didascalie": "",
+                    "Start": 20144,
+                    "End": 20353
+                },
+                {
+                    "Reply": "This strengthens my feeling that they will let me pass if they sense I am not a threat.",
+                    "Didascalie": "",
+                    "Start": 20932,
+                    "End": 21020
+                },
+                {
+                    "Reply": "Why'd you tell me this blackness?",
+                    "Didascalie": "",
+                    "Start": 21448,
+                    "End": 21482
+                },
+                {
+                    "Reply": "village.",
+                    "Didascalie": "",
+                    "Start": 21658,
+                    "End": 21667
+                },
+                {
+                    "Reply": "I am not the one with secrets.",
+                    "Didascalie": "",
+                    "Start": 21741,
+                    "End": 21772
+                },
+                {
+                    "Reply": "There are secrets of every corner of this village.  Do you not feel it?  Do you not see it?",
+                    "Didascalie": "",
+                    "Start": 21815,
+                    "End": 21907
+                },
+                {
+                    "Reply": "He hides, too.  He hides his feelings for you.",
+                    "Didascalie": "",
+                    "Start": 22289,
+                    "End": 22336
+                },
+                {
+                    "Reply": "Sometimes, we don't do things, yet others know we want to do things, so we don't do them.",
+                    "Didascalie": "",
+                    "Start": 22442,
+                    "End": 22532
+                },
+                {
+                    "Reply": "You needent worry.  Nothing will happen to me.",
+                    "Didascalie": "",
+                    "Start": 22743,
+                    "End": 22790
+                },
+                {
+                    "Reply": "Are you not angry you have no sight?",
+                    "Didascalie": "",
+                    "Start": 24452,
+                    "End": 24489
+                },
+                {
+                    "Reply": "What of Noah, then?  What if there are medicines for Noah that could help him be still and to learn?",
+                    "Didascalie": "",
+                    "Start": 24617,
+                    "End": 24718
+                },
+                {
+                    "Reply": "To see how the border was breached?",
+                    "Didascalie": "",
+                    "Start": 37163,
+                    "End": 37199
+                },
+                {
+                    "Reply": "It is not safe.",
+                    "Didascalie": "",
+                    "Start": 37334,
+                    "End": 37350
+                },
+                {
+                    "Reply": "It's just children's games.",
+                    "Didascalie": "",
+                    "Start": 37689,
+                    "End": 37717
+                },
+                {
+                    "Reply": "Why can you not stop saying what is in yours?  Why must you lead, when I want to lead?  If I want to dance, I will ask you to dance.  If I want to speak, I will open my mouth and speak.  Everyone is forever plaguing me to speak further.  Why?  What... good is it to tell you you are in my every thought from the time I wake?  What good can come from my saying I-- I sometimes cannot think clearly, or- or do my work properly?  What gain can rise from my telling you... the only time I feel fear as others do, is when I think of you in harm?  That is why I am on this porch, Ivy Walker.  I fear for your safety above all others.  And yes...  I will dance with you on our wedding night.   He has been shaking and she has been calm, but now she starts to shake and tears fall from her cheeks.  He takes her face in his hand, and they gently kiss.   ---",
+                    "Didascalie": "",
+                    "Start": 38456,
+                    "End": 39316
+                },
+                {
+                    "Reply": "What's happened?",
+                    "Didascalie": "",
+                    "Start": 41244,
+                    "End": 41261
+                },
+                {
+                    "Reply": "I know you are very fond of her.  And I know she is fond of you.  There are different types of love.",
+                    "Didascalie": "",
+                    "Start": 41459,
+                    "End": 41560
+                }
+            ]
+        },
+        {
+            "Character": "ALICE",
+            "Replies": [
+                {
+                    "Reply": "Say something, Lucius.",
+                    "Didascalie": "",
+                    "Start": 8040,
+                    "End": 8063
+                },
+                {
+                    "Reply": "Hmm.",
+                    "Didascalie": "",
+                    "Start": 8148,
+                    "End": 8153
+                },
+                {
+                    "Reply": "What we SEEM to have amongst us, is a predator of some type, most likely a coyote, or a wolf.  Its manner of...",
+                    "Didascalie": "",
+                    "Start": 8832,
+                    "End": 8945
+                },
+                {
+                    "Reply": "Your father left for the market on a Tuesday, at a quarter past nine in the morning.  He was found, robbed and naked, in the filthy river, two days later.",
+                    "Didascalie": "",
+                    "Start": 21221,
+                    "End": 21377
+                },
+                {
+                    "Reply": "So you will know the nature of what you desire.",
+                    "Didascalie": "",
+                    "Start": 21492,
+                    "End": 21540
+                },
+                {
+                    "Reply": "Forgive me.  I am but scared for my only son's life.",
+                    "Didascalie": "",
+                    "Start": 21677,
+                    "End": 21730
+                },
+                {
+                    "Reply": "What is your meaning?",
+                    "Didascalie": "",
+                    "Start": 21782,
+                    "End": 21804
+                },
+                {
+                    "Reply": "That is for my own well-being, so the evil things from my past are kept close and not forgotten.  Forgetting would be to let them be born again in another form.",
+                    "Didascalie": "",
+                    "Start": 21980,
+                    "End": 22142
+                },
+                {
+                    "Reply": "Oh!",
+                    "Didascalie": "",
+                    "Start": 22346,
+                    "End": 22350
+                },
+                {
+                    "Reply": "What nonsense are you saying?",
+                    "Didascalie": "",
+                    "Start": 22702,
+                    "End": 22732
+                },
+                {
+                    "Reply": "You remind me of a colt sometimes.  She pauses a moment.",
+                    "Didascalie": "",
+                    "Start": 22800,
+                    "End": 22859
+                },
+                {
+                    "Reply": "What makes you think he has feelings for me?",
+                    "Didascalie": "",
+                    "Start": 22868,
+                    "End": 22913
+                },
+                {
+                    "Reply": "Many blessings on this most joyous of days.",
+                    "Didascalie": "",
+                    "Start": 33768,
+                    "End": 33812
+                },
+                {
+                    "Reply": "She holds out her hand, but he does not take it.  She balls it into a fist, smiles, and moves on.  When she turns back, Edward is clasping Mrs. Percy's hand and arm and talking with her.  She gives a startled smile, but seems pleased.",
+                    "Didascalie": "",
+                    "Start": 34019,
+                    "End": 34255
+                },
+                {
+                    "Reply": "Thank you, Beatrice.",
+                    "Didascalie": "",
+                    "Start": 39661,
+                    "End": 39682
+                },
+                {
+                    "Reply": "We were informed early this morning of their intentions.",
+                    "Didascalie": "",
+                    "Start": 39954,
+                    "End": 40011
+                },
+                {
+                    "Reply": "I am making fresh clothes for Lucius.  He needs them.",
+                    "Didascalie": "",
+                    "Start": 54792,
+                    "End": 54846
+                },
+                {
+                    "Reply": "You cannot...",
+                    "Didascalie": "",
+                    "Start": 54968,
+                    "End": 54982
+                },
+                {
+                    "Reply": "I accept.   He has stepped closer to her.  She makes to kiss him, but he turns his face.  She makes to put her head on his shoulder, but he leaves.  He understands the feeling that exists between them, but at the same time, without words, he is telling her that the feeling cannot be given voice or motion.",
+                    "Didascalie": "",
+                    "Start": 55066,
+                    "End": 55377
+                },
+                {
+                    "Reply": "My husband, Michael, left for the supermarket at a quarter past nine in the morning.  He was found with no money and no clothes, in the East River, three days later.",
+                    "Didascalie": "",
+                    "Start": 64400,
+                    "End": 64567
+                }
+            ]
+        },
+        {
+            "Character": "FINTON",
+            "Replies": [
+                {
+                    "Reply": "The towns?  What for?  They're wicked places where wicked people live.  That's all.   He pauses for a few moments.",
+                    "Didascalie": "",
+                    "Start": 8386,
+                    "End": 8503
+                },
+                {
+                    "Reply": "Thank you Lucius.  You're a good friend.  I do hope no one saw you.",
+                    "Didascalie": "",
+                    "Start": 8514,
+                    "End": 8582
+                },
+                {
+                    "Reply": "Lucius?  Lucius?   He crawls to the hatch and opens it, peering down.  There is a flash of red as a creature walks by, spikey needles sticking out the back.  Finton drops the hatch on his head, lets it fall into place, and latches it.  He sits whimpering in pain for a moment, then gets up and rings a warning bell over and over again, a steady clanging.",
+                    "Didascalie": "",
+                    "Start": 26147,
+                    "End": 26506
+                },
+                {
+                    "Reply": "Christop.",
+                    "Didascalie": "",
+                    "Start": 50243,
+                    "End": 50253
+                },
+                {
+                    "Reply": "Christop, please, do not leave us.",
+                    "Didascalie": "",
+                    "Start": 50562,
+                    "End": 50597
+                },
+                {
+                    "Reply": "Christop...",
+                    "Didascalie": "",
+                    "Start": 50784,
+                    "End": 50796
+                },
+                {
+                    "Reply": "Ivy...  There's something in these woods.  It turns my stomach to rot.",
+                    "Didascalie": "",
+                    "Start": 51082,
+                    "End": 51153
+                },
+                {
+                    "Reply": "You will be safe.  They will not harm you, because you cannot see.  They will take pity on you, the way they took pity on Noah, when... when he ventured into the woods.  They will kill me, Ivy.  I cannot stay.  You're better in these woods than most boys.  Anyone would say so.",
+                    "Didascalie": "",
+                    "Start": 51224,
+                    "End": 51504
+                },
+                {
+                    "Reply": "Come with me?",
+                    "Didascalie": "",
+                    "Start": 51561,
+                    "End": 51575
+                }
+            ]
+        },
+        {
+            "Character": "KITTY",
+            "Replies": [
+                {
+                    "Reply": "You are not troubled?",
+                    "Didascalie": "",
+                    "Start": 9738,
+                    "End": 9760
+                },
+                {
+                    "Reply": "I want your permission to marry, Papa!   Edward is incredulous that his daughter would come to him and ask to marry, without her supposed-fiance present.",
+                    "Didascalie": "",
+                    "Start": 9987,
+                    "End": 10143
+                },
+                {
+                    "Reply": "I haven't spoken to him as of yet.",
+                    "Didascalie": "",
+                    "Start": 10356,
+                    "End": 10391
+                },
+                {
+                    "Reply": "He has a... quiet way.  I was going to talk with him, Papa, but not without your blessings.  I WON'T talk with him without your blessings, Papa.",
+                    "Didascalie": "",
+                    "Start": 10458,
+                    "End": 10604
+                },
+                {
+                    "Reply": "It's Lucius Hunt.",
+                    "Didascalie": "",
+                    "Start": 10632,
+                    "End": 10650
+                },
+                {
+                    "Reply": "He's not LIKE the other boys, Papa.  He- he- he doesn't joke, or, or bounce about.",
+                    "Didascalie": "",
+                    "Start": 10797,
+                    "End": 10880
+                },
+                {
+                    "Reply": "I have your blessings, then?",
+                    "Didascalie": "",
+                    "Start": 10930,
+                    "End": 10959
+                },
+                {
+                    "Reply": "Good afternoon, Lucius.",
+                    "Didascalie": "",
+                    "Start": 11503,
+                    "End": 11527
+                },
+                {
+                    "Reply": "I wanted to, to... to tell you something.  I love you, Lucius.  I love you like the day is long!  I love you more than the sun and the moon together!  And if you feel the same way, then we should not hide it any longer.  It's a gift, love is.  We should be thankful!  We should bellow it out with all the breath in our lungs!  Thank you! Thank you!  Thank you!",
+                    "Didascalie": "",
+                    "Start": 11609,
+                    "End": 11974
+                },
+                {
+                    "Reply": "I'm going to get you!  Oh!  I got you!  I got you.  Can you fetch a blanket for me?",
+                    "Didascalie": "",
+                    "Start": 25685,
+                    "End": 25769
+                },
+                {
+                    "Reply": "Close the door.  Noah, close the door, okay?  Close the door.",
+                    "Didascalie": "",
+                    "Start": 26968,
+                    "End": 27030
+                },
+                {
+                    "Reply": "Noah, come on inside!",
+                    "Didascalie": "",
+                    "Start": 27319,
+                    "End": 27341
+                },
+                {
+                    "Reply": "Let's close the door.",
+                    "Didascalie": "",
+                    "Start": 27960,
+                    "End": 27982
+                },
+                {
+                    "Reply": "He's inside safe somewhere!  Please, close the door!",
+                    "Didascalie": "",
+                    "Start": 28204,
+                    "End": 28257
+                },
+                {
+                    "Reply": "Ivy!  Ivy, please.",
+                    "Didascalie": "",
+                    "Start": 28406,
+                    "End": 28425
+                },
+                {
+                    "Reply": "There is nothing you could do that would sacrifice my love for you.  You are my cherished one as well.  God bless you and your life together.",
+                    "Didascalie": "",
+                    "Start": 40579,
+                    "End": 40722
+                },
+                {
+                    "Reply": "God in heaven!",
+                    "Didascalie": "",
+                    "Start": 42994,
+                    "End": 43009
+                },
+                {
+                    "Reply": "Ivy!",
+                    "Didascalie": "",
+                    "Start": 43035,
+                    "End": 43040
+                }
+            ]
+        },
+        {
+            "Character": "IVY",
+            "Replies": [
+                {
+                    "Reply": "Shhh.  Shhh.  Baby, sleep, gently sleep, life is long is long and love is deep.  Time will be sweet for thee. All the world to see.  Time to look about and know, how the shadows come and go.  How the breeze stirs the trees, how the blossoms grow.",
+                    "Didascalie": "",
+                    "Start": 12429,
+                    "End": 12679
+                },
+                {
+                    "Reply": "Stop your fussing, right this moment.",
+                    "Didascalie": "",
+                    "Start": 15674,
+                    "End": 15712
+                },
+                {
+                    "Reply": "You're in trouble, you know.",
+                    "Didascalie": "",
+                    "Start": 15973,
+                    "End": 16002
+                },
+                {
+                    "Reply": "I'm to place you in the quiet room.",
+                    "Didascalie": "",
+                    "Start": 16044,
+                    "End": 16080
+                },
+                {
+                    "Reply": "What if we strike a deal?",
+                    "Didascalie": "",
+                    "Start": 16118,
+                    "End": 16144
+                },
+                {
+                    "Reply": "It would be prudent to keep our deal a secret, can you do that?",
+                    "Didascalie": "",
+                    "Start": 16181,
+                    "End": 16245
+                },
+                {
+                    "Reply": "You needent go to the quiet room if you take an oath to never strike any person again.",
+                    "Didascalie": "",
+                    "Start": 16331,
+                    "End": 16418
+                },
+                {
+                    "Reply": "No, no hitting.",
+                    "Didascalie": "",
+                    "Start": 16447,
+                    "End": 16463
+                },
+                {
+                    "Reply": "No hitting.",
+                    "Didascalie": "",
+                    "Start": 16492,
+                    "End": 16504
+                },
+                {
+                    "Reply": "The deal is struck.",
+                    "Didascalie": "",
+                    "Start": 16592,
+                    "End": 16612
+                },
+                {
+                    "Reply": "Hmmm.",
+                    "Didascalie": "",
+                    "Start": 16803,
+                    "End": 16809
+                },
+                {
+                    "Reply": "Hmmm.  Shall we have a foot race?",
+                    "Didascalie": "",
+                    "Start": 16832,
+                    "End": 16866
+                },
+                {
+                    "Reply": "I know!  I'm sorry!",
+                    "Didascalie": "",
+                    "Start": 17319,
+                    "End": 17339
+                },
+                {
+                    "Reply": "My sister cried a lot.",
+                    "Didascalie": "",
+                    "Start": 17602,
+                    "End": 17625
+                },
+                {
+                    "Reply": "You wonder how I recognized you?   She nodds and leans on her cane.",
+                    "Didascalie": "",
+                    "Start": 17879,
+                    "End": 17949
+                },
+                {
+                    "Reply": "Some people - just a handful, mind you - give off the tiniest color.  It's faint, like a haze.  It's the only thing I ever see in the darkness.  Papa has it, too.  Do you wonder what your color is?  Well, that I won't tell you. It's not ladylike to speak of such things.  You shouldn't even have asked.",
+                    "Didascalie": "",
+                    "Start": 17957,
+                    "End": 18263
+                },
+                {
+                    "Reply": "Thank you.   She pauses a moment, shyly, but then continues.",
+                    "Didascalie": "",
+                    "Start": 18541,
+                    "End": 18604
+                },
+                {
+                    "Reply": "I know why you deny my sister.  When I was younger...  You used to hold my arm when I walked.  Then suddenly you stopped.  One day, I even tripped in your presense, and almost fell.  I was faking, of course.  But still, you did not hold me.",
+                    "Didascalie": "",
+                    "Start": 18612,
+                    "End": 18855
+                },
+                {
+                    "Reply": "Sometimes we don't do things we want to do, so that others won't know we want to do them.",
+                    "Didascalie": "",
+                    "Start": 18897,
+                    "End": 18987
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 19154,
+                    "End": 19160
+                },
+                {
+                    "Reply": "What's this?  Oh, berries.  What a splendid present.",
+                    "Didascalie": "",
+                    "Start": 19362,
+                    "End": 19415
+                },
+                {
+                    "Reply": "This color attracts Those We Don't Speak Of, we must bury it.  You ought not to pick that color berry anymore.",
+                    "Didascalie": "",
+                    "Start": 19593,
+                    "End": 19704
+                },
+                {
+                    "Reply": "What's wrong?  Your breathing has changed.",
+                    "Didascalie": "",
+                    "Start": 19768,
+                    "End": 19811
+                },
+                {
+                    "Reply": "There's no escape!",
+                    "Didascalie": "",
+                    "Start": 23577,
+                    "End": 23596
+                },
+                {
+                    "Reply": "Oh, hellO!  I was just playing a game with Noah.  The rascal must have gone to hide in my house again.",
+                    "Didascalie": "",
+                    "Start": 23736,
+                    "End": 23839
+                },
+                {
+                    "Reply": "We're tending to the children tonight, Kitty and I.  I should be with her.  Be well.",
+                    "Didascalie": "",
+                    "Start": 24110,
+                    "End": 24195
+                },
+                {
+                    "Reply": "I heard my parents speaking of you.  I know of your request to go to the towns.  I think it is noble, but I do not think it is right.",
+                    "Didascalie": "",
+                    "Start": 24306,
+                    "End": 24441
+                },
+                {
+                    "Reply": "I see the world, Lucius Hunt.  Just not as you see it.",
+                    "Didascalie": "",
+                    "Start": 24551,
+                    "End": 24606
+                },
+                {
+                    "Reply": "May we stop speaking of this?  It is putting knots in my stomach.",
+                    "Didascalie": "",
+                    "Start": 24726,
+                    "End": 24792
+                },
+                {
+                    "Reply": "I am blessed as well.  My older sister is now spoken for.  I am now free to receive intrest from anyone... who might have interest.",
+                    "Didascalie": "",
+                    "Start": 25243,
+                    "End": 25376
+                },
+                {
+                    "Reply": "Have you seen Noah?",
+                    "Didascalie": "",
+                    "Start": 25777,
+                    "End": 25797
+                },
+                {
+                    "Reply": "Lucius is outside, walking.",
+                    "Didascalie": "",
+                    "Start": 28052,
+                    "End": 28080
+                },
+                {
+                    "Reply": "He'll come back to make sure we're safe.",
+                    "Didascalie": "",
+                    "Start": 28355,
+                    "End": 28396
+                },
+                {
+                    "Reply": "What manner of person was she?",
+                    "Didascalie": "",
+                    "Start": 32554,
+                    "End": 32585
+                },
+                {
+                    "Reply": "May I ask her name?",
+                    "Didascalie": "",
+                    "Start": 32671,
+                    "End": 32691
+                },
+                {
+                    "Reply": "The elders are going to have an inquiry tomorrow.  Each member of the village is to be questioned in the meeting hall.",
+                    "Didascalie": "",
+                    "Start": 37032,
+                    "End": 37152
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 37207,
+                    "End": 37212
+                },
+                {
+                    "Reply": "There are other porches.  Do you find me too much of a tomboy?  I do long to do boy things.  Like that game the boys play at the stump.  They put their backs to the woods, and see how long they can wait before getting scared. That's so exciting.  I understand you hold the record.  It will never be broken, they say.",
+                    "Didascalie": "",
+                    "Start": 37358,
+                    "End": 37678
+                },
+                {
+                    "Reply": "I saw you out the window.   Lucius is stunned.  He looks at her strangely.",
+                    "Didascalie": "",
+                    "Start": 37913,
+                    "End": 37990
+                },
+                {
+                    "Reply": "No... I won't tell you your color.  Stop asking.   She pauses, and then ventures something VERY daring, never betraying how much she is risking by what she says.",
+                    "Didascalie": "",
+                    "Start": 37998,
+                    "End": 38162
+                },
+                {
+                    "Reply": "When we are married, will you dance with me?  I find dancing very agreeable.",
+                    "Didascalie": "",
+                    "Start": 38170,
+                    "End": 38247
+                },
+                {
+                    "Reply": "Why can you not say what is in your head?",
+                    "Didascalie": "",
+                    "Start": 38403,
+                    "End": 38445
+                },
+                {
+                    "Reply": "Kitty... I wanted to speak with you first.  I would not want you to feel pain, in any fashion.  You are my cherished one.  If you were to feel badly about Lucius, I would not have it.  One love to sacrifice another love is not right.",
+                    "Didascalie": "",
+                    "Start": 40333,
+                    "End": 40569
+                },
+                {
+                    "Reply": "She runs into something soft, and crouches down.  She begins to shake as she feels him there.  A man runs up the steps and sees her.  He shouts for Mr. Walker, who runs inside the workshop.  Ivy clutches at Lucius, running her hands through his hair frantically, eyes wide.",
+                    "Didascalie": "",
+                    "Start": 43468,
+                    "End": 43744
+                },
+                {
+                    "Reply": "Papa... I cannot see his color.",
+                    "Didascalie": "",
+                    "Start": 43752,
+                    "End": 43784
+                },
+                {
+                    "Reply": "I am in love.",
+                    "Didascalie": "",
+                    "Start": 45177,
+                    "End": 45191
+                },
+                {
+                    "Reply": "He is in love with me.",
+                    "Didascalie": "",
+                    "Start": 45220,
+                    "End": 45243
+                },
+                {
+                    "Reply": "If he dies... all that is life to me will die with him.  I ask permission... to travel through Covington Woods...",
+                    "Didascalie": "",
+                    "Start": 45270,
+                    "End": 45385
+                },
+                {
+                    "Reply": "He was the wealthiest man in the towns?",
+                    "Didascalie": "",
+                    "Start": 47449,
+                    "End": 47489
+                },
+                {
+                    "Reply": "Thank you, father.",
+                    "Didascalie": "",
+                    "Start": 48485,
+                    "End": 48504
+                },
+                {
+                    "Reply": "Yes, Father?",
+                    "Didascalie": "",
+                    "Start": 48822,
+                    "End": 48835
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 48887,
+                    "End": 48893
+                },
+                {
+                    "Reply": "I am leaving, to fetch you medicines.",
+                    "Didascalie": "",
+                    "Start": 49326,
+                    "End": 49364
+                },
+                {
+                    "Reply": "Christop... you needent be scared.  We have the magic rocks.  They will keep us safe.",
+                    "Didascalie": "",
+                    "Start": 50405,
+                    "End": 50491
+                },
+                {
+                    "Reply": "There is nothing to fear.",
+                    "Didascalie": "",
+                    "Start": 50605,
+                    "End": 50631
+                },
+                {
+                    "Reply": "We will light torches.  It will be safe.",
+                    "Didascalie": "",
+                    "Start": 50702,
+                    "End": 50743
+                },
+                {
+                    "Reply": "It is MY burden, Finton.  You may go.",
+                    "Didascalie": "",
+                    "Start": 51512,
+                    "End": 51550
+                },
+                {
+                    "Reply": "There is an odd smell.",
+                    "Didascalie": "",
+                    "Start": 51911,
+                    "End": 51934
+                },
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 51973,
+                    "End": 51985
+                },
+                {
+                    "Reply": "Those We Don't Speak Of!",
+                    "Didascalie": "",
+                    "Start": 52283,
+                    "End": 52308
+                },
+                {
+                    "Reply": "The screams?  From the woods?",
+                    "Didascalie": "",
+                    "Start": 52876,
+                    "End": 52906
+                },
+                {
+                    "Reply": "The Ceremony of Meat?",
+                    "Didascalie": "",
+                    "Start": 52950,
+                    "End": 52972
+                },
+                {
+                    "Reply": "The drills... they are farce, too?",
+                    "Didascalie": "",
+                    "Start": 53078,
+                    "End": 53113
+                },
+                {
+                    "Reply": "What about the animals.... the skinned ones?  Are the elders responsible for that, too?",
+                    "Didascalie": "",
+                    "Start": 53180,
+                    "End": 53268
+                },
+                {
+                    "Reply": "I am... sad for you, Papa.  For all the elders.   Edward places a gold pocket-watch into her hands, and hands her a folded sheet of paper.  He speaks urgently to her. There are tears in her eyes, and they spill down her cheeks as he speaks to her of what she must do.",
+                    "Didascalie": "",
+                    "Start": 53804,
+                    "End": 54076
+                },
+                {
+                    "Reply": "... all the world to see.  Time look about and know.  How the shadows come and go.  How the breeze stirs the trees.  How the blossoms grow.  Sleep, baby, sleep.  Sleep gently sleep...",
+                    "Didascalie": "",
+                    "Start": 57376,
+                    "End": 57561
+                },
+                {
+                    "Reply": "It is not real.  It is not real.",
+                    "Didascalie": "",
+                    "Start": 59442,
+                    "End": 59475
+                },
+                {
+                    "Reply": "Are you from the towns?",
+                    "Didascalie": "",
+                    "Start": 65608,
+                    "End": 65632
+                },
+                {
+                    "Reply": "The woods.",
+                    "Didascalie": "",
+                    "Start": 65876,
+                    "End": 65887
+                },
+                {
+                    "Reply": "Will you help me?  I need to find a doctor of medicine.  I must find these things, we must make haste.   She takes the list out of the waist of her dress.",
+                    "Didascalie": "",
+                    "Start": 65942,
+                    "End": 66099
+                },
+                {
+                    "Reply": "I do, sir.",
+                    "Didascalie": "",
+                    "Start": 66434,
+                    "End": 66445
+                },
+                {
+                    "Reply": "What is your name?",
+                    "Didascalie": "",
+                    "Start": 66558,
+                    "End": 66577
+                },
+                {
+                    "Reply": "Kevin.  You have kindness in your voice.  I did not expect that.   Kevin pauses a moment, but then he seems to come to a decision.  It is the right one.",
+                    "Didascalie": "",
+                    "Start": 66603,
+                    "End": 66758
+                },
+                {
+                    "Reply": "You can find the things written on the paper?   Kevin nods, but she does not see it.  He may not yet have realized that she is blind.",
+                    "Didascalie": "",
+                    "Start": 66968,
+                    "End": 67104
+                },
+                {
+                    "Reply": "Please, sir.  Please... take this as payment.   She holds out her father's pocket-watch to the young man.  He kind of smiles, wary, and looks around.",
+                    "Didascalie": "",
+                    "Start": 67145,
+                    "End": 67297
+                },
+                {
+                    "Reply": "I do not understand.",
+                    "Didascalie": "",
+                    "Start": 67374,
+                    "End": 67395
+                },
+                {
+                    "Reply": "Ivy.  Ivy Elizabeth Walker.",
+                    "Didascalie": "",
+                    "Start": 67431,
+                    "End": 67459
+                },
+                {
+                    "Reply": "I'm back, Lucius.   She smiles.",
+                    "Didascalie": "",
+                    "Start": 70098,
+                    "End": 70132
+                }
+            ]
+        },
+        {
+            "Character": "CHRISTOP",
+            "Replies": [
+                {
+                    "Reply": "Do not jostle about so!  You'll ruin my shirt.",
+                    "Didascalie": "",
+                    "Start": 13687,
+                    "End": 13734
+                },
+                {
+                    "Reply": "Have courage, man.  That's a wives' tale.  It isn't true.  Do not falter!  Steel yourself.",
+                    "Didascalie": "",
+                    "Start": 13906,
+                    "End": 13997
+                },
+                {
+                    "Reply": "I didn't know you could run so fast!",
+                    "Didascalie": "",
+                    "Start": 14777,
+                    "End": 14814
+                },
+                {
+                    "Reply": "She's not going to squeeze my shirt like that, is she?",
+                    "Didascalie": "",
+                    "Start": 33460,
+                    "End": 33515
+                },
+                {
+                    "Reply": "Then why do you wear the cloak of the safe color?",
+                    "Didascalie": "",
+                    "Start": 50644,
+                    "End": 50694
+                },
+                {
+                    "Reply": "It is forbidden.",
+                    "Didascalie": "",
+                    "Start": 50756,
+                    "End": 50773
+                }
+            ]
+        },
+        {
+            "Character": "JAMISON",
+            "Replies": [
+                {
+                    "Reply": "We're still for running and staying- hey!   Christop pulls Jamison's hat from his head and pushes him further towards home.",
+                    "Didascalie": "",
+                    "Start": 14826,
+                    "End": 14952
+                }
+            ]
+        },
+        {
+            "Character": "CHILDREN",
+            "Replies": [
+                {
+                    "Reply": "No more hitting!",
+                    "Didascalie": "",
+                    "Start": 15205,
+                    "End": 15222
+                }
+            ]
+        },
+        {
+            "Character": "NOAH",
+            "Replies": [
+                {
+                    "Reply": "No hitting.  No hitting.",
+                    "Didascalie": "",
+                    "Start": 16011,
+                    "End": 16036
+                },
+                {
+                    "Reply": "Um, I'll cry quarts.",
+                    "Didascalie": "",
+                    "Start": 16089,
+                    "End": 16110
+                },
+                {
+                    "Reply": "Yeah, capital idea.",
+                    "Didascalie": "",
+                    "Start": 16153,
+                    "End": 16173
+                },
+                {
+                    "Reply": "No hitting.",
+                    "Didascalie": "",
+                    "Start": 16427,
+                    "End": 16439
+                },
+                {
+                    "Reply": "No hitting.",
+                    "Didascalie": "",
+                    "Start": 16472,
+                    "End": 16484
+                },
+                {
+                    "Reply": "Hmm.",
+                    "Didascalie": "",
+                    "Start": 16790,
+                    "End": 16795
+                },
+                {
+                    "Reply": "Hmmm.",
+                    "Didascalie": "",
+                    "Start": 16818,
+                    "End": 16824
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 16875,
+                    "End": 16880
+                },
+                {
+                    "Reply": "Arrhhhh!  Ivy, you cheated!",
+                    "Didascalie": "",
+                    "Start": 17283,
+                    "End": 17311
+                },
+                {
+                    "Reply": "They're coming.  They're coming!",
+                    "Didascalie": "",
+                    "Start": 26925,
+                    "End": 26958
+                },
+                {
+                    "Reply": "Come on inside!",
+                    "Didascalie": "",
+                    "Start": 27350,
+                    "End": 27366
+                },
+                {
+                    "Reply": "They're coming.  Come on in!",
+                    "Didascalie": "",
+                    "Start": 27921,
+                    "End": 27950
+                },
+                {
+                    "Reply": "They're coming!",
+                    "Didascalie": "",
+                    "Start": 28089,
+                    "End": 28105
+                },
+                {
+                    "Reply": "Ohhhh....",
+                    "Didascalie": "",
+                    "Start": 41732,
+                    "End": 41742
+                },
+                {
+                    "Reply": "Oh, the bad... the bad color.  Oh.  Bad color.  Bad color!  Bad color!   He drools and taps at himself, distraught.",
+                    "Didascalie": "",
+                    "Start": 42342,
+                    "End": 42460
+                },
+                {
+                    "Reply": "Mama!",
+                    "Didascalie": "",
+                    "Start": 42469,
+                    "End": 42475
+                }
+            ]
+        },
+        {
+            "Character": "OLDER BOY",
+            "Replies": [
+                {
+                    "Reply": "They're in the village.  They left more warnings.",
+                    "Didascalie": "",
+                    "Start": 35105,
+                    "End": 35155
+                },
+                {
+                    "Reply": "One saw us.  It ran off into the darkness.",
+                    "Didascalie": "",
+                    "Start": 35277,
+                    "End": 35320
+                }
+            ]
+        },
+        {
+            "Character": "YOUNGER BOY",
+            "Replies": [
+                {
+                    "Reply": "They wish us to leave.",
+                    "Didascalie": "",
+                    "Start": 35200,
+                    "End": 35223
+                }
+            ]
+        },
+        {
+            "Character": "BEATRICE",
+            "Replies": [
+                {
+                    "Reply": "I beg your pardon.  Is it true... about Lucius and Ivy?  There are whispers all over the village.",
+                    "Didascalie": "",
+                    "Start": 39801,
+                    "End": 39899
+                },
+                {
+                    "Reply": "It is amazing to witness which two people love chooses to unite.  It follows no rules.",
+                    "Didascalie": "",
+                    "Start": 40024,
+                    "End": 40111
+                }
+            ]
+        },
+        {
+            "Character": "VICTOR",
+            "Replies": [
+                {
+                    "Reply": "We can only pray.",
+                    "Didascalie": "",
+                    "Start": 45774,
+                    "End": 45792
+                },
+                {
+                    "Reply": "Hmmm?  What are you asking me?",
+                    "Didascalie": "",
+                    "Start": 45864,
+                    "End": 45895
+                },
+                {
+                    "Reply": "If the infection is contained, he may still survive.",
+                    "Didascalie": "",
+                    "Start": 46095,
+                    "End": 46148
+                }
+            ]
+        },
+        {
+            "Character": "ROBERT PERCY",
+            "Replies": [
+                {
+                    "Reply": "You should not have made this decision without us.  You have gone too far.",
+                    "Didascalie": "",
+                    "Start": 55731,
+                    "End": 55806
+                }
+            ]
+        },
+        {
+            "Character": "VIVAN",
+            "Replies": [
+                {
+                    "Reply": "Oh my God, what is this?",
+                    "Didascalie": "",
+                    "Start": 60778,
+                    "End": 60803
+                }
+            ]
+        },
+        {
+            "Character": "ROBERT",
+            "Replies": [
+                {
+                    "Reply": "He found one of the suits we kept under the floorboards.",
+                    "Didascalie": "",
+                    "Start": 61041,
+                    "End": 61098
+                }
+            ]
+        },
+        {
+            "Character": "DRIVER",
+            "Replies": [
+                {
+                    "Reply": "You came from the woods?  In there?",
+                    "Didascalie": "",
+                    "Start": 65898,
+                    "End": 65934
+                },
+                {
+                    "Reply": "Listen, ma'am.  I'm just supposed to...",
+                    "Didascalie": "",
+                    "Start": 66110,
+                    "End": 66150
+                },
+                {
+                    "Reply": "Well you... you live in there?",
+                    "Didascalie": "",
+                    "Start": 66395,
+                    "End": 66426
+                },
+                {
+                    "Reply": "Kevin.",
+                    "Didascalie": "",
+                    "Start": 66588,
+                    "End": 66595
+                }
+            ]
+        },
+        {
+            "Character": "WALKIE-TALKIE",
+            "Replies": [
+                {
+                    "Reply": "Breaker.",
+                    "Didascalie": "",
+                    "Start": 66463,
+                    "End": 66472
+                }
+            ]
+        },
+        {
+            "Character": "KEVIN",
+            "Replies": [
+                {
+                    "Reply": "We have guard shacks every ten miles around the perimeter of the preserve.  We keep medical supplies in there in case of animal bites or related injuries.   Ivy is hopeful, almost stunned.",
+                    "Didascalie": "",
+                    "Start": 66768,
+                    "End": 66960
+                },
+                {
+                    "Reply": "You have to wait here.",
+                    "Didascalie": "",
+                    "Start": 67114,
+                    "End": 67137
+                },
+                {
+                    "Reply": "Wait... wait you're not... you're not trickin' me are you?",
+                    "Didascalie": "",
+                    "Start": 67307,
+                    "End": 67366
+                },
+                {
+                    "Reply": "What's your name?",
+                    "Didascalie": "",
+                    "Start": 67405,
+                    "End": 67423
+                },
+                {
+                    "Reply": "OH, it was just some teenagers.  They were lost.",
+                    "Didascalie": "",
+                    "Start": 67849,
+                    "End": 67898
+                }
+            ]
+        },
+        {
+            "Character": "JAY",
+            "Replies": [
+                {
+                    "Reply": "It's in the back.",
+                    "Didascalie": "",
+                    "Start": 68807,
+                    "End": 68825
+                }
+            ]
+        }
+    ]
 }

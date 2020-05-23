@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Highlander",
-        "   "
-    ],
+    "Title": "Highlander",
     "Author": [
-        "\u00a0\u00a0Gregory Widen"
+        "Gregory Widen"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy"
+        "Action",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -763,28 +761,6 @@
                     "Didascalie": "",
                     "Start": 4982,
                     "End": 4994
-                }
-            ]
-        },
-        {
-            "Character": "A CLANSMAN",
-            "Replies": [
-                {
-                    "Reply": "Charges out of the fog and attacks the Knight, who cuts him nearly in half.  ANOTHER wanders in and meets the same fate.",
-                    "Didascalie": "",
-                    "Start": 6656,
-                    "End": 6780
-                }
-            ]
-        },
-        {
-            "Character": "A VASSAL",
-            "Replies": [
-                {
-                    "Reply": "Sees his men being hacked apart trying to stop the now-mounted Knight.",
-                    "Didascalie": "",
-                    "Start": 6980,
-                    "End": 7054
                 }
             ]
         },
@@ -3946,17 +3922,6 @@
             ]
         },
         {
-            "Character": "INSERT COMPUTER SHEET",
-            "Replies": [
-                {
-                    "Reply": "The police sheet has Taupin's name and motor vehicle record.",
-                    "Didascalie": "",
-                    "Start": 52197,
-                    "End": 52258
-                }
-            ]
-        },
-        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -4431,17 +4396,6 @@
             ]
         },
         {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "With something less than perfect coordination, sits down beside her.",
-                    "Didascalie": "",
-                    "Start": 79184,
-                    "End": 79257
-                }
-            ]
-        },
-        {
             "Character": "MAN",
             "Replies": [
                 {
@@ -4622,17 +4576,6 @@
                     "Didascalie": "",
                     "Start": 87771,
                     "End": 87803
-                }
-            ]
-        },
-        {
-            "Character": "A GROUP OF NOISY TEENAGERS",
-            "Replies": [
-                {
-                    "Reply": "Exit a facing townhouse.  The Knight removes his hand from the bag as they spill onto the sidewalk LAUGHING and YELLING.",
-                    "Didascalie": "",
-                    "Start": 88550,
-                    "End": 88675
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Deep Cover",
-        "   "
-    ],
+    "Title": "Deep Cover",
     "Author": [
-        "\u00a0\u00a0Michael Tolkin\u00a0\u00a0Henry Bean"
+        "Michael Tolkin",
+        "Henry Bean"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2909,17 +2909,6 @@
             ]
         },
         {
-            "Character": "A TABLE",
-            "Replies": [
-                {
-                    "Reply": "Elias rises to let her out. As the woman passes Hull on her way to the restrooms, their eyes meet: an instant of perfect chemistry. He's struck. Her features open, grow sensual for a moment, but then, as if seeing something she doesn't like, her eyes flick away, and she walks by as if he weren't there.",
-                    "Didascalie": "",
-                    "Start": 33348,
-                    "End": 33716
-                }
-            ]
-        },
-        {
             "Character": "CHORUS OF COMMENTS",
             "Replies": [
                 {
@@ -5170,17 +5159,6 @@
             ]
         },
         {
-            "Character": "A MOLECULAR MODEL",
-            "Replies": [
-                {
-                    "Reply": "Colored balls stuck together with wooden dowels.",
-                    "Didascalie": "",
-                    "Start": 108624,
-                    "End": 108673
-                }
-            ]
-        },
-        {
             "Character": "CAL TECH",
             "Replies": [
                 {
@@ -5235,17 +5213,6 @@
                     "Didascalie": "",
                     "Start": 126702,
                     "End": 126775
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Felix! No mas. Finito.",
-                    "Didascalie": "",
-                    "Start": 131326,
-                    "End": 131349
                 }
             ]
         },

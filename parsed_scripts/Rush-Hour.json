@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Rush Hour",
-        "   "
-    ],
+    "Title": "Rush Hour",
     "Author": [
-        "\u00a0\u00a0Ross LaManna\u00a0\u00a0Jim Kouf"
+        "Ross LaManna",
+        "Jim Kouf"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Action",
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -3496,17 +3496,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "Under the Mercedes, the device Javal planted there begins to emit thick, white CS TEAR GAS.",
-                    "Didascalie": "",
-                    "Start": 25440,
-                    "End": 25532
-                }
-            ]
-        },
-        {
             "Character": "COLONEL LEE",
             "Replies": [
                 {
@@ -4076,17 +4065,6 @@
                     "Didascalie": "",
                     "Start": 103880,
                     "End": 103917
-                }
-            ]
-        },
-        {
-            "Character": "A BIKER CLUB",
-            "Replies": [
-                {
-                    "Reply": "of twenty aging, weekend-warriors, all on custom Harleys, turn from the Boulevard onto Highland.",
-                    "Didascalie": "",
-                    "Start": 62918,
-                    "End": 63015
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "V for Vendetta",
-        "   "
-    ],
+    "Title": "V for Vendetta",
     "Author": [
-        "\u00a0\u00a0Andy Wachowski\u00a0\u00a0Larry Wachowski"
+        "Andy Wachowski",
+        "Larry Wachowski"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1410,6 +1411,104 @@
                     "Didascalie": "",
                     "Start": 128102,
                     "End": 128116
+                }
+            ]
+        },
+        {
+            "Character": "FINGERMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Give the little lady a prize.",
+                    "Didascalie": "",
+                    "Start": 19545,
+                    "End": 19575
+                },
+                {
+                    "Reply": "Prostitution is a class H offense. Know what that means?  It means that we get to exercise our own judicial discretion --",
+                    "Didascalie": "",
+                    "Start": 19826,
+                    "End": 20009
+                },
+                {
+                    "Reply": "Gosh, fellas, look at those big innocent eyes.  What do you think?",
+                    "Didascalie": "",
+                    "Start": 20370,
+                    "End": 20457
+                },
+                {
+                    "Reply": "We're police officers, pal.",
+                    "Didascalie": "",
+                    "Start": 21594,
+                    "End": 21622
+                },
+                {
+                    "Reply": "He's got a knife!",
+                    "Didascalie": "",
+                    "Start": 22161,
+                    "End": 22179
+                }
+            ]
+        },
+        {
+            "Character": "FINGERMAN 2",
+            "Replies": [
+                {
+                    "Reply": "I've got something to give her.",
+                    "Didascalie": "",
+                    "Start": 19648,
+                    "End": 19680
+                },
+                {
+                    "Reply": "And you get to swallow it.",
+                    "Didascalie": "",
+                    "Start": 20082,
+                    "End": 20109
+                }
+            ]
+        },
+        {
+            "Character": "FINGERMAN 3",
+            "Replies": [
+                {
+                    "Reply": "Spare the rod, spoil the child.",
+                    "Didascalie": "",
+                    "Start": 20530,
+                    "End": 20562
+                },
+                {
+                    "Reply": "You heard the man, sweetie.  This rod's for your own good.",
+                    "Didascalie": "",
+                    "Start": 20975,
+                    "End": 21054
+                },
+                {
+                    "Reply": "What the hell --",
+                    "Didascalie": "",
+                    "Start": 21325,
+                    "End": 21342
+                },
+                {
+                    "Reply": "So bugger off!",
+                    "Didascalie": "",
+                    "Start": 21791,
+                    "End": 21806
+                },
+                {
+                    "Reply": "Jesus Christ!  Don't hurt me!",
+                    "Didascalie": "",
+                    "Start": 22855,
+                    "End": 22885
+                }
+            ]
+        },
+        {
+            "Character": "FINGERMAN 4",
+            "Replies": [
+                {
+                    "Reply": "We're with the Finger.",
+                    "Didascalie": "",
+                    "Start": 21695,
+                    "End": 21718
                 }
             ]
         },
@@ -3195,6 +3294,82 @@
             ]
         },
         {
+            "Character": "BODYGUARD 1",
+            "Replies": [
+                {
+                    "Reply": "Sir, who did what, sir?",
+                    "Didascalie": "",
+                    "Start": 42398,
+                    "End": 42422
+                },
+                {
+                    "Reply": "Sir, we're both straight military, sir.",
+                    "Didascalie": "",
+                    "Start": 42826,
+                    "End": 42886
+                },
+                {
+                    "Reply": "What the hell's that!",
+                    "Didascalie": "",
+                    "Start": 43797,
+                    "End": 43819
+                },
+                {
+                    "Reply": "I thought I saw a man jumping onto the train.",
+                    "Didascalie": "",
+                    "Start": 44205,
+                    "End": 44271
+                },
+                {
+                    "Reply": "You're right, I... It must have been rags.",
+                    "Didascalie": "",
+                    "Start": 44497,
+                    "End": 44560
+                },
+                {
+                    "Reply": "Lock the car doors.",
+                    "Didascalie": "",
+                    "Start": 45367,
+                    "End": 45387
+                },
+                {
+                    "Reply": "What's happening --",
+                    "Didascalie": "",
+                    "Start": 45771,
+                    "End": 45791
+                }
+            ]
+        },
+        {
+            "Character": "BODYGUARD 2",
+            "Replies": [
+                {
+                    "Reply": "Sir, yes, sir.  I was fighting in Ireland by the time I was sixteen.",
+                    "Didascalie": "",
+                    "Start": 42959,
+                    "End": 43048
+                },
+                {
+                    "Reply": "The train's doing almost seventy. It would break his legs.",
+                    "Didascalie": "",
+                    "Start": 44344,
+                    "End": 44424
+                },
+                {
+                    "Reply": "What the fuck is going on?",
+                    "Didascalie": "",
+                    "Start": 45267,
+                    "End": 45294
+                },
+                {
+                    "Reply": "I can't find the lock -- wait.  Hey wha--",
+                    "Didascalie": "",
+                    "Start": 45563,
+                    "End": 45625
+                }
+            ]
+        },
+        {
             "Character": "V",
             "Replies": [
                 {
@@ -3333,6 +3508,34 @@
                     "Didascalie": "",
                     "Start": 54068,
                     "End": 54101
+                }
+            ]
+        },
+        {
+            "Character": "TRAIN MAN 2",
+            "Replies": [
+                {
+                    "Reply": "He's trying to say something.",
+                    "Didascalie": "",
+                    "Start": 54358,
+                    "End": 54388
+                },
+                {
+                    "Reply": "I think he needs a priest.",
+                    "Didascalie": "",
+                    "Start": 54838,
+                    "End": 54865
+                }
+            ]
+        },
+        {
+            "Character": "TRAIN MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Five?  Where's the goddamn medic?",
+                    "Didascalie": "",
+                    "Start": 54537,
+                    "End": 54571
                 }
             ]
         },
@@ -4404,6 +4607,74 @@
             ]
         },
         {
+            "Character": "OPERATOR 1",
+            "Replies": [
+                {
+                    "Reply": "Bloody hell.  Doesn't anybody fuck with feeling anymore?",
+                    "Didascalie": "",
+                    "Start": 77011,
+                    "End": 77088
+                },
+                {
+                    "Reply": "Let's see what that filthy old pervert is up to.",
+                    "Didascalie": "",
+                    "Start": 77427,
+                    "End": 77496
+                },
+                {
+                    "Reply": "What the --",
+                    "Didascalie": "",
+                    "Start": 77774,
+                    "End": 77786
+                },
+                {
+                    "Reply": "Get me the Finger.  This is an emergency!",
+                    "Didascalie": "",
+                    "Start": 78549,
+                    "End": 78611
+                }
+            ]
+        },
+        {
+            "Character": "OPERATOR 2",
+            "Replies": [
+                {
+                    "Reply": "Hey, it's Sunday.  Children's hour over at the Abbey.",
+                    "Didascalie": "",
+                    "Start": 77281,
+                    "End": 77355
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 1",
+            "Replies": [
+                {
+                    "Reply": "... And I saw a black shape against the flames.  Oh god.  It's you. The man from room five.  You've come --",
+                    "Didascalie": "",
+                    "Start": 77974,
+                    "End": 78143
+                },
+                {
+                    "Reply": "I beg you!  I don't want to die! Please have mercy!",
+                    "Didascalie": "",
+                    "Start": 78305,
+                    "End": 78378
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 2",
+            "Replies": [
+                {
+                    "Reply": "To collect what's mine.",
+                    "Didascalie": "",
+                    "Start": 78212,
+                    "End": 78236
+                }
+            ]
+        },
+        {
             "Character": "CREEDY",
             "Replies": [
                 {
@@ -5064,6 +5335,17 @@
             ]
         },
         {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "Tsk.  This pathetic whore is the famous Miss Hammond?",
+                    "Didascalie": "",
+                    "Start": 128643,
+                    "End": 128717
+                }
+            ]
+        },
+        {
             "Character": "ROSSITER",
             "Replies": [
                 {
@@ -5693,6 +5975,28 @@
                     "Didascalie": "",
                     "Start": 261086,
                     "End": 261198
+                }
+            ]
+        },
+        {
+            "Character": "RABBLE ROUSER 1",
+            "Replies": [
+                {
+                    "Reply": "He ain't dead!",
+                    "Didascalie": "",
+                    "Start": 261275,
+                    "End": 261290
+                }
+            ]
+        },
+        {
+            "Character": "RABBLE ROUSER 2",
+            "Replies": [
+                {
+                    "Reply": "He'll be here, just like he said!",
+                    "Didascalie": "",
+                    "Start": 261367,
+                    "End": 261401
                 }
             ]
         }

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "After.Life",
-        "   "
-    ],
+    "Title": "After.Life",
     "Author": [
-        "\u00a0\u00a0Agnieszka Wojtowicz-Vosloo"
+        "Agnieszka Wojtowicz-Vosloo"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2218,28 +2217,6 @@
                     "Didascalie": "",
                     "Start": 220316,
                     "End": 220357
-                }
-            ]
-        },
-        {
-            "Character": "A DROP OF BLOOD",
-            "Replies": [
-                {
-                    "Reply": "falls into the water.   Then another drop.",
-                    "Didascalie": "",
-                    "Start": 3576,
-                    "End": 3619
-                }
-            ]
-        },
-        {
-            "Character": "A STREAM OF CRYSTAL BLUE WATER",
-            "Replies": [
-                {
-                    "Reply": "A MAN'S HANDS penetrate the water. Thin and elegant.",
-                    "Didascalie": "",
-                    "Start": 3977,
-                    "End": 4030
                 }
             ]
         },

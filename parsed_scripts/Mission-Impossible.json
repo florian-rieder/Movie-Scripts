@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Mission Impossible",
-        "   "
-    ],
+    "Title": "Mission Impossible",
     "Author": [
-        "\u00a0\u00a0Robert Towne"
+        "Robert Towne"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Thriller"
     ],
     "Characters": [
         {

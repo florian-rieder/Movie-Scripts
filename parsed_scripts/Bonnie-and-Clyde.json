@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Bonnie and Clyde",
-        "   "
-    ],
+    "Title": "Bonnie and Clyde",
     "Author": [
-        "\u00a0\u00a0David Newman\u00a0\u00a0Robert Benton"
+        "David Newman",
+        "Robert Benton"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Crime",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

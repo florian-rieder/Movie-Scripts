@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Se7en",
-        "   "
-    ],
+    "Title": "Se7en",
     "Author": [
-        "\u00a0\u00a0Andrew Kevin Walker"
+        "Andrew Kevin Walker"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4848,17 +4847,6 @@
                     "Didascalie": "",
                     "Start": 66168,
                     "End": 66244
-                }
-            ]
-        },
-        {
-            "Character": "A REPORTER",
-            "Replies": [
-                {
-                    "Reply": "As District Attorney, don't you feel some responsibility?  Detective David Mills lacks the experience...",
-                    "Didascalie": "(V.O.) (from t.v.)",
-                    "Start": 69201,
-                    "End": 69364
                 }
             ]
         },

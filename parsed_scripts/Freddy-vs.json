@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Freddy vs. Jason",
-        "   "
-    ],
+    "Title": "Freddy vs. Jason",
     "Author": [
-        "\u00a0\u00a0Peter Briggs"
+        "Peter Briggs"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

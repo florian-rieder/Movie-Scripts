@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Twin Peaks",
-        "   "
-    ],
+    "Title": "Twin Peaks",
     "Author": [
-        "\u00a0\u00a0Mark Frost\u00a0\u00a0David Lynch\u00a0\u00a0Robert Engels"
+        "Mark Frost",
+        "David Lynch",
+        "Robert Engels"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Mystery"
+        "Drama",
+        "Horror",
+        "Thriller",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -1578,12 +1580,6 @@
                     "Didascalie": "",
                     "Start": 35051,
                     "End": 35122
-                },
-                {
-                    "Reply": "GOD DAMN, THAT MORNING SUN IS BRIGHT!  BLUE BRIGHT.",
-                    "Didascalie": "(takes one step out of his trailer)",
-                    "Start": 35177,
-                    "End": 35278
                 },
                 {
                     "Reply": "Mrs. Simmons owns the trailer and she lives in town.  Teresa rented it about a month ago.",

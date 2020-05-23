@@ -1,13 +1,1365 @@
 {
-    "Title": [
-        "Napoleon Dynamite",
-        "   "
-    ],
+    "Title": "Napoleon Dynamite",
     "Author": [
-        "\u00a0\u00a0Jared Hess\u00a0\u00a0Jerusha Hess"
+        "Jared Hess",
+        "Jerusha Hess"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "RANDOM KID",
+            "Replies": [
+                {
+                    "Reply": "What are you gonna do today Napoleon?",
+                    "Didascalie": "",
+                    "Start": 165,
+                    "End": 203
+                }
+            ]
+        },
+        {
+            "Character": "NAPOLEON",
+            "Replies": [
+                {
+                    "Reply": "Whatever I feel like I want to do. Gosh!",
+                    "Didascalie": "",
+                    "Start": 216,
+                    "End": 257
+                },
+                {
+                    "Reply": "Last week, Japanese scientists explaced- placed explosive detonators at the bottom of Lake Loch Ness to blow Nessie out of the water. Sir Curt Godfrey of the Nessie Alliance summoned the help of Scotland's local wizards to cast a protective spell over the lake and it's local residents and all those who seek for the peaceful existence of our underwater ally.",
+                    "Didascalie": "",
+                    "Start": 320,
+                    "End": 680
+                },
+                {
+                    "Reply": "I told you.  I spent it with my uncle in Alaska hunting wolverines.",
+                    "Didascalie": "",
+                    "Start": 762,
+                    "End": 830
+                },
+                {
+                    "Reply": "Yes, like 50 of 'em. They kept tryin' to attack my cousins.  What the heck would you do in a situation like that?",
+                    "Didascalie": "",
+                    "Start": 870,
+                    "End": 984
+                },
+                {
+                    "Reply": "A frickin' 12-gauge.  What do you think?",
+                    "Didascalie": "",
+                    "Start": 1035,
+                    "End": 1076
+                },
+                {
+                    "Reply": "-",
+                    "Didascalie": "",
+                    "Start": 1178,
+                    "End": 1181
+                },
+                {
+                    "Reply": "Hey, could I use your guys's phone for a sec?",
+                    "Didascalie": "",
+                    "Start": 1198,
+                    "End": 1244
+                },
+                {
+                    "Reply": "I don't feel very good.",
+                    "Didascalie": "",
+                    "Start": 1299,
+                    "End": 1323
+                },
+                {
+                    "Reply": "Is Grandma There?",
+                    "Didascalie": "",
+                    "Start": 1352,
+                    "End": 1370
+                },
+                {
+                    "Reply": "Can you just go get her for me?",
+                    "Didascalie": "",
+                    "Start": 1471,
+                    "End": 1503
+                },
+                {
+                    "Reply": "Well, just tell her to come get me.",
+                    "Didascalie": "",
+                    "Start": 1551,
+                    "End": 1587
+                },
+                {
+                    "Reply": "'Cause I don't feel good.",
+                    "Didascalie": "",
+                    "Start": 1613,
+                    "End": 1639
+                },
+                {
+                    "Reply": "No, she doesn't know anything. Will you just come get me?",
+                    "Didascalie": "",
+                    "Start": 1703,
+                    "End": 1761
+                },
+                {
+                    "Reply": "Well, will you do me a favor then?",
+                    "Didascalie": "",
+                    "Start": 1786,
+                    "End": 1821
+                },
+                {
+                    "Reply": "Can you bring me my ChapStick?",
+                    "Didascalie": "",
+                    "Start": 1848,
+                    "End": 1879
+                },
+                {
+                    "Reply": "But my lips hurt real bad.",
+                    "Didascalie": "",
+                    "Start": 1913,
+                    "End": 1940
+                },
+                {
+                    "Reply": "I'm not gonna use hers, you sicko.",
+                    "Didascalie": "",
+                    "Start": 2050,
+                    "End": 2085
+                },
+                {
+                    "Reply": "-    WOMAN ON P.A.",
+                    "Didascalie": "",
+                    "Start": 2145,
+                    "End": 2164
+                },
+                {
+                    "Reply": "Hey, is that a new kid or something?",
+                    "Didascalie": "",
+                    "Start": 2364,
+                    "End": 2401
+                },
+                {
+                    "Reply": "Sure. Come on.",
+                    "Didascalie": "",
+                    "Start": 2501,
+                    "End": 2516
+                },
+                {
+                    "Reply": "You know, there's, like, a buttload of gangs at this school. This one gang kept wanting me to join 'cause I'm pretty good with a bo staff. Do you ride the bus to school?",
+                    "Didascalie": "",
+                    "Start": 2538,
+                    "End": 2708
+                },
+                {
+                    "Reply": "What kind of bike do you have?",
+                    "Didascalie": "",
+                    "Start": 2752,
+                    "End": 2783
+                },
+                {
+                    "Reply": "Dang! You got shocks, pegs. Lucky! You ever take it off any sweet jumps?",
+                    "Didascalie": "",
+                    "Start": 2836,
+                    "End": 2909
+                },
+                {
+                    "Reply": "-",
+                    "Didascalie": "",
+                    "Start": 3022,
+                    "End": 3025
+                },
+                {
+                    "Reply": "The worst day of my life.  What do you think?",
+                    "Didascalie": "",
+                    "Start": 3229,
+                    "End": 3275
+                },
+                {
+                    "Reply": "Kip hasn't done flipping anything today.",
+                    "Didascalie": "",
+                    "Start": 3363,
+                    "End": 3404
+                },
+                {
+                    "Reply": "Well, what's there to eat?",
+                    "Didascalie": "",
+                    "Start": 3688,
+                    "End": 3715
+                },
+                {
+                    "Reply": "Fine!",
+                    "Didascalie": "",
+                    "Start": 3798,
+                    "End": 3804
+                },
+                {
+                    "Reply": "Stay home and eat all the freakin' chips, Kip!",
+                    "Didascalie": "",
+                    "Start": 3856,
+                    "End": 3903
+                },
+                {
+                    "Reply": "Since when, Kip?  You have the worst reflexes of all time.",
+                    "Didascalie": "",
+                    "Start": 4064,
+                    "End": 4123
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 4170,
+                    "End": 4176
+                },
+                {
+                    "Reply": "Such an idiot!",
+                    "Didascalie": "",
+                    "Start": 4263,
+                    "End": 4278
+                },
+                {
+                    "Reply": "I'll go get it.",
+                    "Didascalie": "",
+                    "Start": 4375,
+                    "End": 4391
+                },
+                {
+                    "Reply": "This is a girl.",
+                    "Didascalie": "",
+                    "Start": 4504,
+                    "End": 4520
+                },
+                {
+                    "Reply": "I already get my hair cut at the Cuttin' Corral.",
+                    "Didascalie": "",
+                    "Start": 4607,
+                    "End": 4656
+                },
+                {
+                    "Reply": "I already made, like, infinity of those at Scout camp.",
+                    "Didascalie": "",
+                    "Start": 5120,
+                    "End": 5175
+                },
+                {
+                    "Reply": "Tina, you fat lard.  Come get some dinner.",
+                    "Didascalie": "",
+                    "Start": 5304,
+                    "End": 5347
+                },
+                {
+                    "Reply": "Tina, eat. Eat the food.",
+                    "Didascalie": "",
+                    "Start": 5377,
+                    "End": 5402
+                },
+                {
+                    "Reply": "Eat the food!",
+                    "Didascalie": "",
+                    "Start": 5432,
+                    "End": 5446
+                },
+                {
+                    "Reply": "Hey, Lyle.",
+                    "Didascalie": "",
+                    "Start": 7164,
+                    "End": 7175
+                },
+                {
+                    "Reply": "So me and you are pretty much friends by now, right?",
+                    "Didascalie": "",
+                    "Start": 7302,
+                    "End": 7355
+                },
+                {
+                    "Reply": "So, you got my back and everything?",
+                    "Didascalie": "",
+                    "Start": 7383,
+                    "End": 7419
+                },
+                {
+                    "Reply": "Never mind. Have you heard about the dance?",
+                    "Didascalie": "",
+                    "Start": 7448,
+                    "End": 7492
+                },
+                {
+                    "Reply": "Have you met anyone to ask yet?",
+                    "Didascalie": "",
+                    "Start": 7520,
+                    "End": 7552
+                },
+                {
+                    "Reply": "Who you gonna ask?",
+                    "Didascalie": "",
+                    "Start": 7613,
+                    "End": 7632
+                },
+                {
+                    "Reply": "Summer Wheatly? How the heck are you gonna do that?",
+                    "Didascalie": "",
+                    "Start": 7677,
+                    "End": 7729
+                },
+                {
+                    "Reply": "Yeah, my old girlfriend from Oklahoma was gonna fly out here for the dance but she couldn't 'cause she's doing some modeling right now.",
+                    "Didascalie": "",
+                    "Start": 7783,
+                    "End": 7919
+                },
+                {
+                    "Reply": "See for yourself.",
+                    "Didascalie": "",
+                    "Start": 7954,
+                    "End": 7972
+                },
+                {
+                    "Reply": "Yeah, I took her to the mall to get some glamour shots for her birthday one year.",
+                    "Didascalie": "",
+                    "Start": 8000,
+                    "End": 8082
+                },
+                {
+                    "Reply": "Me too.",
+                    "Didascalie": "",
+                    "Start": 8123,
+                    "End": 8131
+                },
+                {
+                    "Reply": "How long did it take you to grow that mustache?",
+                    "Didascalie": "",
+                    "Start": 8153,
+                    "End": 8201
+                },
+                {
+                    "Reply": "I wish I could grow one. Are you gonna eat your Tots?",
+                    "Didascalie": "",
+                    "Start": 8242,
+                    "End": 8296
+                },
+                {
+                    "Reply": "Can I have 'em?",
+                    "Didascalie": "",
+                    "Start": 8323,
+                    "End": 8339
+                },
+                {
+                    "Reply": "You see that girl over there? She came over to my house the other day.",
+                    "Didascalie": "",
+                    "Start": 8368,
+                    "End": 8439
+                },
+                {
+                    "Reply": "I don't know, but she left all this crap on my porch.",
+                    "Didascalie": "",
+                    "Start": 8467,
+                    "End": 8521
+                },
+                {
+                    "Reply": "Do you dare me to go talk to her?",
+                    "Didascalie": "",
+                    "Start": 8571,
+                    "End": 8605
+                },
+                {
+                    "Reply": "I see you're drinking one-percent. Is that 'cause you think you're fat? 'Cause you're not. You could be drinking whole if you wanted to. Well, I have all your equipment in my locker. You should probably come get it 'cause I can't fit my nunchakus in there anymore.",
+                    "Didascalie": "",
+                    "Start": 8643,
+                    "End": 8908
+                },
+                {
+                    "Reply": "Hey, can I have one of your key chains?",
+                    "Didascalie": "",
+                    "Start": 8955,
+                    "End": 8995
+                },
+                {
+                    "Reply": "No, go find your own.",
+                    "Didascalie": "",
+                    "Start": 9085,
+                    "End": 9107
+                },
+                {
+                    "Reply": "No. I'm freakin' starved. I didn't get to eat anything today.",
+                    "Didascalie": "",
+                    "Start": 9167,
+                    "End": 9229
+                },
+                {
+                    "Reply": "G-- Gross. Freakin' idiot!",
+                    "Didascalie": "",
+                    "Start": 9263,
+                    "End": 9290
+                },
+                {
+                    "Reply": "Tina, come get some ham.",
+                    "Didascalie": "",
+                    "Start": 9332,
+                    "End": 9357
+                },
+                {
+                    "Reply": "What are you doing here, Uncle Rico?",
+                    "Didascalie": "",
+                    "Start": 9432,
+                    "End": 9469
+                },
+                {
+                    "Reply": "What? Since when does she go to the dunes?",
+                    "Didascalie": "",
+                    "Start": 9567,
+                    "End": 9610
+                },
+                {
+                    "Reply": "You don't have to stay here with us. We're not babies.",
+                    "Didascalie": "",
+                    "Start": 9782,
+                    "End": 9837
+                },
+                {
+                    "Reply": "Well, Kip is, like, 32 years old.",
+                    "Didascalie": "",
+                    "Start": 9898,
+                    "End": 9932
+                },
+                {
+                    "Reply": "What the flip was Grandma doin' at the sand dunes?",
+                    "Didascalie": "",
+                    "Start": 10005,
+                    "End": 10056
+                },
+                {
+                    "Reply": "Boyfriend?",
+                    "Didascalie": "",
+                    "Start": 10118,
+                    "End": 10129
+                },
+                {
+                    "Reply": "This is pretty much the worst video ever made.",
+                    "Didascalie": "",
+                    "Start": 10340,
+                    "End": 10387
+                },
+                {
+                    "Reply": "You guys are retarded.",
+                    "Didascalie": "",
+                    "Start": 10499,
+                    "End": 10522
+                },
+                {
+                    "Reply": "Go for it.",
+                    "Didascalie": "",
+                    "Start": 11528,
+                    "End": 11539
+                },
+                {
+                    "Reply": "What the heck are you doing?",
+                    "Didascalie": "",
+                    "Start": 11722,
+                    "End": 11751
+                },
+                {
+                    "Reply": "I don't think so.  Why?",
+                    "Didascalie": "",
+                    "Start": 12492,
+                    "End": 12516
+                },
+                {
+                    "Reply": "Okay. Hey, Summer, you want to play me?",
+                    "Didascalie": "",
+                    "Start": 12594,
+                    "End": 12634
+                },
+                {
+                    "Reply": "Ow. God.",
+                    "Didascalie": "",
+                    "Start": 12671,
+                    "End": 12680
+                },
+                {
+                    "Reply": "A liger.",
+                    "Didascalie": "",
+                    "Start": 12728,
+                    "End": 12737
+                },
+                {
+                    "Reply": "It's pretty much my favorite animal. It's like a lion and a tiger mixed. Bred for its skills in magic.",
+                    "Didascalie": "",
+                    "Start": 12774,
+                    "End": 12877
+                },
+                {
+                    "Reply": "I don't know. Did you see him today?",
+                    "Didascalie": "",
+                    "Start": 12932,
+                    "End": 12969
+                },
+                {
+                    "Reply": "Neither did I.",
+                    "Didascalie": "",
+                    "Start": 12994,
+                    "End": 13009
+                },
+                {
+                    "Reply": "No. I missed the bus today, but my uncle's coming to get me.",
+                    "Didascalie": "",
+                    "Start": 13050,
+                    "End": 13111
+                },
+                {
+                    "Reply": "See ya.",
+                    "Didascalie": "",
+                    "Start": 13152,
+                    "End": 13160
+                },
+                {
+                    "Reply": "What the crap was Uncle Rico doin' over at my girlfriend's house?",
+                    "Didascalie": "",
+                    "Start": 17883,
+                    "End": 17949
+                },
+                {
+                    "Reply": "Fine. What the heck are you guys doin'? Tryin' to ruin my life and make me look like a friggin' idiot?",
+                    "Didascalie": "",
+                    "Start": 18028,
+                    "End": 18131
+                },
+                {
+                    "Reply": "I did?",
+                    "Didascalie": "",
+                    "Start": 18235,
+                    "End": 18242
+                },
+                {
+                    "Reply": "A little bit.",
+                    "Didascalie": "",
+                    "Start": 18295,
+                    "End": 18309
+                },
+                {
+                    "Reply": "I wish you'd get out of my life and shut up.",
+                    "Didascalie": "",
+                    "Start": 18389,
+                    "End": 18434
+                },
+                {
+                    "Reply": "I could make that much money in five seconds.",
+                    "Didascalie": "",
+                    "Start": 18598,
+                    "End": 18644
+                },
+                {
+                    "Reply": "Why don't you go eat a \"decroded\" piece of crap.",
+                    "Didascalie": "",
+                    "Start": 18819,
+                    "End": 18868
+                }
+            ]
+        },
+        {
+            "Character": "TEACHER",
+            "Replies": [
+                {
+                    "Reply": "Your current event Napoleon.",
+                    "Didascalie": "",
+                    "Start": 274,
+                    "End": 303
+                }
+            ]
+        },
+        {
+            "Character": "DON",
+            "Replies": [
+                {
+                    "Reply": "Hey, Napoleon, what'd you do all last summer again?",
+                    "Didascalie": "",
+                    "Start": 697,
+                    "End": 749
+                },
+                {
+                    "Reply": "Did you shoot any?",
+                    "Didascalie": "",
+                    "Start": 838,
+                    "End": 857
+                },
+                {
+                    "Reply": "What kind of gun did you use?",
+                    "Didascalie": "",
+                    "Start": 992,
+                    "End": 1022
+                }
+            ]
+        },
+        {
+            "Character": "RANDY",
+            "Replies": [
+                {
+                    "Reply": "You think you're funny?",
+                    "Didascalie": "",
+                    "Start": 1091,
+                    "End": 1115
+                },
+                {
+                    "Reply": "Napoleon, give me some of your Tots.",
+                    "Didascalie": "",
+                    "Start": 9035,
+                    "End": 9072
+                },
+                {
+                    "Reply": "Come on.  Give me some of your Tots.",
+                    "Didascalie": "",
+                    "Start": 9117,
+                    "End": 9154
+                }
+            ]
+        },
+        {
+            "Character": "RECEPTIONIST",
+            "Replies": [
+                {
+                    "Reply": "Is there anything wrong?",
+                    "Didascalie": "",
+                    "Start": 1261,
+                    "End": 1286
+                }
+            ]
+        },
+        {
+            "Character": "KIP",
+            "Replies": [
+                {
+                    "Reply": "No, she's getting her hair done.",
+                    "Didascalie": "",
+                    "Start": 1378,
+                    "End": 1411
+                },
+                {
+                    "Reply": "What do you need?",
+                    "Didascalie": "",
+                    "Start": 1440,
+                    "End": 1458
+                },
+                {
+                    "Reply": "I'm really busy right now.",
+                    "Didascalie": "",
+                    "Start": 1511,
+                    "End": 1538
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 1595,
+                    "End": 1600
+                },
+                {
+                    "Reply": "Well, have you talked to the school nurse?",
+                    "Didascalie": "",
+                    "Start": 1647,
+                    "End": 1690
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 1769,
+                    "End": 1773
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 1829,
+                    "End": 1835
+                },
+                {
+                    "Reply": "Just borrow some from the school nurse. I know she has, like, five sticks in her drawer.",
+                    "Didascalie": "",
+                    "Start": 1948,
+                    "End": 2037
+                },
+                {
+                    "Reply": "I love the way...",
+                    "Didascalie": "",
+                    "Start": 3037,
+                    "End": 3055
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 3465,
+                    "End": 3471
+                },
+                {
+                    "Reply": "Napoleon, don't be jealous that I've been chatting online with babes, all day. Besides, we both know I'm training to become a cage fighter.",
+                    "Didascalie": "",
+                    "Start": 3911,
+                    "End": 4051
+                },
+                {
+                    "Reply": "Try and hit me, Napoleon.",
+                    "Didascalie": "",
+                    "Start": 4131,
+                    "End": 4157
+                },
+                {
+                    "Reply": "I said come down here and see what happens if you try and hit me.",
+                    "Didascalie": "",
+                    "Start": 4184,
+                    "End": 4250
+                },
+                {
+                    "Reply": "Let me see what your best move is.",
+                    "Didascalie": "",
+                    "Start": 4286,
+                    "End": 4321
+                },
+                {
+                    "Reply": "Geez!",
+                    "Didascalie": "",
+                    "Start": 4423,
+                    "End": 4429
+                },
+                {
+                    "Reply": "Your mom goes to college.",
+                    "Didascalie": "",
+                    "Start": 5256,
+                    "End": 5282
+                },
+                {
+                    "Reply": "It'd be nice if you could pull me into town.",
+                    "Didascalie": "",
+                    "Start": 5473,
+                    "End": 5518
+                },
+                {
+                    "Reply": "Geez!",
+                    "Didascalie": "",
+                    "Start": 6170,
+                    "End": 6176
+                },
+                {
+                    "Reply": "Well, that place was a rip-off.",
+                    "Didascalie": "",
+                    "Start": 7114,
+                    "End": 7146
+                },
+                {
+                    "Reply": "So, when's Grandma coming back?",
+                    "Didascalie": "",
+                    "Start": 9704,
+                    "End": 9736
+                },
+                {
+                    "Reply": "I don't mind if you stay.",
+                    "Didascalie": "",
+                    "Start": 9940,
+                    "End": 9966
+                },
+                {
+                    "Reply": "It's pretty cool, I guess.",
+                    "Didascalie": "",
+                    "Start": 10234,
+                    "End": 10261
+                },
+                {
+                    "Reply": "Napoleon, like anyone can even know that.",
+                    "Didascalie": "",
+                    "Start": 10395,
+                    "End": 10437
+                },
+                {
+                    "Reply": "So, you and Tammy still together?",
+                    "Didascalie": "",
+                    "Start": 10573,
+                    "End": 10607
+                },
+                {
+                    "Reply": "Why is that?",
+                    "Didascalie": "",
+                    "Start": 10641,
+                    "End": 10654
+                },
+                {
+                    "Reply": "Really?",
+                    "Didascalie": "",
+                    "Start": 10726,
+                    "End": 10734
+                },
+                {
+                    "Reply": "Well, things are gettin' pretty serious right now. I mean, we chat online for, like, two hours every day... so I guess you could say things are gettin' pretty serious. I'm just really tryin' to raise a few bucks right now so I can bring her around for a few days.",
+                    "Didascalie": "",
+                    "Start": 10799,
+                    "End": 11063
+                },
+                {
+                    "Reply": "She's uh-- she's got sandy blonde hair. She's, uh, pretty-look-- pretty good-looking face, but... I'm just gettin' really-- just kinda T.O.'d because, I mean, she hasn't even sent me a full body shot yet.",
+                    "Didascalie": "",
+                    "Start": 11113,
+                    "End": 11318
+                },
+                {
+                    "Reply": "Really?  That sounds pretty good.",
+                    "Didascalie": "",
+                    "Start": 11429,
+                    "End": 11463
+                },
+                {
+                    "Reply": "Aare you serious?",
+                    "Didascalie": "",
+                    "Start": 11631,
+                    "End": 11649
+                },
+                {
+                    "Reply": "That's what I'm talkin' about.",
+                    "Didascalie": "",
+                    "Start": 11759,
+                    "End": 11790
+                },
+                {
+                    "Reply": "Easy. I've already looked into it for myself.",
+                    "Didascalie": "",
+                    "Start": 12365,
+                    "End": 12411
+                },
+                {
+                    "Reply": "So, how long are we talkin' about workin'?",
+                    "Didascalie": "",
+                    "Start": 13352,
+                    "End": 13395
+                },
+                {
+                    "Reply": "All right.",
+                    "Didascalie": "",
+                    "Start": 13613,
+                    "End": 13624
+                },
+                {
+                    "Reply": "Geez, sometimes up to three, four hours maybe. Maybe not. I don't know.",
+                    "Didascalie": "",
+                    "Start": 13692,
+                    "End": 13764
+                },
+                {
+                    "Reply": "Yeah. Grandma's still payin' per minute. She gets kind of pissed at me sometimes 'cause I'm on there so long.",
+                    "Didascalie": "",
+                    "Start": 13889,
+                    "End": 13999
+                },
+                {
+                    "Reply": "Ow!",
+                    "Didascalie": "",
+                    "Start": 17868,
+                    "End": 17872
+                },
+                {
+                    "Reply": "Napoleon, let go of me! I think you're bruisin' my neck meat!",
+                    "Didascalie": "",
+                    "Start": 17955,
+                    "End": 18017
+                },
+                {
+                    "Reply": "I'm out makin' some sweet moola with Uncle Rico. Geez, I think you ripped my mole off.",
+                    "Didascalie": "",
+                    "Start": 18137,
+                    "End": 18224
+                },
+                {
+                    "Reply": "Yeah, is it bleeding?",
+                    "Didascalie": "",
+                    "Start": 18248,
+                    "End": 18270
+                },
+                {
+                    "Reply": "Geez. Yeah, right, Napoleon. I made, like, 75 bucks today.",
+                    "Didascalie": "",
+                    "Start": 18650,
+                    "End": 18709
+                }
+            ]
+        },
+        {
+            "Character": "PRINCIPAL",
+            "Replies": [
+                {
+                    "Reply": "You do understand English? This isn't that complex. Look, the cafeteria's down the hall to the right and downstairs.",
+                    "Didascalie": "",
+                    "Start": 2234,
+                    "End": 2351
+                },
+                {
+                    "Reply": "Napoleon, this is Pedro. Would you mind showing him where his locker is?",
+                    "Didascalie": "",
+                    "Start": 2415,
+                    "End": 2488
+                }
+            ]
+        },
+        {
+            "Character": "PEDRO",
+            "Replies": [
+                {
+                    "Reply": "No.  I ride by bike.",
+                    "Didascalie": "",
+                    "Start": 2718,
+                    "End": 2739
+                },
+                {
+                    "Reply": "It's a Sledgehammer.",
+                    "Didascalie": "",
+                    "Start": 2802,
+                    "End": 2823
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 7365,
+                    "End": 7370
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 7429,
+                    "End": 7435
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 7502,
+                    "End": 7507
+                },
+                {
+                    "Reply": "No. But I probably will after school.",
+                    "Didascalie": "",
+                    "Start": 7562,
+                    "End": 7600
+                },
+                {
+                    "Reply": "That girl over there.",
+                    "Didascalie": "",
+                    "Start": 7642,
+                    "End": 7664
+                },
+                {
+                    "Reply": "Build her a cake or something.",
+                    "Didascalie": "",
+                    "Start": 7739,
+                    "End": 7770
+                },
+                {
+                    "Reply": "Is she hot?",
+                    "Didascalie": "",
+                    "Start": 7929,
+                    "End": 7941
+                },
+                {
+                    "Reply": "Wow.",
+                    "Didascalie": "",
+                    "Start": 7982,
+                    "End": 7987
+                },
+                {
+                    "Reply": "I like her bangs.",
+                    "Didascalie": "",
+                    "Start": 8092,
+                    "End": 8110
+                },
+                {
+                    "Reply": "A couple of days.",
+                    "Didascalie": "",
+                    "Start": 8211,
+                    "End": 8229
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 8306,
+                    "End": 8310
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 8449,
+                    "End": 8454
+                },
+                {
+                    "Reply": "She's pretty good-looking.",
+                    "Didascalie": "",
+                    "Start": 8531,
+                    "End": 8558
+                },
+                {
+                    "Reply": "Sure.",
+                    "Didascalie": "",
+                    "Start": 8615,
+                    "End": 8621
+                },
+                {
+                    "Reply": "I better go.",
+                    "Didascalie": "",
+                    "Start": 11800,
+                    "End": 11813
+                }
+            ]
+        },
+        {
+            "Character": "GRANDMA",
+            "Replies": [
+                {
+                    "Reply": "How was school?",
+                    "Didascalie": "",
+                    "Start": 3200,
+                    "End": 3216
+                },
+                {
+                    "Reply": "Well, I want you to go see if Tina wants some of this.",
+                    "Didascalie": "",
+                    "Start": 3287,
+                    "End": 3342
+                },
+                {
+                    "Reply": "Look, tonight me and your--",
+                    "Didascalie": "",
+                    "Start": 3416,
+                    "End": 3444
+                },
+                {
+                    "Reply": "Tonight me and your aunt are gonna go visit some friends and we're not gonna be back till tomorrow. We're gettin' a little low on steak, so I got Lyle comin' over tomorrow to take care of it.",
+                    "Didascalie": "",
+                    "Start": 3483,
+                    "End": 3675
+                },
+                {
+                    "Reply": "Knock it off, Napoleon.  Make yourself a dang quesadilla!",
+                    "Didascalie": "",
+                    "Start": 3727,
+                    "End": 3785
+                },
+                {
+                    "Reply": "I'll be back tomorrow.",
+                    "Didascalie": "",
+                    "Start": 3816,
+                    "End": 3839
+                }
+            ]
+        },
+        {
+            "Character": "DEB",
+            "Replies": [
+                {
+                    "Reply": "Um, hello. Would you like to look like this?",
+                    "Didascalie": "",
+                    "Start": 4446,
+                    "End": 4491
+                },
+                {
+                    "Reply": "Well, maybe you'd be interested in some home-woven handicrafts.",
+                    "Didascalie": "",
+                    "Start": 4664,
+                    "End": 4728
+                },
+                {
+                    "Reply": "In here we have some boondoggle key chains. A must-have for this season's fashion.",
+                    "Didascalie": "",
+                    "Start": 5024,
+                    "End": 5107
+                },
+                {
+                    "Reply": "Well, is anyone else here? I'm trying to earn money for college.",
+                    "Didascalie": "",
+                    "Start": 5183,
+                    "End": 5248
+                },
+                {
+                    "Reply": "Where's your locker?",
+                    "Didascalie": "",
+                    "Start": 8916,
+                    "End": 8937
+                },
+                {
+                    "Reply": "What are you drawing?",
+                    "Didascalie": "",
+                    "Start": 12693,
+                    "End": 12715
+                },
+                {
+                    "Reply": "What's a liger?",
+                    "Didascalie": "",
+                    "Start": 12745,
+                    "End": 12761
+                },
+                {
+                    "Reply": "Hmm.",
+                    "Didascalie": "",
+                    "Start": 12885,
+                    "End": 12890
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 12977,
+                    "End": 12981
+                },
+                {
+                    "Reply": "Do you need a ride?",
+                    "Didascalie": "",
+                    "Start": 13017,
+                    "End": 13037
+                },
+                {
+                    "Reply": "Oh.",
+                    "Didascalie": "",
+                    "Start": 13119,
+                    "End": 13123
+                }
+            ]
+        },
+        {
+            "Character": "REX",
+            "Replies": [
+                {
+                    "Reply": "I'm Rex, founder of the Rex Kwon Do Self-Defense System. After one week with me in my dojo, you'll be prepared to defend yourself with the strength of a grizzly... the reflexes of a puma... and the wisdom of a man. So come down today for your free trial lesson!",
+                    "Didascalie": "",
+                    "Start": 4745,
+                    "End": 5007
+                },
+                {
+                    "Reply": "My name is Rex, and if you study with my eight-week program you will learn a system of self defense that I developed over two seasons of fighting in the Octagon. It's called Rex Kwon Do! I need a volunteer.",
+                    "Didascalie": "",
+                    "Start": 5535,
+                    "End": 5742
+                },
+                {
+                    "Reply": "Okay, you'll do. Come up here. Bow to your sensei. Bow to your sensei! Okay. Now I'm gonna give you one chance. One chance, people. Give me your best shot. All right. That was pretty good. Okay. Now, watch this everybody. Grab my arm. The other arm. My other arm. Okay, now watch this. I'm just gonna break the wrist and walk away. Break the wrist, walk away.",
+                    "Didascalie": "",
+                    "Start": 5771,
+                    "End": 6131
+                },
+                {
+                    "Reply": "Okay. It's just that simple.  Now, I want you to kick me. Come on. Kick me. Okay, do it again. Do it again.",
+                    "Didascalie": "",
+                    "Start": 6184,
+                    "End": 6292
+                },
+                {
+                    "Reply": "-",
+                    "Didascalie": "",
+                    "Start": 7099,
+                    "End": 7102
+                }
+            ]
+        },
+        {
+            "Character": "LYLE",
+            "Replies": [
+                {
+                    "Reply": "Nothin' on here works smooth.",
+                    "Didascalie": "",
+                    "Start": 7198,
+                    "End": 7228
+                }
+            ]
+        },
+        {
+            "Character": "RICO",
+            "Replies": [
+                {
+                    "Reply": "Hello?",
+                    "Didascalie": "",
+                    "Start": 9009,
+                    "End": 9016
+                },
+                {
+                    "Reply": "Your grandma took a little spill at the sand dunes today, broke her coccyx.",
+                    "Didascalie": "",
+                    "Start": 9478,
+                    "End": 9554
+                },
+                {
+                    "Reply": "Looks like there's a lot you don't know about her.",
+                    "Didascalie": "",
+                    "Start": 9619,
+                    "End": 9670
+                },
+                {
+                    "Reply": "I don't know. Not sure.",
+                    "Didascalie": "",
+                    "Start": 9745,
+                    "End": 9769
+                },
+                {
+                    "Reply": "Talk to your Auntie Caroline.",
+                    "Didascalie": "",
+                    "Start": 9855,
+                    "End": 9885
+                },
+                {
+                    "Reply": "Oh. Thanks, Kip.",
+                    "Didascalie": "",
+                    "Start": 9975,
+                    "End": 9992
+                },
+                {
+                    "Reply": "She was on a date...with her boyfriend.",
+                    "Didascalie": "",
+                    "Start": 10065,
+                    "End": 10105
+                },
+                {
+                    "Reply": "Hey, you guys want to see my video?",
+                    "Didascalie": "",
+                    "Start": 10138,
+                    "End": 10174
+                },
+                {
+                    "Reply": "So, what do you think?",
+                    "Didascalie": "",
+                    "Start": 10203,
+                    "End": 10226
+                },
+                {
+                    "Reply": "Oh. Man, I wish I could go back in time. I'd take state.",
+                    "Didascalie": "",
+                    "Start": 10270,
+                    "End": 10327
+                },
+                {
+                    "Reply": "You know what, Napoleon? You can leave.",
+                    "Didascalie": "",
+                    "Start": 10446,
+                    "End": 10486
+                },
+                {
+                    "Reply": "No.  Not really.",
+                    "Didascalie": "",
+                    "Start": 10616,
+                    "End": 10633
+                },
+                {
+                    "Reply": "Well...she's jealous.",
+                    "Didascalie": "",
+                    "Start": 10663,
+                    "End": 10685
+                },
+                {
+                    "Reply": "Well, I dumped her. What about your girlfriend?",
+                    "Didascalie": "",
+                    "Start": 10743,
+                    "End": 10791
+                },
+                {
+                    "Reply": "Yep. Well, what's she look like?",
+                    "Didascalie": "",
+                    "Start": 11072,
+                    "End": 11105
+                },
+                {
+                    "Reply": "Hey, you know... I got a little project... that we might be able to make a little moola with.",
+                    "Didascalie": "",
+                    "Start": 11327,
+                    "End": 11421
+                },
+                {
+                    "Reply": "Have you ever heard of nylon polymer?",
+                    "Didascalie": "",
+                    "Start": 11472,
+                    "End": 11510
+                },
+                {
+                    "Reply": "Back in '82, I used to be able to throw a pigskin a quarter mile.",
+                    "Didascalie": "",
+                    "Start": 11557,
+                    "End": 11623
+                },
+                {
+                    "Reply": "I'm dead serious. Watch this.",
+                    "Didascalie": "",
+                    "Start": 11658,
+                    "End": 11688
+                },
+                {
+                    "Reply": "How much you want to make a bet I can throw a football over them mountains? Yeah. If coach would've put me in fourth quarter... we'd have been state champions, no doubt. No doubt in my mind. You better believe things would have been different. I'd have gone pro...in a heartbeat. I'd be makin' millions of dollars and... livin' in a... big ol' mansion somewhere. You know, soakin' it up in a hot tub with my soul mate. Kip, I reckon you know a lot about cyberspace.",
+                    "Didascalie": "",
+                    "Start": 11841,
+                    "End": 12307
+                },
+                {
+                    "Reply": "Right on. Right on.",
+                    "Didascalie": "",
+                    "Start": 12420,
+                    "End": 12440
+                },
+                {
+                    "Reply": "Right. I-- I think just a little bit east of the cementery is a good little area right here. We should do it there. Don't go down here, 'cause they don't have any money.",
+                    "Didascalie": "",
+                    "Start": 13174,
+                    "End": 13344
+                },
+                {
+                    "Reply": "What are you-- You're already losing your steam?",
+                    "Didascalie": "",
+                    "Start": 13404,
+                    "End": 13453
+                },
+                {
+                    "Reply": "All right, you just start a little earlier. That's all.",
+                    "Didascalie": "",
+                    "Start": 13549,
+                    "End": 13605
+                },
+                {
+                    "Reply": "Or else work afterwards. How long's the chat room?",
+                    "Didascalie": "",
+                    "Start": 13633,
+                    "End": 13684
+                },
+                {
+                    "Reply": "You-- You pay the bills for that? Does that cost money every time you're on, like for minutes on the phone?",
+                    "Didascalie": "",
+                    "Start": 13773,
+                    "End": 13881
+                },
+                {
+                    "Reply": "I'll bet she does. I'd be throwin' you out the window.",
+                    "Didascalie": "",
+                    "Start": 14008,
+                    "End": 14063
+                },
+                {
+                    "Reply": "Hey, Kip. I wish you wouldn't look at me like that, Napoleon.",
+                    "Didascalie": "",
+                    "Start": 18316,
+                    "End": 18378
+                },
+                {
+                    "Reply": "I'm gonna tell you somethin' right now. While you're out there playin' patty-cake with your friend Pedro, your Uncle Rico... is makin' 120 bucks.",
+                    "Didascalie": "",
+                    "Start": 18441,
+                    "End": 18587
+                },
+                {
+                    "Reply": "Napoleon, it looks like you don't have a job. So why don't you get out there and feed Tina.",
+                    "Didascalie": "",
+                    "Start": 18716,
+                    "End": 18808
+                }
+            ]
+        },
+        {
+            "Character": "SUMMER",
+            "Replies": [
+                {
+                    "Reply": "Is Pedro here today?",
+                    "Didascalie": "",
+                    "Start": 12458,
+                    "End": 12479
+                },
+                {
+                    "Reply": "Just wondering. Can you, uh, give this to him for me?",
+                    "Didascalie": "",
+                    "Start": 12527,
+                    "End": 12581
+                },
+                {
+                    "Reply": "Mm-mmm.",
+                    "Didascalie": "",
+                    "Start": 12645,
+                    "End": 12653
+                }
+            ]
+        }
+    ]
 }

@@ -1,13 +1,18 @@
 {
-    "Title": [
-        "Wild Wild West",
-        "   "
-    ],
+    "Title": "Wild Wild West",
     "Author": [
-        "\u00a0\u00a0S. S. Wilson\u00a0\u00a0Brent Maddock\u00a0\u00a0Jeffrey Price\u00a0\u00a0Peter S. Seaman\u00a0\u00a0Jim Thomas\u00a0\u00a0John Thomas"
+        "S. S. Wilson",
+        "Brent Maddock",
+        "Jeffrey Price",
+        "Peter S. Seaman",
+        "Jim Thomas",
+        "John Thomas"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi\u00a0\u00a0Western"
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Western"
     ],
     "Characters": [
         {

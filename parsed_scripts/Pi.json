@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Pi",
-        "   "
-    ],
+    "Title": "Pi",
     "Author": [
-        "\u00a0\u00a0Darren Aronofsky"
+        "Darren Aronofsky"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

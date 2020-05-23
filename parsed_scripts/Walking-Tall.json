@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Walking Tall",
-        "   "
-    ],
+    "Title": "Walking Tall",
     "Author": [
-        "\u00a0\u00a0Mort Briskin\u00a0\u00a0David Klass"
+        "Mort Briskin",
+        "David Klass"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1750,12 +1750,6 @@
                     "End": 15488
                 },
                 {
-                    "Reply": "Oh Hamilton's one sixteenth black man now.  FRIEND 2 Just so you guys know, I'm gonna triple my money tonight.",
-                    "Didascalie": "",
-                    "Start": 19486,
-                    "End": 19713
-                },
-                {
                     "Reply": "We're gettin killed out here. I need you to put 200 down for the bet.",
                     "Didascalie": "(To Chris)",
                     "Start": 25434,
@@ -1996,6 +1990,46 @@
             ]
         },
         {
+            "Character": "FRIEND 2",
+            "Replies": [
+                {
+                    "Reply": "Just so you guys know, I'm gonna triple my money tonight.",
+                    "Didascalie": "",
+                    "Start": 19629,
+                    "End": 19713
+                },
+                {
+                    "Reply": "Don't worry, everybody's a lil scared the first time. Get in there, sit back and enjoy.",
+                    "Didascalie": "",
+                    "Start": 22955,
+                    "End": 23095
+                },
+                {
+                    "Reply": "If you're not back by morning we'll send a search party for you.",
+                    "Didascalie": "",
+                    "Start": 23281,
+                    "End": 23372
+                },
+                {
+                    "Reply": "So, good surprise?",
+                    "Didascalie": "",
+                    "Start": 24749,
+                    "End": 24768
+                }
+            ]
+        },
+        {
+            "Character": "FRIEND 4",
+            "Replies": [
+                {
+                    "Reply": "He had to walk!  They all laugh.",
+                    "Didascalie": "",
+                    "Start": 19948,
+                    "End": 19997
+                }
+            ]
+        },
+        {
             "Character": "FRIEND",
             "Replies": [
                 {
@@ -2083,6 +2117,17 @@
             ]
         },
         {
+            "Character": "FRIEND 1",
+            "Replies": [
+                {
+                    "Reply": "Look who's back.",
+                    "Didascalie": "",
+                    "Start": 24660,
+                    "End": 24677
+                }
+            ]
+        },
+        {
             "Character": "CROUPIER",
             "Replies": [
                 {
@@ -2131,6 +2176,40 @@
                     "Didascalie": "",
                     "Start": 28732,
                     "End": 28752
+                }
+            ]
+        },
+        {
+            "Character": "BAD GUY 1",
+            "Replies": [
+                {
+                    "Reply": "Special forces? I'll take that.",
+                    "Didascalie": "(Sees the tag around Chris' neck)",
+                    "Start": 29720,
+                    "End": 29779
+                },
+                {
+                    "Reply": "Special forces... special treatment.",
+                    "Didascalie": "(Has a scalpel in his hand)",
+                    "Start": 30046,
+                    "End": 30110
+                }
+            ]
+        },
+        {
+            "Character": "BAD GUY 2",
+            "Replies": [
+                {
+                    "Reply": "What are you doin?",
+                    "Didascalie": "",
+                    "Start": 29927,
+                    "End": 29946
+                },
+                {
+                    "Reply": "This guy knows Hamilton!",
+                    "Didascalie": "",
+                    "Start": 30227,
+                    "End": 30252
                 }
             ]
         },
@@ -2392,6 +2471,23 @@
             ]
         },
         {
+            "Character": "CASINO GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "You know, toss out a coupla drunks now and then. Guys try to grope the girls, but ah nothing with this sort of violence.",
+                    "Didascalie": "",
+                    "Start": 53195,
+                    "End": 53368
+                },
+                {
+                    "Reply": "I think he had a point to prove yeah.",
+                    "Didascalie": "",
+                    "Start": 54125,
+                    "End": 54163
+                }
+            ]
+        },
+        {
             "Character": "JUDGE",
             "Replies": [
                 {
@@ -2580,6 +2676,23 @@
                     "Didascalie": "",
                     "Start": 77040,
                     "End": 77081
+                }
+            ]
+        },
+        {
+            "Character": "GUNMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Check it out.",
+                    "Didascalie": "",
+                    "Start": 73071,
+                    "End": 73085
+                },
+                {
+                    "Reply": "Stay down!",
+                    "Didascalie": "",
+                    "Start": 74606,
+                    "End": 74617
                 }
             ]
         },

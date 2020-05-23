@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Italian Job, The",
-        "   "
-    ],
+    "Title": "Italian Job, The",
     "Author": [
-        "\u00a0\u00a0Donna Powers\u00a0\u00a0Wayne Powers\u00a0\u00a0Troy Kennedy-Martin"
+        "Donna Powers",
+        "Wayne Powers",
+        "Troy Kennedy-Martin"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Adventure",
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {

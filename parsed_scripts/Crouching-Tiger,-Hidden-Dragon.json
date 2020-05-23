@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Crouching Tiger, Hidden Dragon",
-        "   "
-    ],
+    "Title": "Crouching Tiger, Hidden Dragon",
     "Author": [
-        "\u00a0\u00a0Wang Hui Ling\u00a0\u00a0James Schamus\u00a0\u00a0Tsai Kuo Jung"
+        "Wang Hui Ling",
+        "James Schamus",
+        "Tsai Kuo Jung"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {

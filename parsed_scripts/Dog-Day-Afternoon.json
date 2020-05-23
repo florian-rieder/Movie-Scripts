@@ -1,18 +1,45 @@
 {
-    "Title": [
-        "Dog Day Afternoon",
-        "   "
-    ],
+    "Title": "Dog Day Afternoon",
     "Author": [
-        "\u00a0\u00a0Frank Pierson"
+        "Frank Pierson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Comedy",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
-            "Character": "LYRICS",
+            "Character": "RADIO ANNOUNCER 1",
             "Replies": [
+                {
+                    "Reply": "...the situation continued tense in the Middle East today, as...",
+                    "Didascalie": "",
+                    "Start": 1531,
+                    "End": 1622
+                }
+            ]
+        },
+        {
+            "Character": "ANNOUNCER 2",
+            "Replies": [
+                {
+                    "Reply": "...hits a high inside pitch foul into the upper stands...",
+                    "Didascalie": "",
+                    "Start": 1821,
+                    "End": 1905
+                }
+            ]
+        },
+        {
+            "Character": "ANNOUNCER 3",
+            "Replies": [
+                {
+                    "Reply": "...B-52's meanwhile, unleashed the heaviest bombing of the war...",
+                    "Didascalie": "",
+                    "Start": 2133,
+                    "End": 2225
+                },
                 {
                     "Reply": "...the American High Command announced the famed 25th Cavalry Division would be coming home!  The 25th Cavalry, long since afoot, hardened in battle in the jungles of World War II...",
                     "Didascalie": "",
@@ -5264,6 +5291,17 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Lady, you saw him.  You saw his gun.",
+                    "Didascalie": "",
+                    "Start": 126453,
+                    "End": 126490
+                }
+            ]
+        },
+        {
             "Character": "MARIA",
             "Replies": [
                 {
@@ -5990,23 +6028,6 @@
                     "Didascalie": "",
                     "Start": 247487,
                     "End": 247690
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "Sonny signs fast and firmly...",
-                    "Didascalie": "",
-                    "Start": 249565,
-                    "End": 249596
-                },
-                {
-                    "Reply": "Sylvia's notary seal clamps and imprints the paper.",
-                    "Didascalie": "",
-                    "Start": 249635,
-                    "End": 249687
                 }
             ]
         },

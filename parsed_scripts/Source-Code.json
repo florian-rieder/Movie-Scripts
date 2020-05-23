@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Source Code",
-        "   "
-    ],
+    "Title": "Source Code",
     "Author": [
-        "\u00a0\u00a0Ben Ripley"
+        "Ben Ripley"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3707,17 +3706,6 @@
             ]
         },
         {
-            "Character": "A MASSIVE BOMB",
-            "Replies": [
-                {
-                    "Reply": "It's an enormous device. Several large CANNISTERS tied together, full of sloshing liquid. Barely discernible behind wires and gaffing tape is CELL PHONE -- the bomb's detonator.",
-                    "Didascalie": "",
-                    "Start": 16543,
-                    "End": 16741
-                }
-            ]
-        },
-        {
             "Character": "GOODWIN",
             "Replies": [
                 {
@@ -4703,17 +4691,6 @@
                     "Didascalie": "",
                     "Start": 197872,
                     "End": 197920
-                }
-            ]
-        },
-        {
-            "Character": "A TRAIN WINDOW",
-            "Replies": [
-                {
-                    "Reply": "At the passing woodland scenery.",
-                    "Didascalie": "",
-                    "Start": 31190,
-                    "End": 31223
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Thor",
-        "   "
-    ],
+    "Title": "Thor",
     "Author": [
-        "\u00a0\u00a0Ashley Miller\u00a0\u00a0Zack Stentz"
+        "Ashley Miller",
+        "Zack Stentz"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -6129,17 +6129,6 @@
             ]
         },
         {
-            "Character": "A MASSIVE SHIELD BASE",
-            "Replies": [
-                {
-                    "Reply": "Now set up around the crater -- vehicles, trailers, barricades. Armed GUARDS man a gate in the razor wire fence that runs fifty yards from the crater's edge, enclosing the complex.",
-                    "Didascalie": "",
-                    "Start": 150201,
-                    "End": 150412
-                }
-            ]
-        },
-        {
             "Character": "TECHIE",
             "Replies": [
                 {
@@ -6272,17 +6261,6 @@
             ]
         },
         {
-            "Character": "A HUGE SHIELD AGENT",
-            "Replies": [
-                {
-                    "Reply": "The biggest of them all, standing between him and his hammer in the cube structure beyond. Thor sizes him up.",
-                    "Didascalie": "",
-                    "Start": 167086,
-                    "End": 167206
-                }
-            ]
-        },
-        {
             "Character": "DRUNK TOWNIE",
             "Replies": [
                 {
@@ -6400,17 +6378,6 @@
                     "Didascalie": "",
                     "Start": 210166,
                     "End": 210186
-                }
-            ]
-        },
-        {
-            "Character": "A BLAST OF ENERGY",
-            "Replies": [
-                {
-                    "Reply": "Hits him from behind. As the Jotun king falls to the ground, we see it is not Thor standing behind him, but Loki, holding Gungnir.",
-                    "Didascalie": "",
-                    "Start": 244887,
-                    "End": 245038
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Devil's Advocate",
-        "   "
-    ],
+    "Title": "Devil's Advocate",
     "Author": [
-        "\u00a0\u00a0Andrew Neiderman\u00a0\u00a0Jonathan Lemkin"
+        "Andrew Neiderman",
+        "Jonathan Lemkin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

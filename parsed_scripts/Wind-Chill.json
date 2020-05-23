@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Wind Chill",
-        "   "
-    ],
+    "Title": "Wind Chill",
     "Author": [
-        "\u00a0\u00a0Joseph Gangemi\u00a0\u00a0Steven Katz"
+        "Joseph Gangemi",
+        "Steven Katz"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3053,17 +3052,6 @@
             ]
         },
         {
-            "Character": "INSERT CELLPHONE SCREEN --",
-            "Replies": [
-                {
-                    "Reply": "34    CONTINUED:                                                     34   No SIGNAL BARS.",
-                    "Didascalie": "",
-                    "Start": 41580,
-                    "End": 41675
-                }
-            ]
-        },
-        {
             "Character": "RADIO PSA",
             "Replies": [
                 {
@@ -3095,17 +3083,6 @@
                     "Didascalie": "",
                     "Start": 142665,
                     "End": 142842
-                }
-            ]
-        },
-        {
-            "Character": "A RUINED BUILDING",
-            "Replies": [
-                {
-                    "Reply": "Windowless and long-abandoned, its ceiling and walls caved in around a large stone chimney.",
-                    "Didascalie": "",
-                    "Start": 87136,
-                    "End": 87233
                 }
             ]
         },
@@ -3269,17 +3246,6 @@
                     "Didascalie": "",
                     "Start": 107520,
                     "End": 107646
-                }
-            ]
-        },
-        {
-            "Character": "INSERT OLD NEWSPAPER --",
-            "Replies": [
-                {
-                    "Reply": "The one used to patch the small gap in the passenger window.",
-                    "Didascalie": "",
-                    "Start": 115323,
-                    "End": 115384
                 }
             ]
         },

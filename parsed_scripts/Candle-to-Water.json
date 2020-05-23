@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Candle to Water",
-        "   "
-    ],
+    "Title": "Candle to Water",
     "Author": [
-        "\u00a0\u00a0Nick Green"
+        "Nick Green"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1887,17 +1884,6 @@
                     "Didascalie": "",
                     "Start": 63983,
                     "End": 64017
-                }
-            ]
-        },
-        {
-            "Character": "A BMW",
-            "Replies": [
-                {
-                    "Reply": "Swerves near him, splashing him with headlights.",
-                    "Didascalie": "",
-                    "Start": 67079,
-                    "End": 67128
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Breaking Away",
-        "   "
-    ],
+    "Title": "Breaking Away",
     "Author": [
-        "\u00a0\u00a0Steve Tesich"
+        "Steve Tesich"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -917,12 +915,6 @@
                     "Didascalie": "",
                     "Start": 42469,
                     "End": 42497
-                },
-                {
-                    "Reply": "Maybe I'll take it too and flunk it. My dad's birthday is coming  UP 0 They part. Dave rides off. Cyril looks after him.",
-                    "Didascalie": "",
-                    "Start": 42638,
-                    "End": 42804
                 },
                 {
                     "Reply": "Talk to him Dave!",
@@ -2116,6 +2108,17 @@
             ]
         },
         {
+            "Character": "UP 0",
+            "Replies": [
+                {
+                    "Reply": "They part. Dave rides off. Cyril looks after him.",
+                    "Didascalie": "",
+                    "Start": 42754,
+                    "End": 42804
+                }
+            ]
+        },
+        {
             "Character": "AHL STROONZI",
             "Replies": [
                 {
@@ -2371,17 +2374,6 @@
                     "Didascalie": "",
                     "Start": 71680,
                     "End": 71857
-                }
-            ]
-        },
-        {
-            "Character": "A HUGE WOODEN CHAIR",
-            "Replies": [
-                {
-                    "Reply": "Mr. Blase's coat is draped over it.",
-                    "Didascalie": "",
-                    "Start": 72181,
-                    "End": 72217
                 }
             ]
         },
@@ -2780,17 +2772,6 @@
             ]
         },
         {
-            "Character": "A K THERINE",
-            "Replies": [
-                {
-                    "Reply": "Katherina!",
-                    "Didascalie": "",
-                    "Start": 152005,
-                    "End": 152016
-                }
-            ]
-        },
-        {
             "Character": "KAT IE",
             "Replies": [
                 {
@@ -2859,6 +2840,17 @@
                     "Didascalie": "",
                     "Start": 164791,
                     "End": 164823
+                }
+            ]
+        },
+        {
+            "Character": "OUT 165 X",
+            "Replies": [
+                {
+                    "Reply": "The lead rider for the Cutter team is still on his bike without an\"exchange. His name is Dave Blase...",
+                    "Didascalie": "",
+                    "Start": 169339,
+                    "End": 169472
                 }
             ]
         },

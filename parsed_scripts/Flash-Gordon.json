@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Flash Gordon",
-        "   "
-    ],
+    "Title": "Flash Gordon",
     "Author": [
-        "\u00a0\u00a0Lorenzo Semple Jr."
+        "Lorenzo Semple Jr."
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -2967,17 +2966,6 @@
             ]
         },
         {
-            "Character": "A WINGED SILHOUETTE",
-            "Replies": [
-                {
-                    "Reply": "Diving from the sun at him. It is a HAWKMAN, magnificiently fierce. It seizes BARIN in its talons and lifts him INTO THE AIR.",
-                    "Didascalie": "",
-                    "Start": 114045,
-                    "End": 114191
-                }
-            ]
-        },
-        {
             "Character": "OTHER HAWKMEN",
             "Replies": [
                 {
@@ -2996,17 +2984,6 @@
                     "Didascalie": "",
                     "Start": 117108,
                     "End": 117168
-                }
-            ]
-        },
-        {
-            "Character": "CU MING",
-            "Replies": [
-                {
-                    "Reply": "In his wonderous DOME ROOM, watching something. PULL BACK.",
-                    "Didascalie": "",
-                    "Start": 118854,
-                    "End": 118913
                 }
             ]
         },

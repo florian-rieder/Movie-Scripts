@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Dark City",
-        "   "
-    ],
+    "Title": "Dark City",
     "Author": [
-        "\u00a0\u00a0Alex Proyas"
+        "Alex Proyas"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -18,17 +17,6 @@
                     "Didascalie": "",
                     "Start": 265,
                     "End": 299
-                }
-            ]
-        },
-        {
-            "Character": "TITLES OVER",
-            "Replies": [
-                {
-                    "Reply": "MONTAGE OF CLOCKS starting  -  various.  Second hands turn  -",
-                    "Didascalie": "",
-                    "Start": 519,
-                    "End": 581
                 }
             ]
         },
@@ -1929,6 +1917,17 @@
             ]
         },
         {
+            "Character": "FIGURE 1",
+            "Replies": [
+                {
+                    "Reply": "We are looking for Jonathan White.",
+                    "Didascalie": "",
+                    "Start": 17923,
+                    "End": 17958
+                }
+            ]
+        },
+        {
             "Character": "MANAGER",
             "Replies": [
                 {
@@ -1936,6 +1935,89 @@
                     "Didascalie": "",
                     "Start": 18172,
                     "End": 18182
+                }
+            ]
+        },
+        {
+            "Character": "MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Which room is he in?",
+                    "Didascalie": "",
+                    "Start": 18540,
+                    "End": 18561
+                },
+                {
+                    "Reply": "Might never wake, yes.",
+                    "Didascalie": "(chuckles softly)",
+                    "Start": 24657,
+                    "End": 24696
+                },
+                {
+                    "Reply": "It has failed.",
+                    "Didascalie": "",
+                    "Start": 64358,
+                    "End": 64373
+                },
+                {
+                    "Reply": "Impossible!",
+                    "Didascalie": "",
+                    "Start": 65740,
+                    "End": 65752
+                },
+                {
+                    "Reply": "We are from a mental asylum.",
+                    "Didascalie": "",
+                    "Start": 102585,
+                    "End": 102614
+                },
+                {
+                    "Reply": "Yes, Inspector.  Has he been displaying any strange...  behaviour?",
+                    "Didascalie": "",
+                    "Start": 103009,
+                    "End": 103091
+                },
+                {
+                    "Reply": "Where is he?",
+                    "Didascalie": "",
+                    "Start": 103713,
+                    "End": 103726
+                },
+                {
+                    "Reply": "Yes!",
+                    "Didascalie": "",
+                    "Start": 152991,
+                    "End": 152996
+                },
+                {
+                    "Reply": "Indeed!",
+                    "Didascalie": "",
+                    "Start": 153213,
+                    "End": 153221
+                },
+                {
+                    "Reply": "Good.",
+                    "Didascalie": "",
+                    "Start": 154082,
+                    "End": 154088
+                },
+                {
+                    "Reply": "Um  -  yes...",
+                    "Didascalie": "",
+                    "Start": 154450,
+                    "End": 154464
+                },
+                {
+                    "Reply": "We are looking for the White victims.",
+                    "Didascalie": "",
+                    "Start": 182225,
+                    "End": 182263
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 182692,
+                    "End": 182703
                 }
             ]
         },
@@ -2420,17 +2502,6 @@
             ]
         },
         {
-            "Character": "PULL OUT TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "glasses.  He puts the phone down, sits quietly at his desk, staring into space, lost in thought.",
-                    "Didascalie": "",
-                    "Start": 47809,
-                    "End": 47911
-                }
-            ]
-        },
-        {
             "Character": "PRIEST",
             "Replies": [
                 {
@@ -2530,17 +2601,6 @@
             ]
         },
         {
-            "Character": "A STAIRCASE",
-            "Replies": [
-                {
-                    "Reply": "White climbs narrow stairs rapidly.",
-                    "Didascalie": "",
-                    "Start": 55816,
-                    "End": 55852
-                }
-            ]
-        },
-        {
             "Character": "NURSE",
             "Replies": [
                 {
@@ -2566,6 +2626,104 @@
                     "Didascalie": "",
                     "Start": 172356,
                     "End": 172373
+                }
+            ]
+        },
+        {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "This is becoming dangerous, yes!",
+                    "Didascalie": "",
+                    "Start": 64470,
+                    "End": 64503
+                },
+                {
+                    "Reply": "Stop this!  It has gone too far!",
+                    "Didascalie": "",
+                    "Start": 66155,
+                    "End": 66188
+                },
+                {
+                    "Reply": "The Eye is too small for the head of the pin!",
+                    "Didascalie": "",
+                    "Start": 152883,
+                    "End": 152944
+                }
+            ]
+        },
+        {
+            "Character": "MAN 3",
+            "Replies": [
+                {
+                    "Reply": "Let's get this over with.",
+                    "Didascalie": "",
+                    "Start": 64884,
+                    "End": 64910
+                },
+                {
+                    "Reply": "The situation has changed.",
+                    "Didascalie": "",
+                    "Start": 65415,
+                    "End": 65442
+                },
+                {
+                    "Reply": "This one is in possession of knowledge...",
+                    "Didascalie": "(pacing the room)",
+                    "Start": 65479,
+                    "End": 65552
+                },
+                {
+                    "Reply": "It gets interesting, yes.",
+                    "Didascalie": "",
+                    "Start": 66082,
+                    "End": 66108
+                },
+                {
+                    "Reply": "It is ready.  The Doctor was most helpful.",
+                    "Didascalie": "",
+                    "Start": 138699,
+                    "End": 138757
+                },
+                {
+                    "Reply": "What is it that floats on the water?",
+                    "Didascalie": "",
+                    "Start": 153105,
+                    "End": 153142
+                }
+            ]
+        },
+        {
+            "Character": "MAN 5",
+            "Replies": [
+                {
+                    "Reply": "What about the dance-steps!  This is my responsibility, we must resolve this issue, yes?",
+                    "Didascalie": "",
+                    "Start": 65041,
+                    "End": 65160
+                },
+                {
+                    "Reply": "Sorry.",
+                    "Didascalie": "",
+                    "Start": 65361,
+                    "End": 65368
+                }
+            ]
+        },
+        {
+            "Character": "MAN 4",
+            "Replies": [
+                {
+                    "Reply": "A freak!",
+                    "Didascalie": "",
+                    "Start": 65684,
+                    "End": 65693
+                },
+                {
+                    "Reply": "My spine will bend for the Eye!",
+                    "Didascalie": "",
+                    "Start": 154612,
+                    "End": 154644
                 }
             ]
         },
@@ -3107,6 +3265,28 @@
             ]
         },
         {
+            "Character": "FOETUS 1",
+            "Replies": [
+                {
+                    "Reply": "This is madness.  If we're caught...",
+                    "Didascalie": "",
+                    "Start": 80705,
+                    "End": 80742
+                }
+            ]
+        },
+        {
+            "Character": "FOETUS 2",
+            "Replies": [
+                {
+                    "Reply": "Shut-up.  Help me with these straps...",
+                    "Didascalie": "",
+                    "Start": 80792,
+                    "End": 80846
+                }
+            ]
+        },
+        {
             "Character": "MECHANICAL VOICE",
             "Replies": [
                 {
@@ -3340,12 +3520,6 @@
                     "Didascalie": "",
                     "Start": 139166,
                     "End": 139191
-                },
-                {
-                    "Reply": "NIGHT OF THE EYE!  NIGHT OF THE EYE!",
-                    "Didascalie": "",
-                    "Start": 152762,
-                    "End": 152799
                 }
             ]
         },
@@ -3556,13 +3730,19 @@
             ]
         },
         {
-            "Character": "A CORRIDOR",
+            "Character": "MYSTERY MAN 1",
             "Replies": [
                 {
-                    "Reply": "Through the door  -  AN ELEVATOR.  There is only a down button.",
+                    "Reply": "Eleven past eleven  -  the Night of the Eye.",
                     "Didascalie": "",
-                    "Start": 149362,
-                    "End": 149426
+                    "Start": 152620,
+                    "End": 152680
+                },
+                {
+                    "Reply": "Exhibit A shows the accused leaving the scene of his most recent crime, yes.  A photo taken by a remote camera planted by one of our agents.",
+                    "Didascalie": "",
+                    "Start": 190166,
+                    "End": 190352
                 }
             ]
         },
@@ -3747,6 +3927,29 @@
                     "Didascalie": "",
                     "Start": 184034,
                     "End": 184204
+                }
+            ]
+        },
+        {
+            "Character": "MYSTERY MAN 2",
+            "Replies": [
+                {
+                    "Reply": "We will show that John White is abnormal, a menace to society, a dangerous sick individual, and that the court should have no mercy in finding him guilty and punishable to the extreme for his crimes.",
+                    "Didascalie": "",
+                    "Start": 189647,
+                    "End": 189922
+                },
+                {
+                    "Reply": "Exhibit B...",
+                    "Didascalie": "",
+                    "Start": 190585,
+                    "End": 190598
+                },
+                {
+                    "Reply": "Actual tape recording of accused committing aforementioned crime, yes.",
+                    "Didascalie": "",
+                    "Start": 190715,
+                    "End": 190801
                 }
             ]
         },

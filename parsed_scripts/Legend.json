@@ -1,13 +1,3497 @@
 {
-    "Title": [
-        "Legend",
-        "   "
-    ],
+    "Title": "Legend",
     "Author": [
-        "\u00a0\u00a0William Hjortsberg"
+        "William Hjortsberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Fantasy\u00a0\u00a0Adventure\u00a0\u00a0Romance"
+        "Fantasy",
+        "Adventure",
+        "Romance"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "BLIX",
+            "Replies": [
+                {
+                    "Reply": "Disgusting and pure, like a prayer. . .. There be magic in this hair.",
+                    "Didascalie": "",
+                    "Start": 3689,
+                    "End": 3760
+                },
+                {
+                    "Reply": "All together. . . .now or never!",
+                    "Didascalie": "",
+                    "Start": 6123,
+                    "End": 6156
+                },
+                {
+                    "Reply": "Boost me. . . . ! Hurry. . . . ! We must sound the summons before the dawn. . . .  The three goblins form a teetering ladder with Blix wobbling at the top and Blunder crushed at the bottom.  Blix blows into the horn with all his might. Nothing happens. Suddenly, he breaks wind!  Pox and Blunder grimace.  Blix blows again into the horn.",
+                    "Didascalie": "",
+                    "Start": 7337,
+                    "End": 7682
+                },
+                {
+                    "Reply": "Look in the gloom, search out the tomb. That be where you find our sire.",
+                    "Didascalie": "",
+                    "Start": 9382,
+                    "End": 9456
+                },
+                {
+                    "Reply": "I swear by all the bats above, Nothing's quite so foul as love!",
+                    "Didascalie": "",
+                    "Start": 19651,
+                    "End": 19716
+                },
+                {
+                    "Reply": "Pox! Shut your yap!",
+                    "Didascalie": "",
+                    "Start": 23131,
+                    "End": 23151
+                },
+                {
+                    "Reply": "Mortal world turned to ice, Here be goblins' paradise!",
+                    "Didascalie": "",
+                    "Start": 31968,
+                    "End": 32023
+                },
+                {
+                    "Reply": "Why eat cold? It's better hot!",
+                    "Didascalie": "",
+                    "Start": 32606,
+                    "End": 32637
+                },
+                {
+                    "Reply": "Prattle, prattle like a priest!",
+                    "Didascalie": "",
+                    "Start": 33913,
+                    "End": 33945
+                },
+                {
+                    "Reply": "It was me who shoot the beast!",
+                    "Didascalie": "(pointing to himself)",
+                    "Start": 33966,
+                    "End": 33998
+                },
+                {
+                    "Reply": "Better hurry! Can't be late!",
+                    "Didascalie": "",
+                    "Start": 34461,
+                    "End": 34490
+                },
+                {
+                    "Reply": "Look at us! Waiting around like lackies....and for what? We're the ones with the power!",
+                    "Didascalie": "",
+                    "Start": 51460,
+                    "End": 51549
+                },
+                {
+                    "Reply": "I'm not afraid! Not even Darkness lasts forever!",
+                    "Didascalie": "",
+                    "Start": 51628,
+                    "End": 51678
+                },
+                {
+                    "Reply": "Greetings, Worship....",
+                    "Didascalie": "",
+                    "Start": 52777,
+                    "End": 52800
+                },
+                {
+                    "Reply": "This is true....",
+                    "Didascalie": "",
+                    "Start": 55541,
+                    "End": 55558
+                },
+                {
+                    "Reply": "That stallion is dead, dead as dreams, dead as legend....",
+                    "Didascalie": "",
+                    "Start": 55745,
+                    "End": 55803
+                },
+                {
+                    "Reply": "Just a female.... She has no power...",
+                    "Didascalie": "",
+                    "Start": 56050,
+                    "End": 56088
+                },
+                {
+                    "Reply": "Though we be nothing in your sight, We bow before your strength and might!",
+                    "Didascalie": "",
+                    "Start": 70351,
+                    "End": 70426
+                },
+                {
+                    "Reply": "In the dungeon like a treasure, Awaiting your darkest pleasure.",
+                    "Didascalie": "",
+                    "Start": 70738,
+                    "End": 70803
+                },
+                {
+                    "Reply": "Though unworthy of your magnificence, Trifles without consequence, We present with all due deference....",
+                    "Didascalie": "",
+                    "Start": 70916,
+                    "End": 71021
+                },
+                {
+                    "Reply": "This thing you once called innocence.",
+                    "Didascalie": "",
+                    "Start": 71082,
+                    "End": 71120
+                },
+                {
+                    "Reply": "Greetings....",
+                    "Didascalie": "",
+                    "Start": 132525,
+                    "End": 132539
+                }
+            ]
+        },
+        {
+            "Character": "POX",
+            "Replies": [
+                {
+                    "Reply": "Frog spit!",
+                    "Didascalie": "",
+                    "Start": 6082,
+                    "End": 6093
+                },
+                {
+                    "Reply": "J-j-jolly good! Team spirit and all that!",
+                    "Didascalie": "",
+                    "Start": 6261,
+                    "End": 6303
+                },
+                {
+                    "Reply": "Better we spilt three ways than four!  Blix hurries up the crumbling steps. Pox and Blunder follow.  The steps lead under gigantic twisting roots. Blix finds a small opening and slips inside.  Pox and Blunder like this less and less but follow their leader without complaint.",
+                    "Didascalie": "",
+                    "Start": 6734,
+                    "End": 7015
+                },
+                {
+                    "Reply": "I s-s-simply adore m-m-milk-fed meat!",
+                    "Didascalie": "",
+                    "Start": 32260,
+                    "End": 32298
+                },
+                {
+                    "Reply": "Am-m-mazing! How did you d-d-d-do that, old, ch-ch-chap?",
+                    "Didascalie": "",
+                    "Start": 32783,
+                    "End": 32840
+                },
+                {
+                    "Reply": "Without the p-p-princess for bait, you'd never gotten close....",
+                    "Didascalie": "",
+                    "Start": 34004,
+                    "End": 34068
+                },
+                {
+                    "Reply": "I'd like such her b-b-bones!",
+                    "Didascalie": "",
+                    "Start": 34350,
+                    "End": 34379
+                },
+                {
+                    "Reply": "W-w-welcome, Great Lord....",
+                    "Didascalie": "",
+                    "Start": 52806,
+                    "End": 52834
+                },
+                {
+                    "Reply": "Undeniably t-t-true, Lord.",
+                    "Didascalie": "",
+                    "Start": 55564,
+                    "End": 55591
+                },
+                {
+                    "Reply": "Well.... almost t-t-true....",
+                    "Didascalie": "",
+                    "Start": 55684,
+                    "End": 55713
+                },
+                {
+                    "Reply": "But.... but.... the m-m-mare still lives...",
+                    "Didascalie": "",
+                    "Start": 55921,
+                    "End": 55965
+                },
+                {
+                    "Reply": "Hail m-most great, and d-d-darkest of the dark!",
+                    "Didascalie": "",
+                    "Start": 70296,
+                    "End": 70344
+                },
+                {
+                    "Reply": "D-d-done, Lord. We have the m-m-m-m-m-m.... the unicorn.",
+                    "Didascalie": "",
+                    "Start": 70644,
+                    "End": 70702
+                },
+                {
+                    "Reply": "There's m-m-more, Sire....",
+                    "Didascalie": "",
+                    "Start": 70882,
+                    "End": 70909
+                },
+                {
+                    "Reply": "S-s-s-salutations....",
+                    "Didascalie": "",
+                    "Start": 132545,
+                    "End": 132567
+                },
+                {
+                    "Reply": "Endless night, black as death!",
+                    "Didascalie": "",
+                    "Start": 133573,
+                    "End": 133604
+                },
+                {
+                    "Reply": "Dream Sister....eclipse our pain!",
+                    "Didascalie": "",
+                    "Start": 133738,
+                    "End": 133772
+                }
+            ]
+        },
+        {
+            "Character": "BLUNDER",
+            "Replies": [
+                {
+                    "Reply": "Wish i was still a leprecaun. . . .",
+                    "Didascalie": "",
+                    "Start": 5117,
+                    "End": 5153
+                },
+                {
+                    "Reply": "Run. . . . ! Panic. . . . ! Emergency. . . . ?",
+                    "Didascalie": "",
+                    "Start": 5952,
+                    "End": 5999
+                },
+                {
+                    "Reply": "Snail Sperm!",
+                    "Didascalie": "",
+                    "Start": 6103,
+                    "End": 6116
+                },
+                {
+                    "Reply": "Poor Tic. . . .",
+                    "Didascalie": "",
+                    "Start": 6651,
+                    "End": 6667
+                },
+                {
+                    "Reply": "Now what. . . . ?",
+                    "Didascalie": "",
+                    "Start": 8360,
+                    "End": 8378
+                },
+                {
+                    "Reply": "Yuck! Did you see what he was gonna do? Makes me want to puke!",
+                    "Didascalie": "",
+                    "Start": 19580,
+                    "End": 19644
+                },
+                {
+                    "Reply": "Steady....take your time....",
+                    "Didascalie": "",
+                    "Start": 23937,
+                    "End": 23966
+                },
+                {
+                    "Reply": "Lots to eat!",
+                    "Didascalie": "",
+                    "Start": 32148,
+                    "End": 32161
+                },
+                {
+                    "Reply": "What're you....? Some kinda animal?",
+                    "Didascalie": "",
+                    "Start": 32308,
+                    "End": 32344
+                },
+                {
+                    "Reply": "This is sure our lucky day.",
+                    "Didascalie": "",
+                    "Start": 33814,
+                    "End": 33842
+                },
+                {
+                    "Reply": "She's so sweet....I could eat her brains like jam!",
+                    "Didascalie": "",
+                    "Start": 34119,
+                    "End": 34170
+                },
+                {
+                    "Reply": "When we deliver that horn, Pox ol' buddy, Darkness gonna give us a humongous big reward.",
+                    "Didascalie": "",
+                    "Start": 34593,
+                    "End": 34683
+                },
+                {
+                    "Reply": "You shouldn't talk like, Blix.",
+                    "Didascalie": "",
+                    "Start": 51559,
+                    "End": 51590
+                },
+                {
+                    "Reply": "Hear me, you angels of light!",
+                    "Didascalie": "",
+                    "Start": 53130,
+                    "End": 53160
+                },
+                {
+                    "Reply": "Please.... It was only a joke...",
+                    "Didascalie": "",
+                    "Start": 53602,
+                    "End": 53635
+                },
+                {
+                    "Reply": "Shhhh! What is this?",
+                    "Didascalie": "",
+                    "Start": 81522,
+                    "End": 81543
+                },
+                {
+                    "Reply": "What I am won't help me none, nor you neither....",
+                    "Didascalie": "",
+                    "Start": 81671,
+                    "End": 81722
+                },
+                {
+                    "Reply": "Screwball....!",
+                    "Didascalie": "",
+                    "Start": 81914,
+                    "End": 81929
+                },
+                {
+                    "Reply": "The kitchen of the Lord of Darkness! All of us be on his menu!",
+                    "Didascalie": "",
+                    "Start": 82407,
+                    "End": 82471
+                },
+                {
+                    "Reply": "That's right, brother, me'n you is barbeque!",
+                    "Didascalie": "",
+                    "Start": 82544,
+                    "End": 82590
+                },
+                {
+                    "Reply": "Oh, no! He's coming...!",
+                    "Didascalie": "",
+                    "Start": 85429,
+                    "End": 85453
+                },
+                {
+                    "Reply": "Help....! Lemme go...?",
+                    "Didascalie": "",
+                    "Start": 85984,
+                    "End": 86007
+                },
+                {
+                    "Reply": "Two things down here look just alike!",
+                    "Didascalie": "",
+                    "Start": 88237,
+                    "End": 88276
+                },
+                {
+                    "Reply": "Your face and my ass!",
+                    "Didascalie": "",
+                    "Start": 88301,
+                    "End": 88323
+                },
+                {
+                    "Reply": "I swear! On the festering forelock of Nicodemus!",
+                    "Didascalie": "",
+                    "Start": 111547,
+                    "End": 111596
+                },
+                {
+                    "Reply": "A thousand thanks....",
+                    "Didascalie": "",
+                    "Start": 111687,
+                    "End": 111709
+                },
+                {
+                    "Reply": "Stick him a good one!",
+                    "Didascalie": "",
+                    "Start": 115403,
+                    "End": 115425
+                }
+            ]
+        },
+        {
+            "Character": "DARKNESS",
+            "Replies": [
+                {
+                    "Reply": "This hair is from an angel of light. . . It comes this way rarely. . . I must have this creature!",
+                    "Didascalie": "",
+                    "Start": 10888,
+                    "End": 10987
+                },
+                {
+                    "Reply": "Your devotion disgusts me? You insignificant strands of toad slobber!",
+                    "Didascalie": "",
+                    "Start": 52869,
+                    "End": 52940
+                },
+                {
+                    "Reply": "Enough!",
+                    "Didascalie": "",
+                    "Start": 53297,
+                    "End": 53305
+                },
+                {
+                    "Reply": "Did you think this alicorn a mere plaything....? With it my empire is eternal! Before I ruled only the night. Now, my minions will frolic in darkness until the end of time.",
+                    "Didascalie": "",
+                    "Start": 54099,
+                    "End": 54275
+                },
+                {
+                    "Reply": "You lie! Here is dawn!",
+                    "Didascalie": "",
+                    "Start": 55655,
+                    "End": 55678
+                },
+                {
+                    "Reply": "OUT WITH IT!",
+                    "Didascalie": "",
+                    "Start": 55814,
+                    "End": 55827
+                },
+                {
+                    "Reply": "If even one unicorn walks the earth, my power is not complete....",
+                    "Didascalie": "",
+                    "Start": 55976,
+                    "End": 56043
+                },
+                {
+                    "Reply": "Only the power of creation....?",
+                    "Didascalie": "",
+                    "Start": 56165,
+                    "End": 56197
+                },
+                {
+                    "Reply": "I've been an exile for too long....",
+                    "Didascalie": "",
+                    "Start": 76723,
+                    "End": 76759
+                },
+                {
+                    "Reply": "Meaningless?",
+                    "Didascalie": "",
+                    "Start": 77286,
+                    "End": 77299
+                },
+                {
+                    "Reply": "I'll take her then!",
+                    "Didascalie": "",
+                    "Start": 77537,
+                    "End": 77557
+                },
+                {
+                    "Reply": "Thank you, Father.... Your wisdom is ever my guide.",
+                    "Didascalie": "",
+                    "Start": 77723,
+                    "End": 77775
+                },
+                {
+                    "Reply": "Do you feel it, Father....? A force....loose in my domain....",
+                    "Didascalie": "",
+                    "Start": 88876,
+                    "End": 88940
+                },
+                {
+                    "Reply": "Do not be afraid, lady....",
+                    "Didascalie": "",
+                    "Start": 100109,
+                    "End": 100137
+                },
+                {
+                    "Reply": "Your soul in like some dark nectar....",
+                    "Didascalie": "",
+                    "Start": 100784,
+                    "End": 100824
+                },
+                {
+                    "Reply": "Why the tears?",
+                    "Didascalie": "",
+                    "Start": 101619,
+                    "End": 101634
+                },
+                {
+                    "Reply": "Why weep for him? He left you alone to die!",
+                    "Didascalie": "",
+                    "Start": 101703,
+                    "End": 101747
+                },
+                {
+                    "Reply": "Not so! I requite to shadow's solace and dark of the night.... Sunshine is my destroyer!",
+                    "Didascalie": "",
+                    "Start": 102002,
+                    "End": 102091
+                },
+                {
+                    "Reply": "The world shall be at last as nature intended....a place of chaos and anarchy!",
+                    "Didascalie": "",
+                    "Start": 103087,
+                    "End": 103167
+                },
+                {
+                    "Reply": "Aye, Lady, and proud to be so! For in madness lies the soul of all that's noble.... Can you fathom the loneliness of untold eons lived in darkness? My spirit was forged in that black fire....",
+                    "Didascalie": "",
+                    "Start": 103197,
+                    "End": 103391
+                },
+                {
+                    "Reply": "Nay, mistress. I've found my mate and you know it. We're just alike, you and I. Beneath the skin we are already one.",
+                    "Didascalie": "",
+                    "Start": 103505,
+                    "End": 103623
+                },
+                {
+                    "Reply": "'Twas your sin trapped the unicorn.",
+                    "Didascalie": "",
+                    "Start": 103648,
+                    "End": 103684
+                },
+                {
+                    "Reply": "Everyone is a beast....only most are afraid to see it!",
+                    "Didascalie": "",
+                    "Start": 104019,
+                    "End": 104074
+                },
+                {
+                    "Reply": "My Lady misjudges me... I am no common trickster.... look at you hands!",
+                    "Didascalie": "",
+                    "Start": 104567,
+                    "End": 104639
+                },
+                {
+                    "Reply": "No! The puling, pallid creature you were was truly something disgusting.",
+                    "Didascalie": "",
+                    "Start": 105116,
+                    "End": 105189
+                },
+                {
+                    "Reply": "We are both of us damned, my Queen.",
+                    "Didascalie": "",
+                    "Start": 105311,
+                    "End": 105347
+                },
+                {
+                    "Reply": "Do you lie just to please me?",
+                    "Didascalie": "",
+                    "Start": 120616,
+                    "End": 120646
+                },
+                {
+                    "Reply": "You are so like a child, milady.",
+                    "Didascalie": "",
+                    "Start": 120739,
+                    "End": 120772
+                },
+                {
+                    "Reply": "All I desire is that you sit in that chair and talk with me.",
+                    "Didascalie": "",
+                    "Start": 121123,
+                    "End": 121184
+                },
+                {
+                    "Reply": "Yes. Please....",
+                    "Didascalie": "",
+                    "Start": 121319,
+                    "End": 121335
+                },
+                {
+                    "Reply": ": .....or stand. As you wish.... It's enough that we're alone together.... just the two of us....",
+                    "Didascalie": "(cont)",
+                    "Start": 121620,
+                    "End": 121719
+                },
+                {
+                    "Reply": "Simple conversation....",
+                    "Didascalie": "",
+                    "Start": 122264,
+                    "End": 122288
+                },
+                {
+                    "Reply": "Thoughts....dreams....",
+                    "Didascalie": "",
+                    "Start": 122346,
+                    "End": 122369
+                },
+                {
+                    "Reply": "Desire then....surely we beasts all have desire.",
+                    "Didascalie": "",
+                    "Start": 122443,
+                    "End": 122493
+                },
+                {
+                    "Reply": "I'll wager there was a time when the attention of a devoted schoolbvoy were entirely to your liking.",
+                    "Didascalie": "",
+                    "Start": 123255,
+                    "End": 123358
+                },
+                {
+                    "Reply": "....all things change, lady.",
+                    "Didascalie": "",
+                    "Start": 123471,
+                    "End": 123500
+                },
+                {
+                    "Reply": "You impudent imp!",
+                    "Didascalie": "",
+                    "Start": 123889,
+                    "End": 123907
+                },
+                {
+                    "Reply": "You'll never regret granting me this favour....",
+                    "Didascalie": "",
+                    "Start": 124717,
+                    "End": 124765
+                },
+                {
+                    "Reply": "I prefer you to sit!",
+                    "Didascalie": "",
+                    "Start": 125182,
+                    "End": 125203
+                },
+                {
+                    "Reply": "Sit!",
+                    "Didascalie": "",
+                    "Start": 125289,
+                    "End": 125294
+                },
+                {
+                    "Reply": "I'm not above my own little pranks, milady.... Should you have a taste for them.",
+                    "Didascalie": "",
+                    "Start": 126803,
+                    "End": 126884
+                },
+                {
+                    "Reply": "Foul....or fair, such distinctions are entirely arbitrary, my dear.... Does not the lowly toad think his mate fair, warts and all....?",
+                    "Didascalie": "",
+                    "Start": 127026,
+                    "End": 127162
+                },
+                {
+                    "Reply": "In time....and time we surely have... stretching before us....",
+                    "Didascalie": "",
+                    "Start": 127228,
+                    "End": 127291
+                },
+                {
+                    "Reply": "Aye, love.... You think my heart a barren desert where only hate can flower....A much finer blossom show its petals now....nourished by sorrow....watered with your tears...",
+                    "Didascalie": "",
+                    "Start": 127633,
+                    "End": 127806
+                },
+                {
+                    "Reply": "I offer you this rose, Princess!",
+                    "Didascalie": "(baring his breast)",
+                    "Start": 127825,
+                    "End": 127859
+                },
+                {
+                    "Reply": "You'll hear it forever.",
+                    "Didascalie": "",
+                    "Start": 128251,
+                    "End": 128275
+                },
+                {
+                    "Reply": "I love you!",
+                    "Didascalie": "(shouting)",
+                    "Start": 128285,
+                    "End": 128298
+                },
+                {
+                    "Reply": "It grows late....",
+                    "Didascalie": "",
+                    "Start": 128542,
+                    "End": 128560
+                },
+                {
+                    "Reply": "Are you anxious to see blood flow?",
+                    "Didascalie": "",
+                    "Start": 129062,
+                    "End": 129097
+                },
+                {
+                    "Reply": "Lady, you make me proud....",
+                    "Didascalie": "",
+                    "Start": 129393,
+                    "End": 129421
+                },
+                {
+                    "Reply": "This way, fair beauty. I hear a throat begging to be cut.",
+                    "Didascalie": "",
+                    "Start": 131006,
+                    "End": 131065
+                },
+                {
+                    "Reply": "Now you are my queen. Nothing is impossible....Come....it takes but a single step....Find the faith....",
+                    "Didascalie": "",
+                    "Start": 131280,
+                    "End": 131385
+                },
+                {
+                    "Reply": "Silence....! Prepare the unicorn for sacrafice!",
+                    "Didascalie": "",
+                    "Start": 132578,
+                    "End": 132627
+                },
+                {
+                    "Reply": "Excellent.... Let the ritual begin....",
+                    "Didascalie": "",
+                    "Start": 133246,
+                    "End": 133285
+                },
+                {
+                    "Reply": "In the beginning, there was nothing....a void of darkness, a cold enternity of silence....",
+                    "Didascalie": "",
+                    "Start": 133476,
+                    "End": 133567
+                },
+                {
+                    "Reply": "Hear me, ye Powers of the Night! We offer this sacrafive in honour of you....",
+                    "Didascalie": "",
+                    "Start": 134398,
+                    "End": 134476
+                },
+                {
+                    "Reply": "I pray you, Father, accept my sacrafice....Let Light be orever extinguished!",
+                    "Didascalie": "",
+                    "Start": 135060,
+                    "End": 135138
+                },
+                {
+                    "Reply": "Once your hands were too delicate for such a task....spinning and weaving were more their work....",
+                    "Didascalie": "",
+                    "Start": 137076,
+                    "End": 137176
+                },
+                {
+                    "Reply": "What a queen you'll make!",
+                    "Didascalie": "",
+                    "Start": 137295,
+                    "End": 137321
+                },
+                {
+                    "Reply": "My lady, the birth of a new world awaits your stroke.",
+                    "Didascalie": "",
+                    "Start": 137756,
+                    "End": 137810
+                },
+                {
+                    "Reply": "Always a pleasure to take a brave man's life.  Darkness thrusts down with the alicorn, but Jack rolls skillfully aside and counds to his feet.",
+                    "Didascalie": "",
+                    "Start": 143559,
+                    "End": 143705
+                },
+                {
+                    "Reply": "....Oh, but I have...",
+                    "Didascalie": "",
+                    "Start": 143964,
+                    "End": 143986
+                },
+                {
+                    "Reply": "Who was your father?",
+                    "Didascalie": "",
+                    "Start": 144801,
+                    "End": 144822
+                },
+                {
+                    "Reply": "How long have you lived in the forest?",
+                    "Didascalie": "",
+                    "Start": 144868,
+                    "End": 144908
+                },
+                {
+                    "Reply": "You pitiful fool! An immortal all this time and never knew....",
+                    "Didascalie": "",
+                    "Start": 144971,
+                    "End": 145034
+                },
+                {
+                    "Reply": "Don't you see, Jack? Don't you understand your power....! Together we could rule the universe!",
+                    "Didascalie": "(laughing)",
+                    "Start": 145044,
+                    "End": 145141
+                },
+                {
+                    "Reply": "There'd be nothing to stop us!",
+                    "Didascalie": "",
+                    "Start": 145191,
+                    "End": 145222
+                }
+            ]
+        },
+        {
+            "Character": "WIFE",
+            "Replies": [
+                {
+                    "Reply": "Then it's common sense ought. These woods be thick with spriggen and banshee!",
+                    "Didascalie": "",
+                    "Start": 14326,
+                    "End": 14404
+                }
+            ]
+        },
+        {
+            "Character": "LILI",
+            "Replies": [
+                {
+                    "Reply": "Neither country provebs nor king's command can keep me out of the woods today.",
+                    "Didascalie": "",
+                    "Start": 14240,
+                    "End": 14319
+                },
+                {
+                    "Reply": "Teach me rabbit like you promised.",
+                    "Didascalie": "",
+                    "Start": 17433,
+                    "End": 17468
+                },
+                {
+                    "Reply": "In these woods you are the prince, Jack. . . . I am only a pauper here. . . .",
+                    "Didascalie": "",
+                    "Start": 19039,
+                    "End": 19118
+                },
+                {
+                    "Reply": "Don't tell me to be quiet. . . .! I'm a princess!",
+                    "Didascalie": "",
+                    "Start": 20477,
+                    "End": 20528
+                },
+                {
+                    "Reply": "Such grace. . . . Can you speak their language?",
+                    "Didascalie": "",
+                    "Start": 21516,
+                    "End": 21564
+                },
+                {
+                    "Reply": "Oh Jack. . . I must touch one.",
+                    "Didascalie": "",
+                    "Start": 21709,
+                    "End": 21740
+                },
+                {
+                    "Reply": "I want to!",
+                    "Didascalie": "",
+                    "Start": 21767,
+                    "End": 21778
+                },
+                {
+                    "Reply": "Nothing is forbidden me!",
+                    "Didascalie": "",
+                    "Start": 21906,
+                    "End": 21931
+                },
+                {
+                    "Reply": "You sound like my confessor. . . . I only want to touch one.",
+                    "Didascalie": "",
+                    "Start": 22042,
+                    "End": 22104
+                },
+                {
+                    "Reply": "Oh, Jack, it was so lovely...",
+                    "Didascalie": "",
+                    "Start": 24452,
+                    "End": 24482
+                },
+                {
+                    "Reply": "Don't be such a scold.... Come, I'll chase your fears away.",
+                    "Didascalie": "",
+                    "Start": 24554,
+                    "End": 24614
+                },
+                {
+                    "Reply": "Sweet William did a-hunting go, In the wood where faeries dwell.",
+                    "Didascalie": "",
+                    "Start": 25089,
+                    "End": 25154
+                },
+                {
+                    "Reply": "Then still your heart... You are dear to me as life itself.",
+                    "Didascalie": "",
+                    "Start": 26557,
+                    "End": 26617
+                },
+                {
+                    "Reply": "That's not true! I do love you, Jack. You must believe me!",
+                    "Didascalie": "",
+                    "Start": 26682,
+                    "End": 26741
+                },
+                {
+                    "Reply": "What does it matter. I don't care about any of that.",
+                    "Didascalie": "",
+                    "Start": 26929,
+                    "End": 26982
+                },
+                {
+                    "Reply": "I want to marry you.",
+                    "Didascalie": "",
+                    "Start": 27094,
+                    "End": 27115
+                },
+                {
+                    "Reply": "Not if it's what you really want, Jack.",
+                    "Didascalie": "",
+                    "Start": 27148,
+                    "End": 27189
+                },
+                {
+                    "Reply": "It is my right as a princess to set a challenge for my suitors.",
+                    "Didascalie": "",
+                    "Start": 27331,
+                    "End": 27395
+                },
+                {
+                    "Reply": "Nell....! Arthur....!",
+                    "Didascalie": "",
+                    "Start": 30858,
+                    "End": 30880
+                },
+                {
+                    "Reply": "Nell....? Oh, nooooo!",
+                    "Didascalie": "",
+                    "Start": 30925,
+                    "End": 30947
+                },
+                {
+                    "Reply": "Oh, God.... God....",
+                    "Didascalie": "",
+                    "Start": 34818,
+                    "End": 34838
+                },
+                {
+                    "Reply": "Thank God....",
+                    "Didascalie": "",
+                    "Start": 36484,
+                    "End": 36498
+                },
+                {
+                    "Reply": "Then I'll do it myself! I'll follow those goblins....somehow.....",
+                    "Didascalie": "",
+                    "Start": 36788,
+                    "End": 36855
+                },
+                {
+                    "Reply": "I will do it! You'll see....I fooled them now, didn't I.... Well, I'll do it again easy as pie....",
+                    "Didascalie": "",
+                    "Start": 37204,
+                    "End": 37303
+                },
+                {
+                    "Reply": "Thank you....Hope is just what I need.",
+                    "Didascalie": "",
+                    "Start": 37756,
+                    "End": 37795
+                },
+                {
+                    "Reply": "Jack....! Ja-aack!",
+                    "Didascalie": "",
+                    "Start": 56888,
+                    "End": 56907
+                },
+                {
+                    "Reply": "I'm Princess Lili.... I.....",
+                    "Didascalie": "",
+                    "Start": 64684,
+                    "End": 64713
+                },
+                {
+                    "Reply": "I know it was wrong.... Everything is my fault.",
+                    "Didascalie": "",
+                    "Start": 64808,
+                    "End": 64856
+                },
+                {
+                    "Reply": "Please.... please forgive me.",
+                    "Didascalie": "(weeping)",
+                    "Start": 64865,
+                    "End": 64896
+                },
+                {
+                    "Reply": "I want to make it up to her....",
+                    "Didascalie": "",
+                    "Start": 64952,
+                    "End": 64984
+                },
+                {
+                    "Reply": "We can't stay here! It's not safe!",
+                    "Didascalie": "",
+                    "Start": 65128,
+                    "End": 65163
+                },
+                {
+                    "Reply": "No! He'd never do that! He was killed....like everything else....",
+                    "Didascalie": "",
+                    "Start": 101754,
+                    "End": 101820
+                },
+                {
+                    "Reply": "Consort of some cowardly vile toad who slinks through the night!",
+                    "Didascalie": "",
+                    "Start": 101926,
+                    "End": 101991
+                },
+                {
+                    "Reply": "You're mad!",
+                    "Didascalie": "",
+                    "Start": 103174,
+                    "End": 103186
+                },
+                {
+                    "Reply": "You live alone because you are loathsome! The contagion of your wicked heart demands isolation.",
+                    "Didascalie": "",
+                    "Start": 103398,
+                    "End": 103494
+                },
+                {
+                    "Reply": "Never!",
+                    "Didascalie": "",
+                    "Start": 103630,
+                    "End": 103637
+                },
+                {
+                    "Reply": "You....? You disgust me! You're nothing but a beast!",
+                    "Didascalie": "",
+                    "Start": 103955,
+                    "End": 104008
+                },
+                {
+                    "Reply": "I'm hideous!",
+                    "Didascalie": "",
+                    "Start": 105092,
+                    "End": 105105
+                },
+                {
+                    "Reply": "Damn you!",
+                    "Didascalie": "",
+                    "Start": 105290,
+                    "End": 105300
+                },
+                {
+                    "Reply": "....Jack?",
+                    "Didascalie": "",
+                    "Start": 106005,
+                    "End": 106015
+                },
+                {
+                    "Reply": "Oh, Jack....dear Jack! Can it really be you? I was afraid you were dead.",
+                    "Didascalie": "",
+                    "Start": 106103,
+                    "End": 106177
+                },
+                {
+                    "Reply": "Jack, my love....my precious love! I pray it's you and not more wicked magic.",
+                    "Didascalie": "",
+                    "Start": 106422,
+                    "End": 106500
+                },
+                {
+                    "Reply": "It's all my fault....the unicorn....",
+                    "Didascalie": "",
+                    "Start": 106655,
+                    "End": 106692
+                },
+                {
+                    "Reply": "I don't want it! I'm not hungry!",
+                    "Didascalie": "",
+                    "Start": 120572,
+                    "End": 120605
+                },
+                {
+                    "Reply": "I do nothing for your pleasure!",
+                    "Didascalie": "",
+                    "Start": 120653,
+                    "End": 120685
+                },
+                {
+                    "Reply": "So.... I'd love to rip out your throat, yet it would pain you more if I licked your hand....",
+                    "Didascalie": "",
+                    "Start": 121019,
+                    "End": 121112
+                },
+                {
+                    "Reply": "Sit....? Here....?",
+                    "Didascalie": "",
+                    "Start": 121289,
+                    "End": 121308
+                },
+                {
+                    "Reply": "I prefer to stand.",
+                    "Didascalie": "",
+                    "Start": 121342,
+                    "End": 121361
+                },
+                {
+                    "Reply": "What do we possibly have to talk about?",
+                    "Didascalie": "",
+                    "Start": 122295,
+                    "End": 122335
+                },
+                {
+                    "Reply": "I have no interest in your foul ambition.",
+                    "Didascalie": "",
+                    "Start": 122390,
+                    "End": 122432
+                },
+                {
+                    "Reply": "No more than that....just sit?",
+                    "Didascalie": "",
+                    "Start": 124274,
+                    "End": 124305
+                },
+                {
+                    "Reply": "What shall we talk about?",
+                    "Didascalie": "",
+                    "Start": 124812,
+                    "End": 124838
+                },
+                {
+                    "Reply": "Such a disagreeable chair....must be terribly uncomfortable. I think I'll stand if you don't mind.",
+                    "Didascalie": "",
+                    "Start": 125027,
+                    "End": 125127
+                },
+                {
+                    "Reply": "I'd rather stand, thank you.",
+                    "Didascalie": "",
+                    "Start": 125210,
+                    "End": 125239
+                },
+                {
+                    "Reply": "No.... Not now....",
+                    "Didascalie": "",
+                    "Start": 125301,
+                    "End": 125320
+                },
+                {
+                    "Reply": "Don't be silly.",
+                    "Didascalie": "",
+                    "Start": 125519,
+                    "End": 125535
+                },
+                {
+                    "Reply": "No doubt they're as foul as the stuff you set on your table....",
+                    "Didascalie": "",
+                    "Start": 126891,
+                    "End": 126955
+                },
+                {
+                    "Reply": "Do you suggest I will think you fair some day?",
+                    "Didascalie": "",
+                    "Start": 127169,
+                    "End": 127217
+                },
+                {
+                    "Reply": "Love?",
+                    "Didascalie": "",
+                    "Start": 127616,
+                    "End": 127622
+                },
+                {
+                    "Reply": "You dizzy me, lord.... I never thought to hear the word 'love' spoken again....",
+                    "Didascalie": "",
+                    "Start": 128159,
+                    "End": 128240
+                },
+                {
+                    "Reply": "If such is true....hope is yet alive...",
+                    "Didascalie": "",
+                    "Start": 128305,
+                    "End": 128346
+                },
+                {
+                    "Reply": "These talons can caress as well as kill....",
+                    "Didascalie": "(regarding her claws)",
+                    "Start": 128367,
+                    "End": 128412
+                },
+                {
+                    "Reply": "I admire your thrift, my lord, both the meal and entertainment in a single dish.",
+                    "Didascalie": "",
+                    "Start": 128937,
+                    "End": 129018
+                },
+                {
+                    "Reply": "As you are to drink it!",
+                    "Didascalie": "",
+                    "Start": 129104,
+                    "End": 129128
+                },
+                {
+                    "Reply": "Will the groom grant his bride her wish on this night?",
+                    "Didascalie": "(smiling slyly)",
+                    "Start": 129143,
+                    "End": 129199
+                },
+                {
+                    "Reply": "I want to kill the unicorn!",
+                    "Didascalie": "",
+                    "Start": 129318,
+                    "End": 129346
+                },
+                {
+                    "Reply": "Bring me to the wretched beast.",
+                    "Didascalie": "",
+                    "Start": 130848,
+                    "End": 130880
+                },
+                {
+                    "Reply": "Let my loom be made of flesh and blood....",
+                    "Didascalie": "",
+                    "Start": 137183,
+                    "End": 137226
+                },
+                {
+                    "Reply": "Oh....! Jack! What a dream I've had!",
+                    "Didascalie": "",
+                    "Start": 152320,
+                    "End": 152357
+                },
+                {
+                    "Reply": "Jack.... Don't play games with me!",
+                    "Didascalie": "",
+                    "Start": 153025,
+                    "End": 153060
+                },
+                {
+                    "Reply": "Will you be here tomorrow?",
+                    "Didascalie": "",
+                    "Start": 153112,
+                    "End": 153139
+                }
+            ]
+        },
+        {
+            "Character": "JACK",
+            "Replies": [
+                {
+                    "Reply": "I know someone sweeter.",
+                    "Didascalie": "",
+                    "Start": 16716,
+                    "End": 16740
+                },
+                {
+                    "Reply": "Storm's coming. . . .",
+                    "Didascalie": "",
+                    "Start": 18900,
+                    "End": 18922
+                },
+                {
+                    "Reply": "A little. . . .it's very hard.",
+                    "Didascalie": "",
+                    "Start": 21571,
+                    "End": 21602
+                },
+                {
+                    "Reply": "It is forbidden. These are sacred animals.",
+                    "Didascalie": "",
+                    "Start": 21855,
+                    "End": 21899
+                },
+                {
+                    "Reply": "Don't ever say that! You risk your immortal soul.  Lili pulls free and steps into the clearing.",
+                    "Didascalie": "",
+                    "Start": 21938,
+                    "End": 22035
+                },
+                {
+                    "Reply": "When I get to heaven, I know just how the angels will sound.",
+                    "Didascalie": "",
+                    "Start": 26258,
+                    "End": 26319
+                },
+                {
+                    "Reply": "I'm afraid you'll break my heart.",
+                    "Didascalie": "",
+                    "Start": 26516,
+                    "End": 26550
+                },
+                {
+                    "Reply": "Only because I amuse you...Like some trained bear!",
+                    "Didascalie": "",
+                    "Start": 26624,
+                    "End": 26675
+                },
+                {
+                    "Reply": "And if I so....no good can come from it. I am only a Green Man, without land or title...no name or wealth to bring you.",
+                    "Didascalie": "",
+                    "Start": 26748,
+                    "End": 26869
+                },
+                {
+                    "Reply": "But it does matter....! If not now....Someday. What about when the time comes for you to marry?",
+                    "Didascalie": "",
+                    "Start": 26989,
+                    "End": 27087
+                },
+                {
+                    "Reply": "That's impossible!",
+                    "Didascalie": "",
+                    "Start": 27122,
+                    "End": 27141
+                },
+                {
+                    "Reply": "What if I say yes...? Will my wish come true?",
+                    "Didascalie": "",
+                    "Start": 27278,
+                    "End": 27324
+                },
+                {
+                    "Reply": "What....?",
+                    "Didascalie": "",
+                    "Start": 39179,
+                    "End": 39189
+                },
+                {
+                    "Reply": "Gump, is it?",
+                    "Didascalie": "",
+                    "Start": 39846,
+                    "End": 39859
+                },
+                {
+                    "Reply": "Everything....? Why has this happened? Why is it winter now?",
+                    "Didascalie": "",
+                    "Start": 40351,
+                    "End": 40412
+                },
+                {
+                    "Reply": "Me? How can I do that?",
+                    "Didascalie": "",
+                    "Start": 40541,
+                    "End": 40564
+                },
+                {
+                    "Reply": "No....well.... I took Lili to see the unicorns.....",
+                    "Didascalie": "",
+                    "Start": 40710,
+                    "End": 40762
+                },
+                {
+                    "Reply": "We meant no wrong.",
+                    "Didascalie": "",
+                    "Start": 41718,
+                    "End": 41737
+                },
+                {
+                    "Reply": "Nothing....",
+                    "Didascalie": "",
+                    "Start": 41796,
+                    "End": 41808
+                },
+                {
+                    "Reply": "I wanted to share something special with her.",
+                    "Didascalie": "",
+                    "Start": 41860,
+                    "End": 41907
+                },
+                {
+                    "Reply": "I'm in no mood for dancing.",
+                    "Didascalie": "",
+                    "Start": 42055,
+                    "End": 42083
+                },
+                {
+                    "Reply": "No...! Please....!",
+                    "Didascalie": "",
+                    "Start": 42923,
+                    "End": 42942
+                },
+                {
+                    "Reply": "I meant no disrespect....",
+                    "Didascalie": "",
+                    "Start": 44256,
+                    "End": 44282
+                },
+                {
+                    "Reply": "And if I cannot?",
+                    "Didascalie": "",
+                    "Start": 44339,
+                    "End": 44356
+                },
+                {
+                    "Reply": "Ask away, and pray God my answer pleases you.",
+                    "Didascalie": "",
+                    "Start": 44426,
+                    "End": 44472
+                },
+                {
+                    "Reply": "Bluebells!",
+                    "Didascalie": "",
+                    "Start": 44695,
+                    "End": 44706
+                },
+                {
+                    "Reply": "The flower. Bluebells. To hear then ringing means your life is at an end.",
+                    "Didascalie": "",
+                    "Start": 44726,
+                    "End": 44800
+                },
+                {
+                    "Reply": "I'm honoured, Gump....But no more tricks!",
+                    "Didascalie": "",
+                    "Start": 46215,
+                    "End": 46257
+                },
+                {
+                    "Reply": "Is there nothing you can do?",
+                    "Didascalie": "",
+                    "Start": 46734,
+                    "End": 46763
+                },
+                {
+                    "Reply": "But don't you care what's happened?",
+                    "Didascalie": "",
+                    "Start": 46867,
+                    "End": 46903
+                },
+                {
+                    "Reply": "We must find the answer!",
+                    "Didascalie": "",
+                    "Start": 47178,
+                    "End": 47203
+                },
+                {
+                    "Reply": "The fault was mine. I owe her my life.",
+                    "Didascalie": "",
+                    "Start": 49082,
+                    "End": 49122
+                },
+                {
+                    "Reply": "The dark is where we'll stay....",
+                    "Didascalie": "",
+                    "Start": 49644,
+                    "End": 49677
+                },
+                {
+                    "Reply": "We must get the alicorn back.",
+                    "Didascalie": "",
+                    "Start": 49791,
+                    "End": 49821
+                },
+                {
+                    "Reply": "She says we're to find a champion....",
+                    "Didascalie": "",
+                    "Start": 49912,
+                    "End": 49950
+                },
+                {
+                    "Reply": "That is the warmth of her soul.",
+                    "Didascalie": "",
+                    "Start": 50148,
+                    "End": 50180
+                },
+                {
+                    "Reply": "I don't know.... I was underwater....",
+                    "Didascalie": "",
+                    "Start": 50611,
+                    "End": 50649
+                },
+                {
+                    "Reply": "Thank you....",
+                    "Didascalie": "",
+                    "Start": 58702,
+                    "End": 58716
+                },
+                {
+                    "Reply": "Such riches.... I feel I must be dreaming....",
+                    "Didascalie": "",
+                    "Start": 60142,
+                    "End": 60188
+                },
+                {
+                    "Reply": "....beautiful....",
+                    "Didascalie": "",
+                    "Start": 60366,
+                    "End": 60384
+                },
+                {
+                    "Reply": "Stop it....! Go away....!",
+                    "Didascalie": "",
+                    "Start": 60541,
+                    "End": 60567
+                },
+                {
+                    "Reply": "I meant no disrespect, but....",
+                    "Didascalie": "",
+                    "Start": 60661,
+                    "End": 60692
+                },
+                {
+                    "Reply": "What does she want from me?",
+                    "Didascalie": "",
+                    "Start": 60880,
+                    "End": 60908
+                },
+                {
+                    "Reply": "What's this....? Something to cook with?",
+                    "Didascalie": "",
+                    "Start": 61277,
+                    "End": 61318
+                },
+                {
+                    "Reply": "That's really something.... Can I try?",
+                    "Didascalie": "",
+                    "Start": 61976,
+                    "End": 62015
+                },
+                {
+                    "Reply": "That's not so bad.... What do you think, Luna?",
+                    "Didascalie": "",
+                    "Start": 67415,
+                    "End": 67462
+                },
+                {
+                    "Reply": "What! H'd you do that?",
+                    "Didascalie": "",
+                    "Start": 67697,
+                    "End": 67720
+                },
+                {
+                    "Reply": "All right, all right....",
+                    "Didascalie": "",
+                    "Start": 68084,
+                    "End": 68109
+                },
+                {
+                    "Reply": "I'm ready as I'll ever be....",
+                    "Didascalie": "",
+                    "Start": 68693,
+                    "End": 68723
+                },
+                {
+                    "Reply": "Where's the unicorn?",
+                    "Didascalie": "",
+                    "Start": 69521,
+                    "End": 69542
+                },
+                {
+                    "Reply": "Princess Lili?",
+                    "Didascalie": "",
+                    "Start": 69780,
+                    "End": 69795
+                },
+                {
+                    "Reply": "Legend says the Dark Castle stood in olden days when evil anarchy ruled the land.... The wicked still come here to sacrafice.",
+                    "Didascalie": "",
+                    "Start": 72468,
+                    "End": 72594
+                },
+                {
+                    "Reply": "What was that?",
+                    "Didascalie": "",
+                    "Start": 73422,
+                    "End": 73437
+                },
+                {
+                    "Reply": "We've got to do something.",
+                    "Didascalie": "",
+                    "Start": 73551,
+                    "End": 73578
+                },
+                {
+                    "Reply": "You don't mean to eat me, do you ma'am?",
+                    "Didascalie": "",
+                    "Start": 74099,
+                    "End": 74139
+                },
+                {
+                    "Reply": "That would be a shame, Miss Meg.",
+                    "Didascalie": "",
+                    "Start": 74172,
+                    "End": 74205
+                },
+                {
+                    "Reply": "All the heavenly angels must envy your beauty.",
+                    "Didascalie": "",
+                    "Start": 74392,
+                    "End": 74440
+                },
+                {
+                    "Reply": "Let me go and I'll sing songs of praise to you.",
+                    "Didascalie": "",
+                    "Start": 74536,
+                    "End": 74584
+                },
+                {
+                    "Reply": "But....but....don't you like my words?",
+                    "Didascalie": "",
+                    "Start": 74713,
+                    "End": 74752
+                },
+                {
+                    "Reply": "Then fill your soul with loveliness.",
+                    "Didascalie": "",
+                    "Start": 74820,
+                    "End": 74857
+                },
+                {
+                    "Reply": "My shield would serve you well.",
+                    "Didascalie": "",
+                    "Start": 75080,
+                    "End": 75112
+                },
+                {
+                    "Reply": "Your radiance is the alchemy that makes rusted steel shine like silver.",
+                    "Didascalie": "",
+                    "Start": 75328,
+                    "End": 75401
+                },
+                {
+                    "Reply": "Better, you are a queen without a peer.... a reigning angel.",
+                    "Didascalie": "",
+                    "Start": 75740,
+                    "End": 75801
+                },
+                {
+                    "Reply": "How's Screwball?",
+                    "Didascalie": "",
+                    "Start": 76405,
+                    "End": 76422
+                },
+                {
+                    "Reply": "Then on to victory!",
+                    "Didascalie": "",
+                    "Start": 76514,
+                    "End": 76534
+                },
+                {
+                    "Reply": "What's that?",
+                    "Didascalie": "",
+                    "Start": 77971,
+                    "End": 77984
+                },
+                {
+                    "Reply": "He won't fool me.",
+                    "Didascalie": "",
+                    "Start": 78155,
+                    "End": 78173
+                },
+                {
+                    "Reply": "In here! I've found a passage!",
+                    "Didascalie": "",
+                    "Start": 78656,
+                    "End": 78687
+                },
+                {
+                    "Reply": "Doesn't make sense.... Check the walls. There must be some sort of secret key....",
+                    "Didascalie": "",
+                    "Start": 79549,
+                    "End": 79631
+                },
+                {
+                    "Reply": "How can you sing at a time like this?",
+                    "Didascalie": "",
+                    "Start": 80893,
+                    "End": 80931
+                },
+                {
+                    "Reply": "Just what sort of fix is that?",
+                    "Didascalie": "",
+                    "Start": 82366,
+                    "End": 82397
+                },
+                {
+                    "Reply": "Only dead meat waits for the stewpot! Spring the lock, Gump!",
+                    "Didascalie": "",
+                    "Start": 82632,
+                    "End": 82693
+                },
+                {
+                    "Reply": "I know I promised.... but it's the only way....",
+                    "Didascalie": "",
+                    "Start": 82982,
+                    "End": 83030
+                },
+                {
+                    "Reply": "That's easy enough.",
+                    "Didascalie": "",
+                    "Start": 83695,
+                    "End": 83715
+                },
+                {
+                    "Reply": "It's not possible. I'm in love....",
+                    "Didascalie": "",
+                    "Start": 83981,
+                    "End": 84016
+                },
+                {
+                    "Reply": "I can't do it....! This is faerie glamour!",
+                    "Didascalie": "",
+                    "Start": 84511,
+                    "End": 84554
+                },
+                {
+                    "Reply": "Threats can't make you love you.",
+                    "Didascalie": "",
+                    "Start": 84741,
+                    "End": 84774
+                },
+                {
+                    "Reply": "Luna....?",
+                    "Didascalie": "",
+                    "Start": 85024,
+                    "End": 85034
+                },
+                {
+                    "Reply": "Not without a fight!",
+                    "Didascalie": "",
+                    "Start": 86363,
+                    "End": 86384
+                },
+                {
+                    "Reply": "Keep behind me in case there's trouble.",
+                    "Didascalie": "",
+                    "Start": 87121,
+                    "End": 87161
+                },
+                {
+                    "Reply": "Quiet!",
+                    "Didascalie": "",
+                    "Start": 87534,
+                    "End": 87541
+                },
+                {
+                    "Reply": "Not even kings live like this....",
+                    "Didascalie": "",
+                    "Start": 92995,
+                    "End": 93030
+                },
+                {
+                    "Reply": "What has he done to her?",
+                    "Didascalie": "",
+                    "Start": 101204,
+                    "End": 101229
+                },
+                {
+                    "Reply": "He means to kill the mare, Gump!",
+                    "Didascalie": "",
+                    "Start": 102560,
+                    "End": 102593
+                },
+                {
+                    "Reply": "Thank God you're all right! I didn't know what to do.... I never want to lose you again....",
+                    "Didascalie": "",
+                    "Start": 106231,
+                    "End": 106323
+                },
+                {
+                    "Reply": "It's me, you can be sure of that....",
+                    "Didascalie": "",
+                    "Start": 106545,
+                    "End": 106582
+                },
+                {
+                    "Reply": "Lili....? I love you....",
+                    "Didascalie": "",
+                    "Start": 107662,
+                    "End": 107687
+                },
+                {
+                    "Reply": "Let's get started! What we need to do is sneak back into the kitchen and gather all the plates and platters....",
+                    "Didascalie": "",
+                    "Start": 110037,
+                    "End": 110152
+                },
+                {
+                    "Reply": "Remember....just the shiny ones....",
+                    "Didascalie": "",
+                    "Start": 110404,
+                    "End": 110440
+                },
+                {
+                    "Reply": "Up we go!",
+                    "Didascalie": "",
+                    "Start": 111807,
+                    "End": 111817
+                },
+                {
+                    "Reply": "Over here!",
+                    "Didascalie": "",
+                    "Start": 112870,
+                    "End": 112881
+                },
+                {
+                    "Reply": "Best you can do?",
+                    "Didascalie": "",
+                    "Start": 114352,
+                    "End": 114369
+                },
+                {
+                    "Reply": "Got to catch me first!",
+                    "Didascalie": "",
+                    "Start": 114465,
+                    "End": 114488
+                },
+                {
+                    "Reply": "Hate to break up the party, but there's work to be done!",
+                    "Didascalie": "",
+                    "Start": 117132,
+                    "End": 117189
+                },
+                {
+                    "Reply": "Smoke rising.... That chimney must go clear to the top.",
+                    "Didascalie": "",
+                    "Start": 117800,
+                    "End": 117856
+                },
+                {
+                    "Reply": "I'm proud of you, Screwball.",
+                    "Didascalie": "",
+                    "Start": 118589,
+                    "End": 118618
+                },
+                {
+                    "Reply": "Don't drop it....",
+                    "Didascalie": "(handing him a plate)",
+                    "Start": 118639,
+                    "End": 118658
+                },
+                {
+                    "Reply": "....I'm all right....Let's get on....to the dungeon....",
+                    "Didascalie": "",
+                    "Start": 126450,
+                    "End": 126506
+                },
+                {
+                    "Reply": "Everything's ready....",
+                    "Didascalie": "",
+                    "Start": 131982,
+                    "End": 132005
+                },
+                {
+                    "Reply": "....oh, God....! Lili....",
+                    "Didascalie": "",
+                    "Start": 132352,
+                    "End": 132378
+                },
+                {
+                    "Reply": "No! It'll work! It must!",
+                    "Didascalie": "",
+                    "Start": 133021,
+                    "End": 133046
+                },
+                {
+                    "Reply": "Come on, Screwball....",
+                    "Didascalie": "",
+                    "Start": 137370,
+                    "End": 137393
+                },
+                {
+                    "Reply": "Gump, wait! I trust her!",
+                    "Didascalie": "",
+                    "Start": 137599,
+                    "End": 137624
+                },
+                {
+                    "Reply": "No....! Don't...!",
+                    "Didascalie": "",
+                    "Start": 138017,
+                    "End": 138035
+                },
+                {
+                    "Reply": "I trust her, Gump....I'll always trust her....",
+                    "Didascalie": "",
+                    "Start": 138597,
+                    "End": 138644
+                },
+                {
+                    "Reply": "Burn....! You evil bastard....",
+                    "Didascalie": "",
+                    "Start": 140026,
+                    "End": 140057
+                },
+                {
+                    "Reply": "....haven't killed me yet....",
+                    "Didascalie": "",
+                    "Start": 143712,
+                    "End": 143742
+                },
+                {
+                    "Reply": "....I....can't remember....",
+                    "Didascalie": "",
+                    "Start": 144829,
+                    "End": 144857
+                },
+                {
+                    "Reply": "All my life....! I...I....",
+                    "Didascalie": "",
+                    "Start": 144915,
+                    "End": 144942
+                },
+                {
+                    "Reply": "How is Lili?",
+                    "Didascalie": "",
+                    "Start": 146747,
+                    "End": 146760
+                }
+            ]
+        },
+        {
+            "Character": "BROWNIE",
+            "Replies": [
+                {
+                    "Reply": "The world is in a fine mess because of you.",
+                    "Didascalie": "",
+                    "Start": 35290,
+                    "End": 35334
+                },
+                {
+                    "Reply": "Words...mere words.... Bolds deeds be needed now! Look at you!",
+                    "Didascalie": "",
+                    "Start": 35492,
+                    "End": 35555
+                },
+                {
+                    "Reply": "Me...? I'm the house brownie...",
+                    "Didascalie": "",
+                    "Start": 35649,
+                    "End": 35681
+                },
+                {
+                    "Reply": "Can I what?",
+                    "Didascalie": "",
+                    "Start": 36607,
+                    "End": 36619
+                },
+                {
+                    "Reply": "I like your spirit! There's always hope when a brave heart back a noble cause....",
+                    "Didascalie": "",
+                    "Start": 36917,
+                    "End": 37000
+                },
+                {
+                    "Reply": "'Tis from the tail of the cockatrice....",
+                    "Didascalie": "",
+                    "Start": 37501,
+                    "End": 37542
+                }
+            ]
+        },
+        {
+            "Character": "GUMP",
+            "Replies": [
+                {
+                    "Reply": "Aye, Jack.... Honeythorn Gump at your service.....",
+                    "Didascalie": "",
+                    "Start": 39866,
+                    "End": 39918
+                },
+                {
+                    "Reply": "How does a migrating swallow know the way south in winter....? Or a spawning salmon find the tiny freshet of his birth from the black cold depths of the mysterious sea....? I know everything, Jack!",
+                    "Didascalie": "",
+                    "Start": 40144,
+                    "End": 40344
+                },
+                {
+                    "Reply": "I'd be a powerful wizard indeed could I answer....",
+                    "Didascalie": "",
+                    "Start": 40419,
+                    "End": 40470
+                },
+                {
+                    "Reply": ": Suppose you tell me , Jack.",
+                    "Didascalie": "(shrewdly)",
+                    "Start": 40480,
+                    "End": 40510
+                },
+                {
+                    "Reply": "You know these woods as well as any elf.... Did you not see something odd today? Any strange spirits?",
+                    "Didascalie": "",
+                    "Start": 40571,
+                    "End": 40674
+                },
+                {
+                    "Reply": "Silence!",
+                    "Didascalie": "",
+                    "Start": 41317,
+                    "End": 41326
+                },
+                {
+                    "Reply": "Touched it! A mortal laid hands on a unicorn?",
+                    "Didascalie": "",
+                    "Start": 41631,
+                    "End": 41678
+                },
+                {
+                    "Reply": "Well.... I have something now to share with you....a lively reel to warm your bones!",
+                    "Didascalie": "",
+                    "Start": 41914,
+                    "End": 42000
+                },
+                {
+                    "Reply": "Time to dance, Jack!",
+                    "Didascalie": "",
+                    "Start": 42699,
+                    "End": 42720
+                },
+                {
+                    "Reply": "Hmmmm..... Love, you say....? Love is another story....",
+                    "Didascalie": "",
+                    "Start": 44192,
+                    "End": 44249
+                },
+                {
+                    "Reply": "Answer me this riddle and all is forgiven.",
+                    "Didascalie": "",
+                    "Start": 44289,
+                    "End": 44332
+                },
+                {
+                    "Reply": "Why, Jack....then 'tis your death song I'll be playing.",
+                    "Didascalie": "",
+                    "Start": 44363,
+                    "End": 44419
+                },
+                {
+                    "Reply": "What is a bell that does not ring, Yet, its knell makes the angels sing?",
+                    "Didascalie": "",
+                    "Start": 44479,
+                    "End": 44552
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 44713,
+                    "End": 44719
+                },
+                {
+                    "Reply": "Damnation! Codfish and cockles!",
+                    "Didascalie": "",
+                    "Start": 44862,
+                    "End": 44894
+                },
+                {
+                    "Reply": "Well spoke! And if it's wine you want, it's wine we shall have.",
+                    "Didascalie": "",
+                    "Start": 45513,
+                    "End": 45577
+                },
+                {
+                    "Reply": "Changing this frozen hell is beyond my modest powers.",
+                    "Didascalie": "",
+                    "Start": 46673,
+                    "End": 46727
+                },
+                {
+                    "Reply": "If you want more tricks, I'm your man.... but, for big questions, you must go elsewhere.",
+                    "Didascalie": "",
+                    "Start": 46770,
+                    "End": 46860
+                },
+                {
+                    "Reply": "Course we care.... What good's the world locked in a season of death?",
+                    "Didascalie": "",
+                    "Start": 46910,
+                    "End": 46981
+                },
+                {
+                    "Reply": "No more spells to cast....Does that sound like an enjoyable prospect?",
+                    "Didascalie": "",
+                    "Start": 47101,
+                    "End": 47171
+                },
+                {
+                    "Reply": "That we must. But first, we better see that no harm's come to the unicorns.",
+                    "Didascalie": "",
+                    "Start": 47210,
+                    "End": 47287
+                },
+                {
+                    "Reply": "This is goblins' work....",
+                    "Didascalie": "",
+                    "Start": 48504,
+                    "End": 48530
+                },
+                {
+                    "Reply": "Run, Jack!",
+                    "Didascalie": "",
+                    "Start": 49064,
+                    "End": 49075
+                },
+                {
+                    "Reply": "Nobly spoken, lad, and nobility is her gift in return.",
+                    "Didascalie": "",
+                    "Start": 49129,
+                    "End": 49184
+                },
+                {
+                    "Reply": "Come on Jack, don't keep us in the dark.",
+                    "Didascalie": "",
+                    "Start": 49596,
+                    "End": 49637
+                },
+                {
+                    "Reply": "And how do faeries fight a demon?",
+                    "Didascalie": "",
+                    "Start": 49871,
+                    "End": 49905
+                },
+                {
+                    "Reply": "Don't give up so quick, lads.",
+                    "Didascalie": "",
+                    "Start": 50401,
+                    "End": 50431
+                },
+                {
+                    "Reply": "You sure you're mortal?",
+                    "Didascalie": "(feeling Jack's arm)",
+                    "Start": 50451,
+                    "End": 50476
+                },
+                {
+                    "Reply": "You'll do.... We best get you some weapons.",
+                    "Didascalie": "",
+                    "Start": 50717,
+                    "End": 50761
+                },
+                {
+                    "Reply": "We'll have to make him one....",
+                    "Didascalie": "",
+                    "Start": 50858,
+                    "End": 50889
+                },
+                {
+                    "Reply": "Think you so?",
+                    "Didascalie": "",
+                    "Start": 58213,
+                    "End": 58227
+                },
+                {
+                    "Reply": "Brown Tom. Stay here with the unicorn and guard her well.",
+                    "Didascalie": "",
+                    "Start": 58964,
+                    "End": 59022
+                },
+                {
+                    "Reply": "Better than that! She's the last of her kind.",
+                    "Didascalie": "",
+                    "Start": 59059,
+                    "End": 59106
+                },
+                {
+                    "Reply": "Right this way....",
+                    "Didascalie": "",
+                    "Start": 59594,
+                    "End": 59613
+                },
+                {
+                    "Reply": "Fit for a king's ramsom!",
+                    "Didascalie": "",
+                    "Start": 60056,
+                    "End": 60081
+                },
+                {
+                    "Reply": "If life is a dream, better you dread the waking!",
+                    "Didascalie": "",
+                    "Start": 60195,
+                    "End": 60244
+                },
+                {
+                    "Reply": "Mere trinkets.... Let's find you something useful.",
+                    "Didascalie": "",
+                    "Start": 60391,
+                    "End": 60442
+                },
+                {
+                    "Reply": "Easy.... Luna only seeks a little affection.",
+                    "Didascalie": "",
+                    "Start": 60574,
+                    "End": 60620
+                },
+                {
+                    "Reply": "Does your blood run so cold? You'll be a corpse before your time.",
+                    "Didascalie": "",
+                    "Start": 60736,
+                    "End": 60803
+                },
+                {
+                    "Reply": "Foolish question....",
+                    "Didascalie": "",
+                    "Start": 60915,
+                    "End": 60936
+                },
+                {
+                    "Reply": "Drink, and wamr your heart.",
+                    "Didascalie": "(handing Jack a goblet)",
+                    "Start": 60959,
+                    "End": 60988
+                },
+                {
+                    "Reply": "A little demonstration.",
+                    "Didascalie": "",
+                    "Start": 61646,
+                    "End": 61670
+                },
+                {
+                    "Reply": "You're the champion, aren't you?",
+                    "Didascalie": "",
+                    "Start": 62053,
+                    "End": 62086
+                },
+                {
+                    "Reply": "Go on.... see if it fits.",
+                    "Didascalie": "",
+                    "Start": 62563,
+                    "End": 62589
+                },
+                {
+                    "Reply": "Have a look at yourself, Jack.",
+                    "Didascalie": "",
+                    "Start": 62775,
+                    "End": 62806
+                },
+                {
+                    "Reply": "You first must know how to tell the time.",
+                    "Didascalie": "",
+                    "Start": 63412,
+                    "End": 63455
+                },
+                {
+                    "Reply": "No more chatter....! I've got work to do.",
+                    "Didascalie": "",
+                    "Start": 63498,
+                    "End": 63540
+                },
+                {
+                    "Reply": "Not now! I'm busy with navigation.",
+                    "Didascalie": "",
+                    "Start": 67193,
+                    "End": 67228
+                },
+                {
+                    "Reply": "Hmmmm...? Screwball!",
+                    "Didascalie": "",
+                    "Start": 68238,
+                    "End": 68259
+                },
+                {
+                    "Reply": "Hand it over....!",
+                    "Didascalie": "",
+                    "Start": 68328,
+                    "End": 68346
+                },
+                {
+                    "Reply": "Sneak thief's magic!",
+                    "Didascalie": "",
+                    "Start": 68527,
+                    "End": 68548
+                },
+                {
+                    "Reply": "Jack! it's time we were on our way!",
+                    "Didascalie": "(studies timepiece)",
+                    "Start": 68567,
+                    "End": 68604
+                },
+                {
+                    "Reply": "Brown Tom....? You can't be dead....!",
+                    "Didascalie": "",
+                    "Start": 68989,
+                    "End": 69027
+                },
+                {
+                    "Reply": "Course they didn't! What in blazes are you talking about?",
+                    "Didascalie": "",
+                    "Start": 69181,
+                    "End": 69239
+                },
+                {
+                    "Reply": "Your brains are one spot an arrow'd do no harm!",
+                    "Didascalie": "",
+                    "Start": 69466,
+                    "End": 69514
+                },
+                {
+                    "Reply": "You'll earn your champion's spurs this day, Jack.... We'll follow their tracks in the snow. Foul weather's on our side for a change.",
+                    "Didascalie": "",
+                    "Start": 69905,
+                    "End": 70038
+                },
+                {
+                    "Reply": "They worship the demon....",
+                    "Didascalie": "",
+                    "Start": 72601,
+                    "End": 72628
+                },
+                {
+                    "Reply": "Good! You shall go first....",
+                    "Didascalie": "",
+                    "Start": 72669,
+                    "End": 72698
+                },
+                {
+                    "Reply": "Go on! Hurry up!",
+                    "Didascalie": "",
+                    "Start": 73008,
+                    "End": 73025
+                },
+                {
+                    "Reply": "Big trouble!",
+                    "Didascalie": "",
+                    "Start": 73444,
+                    "End": 73457
+                },
+                {
+                    "Reply": "Like a chmapion, Jack.",
+                    "Didascalie": "",
+                    "Start": 76356,
+                    "End": 76379
+                },
+                {
+                    "Reply": "For our protection, Jack. You must be ready.... Remember, Darkness is a liar....",
+                    "Didascalie": "",
+                    "Start": 77991,
+                    "End": 78073
+                },
+                {
+                    "Reply": "Don't touch it! Our lives are lost if it blows!",
+                    "Didascalie": "",
+                    "Start": 78534,
+                    "End": 78582
+                },
+                {
+                    "Reply": "Screwball! Drop those this minute!",
+                    "Didascalie": "",
+                    "Start": 79926,
+                    "End": 79962
+                },
+                {
+                    "Reply": "Can you think of anything better to do?",
+                    "Didascalie": "",
+                    "Start": 80938,
+                    "End": 80979
+                },
+                {
+                    "Reply": "Some place we don't want to be!",
+                    "Didascalie": "",
+                    "Start": 81341,
+                    "End": 81373
+                },
+                {
+                    "Reply": "Stay clear of that imp! He's a hell hound goblin!",
+                    "Didascalie": "",
+                    "Start": 81611,
+                    "End": 81661
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 83415,
+                    "End": 83421
+                },
+                {
+                    "Reply": "Luna....!",
+                    "Didascalie": "",
+                    "Start": 86500,
+                    "End": 86510
+                },
+                {
+                    "Reply": "Well done!",
+                    "Didascalie": "",
+                    "Start": 86874,
+                    "End": 86885
+                },
+                {
+                    "Reply": "Shhhh!  Jack is the last of all.",
+                    "Didascalie": "",
+                    "Start": 87080,
+                    "End": 87114
+                },
+                {
+                    "Reply": "You have no power to stop it....",
+                    "Didascalie": "",
+                    "Start": 101261,
+                    "End": 101294
+                },
+                {
+                    "Reply": "It's not the sword that counts, but the man who swings it....",
+                    "Didascalie": "",
+                    "Start": 101431,
+                    "End": 101493
+                },
+                {
+                    "Reply": "Don't mourn the corpse 'til the coffin's in the ground.",
+                    "Didascalie": "",
+                    "Start": 102600,
+                    "End": 102656
+                },
+                {
+                    "Reply": "As long as the sun still shines, so does hope!",
+                    "Didascalie": "",
+                    "Start": 102727,
+                    "End": 102775
+                },
+                {
+                    "Reply": "Come, Jack. We've no time to spare.... Remember your plan?",
+                    "Didascalie": "",
+                    "Start": 107733,
+                    "End": 107793
+                },
+                {
+                    "Reply": "Where were you? In another three flicks of a badger's tail it'll be half-past.",
+                    "Didascalie": "",
+                    "Start": 108940,
+                    "End": 109020
+                },
+                {
+                    "Reply": "Excellant.... Who has a bit of parchment?",
+                    "Didascalie": "",
+                    "Start": 109227,
+                    "End": 109269
+                },
+                {
+                    "Reply": "Shush, both of you....! Jack has a plan....a good one....",
+                    "Didascalie": "",
+                    "Start": 109591,
+                    "End": 109650
+                },
+                {
+                    "Reply": "....and be quiet! Soft as thistledown, that's the faerie way.",
+                    "Didascalie": "",
+                    "Start": 110527,
+                    "End": 110589
+                },
+                {
+                    "Reply": "Quiet....! You're a free imp on one condition....",
+                    "Didascalie": "",
+                    "Start": 111091,
+                    "End": 111141
+                },
+                {
+                    "Reply": "Any more noise and you're shish-ka-bob....",
+                    "Didascalie": "",
+                    "Start": 111313,
+                    "End": 111356
+                },
+                {
+                    "Reply": "Schweinhundt!",
+                    "Didascalie": "",
+                    "Start": 113428,
+                    "End": 113442
+                },
+                {
+                    "Reply": "We must help Jack!",
+                    "Didascalie": "",
+                    "Start": 115137,
+                    "End": 115156
+                },
+                {
+                    "Reply": "Jack sheathes his sword and rushes into the kitchen.",
+                    "Didascalie": "",
+                    "Start": 117247,
+                    "End": 117300
+                },
+                {
+                    "Reply": "Move! Or I make your head ring worse than any hangover!",
+                    "Didascalie": "",
+                    "Start": 117480,
+                    "End": 117536
+                },
+                {
+                    "Reply": "What's on your mind, Jack?",
+                    "Didascalie": "",
+                    "Start": 117766,
+                    "End": 117793
+                },
+                {
+                    "Reply": "Not much to hold onto. Take a peapod pixie to make the climb.",
+                    "Didascalie": "",
+                    "Start": 117892,
+                    "End": 117955
+                },
+                {
+                    "Reply": "What? Can I believe my ears?",
+                    "Didascalie": "",
+                    "Start": 118077,
+                    "End": 118106
+                },
+                {
+                    "Reply": "All right! Do it! But be swift.",
+                    "Didascalie": "",
+                    "Start": 118440,
+                    "End": 118472
+                },
+                {
+                    "Reply": "Little more to the left, Luna....",
+                    "Didascalie": "",
+                    "Start": 119504,
+                    "End": 119538
+                },
+                {
+                    "Reply": "Jack....!",
+                    "Didascalie": "",
+                    "Start": 126168,
+                    "End": 126178
+                },
+                {
+                    "Reply": "....not much time....",
+                    "Didascalie": "",
+                    "Start": 130733,
+                    "End": 130755
+                },
+                {
+                    "Reply": "And you, Jack? Your greatest challenge is still to come....",
+                    "Didascalie": "",
+                    "Start": 132012,
+                    "End": 132072
+                },
+                {
+                    "Reply": "Judge her with your heart, not your eyes.",
+                    "Didascalie": "",
+                    "Start": 132385,
+                    "End": 132427
+                },
+                {
+                    "Reply": "Luna! Fly up to Screwball! Tell him it's time!",
+                    "Didascalie": "",
+                    "Start": 133053,
+                    "End": 133100
+                },
+                {
+                    "Reply": "She means to do it, Jack!",
+                    "Didascalie": "",
+                    "Start": 137400,
+                    "End": 137426
+                },
+                {
+                    "Reply": "Foolish, mortal!",
+                    "Didascalie": "",
+                    "Start": 138651,
+                    "End": 138668
+                },
+                {
+                    "Reply": "No, Jack....Quick! He's after the mare!",
+                    "Didascalie": "",
+                    "Start": 140983,
+                    "End": 141023
+                },
+                {
+                    "Reply": "Why....Jack....solved your riddle at last....",
+                    "Didascalie": "",
+                    "Start": 146619,
+                    "End": 146666
+                },
+                {
+                    "Reply": "Sadly beyond the help of faerie magic. She's under a powerful spell....",
+                    "Didascalie": "",
+                    "Start": 146767,
+                    "End": 146839
+                },
+                {
+                    "Reply": "And why not? I know some magic words that'll do the trick!",
+                    "Didascalie": "",
+                    "Start": 147397,
+                    "End": 147456
+                },
+                {
+                    "Reply": "Stand back....! The sky's the limit!",
+                    "Didascalie": "",
+                    "Start": 147535,
+                    "End": 147573
+                },
+                {
+                    "Reply": "Screwball! Wait for the spell....",
+                    "Didascalie": "",
+                    "Start": 147691,
+                    "End": 147725
+                },
+                {
+                    "Reply": "Eiderdown and milkfeed fluff....",
+                    "Didascalie": "",
+                    "Start": 147794,
+                    "End": 147827
+                }
+            ]
+        },
+        {
+            "Character": "BROWN TOM",
+            "Replies": [
+                {
+                    "Reply": "Bad....terrible bad!",
+                    "Didascalie": "",
+                    "Start": 41690,
+                    "End": 41711
+                },
+                {
+                    "Reply": "No babies to tickle....",
+                    "Didascalie": "",
+                    "Start": 47035,
+                    "End": 47059
+                },
+                {
+                    "Reply": "Take cover, laddies!",
+                    "Didascalie": "",
+                    "Start": 48724,
+                    "End": 48745
+                },
+                {
+                    "Reply": "Is there naught we can do?",
+                    "Didascalie": "",
+                    "Start": 49757,
+                    "End": 49784
+                },
+                {
+                    "Reply": "Screwball's right. Where we gonna find a champion when every mortal can swing a sword is froze stiff as an icicle?",
+                    "Didascalie": "",
+                    "Start": 50278,
+                    "End": 50394
+                },
+                {
+                    "Reply": "Like me own life!",
+                    "Didascalie": "",
+                    "Start": 59034,
+                    "End": 59052
+                },
+                {
+                    "Reply": "What....? What....? Who's there?",
+                    "Didascalie": "",
+                    "Start": 64643,
+                    "End": 64677
+                },
+                {
+                    "Reply": "You! You're the cause of all our sorrow!",
+                    "Didascalie": "",
+                    "Start": 64725,
+                    "End": 64767
+                },
+                {
+                    "Reply": "I ain't the one ye should be asking.",
+                    "Didascalie": "",
+                    "Start": 64908,
+                    "End": 64945
+                },
+                {
+                    "Reply": "Good lass! You're a plucky little partridge at that.",
+                    "Didascalie": "",
+                    "Start": 65068,
+                    "End": 65121
+                },
+                {
+                    "Reply": "Too late!",
+                    "Didascalie": "",
+                    "Start": 65361,
+                    "End": 65371
+                },
+                {
+                    "Reply": "If you imps're looking for a fight, ye've come to the chap who'll oblige ye.",
+                    "Didascalie": "",
+                    "Start": 65579,
+                    "End": 65656
+                },
+                {
+                    "Reply": "Dick-o-Tuesday's duck! They've done for me!",
+                    "Didascalie": "",
+                    "Start": 66203,
+                    "End": 66247
+                },
+                {
+                    "Reply": "Goblins shot me through the brain pan.",
+                    "Didascalie": "",
+                    "Start": 69311,
+                    "End": 69350
+                },
+                {
+                    "Reply": "I'm afeered the goblins took her.",
+                    "Didascalie": "",
+                    "Start": 69607,
+                    "End": 69641
+                },
+                {
+                    "Reply": "Aye.",
+                    "Didascalie": "",
+                    "Start": 69807,
+                    "End": 69812
+                },
+                {
+                    "Reply": "She was living still when they killed me.",
+                    "Didascalie": "",
+                    "Start": 69855,
+                    "End": 69898
+                },
+                {
+                    "Reply": "Screwball!",
+                    "Didascalie": "",
+                    "Start": 73404,
+                    "End": 73415
+                },
+                {
+                    "Reply": "Our champion's a goner, he is.",
+                    "Didascalie": "",
+                    "Start": 73968,
+                    "End": 73999
+                },
+                {
+                    "Reply": "Bravo!",
+                    "Didascalie": "",
+                    "Start": 76391,
+                    "End": 76398
+                },
+                {
+                    "Reply": "Tells you somthing 'bout him what lives here.",
+                    "Didascalie": "",
+                    "Start": 79424,
+                    "End": 79470
+                },
+                {
+                    "Reply": "Ouch! Ow!",
+                    "Didascalie": "",
+                    "Start": 81258,
+                    "End": 81268
+                },
+                {
+                    "Reply": "Wish I had a drink....",
+                    "Didascalie": "",
+                    "Start": 82602,
+                    "End": 82625
+                },
+                {
+                    "Reply": "Mind you bleeding foot!",
+                    "Didascalie": "",
+                    "Start": 87049,
+                    "End": 87073
+                },
+                {
+                    "Reply": "Terrible sight for a sober man to see....",
+                    "Didascalie": "",
+                    "Start": 87485,
+                    "End": 87527
+                },
+                {
+                    "Reply": "Best to allow another couple dozen butterfly breaths in case we get thirs....er, get lost....",
+                    "Didascalie": "",
+                    "Start": 90528,
+                    "End": 90625
+                },
+                {
+                    "Reply": "Where there's a will there's a....",
+                    "Didascalie": "",
+                    "Start": 109549,
+                    "End": 109584
+                },
+                {
+                    "Reply": "Don't be so pig-headed! You can trust Gump.",
+                    "Didascalie": "",
+                    "Start": 110228,
+                    "End": 110273
+                },
+                {
+                    "Reply": "Well.... trust Jack then.",
+                    "Didascalie": "",
+                    "Start": 110336,
+                    "End": 110362
+                },
+                {
+                    "Reply": "Whoopeeeeeee!",
+                    "Didascalie": "",
+                    "Start": 117056,
+                    "End": 117070
+                },
+                {
+                    "Reply": "Just a wee taste....",
+                    "Didascalie": "",
+                    "Start": 117408,
+                    "End": 117429
+                },
+                {
+                    "Reply": "Be sure ya don't fall down!",
+                    "Didascalie": "",
+                    "Start": 118405,
+                    "End": 118433
+                },
+                {
+                    "Reply": "The game is lost....for all of Jack's pretty plan...",
+                    "Didascalie": "",
+                    "Start": 132959,
+                    "End": 133012
+                },
+                {
+                    "Reply": "Stop lads....! The light!",
+                    "Didascalie": "",
+                    "Start": 138894,
+                    "End": 138920
+                },
+                {
+                    "Reply": "....and we'll dance on the black devil's grave....",
+                    "Didascalie": "",
+                    "Start": 140379,
+                    "End": 140431
+                },
+                {
+                    "Reply": "Should've known no mortal could speak unicorn like that....",
+                    "Didascalie": "",
+                    "Start": 146678,
+                    "End": 146740
+                },
+                {
+                    "Reply": "Wish we could go with him....",
+                    "Didascalie": "",
+                    "Start": 147360,
+                    "End": 147390
+                },
+                {
+                    "Reply": "Ouch!",
+                    "Didascalie": "",
+                    "Start": 149431,
+                    "End": 149437
+                }
+            ]
+        },
+        {
+            "Character": "INSTRYEMNTS",
+            "Replies": [
+                {
+                    "Reply": "seashell trumpets, acorn cellos, gossets, serpentines, blossom-bell horns, bone flutes, all manner of drums and rattles.",
+                    "Didascalie": "",
+                    "Start": 42365,
+                    "End": 42487
+                }
+            ]
+        },
+        {
+            "Character": "SCREWBALL",
+            "Replies": [
+                {
+                    "Reply": "No lovers to tease....",
+                    "Didascalie": "",
+                    "Start": 47071,
+                    "End": 47094
+                },
+                {
+                    "Reply": "I sadly fear the worst....",
+                    "Didascalie": "",
+                    "Start": 47299,
+                    "End": 47326
+                },
+                {
+                    "Reply": "What's he saying? What's it mean?",
+                    "Didascalie": "",
+                    "Start": 49357,
+                    "End": 49391
+                },
+                {
+                    "Reply": "Look....! Look....!",
+                    "Didascalie": "",
+                    "Start": 50006,
+                    "End": 50026
+                },
+                {
+                    "Reply": "Little good her soul'll do us now.",
+                    "Didascalie": "",
+                    "Start": 50231,
+                    "End": 50266
+                },
+                {
+                    "Reply": "Why aren't you frozen then?",
+                    "Didascalie": "",
+                    "Start": 50576,
+                    "End": 50604
+                },
+                {
+                    "Reply": "Home, sweet home!",
+                    "Didascalie": "",
+                    "Start": 59733,
+                    "End": 59751
+                },
+                {
+                    "Reply": "World is doomed, if you ask me.",
+                    "Didascalie": "",
+                    "Start": 61511,
+                    "End": 61543
+                },
+                {
+                    "Reply": "Coming right up!",
+                    "Didascalie": "",
+                    "Start": 62428,
+                    "End": 62445
+                },
+                {
+                    "Reply": "He might pass for a champion in that.",
+                    "Didascalie": "",
+                    "Start": 62729,
+                    "End": 62768
+                },
+                {
+                    "Reply": "Clothes never made the man....",
+                    "Didascalie": "",
+                    "Start": 62944,
+                    "End": 62975
+                },
+                {
+                    "Reply": "I ain't got nothing....",
+                    "Didascalie": "",
+                    "Start": 63467,
+                    "End": 63491
+                },
+                {
+                    "Reply": "Think I'll brew some tea.",
+                    "Didascalie": "",
+                    "Start": 63749,
+                    "End": 63775
+                },
+                {
+                    "Reply": "Spot of tea, Gump....?",
+                    "Didascalie": "",
+                    "Start": 67138,
+                    "End": 67161
+                },
+                {
+                    "Reply": "Well, well, well....",
+                    "Didascalie": "",
+                    "Start": 68446,
+                    "End": 68467
+                },
+                {
+                    "Reply": "It's ugly! I hate it!",
+                    "Didascalie": "",
+                    "Start": 72640,
+                    "End": 72662
+                },
+                {
+                    "Reply": "All the time me.",
+                    "Didascalie": "",
+                    "Start": 73037,
+                    "End": 73054
+                },
+                {
+                    "Reply": "Chewed, but not disgested....",
+                    "Didascalie": "",
+                    "Start": 76434,
+                    "End": 76464
+                },
+                {
+                    "Reply": "What a nice big trumpet....! Bet it sounds louder than anything....",
+                    "Didascalie": "",
+                    "Start": 78407,
+                    "End": 78475
+                },
+                {
+                    "Reply": "It's a dead end....",
+                    "Didascalie": "",
+                    "Start": 79482,
+                    "End": 79502
+                },
+                {
+                    "Reply": "One-two-three....",
+                    "Didascalie": "",
+                    "Start": 79825,
+                    "End": 79843
+                },
+                {
+                    "Reply": "Where are we?",
+                    "Didascalie": "",
+                    "Start": 81280,
+                    "End": 81294
+                },
+                {
+                    "Reply": "Who be you, bucket-head?",
+                    "Didascalie": "",
+                    "Start": 81579,
+                    "End": 81604
+                },
+                {
+                    "Reply": "What happened to you?",
+                    "Didascalie": "",
+                    "Start": 82139,
+                    "End": 82161
+                },
+                {
+                    "Reply": "I knew it! I knew it! Should of stayed at home....",
+                    "Didascalie": "",
+                    "Start": 82483,
+                    "End": 82534
+                },
+                {
+                    "Reply": "Magic's no good against it.",
+                    "Didascalie": "",
+                    "Start": 82800,
+                    "End": 82828
+                },
+                {
+                    "Reply": "Blunder's got the right idea!",
+                    "Didascalie": "",
+                    "Start": 85576,
+                    "End": 85606
+                },
+                {
+                    "Reply": "Lemme outta this stink hole!",
+                    "Didascalie": "",
+                    "Start": 87008,
+                    "End": 87037
+                },
+                {
+                    "Reply": "....Back in the frying pan!",
+                    "Didascalie": "",
+                    "Start": 87890,
+                    "End": 87918
+                },
+                {
+                    "Reply": "I hate it....I hate it....",
+                    "Didascalie": "",
+                    "Start": 91016,
+                    "End": 91044
+                },
+                {
+                    "Reply": "Sorry....time slips away when you're having so much fun.",
+                    "Didascalie": "",
+                    "Start": 109032,
+                    "End": 109089
+                },
+                {
+                    "Reply": "Here.... I was saving it to write me will on.",
+                    "Didascalie": "",
+                    "Start": 109491,
+                    "End": 109537
+                },
+                {
+                    "Reply": "Oh no! Not me! Seen enough of that kitchen, I have!",
+                    "Didascalie": "",
+                    "Start": 110164,
+                    "End": 110216
+                },
+                {
+                    "Reply": "I'd sooner trust a rat in the ghetto!",
+                    "Didascalie": "",
+                    "Start": 110285,
+                    "End": 110324
+                },
+                {
+                    "Reply": "Cut him down to size, Jack!",
+                    "Didascalie": "",
+                    "Start": 115437,
+                    "End": 115465
+                },
+                {
+                    "Reply": "I'll do it!",
+                    "Didascalie": "",
+                    "Start": 118001,
+                    "End": 118013
+                },
+                {
+                    "Reply": "Don't see why not. Ain't I small enough for the job?",
+                    "Didascalie": "",
+                    "Start": 118118,
+                    "End": 118172
+                },
+                {
+                    "Reply": "Thank you....thank you....",
+                    "Didascalie": "",
+                    "Start": 118484,
+                    "End": 118511
+                },
+                {
+                    "Reply": "I thought the invitation said half-past....",
+                    "Didascalie": "",
+                    "Start": 123919,
+                    "End": 123963
+                },
+                {
+                    "Reply": "Crumpets and candlesticks....!",
+                    "Didascalie": "",
+                    "Start": 129715,
+                    "End": 129746
+                },
+                {
+                    "Reply": "I can't let that happen....Why, it's not civilized!",
+                    "Didascalie": "",
+                    "Start": 129895,
+                    "End": 129947
+                },
+                {
+                    "Reply": "Oh no! Not me! I hate to travel like that....makes me sick.",
+                    "Didascalie": "",
+                    "Start": 147468,
+                    "End": 147528
+                },
+                {
+                    "Reply": "Can't stand your bumpy takeoffs....",
+                    "Didascalie": "",
+                    "Start": 147585,
+                    "End": 147621
+                },
+                {
+                    "Reply": "Ow!",
+                    "Didascalie": "",
+                    "Start": 149415,
+                    "End": 149419
+                }
+            ]
+        },
+        {
+            "Character": "SOMETHING TERRIBLE HAPPENS",
+            "Replies": [
+                {
+                    "Reply": "the ground around Blunder begins to soften. To his horror, the little goblin sinks under as if into quicksand.",
+                    "Didascalie": "",
+                    "Start": 53479,
+                    "End": 53592
+                }
+            ]
+        },
+        {
+            "Character": "BOULDER",
+            "Replies": [
+                {
+                    "Reply": "Morning', Gump....",
+                    "Didascalie": "",
+                    "Start": 58356,
+                    "End": 58375
+                }
+            ]
+        },
+        {
+            "Character": "OF TREASURE",
+            "Replies": [
+                {
+                    "Reply": "gemstones, pearls, chests heaped with gold coins.",
+                    "Didascalie": "",
+                    "Start": 59999,
+                    "End": 60049
+                }
+            ]
+        },
+        {
+            "Character": "LUNA",
+            "Replies": [
+                {
+                    "Reply": "I think you look like a hero.",
+                    "Didascalie": "",
+                    "Start": 67660,
+                    "End": 67690
+                },
+                {
+                    "Reply": "Nobody knows nut you. it's our secret....",
+                    "Didascalie": "",
+                    "Start": 67932,
+                    "End": 67974
+                },
+                {
+                    "Reply": "Promise?",
+                    "Didascalie": "(kissing his cheek)",
+                    "Start": 67993,
+                    "End": 68003
+                },
+                {
+                    "Reply": "They're mine to keep! But I'll do what you ask.... if you kiss me, Jack.",
+                    "Didascalie": "",
+                    "Start": 83615,
+                    "End": 83688
+                },
+                {
+                    "Reply": "Call that a kiss? Am I not sweet?",
+                    "Didascalie": "",
+                    "Start": 83762,
+                    "End": 83796
+                },
+                {
+                    "Reply": "Sweet is the wind thats blows me to you....",
+                    "Didascalie": "",
+                    "Start": 83899,
+                    "End": 83944
+                },
+                {
+                    "Reply": "A faerie's love makes anything possible....",
+                    "Didascalie": "",
+                    "Start": 84023,
+                    "End": 84068
+                },
+                {
+                    "Reply": "What care I for human heart?",
+                    "Didascalie": "",
+                    "Start": 84815,
+                    "End": 84844
+                },
+                {
+                    "Reply": "I'd gladly frolic on Jack's....",
+                    "Didascalie": "",
+                    "Start": 86630,
+                    "End": 86662
+                }
+            ]
+        },
+        {
+            "Character": "MEG",
+            "Replies": [
+                {
+                    "Reply": "Foul tasting faerie.....! Come to me, juicy boy!",
+                    "Didascalie": "",
+                    "Start": 73731,
+                    "End": 73780
+                },
+                {
+                    "Reply": "What a fine fat boy you are....",
+                    "Didascalie": "",
+                    "Start": 74060,
+                    "End": 74092
+                },
+                {
+                    "Reply": "Oh, indeed I do....",
+                    "Didascalie": "",
+                    "Start": 74145,
+                    "End": 74165
+                },
+                {
+                    "Reply": "Hmmmm....think me fair, do you, Jack?",
+                    "Didascalie": "",
+                    "Start": 74347,
+                    "End": 74385
+                },
+                {
+                    "Reply": "Ooooo....what a find meal you'll make, be the rest of you as sweet as your tongue.",
+                    "Didascalie": "",
+                    "Start": 74446,
+                    "End": 74529
+                },
+                {
+                    "Reply": "Let you go? Don't be daft. I've had naught but muskrat and snakes all this month.... bit of rancid goblin, too....",
+                    "Didascalie": "",
+                    "Start": 74590,
+                    "End": 74706
+                },
+                {
+                    "Reply": "Words are little help in filling an empty stomach....",
+                    "Didascalie": "",
+                    "Start": 74758,
+                    "End": 74813
+                },
+                {
+                    "Reply": "There's no looking-glass here....",
+                    "Didascalie": "",
+                    "Start": 74905,
+                    "End": 74939
+                },
+                {
+                    "Reply": "What a splendid idea! You be so clever, Jack.",
+                    "Didascalie": "",
+                    "Start": 75207,
+                    "End": 75254
+                },
+                {
+                    "Reply": "Oooo! That's nice! I be the envy of any princess in the land.",
+                    "Didascalie": "",
+                    "Start": 75490,
+                    "End": 75552
+                },
+                {
+                    "Reply": "You have such discerning taste for so young a boy....",
+                    "Didascalie": "",
+                    "Start": 75883,
+                    "End": 75938
+                }
+            ]
+        },
+        {
+            "Character": "MEG PRIMPS AND PREENS",
+            "Replies": [
+                {
+                    "Reply": "an obscene parody of a pretty maiden at her vanity table.",
+                    "Didascalie": "",
+                    "Start": 75425,
+                    "End": 75484
+                }
+            ]
+        },
+        {
+            "Character": "VOICE",
+            "Replies": [
+                {
+                    "Reply": "You hold the world in your grasp....",
+                    "Didascalie": "",
+                    "Start": 77172,
+                    "End": 77209
+                },
+                {
+                    "Reply": "What do you gain from it? What pleasure comes from ruling a pack of imps and goblins....? Souls already black.... This innocent creature fascinates you because only she can appreciate the enormity of your achievement.",
+                    "Didascalie": "",
+                    "Start": 77307,
+                    "End": 77526
+                },
+                {
+                    "Reply": "A hollow victory! She remembers the world as it was, when she loves your new order you will triumph! Woo her....",
+                    "Didascalie": "",
+                    "Start": 77565,
+                    "End": 77679
+                },
+                {
+                    "Reply": "Remember.... She must desire you....",
+                    "Didascalie": "",
+                    "Start": 77783,
+                    "End": 77820
+                }
+            ]
+        },
+        {
+            "Character": "COOK",
+            "Replies": [
+                {
+                    "Reply": "....pig-pig-pig...",
+                    "Didascalie": "",
+                    "Start": 85842,
+                    "End": 85861
+                },
+                {
+                    "Reply": "Whut be there?",
+                    "Didascalie": "",
+                    "Start": 87813,
+                    "End": 87828
+                },
+                {
+                    "Reply": "Whut say, pip-squeak?",
+                    "Didascalie": "",
+                    "Start": 88205,
+                    "End": 88227
+                },
+                {
+                    "Reply": "Wuzzat?",
+                    "Didascalie": "",
+                    "Start": 88283,
+                    "End": 88291
+                },
+                {
+                    "Reply": "Bash in you face! Den it no be so pretty!",
+                    "Didascalie": "",
+                    "Start": 88358,
+                    "End": 88401
+                },
+                {
+                    "Reply": "Chop it up!",
+                    "Didascalie": "",
+                    "Start": 112996,
+                    "End": 113008
+                },
+                {
+                    "Reply": "Cut you in half!",
+                    "Didascalie": "",
+                    "Start": 113605,
+                    "End": 113622
+                },
+                {
+                    "Reply": "You gonna be mince-meat!",
+                    "Didascalie": "",
+                    "Start": 114376,
+                    "End": 114401
+                },
+                {
+                    "Reply": "Gonna spill your guts, boy.",
+                    "Didascalie": "",
+                    "Start": 115600,
+                    "End": 115628
+                }
+            ]
+        },
+        {
+            "Character": "BROWN TON",
+            "Replies": [
+                {
+                    "Reply": "Lambs to the slaughter....",
+                    "Didascalie": "",
+                    "Start": 86306,
+                    "End": 86333
+                }
+            ]
+        },
+        {
+            "Character": "PLETHORA OF TRASH",
+            "Replies": [
+                {
+                    "Reply": "marbles, string, old doll's eyes, coloured bird's eggs, ancient coins, etc. At last he finds a crumbled peice of sheepskin.",
+                    "Didascalie": "",
+                    "Start": 109353,
+                    "End": 109479
+                }
+            ]
+        },
+        {
+            "Character": "SECOND COOK",
+            "Replies": [
+                {
+                    "Reply": "Huh....! Wuzzat?",
+                    "Didascalie": "",
+                    "Start": 112547,
+                    "End": 112564
+                },
+                {
+                    "Reply": "Find meat!",
+                    "Didascalie": "",
+                    "Start": 112852,
+                    "End": 112863
+                },
+                {
+                    "Reply": "Smash....! Me smash!",
+                    "Didascalie": "",
+                    "Start": 113194,
+                    "End": 113215
+                },
+                {
+                    "Reply": "Sweet, sweet blood....",
+                    "Didascalie": "",
+                    "Start": 113826,
+                    "End": 113849
+                },
+                {
+                    "Reply": "Whut.....! Who now? Ouch!",
+                    "Didascalie": "",
+                    "Start": 114241,
+                    "End": 114267
+                },
+                {
+                    "Reply": "Kill....! Smash....!",
+                    "Didascalie": "",
+                    "Start": 114869,
+                    "End": 114890
+                }
+            ]
+        },
+        {
+            "Character": "MATCHING FIREPLACE OPPOSITE",
+            "Replies": [
+                {
+                    "Reply": "Across the Great Hall from the blazing hearth is an identical fireplace. This one is cold, but not empty. Covered with soot and as black as a Moor, Screwball climbs into VIEW between the massive andirons.",
+                    "Didascalie": "",
+                    "Start": 121762,
+                    "End": 121970
+                }
+            ]
+        },
+        {
+            "Character": "CHORUS OF GUARDS",
+            "Replies": [
+                {
+                    "Reply": "Mother of Shadows, renew us!",
+                    "Didascalie": "",
+                    "Start": 133703,
+                    "End": 133732
+                },
+                {
+                    "Reply": "Night Bride....restore our strength!",
+                    "Didascalie": "",
+                    "Start": 133791,
+                    "End": 133828
+                },
+                {
+                    "Reply": "Blood and fire, born of Night....",
+                    "Didascalie": "",
+                    "Start": 134918,
+                    "End": 134952
+                }
+            ]
+        },
+        {
+            "Character": "JAC",
+            "Replies": [
+                {
+                    "Reply": "I know the answer....! Lift her to me, gently....",
+                    "Didascalie": "",
+                    "Start": 146914,
+                    "End": 146964
+                }
+            ]
+        }
+    ]
 }

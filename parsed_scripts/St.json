@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "St. Elmo's Fire",
-        "   "
-    ],
+    "Title": "St. Elmo's Fire",
     "Author": [
-        "\u00a0\u00a0Joel Schumacher\u00a0\u00a0Carl Kurlander"
+        "Joel Schumacher",
+        "Carl Kurlander"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
-        {
-            "Character": "THIRD DRAFT",
-            "Replies": [
-                {
-                    "Reply": "September 18, 1984       RED TITLES ON BLACK. The sound of a young MAX and WOMAN on a WILD CAR RIDE. At the END OF the TITLES, the sound of a sudden CAR CRASH, a WHITE INCANDESCENT FLASH of light FILLS the SCREEN. THROUGH the BRILLIANT WHITE LIGHT we --",
-                    "Didascalie": "",
-                    "Start": 268,
-                    "End": 647
-                }
-            ]
-        },
         {
             "Character": "ALEC",
             "Replies": [
@@ -2644,6 +2632,17 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "You're a little late, Counselor.",
+                    "Didascalie": "",
+                    "Start": 4350,
+                    "End": 4383
+                }
+            ]
+        },
+        {
             "Character": "DATE",
             "Replies": [
                 {
@@ -5232,6 +5231,23 @@
                     "Didascalie": "",
                     "Start": 70384,
                     "End": 70408
+                }
+            ]
+        },
+        {
+            "Character": "WENDY 59",
+            "Replies": [
+                {
+                    "Reply": "You miss school, don't you?",
+                    "Didascalie": "",
+                    "Start": 71974,
+                    "End": 72002
+                },
+                {
+                    "Reply": "I was gonna save humanity.",
+                    "Didascalie": "",
+                    "Start": 73020,
+                    "End": 73047
                 }
             ]
         },

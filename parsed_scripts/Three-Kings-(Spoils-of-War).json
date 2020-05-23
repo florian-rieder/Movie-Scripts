@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Three Kings (Spoils of War)",
-        "   "
-    ],
+    "Title": "Three Kings (Spoils of War)",
     "Author": [
-        "\u00a0\u00a0John Ridley"
+        "John Ridley"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0War"
+        "Action",
+        "Adventure",
+        "War"
     ],
     "Characters": [
         {

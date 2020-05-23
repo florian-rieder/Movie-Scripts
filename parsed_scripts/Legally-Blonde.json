@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Legally Blonde",
-        "   "
-    ],
+    "Title": "Legally Blonde",
     "Author": [
-        "\u00a0\u00a0Karen McCullah Lutz\u00a0\u00a0Kirsten Smith"
+        "Karen McCullah Lutz",
+        "Kirsten Smith"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -510,12 +508,6 @@
                     "Didascalie": "",
                     "Start": 52706,
                     "End": 52760
-                },
-                {
-                    "Reply": "There's a pizza welcome lunch in twenty minutes. Does that count?",
-                    "Didascalie": "(deadpan)",
-                    "Start": 53277,
-                    "End": 53376
                 },
                 {
                     "Reply": "I guess it'll have t o . . .",
@@ -2806,6 +2798,86 @@
                     "Didascalie": "",
                     "Start": 101196,
                     "End": 101324
+                }
+            ]
+        },
+        {
+            "Character": "F U Z Z Y 2L",
+            "Replies": [
+                {
+                    "Reply": "Class schedule, map, book list.",
+                    "Didascalie": "",
+                    "Start": 52166,
+                    "End": 52198
+                },
+                {
+                    "Reply": "U h , no. Maybe you should try the Lido dec k. S h e frowns and starts to move on, but then looks through the p a c k e t with a frown and turns back.",
+                    "Didascalie": "",
+                    "Start": 52391,
+                    "End": 52653
+                },
+                {
+                    "Reply": "Y o u r what?",
+                    "Didascalie": "",
+                    "Start": 52850,
+                    "End": 52864
+                }
+            ]
+        },
+        {
+            "Character": "FUZZY 2L",
+            "Replies": [
+                {
+                    "Reply": "There's a pizza welcome lunch in twenty minutes. Does that count?",
+                    "Didascalie": "(deadpan)",
+                    "Start": 53277,
+                    "End": 53376
+                },
+                {
+                    "Reply": "What the hell.was that?",
+                    "Didascalie": "",
+                    "Start": 53645,
+                    "End": 53669
+                }
+            ]
+        },
+        {
+            "Character": "BALD 2L",
+            "Replies": [
+                {
+                    "Reply": "Malibu Barbie lives.",
+                    "Didascalie": "(watching her go)",
+                    "Start": 53745,
+                    "End": 53783
+                }
+            ]
+        },
+        {
+            "Character": "BURNED OUT 2L",
+            "Replies": [
+                {
+                    "Reply": "Okay. Welcome to law school. This is the part where we go around in a circle and everyone says a little bit about themselves. Let's start with you.",
+                    "Didascalie": "",
+                    "Start": 54133,
+                    "End": 54329
+                },
+                {
+                    "Reply": "Awesome.   How about you, Enid?",
+                    "Didascalie": "",
+                    "Start": 54689,
+                    "End": 54721
+                },
+                {
+                    "Reply": "Killer.",
+                    "Didascalie": "",
+                    "Start": 55068,
+                    "End": 55076
+                },
+                {
+                    "Reply": "Sweet.    What about you?",
+                    "Didascalie": "",
+                    "Start": 55747,
+                    "End": 55773
                 }
             ]
         },
@@ -5335,6 +5407,17 @@
                     "Didascalie": "",
                     "Start": 232624,
                     "End": 232666
+                }
+            ]
+        },
+        {
+            "Character": "NERVOUS 1L GIRL",
+            "Replies": [
+                {
+                    "Reply": "Do you have to be blonde to sign up?",
+                    "Didascalie": "",
+                    "Start": 245377,
+                    "End": 245414
                 }
             ]
         }

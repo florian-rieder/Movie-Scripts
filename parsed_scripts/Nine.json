@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Nine",
-        "   "
-    ],
+    "Title": "Nine",
     "Author": [
-        "\u00a0\u00a0Michael Tolkin\u00a0\u00a0Anthony Minghella"
+        "Michael Tolkin",
+        "Anthony Minghella"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Musical\u00a0\u00a0Romance"
+        "Drama",
+        "Musical",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3975,17 +3975,6 @@
             ]
         },
         {
-            "Character": "THAN AN EVENING YOU SPEND",
-            "Replies": [
-                {
-                    "Reply": "AUX FOLIES BERGERE.",
-                    "Didascalie": "",
-                    "Start": 59242,
-                    "End": 59262
-                }
-            ]
-        },
-        {
             "Character": "DES FOLIES BERGERE",
             "Replies": [
                 {
@@ -4219,17 +4208,6 @@
             ]
         },
         {
-            "Character": "TO MAKE THEM HE MAKES HIMSELF",
-            "Replies": [
-                {
-                    "Reply": "OBSESSED.",
-                    "Didascalie": "",
-                    "Start": 84101,
-                    "End": 84111
-                }
-            ]
-        },
-        {
             "Character": "WITH THEIR SKINNY LITTLE TIES",
             "Replies": [
                 {
@@ -4237,17 +4215,6 @@
                     "Didascalie": "",
                     "Start": 94506,
                     "End": 94541
-                }
-            ]
-        },
-        {
-            "Character": "WITH THEIR POINTY LEATHER SHOES",
-            "Replies": [
-                {
-                    "Reply": "WEARIN' SHADES IN THE MIDDLE OF THE NIGHT.",
-                    "Didascalie": "",
-                    "Start": 94638,
-                    "End": 94691
                 }
             ]
         },
@@ -4553,12 +4520,6 @@
                     "Didascalie": "",
                     "Start": 121907,
                     "End": 121927
-                },
-                {
-                    "Reply": "SPECIAL TO ME IN MY LIFE, SINCE THE FIRST DAY THAT I MET YOU.",
-                    "Didascalie": "",
-                    "Start": 122057,
-                    "End": 122129
                 },
                 {
                     "Reply": "Maybe you should have knocked, maybe you should have knocked me right off the pedestal. I can't do this anymore.",

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Men Who Stare at Goats, The",
-        "   "
-    ],
+    "Title": "Men Who Stare at Goats, The",
     "Author": [
-        "\u00a0\u00a0Peter Straughan\u00a0\u00a0Jon Ronson"
+        "Peter Straughan",
+        "Jon Ronson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0War"
+        "Comedy",
+        "War"
     ],
     "Characters": [
         {
@@ -4643,17 +4642,6 @@
                     "Didascalie": "",
                     "Start": 178303,
                     "End": 178381
-                }
-            ]
-        },
-        {
-            "Character": "VIDEO FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "Grainy, flickering black and white footage of the six goats in the room. Suddenly one of them goes down.",
-                    "Didascalie": "",
-                    "Start": 217546,
-                    "End": 217667
                 }
             ]
         },

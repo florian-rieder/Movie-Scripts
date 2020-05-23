@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Bonfire of the Vanities",
-        "   "
-    ],
+    "Title": "Bonfire of the Vanities",
     "Author": [
-        "\u00a0\u00a0Michael Cristofer"
+        "Michael Cristofer"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -927,17 +925,6 @@
                     "Didascalie": "",
                     "Start": 4838,
                     "End": 5043
-                }
-            ]
-        },
-        {
-            "Character": "A FEW PHOTOGRAPHERS",
-            "Replies": [
-                {
-                    "Reply": "pop out of nowhere, trying to get a picture. The guards push them away and lead Fallow into a lighted corridor.",
-                    "Didascalie": "",
-                    "Start": 5078,
-                    "End": 5197
                 }
             ]
         },
@@ -5989,17 +5976,6 @@
                     "Didascalie": "(V.O.) (on T.V.)",
                     "Start": 126912,
                     "End": 127125
-                }
-            ]
-        },
-        {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "is moving fast as he talks with Martin and Goldberg.",
-                    "Didascalie": "",
-                    "Start": 142194,
-                    "End": 142247
                 }
             ]
         },

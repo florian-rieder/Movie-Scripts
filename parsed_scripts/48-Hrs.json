@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "48 Hrs.",
-        "   "
-    ],
+    "Title": "48 Hrs.",
     "Author": [
-        "\u00a0\u00a0Steven E. De Souza\u00a0\u00a0Walter Hill\u00a0\u00a0Roger Spottiswoode\u00a0\u00a0Larry Gross\u00a0\u00a0Jeb Stuart"
+        "Steven E. De Souza",
+        "Walter Hill",
+        "Roger Spottiswoode",
+        "Larry Gross",
+        "Jeb Stuart"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Thriller"
+        "Action",
+        "Comedy",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3419,17 +3422,6 @@
             ]
         },
         {
-            "Character": "A GREEN COUGAR",
-            "Replies": [
-                {
-                    "Reply": "Pulls up across the street.",
-                    "Didascalie": "",
-                    "Start": 25609,
-                    "End": 25637
-                }
-            ]
-        },
-        {
             "Character": "LOBBY",
             "Replies": [
                 {
@@ -5920,17 +5912,6 @@
             ]
         },
         {
-            "Character": "A BIG COWBOY",
-            "Replies": [
-                {
-                    "Reply": "when Hammond isn't looking, he dashes toward the exit, Cates puts out a leg. Sends the Cowboy crashing into a crowdedtable.",
-                    "Didascalie": "",
-                    "Start": 108103,
-                    "End": 108241
-                }
-            ]
-        },
-        {
             "Character": "PUNK",
             "Replies": [
                 {
@@ -6507,17 +6488,6 @@
                     "Didascalie": "",
                     "Start": 182376,
                     "End": 182487
-                }
-            ]
-        },
-        {
-            "Character": "A BUS STOP",
-            "Replies": [
-                {
-                    "Reply": "Luther waits, impatient.",
-                    "Didascalie": "",
-                    "Start": 182528,
-                    "End": 182553
                 }
             ]
         },

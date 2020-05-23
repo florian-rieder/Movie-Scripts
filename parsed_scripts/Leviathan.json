@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Leviathan",
-        "   "
-    ],
+    "Title": "Leviathan",
     "Author": [
-        "\u00a0\u00a0David Peoples\u00a0\u00a0Jeb Stuart"
+        "David Peoples",
+        "Jeb Stuart"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

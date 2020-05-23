@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "127 Hours",
-        "   "
-    ],
+    "Title": "127 Hours",
     "Author": [
-        "\u00a0\u00a0Simon Beaufoy\u00a0\u00a0Danny Boyle"
+        "Simon Beaufoy",
+        "Danny Boyle"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Adventure",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

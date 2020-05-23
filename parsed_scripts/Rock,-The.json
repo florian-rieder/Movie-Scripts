@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Rock, The",
-        "   "
-    ],
+    "Title": "Rock, The",
     "Author": [
-        "\u00a0\u00a0Jonathan Hensleigh"
+        "Jonathan Hensleigh"
     ],
     "Genre": [
-        "\u00a0\u00a0Action"
+        "Action"
     ],
     "Characters": [
         {
@@ -4260,6 +4257,39 @@
                     "Didascalie": "(V.O.)",
                     "Start": 159550,
                     "End": 159620
+                }
+            ]
+        },
+        {
+            "Character": "F-16 FLIGHT CONTROLLER",
+            "Replies": [
+                {
+                    "Reply": "ABORT, RED THUNDER, ABORT!",
+                    "Didascalie": "(v.o. cockpit radio)",
+                    "Start": 155140,
+                    "End": 155171
+                }
+            ]
+        },
+        {
+            "Character": "REAR F-16 PILOT",
+            "Replies": [
+                {
+                    "Reply": "Sir, something's wrong.  I can't disengage... !",
+                    "Didascalie": "",
+                    "Start": 155411,
+                    "End": 155459
+                }
+            ]
+        },
+        {
+            "Character": "LEAD F-16 PILOT",
+            "Replies": [
+                {
+                    "Reply": "Then peel off...",
+                    "Didascalie": "",
+                    "Start": 155483,
+                    "End": 155500
                 }
             ]
         }

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Mute Witness",
-        "   "
-    ],
+    "Title": "Mute Witness",
     "Author": [
-        "\u00a0\u00a0Anthony Waller"
+        "Anthony Waller"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -761,17 +759,6 @@
                     "Didascalie": "",
                     "Start": 142909,
                     "End": 142950
-                }
-            ]
-        },
-        {
-            "Character": "END OF CREDITS",
-            "Replies": [
-                {
-                    "Reply": "The camera stops on a close shot on Andy Clarke's face. Andy is the film director.",
-                    "Didascalie": "",
-                    "Start": 10336,
-                    "End": 10419
                 }
             ]
         },

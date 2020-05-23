@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Gothika",
-        "   "
-    ],
+    "Title": "Gothika",
     "Author": [
-        "\u00a0\u00a0Sebastian Gutierrez"
+        "Sebastian Gutierrez"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Mystery"
+        "Horror",
+        "Thriller",
+        "Mystery"
     ],
     "Characters": [
         {

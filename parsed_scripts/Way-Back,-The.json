@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Way Back, The",
-        "   "
-    ],
+    "Title": "Way Back, The",
     "Author": [
-        "\u00a0\u00a0Peter Weir\u00a0\u00a0Slavomir Rawicz"
+        "Peter Weir",
+        "Slavomir Rawicz"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2550,12 +2549,6 @@
                     "End": 34529
                 },
                 {
-                    "Reply": "A51 CONTINUED: A51 The other look to ZORAN, and fighting the desire to sleep, he begins. VALKA loves a good story, and despite their desperate situation he listens with the attention and concentration of a small child.",
-                    "Didascalie": "",
-                    "Start": 71478,
-                    "End": 71737
-                },
-                {
                     "Reply": "How far have we come?",
                     "Didascalie": "",
                     "Start": 75270,
@@ -2780,12 +2773,6 @@
                     "Didascalie": "",
                     "Start": 75723,
                     "End": 75754
-                },
-                {
-                    "Reply": "'Only wolves', great.  A53 THE SUN  A53 From behind clouds, the sun appears, shafting light toward the earth.",
-                    "Didascalie": "",
-                    "Start": 81008,
-                    "End": 81178
                 },
                 {
                     "Reply": "Fish? I don't eat fish.",

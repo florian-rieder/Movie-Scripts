@@ -8,24 +8,27 @@ class ScriptParser():
 	"""Parser for movie scripts. """
 
 	minimum_replies = 1 # number of replies under which a character will not be kept in the results
+	minimum_characters = 5
 
 	character_blacklist = [
 		' - ', ' -- ', '...', 
 		'LATER', 'LATE', 'FADE OUT', 'FADE IN', 'CUT TO', 'EXT.', 'EXTERIOR',
 		'INT.', 'INTERIOR', 'INSIDE', 'OUTSIDE', 'ANGLE ON', 'MUSIC ON', 'MUSIC UP', 
 		'CLOSE ON', 'THE END', 'CUT FROM', 'CAMERA', 'LENS', 'MINIATURE', 'ANGLE', 'POV', 
-		'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP', 'END '
-		'DAY', 'NIGHT', 'MORNING', 'WEEK', 'THE ', 'SCENE', 'ACTION', 'CONTINUED', 'CHANGED', 'HORIZON', 
-		'ENDS', 'MONTAGE', 'FROM', 'WIDE-SHOT', 'SHOT', 'EXPLOSION', 'THEY', 'DISSOLVE',
-		'CONTINUED', 'ROOM', 'UP AHEAD', 'SHOOTING SCRIPT', 'NEARBY', 'CUTS', 'SEES', 'INSERT'
-		' ON '
+		'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP', ' END ', ' END.'
+		'DAY', 'NIGHT', 'MORNING', 'EVENING', 'WEEK', 'THE ', 'SCENE', 'ACTION', 'CONTINUED', 'CHANGED', 'HORIZON', 
+		'ENDS', 'MONTAGE', 'FROM', 'WIDE-SHOT', 'SHOT', 'EXPLOSION', 'THEY', 'DISSOLVE', 'FOOTAGE',
+		'CONTINUED', 'ROOM', 'UP AHEAD', 'SHOOTING SCRIPT', 'NEARBY', 'CUTS', 'SEES', 'INSERT', 'REVEAL'
 	]
 
 	reply_blacklist = [
-		'LATER', 'FADE OUT', 'FADE IN', 'CUT TO', 'EXT.', 'EXTERIOR', 
-		'INT.', 'INTERIOR', 'INSIDE', 'OUTSIDE', 'ANGLE ON', 'MUSIC ON', 'MUSIC UP', 
-		'CLOSE ON', 'THE END', 'CUT FROM', 'CAMERA', 'LENS', 'MINIATURE', 'ANGLE', 'POV', 'DISSOLVE', 
-		'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP'
+		'LATER', 'FADE OUT', 'FADE IN', 'CUT TO', 'EXT.', 'EXTERIOR',
+		'INT.', 'INTERIOR', 'ANGLE ON', 'MUSIC ON', 'MUSIC UP', 
+		'CLOSE ON', 'THE END', 'CUT FROM', 'CAMERA', 'LENS', 'MINIATURE', 'ANGLE', 'POV', 
+		'SUNSET', 'AERIAL VIEW', 'FANTASY', 'CLOSE UP', 'SLOW MOTION', 'CLOSE-UP', 'END ',
+		' DAY', ' NIGHT', ' MORNING', 'WEEK', 'SCENE', 'CONTINUED', 'CHANGED', 'HORIZON', 
+		'ENDS', 'MONTAGE', 'WIDE-SHOT', 'DISSOLVE', 'FILM INSET',
+		'CONTINUED', 'ROOM', 'UP AHEAD', 'SHOOTING SCRIPT', 'NEARBY', 'CUTS', 'INSERT'
 	]
 
 	def parse(self, text):
@@ -36,9 +39,8 @@ class ScriptParser():
 		# Try to retrieve the character list
 		characters = self._get_characters(text)
 
-		# if there are less than 5 characters, special case
-		if len(characters) < 5:
-			
+		# if there are less than the minimum number of characters, special case
+		if len(characters) < self.minimum_characters:
 			# identify special case stereotype
 			characters = self._special_characters(text)
 
@@ -47,13 +49,17 @@ class ScriptParser():
 		author = self.get_author(text)
 		genre = self.get_genre(text)
 
-		# if none works, warn user
-		if len(characters) == 0:
-			print("The script for %s was not parsed, because..." % title)		
-
-		# return instance of Movie
-		movie = Movie(title, author, genre, characters)
-		return movie
+		# if it still doesn't work, warn user
+		if len(characters) < self.minimum_characters:
+			fix_string = "Please check the original file's formatting, or add a special case in ScriptParser's _special_characters() method."
+			print("The script %s couldn't be parsed. %s" % (title, fix_string))
+			error_movie = Movie(title, author, genre, "This script couldn't be parsed. %s" % fix_string)
+			return error_movie
+		else:
+			# return instance of Movie
+			movie = Movie(title, author, genre, characters)
+			return movie
+		
 
 	def _get_characters(self, text):
 		"""
@@ -61,7 +67,7 @@ class ScriptParser():
 		Output: list of characters extracted from the script
 		"""
 		# group 1: character name, group 2: didascalie
-		header_regex = re.compile(r"(?m)^[ \t]*([A-Z][A-Z -]+?)(\([\w'\.]+\))?$")
+		header_regex = re.compile(r"(?m)^[ \t]*([A-Z][A-Z0-9 -]+?)(\([\w'\.]+\))?$")
 		# group 1: didascalie, group 2: reply text, group 3: final punctuation mark
 		reply_regex = re.compile(r"(?m)^\s*(\([\w][\w '.,\n]+?\))?([\w\s,\.:;!?'\"-]+?(([!?.\"-]|(\.{3} ))\n))")
 
@@ -69,7 +75,6 @@ class ScriptParser():
 		
 		matches = list(header_regex.finditer(text))
 		for idx, m in enumerate(matches):
-			
 			char_name = m.group(1).strip()
 			char_didascalie = m.group(2) if m.group(2) else ""
 			
@@ -126,11 +131,11 @@ class ScriptParser():
 		no_colon = re.compile(r"(?m)^(\s*)([A-Za-z0-9]+)(\s*\n+)")
 
 		fail = 10
-       
+
 		matches = re.findall(all_same_line, text)
 		if len(matches) == 1:
 			return self._get_characters(re.sub(r"(\s{3,})", lambda clean: "\n" + clean.group(1)[:-1], text))
-    
+
 		matches = re.findall(colon, text)
 		if len(matches) > fail:
 			return self._get_characters(re.sub(colon, lambda clean: clean.group(1) + clean.group(2).upper() + clean.group(3) + "\n" + clean.group(4), text))
@@ -140,7 +145,7 @@ class ScriptParser():
 			return self._get_characters(re.sub(no_colon, lambda clean: clean.group(1) + clean.group(2).upper() + "\n" + clean.group(3)[:-1], text)) 
 
 		return [] 
-    
+
 	def get_title(self, text):
 		"""Finds the title of the movie"""
 		title = re.findall(r"(?<=\t).+(?=\s+Writers :)", text)
@@ -150,14 +155,14 @@ class ScriptParser():
 	def get_author(self, text):
 		"""Finds a list of the movie's authors"""
 		auteurs = re.findall(r"(?<=Writers : ).+(?=\n)", text)
-		list_auteurs = auteurs.split("\u00a0")
-		return list_auteurs
+		list_auteurs = auteurs[0].split("\u00a0")
+		return [s for s in list_auteurs if s]
 
 	def get_genre(self, text):
 		"""Finds the list of the movie's genres"""
 		genre = re.findall(r"(?<=Genres : ).+(?=\n)", text)
-		list_genre = genre.split("\u00a0")
-		return list_genre
+		list_genre = genre[0].split("\u00a0")
+		return [s for s in list_genre if s]
 
 	def _clean_padding(self, segment):
 		"""Removes all extra padding and line breaks from a string. Returns a correctly formatted string"""
@@ -179,7 +184,7 @@ class ScriptParser():
 				# check if this reply satisfies all the conditions to be kept
 				if (
 					any([w in reply for w in self.reply_blacklist]) or 	# remove reply if any bad word is contained in it (case sensitive)
-					re.search(r"\d+\.", reply) 							# remove replies that contain a page number (numbers followed by a dot)
+					re.search(r"\d+\.", reply)							# remove replies that contain a page number (numbers followed by a dot)
 				):
 					keep_reply = False
 				
@@ -194,12 +199,16 @@ class ScriptParser():
 				len(char.Replies) < self.minimum_replies or					# remove characters that have less than the minimum number of replies
 				any([w in charname for w in self.character_blacklist]) or 	# remove characters which have bad words in them indicating they're not characters
 				charname.count(" ") > 5 or 									# remove characters whose name contains too many spaces
+				re.search(r"[A-Z]\d+", charname) or							# removes lines identified as a character, when they are "B3" or "A337"
 				(charname.startswith('(') and charname.endswith(')')) or
 				charname.endswith(".") or
 				charname.endswith(" -") or 
 				charname.startswith("ON ") or 
 				charname.startswith("BACK ") or
-				charname.startswith("CUT ")
+				charname.startswith("CUT ") or
+				charname.startswith("TO ") or
+				charname.startswith("A ") or
+				charname.startswith("END ")
 			):
 				keep_char = False
 

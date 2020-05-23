@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Fantastic Four",
-        "   "
-    ],
+    "Title": "Fantastic Four",
     "Author": [
-        "\u00a0\u00a0Mark Frost\u00a0\u00a0Michael France"
+        "Mark Frost",
+        "Michael France"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {

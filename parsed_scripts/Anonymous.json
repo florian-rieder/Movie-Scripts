@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Anonymous",
-        "   "
-    ],
+    "Title": "Anonymous",
     "Author": [
-        "\u00a0\u00a0John Orloff"
+        "John Orloff"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -29,17 +27,6 @@
                     "Didascalie": "",
                     "Start": 522,
                     "End": 672
-                }
-            ]
-        },
-        {
-            "Character": "A STAGE MANAGER",
-            "Replies": [
-                {
-                    "Reply": "takes a nervous peek through the curtains to check the audience-- it's a full house. He holds a prop umbrella in one hand, anxiously checks his watch in the other.",
-                    "Didascalie": "",
-                    "Start": 1324,
-                    "End": 1496
                 }
             ]
         },
@@ -905,28 +892,6 @@
                     "Didascalie": "",
                     "Start": 8646,
                     "End": 8787
-                }
-            ]
-        },
-        {
-            "Character": "A TRAP DOOR",
-            "Replies": [
-                {
-                    "Reply": "opens center-stage, and Jonson JUMPS out, the rapier in his right hand, ready for a fight. But-- three soldiers jump onto the stage, pikes ready.",
-                    "Didascalie": "",
-                    "Start": 8801,
-                    "End": 8947
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "The fire reaches the fireworks below the theater's stage, and--",
-                    "Didascalie": "",
-                    "Start": 9607,
-                    "End": 9676
                 }
             ]
         },
@@ -2735,23 +2700,6 @@
             ]
         },
         {
-            "Character": "A GROUNDLING",
-            "Replies": [
-                {
-                    "Reply": "Oi!   So that's what I been smelling!",
-                    "Didascalie": "",
-                    "Start": 21692,
-                    "End": 21730
-                },
-                {
-                    "Reply": "Why don't you disperse William Cecil's arse!",
-                    "Didascalie": "",
-                    "Start": 24438,
-                    "End": 24494
-                }
-            ]
-        },
-        {
             "Character": "NOBLEMEN",
             "Replies": [
                 {
@@ -2759,17 +2707,6 @@
                     "Didascalie": "",
                     "Start": 21786,
                     "End": 21811
-                }
-            ]
-        },
-        {
-            "Character": "A NOBLEMAN",
-            "Replies": [
-                {
-                    "Reply": "with a feathered hat gets up in fury, and exits the theater, his lady with him. The Audience LAUGHS at him as he goes.",
-                    "Didascalie": "",
-                    "Start": 22265,
-                    "End": 22384
                 }
             ]
         },
@@ -3090,17 +3027,6 @@
                     "Didascalie": "",
                     "Start": 31135,
                     "End": 31158
-                }
-            ]
-        },
-        {
-            "Character": "A HUNCH-BACKED MAN",
-            "Replies": [
-                {
-                    "Reply": "He pauses near Southampton.",
-                    "Didascalie": "",
-                    "Start": 35329,
-                    "End": 35357
                 }
             ]
         },
@@ -3852,17 +3778,6 @@
                     "Didascalie": "",
                     "Start": 39413,
                     "End": 39446
-                }
-            ]
-        },
-        {
-            "Character": "A STERN LOOKING MAN",
-            "Replies": [
-                {
-                    "Reply": "loathing the play.",
-                    "Didascalie": "",
-                    "Start": 44406,
-                    "End": 44425
                 }
             ]
         },
@@ -5422,17 +5337,6 @@
             ]
         },
         {
-            "Character": "A PLAYBILL",
-            "Replies": [
-                {
-                    "Reply": "in front of the theater announcing \"William Shakespeare's Hamlet\". Shakespeare's name is now above the title. We HEAR the audience howl with LAUGHTER as--",
-                    "Didascalie": "",
-                    "Start": 117137,
-                    "End": 117302
-                }
-            ]
-        },
-        {
             "Character": "GROUNDLING",
             "Replies": [
                 {
@@ -5552,17 +5456,6 @@
             ]
         },
         {
-            "Character": "A BODY",
-            "Replies": [
-                {
-                    "Reply": "on its back in the alley. Someone turns it over.    It's MARLOWE, a dried stab-wound in his eye.",
-                    "Didascalie": "",
-                    "Start": 144616,
-                    "End": 144718
-                }
-            ]
-        },
-        {
             "Character": "BEAR BAITER",
             "Replies": [
                 {
@@ -5582,17 +5475,6 @@
                     "Didascalie": "",
                     "Start": 146416,
                     "End": 146504
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Fourpence on three dogs!",
-                    "Didascalie": "",
-                    "Start": 146544,
-                    "End": 146569
                 }
             ]
         },
@@ -5706,17 +5588,6 @@
                     "Didascalie": "",
                     "Start": 192788,
                     "End": 192819
-                }
-            ]
-        },
-        {
-            "Character": "A PIECE OF PAPER",
-            "Replies": [
-                {
-                    "Reply": "as a printer presses down the press onto it. The title page is printed in front of us. It's called \"Venus and Adonis\". A MONTAGE BEGINS.",
-                    "Didascalie": "",
-                    "Start": 179463,
-                    "End": 179612
                 }
             ]
         },
@@ -5960,17 +5831,6 @@
                     "Didascalie": "",
                     "Start": 211344,
                     "End": 211418
-                }
-            ]
-        },
-        {
-            "Character": "A GOLD CROWN",
-            "Replies": [
-                {
-                    "Reply": "All the lords and ladies of the land are standing in attendance.",
-                    "Didascalie": "",
-                    "Start": 228152,
-                    "End": 228223
                 }
             ]
         },

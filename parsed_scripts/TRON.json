@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "TRON",
-        "   "
-    ],
+    "Title": "TRON",
     "Author": [
-        "\u00a0\u00a0Steven Lisberger\u00a0\u00a0Bonnie MacBird\u00a0\u00a0Charlie Haas"
+        "Steven Lisberger",
+        "Bonnie MacBird",
+        "Charlie Haas"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -75,6 +77,28 @@
                     "Didascalie": "(holds out a hand)",
                     "Start": 8258,
                     "End": 8318
+                }
+            ]
+        },
+        {
+            "Character": "WARRIOR 1",
+            "Replies": [
+                {
+                    "Reply": "Sark, my man! You are hot!",
+                    "Didascalie": "",
+                    "Start": 8836,
+                    "End": 8863
+                }
+            ]
+        },
+        {
+            "Character": "WARRIOR 2",
+            "Replies": [
+                {
+                    "Reply": "That knuckleball gets 'em every time, boy...",
+                    "Didascalie": "",
+                    "Start": 8926,
+                    "End": 8991
                 }
             ]
         },
@@ -2533,23 +2557,6 @@
             ]
         },
         {
-            "Character": "A SECRETARIAL VOICE",
-            "Replies": [
-                {
-                    "Reply": "Mr. Dillinger?",
-                    "Didascalie": "",
-                    "Start": 25514,
-                    "End": 25529
-                },
-                {
-                    "Reply": "Hello, please hold a moment for the Master Control Program   As we fly over the grid, descending, the image comes into clearer focus, and we realize that this is not a circuit board, but rather an actual landscape, a suburban grid at twilight. We are approaching a skyscraper which is yet too far off to distinguish accurately. As we descend, a thumping, rhythmic noise gradually increases in volume until it is very loud, and we realize it is the sound of a HELICOPTER, and we are in the cockpit looking down at the landscape. We just become aware of this fact when the sound of a CONVERSATION begins, obviously between the pilot of the 'copter and a passenger.",
-                    "Didascalie": "",
-                    "Start": 25688,
-                    "End": 26461
-                }
-            ]
-        },
-        {
             "Character": "SCREEN",
             "Replies": [
                 {
@@ -3114,6 +3121,17 @@
             ]
         },
         {
+            "Character": "KID 2",
+            "Replies": [
+                {
+                    "Reply": "I don't know... on the blink or something... damn.",
+                    "Didascalie": "",
+                    "Start": 91543,
+                    "End": 91614
+                }
+            ]
+        },
+        {
             "Character": "WARRIOR",
             "Replies": [
                 {
@@ -3388,6 +3406,17 @@
                     "Didascalie": "",
                     "Start": 224369,
                     "End": 224403
+                }
+            ]
+        },
+        {
+            "Character": "PROGRAM 2",
+            "Replies": [
+                {
+                    "Reply": "...all mathematical functions transferred to...",
+                    "Didascalie": "",
+                    "Start": 132622,
+                    "End": 132690
                 }
             ]
         },

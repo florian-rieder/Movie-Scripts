@@ -1,32 +1,14 @@
 {
-    "Title": [
-        "Crazy, Stupid, Love",
-        "   "
-    ],
+    "Title": "Crazy, Stupid, Love",
     "Author": [
-        "\u00a0\u00a0Dan Fogelman"
+        "Dan Fogelman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
-        {
-            "Character": "A PAIR OF FEET",
-            "Replies": [
-                {
-                    "Reply": "WHITE SNEAKERS sitting opposite FANCY HIGH HEELS. These feet aren't nuzzling. There's distance here.",
-                    "Didascalie": "",
-                    "Start": 690,
-                    "End": 802
-                },
-                {
-                    "Reply": ". A handsome couple. He'd be JFK to her Jackie O...",
-                    "Didascalie": "(41)",
-                    "Start": 910,
-                    "End": 963
-                }
-            ]
-        },
         {
             "Character": "CAL",
             "Replies": [
@@ -4125,12 +4107,6 @@
                     "Didascalie": "",
                     "Start": 202062,
                     "End": 202089
-                },
-                {
-                    "Reply": "HOW THE HELL DO YOU HAVE A 24-YEAR- OLD DAUGHTER!?",
-                    "Didascalie": "",
-                    "Start": 203203,
-                    "End": 203266
                 },
                 {
                     "Reply": "WHY DIDN'T YOU EVER TELL ME THAT?",

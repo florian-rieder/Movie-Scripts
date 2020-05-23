@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Devil in a Blue Dress",
-        "   "
-    ],
+    "Title": "Devil in a Blue Dress",
     "Author": [
-        "\u00a0\u00a0Carl Franklin\u00a0\u00a0Walter Mosley"
+        "Carl Franklin",
+        "Walter Mosley"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4101,17 +4101,6 @@
             ]
         },
         {
-            "Character": "A NEWSPAPER",
-            "Replies": [
-                {
-                    "Reply": "A front page heading reads \"CARTER'S WITHDRAWAL LEAVES TERAN ON TOP.\" Below it  A PHOTOGRAPH of a smiling Matthew Teran, with lips too thick for a white man, getting out of a limousine.",
-                    "Didascalie": "",
-                    "Start": 53930,
-                    "End": 54131
-                }
-            ]
-        },
-        {
             "Character": "GIRL",
             "Replies": [
                 {
@@ -4680,17 +4669,6 @@
                     "Didascalie": "",
                     "Start": 75669,
                     "End": 75704
-                }
-            ]
-        },
-        {
-            "Character": "A BLACK CADILLAC LIMOUSINE",
-            "Replies": [
-                {
-                    "Reply": "cruises up behind and drives alongside.",
-                    "Didascalie": "",
-                    "Start": 76074,
-                    "End": 76114
                 }
             ]
         },

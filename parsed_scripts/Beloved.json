@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Beloved",
-        "   "
-    ],
+    "Title": "Beloved",
     "Author": [
-        "\u00a0\u00a0Richard LaGravenese\u00a0\u00a0Toni Morrisson"
+        "Richard LaGravenese",
+        "Toni Morrisson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -6759,6 +6757,46 @@
                     "Didascalie": "",
                     "Start": 156476,
                     "End": 156497
+                }
+            ]
+        },
+        {
+            "Character": "CO-WORKER 1",
+            "Replies": [
+                {
+                    "Reply": "Hey - you like this work so much maybe you best get in the chute with the others. You ain't got much more sense than they do.",
+                    "Didascalie": "",
+                    "Start": 157411,
+                    "End": 157582
+                },
+                {
+                    "Reply": "Oh the man's got plans! You saving up for a gold mine, boy.",
+                    "Didascalie": "",
+                    "Start": 158317,
+                    "End": 158392
+                }
+            ]
+        },
+        {
+            "Character": "CO-WORKER 2",
+            "Replies": [
+                {
+                    "Reply": "Good times? Ain't no such day.",
+                    "Didascalie": "",
+                    "Start": 157923,
+                    "End": 157954
+                },
+                {
+                    "Reply": "Nothing born free ever again.",
+                    "Didascalie": "",
+                    "Start": 158835,
+                    "End": 158865
+                },
+                {
+                    "Reply": "Children inherit what come before'em.",
+                    "Didascalie": "",
+                    "Start": 159058,
+                    "End": 159096
                 }
             ]
         },

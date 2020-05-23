@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "A Few Good Men",
-        "   "
-    ],
+    "Title": "A Few Good Men",
     "Author": [
-        "\u00a0\u00a0Aaron Sorkin"
+        "Aaron Sorkin"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -198,17 +198,6 @@
                     "Didascalie": "",
                     "Start": 320393,
                     "End": 320415
-                }
-            ]
-        },
-        {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "as she walks across the courtyard toward the brick building. The WOMAN is JOANNE GALLOWAY, a navy lawyer in her early 30's. She's bright, attractive, impulsive, and has a tendency to speak quickly. If she had any friends, they'd call her JO. As she walks, she mutters to herself ...",
-                    "Didascalie": "",
-                    "Start": 5230,
-                    "End": 5578
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Spider-Man",
-        "   "
-    ],
+    "Title": "Spider-Man",
     "Author": [
-        "\u00a0\u00a0David Koepp"
+        "David Koepp"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {

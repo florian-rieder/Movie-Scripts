@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Big Eyes",
-        "   "
-    ],
+    "Title": "Big Eyes",
     "Author": [
-        "\u00a0\u00a0Scott Alexander\u00a0\u00a0Larry Karaszewski"
+        "Scott Alexander",
+        "Larry Karaszewski"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4396,17 +4395,6 @@
                     "Didascalie": "",
                     "Start": 57962,
                     "End": 58033
-                }
-            ]
-        },
-        {
-            "Character": "A DINGY CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "The Keane paintings hang here. The only human in sight is Walter, forlorn at a card table. Brochures are stacked, and he wears a sailor coat with a dandyish ascot.",
-                    "Didascalie": "",
-                    "Start": 41211,
-                    "End": 41395
                 }
             ]
         },

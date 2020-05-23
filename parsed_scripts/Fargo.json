@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Fargo",
-        "   "
-    ],
+    "Title": "Fargo",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5775,17 +5775,6 @@
                     "Didascalie": "",
                     "Start": 58380,
                     "End": 58408
-                }
-            ]
-        },
-        {
-            "Character": "A GREEN FREEWAY SIGN",
-            "Replies": [
-                {
-                    "Reply": "Through a windshield we see a sign for the MINNEAPOLIS INTERNATIONAL AIRPORT.",
-                    "Didascalie": "",
-                    "Start": 58955,
-                    "End": 59034
                 }
             ]
         },

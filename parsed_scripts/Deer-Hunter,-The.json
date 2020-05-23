@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Deer Hunter, The",
-        "   "
-    ],
+    "Title": "Deer Hunter, The",
     "Author": [
-        "\u00a0\u00a0Deric Washburn"
+        "Deric Washburn"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Drama",
+        "War"
     ],
     "Characters": [
         {
@@ -2787,22 +2785,10 @@
                     "End": 68492
                 },
                 {
-                    "Reply": "KA-POWIE!!! BA-ROOM!!!... 'Cause I want that bastard! Him I want boom!",
-                    "Didascalie": "",
-                    "Start": 68791,
-                    "End": 68863
-                },
-                {
                     "Reply": "He's terrific! Great fucking guy!",
                     "Didascalie": "",
                     "Start": 69142,
                     "End": 69176
-                },
-                {
-                    "Reply": "KA-POW!!! BA-ROOMIE!!!",
-                    "Didascalie": "",
-                    "Start": 69300,
-                    "End": 69323
                 },
                 {
                     "Reply": "Both of us may have to pull on this, so get your shit in fuckin' shape!!!",
@@ -2815,12 +2801,6 @@
                     "Didascalie": "(CONT'D) (to the GUARDS)",
                     "Start": 69531,
                     "End": 69575
-                },
-                {
-                    "Reply": "Watch! Now watch! He's going to get it. And then KA-POW! BA-ROOMIE!!!",
-                    "Didascalie": "",
-                    "Start": 69773,
-                    "End": 69844
                 },
                 {
                     "Reply": "You guys think I'm in trouble, right?",
@@ -3579,6 +3559,64 @@
             ]
         },
         {
+            "Character": "VET 1",
+            "Replies": [
+                {
+                    "Reply": "Up I would say... What would you say?",
+                    "Didascalie": "",
+                    "Start": 8125,
+                    "End": 8164
+                },
+                {
+                    "Reply": "Up ribbon!",
+                    "Didascalie": "(signals)",
+                    "Start": 8202,
+                    "End": 8215
+                },
+                {
+                    "Reply": "Down.",
+                    "Didascalie": "",
+                    "Start": 8339,
+                    "End": 8345
+                },
+                {
+                    "Reply": "Up a little there... What would you say?",
+                    "Didascalie": "",
+                    "Start": 163052,
+                    "End": 163094
+                }
+            ]
+        },
+        {
+            "Character": "VET 2",
+            "Replies": [
+                {
+                    "Reply": "Up.",
+                    "Didascalie": "",
+                    "Start": 8176,
+                    "End": 8180
+                },
+                {
+                    "Reply": "Down I would say... What would you say?",
+                    "Didascalie": "",
+                    "Start": 8286,
+                    "End": 8327
+                },
+                {
+                    "Reply": "Down ribbon!",
+                    "Didascalie": "(signals)",
+                    "Start": 8367,
+                    "End": 8382
+                },
+                {
+                    "Reply": "Up.",
+                    "Didascalie": "",
+                    "Start": 163106,
+                    "End": 163110
+                }
+            ]
+        },
+        {
             "Character": "GUYS IN BACK SEAT",
             "Replies": [
                 {
@@ -4278,6 +4316,68 @@
                     "Didascalie": "",
                     "Start": 127047,
                     "End": 127062
+                }
+            ]
+        },
+        {
+            "Character": "BRIDESMAID 1",
+            "Replies": [
+                {
+                    "Reply": "Albert, what are you doing!",
+                    "Didascalie": "",
+                    "Start": 20052,
+                    "End": 20080
+                },
+                {
+                    "Reply": "Look at you! You're all a mess!",
+                    "Didascalie": "",
+                    "Start": 20227,
+                    "End": 20259
+                },
+                {
+                    "Reply": "Who's got a pin?",
+                    "Didascalie": "",
+                    "Start": 20321,
+                    "End": 20338
+                }
+            ]
+        },
+        {
+            "Character": "BRIDESMAID 2",
+            "Replies": [
+                {
+                    "Reply": "Hurry up, you guys!",
+                    "Didascalie": "",
+                    "Start": 20098,
+                    "End": 20118
+                }
+            ]
+        },
+        {
+            "Character": "BRIDESMAID 3",
+            "Replies": [
+                {
+                    "Reply": "Who's got their carnations?",
+                    "Didascalie": "",
+                    "Start": 20136,
+                    "End": 20164
+                },
+                {
+                    "Reply": "Put on their carnations!",
+                    "Didascalie": "",
+                    "Start": 20277,
+                    "End": 20302
+                }
+            ]
+        },
+        {
+            "Character": "BRIDESMAID 4",
+            "Replies": [
+                {
+                    "Reply": "Here. They're right here.",
+                    "Didascalie": "",
+                    "Start": 20182,
+                    "End": 20208
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Mighty Morphin Power Rangers: The Movie",
-        "   "
-    ],
+    "Title": "Mighty Morphin Power Rangers: The Movie",
     "Author": [
-        "\u00a0\u00a0John Kamps\u00a0\u00a0Arne Olsen"
+        "John Kamps",
+        "Arne Olsen"
     ],
     "Genre": [
-        "\u00a0\u00a0Family\u00a0\u00a0Action"
+        "Family",
+        "Action"
     ],
     "Characters": [
         {
@@ -2287,6 +2286,245 @@
             ]
         },
         {
+            "Character": "ALPHA 5",
+            "Replies": [
+                {
+                    "Reply": "Rangers, we need you at the Command  Center,  L.R.N. !",
+                    "Didascalie": "",
+                    "Start": 14066,
+                    "End": 14136
+                },
+                {
+                    "Reply": "Ay,  yi,  yi,  yi,  yi !  Our thermionic-sensors have been hit by a CATACLYSMIC surge of evil!",
+                    "Didascalie": "",
+                    "Start": 15183,
+                    "End": 15308
+                },
+                {
+                    "Reply": "In a place that came to be known as Angel Grove.",
+                    "Didascalie": "",
+                    "Start": 15969,
+                    "End": 16033
+                },
+                {
+                    "Reply": "To assist you I have retro-fitted your helmets with new Opti-Scan devices.",
+                    "Didascalie": "",
+                    "Start": 16311,
+                    "End": 16416
+                },
+                {
+                    "Reply": "Hey, NOBODY enters the Command Center without a power coin!",
+                    "Didascalie": "",
+                    "Start": 27273,
+                    "End": 27348
+                },
+                {
+                    "Reply": "Well...  ALMOST nobody.",
+                    "Didascalie": "",
+                    "Start": 27560,
+                    "End": 27584
+                },
+                {
+                    "Reply": "HI ,  YAH !  Ivan holds his arm out, ZAPS Alpha with an electrical charge Alpha starts spinning.",
+                    "Didascalie": "",
+                    "Start": 28057,
+                    "End": 28167
+                },
+                {
+                    "Reply": "You put your left probe in, you put your left probe out, you put your left probe in and you shake it all about.  You do the hokey-",
+                    "Didascalie": "",
+                    "Start": 31094,
+                    "End": 31270
+                },
+                {
+                    "Reply": "I'll GET you my pretty, and your little DOG toa!!",
+                    "Didascalie": "",
+                    "Start": 39340,
+                    "End": 39405
+                },
+                {
+                    "Reply": "I do not LIKE Green Eggs and Ham!",
+                    "Didascalie": "",
+                    "Start": 41585,
+                    "End": 41619
+                },
+                {
+                    "Reply": "Ah-Ah-Ahhhh-CHOO!!",
+                    "Didascalie": "",
+                    "Start": 41828,
+                    "End": 41847
+                },
+                {
+                    "Reply": "Thanks, Billy.",
+                    "Didascalie": "",
+                    "Start": 41958,
+                    "End": 41973
+                },
+                {
+                    "Reply": "... Perhaps there is a way... I have heard tales of another power.",
+                    "Didascalie": "",
+                    "Start": 42434,
+                    "End": 42531
+                },
+                {
+                    "Reply": "... They say that somewhere beyond the Hyperion Constellation there exists a mythological power that is beyond all comprehension.",
+                    "Didascalie": "",
+                    "Start": 42641,
+                    "End": 42816
+                },
+                {
+                    "Reply": "As the legend goes, the power is impossible to obtain.",
+                    "Didascalie": "",
+                    "Start": 42946,
+                    "End": 43016
+                },
+                {
+                    "Reply": "It's far too dangerous.  Zordon would never allow it.",
+                    "Didascalie": "",
+                    "Start": 43203,
+                    "End": 43272
+                },
+                {
+                    "Reply": "Ay, yi, yi, yi.",
+                    "Didascalie": "",
+                    "Start": 43569,
+                    "End": 43585
+                },
+                {
+                    "Reply": "The legend speaks of a Master Warrior who lives on the planet Phaedos... This is the only person who knows the secrets of the power.",
+                    "Didascalie": "(beat)",
+                    "Start": 43621,
+                    "End": 43830
+                },
+                {
+                    "Reply": "Zordon's going to have my orbicular spheroids when he hears out about this!",
+                    "Didascalie": "",
+                    "Start": 43984,
+                    "End": 44090
+                },
+                {
+                    "Reply": "This is an emergency reserve of morphonic emissions.  It should be enough to get -you there.",
+                    "Didascalie": "",
+                    "Start": 44262,
+                    "End": 44385
+                },
+                {
+                    "Reply": "There is one problem.  I only have enough reserve to send you Phaedos...  I can't bring you back.",
+                    "Didascalie": "",
+                    "Start": 44490,
+                    "End": 44633
+                },
+                {
+                    "Reply": "... You'll have to pray that the legends are true.",
+                    "Didascalie": "",
+                    "Start": 44792,
+                    "End": 44858
+                },
+                {
+                    "Reply": "You're sure you want to do this?!",
+                    "Didascalie": "",
+                    "Start": 44940,
+                    "End": 44974
+                },
+                {
+                    "Reply": "Ay, yi, yi, yi.  They're DOOMED!!",
+                    "Didascalie": "",
+                    "Start": 45483,
+                    "End": 45517
+                },
+                {
+                    "Reply": "Ay, yi, yi, yi!  The filamentary transistors have malfunctioned!",
+                    "Didascalie": "",
+                    "Start": 52322,
+                    "End": 52402
+                },
+                {
+                    "Reply": "I told them it was too dangerous, but they wouldn't listen.",
+                    "Didascalie": "",
+                    "Start": 79842,
+                    "End": 79917
+                },
+                {
+                    "Reply": "Perhaps if I could locate a vertical-deflector then I could assemble a holographic-comlink.",
+                    "Didascalie": "",
+                    "Start": 80133,
+                    "End": 80255
+                },
+                {
+                    "Reply": "Let's give it a whirl.",
+                    "Didascalie": "",
+                    "Start": 99118,
+                    "End": 99141
+                },
+                {
+                    "Reply": "Ai,  yi,  yi,  yi,  yi  As Ivan speaks we see Mordant behind him waving into camera.",
+                    "Didascalie": "",
+                    "Start": 99706,
+                    "End": 99792
+                },
+                {
+                    "Reply": "That should do it.  we won't be able to hear them, but they SHOULD be able to hear us.",
+                    "Didascalie": "",
+                    "Start": 111828,
+                    "End": 111945
+                },
+                {
+                    "Reply": "Here goes.",
+                    "Didascalie": "(beat)",
+                    "Start": 111981,
+                    "End": 112008
+                },
+                {
+                    "Reply": "Ay, yi, yi, yi!",
+                    "Didascalie": "",
+                    "Start": 112704,
+                    "End": 112720
+                },
+                {
+                    "Reply": "Rangers...  I'm afraid you're too late.",
+                    "Didascalie": "",
+                    "Start": 122537,
+                    "End": 122592
+                },
+                {
+                    "Reply": "Zordon...  he's gone.",
+                    "Didascalie": "",
+                    "Start": 122705,
+                    "End": 122727
+                },
+                {
+                    "Reply": "HE'S ALIVE!  HE'S ALIVE!",
+                    "Didascalie": "",
+                    "Start": 124054,
+                    "End": 124079
+                },
+                {
+                    "Reply": "GO, Rangers!  GO, Rangers!  GO, Rangers!  GO!",
+                    "Didascalie": "",
+                    "Start": 130039,
+                    "End": 130101
+                },
+                {
+                    "Reply": "Ay, yi, yi!  The Rangers are going to be CRUSHED!",
+                    "Didascalie": "",
+                    "Start": 144007,
+                    "End": 144072
+                },
+                {
+                    "Reply": "HOORAY, POWER RANGERS!!",
+                    "Didascalie": "",
+                    "Start": 146827,
+                    "End": 146851
+                },
+                {
+                    "Reply": "Everybody say cheese.",
+                    "Didascalie": "",
+                    "Start": 147876,
+                    "End": 147898
+                }
+            ]
+        },
+        {
             "Character": "ZORDON",
             "Replies": [
                 {
@@ -2539,12 +2777,6 @@
                     "Didascalie": "",
                     "Start": 148622,
                     "End": 148629
-                },
-                {
-                    "Reply": "Do you know what it's like to be stuck in a BLIZZARD FOR TWO DAYS?!",
-                    "Didascalie": "",
-                    "Start": 148760,
-                    "End": 148858
                 }
             ]
         },
@@ -3136,12 +3368,6 @@
                     "End": 26318
                 },
                 {
-                    "Reply": "WELCOME TO MY NIGHTMARE!",
-                    "Didascalie": "",
-                    "Start": 26446,
-                    "End": 26471
-                },
-                {
                     "Reply": "Gee... pretty fancy-shmancy.  I guess if you invest your money well over SIXTY centuries you can buy something pretty nice.",
                     "Didascalie": "",
                     "Start": 27758,
@@ -3631,6 +3857,35 @@
                     "Didascalie": "(beat)",
                     "Start": 24511,
                     "End": 24628
+                }
+            ]
+        },
+        {
+            "Character": "ALPHA  5",
+            "Replies": [
+                {
+                    "Reply": "Welcome to Wiener World.  May I take your order, please?",
+                    "Didascalie": "",
+                    "Start": 28222,
+                    "End": 28294
+                },
+                {
+                    "Reply": "BE CAREFUL!!",
+                    "Didascalie": "",
+                    "Start": 45298,
+                    "End": 45311
+                },
+                {
+                    "Reply": "Why you low-frequency, battery operated --",
+                    "Didascalie": "",
+                    "Start": 52514,
+                    "End": 52572
+                },
+                {
+                    "Reply": "AI, YI, YI, YI, YI   Ivan s Ecto-",
+                    "Didascalie": "",
+                    "Start": 124355,
+                    "End": 124389
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Pet Sematary II",
-        "   "
-    ],
+    "Title": "Pet Sematary II",
     "Author": [
-        "\u00a0\u00a0Richard Outten\u00a0\u00a0David S. Goyer"
+        "Richard Outten",
+        "David S. Goyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror"
+        "Horror"
     ],
     "Characters": [
         {
@@ -3250,23 +3248,6 @@
             ]
         },
         {
-            "Character": "A FIGURE",
-            "Replies": [
-                {
-                    "Reply": "Is coming up the path beneath the archway, rising out of the swirling mist. A frightening silhouette, backlit by the moon.",
-                    "Didascalie": "",
-                    "Start": 69415,
-                    "End": 69539
-                },
-                {
-                    "Reply": "stands in the shadows, wearing the BEADED PEACH DRESS that Marjorie had admired earlier. For a moment we think it's Renee, but as Marjorie draws closer, we see that the dress has been fitted onto a dressmaker's model.",
-                    "Didascalie": "",
-                    "Start": 122681,
-                    "End": 122902
-                }
-            ]
-        },
-        {
             "Character": "MESSAGE MACHINE",
             "Replies": [
                 {
@@ -3402,17 +3383,6 @@
                     "Didascalie": "",
                     "Start": 120176,
                     "End": 120208
-                }
-            ]
-        },
-        {
-            "Character": "A BOBCAT",
-            "Replies": [
-                {
-                    "Reply": "is perched nearby, frozen in mid-pounce. It takes a second for Chase to register that the bobcat has been stuffed.",
-                    "Didascalie": "",
-                    "Start": 89632,
-                    "End": 89748
                 }
             ]
         },

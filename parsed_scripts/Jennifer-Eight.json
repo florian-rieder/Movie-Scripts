@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Jennifer Eight",
-        "   "
-    ],
+    "Title": "Jennifer Eight",
     "Author": [
-        "\u00a0\u00a0Bruce Robinson"
+        "Bruce Robinson"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller\u00a0\u00a0Mystery"
+        "Thriller",
+        "Mystery"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Into the Woods",
-        "   "
-    ],
+    "Title": "Into the Woods",
     "Author": [
-        "\u00a0\u00a0James Lapine\u00a0\u00a0Stephen Sondheim"
+        "James Lapine",
+        "Stephen Sondheim"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Adventure",
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

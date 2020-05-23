@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Erin Brockovich",
-        "   "
-    ],
+    "Title": "Erin Brockovich",
     "Author": [
-        "\u00a0\u00a0Susannah Grant"
+        "Susannah Grant"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5768,6 +5766,17 @@
             ]
         },
         {
+            "Character": "MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Hangin' in, baby.  How about yourself?",
+                    "Didascalie": "",
+                    "Start": 56846,
+                    "End": 56885
+                }
+            ]
+        },
+        {
             "Character": "FRANKEL",
             "Replies": [
                 {
@@ -6223,6 +6232,17 @@
                     "Didascalie": "",
                     "Start": 122095,
                     "End": 122187
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "thought it was algae that made it so green.",
+                    "Didascalie": "",
+                    "Start": 128961,
+                    "End": 129005
                 }
             ]
         },

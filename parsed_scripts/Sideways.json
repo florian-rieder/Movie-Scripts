@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Sideways",
-        "   "
-    ],
+    "Title": "Sideways",
     "Author": [
-        "\u00a0\u00a0Rex Pickett\u00a0\u00a0Alexander Payne\u00a0\u00a0Jim Taylor"
+        "Rex Pickett",
+        "Alexander Payne",
+        "Jim Taylor"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Adventure",
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2701,17 +2702,6 @@
                     "Didascalie": "",
                     "Start": 5371,
                     "End": 5479
-                }
-            ]
-        },
-        {
-            "Character": "A GIANT PROJECTION TV --",
-            "Replies": [
-                {
-                    "Reply": "In a large split-level living room displays a GOLF TOURNAMENT.",
-                    "Didascalie": "",
-                    "Start": 5901,
-                    "End": 5964
                 }
             ]
         },
@@ -6147,23 +6137,6 @@
             ]
         },
         {
-            "Character": "INSERT --",
-            "Replies": [
-                {
-                    "Reply": "A MAP and a MOVING LINE show the boys' route.",
-                    "Didascalie": "",
-                    "Start": 81940,
-                    "End": 81986
-                },
-                {
-                    "Reply": "GRAPES growing on the vine.",
-                    "Didascalie": "",
-                    "Start": 82105,
-                    "End": 82133
-                }
-            ]
-        },
-        {
             "Character": "POURER",
             "Replies": [
                 {
@@ -6524,17 +6497,6 @@
             ]
         },
         {
-            "Character": "A DOG",
-            "Replies": [
-                {
-                    "Reply": "scampering into the nearby woods. Miles looks around -- has anyone seen him? Is there a nearby residence? Finding nothing, Miles momentarily weighs his options before finally GIVING CHASE.",
-                    "Didascalie": "",
-                    "Start": 154604,
-                    "End": 154841
-                }
-            ]
-        },
-        {
             "Character": "ZOOM OUT",
             "Replies": [
                 {
@@ -6759,17 +6721,6 @@
                     "Didascalie": "",
                     "Start": 254488,
                     "End": 254731
-                }
-            ]
-        },
-        {
-            "Character": "A PRIEST",
-            "Replies": [
-                {
-                    "Reply": "who is singing the BLESSING OF THE RINGS.",
-                    "Didascalie": "",
-                    "Start": 255088,
-                    "End": 255130
                 }
             ]
         },

@@ -1,74 +1,14 @@
 {
-    "Title": [
-        "Misery",
-        "   "
-    ],
+    "Title": "Misery",
     "Author": [
-        "\u00a0\u00a0William Goldman"
+        "William Goldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "PAUL SHELDON typing at a table in his hotel suite. It's really a cabin that's part of a lodge. Not an ornate place. Western themed.",
-                    "Didascalie": "",
-                    "Start": 742,
-                    "End": 906
-                },
-                {
-                    "Reply": "We are in New York City in the office of Paul's literary agent, MARCIA SINDELL. The walls of the large room are absolutely crammed with book and movie posters, in English and all other kinds of other languages, all of them featuring the character of MISERY CHASTAIN, a perfectly beautiful woman. Misery's Challenge, Misery's Triumph--eight of them. All written by Paul Sheldon.",
-                    "Didascalie": "",
-                    "Start": 10851,
-                    "End": 11325
-                },
-                {
-                    "Reply": "A BUNDLED-UP FIGURE gently beginning to pull PAUL and the case from the car. For a moment, it's hard to tell if it's a man or woman--",
-                    "Didascalie": "",
-                    "Start": 16469,
-                    "End": 16635
-                },
-                {
-                    "Reply": "Paul's eyes fluttering awake to see the hardback copy of his novel, Misery's Child, in Annie's hands. She's never been more excited--",
-                    "Didascalie": "",
-                    "Start": 53815,
-                    "End": 53981
-                },
-                {
-                    "Reply": "ANNIE, standing at the window, her back to the room.",
-                    "Didascalie": "",
-                    "Start": 63165,
-                    "End": 63218
-                },
-                {
-                    "Reply": "Sitting on the counter: A SET OF CARVING KNIVES sticking out of a slotted wooden block.",
-                    "Didascalie": "",
-                    "Start": 113586,
-                    "End": 113690
-                },
-                {
-                    "Reply": "PAUL WORKING in his room. ANNIE  enters, the first pages of manuscript in her hands. It's dusk.",
-                    "Didascalie": "",
-                    "Start": 132491,
-                    "End": 132603
-                },
-                {
-                    "Reply": "PAUL in the wheelchair watching as ANNIE finishes reading.",
-                    "Didascalie": "",
-                    "Start": 140684,
-                    "End": 140743
-                },
-                {
-                    "Reply": "BUSTER, sitting by the front window of his office, reading The Rocky Mountain Gazette.",
-                    "Didascalie": "",
-                    "Start": 179856,
-                    "End": 179959
-                }
-            ]
-        },
         {
             "Character": "PAUL",
             "Replies": [

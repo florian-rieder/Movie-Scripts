@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Get Shorty",
-        "   "
-    ],
+    "Title": "Get Shorty",
     "Author": [
-        "\u00a0\u00a0Scott Frank"
+        "Scott Frank"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {

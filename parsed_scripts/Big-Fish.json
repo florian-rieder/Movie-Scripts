@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Big Fish",
-        "   "
-    ],
+    "Title": "Big Fish",
     "Author": [
-        "\u00a0\u00a0Daniel Wallace\u00a0\u00a0John August"
+        "Daniel Wallace",
+        "John August"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Comedy\u00a0\u00a0Adventure"
+        "Drama",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -3711,17 +3712,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "I'll do it.",
-                    "Didascalie": "",
-                    "Start": 56977,
-                    "End": 56989
-                }
-            ]
-        },
-        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -4416,17 +4406,6 @@
             ]
         },
         {
-            "Character": "A DEEP VOICE",
-            "Replies": [
-                {
-                    "Reply": "Friend!",
-                    "Didascalie": "",
-                    "Start": 91941,
-                    "End": 91949
-                }
-            ]
-        },
-        {
             "Character": "CASHIER",
             "Replies": [
                 {
@@ -4809,17 +4788,6 @@
                     "Didascalie": "",
                     "Start": 237470,
                     "End": 237491
-                }
-            ]
-        },
-        {
-            "Character": "A FAT CATFISH",
-            "Replies": [
-                {
-                    "Reply": "swimming at his feet.",
-                    "Didascalie": "",
-                    "Start": 244505,
-                    "End": 244527
                 }
             ]
         },

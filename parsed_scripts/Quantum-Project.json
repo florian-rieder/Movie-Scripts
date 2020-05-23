@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Quantum Project",
-        "   "
-    ],
+    "Title": "Quantum Project",
     "Author": [
-        "\u00a0\u00a0David Aaron Cohen"
+        "David Aaron Cohen"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Short"
+        "Drama",
+        "Short"
     ],
     "Characters": [
         {

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Perks of Being a Wallflower, The",
-        "   "
-    ],
+    "Title": "Perks of Being a Wallflower, The",
     "Author": [
-        "\u00a0\u00a0Stephen Chbosky"
+        "Stephen Chbosky"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4392,17 +4390,6 @@
                     "Didascalie": "",
                     "Start": 87470,
                     "End": 87559
-                }
-            ]
-        },
-        {
-            "Character": "END FLASHBACK",
-            "Replies": [
-                {
-                    "Reply": "Charlie hovers over the glowing luminaria.   Something is bothering him. He shakes it off.",
-                    "Didascalie": "",
-                    "Start": 85519,
-                    "End": 85615
                 }
             ]
         },

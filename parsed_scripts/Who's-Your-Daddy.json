@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Who's Your Daddy",
-        "   "
-    ],
+    "Title": "Who's Your Daddy",
     "Author": [
-        "\u00a0\u00a0Maria Veltre Druse\u00a0\u00a0Jack Sekowski"
+        "Maria Veltre Druse",
+        "Jack Sekowski"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -977,12 +975,6 @@
                     "Didascalie": "(hanging up phone)",
                     "Start": 108390,
                     "End": 108432
-                },
-                {
-                    "Reply": "It's so nice to have FRIENDS like you, Christy.",
-                    "Didascalie": "",
-                    "Start": 108794,
-                    "End": 108867
                 },
                 {
                     "Reply": "Your article sucked.",
@@ -2211,12 +2203,6 @@
                     "Didascalie": "(through gritted teeth)",
                     "Start": 22839,
                     "End": 22895
-                },
-                {
-                    "Reply": "I don't LIKE you. We're JUST FRIENDS.",
-                    "Didascalie": "",
-                    "Start": 23120,
-                    "End": 23183
                 },
                 {
                     "Reply": "You really don't get it, do you? I am genetically programmed to desire a big, buff, manly man who can defend and provide for me and my yet to be conceived offspring! It's, like, a caveman thing!",

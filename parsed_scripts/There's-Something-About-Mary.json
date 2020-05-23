@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "There's Something About Mary",
-        "   "
-    ],
+    "Title": "There's Something About Mary",
     "Author": [
-        "\u00a0\u00a0Peter Farrelly\u00a0\u00a0Bobby Farrelly\u00a0\u00a0Ed Decter\u00a0\u00a0John J. Strauss"
+        "Peter Farrelly",
+        "Bobby Farrelly",
+        "Ed Decter",
+        "John J. Strauss"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

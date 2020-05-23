@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Tremors",
-        "   "
-    ],
+    "Title": "Tremors",
     "Author": [
-        "\u00a0\u00a0S. S. Wilson\u00a0\u00a0Brent Maddock"
+        "S. S. Wilson",
+        "Brent Maddock"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {

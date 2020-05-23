@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Copycat",
-        "   "
-    ],
+    "Title": "Copycat",
     "Author": [
-        "\u00a0\u00a0Frank Pierson\u00a0\u00a0Ann Biderman\u00a0\u00a0Jay Presson Allen"
+        "Frank Pierson",
+        "Ann Biderman",
+        "Jay Presson Allen"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3837,17 +3839,6 @@
             ]
         },
         {
-            "Character": "SHADOW INTO LIGHT COMES",
-            "Replies": [
-                {
-                    "Reply": "PETER.  HE WALKS AWAY INTO THE NIGHT.  FAR FAR AWAY SIRENS BEGIN TO SOUND -- THEY'LL BE TOO LATE.",
-                    "Didascalie": "",
-                    "Start": 134684,
-                    "End": 134783
-                }
-            ]
-        },
-        {
             "Character": "ANSWERING MACHINE",
             "Replies": [
                 {
@@ -3866,6 +3857,17 @@
                     "Didascalie": "",
                     "Start": 144622,
                     "End": 144635
+                }
+            ]
+        },
+        {
+            "Character": "DETECTIVE 2",
+            "Replies": [
+                {
+                    "Reply": "They were combing Fertility clinics.",
+                    "Didascalie": "",
+                    "Start": 144740,
+                    "End": 144779
                 }
             ]
         },

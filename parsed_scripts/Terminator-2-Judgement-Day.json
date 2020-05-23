@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Terminator 2: Judgement Day",
-        "   "
-    ],
+    "Title": "Terminator 2: Judgement Day",
     "Author": [
-        "\u00a0\u00a0James Cameron\u00a0\u00a0William Wisher"
+        "James Cameron",
+        "William Wisher"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Action\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Sci-Fi",
+        "Action",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3027,6 +3028,35 @@
                     "Didascalie": "",
                     "Start": 84363,
                     "End": 84535
+                }
+            ]
+        },
+        {
+            "Character": "T-1000",
+            "Replies": [
+                {
+                    "Reply": "You have a Sarah Connor here?",
+                    "Didascalie": "",
+                    "Start": 90063,
+                    "End": 90093
+                },
+                {
+                    "Reply": "Everything's fine.  Thanks for checking.",
+                    "Didascalie": "",
+                    "Start": 167103,
+                    "End": 167144
+                },
+                {
+                    "Reply": "Since you're here, though, can I talk to you a second...",
+                    "Didascalie": "(it gets slowly out of the car)",
+                    "Start": 167223,
+                    "End": 167313
+                },
+                {
+                    "Reply": "Call to John.  Now.",
+                    "Didascalie": "",
+                    "Start": 251085,
+                    "End": 251105
                 }
             ]
         },

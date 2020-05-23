@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "X-Men",
-        "   "
-    ],
+    "Title": "X-Men",
     "Author": [
-        "\u00a0\u00a0Ed Solomon\u00a0\u00a0Christopher McQuarrie\u00a0\u00a0Tom DeSanto\u00a0\u00a0Bryan Singer"
+        "Ed Solomon",
+        "Christopher McQuarrie",
+        "Tom DeSanto",
+        "Bryan Singer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -817,28 +818,6 @@
                     "Didascalie": "",
                     "Start": 195885,
                     "End": 195890
-                }
-            ]
-        },
-        {
-            "Character": "A SUDDEN FLASH OF LIGHT",
-            "Replies": [
-                {
-                    "Reply": "Lightning.  No.  Lightning is not red.",
-                    "Didascalie": "",
-                    "Start": 27547,
-                    "End": 27586
-                }
-            ]
-        },
-        {
-            "Character": "A MACHINE",
-            "Replies": [
-                {
-                    "Reply": "of an upright torpedo and a fantastic light source --",
-                    "Didascalie": "",
-                    "Start": 31049,
-                    "End": 31103
                 }
             ]
         },
@@ -2463,6 +2442,110 @@
             ]
         },
         {
+            "Character": "BRAD 1",
+            "Replies": [
+                {
+                    "Reply": "Hey.",
+                    "Didascalie": "",
+                    "Start": 63550,
+                    "End": 63555
+                },
+                {
+                    "Reply": "Hey... Hey I\u00edm talking to you.",
+                    "Didascalie": "",
+                    "Start": 63669,
+                    "End": 63700
+                },
+                {
+                    "Reply": "Awww... look guys she\u00eds shy.",
+                    "Didascalie": "",
+                    "Start": 63934,
+                    "End": 63963
+                },
+                {
+                    "Reply": "Hey, what did you do?",
+                    "Didascalie": "",
+                    "Start": 65274,
+                    "End": 65296
+                },
+                {
+                    "Reply": "She\u00eds a mutant.",
+                    "Didascalie": "",
+                    "Start": 65909,
+                    "End": 65925
+                },
+                {
+                    "Reply": "I think you should take a seat little fella.",
+                    "Didascalie": "(who is considerably larger than Logan)",
+                    "Start": 66209,
+                    "End": 66289
+                },
+                {
+                    "Reply": "Well you got trouble.",
+                    "Didascalie": "",
+                    "Start": 66685,
+                    "End": 66707
+                }
+            ]
+        },
+        {
+            "Character": "BRAD 2",
+            "Replies": [
+                {
+                    "Reply": "Where are you going?",
+                    "Didascalie": "(looking at her duffle bag)",
+                    "Start": 63843,
+                    "End": 63882
+                }
+            ]
+        },
+        {
+            "Character": "BRAD 3",
+            "Replies": [
+                {
+                    "Reply": "Maybe that\u00eds why she\u00eds alone.  Is that why you\u00edre alone?",
+                    "Didascalie": "",
+                    "Start": 64015,
+                    "End": 64089
+                },
+                {
+                    "Reply": "Hey Brad, she\u00eds a mutant!",
+                    "Didascalie": "",
+                    "Start": 65490,
+                    "End": 65516
+                }
+            ]
+        },
+        {
+            "Character": "BRAD 4",
+            "Replies": [
+                {
+                    "Reply": "I\u00edll keep you company.",
+                    "Didascalie": "",
+                    "Start": 64200,
+                    "End": 64223
+                },
+                {
+                    "Reply": "Hey...  I\u00edm talking to you.",
+                    "Didascalie": "",
+                    "Start": 64364,
+                    "End": 64392
+                },
+                {
+                    "Reply": "I said I\u00edm talking to you!",
+                    "Didascalie": "(cont\u00edd) (louder)",
+                    "Start": 64581,
+                    "End": 64626
+                },
+                {
+                    "Reply": "I said...!",
+                    "Didascalie": "(cont\u00edd) (louder still)",
+                    "Start": 64985,
+                    "End": 65014
+                }
+            ]
+        },
+        {
             "Character": "ROGUE",
             "Replies": [
                 {
@@ -3039,17 +3122,6 @@
             ]
         },
         {
-            "Character": "PULL OUT TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Crowds of shoppers mill about, a typical crowded evening at the mall.  Rogue comes up the escalator, wandering through them all.",
-                    "Didascalie": "",
-                    "Start": 107610,
-                    "End": 107753
-                }
-            ]
-        },
-        {
             "Character": "ACCESS DENIED",
             "Replies": [
                 {
@@ -3149,28 +3221,6 @@
                     "Didascalie": "",
                     "Start": 201077,
                     "End": 201168
-                }
-            ]
-        },
-        {
-            "Character": "A CLEAR PLASTIC HALLWAY",
-            "Replies": [
-                {
-                    "Reply": "That\u00eds right, PLASTIC.  Everything we can see -- walls, ceiling, floor -- is made, entirely, of thick, clear plastic.",
-                    "Didascalie": "",
-                    "Start": 206927,
-                    "End": 207059
-                }
-            ]
-        },
-        {
-            "Character": "A THICK PLASTIC CELL",
-            "Replies": [
-                {
-                    "Reply": "There, in the middle, at the clear plastic desk, with two clear plastic cups filled with the only thing of color other than the two men in the room.",
-                    "Didascalie": "",
-                    "Start": 207122,
-                    "End": 207285
                 }
             ]
         }

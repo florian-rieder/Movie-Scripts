@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Abyss, The",
-        "   "
-    ],
+    "Title": "Abyss, The",
     "Author": [
-        "\u00a0\u00a0James Cameron"
+        "James Cameron"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

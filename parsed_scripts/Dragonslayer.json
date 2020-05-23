@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Dragonslayer",
-        "   "
-    ],
+    "Title": "Dragonslayer",
     "Author": [
-        "\u00a0\u00a0Hal Barwood\u00a0\u00a0Matthew Robbins"
+        "Hal Barwood",
+        "Matthew Robbins"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {

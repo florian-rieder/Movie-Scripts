@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Mirrors",
-        "   "
-    ],
+    "Title": "Mirrors",
     "Author": [
-        "\u00a0\u00a0Alexandre Aja\u00a0\u00a0Gregory Levasseur"
+        "Alexandre Aja",
+        "Gregory Levasseur"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1208,12 +1208,6 @@
                     "Didascalie": "",
                     "Start": 200576,
                     "End": 200582
-                },
-                {
-                    "Reply": "I don't know, I fell asleep with the kids on the bed and...  She sees that THE BEDROOM DOOR IS HALF OPENED.",
-                    "Didascalie": "(to Ben on the phone)",
-                    "Start": 200703,
-                    "End": 200925
                 },
                 {
                     "Reply": "Michael?  The sound of pouring water is heard, coming from the hallway.",

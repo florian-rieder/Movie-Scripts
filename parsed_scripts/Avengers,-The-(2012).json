@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Avengers, The (2012)",
-        "   "
-    ],
+    "Title": "Avengers, The (2012)",
     "Author": [
-        "\u00a0\u00a0Joss Whedon"
+        "Joss Whedon"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -5440,6 +5439,29 @@
                     "Didascalie": "",
                     "Start": 118235,
                     "End": 118245
+                }
+            ]
+        },
+        {
+            "Character": "ESCORT 606 PILOT",
+            "Replies": [
+                {
+                    "Reply": "Copy.",
+                    "Didascalie": "",
+                    "Start": 126458,
+                    "End": 126464
+                },
+                {
+                    "Reply": "Target acquired. Target engaged.",
+                    "Didascalie": "",
+                    "Start": 126777,
+                    "End": 126810
+                },
+                {
+                    "Reply": "TARGET ANGRY! TARGET ANGRY!",
+                    "Didascalie": "",
+                    "Start": 127183,
+                    "End": 127211
                 }
             ]
         },

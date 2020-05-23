@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Lord of Illusions",
-        "   "
-    ],
+    "Title": "Lord of Illusions",
     "Author": [
-        "\u00a0\u00a0Clive Barker"
+        "Clive Barker"
     ],
     "Genre": [
-        "\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Fantasy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Solaris",
-        "   "
-    ],
+    "Title": "Solaris",
     "Author": [
-        "\u00a0\u00a0Steven Soderbergh"
+        "Steven Soderbergh"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Drama",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -18,17 +17,6 @@
                     "Didascalie": "",
                     "Start": 88,
                     "End": 284
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "40s, lies on his side in bed, staring at us.",
-                    "Didascalie": "",
-                    "Start": 802,
-                    "End": 847
                 }
             ]
         },
@@ -2453,28 +2441,6 @@
                     "Didascalie": "",
                     "Start": 94066,
                     "End": 94257
-                }
-            ]
-        },
-        {
-            "Character": "A NUDE WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Black, early 20s, slipping across a corridor up ahead.",
-                    "Didascalie": "",
-                    "Start": 12344,
-                    "End": 12399
-                }
-            ]
-        },
-        {
-            "Character": "A WIDER VIEW",
-            "Replies": [
-                {
-                    "Reply": "Reveals that Rheya is not sitting on the train -- she is sitting in Kelvin's room on the Prometheus, right now.",
-                    "Didascalie": "",
-                    "Start": 16634,
-                    "End": 16746
                 }
             ]
         },

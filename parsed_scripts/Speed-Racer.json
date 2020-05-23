@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Speed Racer",
-        "   "
-    ],
+    "Title": "Speed Racer",
     "Author": [
-        "\u00a0\u00a0Larry Wachowski\u00a0\u00a0Andy Wachowski"
+        "Larry Wachowski",
+        "Andy Wachowski"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Family\u00a0\u00a0Sport"
+        "Action",
+        "Family",
+        "Sport"
     ],
     "Characters": [
         {
@@ -6554,6 +6554,28 @@
                     "Didascalie": "",
                     "Start": 183714,
                     "End": 183764
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Speed, does this mean you've signed with Okamoto?",
+                    "Didascalie": "",
+                    "Start": 182377,
+                    "End": 182437
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "Katsu, does this mean you will be running in the Grand Prix this weekend?",
+                    "Didascalie": "",
+                    "Start": 182689,
+                    "End": 182783
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Election",
-        "   "
-    ],
+    "Title": "Election",
     "Author": [
-        "\u00a0\u00a0Alexander Payne\u00a0\u00a0Jim Taylor"
+        "Alexander Payne",
+        "Jim Taylor"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3397,17 +3395,6 @@
                     "Didascalie": "",
                     "Start": 70561,
                     "End": 70668
-                }
-            ]
-        },
-        {
-            "Character": "A BUNSEN BURNER --",
-            "Replies": [
-                {
-                    "Reply": "as a VIAL containing blue liquid is held to the flame.  The solution magically changes from blue to yellow.",
-                    "Didascalie": "",
-                    "Start": 82231,
-                    "End": 82341
                 }
             ]
         },

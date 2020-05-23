@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Dune",
-        "   "
-    ],
+    "Title": "Dune",
     "Author": [
-        "\u00a0\u00a0David Lynch\u00a0\u00a0Frank Herbert"
+        "David Lynch",
+        "Frank Herbert"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -1625,12 +1626,6 @@
                     "Didascalie": "(to the guards)",
                     "Start": 180333,
                     "End": 180389
-                },
-                {
-                    "Reply": "Emperor Shadam the IV... there are Guild Heighliners above us containing many Great Houses of the Lansraad....  SEND THEM BACK!",
-                    "Didascalie": "",
-                    "Start": 180513,
-                    "End": 180686
                 },
                 {
                     "Reply": "Good.  You have some idea of what I would do but I will tell it to one who has never been seen... one who hides deep in the Heighliner control rooms.  He will hear it first.",
@@ -3674,17 +3669,6 @@
             ]
         },
         {
-            "Character": "ARRAKEEN PALACE",
-            "Replies": [
-                {
-                    "Reply": "- NIGHT - SHIELD EFFECT  Duncan's dead, shielded body slides sparking in the dark against the passageway walls.",
-                    "Didascalie": "",
-                    "Start": 95350,
-                    "End": 95472
-                }
-            ]
-        },
-        {
             "Character": "RABBAN",
             "Replies": [
                 {
@@ -3841,23 +3825,6 @@
                     "Didascalie": "",
                     "Start": 169952,
                     "End": 170037
-                }
-            ]
-        },
-        {
-            "Character": "A FREMEN",
-            "Replies": [
-                {
-                    "Reply": "It is the legend.",
-                    "Didascalie": "",
-                    "Start": 125286,
-                    "End": 125304
-                },
-                {
-                    "Reply": "Muad'dib!...",
-                    "Didascalie": "",
-                    "Start": 147953,
-                    "End": 147966
                 }
             ]
         },
@@ -4125,28 +4092,6 @@
                     "Didascalie": "",
                     "Start": 150360,
                     "End": 150400
-                }
-            ]
-        },
-        {
-            "Character": "A HARKONNEN SOLDIER",
-            "Replies": [
-                {
-                    "Reply": "He's been repeating that name ever since we found him.",
-                    "Didascalie": "",
-                    "Start": 150510,
-                    "End": 150580
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Bring in the messenger.",
-                    "Didascalie": "",
-                    "Start": 171927,
-                    "End": 171951
                 }
             ]
         }

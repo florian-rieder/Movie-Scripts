@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Priest",
-        "   "
-    ],
+    "Title": "Priest",
     "Author": [
-        "\u00a0\u00a0Cory Goodman"
+        "Cory Goodman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2211,28 +2210,6 @@
             ]
         },
         {
-            "Character": "A STEAM WHISTLE BLOWS",
-            "Replies": [
-                {
-                    "Reply": "Quitting time. Hundreds of WORKERS trail listlessly from a massive brick and stone COMPLEX. Grey faces betraying another day's toll.",
-                    "Didascalie": "",
-                    "Start": 13673,
-                    "End": 13826
-                }
-            ]
-        },
-        {
-            "Character": "A TATTOOED FIGURE",
-            "Replies": [
-                {
-                    "Reply": "moves through the crowd, people stepping out of his way.",
-                    "Didascalie": "",
-                    "Start": 13865,
-                    "End": 13922
-                }
-            ]
-        },
-        {
             "Character": "LEADER",
             "Replies": [
                 {
@@ -2836,28 +2813,6 @@
             ]
         },
         {
-            "Character": "A FAMILIAR",
-            "Replies": [
-                {
-                    "Reply": "Attacks, BUTCHER BLADE raised. CHOP! the blade buries itself in Hicks' arm!",
-                    "Didascalie": "",
-                    "Start": 64917,
-                    "End": 65003
-                }
-            ]
-        },
-        {
-            "Character": "A BUZZSAW BLADE",
-            "Replies": [
-                {
-                    "Reply": "knifes through the air heading straight for him. He DUCKS, the blade whistling past, sawtoothing into the torso of another Familiar.",
-                    "Didascalie": "",
-                    "Start": 65468,
-                    "End": 65621
-                }
-            ]
-        },
-        {
             "Character": "BLACK SHAPES",
             "Replies": [
                 {
@@ -2928,17 +2883,6 @@
                     "Didascalie": "(SOFTER)",
                     "Start": 77409,
                     "End": 77474
-                }
-            ]
-        },
-        {
-            "Character": "A STEAM LOCOMOTIVE",
-            "Replies": [
-                {
-                    "Reply": "Bearing down like death itself, teeth of the behemoth's grill leering: like a skull. Thick clouds of heavy smoke burst from its blast pipe, rails SQUEALING as the train RACES past.",
-                    "Didascalie": "",
-                    "Start": 81379,
-                    "End": 81580
                 }
             ]
         },
@@ -3158,17 +3102,6 @@
             ]
         },
         {
-            "Character": "A TIN STRUCTURE",
-            "Replies": [
-                {
-                    "Reply": "Must be a mirage. Hicks blinks, can't believe his eyes. It looks abandoned.",
-                    "Didascalie": "",
-                    "Start": 89006,
-                    "End": 89092
-                }
-            ]
-        },
-        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -3277,17 +3210,6 @@
                     "Didascalie": "",
                     "Start": 95299,
                     "End": 95528
-                }
-            ]
-        },
-        {
-            "Character": "A CATACOMB",
-            "Replies": [
-                {
-                    "Reply": "Actually more a cave. Miles and miles. Twisting, jagged and moist. Endless corners, weaving into a dark and hideous maze.",
-                    "Didascalie": "",
-                    "Start": 100067,
-                    "End": 100199
                 }
             ]
         },
@@ -3702,17 +3624,6 @@
             ]
         },
         {
-            "Character": "A BEAT",
-            "Replies": [
-                {
-                    "Reply": "O as the world seems to hold its breath then --",
-                    "Didascalie": "",
-                    "Start": 111123,
-                    "End": 111181
-                }
-            ]
-        },
-        {
             "Character": "BAMI",
             "Replies": [
                 {
@@ -3735,17 +3646,6 @@
             ]
         },
         {
-            "Character": "A HICKS",
-            "Replies": [
-                {
-                    "Reply": "0 But where'd they go?.",
-                    "Didascalie": "(CONT'D) (BEAT)",
-                    "Start": 117449,
-                    "End": 117484
-                }
-            ]
-        },
-        {
             "Character": "HUGE CHAMBER",
             "Replies": [
                 {
@@ -3753,17 +3653,6 @@
                     "Didascalie": "",
                     "Start": 119301,
                     "End": 119500
-                }
-            ]
-        },
-        {
-            "Character": "A GIANT SHADOW",
-            "Replies": [
-                {
-                    "Reply": "Looms before him, we_don't see what it is.",
-                    "Didascalie": "",
-                    "Start": 119536,
-                    "End": 119579
                 }
             ]
         },
@@ -3940,17 +3829,6 @@
             ]
         },
         {
-            "Character": "A GROUP OF ROCKS",
-            "Replies": [
-                {
-                    "Reply": "Tumble down the cliff. Again Priest abruptly turns but...still nothing there.",
-                    "Didascalie": "",
-                    "Start": 151375,
-                    "End": 151463
-                }
-            ]
-        },
-        {
             "Character": "SALT FLATS",
             "Replies": [
                 {
@@ -3969,17 +3847,6 @@
                     "Didascalie": "",
                     "Start": 160253,
                     "End": 160364
-                }
-            ]
-        },
-        {
-            "Character": "A BRUTAL FIGHT",
-            "Replies": [
-                {
-                    "Reply": "Spinning, twisting, kicking, gnashing. Bodies locked in deep combat as Priest fends off the ferocious attackers. War cries WHOOPING, the OTHERS TWO RIDERS continue to circle the gladiators, dust kicking from their wheels.",
-                    "Didascalie": "",
-                    "Start": 161541,
-                    "End": 161793
                 }
             ]
         },
@@ -4039,17 +3906,6 @@
             ]
         },
         {
-            "Character": "A TALON",
-            "Replies": [
-                {
-                    "Reply": "Reaches through the opening, long bony fingers swiping at Hicks like switchblades as he falls backwards, pain shooting up his body.",
-                    "Didascalie": "",
-                    "Start": 182006,
-                    "End": 182158
-                }
-            ]
-        },
-        {
             "Character": "ONE VAMPIRE",
             "Replies": [
                 {
@@ -4057,28 +3913,6 @@
                     "Didascalie": "",
                     "Start": 182753,
                     "End": 182924
-                }
-            ]
-        },
-        {
-            "Character": "A FIST",
-            "Replies": [
-                {
-                    "Reply": "tiny shards.",
-                    "Didascalie": "",
-                    "Start": 184749,
-                    "End": 184762
-                }
-            ]
-        },
-        {
-            "Character": "A VAMPIRE",
-            "Replies": [
-                {
-                    "Reply": "Jabs its head through the hole, teeth chattering-- but the creature can't go any further, the sunlight already making its skin smoke.",
-                    "Didascalie": "",
-                    "Start": 186237,
-                    "End": 186391
                 }
             ]
         },
@@ -4117,17 +3951,6 @@
             ]
         },
         {
-            "Character": "A FIGURE",
-            "Replies": [
-                {
-                    "Reply": "Stands astride a motorcycle, shadowed in the moonlight.",
-                    "Didascalie": "",
-                    "Start": 202298,
-                    "End": 202354
-                }
-            ]
-        },
-        {
             "Character": "THEN",
             "Replies": [
                 {
@@ -4157,17 +3980,6 @@
                     "Didascalie": "(BEAT)",
                     "Start": 205034,
                     "End": 205078
-                }
-            ]
-        },
-        {
-            "Character": "A BLACK CLAW",
-            "Replies": [
-                {
-                    "Reply": "Emerges from inside, clamping onto metal, something dragging itself out into the moonlight.",
-                    "Didascalie": "",
-                    "Start": 205941,
-                    "End": 206043
                 }
             ]
         }

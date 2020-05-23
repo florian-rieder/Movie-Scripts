@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "So I Married an Axe Murderer",
-        "   "
-    ],
+    "Title": "So I Married an Axe Murderer",
     "Author": [
-        "\u00a0\u00a0Robbie Fox"
+        "Robbie Fox"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Comedy",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2052,18 +2051,6 @@
                     "Didascalie": "(demanding)",
                     "Start": 201675,
                     "End": 201722
-                },
-                {
-                    "Reply": "STAY FOR A NIGHTCAP!",
-                    "Didascalie": "(shouting)",
-                    "Start": 201914,
-                    "End": 201961
-                },
-                {
-                    "Reply": "STAY FOR A NIGHTCAP!",
-                    "Didascalie": "(shouting down the hall after him)",
-                    "Start": 202159,
-                    "End": 202206
                 },
                 {
                     "Reply": "Harriet, I...",

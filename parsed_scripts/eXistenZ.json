@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "eXistenZ",
-        "   "
-    ],
+    "Title": "eXistenZ",
     "Author": [
-        "\u00a0\u00a0David Cronenberg"
+        "David Cronenberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2127,12 +2126,6 @@
                     "End": 40247
                 },
                 {
-                    "Reply": "Amazing, isn't it?",
-                    "Didascalie": "(WITH IRONY)",
-                    "Start": 40320,
-                    "End": 40350
-                },
-                {
                     "Reply": "Yes. I remember you said that at the church.",
                     "Didascalie": "",
                     "Start": 41839,
@@ -3513,6 +3506,17 @@
             ]
         },
         {
+            "Character": "GELLER 4",
+            "Replies": [
+                {
+                    "Reply": "Amazing, isn't it?",
+                    "Didascalie": "(WITH IRONY)",
+                    "Start": 40320,
+                    "End": 40350
+                }
+            ]
+        },
+        {
             "Character": "GAS",
             "Replies": [
                 {
@@ -4199,6 +4203,17 @@
             ]
         },
         {
+            "Character": "NOURISH 11",
+            "Replies": [
+                {
+                    "Reply": "I suggest the Chinese restaurant in the forest. Everybody knows where it is. Just ask.",
+                    "Didascalie": "",
+                    "Start": 97248,
+                    "End": 97355
+                }
+            ]
+        },
+        {
             "Character": "WORKER",
             "Replies": [
                 {
@@ -4277,6 +4292,23 @@
                     "Didascalie": "(INNOCENT)",
                     "Start": 183419,
                     "End": 183490
+                }
+            ]
+        },
+        {
+            "Character": "PIKUL 1",
+            "Replies": [
+                {
+                    "Reply": "Of course you wouldn't. But maybe you should.",
+                    "Didascalie": "",
+                    "Start": 122575,
+                    "End": 122631
+                },
+                {
+                    "Reply": "But why is the name Cortical Systematics familiar?",
+                    "Didascalie": "(PAUSE)",
+                    "Start": 122664,
+                    "End": 122736
                 }
             ]
         },

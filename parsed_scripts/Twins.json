@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Twins",
-        "   "
-    ],
+    "Title": "Twins",
     "Author": [
-        "\u00a0\u00a0William Osborne\u00a0\u00a0William Davies\u00a0\u00a0Timothy Harris\u00a0\u00a0Hershel Weingrod\u00a0\u00a0William Goldman"
+        "William Osborne",
+        "William Davies",
+        "Timothy Harris",
+        "Hershel Weingrod",
+        "William Goldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -437,12 +440,6 @@
                     "Didascalie": "",
                     "Start": 66190,
                     "End": 66219
-                },
-                {
-                    "Reply": "57    CONTINUED:                                                       57 This is exactly what Vince has been thinking.",
-                    "Didascalie": "",
-                    "Start": 66604,
-                    "End": 66730
                 },
                 {
                     "Reply": "You can take some more money --",

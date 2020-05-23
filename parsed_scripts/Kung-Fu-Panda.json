@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Kung Fu Panda",
-        "   "
-    ],
+    "Title": "Kung Fu Panda",
     "Author": [
-        "\u00a0\u00a0Jonathan Aibel\u00a0\u00a0Glenn Berger"
+        "Jonathan Aibel",
+        "Glenn Berger"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Family"
+        "Animation",
+        "Action",
+        "Comedy",
+        "Family"
     ],
     "Characters": [
         {

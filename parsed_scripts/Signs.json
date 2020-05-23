@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Signs",
-        "   "
-    ],
+    "Title": "Signs",
     "Author": [
-        "\u00a0\u00a0M. Night Shyamalan"
+        "M. Night Shyamalan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

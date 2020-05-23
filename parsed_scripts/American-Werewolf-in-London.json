@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "American Werewolf in London",
-        "   "
-    ],
+    "Title": "American Werewolf in London",
     "Author": [
-        "\u00a0\u00a0John Landis"
+        "John Landis"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Romance"
+        "Comedy",
+        "Horror",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4611,17 +4610,6 @@
                     "Didascalie": "",
                     "Start": 149434,
                     "End": 149440
-                }
-            ]
-        },
-        {
-            "Character": "END CREDITS OVER BLACK",
-            "Replies": [
-                {
-                    "Reply": "SONG: The fifties rock version of \"Blue Moon\".",
-                    "Didascalie": "",
-                    "Start": 149772,
-                    "End": 149819
                 }
             ]
         }

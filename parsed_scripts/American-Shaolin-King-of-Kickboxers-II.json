@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "American Shaolin: King of Kickboxers II",
-        "   "
-    ],
+    "Title": "American Shaolin: King of Kickboxers II",
     "Author": [
-        "\u00a0\u00a0Keith Strandburg"
+        "Keith Strandburg"
     ],
     "Genre": [
-        "\u00a0\u00a0Action"
+        "Action"
     ],
     "Characters": [
         {
@@ -249,6 +246,23 @@
                     "Didascalie": "",
                     "Start": 4283,
                     "End": 4333
+                }
+            ]
+        },
+        {
+            "Character": "STUDENT 2",
+            "Replies": [
+                {
+                    "Reply": "What do you want us to do?",
+                    "Didascalie": "",
+                    "Start": 5155,
+                    "End": 5182
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 5350,
+                    "End": 5354
                 }
             ]
         },
@@ -2378,6 +2392,23 @@
             ]
         },
         {
+            "Character": "MONK 1",
+            "Replies": [
+                {
+                    "Reply": "No tourists! Temple closed!",
+                    "Didascalie": "",
+                    "Start": 35046,
+                    "End": 35074
+                },
+                {
+                    "Reply": "No tourists! No tourists!",
+                    "Didascalie": "(very agitated)",
+                    "Start": 35258,
+                    "End": 35297
+                }
+            ]
+        },
+        {
             "Character": "ADMISSIONS MONK",
             "Replies": [
                 {
@@ -3016,6 +3047,28 @@
             ]
         },
         {
+            "Character": "DISCIPLE 1",
+            "Replies": [
+                {
+                    "Reply": "Yes, without pause.",
+                    "Didascalie": "",
+                    "Start": 50106,
+                    "End": 50126
+                }
+            ]
+        },
+        {
+            "Character": "DISCIPLE 2",
+            "Replies": [
+                {
+                    "Reply": "Bodhidharma.",
+                    "Didascalie": "",
+                    "Start": 51035,
+                    "End": 51048
+                }
+            ]
+        },
+        {
             "Character": "GAO",
             "Replies": [
                 {
@@ -3586,6 +3639,45 @@
                     "Didascalie": "",
                     "Start": 148367,
                     "End": 148387
+                }
+            ]
+        },
+        {
+            "Character": "TOURIST 1",
+            "Replies": [
+                {
+                    "Reply": "Not another temple!",
+                    "Didascalie": "",
+                    "Start": 149810,
+                    "End": 149830
+                },
+                {
+                    "Reply": "A real live monk! Somebody, take my picture!",
+                    "Didascalie": "",
+                    "Start": 150255,
+                    "End": 150300
+                }
+            ]
+        },
+        {
+            "Character": "TOURIST 2",
+            "Replies": [
+                {
+                    "Reply": "Do they have a gift shop?",
+                    "Didascalie": "",
+                    "Start": 149872,
+                    "End": 149898
+                }
+            ]
+        },
+        {
+            "Character": "TOURIST 3",
+            "Replies": [
+                {
+                    "Reply": "Guide! How do you say 'gift shop'?",
+                    "Didascalie": "",
+                    "Start": 149940,
+                    "End": 149975
                 }
             ]
         },

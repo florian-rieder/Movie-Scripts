@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Bling Ring, The",
-        "   "
-    ],
+    "Title": "Bling Ring, The",
     "Author": [
-        "\u00a0\u00a0Sofia Coppola"
+        "Sofia Coppola"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -48,6 +46,17 @@
                     "Didascalie": "",
                     "Start": 108758,
                     "End": 109018
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "C'mon. Hurry up.",
+                    "Didascalie": "",
+                    "Start": 935,
+                    "End": 952
                 }
             ]
         },
@@ -2692,6 +2701,17 @@
                     "Didascalie": "",
                     "Start": 11572,
                     "End": 11582
+                }
+            ]
+        },
+        {
+            "Character": "SCHOOL GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "No way, that sucks.",
+                    "Didascalie": "",
+                    "Start": 11440,
+                    "End": 11460
                 }
             ]
         },

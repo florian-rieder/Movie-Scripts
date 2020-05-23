@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Bodyguard",
-        "   "
-    ],
+    "Title": "Bodyguard",
     "Author": [
-        "\u00a0\u00a0Lawrence Kasdan"
+        "Lawrence Kasdan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Drama",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {

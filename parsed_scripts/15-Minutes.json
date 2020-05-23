@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "15 Minutes",
-        "   "
-    ],
+    "Title": "15 Minutes",
     "Author": [
-        "\u00a0\u00a0John Hertzfield"
+        "John Hertzfield"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -6038,17 +6037,6 @@
                     "Didascalie": "",
                     "Start": 75490,
                     "End": 75543
-                }
-            ]
-        },
-        {
-            "Character": "A BLURRED VIDEO IMAGE",
-            "Replies": [
-                {
-                    "Reply": "as it's focused - on Eddie - handcuffed and upper body taped to a chair - 20 minutes later - sobered up.  Emil is sitting in front of him.  On the coffee table alongside him are the flowers in a vase.  They've ransacked the place.  Emil has Eddie's watch, his gold shield and his money.  He's smoking one of Eddie's cigars and in Emil's hand...is the diamond engagement ring and card.  Oleg, 60 MINUTES-style, is positioned behind Emil videotaping Eddie.  He moves to the corner of the room - bringing a light back over to illuminate Eddie's face.",
-                    "Didascalie": "",
-                    "Start": 88906,
-                    "End": 89463
                 }
             ]
         },

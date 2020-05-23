@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "17 Again",
-        "   "
-    ],
+    "Title": "17 Again",
     "Author": [
-        "\u00a0\u00a0Jason Filardi"
+        "Jason Filardi"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4878,6 +4877,17 @@
                     "Didascalie": "",
                     "Start": 165148,
                     "End": 165183
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "I think he got some on me!",
+                    "Didascalie": "",
+                    "Start": 99952,
+                    "End": 99979
                 }
             ]
         },

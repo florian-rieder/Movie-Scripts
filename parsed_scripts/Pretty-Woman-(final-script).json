@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Pretty Woman (final script)",
-        "   "
-    ],
+    "Title": "Pretty Woman (final script)",
     "Author": [
-        "\u00a0\u00a0Jonathan Frederick Lawton"
+        "Jonathan Frederick Lawton"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -8685,17 +8683,6 @@
             ]
         },
         {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "Medium shot on Vivian, standing near the elevator, and nervously pressing on the elevator call button.",
-                    "Didascalie": "",
-                    "Start": 284981,
-                    "End": 285094
-                }
-            ]
-        },
-        {
             "Character": "USHER",
             "Replies": [
                 {
@@ -8767,17 +8754,6 @@
                     "Didascalie": "",
                     "Start": 315209,
                     "End": 315230
-                }
-            ]
-        },
-        {
-            "Character": "A CUSTOMER",
-            "Replies": [
-                {
-                    "Reply": "Hey, Viv, you looking good, man. What'd you win, the lottery or what ?",
-                    "Didascalie": "",
-                    "Start": 323797,
-                    "End": 323879
                 }
             ]
         },

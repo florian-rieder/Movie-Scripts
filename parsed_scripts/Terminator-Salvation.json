@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Terminator Salvation",
-        "   "
-    ],
+    "Title": "Terminator Salvation",
     "Author": [
-        "\u00a0\u00a0John Brancato\u00a0\u00a0Michael Ferris"
+        "John Brancato",
+        "Michael Ferris"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "Battle: Los Angeles",
-        "   "
-    ],
+    "Title": "Battle: Los Angeles",
     "Author": [
-        "\u00a0\u00a0Chris Bertolini"
+        "Chris Bertolini"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Sci-Fi"
     ],
     "Characters": [
-        {
-            "Character": "FIVE MARINES",
-            "Replies": [
-                {
-                    "Reply": "Camo uniforms, NIGHT VISION GOGGLES on, stare into the DARK.",
-                    "Didascalie": "",
-                    "Start": 3793,
-                    "End": 3854
-                }
-            ]
-        },
         {
             "Character": "ADUKWU",
             "Replies": [
@@ -291,17 +278,6 @@
                     "Didascalie": "(ON RADIO)",
                     "Start": 61844,
                     "End": 61887
-                }
-            ]
-        },
-        {
-            "Character": "A MEDEVAC HELICOPTER",
-            "Replies": [
-                {
-                    "Reply": "Descending steadily, its thundering rotors whipping the air..",
-                    "Didascalie": "",
-                    "Start": 62305,
-                    "End": 62367
                 }
             ]
         },
@@ -706,17 +682,6 @@
                     "Didascalie": "",
                     "Start": 143782,
                     "End": 143839
-                }
-            ]
-        },
-        {
-            "Character": "A MASSIVE SUBWAY TUNNEL",
-            "Replies": [
-                {
-                    "Reply": "Fifty feet wide, the dim tunnel has been further EXCAVATED.",
-                    "Didascalie": "",
-                    "Start": 159395,
-                    "End": 159455
                 }
             ]
         },

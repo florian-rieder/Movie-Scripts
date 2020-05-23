@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "It's Complicated",
-        "   "
-    ],
+    "Title": "It's Complicated",
     "Author": [
-        "\u00a0\u00a0Nancy Meyers"
+        "Nancy Meyers"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5830,17 +5828,6 @@
                     "Didascalie": "",
                     "Start": 127331,
                     "End": 127342
-                }
-            ]
-        },
-        {
-            "Character": "OMIT",
-            "Replies": [
-                {
-                    "Reply": "81    IN THE BATHROOM                                             81 Jane sits at her dressing table, dressed for the party. She puts on hoop earrings -- likes the way she looks. She opens a drawer to take out a lipstick.",
-                    "Didascalie": "",
-                    "Start": 143906,
-                    "End": 144160
                 }
             ]
         },

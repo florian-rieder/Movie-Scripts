@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Jaws",
-        "   "
-    ],
+    "Title": "Jaws",
     "Author": [
-        "\u00a0\u00a0Peter Benchley\u00a0\u00a0Carl Gottlieb"
+        "Peter Benchley",
+        "Carl Gottlieb"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Adventure",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3388,17 +3388,6 @@
             ]
         },
         {
-            "Character": "A KID",
-            "Replies": [
-                {
-                    "Reply": "Hey, no fair splashing in the eyes!",
-                    "Didascalie": "",
-                    "Start": 48154,
-                    "End": 48190
-                }
-            ]
-        },
-        {
             "Character": "TOURIST",
             "Replies": [
                 {
@@ -4522,6 +4511,17 @@
             ]
         },
         {
+            "Character": "SKIPPER 2",
+            "Replies": [
+                {
+                    "Reply": "You schmuck, you ain't under sail, you're goddam drifting!",
+                    "Didascalie": "",
+                    "Start": 78688,
+                    "End": 78773
+                }
+            ]
+        },
+        {
             "Character": "SAILBOAT SKIPPER",
             "Replies": [
                 {
@@ -4651,17 +4651,6 @@
             ]
         },
         {
-            "Character": "INSERT HIS POINT OF VIEW",
-            "Replies": [
-                {
-                    "Reply": "The light picks its way across the ruined boat. The rail where a cleat once was is broadly scarred down to the raw timber, and the heady cleat has been torn bodily out of the hull, ripped out screws and all.",
-                    "Didascalie": "",
-                    "Start": 121967,
-                    "End": 122223
-                }
-            ]
-        },
-        {
             "Character": "BRODY AND HOOPER",
             "Replies": [
                 {
@@ -4669,17 +4658,6 @@
                     "Didascalie": "",
                     "Start": 123029,
                     "End": 123188
-                }
-            ]
-        },
-        {
-            "Character": "END OF UNDERWATER SEQUENCE",
-            "Replies": [
-                {
-                    "Reply": "THE BOAT, HOOPER EMERGING FROM THE WATER  He is gasping for breath, his whole body vibrating with urgency. The salt water in his lungs combines with the adrenaline in his blood to deprive him of speech.",
-                    "Didascalie": "",
-                    "Start": 126453,
-                    "End": 126703
                 }
             ]
         },

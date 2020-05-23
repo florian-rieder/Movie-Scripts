@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Sweeney Todd: The Demon Barber of Fleet Street",
-        "   "
-    ],
+    "Title": "Sweeney Todd: The Demon Barber of Fleet Street",
     "Author": [
-        "\u00a0\u00a0John Logan"
+        "John Logan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Musical"
+        "Drama",
+        "Horror",
+        "Musical"
     ],
     "Characters": [
         {
@@ -3564,17 +3563,6 @@
                     "Didascalie": "",
                     "Start": 147810,
                     "End": 148009
-                }
-            ]
-        },
-        {
-            "Character": "SUDDENLY REVEALING--",
-            "Replies": [
-                {
-                    "Reply": "The Gentleman!",
-                    "Didascalie": "",
-                    "Start": 175161,
-                    "End": 175176
                 }
             ]
         },

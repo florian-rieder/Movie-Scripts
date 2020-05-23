@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Tinker Tailor Soldier Spy",
-        "   "
-    ],
+    "Title": "Tinker Tailor Soldier Spy",
     "Author": [
-        "\u00a0\u00a0Bridget O'Connor\u00a0\u00a0Peter Straughan"
+        "Bridget O'Connor",
+        "Peter Straughan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

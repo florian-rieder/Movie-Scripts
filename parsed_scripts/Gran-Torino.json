@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Gran Torino",
-        "   "
-    ],
+    "Title": "Gran Torino",
     "Author": [
-        "\u00a0\u00a0Nick Schenk"
+        "Nick Schenk"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -1921,12 +1919,6 @@
                     "End": 125072
                 },
                 {
-                    "Reply": "PAGE 86 Walt and the Barber laugh...",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 125399,
-                    "End": 125458
-                },
-                {
                     "Reply": "If you do this, you're going to follow through, right?",
                     "Didascalie": "",
                     "Start": 125705,
@@ -2581,12 +2573,6 @@
                     "End": 160646
                 },
                 {
-                    "Reply": "PAGE 111 Walt holds out the DOG LEASH to Phong. She looks down at Daisy and back at Walt. She lashes out again in Hmong.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 160765,
-                    "End": 160918
-                },
-                {
                     "Reply": "I need you to watch my dog.",
                     "Didascalie": "",
                     "Start": 160944,
@@ -3053,12 +3039,6 @@
                     "End": 1793
                 },
                 {
-                    "Reply": "PAGE 3 It's inevitable. That's why we stopped doing Thanksgivings; the deal with the boat motor, the broken bird bath, it's always something.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 1833,
-                    "End": 2037
-                },
-                {
                     "Reply": "Why don't you have him move in with you?",
                     "Didascalie": "",
                     "Start": 2233,
@@ -3075,6 +3055,17 @@
                     "Didascalie": "",
                     "Start": 3968,
                     "End": 3985
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 3",
+            "Replies": [
+                {
+                    "Reply": "It's inevitable. That's why we stopped doing Thanksgivings; the deal with the boat motor, the broken bird bath, it's always something.",
+                    "Didascalie": "",
+                    "Start": 1862,
+                    "End": 2037
                 }
             ]
         },
@@ -4664,12 +4655,6 @@
                     "End": 40689
                 },
                 {
-                    "Reply": "PAGE 29 And before anyone can blink, WALT has the muzzle of his big 30-06 M1 Garand Rifle pointing at Smokie's face.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 42586,
-                    "End": 42735
-                },
-                {
                     "Reply": "You, get out. Out of our house!",
                     "Didascalie": "(SUBTITLED)",
                     "Start": 71368,
@@ -4719,6 +4704,17 @@
             ]
         },
         {
+            "Character": "PAGE 12",
+            "Replies": [
+                {
+                    "Reply": "A few blocks away, Tao rides past a snowbank when --",
+                    "Didascalie": "",
+                    "Start": 16052,
+                    "End": 16105
+                }
+            ]
+        },
+        {
             "Character": "HEAD LATINO",
             "Replies": [
                 {
@@ -4750,6 +4746,28 @@
                     "Didascalie": "",
                     "Start": 17098,
                     "End": 17151
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 13",
+            "Replies": [
+                {
+                    "Reply": "Walt looks around with disdain at his neighbors' houses.",
+                    "Didascalie": "",
+                    "Start": 17632,
+                    "End": 17689
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 15",
+            "Replies": [
+                {
+                    "Reply": "Walt shuts the front door in Father Janovich's face.",
+                    "Didascalie": "",
+                    "Start": 20924,
+                    "End": 20977
                 }
             ]
         },
@@ -5159,6 +5177,17 @@
             ]
         },
         {
+            "Character": "PAGE 17",
+            "Replies": [
+                {
+                    "Reply": "Tao looks at the sub-machine gun cradled by the Hmong gangbanger in the back seat.",
+                    "Didascalie": "",
+                    "Start": 24253,
+                    "End": 24346
+                }
+            ]
+        },
+        {
             "Character": "SUE",
             "Replies": [
                 {
@@ -5510,12 +5539,6 @@
                     "End": 76661
                 },
                 {
-                    "Reply": "PAGE 52 Walt looks at himself.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 77413,
-                    "End": 77466
-                },
-                {
                     "Reply": "Are you okay?",
                     "Didascalie": "",
                     "Start": 77635,
@@ -5792,6 +5815,61 @@
             ]
         },
         {
+            "Character": "PAGE 22",
+            "Replies": [
+                {
+                    "Reply": "Walt waves his hand and cuts him off.",
+                    "Didascalie": "",
+                    "Start": 31424,
+                    "End": 31462
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 26",
+            "Replies": [
+                {
+                    "Reply": "It's stunning. It absolutely sparkles. The chrome shines, the tires look new and the paint is waxed and polished.",
+                    "Didascalie": "",
+                    "Start": 37727,
+                    "End": 37861
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 28",
+            "Replies": [
+                {
+                    "Reply": "I know what you are. Go away and don't come back.",
+                    "Didascalie": "",
+                    "Start": 40824,
+                    "End": 40884
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 29",
+            "Replies": [
+                {
+                    "Reply": "And before anyone can blink, WALT has the muzzle of his big 30-06 M1 Garand Rifle pointing at Smokie's face.",
+                    "Didascalie": "",
+                    "Start": 42616,
+                    "End": 42735
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 30",
+            "Replies": [
+                {
+                    "Reply": "Complete silence, there's no sound anywhere in the neighborhood. All eyes are on Walt.",
+                    "Didascalie": "",
+                    "Start": 44179,
+                    "End": 44276
+                }
+            ]
+        },
+        {
             "Character": "NEXT DOOR",
             "Replies": [
                 {
@@ -6040,6 +6118,72 @@
             ]
         },
         {
+            "Character": "PAGE 38",
+            "Replies": [
+                {
+                    "Reply": "The Tall Black Guy grabs Sue by the arm. Trey moves slightly towards Sue and is pushed down into a pile of garbage.",
+                    "Didascalie": "",
+                    "Start": 56368,
+                    "End": 56504
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 41",
+            "Replies": [
+                {
+                    "Reply": "Hmong people come from different parts of Laos and Thailand and China.",
+                    "Didascalie": "",
+                    "Start": 60896,
+                    "End": 60987
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 43",
+            "Replies": [
+                {
+                    "Reply": "Three teenagers walk past and laugh at her spilled groceries. One of them makes a crude gesture behind her back.",
+                    "Didascalie": "",
+                    "Start": 63935,
+                    "End": 64068
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 46",
+            "Replies": [
+                {
+                    "Reply": "Walt looks at a photo in his wallet, his and Dorothy's wedding photo. Walt looks down at Daisy --",
+                    "Didascalie": "",
+                    "Start": 68666,
+                    "End": 68774
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 51",
+            "Replies": [
+                {
+                    "Reply": "You stopped living years and years ago. Kor Khue says you're not at peace.",
+                    "Didascalie": "",
+                    "Start": 75671,
+                    "End": 75766
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 52",
+            "Replies": [
+                {
+                    "Reply": "Walt looks at himself.",
+                    "Didascalie": "",
+                    "Start": 77443,
+                    "End": 77466
+                }
+            ]
+        },
+        {
             "Character": "WA XAM",
             "Replies": [
                 {
@@ -6087,6 +6231,39 @@
             ]
         },
         {
+            "Character": "PAGE 55",
+            "Replies": [
+                {
+                    "Reply": "I drove my aunt to the doctor to straighten out her prescription.",
+                    "Didascalie": "",
+                    "Start": 81789,
+                    "End": 81865
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 60",
+            "Replies": [
+                {
+                    "Reply": "If you're gonna work for me, I have to know what you can do.",
+                    "Didascalie": "",
+                    "Start": 89224,
+                    "End": 89295
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 63",
+            "Replies": [
+                {
+                    "Reply": "A very old Hmong man and his very young GRANDSON walk up Walt's driveway. The Grandson translates for grandpa.",
+                    "Didascalie": "",
+                    "Start": 93685,
+                    "End": 93806
+                }
+            ]
+        },
+        {
             "Character": "GRANDSON",
             "Replies": [
                 {
@@ -6094,6 +6271,17 @@
                     "Didascalie": "",
                     "Start": 93836,
                     "End": 93950
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 64",
+            "Replies": [
+                {
+                    "Reply": "Tao looks disappointed, but says nothing. He nods and starts to walk away. Walt calls after him...",
+                    "Didascalie": "",
+                    "Start": 95363,
+                    "End": 95472
                 }
             ]
         },
@@ -6117,6 +6305,50 @@
                     "Didascalie": "",
                     "Start": 96865,
                     "End": 96937
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 79",
+            "Replies": [
+                {
+                    "Reply": "Hmong boys become almost invisible, they end up banding together and it all goes to hell from there.",
+                    "Didascalie": "",
+                    "Start": 115979,
+                    "End": 116110
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 85",
+            "Replies": [
+                {
+                    "Reply": "Or bitch about your girlfriend or getting your car fixed.",
+                    "Didascalie": "",
+                    "Start": 123664,
+                    "End": 123732
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 86",
+            "Replies": [
+                {
+                    "Reply": "Walt and the Barber laugh...",
+                    "Didascalie": "",
+                    "Start": 125429,
+                    "End": 125458
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 87",
+            "Replies": [
+                {
+                    "Reply": "Walt and Tao walk up to the Superintendent's Office Trailer on a construction job site.",
+                    "Didascalie": "",
+                    "Start": 126731,
+                    "End": 126829
                 }
             ]
         },
@@ -6204,6 +6436,39 @@
             ]
         },
         {
+            "Character": "PAGE 94",
+            "Replies": [
+                {
+                    "Reply": "Walt kicks open the door and grabs Smokie by the collar.",
+                    "Didascalie": "",
+                    "Start": 136317,
+                    "End": 136374
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 100",
+            "Replies": [
+                {
+                    "Reply": "Walt bursts in the door, throws himself in an easy chair and CRIES. He tries to stop and cries harder.",
+                    "Didascalie": "",
+                    "Start": 144813,
+                    "End": 144926
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 102",
+            "Replies": [
+                {
+                    "Reply": "Father Janovich grabs four beers, two for each of them.",
+                    "Didascalie": "",
+                    "Start": 147793,
+                    "End": 147849
+                }
+            ]
+        },
+        {
             "Character": "TAILOR",
             "Replies": [
                 {
@@ -6217,6 +6482,28 @@
                     "Didascalie": "",
                     "Start": 152710,
                     "End": 152720
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 110",
+            "Replies": [
+                {
+                    "Reply": "I've thought about that kid for fifty years. And I promise you, boy, you want no part of it. Me, I've got blood on my hands. I'm soiled. Forgive me for tricking you like a dope. I'll call someone and have them let you out later.",
+                    "Didascalie": "",
+                    "Start": 159167,
+                    "End": 159466
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 111",
+            "Replies": [
+                {
+                    "Reply": "Walt holds out the DOG LEASH to Phong. She looks down at Daisy and back at Walt. She lashes out again in Hmong.",
+                    "Didascalie": "",
+                    "Start": 160796,
+                    "End": 160918
                 }
             ]
         },
@@ -6274,6 +6561,17 @@
                     "Didascalie": "",
                     "Start": 164746,
                     "End": 164847
+                }
+            ]
+        },
+        {
+            "Character": "PAGE 114",
+            "Replies": [
+                {
+                    "Reply": "Walt walks up the sidewalk and stops twenty feet from the duplex.",
+                    "Didascalie": "",
+                    "Start": 165347,
+                    "End": 165423
                 }
             ]
         },

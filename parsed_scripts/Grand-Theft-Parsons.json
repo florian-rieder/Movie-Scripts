@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Grand Theft Parsons",
-        "   "
-    ],
+    "Title": "Grand Theft Parsons",
     "Author": [
-        "\u00a0\u00a0Jeremy Drysdale"
+        "Jeremy Drysdale"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Comedy"
+        "Drama",
+        "Comedy"
     ],
     "Characters": [
         {

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Papadopoulos & Sons",
-        "   "
-    ],
+    "Title": "Papadopoulos & Sons",
     "Author": [
-        "\u00a0\u00a0Marcus Markou"
+        "Marcus Markou"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -18,12 +16,6 @@
                     "Didascalie": "",
                     "Start": 2426,
                     "End": 2541
-                },
-                {
-                    "Reply": "1  5   CONTINUED:                                                 5  We cut to the family seated at a round table. The children look bored. HARRY listens proudly.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 2609,
-                    "End": 2852
                 },
                 {
                     "Reply": "Harry was a grafter, entering the restaurant trade as a young man.",
@@ -2700,12 +2692,6 @@
                     "Didascalie": "",
                     "Start": 121745,
                     "End": 121823
-                },
-                {
-                    "Reply": "61  56   CONTINUED:                                                56  The mobile phone rings. HARRY answers.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 121892,
-                    "End": 122082
                 },
                 {
                     "Reply": "What is it?",

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Men in Black",
-        "   "
-    ],
+    "Title": "Men in Black",
     "Author": [
-        "\u00a0\u00a0Lowell Cunningham\u00a0\u00a0Ed Solomon"
+        "Lowell Cunningham",
+        "Ed Solomon"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {

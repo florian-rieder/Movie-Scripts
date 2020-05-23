@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Silence of the Lambs",
-        "   "
-    ],
+    "Title": "Silence of the Lambs",
     "Author": [
-        "\u00a0\u00a0Thomas Harris\u00a0\u00a0Ted Tally"
+        "Thomas Harris",
+        "Ted Tally"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3142,17 +3143,6 @@
             ]
         },
         {
-            "Character": "A MOVING TARGET",
-            "Replies": [
-                {
-                    "Reply": "The silhouette of a man, approaching along a track. Her shots, tightly grouped, are all finding the center chest. The target stops, quite close to her, still swaying.",
-                    "Didascalie": "",
-                    "Start": 37114,
-                    "End": 37313
-                }
-            ]
-        },
-        {
             "Character": "INTERCUTTING",
             "Replies": [
                 {
@@ -3365,17 +3355,6 @@
             ]
         },
         {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "standing at the open rear door of a brown panel truck. His right forearm is in a cast and sling; he is struggling, unsuccessfully, to hoist an armchair into the truck. Parked nearby, other cars, RVs, a boat on a trailer. A thin, breast-",
-                    "Didascalie": "",
-                    "Start": 67906,
-                    "End": 68191
-                }
-            ]
-        },
-        {
             "Character": "MAN",
             "Replies": [
                 {
@@ -3584,17 +3563,6 @@
                     "Didascalie": "",
                     "Start": 112307,
                     "End": 112582
-                }
-            ]
-        },
-        {
-            "Character": "NEW FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "Catherine's parking lot. Technicians, with instruments, are kneeling by the crushed grocery bag.",
-                    "Didascalie": "",
-                    "Start": 114321,
-                    "End": 114434
                 }
             ]
         },
@@ -4086,17 +4054,6 @@
             ]
         },
         {
-            "Character": "A SQUIRMING LAMB",
-            "Replies": [
-                {
-                    "Reply": "is held down on a table by two ranch hands.",
-                    "Didascalie": "",
-                    "Start": 198136,
-                    "End": 198180
-                }
-            ]
-        },
-        {
             "Character": "FOREMAN",
             "Replies": [
                 {
@@ -4151,17 +4108,6 @@
                     "Didascalie": "",
                     "Start": 209629,
                     "End": 209761
-                }
-            ]
-        },
-        {
-            "Character": "A COP",
-            "Replies": [
-                {
-                    "Reply": "It stopped!",
-                    "Didascalie": "",
-                    "Start": 217234,
-                    "End": 217246
                 }
             ]
         },
@@ -4470,28 +4416,6 @@
                     "Didascalie": "",
                     "Start": 289157,
                     "End": 289359
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL REFRIGERATOR",
-            "Replies": [
-                {
-                    "Reply": "with its thermostat just switching ON.",
-                    "Didascalie": "",
-                    "Start": 293097,
-                    "End": 293136
-                }
-            ]
-        },
-        {
-            "Character": "A CLOSED DOOR",
-            "Replies": [
-                {
-                    "Reply": "Clarice starts to open it, then hesitates. Looking around, she seizes a wooden chair, wedges it under the door know, sealing off this section of the cellar. With her back thus defended, she turns, softly retracing her steps.",
-                    "Didascalie": "",
-                    "Start": 293930,
-                    "End": 294203
                 }
             ]
         },

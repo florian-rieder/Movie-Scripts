@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Code of Silence",
-        "   "
-    ],
+    "Title": "Code of Silence",
     "Author": [
-        "\u00a0\u00a0Michael Butler\u00a0\u00a0Dennis Shryack\u00a0\u00a0Mike Gray\u00a0\u00a0John Mason"
+        "Michael Butler",
+        "Dennis Shryack",
+        "Mike Gray",
+        "John Mason"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama"
+        "Action",
+        "Drama"
     ],
     "Characters": [
         {

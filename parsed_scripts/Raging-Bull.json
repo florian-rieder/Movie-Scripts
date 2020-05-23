@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Raging Bull",
-        "   "
-    ],
+    "Title": "Raging Bull",
     "Author": [
-        "\u00a0\u00a0Paul Schrader\u00a0\u00a0Mardik Martin"
+        "Paul Schrader",
+        "Mardik Martin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4324,17 +4322,6 @@
                     "Didascalie": "",
                     "Start": 85705,
                     "End": 85734
-                }
-            ]
-        },
-        {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "JAKE sits alone in the darkness.",
-                    "Didascalie": "",
-                    "Start": 108596,
-                    "End": 108629
                 }
             ]
         },

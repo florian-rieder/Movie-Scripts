@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "Cell, The",
-        "   "
-    ],
+    "Title": "Cell, The",
     "Author": [
-        "\u00a0\u00a0Mark Protosevich"
+        "Mark Protosevich"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "A SPECK OF DUST",
-            "Replies": [
-                {
-                    "Reply": "Grains of sand dance in the wind.  As we glide over a VAST DESERT, the speck of dust becomes a HORSE AND RIDER. CATHERINE YOUNG straddles the beautiful black animal, her mesmerizing eyes scanning the horizon.  A curious breeze blows across her exquisite face and she drinks it in, as if the wind itself were telling something to her...",
-                    "Didascalie": "",
-                    "Start": 40,
-                    "End": 382
-                }
-            ]
-        },
         {
             "Character": "CATHERINE",
             "Replies": [
@@ -3899,6 +3887,17 @@
                     "Didascalie": "",
                     "Start": 125761,
                     "End": 125832
+                }
+            ]
+        },
+        {
+            "Character": "FBI K-9 AGENT",
+            "Replies": [
+                {
+                    "Reply": "Sure wasn't like that with me.",
+                    "Didascalie": "",
+                    "Start": 81395,
+                    "End": 81426
                 }
             ]
         },

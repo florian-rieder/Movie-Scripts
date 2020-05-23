@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Slumdog Millionaire",
-        "   "
-    ],
+    "Title": "Slumdog Millionaire",
     "Author": [
-        "\u00a0\u00a0Simon Beaufoy\u00a0\u00a0Vikas Swarup"
+        "Simon Beaufoy",
+        "Vikas Swarup"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Crime",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5455,6 +5455,17 @@
                     "Didascalie": "",
                     "Start": 158564,
                     "End": 158693
+                }
+            ]
+        },
+        {
+            "Character": "TRAINEE 2",
+            "Replies": [
+                {
+                    "Reply": "Detective Taggart. Whisky, Sean Connery!",
+                    "Didascalie": "",
+                    "Start": 158802,
+                    "End": 158862
                 }
             ]
         },

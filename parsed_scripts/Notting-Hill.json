@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Notting Hill",
-        "   "
-    ],
+    "Title": "Notting Hill",
     "Author": [
-        "\u00a0\u00a0Richard Curtis"
+        "Richard Curtis"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Comedy",
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5771,6 +5770,56 @@
                     "Didascalie": "",
                     "Start": 108031,
                     "End": 108116
+                }
+            ]
+        },
+        {
+            "Character": "QUESTIONER 1",
+            "Replies": [
+                {
+                    "Reply": "How much longer are you staying in the UK then?",
+                    "Didascalie": "",
+                    "Start": 108696,
+                    "End": 108748
+                },
+                {
+                    "Reply": "Yes -- Anna -- how long are you intending to stay here in Britain?",
+                    "Didascalie": "",
+                    "Start": 111019,
+                    "End": 111090
+                }
+            ]
+        },
+        {
+            "Character": "QUESTIONER  2",
+            "Replies": [
+                {
+                    "Reply": "Is your decision to take a year off anything to do with the rumours about Jeff and his present leading lady?",
+                    "Didascalie": "",
+                    "Start": 109012,
+                    "End": 109129
+                }
+            ]
+        },
+        {
+            "Character": "QUESTIONER 2",
+            "Replies": [
+                {
+                    "Reply": "Do you believe the rumours?",
+                    "Didascalie": "",
+                    "Start": 109189,
+                    "End": 109217
+                }
+            ]
+        },
+        {
+            "Character": "QUESTIONER 3",
+            "Replies": [
+                {
+                    "Reply": "Last time you were here, there were some fairly graphic photographs of you and a young English guy -- so what happened there?",
+                    "Didascalie": "",
+                    "Start": 109530,
+                    "End": 109668
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Defiance",
-        "   "
-    ],
+    "Title": "Defiance",
     "Author": [
-        "\u00a0\u00a0Clayton Frohman\u00a0\u00a0Edward Zwick"
+        "Clayton Frohman",
+        "Edward Zwick"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Thriller\u00a0\u00a0War"
+        "Action",
+        "Drama",
+        "Thriller",
+        "War"
     ],
     "Characters": [
         {
@@ -4936,17 +4937,6 @@
             ]
         },
         {
-            "Character": "A STREAM OF PISS",
-            "Replies": [
-                {
-                    "Reply": "Cascades onto him. He tries to inch his body away...",
-                    "Didascalie": "",
-                    "Start": 44382,
-                    "End": 44435
-                }
-            ]
-        },
-        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -6440,17 +6430,6 @@
             ]
         },
         {
-            "Character": "AND AND",
-            "Replies": [
-                {
-                    "Reply": "109D 109D  109E A STABLE - NIGHT 109E Snow falling outside. Several partisans are singing. Zus is drinking heavily with Viktor; they take pinches of salt with each swallow. Viktor finishes a bottle, tosses it.",
-                    "Didascalie": "",
-                    "Start": 114646,
-                    "End": 114896
-                }
-            ]
-        },
-        {
             "Character": "MOTL LUBCZANSKI",
             "Replies": [
                 {
@@ -6653,17 +6632,6 @@
                     "Didascalie": "",
                     "Start": 175544,
                     "End": 175585
-                }
-            ]
-        },
-        {
-            "Character": "A PANZER TANK",
-            "Replies": [
-                {
-                    "Reply": "emerges onto the banks, less than a quarter-of-mile away.",
-                    "Didascalie": "",
-                    "Start": 184240,
-                    "End": 184298
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "War of the Worlds",
-        "   "
-    ],
+    "Title": "War of the Worlds",
     "Author": [
-        "\u00a0\u00a0Josh Friedman\u00a0\u00a0David Koepp"
+        "Josh Friedman",
+        "David Koepp"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -346,12 +347,6 @@
                     "Didascalie": "",
                     "Start": 22353,
                     "End": 22371
-                },
-                {
-                    "Reply": "The wind is blowing toward the storm.    FRIEND 2  That is weird.",
-                    "Didascalie": "",
-                    "Start": 22520,
-                    "End": 22675
                 },
                 {
                     "Reply": "Rachel, wanna see something cool?",
@@ -1206,28 +1201,10 @@
                     "End": 103168
                 },
                 {
-                    "Reply": "Put down the gun, I'm taking the car.",
-                    "Didascalie": "(shaking the gun nervously)",
-                    "Start": 103271,
-                    "End": 103336
-                },
-                {
                     "Reply": "All I want is my daughter....",
                     "Didascalie": "",
                     "Start": 103406,
                     "End": 103436
-                },
-                {
-                    "Reply": "I'm taking the car.",
-                    "Didascalie": "(surprisingly calm)",
-                    "Start": 103913,
-                    "End": 103934
-                },
-                {
-                    "Reply": "I just want my daughter. Please just let me take my daughter, can I.... All I want is my daughter.   RIOT MAN 3  Yeah. Okay, go ahead, take her, take her, yeah, yeah....",
-                    "Didascalie": "",
-                    "Start": 104030,
-                    "End": 104342
                 },
                 {
                     "Reply": "Robbie!!",
@@ -1288,12 +1265,6 @@
                     "Didascalie": "",
                     "Start": 113749,
                     "End": 113772
-                },
-                {
-                    "Reply": "THERE'S STILL ROOM ON THE BOAT!!! THERE'S ROOM ON THE BOAT!!! THERE'S ROOM ON THE BOAT!!!",
-                    "Didascalie": "",
-                    "Start": 114121,
-                    "End": 114263
                 },
                 {
                     "Reply": "Stay with me! Stay with me Robbie!!!",
@@ -1728,12 +1699,6 @@
                     "End": 163389
                 },
                 {
-                    "Reply": "Now let's keep moving, don't stop do not stop! Keep moving!",
-                    "Didascalie": "",
-                    "Start": 164002,
-                    "End": 164088
-                },
-                {
                     "Reply": "Rachel, I'm not sure.   Seeing another robot, one soldier motions to get into the water tunnel. Other soldiers make signals to get set up for defense if necessary. Everyone gets into the tunnel. A soldier can be heard telling everyone \"calm down and get in the tunnel\".",
                     "Didascalie": "",
                     "Start": 164370,
@@ -1762,12 +1727,6 @@
                     "Didascalie": "",
                     "Start": 165784,
                     "End": 165798
-                },
-                {
-                    "Reply": "I CAN'T HEAR YOU!!!",
-                    "Didascalie": "(motions and says)",
-                    "Start": 165891,
-                    "End": 165912
                 },
                 {
                     "Reply": "NO SHIELDS!!!",
@@ -2990,22 +2949,10 @@
                     "End": 85147
                 },
                 {
-                    "Reply": "STOP!! DO YOU HAVE ROOM??? STOP!!!",
-                    "Didascalie": "",
-                    "Start": 87866,
-                    "End": 87901
-                },
-                {
                     "Reply": "WAIT, STOP!!! LET ME ON!!! LET ME ON!!! GIVE ME A HAND!!!",
                     "Didascalie": "",
                     "Start": 88099,
                     "End": 88183
-                },
-                {
-                    "Reply": "WAIT!!! STOP!!! GIVE ME A HAND!!! YOU HAVE ROOM!!!",
-                    "Didascalie": "",
-                    "Start": 88445,
-                    "End": 88522
                 },
                 {
                     "Reply": "WHAT DO YOU CARE?!?!? YOU NEVER GAVE A SHIT BEFORE!!! YOU NEVER GAVE A SHIT!!!",
@@ -3142,6 +3089,40 @@
             ]
         },
         {
+            "Character": "FRIEND 1",
+            "Replies": [
+                {
+                    "Reply": "You ever see something like that?",
+                    "Didascalie": "",
+                    "Start": 21768,
+                    "End": 21802
+                }
+            ]
+        },
+        {
+            "Character": "FRIEND 2",
+            "Replies": [
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 22445,
+                    "End": 22451
+                },
+                {
+                    "Reply": "That is weird.",
+                    "Didascalie": "",
+                    "Start": 22660,
+                    "End": 22675
+                },
+                {
+                    "Reply": "You believe this Ray? Every single car.",
+                    "Didascalie": "",
+                    "Start": 28703,
+                    "End": 28743
+                }
+            ]
+        },
+        {
             "Character": "MANNY",
             "Replies": [
                 {
@@ -3237,6 +3218,158 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Let us through. Let us through here.",
+                    "Didascalie": "",
+                    "Start": 32746,
+                    "End": 32783
+                },
+                {
+                    "Reply": "I never seen anything like this before. That many strikes of lighting in one spot.",
+                    "Didascalie": "",
+                    "Start": 35071,
+                    "End": 35206
+                },
+                {
+                    "Reply": "There's no subway here.",
+                    "Didascalie": "",
+                    "Start": 36327,
+                    "End": 36351
+                },
+                {
+                    "Reply": "The water main doesn't run through here.",
+                    "Didascalie": "",
+                    "Start": 36720,
+                    "End": 36761
+                }
+            ]
+        },
+        {
+            "Character": "FRIEND 3",
+            "Replies": [
+                {
+                    "Reply": "Hey, what up, Ray?",
+                    "Didascalie": "",
+                    "Start": 32884,
+                    "End": 32903
+                },
+                {
+                    "Reply": "Nope, nothing.",
+                    "Didascalie": "",
+                    "Start": 33573,
+                    "End": 33588
+                },
+                {
+                    "Reply": "Can I say something?",
+                    "Didascalie": "",
+                    "Start": 34321,
+                    "End": 34342
+                },
+                {
+                    "Reply": "The sun does not cause lightning, okay?",
+                    "Didascalie": "",
+                    "Start": 34500,
+                    "End": 34540
+                },
+                {
+                    "Reply": "I know but it just sounds dumb saying that...",
+                    "Didascalie": "",
+                    "Start": 34797,
+                    "End": 34869
+                },
+                {
+                    "Reply": "Yeah, I feel that.",
+                    "Didascalie": "",
+                    "Start": 36140,
+                    "End": 36159
+                }
+            ]
+        },
+        {
+            "Character": "FRIEND 4",
+            "Replies": [
+                {
+                    "Reply": "You see it?",
+                    "Didascalie": "",
+                    "Start": 33357,
+                    "End": 33369
+                },
+                {
+                    "Reply": "Yeah, the sun shoots off blobs of plasma, they turn into solar flare flashes. It's the only thing that can kill all of the electronic stuff.",
+                    "Didascalie": "",
+                    "Start": 34027,
+                    "End": 34246
+                },
+                {
+                    "Reply": "What bro?",
+                    "Didascalie": "",
+                    "Start": 34416,
+                    "End": 34426
+                },
+                {
+                    "Reply": "Bro, I'm just telling you what that guy said he heard.",
+                    "Didascalie": "",
+                    "Start": 34641,
+                    "End": 34722
+                },
+                {
+                    "Reply": "Is it hot?",
+                    "Didascalie": "",
+                    "Start": 35672,
+                    "End": 35683
+                },
+                {
+                    "Reply": "What is it the subway?",
+                    "Didascalie": "",
+                    "Start": 36233,
+                    "End": 36256
+                },
+                {
+                    "Reply": "PATH Train maybe?",
+                    "Didascalie": "",
+                    "Start": 36425,
+                    "End": 36443
+                },
+                {
+                    "Reply": "Oh my god.",
+                    "Didascalie": "",
+                    "Start": 38079,
+                    "End": 38090
+                },
+                {
+                    "Reply": "Ray, no, stay man.",
+                    "Didascalie": "",
+                    "Start": 38230,
+                    "End": 38249
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "What is that?",
+                    "Didascalie": "",
+                    "Start": 35968,
+                    "End": 35982
+                },
+                {
+                    "Reply": "There's nothing else down there.",
+                    "Didascalie": "",
+                    "Start": 36616,
+                    "End": 36649
+                },
+                {
+                    "Reply": "Well, there's something down there and it's moving.",
+                    "Didascalie": "",
+                    "Start": 36859,
+                    "End": 36937
+                }
+            ]
+        },
+        {
             "Character": "NEWS REPORTER",
             "Replies": [
                 {
@@ -3323,6 +3456,23 @@
             ]
         },
         {
+            "Character": "POLICE MAN 3",
+            "Replies": [
+                {
+                    "Reply": "Stop the car!!",
+                    "Didascalie": "",
+                    "Start": 95739,
+                    "End": 95754
+                },
+                {
+                    "Reply": "You could carry 20 people in there! STOP THE CAR!!!",
+                    "Didascalie": "",
+                    "Start": 95986,
+                    "End": 96064
+                }
+            ]
+        },
+        {
             "Character": "RAY AND ROBBIE TOGETHER",
             "Replies": [
                 {
@@ -3336,6 +3486,57 @@
                     "Didascalie": "",
                     "Start": 96259,
                     "End": 96297
+                }
+            ]
+        },
+        {
+            "Character": "RIOT MAN 1",
+            "Replies": [
+                {
+                    "Reply": "You don't need that, Man!",
+                    "Didascalie": "",
+                    "Start": 102001,
+                    "End": 102027
+                }
+            ]
+        },
+        {
+            "Character": "RIOT MAN 2",
+            "Replies": [
+                {
+                    "Reply": "Put the gun down, man. It's not me!",
+                    "Didascalie": "",
+                    "Start": 102246,
+                    "End": 102282
+                }
+            ]
+        },
+        {
+            "Character": "RIOT MAN 3",
+            "Replies": [
+                {
+                    "Reply": "Put down the gun, I'm taking the car.",
+                    "Didascalie": "(shaking the gun nervously)",
+                    "Start": 103271,
+                    "End": 103336
+                },
+                {
+                    "Reply": "PUT DOWN THE GOD DAMN GUN!!!",
+                    "Didascalie": "",
+                    "Start": 103512,
+                    "End": 103541
+                },
+                {
+                    "Reply": "I'm taking the car.",
+                    "Didascalie": "(surprisingly calm)",
+                    "Start": 103913,
+                    "End": 103934
+                },
+                {
+                    "Reply": "Yeah. Okay, go ahead, take her, take her, yeah, yeah....",
+                    "Didascalie": "",
+                    "Start": 104259,
+                    "End": 104342
                 }
             ]
         },
@@ -3637,6 +3838,103 @@
                     "Didascalie": "(continues)",
                     "Start": 152099,
                     "End": 152288
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Pull me! Pull me!!!",
+                    "Didascalie": "",
+                    "Start": 161166,
+                    "End": 161186
+                },
+                {
+                    "Reply": "We got him! Keep pulling! Pull me!",
+                    "Didascalie": "",
+                    "Start": 161434,
+                    "End": 161469
+                },
+                {
+                    "Reply": "EVERYBODY DOWN!!!",
+                    "Didascalie": "",
+                    "Start": 161768,
+                    "End": 161786
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 3",
+            "Replies": [
+                {
+                    "Reply": "I don't know, something's happening to them. Please keep moving.",
+                    "Didascalie": "",
+                    "Start": 163132,
+                    "End": 163223
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 4",
+            "Replies": [
+                {
+                    "Reply": "Go. Go. Just keep moving, sir.   Ray asks another soldier down the road for information.",
+                    "Didascalie": "",
+                    "Start": 163464,
+                    "End": 163569
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 5",
+            "Replies": [
+                {
+                    "Reply": "Now let's keep moving, don't stop do not stop! Keep moving!",
+                    "Didascalie": "",
+                    "Start": 164002,
+                    "End": 164088
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 6",
+            "Replies": [
+                {
+                    "Reply": "I CAN'T HEAR YOU!!!",
+                    "Didascalie": "",
+                    "Start": 165164,
+                    "End": 165184
+                },
+                {
+                    "Reply": "I CAN'T HEAR YOU!!",
+                    "Didascalie": "",
+                    "Start": 165349,
+                    "End": 165368
+                },
+                {
+                    "Reply": "I CAN'T HEAR YOU!!!",
+                    "Didascalie": "(motions and says)",
+                    "Start": 165891,
+                    "End": 165912
+                },
+                {
+                    "Reply": "JAVELIN'S THE KEY! LOAD THE GUSTAV, IT'S GONNA BE A TOUGH KILL!!! LET'S GO!!!",
+                    "Didascalie": "",
+                    "Start": 166173,
+                    "End": 166303
+                },
+                {
+                    "Reply": "LETS GO!!! BRIGN OUT THE JAVELIN!!!",
+                    "Didascalie": "",
+                    "Start": 166631,
+                    "End": 166667
+                },
+                {
+                    "Reply": "IT'S CLEAR!",
+                    "Didascalie": "",
+                    "Start": 167226,
+                    "End": 167238
                 }
             ]
         }

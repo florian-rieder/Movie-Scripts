@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Bourne Supremacy, The",
-        "   "
-    ],
+    "Title": "Bourne Supremacy, The",
     "Author": [
-        "\u00a0\u00a0Tony Gilroy\u00a0\u00a0Brian Helgeland\u00a0\u00a0Robert Ludlum"
+        "Tony Gilroy",
+        "Brian Helgeland",
+        "Robert Ludlum"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Mystery\u00a0\u00a0Thriller\u00a0\u00a0Action\u00a0\u00a0Drama"
+        "Adventure",
+        "Mystery",
+        "Thriller",
+        "Action",
+        "Drama"
     ],
     "Characters": [
         {

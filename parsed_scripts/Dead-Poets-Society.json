@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Dead Poets Society",
-        "   "
-    ],
+    "Title": "Dead Poets Society",
     "Author": [
-        "\u00a0\u00a0Tom Schulman"
+        "Tom Schulman"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2215,12 +2212,6 @@
                     "End": 57391
                 },
                 {
-                    "Reply": "What do you say we start this meeting?  BOY 1 Y-Yeah, just-- I need a light. I just gotta-  BOY 2 Got my earplugs?",
-                    "Didascalie": "",
-                    "Start": 64327,
-                    "End": 64459
-                },
-                {
                     "Reply": "Gentlemen, \"Poetrusic\" by Charles Dalton.",
                     "Didascalie": "",
                     "Start": 64516,
@@ -3010,12 +3001,6 @@
                     "End": 55914
                 },
                 {
-                    "Reply": "Next. Louder!  BOY 2 \"Oh, I live to be the ruler of life, not a slave.\"  Keating walks away and starts up a record player.",
-                    "Didascalie": "",
-                    "Start": 56063,
-                    "End": 56197
-                },
-                {
                     "Reply": "Oh! Boo! Come on, Charlie, let it fill your soul!  Charlie raises his hands over his head.",
                     "Didascalie": "",
                     "Start": 56795,
@@ -3553,6 +3538,34 @@
                     "Didascalie": "",
                     "Start": 27851,
                     "End": 27930
+                }
+            ]
+        },
+        {
+            "Character": "BOY 2",
+            "Replies": [
+                {
+                    "Reply": "\"Oh, I live to be the ruler of life, not a slave.\"  Keating walks away and starts up a record player.",
+                    "Didascalie": "",
+                    "Start": 56091,
+                    "End": 56197
+                },
+                {
+                    "Reply": "Got my earplugs?",
+                    "Didascalie": "",
+                    "Start": 64442,
+                    "End": 64459
+                }
+            ]
+        },
+        {
+            "Character": "BOY 3",
+            "Replies": [
+                {
+                    "Reply": "\"To mount the scaffolds. To advance to the muzzle of guns with perfect nonchalance.\"",
+                    "Didascalie": "",
+                    "Start": 56210,
+                    "End": 56301
                 }
             ]
         },

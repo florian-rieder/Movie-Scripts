@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "TMNT",
-        "   "
-    ],
+    "Title": "TMNT",
     "Author": [
-        "\u00a0\u00a0Kevin Munroe"
+        "Kevin Munroe"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -3946,6 +3948,34 @@
                     "Didascalie": "",
                     "Start": 215577,
                     "End": 215593
+                }
+            ]
+        },
+        {
+            "Character": "ID 1",
+            "Replies": [
+                {
+                    "Reply": "Yo, Case? Wanna be goalie?",
+                    "Didascalie": "",
+                    "Start": 67301,
+                    "End": 67328
+                }
+            ]
+        },
+        {
+            "Character": "KID 2",
+            "Replies": [
+                {
+                    "Reply": "Whatever! Let's get it on!",
+                    "Didascalie": "",
+                    "Start": 68010,
+                    "End": 68037
+                },
+                {
+                    "Reply": "Can't Casey stay and play for just five more minutes, Miss O'Neil?",
+                    "Didascalie": "",
+                    "Start": 69280,
+                    "End": 69367
                 }
             ]
         },

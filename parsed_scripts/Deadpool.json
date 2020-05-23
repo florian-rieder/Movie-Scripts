@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Deadpool",
-        "   "
-    ],
+    "Title": "Deadpool",
     "Author": [
-        "\u00a0\u00a0Rhett Reese\u00a0\u00a0Paul Wernick"
+        "Rhett Reese",
+        "Paul Wernick"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Action",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2462,12 +2462,6 @@
                     "End": 37404
                 },
                 {
-                    "Reply": "Wade holsters the pistol and WHIPS out a HUNTING KNIFE. He twirls it adeptly... but instead of holding it to Jeremy's neck... CUTS himself a SLICE of PIZZA.",
-                    "Didascalie": "",
-                    "Start": 37570,
-                    "End": 37737
-                },
-                {
                     "Reply": "What situation isn't improved by pizza?",
                     "Didascalie": "",
                     "Start": 37792,
@@ -4826,6 +4820,28 @@
                     "Didascalie": "",
                     "Start": 149785,
                     "End": 149804
+                }
+            ]
+        },
+        {
+            "Character": "WHISPER 2",
+            "Replies": [
+                {
+                    "Reply": "Oh, my, god, that is so fucking gnarly.",
+                    "Didascalie": "",
+                    "Start": 150164,
+                    "End": 150204
+                }
+            ]
+        },
+        {
+            "Character": "WHISPER 3",
+            "Replies": [
+                {
+                    "Reply": "I just lost my appetite.",
+                    "Didascalie": "",
+                    "Start": 150270,
+                    "End": 150295
                 }
             ]
         },

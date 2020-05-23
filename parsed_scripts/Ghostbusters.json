@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Ghostbusters",
-        "   "
-    ],
+    "Title": "Ghostbusters",
     "Author": [
-        "\u00a0\u00a0Dan Aykroyd\u00a0\u00a0Harold Ramis"
+        "Dan Aykroyd",
+        "Harold Ramis"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Fantasy\u00a0\u00a0Comedy"
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -1257,17 +1257,6 @@
             ]
         },
         {
-            "Character": "END ACT ONE",
-            "Replies": [
-                {
-                    "Reply": "-----------",
-                    "Didascalie": "",
-                    "Start": 21726,
-                    "End": 21738
-                }
-            ]
-        },
-        {
             "Character": "ACT TWO",
             "Replies": [
                 {
@@ -1315,6 +1304,17 @@
                     "Didascalie": "",
                     "Start": 30425,
                     "End": 30464
+                }
+            ]
+        },
+        {
+            "Character": "WIDER ON ECTO-2",
+            "Replies": [
+                {
+                    "Reply": "It makes a steep, banking dive and gets the hell out of there, barely escaping the big Werechicken's beak that SNAPS shut on thin air just behind Ecto-2's retreating tail.",
+                    "Didascalie": "",
+                    "Start": 31246,
+                    "End": 31418
                 }
             ]
         },

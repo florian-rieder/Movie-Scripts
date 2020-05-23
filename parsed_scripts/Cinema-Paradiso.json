@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Cinema Paradiso",
-        "   "
-    ],
+    "Title": "Cinema Paradiso",
     "Author": [
-        "\u00a0\u00a0Giuseppe Tornatore"
+        "Giuseppe Tornatore"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

@@ -1,13 +1,1218 @@
 {
-    "Title": [
-        "Mulan",
-        "   "
-    ],
+    "Title": "Mulan",
     "Author": [
-        "\u00a0\u00a0Robert D. San Souci"
+        "Robert D. San Souci"
     ],
     "Genre": [
-        "\u00a0\u00a0Family\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Musical\u00a0\u00a0Adventure"
+        "Family",
+        "Animation",
+        "Comedy",
+        "Musical",
+        "Adventure"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "LAST UPDATED",
+            "Replies": [
+                {
+                    "Reply": "August 18, 1998  Mulan is the property and copyright of the Walt Disney Company, Inc.  The script on this page was compiled while watching Mulan in the theater during the summer of 1998 when the film originally aired.  Abuse of this page could result in its removal from this site.",
+                    "Didascalie": "",
+                    "Start": 88,
+                    "End": 370
+                }
+            ]
+        },
+        {
+            "Character": "GENERAL LI",
+            "Replies": [
+                {
+                    "Reply": "Your Majesty, the Huns have crossed our Northern border.",
+                    "Didascalie": "",
+                    "Start": 1571,
+                    "End": 1628
+                },
+                {
+                    "Reply": "Shun-Yu is leading them.  We'll set up defenses around your palace immediately.",
+                    "Didascalie": "",
+                    "Start": 1747,
+                    "End": 1827
+                },
+                {
+                    "Reply": "Forgive me your Majesty, but I believe my troops can stop him.",
+                    "Didascalie": "",
+                    "Start": 2074,
+                    "End": 2137
+                },
+                {
+                    "Reply": "military lineage.  I believe Li Shang will do an excellent job.",
+                    "Didascalie": "",
+                    "Start": 34091,
+                    "End": 34155
+                }
+            ]
+        },
+        {
+            "Character": "CHI FU",
+            "Replies": [
+                {
+                    "Reply": "Yes, your highness.",
+                    "Didascalie": "",
+                    "Start": 1915,
+                    "End": 1935
+                },
+                {
+                    "Reply": "father's place.",
+                    "Didascalie": "",
+                    "Start": 15607,
+                    "End": 15623
+                },
+                {
+                    "Reply": "The Fa Family.",
+                    "Didascalie": "",
+                    "Start": 15633,
+                    "End": 15648
+                },
+                {
+                    "Reply": "Silence!  You would do well to teach your daughter to hold her tongue in a man's presence.",
+                    "Didascalie": "",
+                    "Start": 16085,
+                    "End": 16176
+                },
+                {
+                    "Reply": "Excellent strategy, Sir.  I do love surprises, Ha ha, ha, ha.",
+                    "Didascalie": "",
+                    "Start": 33608,
+                    "End": 33670
+                },
+                {
+                    "Reply": "Oh, this is an enormous responsibility, General.  Uh, perhaps a soldier with more experience--",
+                    "Didascalie": "",
+                    "Start": 33859,
+                    "End": 33954
+                },
+                {
+                    "Reply": "Most impressive.",
+                    "Didascalie": "",
+                    "Start": 34931,
+                    "End": 34948
+                },
+                {
+                    "Reply": "I didn't know Fa Zhou had a son.",
+                    "Didascalie": "",
+                    "Start": 36785,
+                    "End": 36818
+                },
+                {
+                    "Reply": "I can see why, the boy's an absolute lunatic.",
+                    "Didascalie": "",
+                    "Start": 36979,
+                    "End": 37025
+                },
+                {
+                    "Reply": "That's not funny.",
+                    "Didascalie": "",
+                    "Start": 39551,
+                    "End": 39569
+                },
+                {
+                    "Reply": "see battle.",
+                    "Didascalie": "",
+                    "Start": 51609,
+                    "End": 51621
+                },
+                {
+                    "Reply": "Who are you?",
+                    "Didascalie": "",
+                    "Start": 54414,
+                    "End": 54427
+                },
+                {
+                    "Reply": "I've a girl back home who's unlike any other.",
+                    "Didascalie": "",
+                    "Start": 58135,
+                    "End": 58182
+                },
+                {
+                    "Reply": "'Tis a woman.  She will never be worth anything.",
+                    "Didascalie": "",
+                    "Start": 89234,
+                    "End": 89283
+                },
+                {
+                    "Reply": "Your Excellency?",
+                    "Didascalie": "",
+                    "Start": 90457,
+                    "End": 90474
+                }
+            ]
+        },
+        {
+            "Character": "EMPEROR",
+            "Replies": [
+                {
+                    "Reply": "Deliver conscription notices throughout all the provinces.  Call up reserves and as many new recruits as possible.",
+                    "Didascalie": "",
+                    "Start": 1945,
+                    "End": 2060
+                },
+                {
+                    "Reply": "I wont take any chances, General.  A single grain of rice can tip the scale.  One man may be the difference between victory and defeat.",
+                    "Didascalie": "",
+                    "Start": 2148,
+                    "End": 2284
+                },
+                {
+                    "Reply": "My children, heaven smiles down upon the Middle Kingdom.  China will sleep safely tonight thanks to our brave warriors.",
+                    "Didascalie": "",
+                    "Start": 75856,
+                    "End": 75976
+                },
+                {
+                    "Reply": "I know what this means to you, Captain Li.  Your father would have been very proud.",
+                    "Didascalie": "",
+                    "Start": 76701,
+                    "End": 76785
+                },
+                {
+                    "Reply": "No matter how the wind howls, the mountain cannot bow to it.",
+                    "Didascalie": "",
+                    "Start": 81884,
+                    "End": 81945
+                },
+                {
+                    "Reply": "See to it that this woman is made a member of my council.",
+                    "Didascalie": "",
+                    "Start": 90485,
+                    "End": 90543
+                }
+            ]
+        },
+        {
+            "Character": "MULAN",
+            "Replies": [
+                {
+                    "Reply": "ahhh, there you are.  Who's the smartest doggie in the world?  Come on smart boy, can you help me with my chores today?",
+                    "Didascalie": "",
+                    "Start": 2685,
+                    "End": 2805
+                },
+                {
+                    "Reply": "to--",
+                    "Didascalie": "",
+                    "Start": 5881,
+                    "End": 5886
+                },
+                {
+                    "Reply": "Recite the final admonition.",
+                    "Didascalie": "",
+                    "Start": 10501,
+                    "End": 10530
+                },
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 14891,
+                    "End": 14903
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 15657,
+                    "End": 15661
+                },
+                {
+                    "Reply": "Please sir, my father has already fought bravely--",
+                    "Didascalie": "",
+                    "Start": 16024,
+                    "End": 16075
+                },
+                {
+                    "Reply": "You shouldn't have to go.",
+                    "Didascalie": "",
+                    "Start": 17062,
+                    "End": 17088
+                },
+                {
+                    "Reply": "There are plenty of young men to fight for China.",
+                    "Didascalie": "",
+                    "Start": 17113,
+                    "End": 17163
+                },
+                {
+                    "Reply": "get me into the army.",
+                    "Didascalie": "",
+                    "Start": 27481,
+                    "End": 27503
+                },
+                {
+                    "Reply": "Who are you?",
+                    "Didascalie": "",
+                    "Start": 28333,
+                    "End": 28346
+                },
+                {
+                    "Reply": "Ah, my ancestors sent a little lizard to help me?",
+                    "Didascalie": "",
+                    "Start": 28667,
+                    "End": 28717
+                },
+                {
+                    "Reply": "You're uh...",
+                    "Didascalie": "",
+                    "Start": 28851,
+                    "End": 28864
+                },
+                {
+                    "Reply": "I don't think I can do this.",
+                    "Didascalie": "",
+                    "Start": 31208,
+                    "End": 31237
+                },
+                {
+                    "Reply": "the Tung Shao Pass and stop Shan-Yu before he destroys this village.",
+                    "Didascalie": "",
+                    "Start": 33529,
+                    "End": 33598
+                },
+                {
+                    "Reply": "outdoors.",
+                    "Didascalie": "",
+                    "Start": 35832,
+                    "End": 35842
+                },
+                {
+                    "Reply": "Uhh, I've got a name.  Huh.  And it's a boys name too.",
+                    "Didascalie": "",
+                    "Start": 36011,
+                    "End": 36066
+                },
+                {
+                    "Reply": "Ah Chu.",
+                    "Didascalie": "",
+                    "Start": 36284,
+                    "End": 36292
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 36425,
+                    "End": 36429
+                },
+                {
+                    "Reply": "It's Ping.",
+                    "Didascalie": "",
+                    "Start": 36515,
+                    "End": 36526
+                },
+                {
+                    "Reply": "Yes, my name is Ping.",
+                    "Didascalie": "",
+                    "Start": 36651,
+                    "End": 36673
+                },
+                {
+                    "Reply": "Am I late?",
+                    "Didascalie": "",
+                    "Start": 38098,
+                    "End": 38109
+                },
+                {
+                    "Reply": "Mushu, if you're so worried, go stand watch.",
+                    "Didascalie": "",
+                    "Start": 48234,
+                    "End": 48279
+                },
+                {
+                    "Reply": "Boy, that was close.",
+                    "Didascalie": "",
+                    "Start": 50946,
+                    "End": 50967
+                },
+                {
+                    "Reply": "No, I--",
+                    "Didascalie": "",
+                    "Start": 52532,
+                    "End": 52540
+                },
+                {
+                    "Reply": "I didn't mean for it to go this far.",
+                    "Didascalie": "",
+                    "Start": 70036,
+                    "End": 70073
+                },
+                {
+                    "Reply": "It was the only way.  Please believe me.",
+                    "Didascalie": "",
+                    "Start": 70175,
+                    "End": 70216
+                },
+                {
+                    "Reply": "I have to do something.",
+                    "Didascalie": "",
+                    "Start": 73935,
+                    "End": 73959
+                },
+                {
+                    "Reply": "Are we in this together or not?",
+                    "Didascalie": "",
+                    "Start": 74046,
+                    "End": 74078
+                },
+                {
+                    "Reply": "The Huns are alive, they're in the city.",
+                    "Didascalie": "",
+                    "Start": 74820,
+                    "End": 74861
+                },
+                {
+                    "Reply": "Chien-Po, get the Emperor.",
+                    "Didascalie": "",
+                    "Start": 82729,
+                    "End": 82756
+                },
+                {
+                    "Reply": "Ummmm.",
+                    "Didascalie": "",
+                    "Start": 85087,
+                    "End": 85094
+                },
+                {
+                    "Reply": "Mushu--",
+                    "Didascalie": "",
+                    "Start": 85222,
+                    "End": 85230
+                },
+                {
+                    "Reply": "Khan, let's go home.",
+                    "Didascalie": "",
+                    "Start": 91895,
+                    "End": 91916
+                },
+                {
+                    "Reply": "Family.",
+                    "Didascalie": "",
+                    "Start": 92878,
+                    "End": 92886
+                },
+                {
+                    "Reply": "I've missed you too Baba.",
+                    "Didascalie": "",
+                    "Start": 93183,
+                    "End": 93209
+                },
+                {
+                    "Reply": "Would you like to stay for dinner?",
+                    "Didascalie": "",
+                    "Start": 94059,
+                    "End": 94094
+                }
+            ]
+        },
+        {
+            "Character": "FA ZHOU",
+            "Replies": [
+                {
+                    "Reply": "Please, PLEASE, help her.",
+                    "Didascalie": "",
+                    "Start": 3646,
+                    "End": 3672
+                },
+                {
+                    "Reply": "Mulan--",
+                    "Didascalie": "",
+                    "Start": 4096,
+                    "End": 4104
+                },
+                {
+                    "Reply": "Mulan--",
+                    "Didascalie": "",
+                    "Start": 4234,
+                    "End": 4242
+                },
+                {
+                    "Reply": "Mulan--",
+                    "Didascalie": "",
+                    "Start": 4332,
+                    "End": 4340
+                },
+                {
+                    "Reply": "Mulan, you should already be in town.  We're counting on you to up--",
+                    "Didascalie": "",
+                    "Start": 4381,
+                    "End": 4450
+                },
+                {
+                    "Reply": "The Chang family.  The...",
+                    "Didascalie": "",
+                    "Start": 16538,
+                    "End": 16564
+                },
+                {
+                    "Reply": "It is an honor to protect my country and my family.",
+                    "Didascalie": "",
+                    "Start": 17174,
+                    "End": 17226
+                },
+                {
+                    "Reply": "I know my place, it is time you learned yours.",
+                    "Didascalie": "",
+                    "Start": 17403,
+                    "End": 17450
+                }
+            ]
+        },
+        {
+            "Character": "FA LI",
+            "Replies": [
+                {
+                    "Reply": "Of all days to be late.  I should have prayed to the ancestors for luck.",
+                    "Didascalie": "",
+                    "Start": 4968,
+                    "End": 5041
+                },
+                {
+                    "Reply": "Mulan, stay inside.",
+                    "Didascalie": "",
+                    "Start": 14993,
+                    "End": 15013
+                },
+                {
+                    "Reply": "Mulan!",
+                    "Didascalie": "",
+                    "Start": 17097,
+                    "End": 17104
+                }
+            ]
+        },
+        {
+            "Character": "GRANDMA FA",
+            "Replies": [
+                {
+                    "Reply": "Mulan is gone.",
+                    "Didascalie": "",
+                    "Start": 19192,
+                    "End": 19207
+                },
+                {
+                    "Reply": "Ancestors, hear our prayer: Watch over Mulan.",
+                    "Didascalie": "",
+                    "Start": 19685,
+                    "End": 19731
+                },
+                {
+                    "Reply": "Woo, sign me up for the next war.",
+                    "Didascalie": "",
+                    "Start": 93617,
+                    "End": 93651
+                }
+            ]
+        },
+        {
+            "Character": "BATH LADY",
+            "Replies": [
+                {
+                    "Reply": "This is what you give me to work with?",
+                    "Didascalie": "",
+                    "Start": 6104,
+                    "End": 6144
+                }
+            ]
+        },
+        {
+            "Character": "ALL THREE",
+            "Replies": [
+                {
+                    "Reply": "Mmm...",
+                    "Didascalie": "",
+                    "Start": 56623,
+                    "End": 56630
+                }
+            ]
+        },
+        {
+            "Character": "CHORUS",
+            "Replies": [
+                {
+                    "Reply": "When we're through you can't fail Like a lotus blossom soft and pale How could any fellow say \"No sale\"",
+                    "Didascalie": "",
+                    "Start": 8313,
+                    "End": 8420
+                }
+            ]
+        },
+        {
+            "Character": "MATCHMAKER",
+            "Replies": [
+                {
+                    "Reply": "Speaking without permission.",
+                    "Didascalie": "",
+                    "Start": 10071,
+                    "End": 10100
+                },
+                {
+                    "Reply": "Well...",
+                    "Didascalie": "",
+                    "Start": 10651,
+                    "End": 10659
+                },
+                {
+                    "Reply": "moment.",
+                    "Didascalie": "",
+                    "Start": 11796,
+                    "End": 11804
+                },
+                {
+                    "Reply": "bride, but you will never bring your family honor!",
+                    "Didascalie": "",
+                    "Start": 12847,
+                    "End": 12898
+                }
+            ]
+        },
+        {
+            "Character": "MUSHU",
+            "Replies": [
+                {
+                    "Reply": "Hey, let me say something. Anybody who is foolish enough to threaten our family, vengeance will be MINE.  Hrrrrr.",
+                    "Didascalie": "",
+                    "Start": 20250,
+                    "End": 20364
+                },
+                {
+                    "Reply": "I...ring the gong.",
+                    "Didascalie": "",
+                    "Start": 20653,
+                    "End": 20672
+                },
+                {
+                    "Reply": "people look alive, lets go! C'mon get up.  Let's move it, rise and shine. You're way past the beauty sleep thing now trust me!",
+                    "Didascalie": "",
+                    "Start": 20810,
+                    "End": 20938
+                },
+                {
+                    "Reply": "And your point is?",
+                    "Didascalie": "",
+                    "Start": 22737,
+                    "End": 22756
+                },
+                {
+                    "Reply": "What?  But I'm a real dragon.",
+                    "Didascalie": "",
+                    "Start": 22848,
+                    "End": 22878
+                },
+                {
+                    "Reply": "all 'cause miss man decides to take her little drag show on the road.",
+                    "Didascalie": "",
+                    "Start": 24886,
+                    "End": 24956
+                },
+                {
+                    "Reply": "You're lucky?  Ho, ho, heh.  Do I look like a sucker to you?",
+                    "Didascalie": "",
+                    "Start": 25539,
+                    "End": 25600
+                },
+                {
+                    "Reply": "Whach' you mean loser?  How 'bout I pop one of your antenna's off and throw it across the yard.  Then who's a loser, me or you?",
+                    "Didascalie": "",
+                    "Start": 25634,
+                    "End": 25762
+                },
+                {
+                    "Reply": "That's close enough.",
+                    "Didascalie": "",
+                    "Start": 27810,
+                    "End": 27831
+                },
+                {
+                    "Reply": "Intimidating?  Awe inspiring?",
+                    "Didascalie": "",
+                    "Start": 28873,
+                    "End": 28903
+                },
+                {
+                    "Reply": "isn't it?",
+                    "Didascalie": "",
+                    "Start": 30632,
+                    "End": 30642
+                },
+                {
+                    "Reply": "No, they're men.  And you're going to have to act just like them, so pay attention.",
+                    "Didascalie": "",
+                    "Start": 30730,
+                    "End": 30814
+                },
+                {
+                    "Reply": "Good, Now slap him on the behind, they like that.",
+                    "Didascalie": "",
+                    "Start": 31641,
+                    "End": 31691
+                },
+                {
+                    "Reply": "Try, uh, ahh, Chu!",
+                    "Didascalie": "",
+                    "Start": 36256,
+                    "End": 36275
+                },
+                {
+                    "Reply": "Gesundheit.  He He, I kill myself.",
+                    "Didascalie": "",
+                    "Start": 36318,
+                    "End": 36353
+                },
+                {
+                    "Reply": "Ping! Ping was my best friend growing up!",
+                    "Didascalie": "",
+                    "Start": 36464,
+                    "End": 36506
+                },
+                {
+                    "Reply": "Hey, oh, ah, no, this is not a good idea.  What if somebody sees you?",
+                    "Didascalie": "",
+                    "Start": 47612,
+                    "End": 47682
+                },
+                {
+                    "Reply": "Hey, don't look at me.  I ain't biting any more butts.",
+                    "Didascalie": "",
+                    "Start": 51152,
+                    "End": 51207
+                },
+                {
+                    "Reply": "seen a 'black and white' before?",
+                    "Didascalie": "",
+                    "Start": 54371,
+                    "End": 54404
+                },
+                {
+                    "Reply": "at the front.",
+                    "Didascalie": "",
+                    "Start": 55084,
+                    "End": 55098
+                },
+                {
+                    "Reply": "Oh sure, save the horse.",
+                    "Didascalie": "",
+                    "Start": 61884,
+                    "End": 61909
+                },
+                {
+                    "Reply": "Did you see those Huns!?  They popped out of the snow, like daisies!",
+                    "Didascalie": "",
+                    "Start": 73968,
+                    "End": 74037
+                },
+                {
+                    "Reply": "Now where are you going?",
+                    "Didascalie": "",
+                    "Start": 75457,
+                    "End": 75482
+                },
+                {
+                    "Reply": "Huh?  Oh, I'm sorry, did you say something?",
+                    "Didascalie": "",
+                    "Start": 76408,
+                    "End": 76452
+                },
+                {
+                    "Reply": "Hey, you're a girl again, remember?",
+                    "Didascalie": "",
+                    "Start": 76491,
+                    "End": 76527
+                },
+                {
+                    "Reply": "So what's the plan?",
+                    "Didascalie": "",
+                    "Start": 85058,
+                    "End": 85078
+                },
+                {
+                    "Reply": "You don't have a plan?!",
+                    "Didascalie": "",
+                    "Start": 85103,
+                    "End": 85127
+                },
+                {
+                    "Reply": "Citizens, I need firepower.",
+                    "Didascalie": "",
+                    "Start": 86055,
+                    "End": 86083
+                },
+                {
+                    "Reply": "Take it Cri-Kee.",
+                    "Didascalie": "",
+                    "Start": 94788,
+                    "End": 94805
+                }
+            ]
+        },
+        {
+            "Character": "FIRST ANCESTOR",
+            "Replies": [
+                {
+                    "Reply": "That's right, now, wake up the ancestors.",
+                    "Didascalie": "",
+                    "Start": 20690,
+                    "End": 20732
+                },
+                {
+                    "Reply": "hot huh.  Don't make me have to singe nobody to prove no point.",
+                    "Didascalie": "",
+                    "Start": 22425,
+                    "End": 22489
+                },
+                {
+                    "Reply": "The point is we will be sending a real dragon to retrieve Mulan.",
+                    "Didascalie": "",
+                    "Start": 22774,
+                    "End": 22839
+                },
+                {
+                    "Reply": "Go, The fate of the Fa Family rests in your claws.",
+                    "Didascalie": "",
+                    "Start": 24478,
+                    "End": 24529
+                }
+            ]
+        },
+        {
+            "Character": "ANCESTOR 1",
+            "Replies": [
+                {
+                    "Reply": "I knew it, I knew it. That Mulan was a trouble maker from the start.",
+                    "Didascalie": "",
+                    "Start": 20952,
+                    "End": 21021
+                },
+                {
+                    "Reply": "My children never caused such trouble.  They all became acupuncturists.",
+                    "Didascalie": "",
+                    "Start": 21388,
+                    "End": 21460
+                }
+            ]
+        },
+        {
+            "Character": "ANCESTOR 3",
+            "Replies": [
+                {
+                    "Reply": "Don't look at me, she gets it from your side of the family.",
+                    "Didascalie": "",
+                    "Start": 21035,
+                    "End": 21095
+                },
+                {
+                    "Reply": "Well, We can't all be acupuncturists.",
+                    "Didascalie": "",
+                    "Start": 21474,
+                    "End": 21512
+                }
+            ]
+        },
+        {
+            "Character": "ANCESTOR 2",
+            "Replies": [
+                {
+                    "Reply": "She's just trying to help her father.",
+                    "Didascalie": "",
+                    "Start": 21109,
+                    "End": 21147
+                }
+            ]
+        },
+        {
+            "Character": "ANCESTOR 5",
+            "Replies": [
+                {
+                    "Reply": "Not to mention they'll lose the farm.",
+                    "Didascalie": "",
+                    "Start": 21336,
+                    "End": 21374
+                }
+            ]
+        },
+        {
+            "Character": "ANCESTOR 6",
+            "Replies": [
+                {
+                    "Reply": "No, your great granddaughter had to be cross-dresser!",
+                    "Didascalie": "",
+                    "Start": 21526,
+                    "End": 21580
+                },
+                {
+                    "Reply": "Your mis-guidance led Fa Deng to disaster.",
+                    "Didascalie": "",
+                    "Start": 22615,
+                    "End": 22658
+                }
+            ]
+        },
+        {
+            "Character": "ANCESTOR 7",
+            "Replies": [
+                {
+                    "Reply": "the most cunning.",
+                    "Didascalie": "",
+                    "Start": 21760,
+                    "End": 21778
+                }
+            ]
+        },
+        {
+            "Character": "CRI-KEE",
+            "Replies": [
+                {
+                    "Reply": "Chirp, Chirp.",
+                    "Didascalie": "",
+                    "Start": 24997,
+                    "End": 25011
+                },
+                {
+                    "Reply": "Chirp. Chirp.",
+                    "Didascalie": "",
+                    "Start": 25611,
+                    "End": 25625
+                }
+            ]
+        },
+        {
+            "Character": "HUN LONG-HAIR GUY",
+            "Replies": [
+                {
+                    "Reply": "message.",
+                    "Didascalie": "",
+                    "Start": 26880,
+                    "End": 26889
+                }
+            ]
+        },
+        {
+            "Character": "CHIEN-PO",
+            "Replies": [
+                {
+                    "Reply": "Oh Yao, you made a friend.",
+                    "Didascalie": "",
+                    "Start": 31605,
+                    "End": 31632
+                },
+                {
+                    "Reply": "He thinks he's such a lady-killer!",
+                    "Didascalie": "",
+                    "Start": 58090,
+                    "End": 58126
+                },
+                {
+                    "Reply": "Do you see them?",
+                    "Didascalie": "",
+                    "Start": 66603,
+                    "End": 66620
+                }
+            ]
+        },
+        {
+            "Character": "YAO",
+            "Replies": [
+                {
+                    "Reply": "hard it'll make your ancestors dizzy.",
+                    "Didascalie": "",
+                    "Start": 31804,
+                    "End": 31842
+                },
+                {
+                    "Reply": "Ya Mi Ah To Fu Da.",
+                    "Didascalie": "",
+                    "Start": 31968,
+                    "End": 31987
+                },
+                {
+                    "Reply": "Oh, sorry Ling.  Hey!",
+                    "Didascalie": "",
+                    "Start": 32342,
+                    "End": 32364
+                },
+                {
+                    "Reply": "acts otherwise will answer to me.",
+                    "Didascalie": "",
+                    "Start": 40338,
+                    "End": 40372
+                },
+                {
+                    "Reply": "Ooooo, tough guy.",
+                    "Didascalie": "",
+                    "Start": 40379,
+                    "End": 40397
+                },
+                {
+                    "Reply": "And I am Yao, king of the rock.  And there's nothin' you girls can do about it.",
+                    "Didascalie": "",
+                    "Start": 49968,
+                    "End": 50048
+                }
+            ]
+        },
+        {
+            "Character": "LING",
+            "Replies": [
+                {
+                    "Reply": "C'mon don't be such a g--Ouch!  Something bit me.",
+                    "Didascalie": "",
+                    "Start": 50357,
+                    "End": 50407
+                },
+                {
+                    "Reply": "A girl worth fighting for!",
+                    "Didascalie": "",
+                    "Start": 58642,
+                    "End": 58669
+                },
+                {
+                    "Reply": "Step back guys, give 'em some air.",
+                    "Didascalie": "",
+                    "Start": 68085,
+                    "End": 68120
+                },
+                {
+                    "Reply": "Let's hear it for Ping!  The bravest of us all.",
+                    "Didascalie": "",
+                    "Start": 68290,
+                    "End": 68338
+                }
+            ]
+        },
+        {
+            "Character": "SHANG",
+            "Replies": [
+                {
+                    "Reply": "Captain?",
+                    "Didascalie": "",
+                    "Start": 33840,
+                    "End": 33849
+                },
+                {
+                    "Reply": "What's your name?",
+                    "Didascalie": "",
+                    "Start": 35851,
+                    "End": 35869
+                },
+                {
+                    "Reply": "I didn't ask for his name.  I asked for yours.",
+                    "Didascalie": "",
+                    "Start": 36200,
+                    "End": 36247
+                },
+                {
+                    "Reply": "Ah Chu?",
+                    "Didascalie": "",
+                    "Start": 36301,
+                    "End": 36309
+                },
+                {
+                    "Reply": "Mushu?",
+                    "Didascalie": "",
+                    "Start": 36409,
+                    "End": 36416
+                },
+                {
+                    "Reply": "Then what is it!",
+                    "Didascalie": "",
+                    "Start": 36438,
+                    "End": 36455
+                },
+                {
+                    "Reply": "Ping.",
+                    "Didascalie": "",
+                    "Start": 36535,
+                    "End": 36541
+                },
+                {
+                    "Reply": "We've got a long way to go.",
+                    "Didascalie": "",
+                    "Start": 41443,
+                    "End": 41471
+                },
+                {
+                    "Reply": "Let's get down to business--",
+                    "Didascalie": "",
+                    "Start": 41606,
+                    "End": 41635
+                },
+                {
+                    "Reply": "Somehow I'll make a man out of you!",
+                    "Didascalie": "",
+                    "Start": 43204,
+                    "End": 43240
+                },
+                {
+                    "Reply": "They completed their training.",
+                    "Didascalie": "",
+                    "Start": 51438,
+                    "End": 51469
+                },
+                {
+                    "Reply": "I don't understand.  My father should have been here.",
+                    "Didascalie": "",
+                    "Start": 59210,
+                    "End": 59264
+                },
+                {
+                    "Reply": "The Huns are moving quickly.  We'll make better time to the Imperial City through the Tung Shao Pass.  We're the only hope for the Emperor now.  Move out!",
+                    "Didascalie": "",
+                    "Start": 60184,
+                    "End": 60339
+                },
+                {
+                    "Reply": "Save the cannons!",
+                    "Didascalie": "",
+                    "Start": 61348,
+                    "End": 61366
+                },
+                {
+                    "Reply": "Fire!",
+                    "Didascalie": "",
+                    "Start": 62172,
+                    "End": 62178
+                },
+                {
+                    "Reply": "Fire!",
+                    "Didascalie": "",
+                    "Start": 62311,
+                    "End": 62317
+                },
+                {
+                    "Reply": "to fight.  If we die, we die with honor.",
+                    "Didascalie": "",
+                    "Start": 62620,
+                    "End": 62661
+                },
+                {
+                    "Reply": "Yao, aim the cannon at Shan-Yu.",
+                    "Didascalie": "",
+                    "Start": 62847,
+                    "End": 62879
+                },
+                {
+                    "Reply": "Ping, come back.  Ping!",
+                    "Didascalie": "",
+                    "Start": 63160,
+                    "End": 63184
+                },
+                {
+                    "Reply": "Ping, hold on.  Hold on.",
+                    "Didascalie": "",
+                    "Start": 68790,
+                    "End": 68815
+                },
+                {
+                    "Reply": "You don't belong here Mulan, go home.",
+                    "Didascalie": "",
+                    "Start": 74870,
+                    "End": 74908
+                },
+                {
+                    "Reply": "Why should I?",
+                    "Didascalie": "",
+                    "Start": 75040,
+                    "End": 75054
+                },
+                {
+                    "Reply": "Your Majesty, I can explain.",
+                    "Didascalie": "",
+                    "Start": 89413,
+                    "End": 89442
+                }
+            ]
+        },
+        {
+            "Character": "SHANG AND CHORUS",
+            "Replies": [
+                {
+                    "Reply": "You're unsuited for the rage of war So pack up, go home, you're through How could I make a man out of you?",
+                    "Didascalie": "",
+                    "Start": 45022,
+                    "End": 45131
+                }
+            ]
+        },
+        {
+            "Character": "SHAN-YU",
+            "Replies": [
+                {
+                    "Reply": "This doll came from a village in the Tung Shao Pass, where the Imperial Army's waiting for us.",
+                    "Didascalie": "",
+                    "Start": 47224,
+                    "End": 47319
+                },
+                {
+                    "Reply": "It looks like you're out of ideas.",
+                    "Didascalie": "",
+                    "Start": 86729,
+                    "End": 86764
+                }
+            ]
+        },
+        {
+            "Character": "HUN ARCHER",
+            "Replies": [
+                {
+                    "Reply": "We can avoid them easily.",
+                    "Didascalie": "",
+                    "Start": 47333,
+                    "End": 47359
+                },
+                {
+                    "Reply": "Who's there?",
+                    "Didascalie": "",
+                    "Start": 79904,
+                    "End": 79917
+                }
+            ]
+        },
+        {
+            "Character": "ARMY CHORUS",
+            "Replies": [
+                {
+                    "Reply": "A girl worth fighting for!",
+                    "Didascalie": "",
+                    "Start": 58510,
+                    "End": 58537
+                }
+            ]
+        },
+        {
+            "Character": "HUN SOLDIER",
+            "Replies": [
+                {
+                    "Reply": "Arrrrr.",
+                    "Didascalie": "",
+                    "Start": 65972,
+                    "End": 65980
+                }
+            ]
+        },
+        {
+            "Character": "PARADE LEADER",
+            "Replies": [
+                {
+                    "Reply": "Make way for the heros of China.",
+                    "Didascalie": "",
+                    "Start": 74529,
+                    "End": 74562
+                }
+            ]
+        },
+        {
+            "Character": "BARRY COOK",
+            "Replies": [
+                {
+                    "Reply": "Who are you?",
+                    "Didascalie": "",
+                    "Start": 86097,
+                    "End": 86110
+                }
+            ]
+        }
+    ]
 }

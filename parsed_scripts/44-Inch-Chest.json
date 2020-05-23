@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "44 Inch Chest",
-        "   "
-    ],
+    "Title": "44 Inch Chest",
     "Author": [
-        "\u00a0\u00a0Louis Mellis\u00a0\u00a0David Scinto"
+        "Louis Mellis",
+        "David Scinto"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3899,12 +3898,6 @@
                     "Didascalie": "",
                     "Start": 52488,
                     "End": 52527
-                },
-                {
-                    "Reply": "Y'UP FOR IT?????? -- BOYS NIGHT OUT??????????????!!!!!!!!!!",
-                    "Didascalie": "",
-                    "Start": 53310,
-                    "End": 53388
                 },
                 {
                     "Reply": "I like a li ne th e siz e of a fuc kin' toblerone!! ...",

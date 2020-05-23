@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Light Sleeper",
-        "   "
-    ],
+    "Title": "Light Sleeper",
     "Author": [
-        "\u00a0\u00a0Paul Schrader"
+        "Paul Schrader"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -5292,17 +5289,6 @@
                     "Didascalie": "(out of shot)",
                     "Start": 126459,
                     "End": 126494
-                }
-            ]
-        },
-        {
-            "Character": "A LITTLE SLEEP",
-            "Replies": [
-                {
-                    "Reply": "Noon. LETOUR enters a West Village apartment building.",
-                    "Didascalie": "",
-                    "Start": 128727,
-                    "End": 128782
                 }
             ]
         },

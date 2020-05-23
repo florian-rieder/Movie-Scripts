@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Time Machine, The",
-        "   "
-    ],
+    "Title": "Time Machine, The",
     "Author": [
-        "\u00a0\u00a0John Logan"
+        "John Logan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {

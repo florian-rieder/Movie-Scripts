@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Bad Lieutenant",
-        "   "
-    ],
+    "Title": "Bad Lieutenant",
     "Author": [
-        "\u00a0\u00a0Abel Ferrara\u00a0\u00a0Zoe Lund"
+        "Abel Ferrara",
+        "Zoe Lund"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -1733,6 +1732,17 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Can't you tell us anything? Sisters? Anything at all?",
+                    "Didascalie": "",
+                    "Start": 61134,
+                    "End": 61214
+                }
+            ]
+        },
+        {
             "Character": "ELDERLY NUN",
             "Replies": [
                 {
@@ -1746,6 +1756,17 @@
                     "Didascalie": "",
                     "Start": 62021,
                     "End": 62106
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "What about you, Sister? Won't you tell us anything?",
+                    "Didascalie": "",
+                    "Start": 62357,
+                    "End": 62435
                 }
             ]
         },

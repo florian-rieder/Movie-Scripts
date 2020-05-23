@@ -1,26 +1,12 @@
 {
-    "Title": [
-        "Gods and Monsters",
-        "   "
-    ],
+    "Title": "Gods and Monsters",
     "Author": [
-        "\u00a0\u00a0Bill Condon"
+        "Bill Condon"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "SHOOTING DRAFT",
-            "Replies": [
-                {
-                    "Reply": "NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS AND SOME \"SCENE OMITTED\" SLUGS. THEY HAVE BEEN REMOVED FOR THIS SOFT COPY.",
-                    "Didascalie": "",
-                    "Start": 469,
-                    "End": 613
-                }
-            ]
-        },
         {
             "Character": "MAIN TITLES BEGIN",
             "Replies": [
@@ -5379,17 +5365,6 @@
                     "Didascalie": "",
                     "Start": 165961,
                     "End": 165997
-                }
-            ]
-        },
-        {
-            "Character": "A FIST",
-            "Replies": [
-                {
-                    "Reply": "which smashes against sheet metal.",
-                    "Didascalie": "",
-                    "Start": 33829,
-                    "End": 33864
                 }
             ]
         },

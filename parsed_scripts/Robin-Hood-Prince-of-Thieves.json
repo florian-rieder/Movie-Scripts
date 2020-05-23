@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Robin Hood: Prince of Thieves",
-        "   "
-    ],
+    "Title": "Robin Hood: Prince of Thieves",
     "Author": [
-        "\u00a0\u00a0Pen Densham\u00a0\u00a0John Watson"
+        "Pen Densham",
+        "John Watson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Action",
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {

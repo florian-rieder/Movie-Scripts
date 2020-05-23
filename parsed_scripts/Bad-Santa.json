@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Bad Santa",
-        "   "
-    ],
+    "Title": "Bad Santa",
     "Author": [
-        "\u00a0\u00a0Glenn Ficarra\u00a0\u00a0John Requa"
+        "Glenn Ficarra",
+        "John Requa"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {

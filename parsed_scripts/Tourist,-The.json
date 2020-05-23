@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Tourist, The",
-        "   "
-    ],
+    "Title": "Tourist, The",
     "Author": [
-        "\u00a0\u00a0Julian Fellowes"
+        "Julian Fellowes"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3265,17 +3264,6 @@
             ]
         },
         {
-            "Character": "A GONDOLIER",
-            "Replies": [
-                {
-                    "Reply": "Run faster, man!",
-                    "Didascalie": "(in Italian)",
-                    "Start": 64166,
-                    "End": 64200
-                }
-            ]
-        },
-        {
             "Character": "SECONDS",
             "Replies": [
                 {
@@ -3283,17 +3271,6 @@
                     "Didascalie": "",
                     "Start": 64604,
                     "End": 64718
-                }
-            ]
-        },
-        {
-            "Character": "A MOMENTARY BLACKOUT",
-            "Replies": [
-                {
-                    "Reply": "Frank opens his eyes and sees two pairs of black boots that belong to... A PAIR OF CARBINIERI who stand over him.",
-                    "Didascalie": "",
-                    "Start": 66129,
-                    "End": 66249
                 }
             ]
         },

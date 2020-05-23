@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Gladiator",
-        "   "
-    ],
+    "Title": "Gladiator",
     "Author": [
-        "\u00a0\u00a0David Franzoni\u00a0\u00a0John Logan"
+        "David Franzoni",
+        "John Logan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Action"
+        "Drama",
+        "Action"
     ],
     "Characters": [
         {

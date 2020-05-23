@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "Henry's Crime",
-        "   "
-    ],
+    "Title": "Henry's Crime",
     "Author": [
-        "\u00a0\u00a0Sacha Gervasi"
+        "Sacha Gervasi"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "A CAR",
-            "Replies": [
-                {
-                    "Reply": "Approaches. Henry straightens, slides open his window.",
-                    "Didascalie": "",
-                    "Start": 762,
-                    "End": 817
-                }
-            ]
-        },
         {
             "Character": "HENRY",
             "Replies": [
@@ -3183,17 +3170,6 @@
             ]
         },
         {
-            "Character": "A GUN",
-            "Replies": [
-                {
-                    "Reply": "Is pointing at him through the windshield.",
-                    "Didascalie": "",
-                    "Start": 10294,
-                    "End": 10337
-                }
-            ]
-        },
-        {
             "Character": "DETECTIVE",
             "Replies": [
                 {
@@ -5126,17 +5102,6 @@
             ]
         },
         {
-            "Character": "A GIRL",
-            "Replies": [
-                {
-                    "Reply": "Rushes out of the car.",
-                    "Didascalie": "",
-                    "Start": 40397,
-                    "End": 40420
-                }
-            ]
-        },
-        {
             "Character": "JULIE",
             "Replies": [
                 {
@@ -6586,7 +6551,7 @@
             ]
         },
         {
-            "Character": "CHEKHOV",
+            "Character": "OPENS NOVEMBER 23",
             "Replies": [
                 {
                     "Reply": "shaped PHOTO of the various ACTORS starring in it, including JULIE IVANOVA, the girl who ran Henry over, as Madame Ranevsky.",
@@ -7118,17 +7083,6 @@
             ]
         },
         {
-            "Character": "A CHOPSTICK",
-            "Replies": [
-                {
-                    "Reply": "Henry places it between a PLATE and a NAPKIN, linking them together like...a tunnel...",
-                    "Didascalie": "",
-                    "Start": 87265,
-                    "End": 87362
-                }
-            ]
-        },
-        {
             "Character": "GUY",
             "Replies": [
                 {
@@ -7153,23 +7107,6 @@
                     "Didascalie": "",
                     "Start": 150871,
                     "End": 150911
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL HENRY",
-            "Replies": [
-                {
-                    "Reply": "Watching from the back of the theatre in the semi-",
-                    "Didascalie": "",
-                    "Start": 105695,
-                    "End": 105746
-                },
-                {
-                    "Reply": "Walking down a corridor toward a NURSE'S STATION at the far end.",
-                    "Didascalie": "",
-                    "Start": 147500,
-                    "End": 147575
                 }
             ]
         },
@@ -7856,17 +7793,6 @@
             ]
         },
         {
-            "Character": "A STONE FARM HOUSE",
-            "Replies": [
-                {
-                    "Reply": "Frank sits at a table outside in the garden. He pours himself a Pernod. He looks happy as a clam.",
-                    "Didascalie": "",
-                    "Start": 184180,
-                    "End": 184288
-                }
-            ]
-        },
-        {
             "Character": "DAWN",
             "Replies": [
                 {
@@ -7874,17 +7800,6 @@
                     "Didascalie": "",
                     "Start": 184657,
                     "End": 184799
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL HENRY AND JULIE",
-            "Replies": [
-                {
-                    "Reply": "Sitting right below the Hollywood sign now...",
-                    "Didascalie": "",
-                    "Start": 186940,
-                    "End": 186986
                 }
             ]
         },

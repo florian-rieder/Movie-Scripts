@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Citizen Kane",
-        "   "
-    ],
+    "Title": "Citizen Kane",
     "Author": [
-        "\u00a0\u00a0Herman J. Mankiewicz\u00a0\u00a0Orson Welles"
+        "Herman J. Mankiewicz",
+        "Orson Welles"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -29,17 +28,6 @@
                     "Didascalie": "",
                     "Start": 2455,
                     "End": 2635
-                }
-            ]
-        },
-        {
-            "Character": "A DRAWBRIDGE",
-            "Replies": [
-                {
-                    "Reply": "Over a wide moat, now stagnant and choked with weeds.  We move across it and through a huge solid gateway into a formal garden, perhaps thirty yards wide and one hundred yards deep, which extends right up to the very wall of the castle.  The landscaping surrounding it has been sloppy and causal for a long time, but this particular garden has been kept up in perfect shape.  As the camera makes its way through it, towards the lighted window of the castle, there are revealed rare and exotic blooms of all kinds.  The dominating note is one of almost exaggerated tropical lushness, hanging limp and despairing.  Moss, moss, moss.  Ankor Wat, the night the last King died.",
-                    "Didascalie": "",
-                    "Start": 4793,
-                    "End": 5587
                 }
             ]
         },
@@ -406,41 +394,6 @@
                     "Didascalie": "",
                     "Start": 36097,
                     "End": 36108
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "See what Arthur Ellis wrote about him in the American review?",
-                    "Didascalie": "",
-                    "Start": 35939,
-                    "End": 36026
-                },
-                {
-                    "Reply": "One of the biggest.",
-                    "Didascalie": "",
-                    "Start": 39728,
-                    "End": 39748
-                },
-                {
-                    "Reply": "I know people worked for Kane will tell you - not only in the newspaper business - look how he raised salaries.  You don't want to forget -",
-                    "Didascalie": "",
-                    "Start": 40119,
-                    "End": 40334
-                },
-                {
-                    "Reply": "Tough guy, huh?",
-                    "Didascalie": "",
-                    "Start": 41355,
-                    "End": 41371
-                },
-                {
-                    "Reply": "Dies calling for Rosebud!",
-                    "Didascalie": "(derisively)",
-                    "Start": 41414,
-                    "End": 41465
                 }
             ]
         },

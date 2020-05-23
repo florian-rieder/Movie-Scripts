@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Fifth Element, The",
-        "   "
-    ],
+    "Title": "Fifth Element, The",
     "Author": [
-        "\u00a0\u00a0Luc Besson"
+        "Luc Besson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2184,12 +2186,6 @@
                     "End": 73000
                 },
                 {
-                    "Reply": "I found him!",
-                    "Didascalie": "(at the other end of the hall)",
-                    "Start": 73048,
-                    "End": 73066
-                },
-                {
                     "Reply": "Wrong answer.",
                     "Didascalie": "",
                     "Start": 73622,
@@ -2776,12 +2772,6 @@
                     "Didascalie": "",
                     "Start": 130858,
                     "End": 130889
-                },
-                {
-                    "Reply": "Where'd he learn to negotiate like that?",
-                    "Didascalie": "(to another Cop)",
-                    "Start": 130923,
-                    "End": 130969
                 },
                 {
                     "Reply": "Yeah, I know... to save the world... but right now all I want to do is save Leeloo.",
@@ -4924,6 +4914,58 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Put your hands in the yellow circles, please.",
+                    "Didascalie": "",
+                    "Start": 72682,
+                    "End": 72732
+                },
+                {
+                    "Reply": "Sir? Are you a human?",
+                    "Didascalie": "(to COP 2)",
+                    "Start": 72930,
+                    "End": 72957
+                },
+                {
+                    "Reply": "Sir, this is a control.  Please put your hands in the yellow circles.",
+                    "Didascalie": "",
+                    "Start": 73327,
+                    "End": 73401
+                },
+                {
+                    "Reply": "Hey, who are you?",
+                    "Didascalie": "",
+                    "Start": 129699,
+                    "End": 129717
+                },
+                {
+                    "Reply": "Uh... Sure, go ahead.",
+                    "Didascalie": "",
+                    "Start": 130577,
+                    "End": 130599
+                },
+                {
+                    "Reply": "We're sending someone in who's authorized to negotiate.",
+                    "Didascalie": "",
+                    "Start": 130637,
+                    "End": 130697
+                }
+            ]
+        },
+        {
+            "Character": "COP 3",
+            "Replies": [
+                {
+                    "Reply": "I found him!",
+                    "Didascalie": "(at the other end of the hall)",
+                    "Start": 73048,
+                    "End": 73066
+                }
+            ]
+        },
+        {
             "Character": "AKANIT",
             "Replies": [
                 {
@@ -5143,12 +5185,6 @@
                     "Didascalie": "(hugging her)",
                     "Start": 93258,
                     "End": 93326
-                },
-                {
-                    "Reply": "We're going to take off soon, Mr. Rhod!",
-                    "Didascalie": "(resisting somewhat)",
-                    "Start": 93371,
-                    "End": 93416
                 },
                 {
                     "Reply": "Now you're talking!",
@@ -5418,6 +5454,23 @@
                     "Didascalie": "",
                     "Start": 139050,
                     "End": 139077
+                }
+            ]
+        },
+        {
+            "Character": "STEWARDESS 2",
+            "Replies": [
+                {
+                    "Reply": "Mr. Loc Rhod you have to assume your individual position.",
+                    "Didascalie": "",
+                    "Start": 93162,
+                    "End": 93224
+                },
+                {
+                    "Reply": "We're going to take off soon, Mr. Rhod!",
+                    "Didascalie": "(resisting somewhat)",
+                    "Start": 93371,
+                    "End": 93416
                 }
             ]
         },
@@ -5767,6 +5820,17 @@
             ]
         },
         {
+            "Character": "MANGALORE 1",
+            "Replies": [
+                {
+                    "Reply": "Everyone down!",
+                    "Didascalie": "",
+                    "Start": 119779,
+                    "End": 119794
+                }
+            ]
+        },
+        {
             "Character": "DIVA",
             "Replies": [
                 {
@@ -5832,6 +5896,17 @@
             ]
         },
         {
+            "Character": "MANGALORE 2",
+            "Replies": [
+                {
+                    "Reply": "Stay calm and nobody will get hurt!",
+                    "Didascalie": "",
+                    "Start": 124324,
+                    "End": 124360
+                }
+            ]
+        },
+        {
             "Character": "PRINCESS AACHEN",
             "Replies": [
                 {
@@ -5861,6 +5936,17 @@
                     "Didascalie": "",
                     "Start": 128316,
                     "End": 128356
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "Where'd he learn to negotiate like that?",
+                    "Didascalie": "(to another Cop)",
+                    "Start": 130923,
+                    "End": 130969
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Runaway Bride",
-        "   "
-    ],
+    "Title": "Runaway Bride",
     "Author": [
-        "\u00a0\u00a0Josann McGibbon\u00a0\u00a0Sara Parriott"
+        "Josann McGibbon",
+        "Sara Parriott"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5867,17 +5866,6 @@
                     "Didascalie": "",
                     "Start": 136020,
                     "End": 136040
-                }
-            ]
-        },
-        {
-            "Character": "A NEWSPAPER PHOTO",
-            "Replies": [
-                {
-                    "Reply": "Of Ike's stunned face on the cover of the USA Today.  The caption reads: \"Hit and Run:  Runaway Bride Strikes again\".  And we see headlines in other papers.",
-                    "Didascalie": "",
-                    "Start": 147471,
-                    "End": 147632
                 }
             ]
         },

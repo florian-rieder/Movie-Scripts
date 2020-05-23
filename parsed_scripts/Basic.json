@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Basic",
-        "   "
-    ],
+    "Title": "Basic",
     "Author": [
-        "\u00a0\u00a0James Vanderbilt"
+        "James Vanderbilt"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

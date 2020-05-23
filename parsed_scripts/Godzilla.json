@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Godzilla",
-        "   "
-    ],
+    "Title": "Godzilla",
     "Author": [
-        "\u00a0\u00a0Dean Devlin\u00a0\u00a0Roland Emmerich"
+        "Dean Devlin",
+        "Roland Emmerich"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Sci-Fi",
+        "Action",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -129,28 +129,6 @@
                     "Didascalie": "",
                     "Start": 160281,
                     "End": 160287
-                }
-            ]
-        },
-        {
-            "Character": "A TARP",
-            "Replies": [
-                {
-                    "Reply": "is ripped away, revealing a life boat. Two more life boats are revealed behind it as the crew desperately tries to hoist them up and over the side.",
-                    "Didascalie": "",
-                    "Start": 5792,
-                    "End": 5950
-                }
-            ]
-        },
-        {
-            "Character": "A LIFEBOAT",
-            "Replies": [
-                {
-                    "Reply": "Bounces off the deck and slides off the side. Following it is the Cook.",
-                    "Didascalie": "",
-                    "Start": 6553,
-                    "End": 6630
                 }
             ]
         },
@@ -4118,17 +4096,6 @@
             ]
         },
         {
-            "Character": "A FISH",
-            "Replies": [
-                {
-                    "Reply": "Flopping on the ground is a large FISH. As the beam moves farther along we see two, no, three fish ahead.",
-                    "Didascalie": "",
-                    "Start": 78319,
-                    "End": 78430
-                }
-            ]
-        },
-        {
             "Character": "SAND BAG FORTIFICATION",
             "Replies": [
                 {
@@ -4219,17 +4186,6 @@
                     "Didascalie": "",
                     "Start": 88427,
                     "End": 88589
-                }
-            ]
-        },
-        {
-            "Character": "A LARGE TRUCK",
-            "Replies": [
-                {
-                    "Reply": "Tumbling toward him from the power breath. Nick SCRAMBLES to his feet just in time as the rolling Truck SMASHES into the building behind where he just sat.",
-                    "Didascalie": "",
-                    "Start": 89610,
-                    "End": 89776
                 }
             ]
         },
@@ -4482,17 +4438,6 @@
                     "Didascalie": "",
                     "Start": 136066,
                     "End": 136245
-                }
-            ]
-        },
-        {
-            "Character": "A LARGE TRUNK",
-            "Replies": [
-                {
-                    "Reply": "Slams shut. More suitcases and trunks. Widen to reveal...",
-                    "Didascalie": "",
-                    "Start": 123598,
-                    "End": 123661
                 }
             ]
         },

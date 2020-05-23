@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Star Trek II: The Wrath of Khan",
-        "   "
-    ],
+    "Title": "Star Trek II: The Wrath of Khan",
     "Author": [
-        "\u00a0\u00a0Jack B Sowards\u00a0\u00a0Harve Bennett"
+        "Jack B Sowards",
+        "Harve Bennett"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -986,23 +986,6 @@
                     "Didascalie": "",
                     "Start": 99441,
                     "End": 99467
-                }
-            ]
-        },
-        {
-            "Character": "A CADET",
-            "Replies": [
-                {
-                    "Reply": "Shields collapsing, Captain!",
-                    "Didascalie": "",
-                    "Start": 9526,
-                    "End": 9555
-                },
-                {
-                    "Reply": "Captain, we're losing auxiliary power!",
-                    "Didascalie": "(FILTERED)",
-                    "Start": 9661,
-                    "End": 9759
                 }
             ]
         },

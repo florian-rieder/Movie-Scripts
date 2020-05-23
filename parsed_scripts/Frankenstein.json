@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Frankenstein",
-        "   "
-    ],
+    "Title": "Frankenstein",
     "Author": [
-        "\u00a0\u00a0Steph Lady\u00a0\u00a0Frank Darabont"
+        "Steph Lady",
+        "Frank Darabont"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -971,12 +973,6 @@
                     "Didascalie": "",
                     "Start": 96175,
                     "End": 96276
-                },
-                {
-                    "Reply": "No longer pathetic and useless  INT - VICTOR'S GARRET - DAY  The dead man, dissected and wired, jerks bolt upright, flopping and convulsing, eyes opening and closing, mouth gaping open and shut. He falls back limply as Victor shuts the power off, making careful notations in his journal.",
-                    "Didascalie": "",
-                    "Start": 98138,
-                    "End": 98504
                 },
                 {
                     "Reply": "I've been preoccupied.",
@@ -3262,17 +3258,6 @@
                     "Didascalie": "",
                     "Start": 64596,
                     "End": 64678
-                }
-            ]
-        },
-        {
-            "Character": "INSERT OF LETTER",
-            "Replies": [
-                {
-                    "Reply": "The P.S. reads: \"Elizabeth... I am holding our vow precious in my heart.\"",
-                    "Didascalie": "",
-                    "Start": 65411,
-                    "End": 65501
                 }
             ]
         },

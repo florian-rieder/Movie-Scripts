@@ -1,13 +1,3710 @@
 {
-    "Title": [
-        "Mary Poppins",
-        "   "
-    ],
+    "Title": "Mary Poppins",
     "Author": [
-        "\u00a0\u00a0Bill Walsh\u00a0\u00a0Don DaGradi"
+        "Bill Walsh",
+        "Don DaGradi"
     ],
     "Genre": [
-        "\u00a0\u00a0Family\u00a0\u00a0Comedy\u00a0\u00a0Musical\u00a0\u00a0Fantasy\u00a0\u00a0Drama\u00a0\u00a0Animation"
+        "Family",
+        "Comedy",
+        "Musical",
+        "Fantasy",
+        "Drama",
+        "Animation"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "BERT",
+            "Replies": [
+                {
+                    "Reply": "All right, ladies and gents,  Comical poems suitable for the occasion, extemporized and thought up before your very eyes.",
+                    "Didascalie": "",
+                    "Start": 44,
+                    "End": 166
+                },
+                {
+                    "Reply": "Wind's in the east, mist comin' in.",
+                    "Didascalie": "",
+                    "Start": 539,
+                    "End": 575
+                },
+                {
+                    "Reply": "What he's famous for is punctuality. The whole world takes its time from Greenwich. But Greenwich, they say, takes its time from Admiral Boom. What cheer, admiral?",
+                    "Didascalie": "",
+                    "Start": 1421,
+                    "End": 1585
+                },
+                {
+                    "Reply": "Thank you, sir. Keep an eye skinned. Here we are. Number 17 Cherry Tree Lane. Residence of George Banks, Esquire. Hello, hello, hello. The admiral's right. Heavy weather brewin' at number 17, and no mistake.",
+                    "Didascalie": "",
+                    "Start": 1925,
+                    "End": 2133
+                },
+                {
+                    "Reply": "Chim chiminy, chim chiminy chim chim cheroo  I does what I likes and I likes what I do  Hello, art lovers.",
+                    "Didascalie": "",
+                    "Start": 23277,
+                    "End": 23385
+                },
+                {
+                    "Reply": "Well, I've seen 'em here and about. Chasin' a kite last time, weren't it?",
+                    "Didascalie": "",
+                    "Start": 24041,
+                    "End": 24115
+                },
+                {
+                    "Reply": "To the park? Not if I know Mary Poppins. Other nannies take children to the park. When you're with Mary Poppins, suddenly you're in places you've never dreamed of. And quick as you can say \"Bob's your uncle,\" the most unusual things begin to happen.",
+                    "Didascalie": "",
+                    "Start": 24172,
+                    "End": 24422
+                },
+                {
+                    "Reply": "Well mind, it's not my place to say, but what she's probably got in mind, is a jolly holiday somewheres or other. Something along these lines, I shouldn't be surprised. \"Punting on the Thames.\" That's always good if you like an outing. Here we go.",
+                    "Didascalie": "",
+                    "Start": 24512,
+                    "End": 24760
+                },
+                {
+                    "Reply": "Beautiful, ain't it? A typical English countryside, as done by a true and lovin' hand. Though you can't see it, there's a little country fair down that road and uh, over the hill.",
+                    "Didascalie": "",
+                    "Start": 25010,
+                    "End": 25190
+                },
+                {
+                    "Reply": "What? No road? Just wants a bit of somethin' here, and a bit of somethin' there. There. A country road suitable for travel and high adventure.",
+                    "Didascalie": "",
+                    "Start": 25233,
+                    "End": 25376
+                },
+                {
+                    "Reply": "Now's the time, Mary Poppins. No one's lookin'.",
+                    "Didascalie": "",
+                    "Start": 25498,
+                    "End": 25546
+                },
+                {
+                    "Reply": "All right, I'll do it myself.",
+                    "Didascalie": "",
+                    "Start": 25715,
+                    "End": 25745
+                },
+                {
+                    "Reply": "Bit of magic.",
+                    "Didascalie": "",
+                    "Start": 25780,
+                    "End": 25794
+                },
+                {
+                    "Reply": "It's easy. Let's see. You think. You wink. You do a double blink. You close your eyes and jump.",
+                    "Didascalie": "",
+                    "Start": 25831,
+                    "End": 25927
+                },
+                {
+                    "Reply": "Mary Poppins, you look beautiful.",
+                    "Didascalie": "",
+                    "Start": 26152,
+                    "End": 26186
+                },
+                {
+                    "Reply": "Cross my heart you do. Like the day I met ya.",
+                    "Didascalie": "",
+                    "Start": 26236,
+                    "End": 26282
+                },
+                {
+                    "Reply": "So I did. Down the road behind the hill, remember?",
+                    "Didascalie": "",
+                    "Start": 26383,
+                    "End": 26434
+                },
+                {
+                    "Reply": "Tell 'em Bert sent ya.",
+                    "Didascalie": "",
+                    "Start": 26488,
+                    "End": 26511
+                },
+                {
+                    "Reply": "A vanishing breed, that's me.",
+                    "Didascalie": "",
+                    "Start": 27894,
+                    "End": 27924
+                },
+                {
+                    "Reply": "Common knowledge.",
+                    "Didascalie": "",
+                    "Start": 28031,
+                    "End": 28049
+                },
+                {
+                    "Reply": "True.",
+                    "Didascalie": "",
+                    "Start": 28165,
+                    "End": 28171
+                },
+                {
+                    "Reply": "Waiter! Waiter!",
+                    "Didascalie": "",
+                    "Start": 28354,
+                    "End": 28370
+                },
+                {
+                    "Reply": "Right you are.",
+                    "Didascalie": "",
+                    "Start": 28665,
+                    "End": 28680
+                },
+                {
+                    "Reply": "Do you hear that, mate? Do you wanna put up with that? That's the ticket! Come on, my lad. Is that the best you can do?",
+                    "Didascalie": "",
+                    "Start": 29924,
+                    "End": 30044
+                },
+                {
+                    "Reply": "Sorry. Whoa, boy! Whoa! Whoa. Easy, boy. Whoa. Whoa. Just a bit of high spirits, Mary Poppins.",
+                    "Didascalie": "",
+                    "Start": 30186,
+                    "End": 30281
+                },
+                {
+                    "Reply": "Poor lit'l bloke. Let's give him a hand.",
+                    "Didascalie": "",
+                    "Start": 30678,
+                    "End": 30719
+                },
+                {
+                    "Reply": "Da-doo, da-doo! Up you go. Now hang on.",
+                    "Didascalie": "",
+                    "Start": 30776,
+                    "End": 30816
+                },
+                {
+                    "Reply": "Tell 'em what it is.",
+                    "Didascalie": "",
+                    "Start": 32010,
+                    "End": 32031
+                },
+                {
+                    "Reply": "Indubitably.",
+                    "Didascalie": "",
+                    "Start": 33780,
+                    "End": 33793
+                },
+                {
+                    "Reply": "Hear, hear!",
+                    "Didascalie": "",
+                    "Start": 33883,
+                    "End": 33895
+                },
+                {
+                    "Reply": "Well, there's more where they came from. Meantime, I'm changing businesses. This here is lovely hot chestnut weather.",
+                    "Didascalie": "",
+                    "Start": 34446,
+                    "End": 34564
+                },
+                {
+                    "Reply": "Bye-bye.",
+                    "Didascalie": "",
+                    "Start": 34623,
+                    "End": 34632
+                },
+                {
+                    "Reply": "Bye. Bye, Jane and Michael.",
+                    "Didascalie": "",
+                    "Start": 34661,
+                    "End": 34689
+                },
+                {
+                    "Reply": "I came over the moment I heard.",
+                    "Didascalie": "",
+                    "Start": 42096,
+                    "End": 42128
+                },
+                {
+                    "Reply": "I've never seen him as bad as this, and that's the truth.",
+                    "Didascalie": "",
+                    "Start": 42171,
+                    "End": 42229
+                },
+                {
+                    "Reply": "How about them? It's contagious, you know.",
+                    "Didascalie": "",
+                    "Start": 42259,
+                    "End": 42302
+                },
+                {
+                    "Reply": "Yes, whatever you do, keep a straight face. Last time, it took us three days to get him down.",
+                    "Didascalie": "",
+                    "Start": 42947,
+                    "End": 43041
+                },
+                {
+                    "Reply": "Turn up!",
+                    "Didascalie": "",
+                    "Start": 43992,
+                    "End": 44001
+                },
+                {
+                    "Reply": "That's right. Pull up a chair.",
+                    "Didascalie": "",
+                    "Start": 44441,
+                    "End": 44472
+                },
+                {
+                    "Reply": "Speaking of sight, it reminds me of me brother. He's got a nice cushy job in a watch factory.",
+                    "Didascalie": "",
+                    "Start": 44573,
+                    "End": 44667
+                },
+                {
+                    "Reply": "He stands about all day and makes faces!",
+                    "Didascalie": "",
+                    "Start": 44730,
+                    "End": 44771
+                },
+                {
+                    "Reply": "I know.",
+                    "Didascalie": "",
+                    "Start": 44848,
+                    "End": 44856
+                },
+                {
+                    "Reply": "Speaking of names, I know a man with a wooden leg named Smith.",
+                    "Didascalie": "",
+                    "Start": 45016,
+                    "End": 45079
+                },
+                {
+                    "Reply": "I knew she could bring it off. And a proper tea it is, too.",
+                    "Didascalie": "",
+                    "Start": 45587,
+                    "End": 45647
+                },
+                {
+                    "Reply": "Uh, no, no, thank you. No sugar for me.",
+                    "Didascalie": "",
+                    "Start": 45902,
+                    "End": 45942
+                },
+                {
+                    "Reply": "Nice weather we're having this time of year, don't you think?",
+                    "Didascalie": "",
+                    "Start": 46094,
+                    "End": 46156
+                },
+                {
+                    "Reply": "I'll sit with him a while.",
+                    "Didascalie": "",
+                    "Start": 48043,
+                    "End": 48070
+                },
+                {
+                    "Reply": "Uncle Albert, I got a jolly joke I saved for just such an occasion. Would you like to hear it?",
+                    "Didascalie": "",
+                    "Start": 48116,
+                    "End": 48211
+                },
+                {
+                    "Reply": "Righto. Well, it's about me granddad, see? And one night, he had a nightmare, he did. So scared that he chewed his pillow to bits. Yes. To bits.",
+                    "Didascalie": "",
+                    "Start": 48257,
+                    "End": 48402
+                },
+                {
+                    "Reply": "Next morning I says, \"How do you feel, granddad?\"",
+                    "Didascalie": "",
+                    "Start": 48433,
+                    "End": 48483
+                },
+                {
+                    "Reply": "He says, \"Oh, not bad. A little down in the mouth!\"",
+                    "Didascalie": "",
+                    "Start": 48514,
+                    "End": 48566
+                },
+                {
+                    "Reply": "Here, here, half a mo.",
+                    "Didascalie": "",
+                    "Start": 60854,
+                    "End": 60877
+                },
+                {
+                    "Reply": "Easy, now. Your old friend ain't gonna hurt ya.",
+                    "Didascalie": "",
+                    "Start": 60938,
+                    "End": 60986
+                },
+                {
+                    "Reply": "In the flesh, and at your service.",
+                    "Didascalie": "",
+                    "Start": 61020,
+                    "End": 61055
+                },
+                {
+                    "Reply": "Oh, perhaps a smudge or two. It so happens that today I'm a chimney sweep.",
+                    "Didascalie": "",
+                    "Start": 61091,
+                    "End": 61166
+                },
+                {
+                    "Reply": "Now, now, don't take on so. Bert'll take care of you like I was your own father. Now, who's after you?",
+                    "Didascalie": "",
+                    "Start": 61215,
+                    "End": 61318
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 61347,
+                    "End": 61353
+                },
+                {
+                    "Reply": "I don't know what we did, but it must've been something dreadful.",
+                    "Didascalie": "",
+                    "Start": 61405,
+                    "End": 61471
+                },
+                {
+                    "Reply": "Well, now, there must be some mistake. Your dad's a fine gentleman and he loves ya!",
+                    "Didascalie": "",
+                    "Start": 61586,
+                    "End": 61670
+                },
+                {
+                    "Reply": "Well, now that don't seem likely, does it?",
+                    "Didascalie": "",
+                    "Start": 61786,
+                    "End": 61829
+                },
+                {
+                    "Reply": "Let's sit down. You know, begging your pardon, but the one my heart goes out to is your father.",
+                    "Didascalie": "",
+                    "Start": 61858,
+                    "End": 61954
+                },
+                {
+                    "Reply": "They makes cages in all sizes and shapes, you know. Bank-shaped some of 'em, carpets and all.",
+                    "Didascalie": "",
+                    "Start": 62139,
+                    "End": 62233
+                },
+                {
+                    "Reply": "Oh, sure about that, are you? Look at it this way. You've got your mother to look after you. And Mary Poppins, and Constable Jones and me. Who looks after your father? Tell me that. When something terrible happens, what does he do? Fends for himself, he does. Who does he tell about it? No one! Don't blab his troubles at home. He just pushes on at his job, uncomplaining and alone and silent.",
+                    "Didascalie": "",
+                    "Start": 62284,
+                    "End": 62678
+                },
+                {
+                    "Reply": "Well, not my place to say. I only observe that a father can always do with a bit of help. Come on, I'll take you home.",
+                    "Didascalie": "",
+                    "Start": 62798,
+                    "End": 62917
+                },
+                {
+                    "Reply": "Well, I'll be gettin' along now.",
+                    "Didascalie": "",
+                    "Start": 63840,
+                    "End": 63873
+                },
+                {
+                    "Reply": "Oh, they haven't exactly been running away, ma'am. They have had bit of a fright, though. Need someone to look after 'em.",
+                    "Didascalie": "",
+                    "Start": 64159,
+                    "End": 64281
+                },
+                {
+                    "Reply": "Wh-- uh, me, ma'am? W-well, well, I-I-I have to be moving along. The Lord Mayor's got a stopped-up chimney.",
+                    "Didascalie": "",
+                    "Start": 64673,
+                    "End": 64781
+                },
+                {
+                    "Reply": "W-w--",
+                    "Didascalie": "",
+                    "Start": 64919,
+                    "End": 64925
+                },
+                {
+                    "Reply": "But--",
+                    "Didascalie": "",
+                    "Start": 64968,
+                    "End": 64974
+                },
+                {
+                    "Reply": "The Lord Mayor's gonna be terrible put out.",
+                    "Didascalie": "",
+                    "Start": 65033,
+                    "End": 65077
+                },
+                {
+                    "Reply": "There now. You see how wrong people can be? That there is what you might call a doorway to a place of enchantment.",
+                    "Didascalie": "",
+                    "Start": 65421,
+                    "End": 65536
+                },
+                {
+                    "Reply": "Well, that's a bit awkward. I must say!",
+                    "Didascalie": "",
+                    "Start": 66365,
+                    "End": 66405
+                },
+                {
+                    "Reply": "Shall I go after 'em?",
+                    "Didascalie": "",
+                    "Start": 66516,
+                    "End": 66538
+                },
+                {
+                    "Reply": "Here you are! I thought you'd left us.",
+                    "Didascalie": "",
+                    "Start": 66778,
+                    "End": 66817
+                },
+                {
+                    "Reply": "Well, no harm done. The truth is, this is what you might call a fortuitous circumstance. Look there. A trackless jungle just waiting to be explored. Why not, Mary Poppins?",
+                    "Didascalie": "",
+                    "Start": 66854,
+                    "End": 67026
+                },
+                {
+                    "Reply": "It's just good, clean soot, Michael.",
+                    "Didascalie": "",
+                    "Start": 67286,
+                    "End": 67323
+                },
+                {
+                    "Reply": "As far as we go, right?",
+                    "Didascalie": "",
+                    "Start": 67332,
+                    "End": 67356
+                },
+                {
+                    "Reply": "What did I tell ya? There's the whole world at your feet. And who gets to see it, but the birds, the stars and the chimney sweeps?",
+                    "Didascalie": "",
+                    "Start": 67394,
+                    "End": 67525
+                },
+                {
+                    "Reply": "It's all me pals!",
+                    "Didascalie": "",
+                    "Start": 67959,
+                    "End": 67977
+                },
+                {
+                    "Reply": "Life is a rum go, guv'nor, and that's the truth.",
+                    "Didascalie": "",
+                    "Start": 72660,
+                    "End": 72709
+                },
+                {
+                    "Reply": "Mary Poppins?",
+                    "Didascalie": "",
+                    "Start": 72860,
+                    "End": 72874
+                },
+                {
+                    "Reply": "I know the very person you mean. Mary Poppins. She's the one what sings...",
+                    "Didascalie": "",
+                    "Start": 73139,
+                    "End": 73214
+                },
+                {
+                    "Reply": "Indeed!",
+                    "Didascalie": "",
+                    "Start": 73410,
+                    "End": 73418
+                },
+                {
+                    "Reply": "A spoonful of sugar goes a long, long way  Have yourself a healthy helpin' everyday  An healthy helpin' of trouble, if you ask me.",
+                    "Didascalie": "",
+                    "Start": 73489,
+                    "End": 73621
+                },
+                {
+                    "Reply": "Tricked you into taking the children on an outing?",
+                    "Didascalie": "",
+                    "Start": 73781,
+                    "End": 73832
+                },
+                {
+                    "Reply": "Outrageous! A man with all the important things you have to do. Shameful! You're a man of high position. Esteemed by your peers.",
+                    "Didascalie": "",
+                    "Start": 73860,
+                    "End": 73989
+                },
+                {
+                    "Reply": "Like you say, guv'nor.",
+                    "Didascalie": "",
+                    "Start": 74240,
+                    "End": 74263
+                },
+                {
+                    "Reply": "Good-bye, Mary Poppins. Don't stay away too long.",
+                    "Didascalie": "",
+                    "Start": 82896,
+                    "End": 82946
+                }
+            ]
+        },
+        {
+            "Character": "MISS PERSIMMON",
+            "Replies": [
+                {
+                    "Reply": "Yes?",
+                    "Didascalie": "",
+                    "Start": 524,
+                    "End": 529
+                }
+            ]
+        },
+        {
+            "Character": "ADMIRAL BOOM",
+            "Replies": [
+                {
+                    "Reply": "Time gun ready?",
+                    "Didascalie": "",
+                    "Start": 1277,
+                    "End": 1293
+                },
+                {
+                    "Reply": "Three minutes and six seconds.",
+                    "Didascalie": "",
+                    "Start": 1350,
+                    "End": 1381
+                },
+                {
+                    "Reply": "Good afternoon to you, young man. Where are you bound?",
+                    "Didascalie": "",
+                    "Start": 1602,
+                    "End": 1657
+                },
+                {
+                    "Reply": "Enter that in the log.",
+                    "Didascalie": "",
+                    "Start": 1745,
+                    "End": 1768
+                },
+                {
+                    "Reply": "Posts, everyone! Four, three, two, one. Fire!",
+                    "Didascalie": "",
+                    "Start": 6356,
+                    "End": 6402
+                },
+                {
+                    "Reply": "Nonsense. Bang on the dot, as usual. How are things in the world of finance?",
+                    "Didascalie": "",
+                    "Start": 6561,
+                    "End": 6638
+                },
+                {
+                    "Reply": "Good man.",
+                    "Didascalie": "",
+                    "Start": 6788,
+                    "End": 6798
+                },
+                {
+                    "Reply": "Bit chancy, I'd say. The wind's coming up and the glass is falling. - don't like the look of it.",
+                    "Didascalie": "",
+                    "Start": 6870,
+                    "End": 6967
+                },
+                {
+                    "Reply": "Banks, shouldn't wonder if you weren't steering into a nasty piece of weather. Banks! Do you hear me?",
+                    "Didascalie": "",
+                    "Start": 7016,
+                    "End": 7118
+                },
+                {
+                    "Reply": "Time gun ready?",
+                    "Didascalie": "",
+                    "Start": 14764,
+                    "End": 14780
+                },
+                {
+                    "Reply": "I'll take the report, Mr. Binnacle.",
+                    "Didascalie": "",
+                    "Start": 14838,
+                    "End": 14874
+                },
+                {
+                    "Reply": "So it is.",
+                    "Didascalie": "",
+                    "Start": 14977,
+                    "End": 14987
+                },
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 15026,
+                    "End": 15038
+                },
+                {
+                    "Reply": "Ghastly looking crew, I must say!",
+                    "Didascalie": "",
+                    "Start": 15129,
+                    "End": 15163
+                },
+                {
+                    "Reply": "Glorious day, Mr. Binnacle. Glorious! No one sleeps this morning. Put in a double charge of powder.",
+                    "Didascalie": "",
+                    "Start": 36814,
+                    "End": 36914
+                },
+                {
+                    "Reply": "Shake things up a bit, what?",
+                    "Didascalie": "",
+                    "Start": 36980,
+                    "End": 37009
+                },
+                {
+                    "Reply": "Ahoy, there! Ahoy! Good day to you!",
+                    "Didascalie": "",
+                    "Start": 40979,
+                    "End": 41015
+                },
+                {
+                    "Reply": "Michael, what fine adventure are we off upon today? Going to fight the Hottentots? Dig for buried treasure?",
+                    "Didascalie": "",
+                    "Start": 41072,
+                    "End": 41180
+                },
+                {
+                    "Reply": "Very good! Proceed at flank speed.",
+                    "Didascalie": "",
+                    "Start": 41239,
+                    "End": 41274
+                },
+                {
+                    "Reply": "Let's put our backs into it, lad. More spit and polish. That's what's wanted around here.",
+                    "Didascalie": "",
+                    "Start": 41318,
+                    "End": 41408
+                },
+                {
+                    "Reply": "Bit late tonight, aren't you, Banks? I say, Banks! Is anything the matter, Banks? Banks!",
+                    "Didascalie": "",
+                    "Start": 48703,
+                    "End": 48792
+                },
+                {
+                    "Reply": "We're being attacked by Hottentots!",
+                    "Didascalie": "",
+                    "Start": 69757,
+                    "End": 69793
+                },
+                {
+                    "Reply": "Cheeky devils! Give 'em what for! Empty the shot lockers!",
+                    "Didascalie": "",
+                    "Start": 69842,
+                    "End": 69900
+                },
+                {
+                    "Reply": "Move along, Mr. Binnacle. Handsomely now. Teach the beggars a lesson.",
+                    "Didascalie": "",
+                    "Start": 69949,
+                    "End": 70019
+                },
+                {
+                    "Reply": "Stand by. Fire!",
+                    "Didascalie": "",
+                    "Start": 70069,
+                    "End": 70085
+                },
+                {
+                    "Reply": "Wind's come around, blowing dead on from the west!",
+                    "Didascalie": "",
+                    "Start": 78237,
+                    "End": 78288
+                }
+            ]
+        },
+        {
+            "Character": "MR BINNACLE",
+            "Replies": [
+                {
+                    "Reply": "Ready and charged, sir.",
+                    "Didascalie": "",
+                    "Start": 1309,
+                    "End": 1333
+                },
+                {
+                    "Reply": "Aye, aye, sir.",
+                    "Didascalie": "",
+                    "Start": 1397,
+                    "End": 1412
+                },
+                {
+                    "Reply": "Aye, aye, sir.",
+                    "Didascalie": "",
+                    "Start": 1784,
+                    "End": 1799
+                }
+            ]
+        },
+        {
+            "Character": "ELLEN",
+            "Replies": [
+                {
+                    "Reply": "Shut up!",
+                    "Didascalie": "",
+                    "Start": 2175,
+                    "End": 2184
+                },
+                {
+                    "Reply": "But who gets stuck with the children with no nanny in the house? Me, that's who!",
+                    "Didascalie": "",
+                    "Start": 2385,
+                    "End": 2466
+                },
+                {
+                    "Reply": "No, no, Katie Nanna, don't go!",
+                    "Didascalie": "",
+                    "Start": 2723,
+                    "End": 2754
+                },
+                {
+                    "Reply": "But what am I gonna tell the master about the children?",
+                    "Didascalie": "",
+                    "Start": 2816,
+                    "End": 2872
+                },
+                {
+                    "Reply": "They must be somewhere. Did you look around the zoo in the park? You know how Jane and Michael is. Coo! You don't think the lion could've got at them, do ya? You know how fond they was of hangin' around the cage.",
+                    "Didascalie": "",
+                    "Start": 2984,
+                    "End": 3197
+                },
+                {
+                    "Reply": "Now, now, Katie Nanna!",
+                    "Didascalie": "",
+                    "Start": 3379,
+                    "End": 3402
+                },
+                {
+                    "Reply": "Yes, ma'am.",
+                    "Didascalie": "",
+                    "Start": 6180,
+                    "End": 6192
+                },
+                {
+                    "Reply": "Yes, sir. I knew it. When all's said and done, who bears the brunt of everything around here?",
+                    "Didascalie": "",
+                    "Start": 10706,
+                    "End": 10800
+                },
+                {
+                    "Reply": "Coo! There's a fair queue of nannies outside, sir. Shall I show 'em in?",
+                    "Didascalie": "",
+                    "Start": 15173,
+                    "End": 15245
+                },
+                {
+                    "Reply": "Yes, sir.",
+                    "Didascalie": "",
+                    "Start": 15473,
+                    "End": 15483
+                },
+                {
+                    "Reply": "Yes, sir. You may come in one at a time.",
+                    "Didascalie": "",
+                    "Start": 15923,
+                    "End": 15964
+                },
+                {
+                    "Reply": "Oh.",
+                    "Didascalie": "",
+                    "Start": 16002,
+                    "End": 16006
+                },
+                {
+                    "Reply": "Y-yes, sir?",
+                    "Didascalie": "",
+                    "Start": 18745,
+                    "End": 18757
+                },
+                {
+                    "Reply": "The others, sir?",
+                    "Didascalie": "",
+                    "Start": 18850,
+                    "End": 18867
+                },
+                {
+                    "Reply": "The position has been filled.",
+                    "Didascalie": "",
+                    "Start": 18965,
+                    "End": 18995
+                },
+                {
+                    "Reply": "Indeed it is, ma'am.",
+                    "Didascalie": "",
+                    "Start": 37065,
+                    "End": 37086
+                },
+                {
+                    "Reply": "Yes, ma'am.",
+                    "Didascalie": "",
+                    "Start": 37157,
+                    "End": 37169
+                },
+                {
+                    "Reply": "Thanks ever so, ducks.",
+                    "Didascalie": "",
+                    "Start": 37976,
+                    "End": 37999
+                },
+                {
+                    "Reply": "Yes, sir. Quiet! You're giving the master a headache.",
+                    "Didascalie": "",
+                    "Start": 38119,
+                    "End": 38173
+                },
+                {
+                    "Reply": "She's for it now. I've heard the master do this speech before.",
+                    "Didascalie": "",
+                    "Start": 49989,
+                    "End": 50052
+                },
+                {
+                    "Reply": "Yes, ma'am.",
+                    "Didascalie": "",
+                    "Start": 63819,
+                    "End": 63831
+                },
+                {
+                    "Reply": "It's the children, ma'am.",
+                    "Didascalie": "",
+                    "Start": 63984,
+                    "End": 64010
+                },
+                {
+                    "Reply": "No, ma'am. I haven't done me brasses yet.",
+                    "Didascalie": "",
+                    "Start": 64397,
+                    "End": 64439
+                },
+                {
+                    "Reply": "Not for a hundred quid, ma'am. This here is baking day, and you know how cook is!",
+                    "Didascalie": "",
+                    "Start": 64495,
+                    "End": 64577
+                },
+                {
+                    "Reply": "It's the master!",
+                    "Didascalie": "",
+                    "Start": 70643,
+                    "End": 70660
+                },
+                {
+                    "Reply": "Wouldn't hurt to have them drag the river. There's a nice spot there by Suffolk bridge. Popular with jumpers.",
+                    "Didascalie": "",
+                    "Start": 78926,
+                    "End": 79036
+                },
+                {
+                    "Reply": "Or something that sounds like him.",
+                    "Didascalie": "",
+                    "Start": 79390,
+                    "End": 79425
+                },
+                {
+                    "Reply": "Gone off his crumpet. That's what he's done.",
+                    "Didascalie": "",
+                    "Start": 80029,
+                    "End": 80074
+                },
+                {
+                    "Reply": "Dotty as you please.",
+                    "Didascalie": "",
+                    "Start": 80120,
+                    "End": 80141
+                }
+            ]
+        },
+        {
+            "Character": "KATIE NANNA",
+            "Replies": [
+                {
+                    "Reply": "Indeed, Mrs. Brill! I wouldn't stay in this house another minute, not if you heap me with all the jewels in Christendom.",
+                    "Didascalie": "",
+                    "Start": 2592,
+                    "End": 2713
+                },
+                {
+                    "Reply": "Stand away from that door, my girl!",
+                    "Didascalie": "",
+                    "Start": 2770,
+                    "End": 2806
+                },
+                {
+                    "Reply": "It's no concern of mine. Those little beasts have run away from me for the last time.",
+                    "Didascalie": "",
+                    "Start": 2888,
+                    "End": 2974
+                },
+                {
+                    "Reply": "I said my say, and that's all I'll say. I've done with this house forever.",
+                    "Didascalie": "",
+                    "Start": 3213,
+                    "End": 3288
+                },
+                {
+                    "Reply": "Mrs. Banks, I would like a word with you.",
+                    "Didascalie": "",
+                    "Start": 3748,
+                    "End": 3790
+                },
+                {
+                    "Reply": "I'm glad you're home, madam. I've always given the best that's in me.",
+                    "Didascalie": "",
+                    "Start": 3916,
+                    "End": 3986
+                },
+                {
+                    "Reply": "Mrs. Banks.",
+                    "Didascalie": "",
+                    "Start": 4246,
+                    "End": 4258
+                },
+                {
+                    "Reply": "Being that as it may, I do not wish to offend, but I--",
+                    "Didascalie": "",
+                    "Start": 4475,
+                    "End": 4530
+                },
+                {
+                    "Reply": "If I may have a word, Mrs. Banks.",
+                    "Didascalie": "",
+                    "Start": 4890,
+                    "End": 4924
+                },
+                {
+                    "Reply": "Mrs. Banks!",
+                    "Didascalie": "",
+                    "Start": 4996,
+                    "End": 5008
+                },
+                {
+                    "Reply": "Mrs. Banks.",
+                    "Didascalie": "",
+                    "Start": 5172,
+                    "End": 5184
+                },
+                {
+                    "Reply": "Mrs. Banks.",
+                    "Didascalie": "",
+                    "Start": 5228,
+                    "End": 5240
+                },
+                {
+                    "Reply": "Mrs. Banks!",
+                    "Didascalie": "",
+                    "Start": 5298,
+                    "End": 5310
+                },
+                {
+                    "Reply": "Mrs. Banks, I have something to say to you.",
+                    "Didascalie": "",
+                    "Start": 5366,
+                    "End": 5410
+                },
+                {
+                    "Reply": "The children, madam, to be precise, are not here. They've disappeared again.",
+                    "Didascalie": "",
+                    "Start": 5465,
+                    "End": 5542
+                },
+                {
+                    "Reply": "The fourth, madam. And I for one have had my fill of it. I'm not one to speak ill of the children, but--",
+                    "Didascalie": "",
+                    "Start": 5664,
+                    "End": 5769
+                },
+                {
+                    "Reply": "I really couldn't say. And now if you'd be good enough to compute my wages, I'll--",
+                    "Didascalie": "",
+                    "Start": 5842,
+                    "End": 5925
+                },
+                {
+                    "Reply": "My wages, if you please.",
+                    "Didascalie": "",
+                    "Start": 6465,
+                    "End": 6490
+                },
+                {
+                    "Reply": "Hmph!",
+                    "Didascalie": "",
+                    "Start": 7198,
+                    "End": 7204
+                }
+            ]
+        },
+        {
+            "Character": "AT 6",
+            "Replies": [
+                {
+                    "Reply": "01 I march through my door  My slippers, sherry and pipe are due at 6:02  Consistent is the life I lead   MRS. BANKS   George, they're missing.",
+                    "Didascalie": "",
+                    "Start": 7542,
+                    "End": 7688
+                }
+            ]
+        },
+        {
+            "Character": "CONSTABLE",
+            "Replies": [
+                {
+                    "Reply": "Thank you, sir. While going about my duties on the other side of the park, I noted some valuables that had gone astray. I believe they're yours, sir.",
+                    "Didascalie": "",
+                    "Start": 9237,
+                    "End": 9387
+                },
+                {
+                    "Reply": "Come along, now. Come along.",
+                    "Didascalie": "",
+                    "Start": 9426,
+                    "End": 9455
+                },
+                {
+                    "Reply": "Oh, I wouldn't be too hard on 'em, sir. They've had a long, weary walk today.",
+                    "Didascalie": "",
+                    "Start": 9550,
+                    "End": 9628
+                },
+                {
+                    "Reply": "In a manner of speaking, sir, it was the kite that ran away, not the children.",
+                    "Didascalie": "",
+                    "Start": 9798,
+                    "End": 9877
+                },
+                {
+                    "Reply": "Ah, that's the ticket, sir. Kites are skittish things. Why, only last week with me own youngsters--",
+                    "Didascalie": "",
+                    "Start": 10061,
+                    "End": 10161
+                },
+                {
+                    "Reply": "Thank you, sir. I shall now return to my duties.",
+                    "Didascalie": "",
+                    "Start": 10337,
+                    "End": 10386
+                },
+                {
+                    "Reply": "Good night, miss. Good night, ma'am. Good night, sir. Cook'll find me something. I never--",
+                    "Didascalie": "",
+                    "Start": 10431,
+                    "End": 10522
+                },
+                {
+                    "Reply": "Yes, sir, that's right. George W. Banks. 17 Cherry Tree Lane. About six foot one, I'd say, sir. Oh, yes, we rang up his bank first thing this morning. The only thing we discovered was, he'd been discharged last night. No telling what he might do in a fit of despondency.",
+                    "Didascalie": "",
+                    "Start": 78645,
+                    "End": 78916
+                },
+                {
+                    "Reply": "He seemed to have been a fine, stable gentleman, sir. No hanky-panky, if you know what I mean. Oh, regular habits, sir. Well, far as anyone knows.",
+                    "Didascalie": "",
+                    "Start": 79080,
+                    "End": 79227
+                },
+                {
+                    "Reply": "Mrs. Banks, could we have a little less noise on the premises? I can't make out what the inspector's sayin'.",
+                    "Didascalie": "",
+                    "Start": 79439,
+                    "End": 79548
+                },
+                {
+                    "Reply": "It's all right, sir. He's been found! No, alive! Or so I presume. He's a-kissin' a-Mrs. Banks.",
+                    "Didascalie": "",
+                    "Start": 79744,
+                    "End": 79839
+                },
+                {
+                    "Reply": "That's what I said, sir. Go fly a kite! Oh, no, sir. No, I, I don't mean you personally.",
+                    "Didascalie": "",
+                    "Start": 81067,
+                    "End": 81156
+                }
+            ]
+        },
+        {
+            "Character": "JANE",
+            "Replies": [
+                {
+                    "Reply": "I'm sorry we lost Katie Nanna, Father. You see, it was windy. And the kite was too strong for us.",
+                    "Didascalie": "",
+                    "Start": 9686,
+                    "End": 9784
+                },
+                {
+                    "Reply": "Actually it wasn't a very good kite. We made it ourselves. Perhaps if you helped us to make one--",
+                    "Didascalie": "",
+                    "Start": 9949,
+                    "End": 10047
+                },
+                {
+                    "Reply": "Thank you, Constable.",
+                    "Didascalie": "",
+                    "Start": 10395,
+                    "End": 10417
+                },
+                {
+                    "Reply": "Father?",
+                    "Didascalie": "",
+                    "Start": 12445,
+                    "End": 12453
+                },
+                {
+                    "Reply": "We've discussed everything, and we're very sorry about what we did today.",
+                    "Didascalie": "",
+                    "Start": 12481,
+                    "End": 12555
+                },
+                {
+                    "Reply": "It was wrong to run away from Katie Nanna.",
+                    "Didascalie": "",
+                    "Start": 12607,
+                    "End": 12650
+                },
+                {
+                    "Reply": "And we do so want to get on with the new nanny.",
+                    "Didascalie": "",
+                    "Start": 12688,
+                    "End": 12736
+                },
+                {
+                    "Reply": "We thought you would. That's why we wrote this advertisement.",
+                    "Didascalie": "",
+                    "Start": 12823,
+                    "End": 12885
+                },
+                {
+                    "Reply": "For the new nanny.",
+                    "Didascalie": "",
+                    "Start": 12932,
+                    "End": 12951
+                },
+                {
+                    "Reply": "You said you wanted our help.",
+                    "Didascalie": "",
+                    "Start": 13045,
+                    "End": 13075
+                },
+                {
+                    "Reply": "\"Wanted: a nanny for two adorable children.\"",
+                    "Didascalie": "",
+                    "Start": 13122,
+                    "End": 13167
+                },
+                {
+                    "Reply": "If you want this choice position  Have a cheery disposition   MR. BANKS   Jane, I don't--",
+                    "Didascalie": "",
+                    "Start": 13239,
+                    "End": 13330
+                },
+                {
+                    "Reply": "Play games, all sorts  You must be kind you must be witty  Very sweet and fairly pretty   MR. BANKS   Well, of all the ridic-",
+                    "Didascalie": "",
+                    "Start": 13410,
+                    "End": 13538
+                },
+                {
+                    "Reply": "Jane and Michael Banks   MR. BANKS   Thank you. Most interesting. And now I think we've had quite enough of this nonsense. Please return to the nursery.",
+                    "Didascalie": "",
+                    "Start": 14044,
+                    "End": 14197
+                },
+                {
+                    "Reply": "I don't understand. They're not what we advertised for at all.",
+                    "Didascalie": "",
+                    "Start": 15591,
+                    "End": 15654
+                },
+                {
+                    "Reply": "Of course not. Witches have brooms.",
+                    "Didascalie": "",
+                    "Start": 15713,
+                    "End": 15749
+                },
+                {
+                    "Reply": "I'm afraid the nursery isn't very tidy.",
+                    "Didascalie": "",
+                    "Start": 19004,
+                    "End": 19044
+                },
+                {
+                    "Reply": "This is your room, and there's a lovely view of the park.",
+                    "Didascalie": "",
+                    "Start": 19247,
+                    "End": 19305
+                },
+                {
+                    "Reply": "She's wonderful.",
+                    "Didascalie": "",
+                    "Start": 19909,
+                    "End": 19926
+                },
+                {
+                    "Reply": "Mary Poppins! Is that your name? It's lovely.",
+                    "Didascalie": "",
+                    "Start": 20762,
+                    "End": 20808
+                },
+                {
+                    "Reply": "Get on with what?",
+                    "Didascalie": "",
+                    "Start": 20897,
+                    "End": 20915
+                },
+                {
+                    "Reply": "Oh, yes!",
+                    "Didascalie": "",
+                    "Start": 21012,
+                    "End": 21021
+                },
+                {
+                    "Reply": "It is a game, isn't it, Mary Poppins?",
+                    "Didascalie": "",
+                    "Start": 21298,
+                    "End": 21336
+                },
+                {
+                    "Reply": "Mary Poppins is taking us to the park.",
+                    "Didascalie": "",
+                    "Start": 24124,
+                    "End": 24163
+                },
+                {
+                    "Reply": "Oh, that's lovely. If you please, I'd much rather go there.",
+                    "Didascalie": "",
+                    "Start": 24941,
+                    "End": 25001
+                },
+                {
+                    "Reply": "Please may we go, Mary Poppins? Please? Such a lovely place. Don't you think it's lovely, Mary Poppins?",
+                    "Didascalie": "",
+                    "Start": 25385,
+                    "End": 25489
+                },
+                {
+                    "Reply": "Is something 'sposed to happen?",
+                    "Didascalie": "",
+                    "Start": 25936,
+                    "End": 25968
+                },
+                {
+                    "Reply": "Come on! I hear the merry-go-round.",
+                    "Didascalie": "",
+                    "Start": 26443,
+                    "End": 26479
+                },
+                {
+                    "Reply": "Our own private merry-go-round.",
+                    "Didascalie": "",
+                    "Start": 29546,
+                    "End": 29578
+                },
+                {
+                    "Reply": "Bye, Bert.",
+                    "Didascalie": "",
+                    "Start": 34641,
+                    "End": 34652
+                },
+                {
+                    "Reply": "Do we have to, Mary Poppins?",
+                    "Didascalie": "",
+                    "Start": 34864,
+                    "End": 34893
+                },
+                {
+                    "Reply": "Oh! Lime cordial! Delicious!",
+                    "Didascalie": "",
+                    "Start": 35030,
+                    "End": 35059
+                },
+                {
+                    "Reply": "Mary Poppins, you won't ever leave us, will you?",
+                    "Didascalie": "",
+                    "Start": 35149,
+                    "End": 35198
+                },
+                {
+                    "Reply": "Whatever would we do without you?",
+                    "Didascalie": "",
+                    "Start": 35407,
+                    "End": 35441
+                },
+                {
+                    "Reply": "Oh, we couldn't possibly go to sleep! So many lovely things have happened today.",
+                    "Didascalie": "",
+                    "Start": 35618,
+                    "End": 35699
+                },
+                {
+                    "Reply": "Yes! When we jumped into Bert's chalk picture.",
+                    "Didascalie": "",
+                    "Start": 35735,
+                    "End": 35782
+                },
+                {
+                    "Reply": "And we all went riding in the countryside!",
+                    "Didascalie": "",
+                    "Start": 35872,
+                    "End": 35915
+                },
+                {
+                    "Reply": "Mary Poppins, don't you remember? You won the horse race!",
+                    "Didascalie": "",
+                    "Start": 36003,
+                    "End": 36061
+                },
+                {
+                    "Reply": "Mary Poppins, we're much too excited!",
+                    "Didascalie": "",
+                    "Start": 36408,
+                    "End": 36446
+                },
+                {
+                    "Reply": "Good morning, Father.",
+                    "Didascalie": "",
+                    "Start": 38734,
+                    "End": 38756
+                },
+                {
+                    "Reply": "Mary Poppins taught us the most wonderful words.",
+                    "Didascalie": "",
+                    "Start": 38793,
+                    "End": 38842
+                },
+                {
+                    "Reply": "It's something to say when you don't know what to say.",
+                    "Didascalie": "",
+                    "Start": 39007,
+                    "End": 39062
+                },
+                {
+                    "Reply": "Yes, father.",
+                    "Didascalie": "",
+                    "Start": 39151,
+                    "End": 39164
+                },
+                {
+                    "Reply": "Ah, gingerbread!",
+                    "Didascalie": "",
+                    "Start": 40796,
+                    "End": 40813
+                },
+                {
+                    "Reply": "It's Andrew!",
+                    "Didascalie": "",
+                    "Start": 41417,
+                    "End": 41430
+                },
+                {
+                    "Reply": "What did he say?",
+                    "Didascalie": "",
+                    "Start": 41662,
+                    "End": 41679
+                },
+                {
+                    "Reply": "What else did he say?",
+                    "Didascalie": "",
+                    "Start": 41732,
+                    "End": 41754
+                },
+                {
+                    "Reply": "I thought we were gonna buy some fish.",
+                    "Didascalie": "",
+                    "Start": 41849,
+                    "End": 41888
+                },
+                {
+                    "Reply": "Shall we get spots?",
+                    "Didascalie": "",
+                    "Start": 42311,
+                    "End": 42331
+                },
+                {
+                    "Reply": "I'm so glad you came. It wouldn't be any fun without you.",
+                    "Didascalie": "",
+                    "Start": 45951,
+                    "End": 46009
+                },
+                {
+                    "Reply": "Oh, that's sad.",
+                    "Didascalie": "",
+                    "Start": 47117,
+                    "End": 47133
+                },
+                {
+                    "Reply": "Oh, that is sad.",
+                    "Didascalie": "",
+                    "Start": 47519,
+                    "End": 47536
+                },
+                {
+                    "Reply": "We had a lovely time.",
+                    "Didascalie": "",
+                    "Start": 47946,
+                    "End": 47968
+                },
+                {
+                    "Reply": "Oh, Father, we're so glad you're home!",
+                    "Didascalie": "",
+                    "Start": 48801,
+                    "End": 48840
+                },
+                {
+                    "Reply": "We had the most wonderful afternoon with Mary Poppins.",
+                    "Didascalie": "",
+                    "Start": 48882,
+                    "End": 48937
+                },
+                {
+                    "Reply": "And we had a lovely tea party on the ceiling!",
+                    "Didascalie": "",
+                    "Start": 49210,
+                    "End": 49256
+                },
+                {
+                    "Reply": "Mary Poppins says if we're good, she'll take us there again.",
+                    "Didascalie": "",
+                    "Start": 49310,
+                    "End": 49371
+                },
+                {
+                    "Reply": "Mary Poppins, we won't let you go!",
+                    "Didascalie": "",
+                    "Start": 52957,
+                    "End": 52992
+                },
+                {
+                    "Reply": "Oh, Mary Poppins!",
+                    "Didascalie": "",
+                    "Start": 53153,
+                    "End": 53171
+                },
+                {
+                    "Reply": "An outing with father?",
+                    "Didascalie": "",
+                    "Start": 53476,
+                    "End": 53499
+                },
+                {
+                    "Reply": "He's never taken us on an outing before.",
+                    "Didascalie": "",
+                    "Start": 53562,
+                    "End": 53603
+                },
+                {
+                    "Reply": "However did you manage it?",
+                    "Didascalie": "",
+                    "Start": 53654,
+                    "End": 53681
+                },
+                {
+                    "Reply": "You must've put the idea in his head somehow.",
+                    "Didascalie": "",
+                    "Start": 53720,
+                    "End": 53766
+                },
+                {
+                    "Reply": "Where's he taking us?",
+                    "Didascalie": "",
+                    "Start": 53872,
+                    "End": 53894
+                },
+                {
+                    "Reply": "Oh, Michael, the city! And we'll see all the sights, and father can point them out to us.",
+                    "Didascalie": "",
+                    "Start": 53933,
+                    "End": 54023
+                },
+                {
+                    "Reply": "Past the end of his nose?",
+                    "Didascalie": "",
+                    "Start": 54171,
+                    "End": 54197
+                },
+                {
+                    "Reply": "Father passes that every day. He sees that.",
+                    "Didascalie": "",
+                    "Start": 54314,
+                    "End": 54358
+                },
+                {
+                    "Reply": "Michael, look! It's her!",
+                    "Didascalie": "",
+                    "Start": 55575,
+                    "End": 55600
+                },
+                {
+                    "Reply": "The bird woman. Just where Mary Poppins said she would be. You do see her, don't you, Father?",
+                    "Didascalie": "",
+                    "Start": 55638,
+                    "End": 55732
+                },
+                {
+                    "Reply": "Listen, Father, she's saying it.",
+                    "Didascalie": "",
+                    "Start": 55836,
+                    "End": 55869
+                },
+                {
+                    "Reply": "Please may we feed the birds?",
+                    "Didascalie": "",
+                    "Start": 56002,
+                    "End": 56032
+                },
+                {
+                    "Reply": "Just this once, please?",
+                    "Didascalie": "",
+                    "Start": 56116,
+                    "End": 56140
+                },
+                {
+                    "Reply": "But Mary Poppins-",
+                    "Didascalie": "",
+                    "Start": 56225,
+                    "End": 56243
+                },
+                {
+                    "Reply": "Bert, it's you!",
+                    "Didascalie": "",
+                    "Start": 60995,
+                    "End": 61011
+                },
+                {
+                    "Reply": "Oh, Bert, we're so frightened.",
+                    "Didascalie": "",
+                    "Start": 61175,
+                    "End": 61206
+                },
+                {
+                    "Reply": "Father is.",
+                    "Didascalie": "",
+                    "Start": 61327,
+                    "End": 61338
+                },
+                {
+                    "Reply": "Michael, don't exaggerate.",
+                    "Didascalie": "",
+                    "Start": 61550,
+                    "End": 61577
+                },
+                {
+                    "Reply": "I don't think so. You should've seen the look on his face.",
+                    "Didascalie": "",
+                    "Start": 61679,
+                    "End": 61738
+                },
+                {
+                    "Reply": "It's true.",
+                    "Didascalie": "",
+                    "Start": 61838,
+                    "End": 61849
+                },
+                {
+                    "Reply": "Father in a cage?",
+                    "Didascalie": "",
+                    "Start": 62112,
+                    "End": 62130
+                },
+                {
+                    "Reply": "Father's not in trouble. We are.",
+                    "Didascalie": "",
+                    "Start": 62242,
+                    "End": 62275
+                },
+                {
+                    "Reply": "Michael, be quiet. Bert, do you think Father really needs our help?",
+                    "Didascalie": "",
+                    "Start": 62721,
+                    "End": 62789
+                },
+                {
+                    "Reply": "Oh, please stay 'til father comes home. He'll feel much better if you shake hands with him.",
+                    "Didascalie": "",
+                    "Start": 63882,
+                    "End": 63974
+                },
+                {
+                    "Reply": "Oh, it's awfully dark and gloomy up there.",
+                    "Didascalie": "",
+                    "Start": 65369,
+                    "End": 65412
+                },
+                {
+                    "Reply": "I do wish we could go up there.",
+                    "Didascalie": "",
+                    "Start": 65805,
+                    "End": 65837
+                },
+                {
+                    "Reply": "Michael! Michael, come back down here. Michael! Michael, where are you?",
+                    "Didascalie": "",
+                    "Start": 66284,
+                    "End": 66356
+                },
+                {
+                    "Reply": "Michael, don't be frightened. Everything's going--",
+                    "Didascalie": "",
+                    "Start": 66635,
+                    "End": 66686
+                },
+                {
+                    "Reply": "We didn't mean to.",
+                    "Didascalie": "",
+                    "Start": 66826,
+                    "End": 66845
+                },
+                {
+                    "Reply": "Oh, please, Mary Poppins?",
+                    "Didascalie": "",
+                    "Start": 67035,
+                    "End": 67061
+                },
+                {
+                    "Reply": "Oh, father, every one of those sweeps shook your hand. You're going to be the luckiest person in the world!",
+                    "Didascalie": "",
+                    "Start": 71211,
+                    "End": 71319
+                },
+                {
+                    "Reply": "Father? We're sorry about the tuppence. We didn't know it would cause you so much trouble.",
+                    "Didascalie": "",
+                    "Start": 74634,
+                    "End": 74725
+                },
+                {
+                    "Reply": "Will that make everything all right?",
+                    "Didascalie": "",
+                    "Start": 74787,
+                    "End": 74824
+                },
+                {
+                    "Reply": "She only promised to stay 'til the wind changed. Isn't that right, Mary Poppins?",
+                    "Didascalie": "",
+                    "Start": 78346,
+                    "End": 78427
+                },
+                {
+                    "Reply": "Mary Poppins, don't you love us?",
+                    "Didascalie": "",
+                    "Start": 78493,
+                    "End": 78526
+                },
+                {
+                    "Reply": "It's wonderful! However did you manage it?",
+                    "Didascalie": "",
+                    "Start": 80550,
+                    "End": 80593
+                }
+            ]
+        },
+        {
+            "Character": "MICHAEL",
+            "Replies": [
+                {
+                    "Reply": "That's the part I put in.",
+                    "Didascalie": "",
+                    "Start": 13374,
+                    "End": 13400
+                },
+                {
+                    "Reply": "I put that in, too.",
+                    "Didascalie": "",
+                    "Start": 13777,
+                    "End": 13797
+                },
+                {
+                    "Reply": "Perhaps it's a witch.",
+                    "Didascalie": "",
+                    "Start": 15682,
+                    "End": 15704
+                },
+                {
+                    "Reply": "Rosy cheeks and everything.",
+                    "Didascalie": "",
+                    "Start": 15823,
+                    "End": 15851
+                },
+                {
+                    "Reply": "That's a funny sort of bag.",
+                    "Didascalie": "",
+                    "Start": 19113,
+                    "End": 19141
+                },
+                {
+                    "Reply": "You mean to carry carpets in?",
+                    "Didascalie": "",
+                    "Start": 19178,
+                    "End": 19208
+                },
+                {
+                    "Reply": "There-- but there was nothing in it.",
+                    "Didascalie": "",
+                    "Start": 19636,
+                    "End": 19673
+                },
+                {
+                    "Reply": "We better keep an eye on this one. She's tricky.",
+                    "Didascalie": "",
+                    "Start": 19851,
+                    "End": 19900
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 20053,
+                    "End": 20059
+                },
+                {
+                    "Reply": "What do you want it for?",
+                    "Didascalie": "",
+                    "Start": 20105,
+                    "End": 20130
+                },
+                {
+                    "Reply": "I am not!",
+                    "Didascalie": "",
+                    "Start": 20423,
+                    "End": 20433
+                },
+                {
+                    "Reply": "\"Extremely stubborn and sus--\"",
+                    "Didascalie": "",
+                    "Start": 20480,
+                    "End": 20511
+                },
+                {
+                    "Reply": "How 'bout you?",
+                    "Didascalie": "",
+                    "Start": 20627,
+                    "End": 20642
+                },
+                {
+                    "Reply": "I don't like the sound of that.",
+                    "Didascalie": "",
+                    "Start": 21119,
+                    "End": 21151
+                },
+                {
+                    "Reply": "I told you she was tricky.",
+                    "Didascalie": "",
+                    "Start": 21229,
+                    "End": 21256
+                },
+                {
+                    "Reply": "Let me out! Let me out! Let me out!",
+                    "Didascalie": "",
+                    "Start": 22576,
+                    "End": 22612
+                },
+                {
+                    "Reply": "I don't want an outing. I want to tidy up the nursery again.",
+                    "Didascalie": "",
+                    "Start": 22813,
+                    "End": 22874
+                },
+                {
+                    "Reply": "I don't see any road.",
+                    "Didascalie": "",
+                    "Start": 25202,
+                    "End": 25224
+                },
+                {
+                    "Reply": "A bit of magic?",
+                    "Didascalie": "",
+                    "Start": 25806,
+                    "End": 25822
+                },
+                {
+                    "Reply": "I thought you said there was a fair.",
+                    "Didascalie": "",
+                    "Start": 26337,
+                    "End": 26374
+                },
+                {
+                    "Reply": "Ya-hoo! Ya-hoo! Ya-hoo! Ya-hoo! -ya-hoo!",
+                    "Didascalie": "",
+                    "Start": 29496,
+                    "End": 29537
+                },
+                {
+                    "Reply": "My horse is the fastest.",
+                    "Didascalie": "",
+                    "Start": 29890,
+                    "End": 29915
+                },
+                {
+                    "Reply": "Hurry up, boy. Hurry up!",
+                    "Didascalie": "",
+                    "Start": 30056,
+                    "End": 30081
+                },
+                {
+                    "Reply": "Bye, Bert.",
+                    "Didascalie": "",
+                    "Start": 34701,
+                    "End": 34712
+                },
+                {
+                    "Reply": "No, no, I won't take your nasty medicine!",
+                    "Didascalie": "",
+                    "Start": 34813,
+                    "End": 34855
+                },
+                {
+                    "Reply": "I don't want it. I'm not gonna--",
+                    "Didascalie": "",
+                    "Start": 34988,
+                    "End": 35021
+                },
+                {
+                    "Reply": "Strawberry! Mmm!",
+                    "Didascalie": "",
+                    "Start": 35071,
+                    "End": 35088
+                },
+                {
+                    "Reply": "Will you stay if we promise to be good?",
+                    "Didascalie": "",
+                    "Start": 35281,
+                    "End": 35321
+                },
+                {
+                    "Reply": "But, Mary Poppins, how long will that be?",
+                    "Didascalie": "",
+                    "Start": 35507,
+                    "End": 35549
+                },
+                {
+                    "Reply": "And we rode the merry-go-round, and all the horses jumped off, and--",
+                    "Didascalie": "",
+                    "Start": 35794,
+                    "End": 35863
+                },
+                {
+                    "Reply": "But I saw you do it!",
+                    "Didascalie": "",
+                    "Start": 36171,
+                    "End": 36192
+                },
+                {
+                    "Reply": "It did happen! I saw it!",
+                    "Didascalie": "",
+                    "Start": 36299,
+                    "End": 36324
+                },
+                {
+                    "Reply": "No, I don't want to go to sleep.",
+                    "Didascalie": "",
+                    "Start": 36366,
+                    "End": 36399
+                },
+                {
+                    "Reply": "Supercalifragilistic- expialidocious   MR. BANKS   What on earth are you talking about? Supercali-- super-- or whatever the infernal thing is.",
+                    "Didascalie": "",
+                    "Start": 38855,
+                    "End": 38998
+                },
+                {
+                    "Reply": "We're going to buy some fish.",
+                    "Didascalie": "",
+                    "Start": 41192,
+                    "End": 41222
+                },
+                {
+                    "Reply": "Aye, aye, sir.",
+                    "Didascalie": "",
+                    "Start": 41286,
+                    "End": 41301
+                },
+                {
+                    "Reply": "I don't think he said anything.",
+                    "Didascalie": "",
+                    "Start": 41766,
+                    "End": 41798
+                },
+                {
+                    "Reply": "We'll jolly well have to. There's no way to get down.",
+                    "Didascalie": "",
+                    "Start": 46673,
+                    "End": 46727
+                },
+                {
+                    "Reply": "The poor cat.",
+                    "Didascalie": "",
+                    "Start": 47145,
+                    "End": 47159
+                },
+                {
+                    "Reply": "Oh, no!",
+                    "Didascalie": "",
+                    "Start": 47548,
+                    "End": 47556
+                },
+                {
+                    "Reply": "Don't worry. We'll come back soon.",
+                    "Didascalie": "",
+                    "Start": 47902,
+                    "End": 47937
+                },
+                {
+                    "Reply": "Want to hear a joke?",
+                    "Didascalie": "",
+                    "Start": 48852,
+                    "End": 48873
+                },
+                {
+                    "Reply": "Speaking of afternoons, the joke goes like this. I know a man with a wooden leg named Smith.",
+                    "Didascalie": "",
+                    "Start": 48949,
+                    "End": 49042
+                },
+                {
+                    "Reply": "And there was a second chap, and the second chap says, \"What's the name of his other leg?\"",
+                    "Didascalie": "",
+                    "Start": 49110,
+                    "End": 49201
+                },
+                {
+                    "Reply": "Didn't you get sacked?",
+                    "Didascalie": "",
+                    "Start": 53062,
+                    "End": 53085
+                },
+                {
+                    "Reply": "But?",
+                    "Didascalie": "",
+                    "Start": 53323,
+                    "End": 53328
+                },
+                {
+                    "Reply": "I don't believe it.",
+                    "Didascalie": "",
+                    "Start": 53533,
+                    "End": 53553
+                },
+                {
+                    "Reply": "He's never taken us anywhere.",
+                    "Didascalie": "",
+                    "Start": 53615,
+                    "End": 53645
+                },
+                {
+                    "Reply": "Oh, look! The cathedral.",
+                    "Didascalie": "",
+                    "Start": 54280,
+                    "End": 54305
+                },
+                {
+                    "Reply": "But I thought it was your bank.",
+                    "Didascalie": "",
+                    "Start": 55446,
+                    "End": 55478
+                },
+                {
+                    "Reply": "I have tuppence from my money box.",
+                    "Didascalie": "",
+                    "Start": 56072,
+                    "End": 56107
+                },
+                {
+                    "Reply": "But it's my tuppence!",
+                    "Didascalie": "",
+                    "Start": 56401,
+                    "End": 56423
+                },
+                {
+                    "Reply": "Tuppence. But I want it to feed the birds.",
+                    "Didascalie": "",
+                    "Start": 56947,
+                    "End": 56990
+                },
+                {
+                    "Reply": "A giant?",
+                    "Didascalie": "",
+                    "Start": 57207,
+                    "End": 57216
+                },
+                {
+                    "Reply": "No. I want it to feed the birds!",
+                    "Didascalie": "",
+                    "Start": 57559,
+                    "End": 57592
+                },
+                {
+                    "Reply": "No, I won't! I want it to feed the birds.",
+                    "Didascalie": "",
+                    "Start": 58717,
+                    "End": 58759
+                },
+                {
+                    "Reply": "Give it back! Gimme back my money!",
+                    "Didascalie": "",
+                    "Start": 59928,
+                    "End": 59963
+                },
+                {
+                    "Reply": "Give it to me!",
+                    "Didascalie": "",
+                    "Start": 60033,
+                    "End": 60048
+                },
+                {
+                    "Reply": "Jane! Jane! Gimme back my money!",
+                    "Didascalie": "",
+                    "Start": 60091,
+                    "End": 60124
+                },
+                {
+                    "Reply": "Gimme back my money!",
+                    "Didascalie": "",
+                    "Start": 60183,
+                    "End": 60204
+                },
+                {
+                    "Reply": "Give me my money!",
+                    "Didascalie": "",
+                    "Start": 60545,
+                    "End": 60563
+                },
+                {
+                    "Reply": "Leave her alone! Leave my sister alone!",
+                    "Didascalie": "",
+                    "Start": 60889,
+                    "End": 60929
+                },
+                {
+                    "Reply": "You're filthy!",
+                    "Didascalie": "",
+                    "Start": 61067,
+                    "End": 61082
+                },
+                {
+                    "Reply": "He brought us to see his bank.",
+                    "Didascalie": "",
+                    "Start": 61365,
+                    "End": 61396
+                },
+                {
+                    "Reply": "He sent the police after us, and the army and everything.",
+                    "Didascalie": "",
+                    "Start": 61483,
+                    "End": 61541
+                },
+                {
+                    "Reply": "He doesn't like us at all.",
+                    "Didascalie": "",
+                    "Start": 61750,
+                    "End": 61777
+                },
+                {
+                    "Reply": "He's not very silent!",
+                    "Didascalie": "",
+                    "Start": 62690,
+                    "End": 62712
+                },
+                {
+                    "Reply": "So do I! I like chimneys.",
+                    "Didascalie": "",
+                    "Start": 65849,
+                    "End": 65875
+                },
+                {
+                    "Reply": "Please!",
+                    "Didascalie": "",
+                    "Start": 67073,
+                    "End": 67081
+                },
+                {
+                    "Reply": "Hello there!",
+                    "Didascalie": "",
+                    "Start": 67264,
+                    "End": 67277
+                },
+                {
+                    "Reply": "Good luck, guv'nor.",
+                    "Didascalie": "",
+                    "Start": 71182,
+                    "End": 71202
+                },
+                {
+                    "Reply": "Here, father, you can have the tuppence.",
+                    "Didascalie": "",
+                    "Start": 74737,
+                    "End": 74778
+                },
+                {
+                    "Reply": "She doesn't care what happens to us.",
+                    "Didascalie": "",
+                    "Start": 78300,
+                    "End": 78337
+                },
+                {
+                    "Reply": "It doesn't sound like Father.",
+                    "Didascalie": "",
+                    "Start": 80339,
+                    "End": 80369
+                },
+                {
+                    "Reply": "You won't go, Mary Poppins, will you?",
+                    "Didascalie": "",
+                    "Start": 80449,
+                    "End": 80487
+                },
+                {
+                    "Reply": "He mended it!",
+                    "Didascalie": "",
+                    "Start": 80527,
+                    "End": 80541
+                },
+                {
+                    "Reply": "Now!",
+                    "Didascalie": "",
+                    "Start": 81581,
+                    "End": 81586
+                }
+            ]
+        },
+        {
+            "Character": "MARY POPPINS",
+            "Replies": [
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 15981,
+                    "End": 15992
+                },
+                {
+                    "Reply": "You are the father of Jane and Michael Banks, are you not? I said, you are the father of Jane and Michael Banks.",
+                    "Didascalie": "",
+                    "Start": 16023,
+                    "End": 16136
+                },
+                {
+                    "Reply": "Oh, I make it a point never to give references. A very old-fashioned idea to my mind.",
+                    "Didascalie": "",
+                    "Start": 16268,
+                    "End": 16354
+                },
+                {
+                    "Reply": "Now then, the qualifications. \"Item one: a cheery disposition.\" I am never cross. \"Item two: rosy cheeks.\" Obviously. \"Item three: play games, all sorts.\" Well, I'm sure the children will find my games extremely diverting.",
+                    "Didascalie": "",
+                    "Start": 16442,
+                    "End": 16665
+                },
+                {
+                    "Reply": "Excuse me. \"Item four: you must be kind.\" I am kind, but extremely firm. Have you lost something?",
+                    "Didascalie": "",
+                    "Start": 16770,
+                    "End": 16868
+                },
+                {
+                    "Reply": "You are George Banks, are you not?",
+                    "Didascalie": "",
+                    "Start": 16949,
+                    "End": 16984
+                },
+                {
+                    "Reply": "And you did advertise for a nanny, did you not?",
+                    "Didascalie": "",
+                    "Start": 17021,
+                    "End": 17069
+                },
+                {
+                    "Reply": "Very well then.",
+                    "Didascalie": "",
+                    "Start": 17114,
+                    "End": 17130
+                },
+                {
+                    "Reply": "I beg your pardon. Are you ill?",
+                    "Didascalie": "",
+                    "Start": 17236,
+                    "End": 17268
+                },
+                {
+                    "Reply": "Now, about my wages. The reference here is very obscure.",
+                    "Didascalie": "",
+                    "Start": 17311,
+                    "End": 17368
+                },
+                {
+                    "Reply": "We must be very clear on that point, mustn't we?",
+                    "Didascalie": "",
+                    "Start": 17413,
+                    "End": 17462
+                },
+                {
+                    "Reply": "I shall require every second Tuesday off.",
+                    "Didascalie": "",
+                    "Start": 17514,
+                    "End": 17556
+                },
+                {
+                    "Reply": "On second thoughts, I believe a trial period would be wise. Hmm. I'll give you one week. I'll know by then. I'll see the children now. Thank you.",
+                    "Didascalie": "",
+                    "Start": 17602,
+                    "End": 17748
+                },
+                {
+                    "Reply": "It is rather like a bear pit, isn't it?",
+                    "Didascalie": "",
+                    "Start": 19061,
+                    "End": 19101
+                },
+                {
+                    "Reply": "Carpet.",
+                    "Didascalie": "",
+                    "Start": 19158,
+                    "End": 19166
+                },
+                {
+                    "Reply": "No. Made of.",
+                    "Didascalie": "",
+                    "Start": 19225,
+                    "End": 19238
+                },
+                {
+                    "Reply": "Hmm. Well, it's not exactly Buckingham Palace. Still, it's clean. Yes, I think it will be quite suitable. Just needs a touch here and there. Well, first things first. I always say, the place to hang a hat is on a hat stand. Ah! This will never do! I much prefer seeing all of my face at the same time.",
+                    "Didascalie": "",
+                    "Start": 19322,
+                    "End": 19624
+                },
+                {
+                    "Reply": "Never judge things by their appearance. Even carpetbags. I'm sure I never do. A thing of beauty is a joy forever. Mmm, a little more light, perhaps.",
+                    "Didascalie": "",
+                    "Start": 19690,
+                    "End": 19839
+                },
+                {
+                    "Reply": "Much better! Now, let me see. That's funny. I always carry it with me. It must be here somewhere.",
+                    "Didascalie": "",
+                    "Start": 19943,
+                    "End": 20041
+                },
+                {
+                    "Reply": "My tape measure.",
+                    "Didascalie": "",
+                    "Start": 20076,
+                    "End": 20093
+                },
+                {
+                    "Reply": "I want to see how you two measure up. Well, that's the funniest thing I ever saw. I know it's down here somewhere. Ah, ha-ha, ha-ha! Here it is. Good. Come along, then. Quickly. Head up, Michael. Don't slouch. Just as I thought. Extremely stubborn and suspicious.",
+                    "Didascalie": "",
+                    "Start": 20147,
+                    "End": 20411
+                },
+                {
+                    "Reply": "See for yourself.",
+                    "Didascalie": "",
+                    "Start": 20450,
+                    "End": 20468
+                },
+                {
+                    "Reply": "Suspicious.",
+                    "Didascalie": "",
+                    "Start": 20528,
+                    "End": 20540
+                },
+                {
+                    "Reply": "Very well. Hold this for me. As I expected. \"Mary Poppins. Practically perfect in every way.\"",
+                    "Didascalie": "",
+                    "Start": 20659,
+                    "End": 20753
+                },
+                {
+                    "Reply": "Thank you. I've always liked it. Now, shall we get on with it?",
+                    "Didascalie": "",
+                    "Start": 20825,
+                    "End": 20888
+                },
+                {
+                    "Reply": "In your advertisement, did you not specifically request to play games?",
+                    "Didascalie": "",
+                    "Start": 20932,
+                    "End": 21003
+                },
+                {
+                    "Reply": "Very well, then. Our first game is called \"well begun is half done.\"",
+                    "Didascalie": "",
+                    "Start": 21038,
+                    "End": 21107
+                },
+                {
+                    "Reply": "Otherwise entitled, \"let's tidy up the nursery.\"",
+                    "Didascalie": "",
+                    "Start": 21168,
+                    "End": 21217
+                },
+                {
+                    "Reply": "Shall we begin?",
+                    "Didascalie": "",
+                    "Start": 21273,
+                    "End": 21289
+                },
+                {
+                    "Reply": "Well, it depends on your point of view. You see,  In every job that must be done,  There is an element of fun.",
+                    "Didascalie": "",
+                    "Start": 21353,
+                    "End": 21466
+                },
+                {
+                    "Reply": "Cheeky.",
+                    "Didascalie": "",
+                    "Start": 22520,
+                    "End": 22528
+                },
+                {
+                    "Reply": "Well, that was very--",
+                    "Didascalie": "",
+                    "Start": 22629,
+                    "End": 22651
+                },
+                {
+                    "Reply": "Enough is as good as a feast. Come along, please. Let me look at you. Well, you're not as well turned out as I'd like. Still, there's time. There's time. Spit spot! And off we go.",
+                    "Didascalie": "",
+                    "Start": 22891,
+                    "End": 23071
+                },
+                {
+                    "Reply": "It's nice to see you again, Bert. I expect you know Jane and Michael.",
+                    "Didascalie": "",
+                    "Start": 23962,
+                    "End": 24032
+                },
+                {
+                    "Reply": "I'm sure I haven't the faintest idea what you're talking about.",
+                    "Didascalie": "",
+                    "Start": 24439,
+                    "End": 24503
+                },
+                {
+                    "Reply": "I have no intention of making a spectacle of myself, thank you.",
+                    "Didascalie": "",
+                    "Start": 25642,
+                    "End": 25706
+                },
+                {
+                    "Reply": "Do what?",
+                    "Didascalie": "",
+                    "Start": 25762,
+                    "End": 25771
+                },
+                {
+                    "Reply": "Bert, what utter nonsense! Ohh! Why do you always complicate things that are really quite simple? Give my your hand, please, Michael. Don't slouch. One, two.",
+                    "Didascalie": "",
+                    "Start": 25985,
+                    "End": 26143
+                },
+                {
+                    "Reply": "Do you really think so?",
+                    "Didascalie": "",
+                    "Start": 26203,
+                    "End": 26227
+                },
+                {
+                    "Reply": "You look fine, too, Bert.",
+                    "Didascalie": "",
+                    "Start": 26299,
+                    "End": 26325
+                },
+                {
+                    "Reply": "Don't fall and smudge the drawing.",
+                    "Didascalie": "",
+                    "Start": 26528,
+                    "End": 26563
+                },
+                {
+                    "Reply": "Now, Bert. None of your larking about.",
+                    "Didascalie": "",
+                    "Start": 26668,
+                    "End": 26707
+                },
+                {
+                    "Reply": "You haven't changed a bit, have you?",
+                    "Didascalie": "",
+                    "Start": 26861,
+                    "End": 26898
+                },
+                {
+                    "Reply": "Oh, honestly!",
+                    "Didascalie": "",
+                    "Start": 26993,
+                    "End": 27007
+                },
+                {
+                    "Reply": "You are lightheaded.",
+                    "Didascalie": "",
+                    "Start": 27211,
+                    "End": 27232
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 27747,
+                    "End": 27758
+                },
+                {
+                    "Reply": "Now then, what'd be nice?",
+                    "Didascalie": "",
+                    "Start": 28387,
+                    "End": 28413
+                },
+                {
+                    "Reply": "You're very kind.",
+                    "Didascalie": "",
+                    "Start": 28567,
+                    "End": 28585
+                },
+                {
+                    "Reply": "Who says we're not going anywhere? Oh, guard!",
+                    "Didascalie": "",
+                    "Start": 29664,
+                    "End": 29710
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 29759,
+                    "End": 29770
+                },
+                {
+                    "Reply": "Not so fast, please. Michael! Now really, Bert. You're as bad as the children.",
+                    "Didascalie": "",
+                    "Start": 30098,
+                    "End": 30177
+                },
+                {
+                    "Reply": "Please control yourself. We are not on a racecourse.",
+                    "Didascalie": "",
+                    "Start": 30298,
+                    "End": 30351
+                },
+                {
+                    "Reply": "Oh, riders, would you be so kind as to let me pass?",
+                    "Didascalie": "",
+                    "Start": 31002,
+                    "End": 31054
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 31105,
+                    "End": 31116
+                },
+                {
+                    "Reply": "Oh. Oh, how nice.",
+                    "Didascalie": "",
+                    "Start": 31276,
+                    "End": 31294
+                },
+                {
+                    "Reply": "Oh, well I--",
+                    "Didascalie": "",
+                    "Start": 31507,
+                    "End": 31520
+                },
+                {
+                    "Reply": "Uh, yes.",
+                    "Didascalie": "",
+                    "Start": 31580,
+                    "End": 31589
+                },
+                {
+                    "Reply": "Uh, oh, actually, I'm delighted.",
+                    "Didascalie": "",
+                    "Start": 31666,
+                    "End": 31699
+                },
+                {
+                    "Reply": "Oh, well, I wouldn't go--",
+                    "Didascalie": "",
+                    "Start": 31788,
+                    "End": 31814
+                },
+                {
+                    "Reply": "Now, now, now, now, gentlemen, please. On the contrary, there's a very good word. Am I right, Bert?",
+                    "Didascalie": "",
+                    "Start": 31901,
+                    "End": 32001
+                },
+                {
+                    "Reply": "Right! It's ...",
+                    "Didascalie": "",
+                    "Start": 32048,
+                    "End": 32064
+                },
+                {
+                    "Reply": "He's traveled all around the world and everywhere he went  He'd use his word and all would say, \"there goes a clever gent\"",
+                    "Didascalie": "",
+                    "Start": 33068,
+                    "End": 33192
+                },
+                {
+                    "Reply": "You know, you can say it backwards,  Which is, Dociousaliexpiistic- fragilcalirupus.",
+                    "Didascalie": "",
+                    "Start": 33636,
+                    "End": 33721
+                },
+                {
+                    "Reply": "Yes?",
+                    "Didascalie": "",
+                    "Start": 34072,
+                    "End": 34077
+                },
+                {
+                    "Reply": "Jane! Michael! Stay close now. Oh, Bert, all your fine drawings.",
+                    "Didascalie": "",
+                    "Start": 34372,
+                    "End": 34437
+                },
+                {
+                    "Reply": "Come along, children. Bye, Bert.",
+                    "Didascalie": "",
+                    "Start": 34581,
+                    "End": 34614
+                },
+                {
+                    "Reply": "People who get their feet wet, must learn to take their medicine.",
+                    "Didascalie": "",
+                    "Start": 34910,
+                    "End": 34976
+                },
+                {
+                    "Reply": "R-r-rum punch. Quite satisfactory.",
+                    "Didascalie": "",
+                    "Start": 35105,
+                    "End": 35140
+                },
+                {
+                    "Reply": "Do you have a handkerchief under your pillow? Mm-hmm.",
+                    "Didascalie": "",
+                    "Start": 35215,
+                    "End": 35269
+                },
+                {
+                    "Reply": "Och! That's a piecrust promise. Easily made, easily broken.",
+                    "Didascalie": "",
+                    "Start": 35338,
+                    "End": 35398
+                },
+                {
+                    "Reply": "I shall stay until the wind changes.",
+                    "Didascalie": "",
+                    "Start": 35458,
+                    "End": 35495
+                },
+                {
+                    "Reply": "Silence, please. It's time to go to sleep.",
+                    "Didascalie": "",
+                    "Start": 35566,
+                    "End": 35609
+                },
+                {
+                    "Reply": "Did they?",
+                    "Didascalie": "",
+                    "Start": 35716,
+                    "End": 35726
+                },
+                {
+                    "Reply": "Really?",
+                    "Didascalie": "",
+                    "Start": 35986,
+                    "End": 35994
+                },
+                {
+                    "Reply": "A respectable person like me in a horse race? How dare you suggest such a thing.",
+                    "Didascalie": "",
+                    "Start": 36078,
+                    "End": 36159
+                },
+                {
+                    "Reply": "Now, not another word or I shall have to summon the policeman. Is that clear?",
+                    "Didascalie": "",
+                    "Start": 36209,
+                    "End": 36287
+                },
+                {
+                    "Reply": "Go to sleep.",
+                    "Didascalie": "",
+                    "Start": 36341,
+                    "End": 36354
+                },
+                {
+                    "Reply": "Very well, suit yourselves.",
+                    "Didascalie": "",
+                    "Start": 36463,
+                    "End": 36491
+                },
+                {
+                    "Reply": "Now, let me see. First of all, we must go to the piano tuners. And then we go to Mrs. Cory's sh--",
+                    "Didascalie": "",
+                    "Start": 40650,
+                    "End": 40748
+                },
+                {
+                    "Reply": "And then we go to the fishmonger's, I think, for a nice dover sole and a pint of prawns. Uh, Michael, stop stravaging along behind.",
+                    "Didascalie": "",
+                    "Start": 40830,
+                    "End": 40962
+                },
+                {
+                    "Reply": "Good morning, Admiral.",
+                    "Didascalie": "",
+                    "Start": 41032,
+                    "End": 41055
+                },
+                {
+                    "Reply": "Uh, not so fast, please. I can't understand a word you're saying. Again? Och! Oh, the poor man!",
+                    "Didascalie": "",
+                    "Start": 41447,
+                    "End": 41543
+                },
+                {
+                    "Reply": "He said, \"you're welcome.\"",
+                    "Didascalie": "",
+                    "Start": 41696,
+                    "End": 41723
+                },
+                {
+                    "Reply": "You know best, as usual.",
+                    "Didascalie": "",
+                    "Start": 41815,
+                    "End": 41840
+                },
+                {
+                    "Reply": "There's been a change of plans. Come along, please. Don't straggle.",
+                    "Didascalie": "",
+                    "Start": 41905,
+                    "End": 41973
+                },
+                {
+                    "Reply": "Well, how is he?",
+                    "Didascalie": "",
+                    "Start": 42145,
+                    "End": 42162
+                },
+                {
+                    "Reply": "Oh!",
+                    "Didascalie": "",
+                    "Start": 42246,
+                    "End": 42250
+                },
+                {
+                    "Reply": "Oh, highly unlikely.",
+                    "Didascalie": "",
+                    "Start": 42348,
+                    "End": 42369
+                },
+                {
+                    "Reply": "Uncle Albert, you promised!",
+                    "Didascalie": "",
+                    "Start": 42517,
+                    "End": 42545
+                },
+                {
+                    "Reply": "Jane, don't you dare! You'll only make him worse. It's really quite serious!",
+                    "Didascalie": "",
+                    "Start": 42861,
+                    "End": 42938
+                },
+                {
+                    "Reply": "You're no help at all.",
+                    "Didascalie": "",
+                    "Start": 43215,
+                    "End": 43238
+                },
+                {
+                    "Reply": "Some people laugh through their noses  Sounding something like this -- dreadful!",
+                    "Didascalie": "",
+                    "Start": 43368,
+                    "End": 43450
+                },
+                {
+                    "Reply": "You know, you're as bad as he is.",
+                    "Didascalie": "",
+                    "Start": 43685,
+                    "End": 43719
+                },
+                {
+                    "Reply": "Whoops, don't you two start. Come back down here.",
+                    "Didascalie": "",
+                    "Start": 44201,
+                    "End": 44251
+                },
+                {
+                    "Reply": "I must say, you're a sight, the lot of you!",
+                    "Didascalie": "",
+                    "Start": 44520,
+                    "End": 44564
+                },
+                {
+                    "Reply": "Such behaviour! Well, it's the most disgraceful sight I've ever seen, or my name isn't Mary Poppins.",
+                    "Didascalie": "",
+                    "Start": 44906,
+                    "End": 45007
+                },
+                {
+                    "Reply": "Now, then, children, it's time for tea. I will not have my schedule interrupted.",
+                    "Didascalie": "",
+                    "Start": 45197,
+                    "End": 45278
+                },
+                {
+                    "Reply": "And it's getting cold!",
+                    "Didascalie": "",
+                    "Start": 45376,
+                    "End": 45399
+                },
+                {
+                    "Reply": "Next thing, I suppose, you'll be wanting me to pour out. Oh, well. If I must, I must. If you'll just stop behaving like a pack of laughing hyenas! Two lumps, uncle Albert?",
+                    "Didascalie": "",
+                    "Start": 45664,
+                    "End": 45836
+                },
+                {
+                    "Reply": "Uh, Bert?",
+                    "Didascalie": "",
+                    "Start": 45883,
+                    "End": 45893
+                },
+                {
+                    "Reply": "Here, and you may pour some milk for Michael and yourself.",
+                    "Didascalie": "",
+                    "Start": 46026,
+                    "End": 46085
+                },
+                {
+                    "Reply": "Jane! Control yourself! Children, will you please sit up properly at the table? Your tea, uncle Albert.",
+                    "Didascalie": "",
+                    "Start": 46434,
+                    "End": 46538
+                },
+                {
+                    "Reply": "Then do get on with it, please!",
+                    "Didascalie": "",
+                    "Start": 46868,
+                    "End": 46900
+                },
+                {
+                    "Reply": "That will be quite enough of that! It's time to go home.",
+                    "Didascalie": "",
+                    "Start": 47453,
+                    "End": 47510
+                },
+                {
+                    "Reply": "Come along, children. Spit spot!",
+                    "Didascalie": "",
+                    "Start": 47645,
+                    "End": 47678
+                },
+                {
+                    "Reply": "Uh, keep an eye on uncle Albert, will you, Bert?",
+                    "Didascalie": "",
+                    "Start": 47985,
+                    "End": 48034
+                },
+                {
+                    "Reply": "Thank you. Come on.",
+                    "Didascalie": "",
+                    "Start": 48087,
+                    "End": 48107
+                },
+                {
+                    "Reply": "As you wish.",
+                    "Didascalie": "",
+                    "Start": 49535,
+                    "End": 49548
+                },
+                {
+                    "Reply": "I quite agree.",
+                    "Didascalie": "",
+                    "Start": 50728,
+                    "End": 50743
+                },
+                {
+                    "Reply": "Supercalifragilistic- expialidocious.",
+                    "Didascalie": "",
+                    "Start": 51388,
+                    "End": 51426
+                },
+                {
+                    "Reply": "About the life you lead   MR. BANKS   Exactly.",
+                    "Didascalie": "",
+                    "Start": 51639,
+                    "End": 51686
+                },
+                {
+                    "Reply": "They must feel the thrill of totting up a balanced book  A thousand ciphers neatly in a row   MR. BANKS   Quite right.",
+                    "Didascalie": "",
+                    "Start": 51704,
+                    "End": 51824
+                },
+                {
+                    "Reply": "When gazing at a graph that shows the profits up  Their little cup of joy should overflow   MR. BANKS   Precisely!",
+                    "Didascalie": "",
+                    "Start": 51842,
+                    "End": 51958
+                },
+                {
+                    "Reply": "It's time they learned to walk in your footsteps   MR. BANKS   My footsteps.",
+                    "Didascalie": "",
+                    "Start": 51976,
+                    "End": 52053
+                },
+                {
+                    "Reply": "To tread your straight and narrow path with pride   MR. BANKS   With pride.",
+                    "Didascalie": "",
+                    "Start": 52071,
+                    "End": 52147
+                },
+                {
+                    "Reply": "Tomorrow just as you suggest  Pressed and dressed  Jane and Michael will be at your side   MR. BANKS   Splendid! You hit the nail right on the-- at my side? Where are we going?",
+                    "Didascalie": "",
+                    "Start": 52165,
+                    "End": 52344
+                },
+                {
+                    "Reply": "To the bank, of course, exactly as you proposed.",
+                    "Didascalie": "",
+                    "Start": 52361,
+                    "End": 52410
+                },
+                {
+                    "Reply": "Of course. Now, if you'll excuse me. Tomorrow's an important day for the children. I shall see they have a proper night's sleep. Good night.",
+                    "Didascalie": "",
+                    "Start": 52453,
+                    "End": 52594
+                },
+                {
+                    "Reply": "Go? What on earth are you talking about?",
+                    "Didascalie": "",
+                    "Start": 53009,
+                    "End": 53050
+                },
+                {
+                    "Reply": "Sacked? Certainly not! I am never sacked!",
+                    "Didascalie": "",
+                    "Start": 53102,
+                    "End": 53144
+                },
+                {
+                    "Reply": "Neither am I a Maypole. Kindly stop spinning about me.",
+                    "Didascalie": "",
+                    "Start": 53256,
+                    "End": 53311
+                },
+                {
+                    "Reply": "Goats butt, birds fly, and children who are going on an outing with their father must get some sleep. Come along, please.",
+                    "Didascalie": "",
+                    "Start": 53345,
+                    "End": 53467
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 53516,
+                    "End": 53521
+                },
+                {
+                    "Reply": "Manage what?",
+                    "Didascalie": "",
+                    "Start": 53698,
+                    "End": 53711
+                },
+                {
+                    "Reply": "What an impertinent thing to say! Me putting ideas into people's heads? Really!",
+                    "Didascalie": "",
+                    "Start": 53783,
+                    "End": 53863
+                },
+                {
+                    "Reply": "To the bank.",
+                    "Didascalie": "",
+                    "Start": 53911,
+                    "End": 53924
+                },
+                {
+                    "Reply": "Well, most things he can. But sometimes a person we love through no fault of his own, can't see past the end of his nose.",
+                    "Didascalie": "",
+                    "Start": 54040,
+                    "End": 54162
+                },
+                {
+                    "Reply": "Yes. Sometimes a little thing can be quite important.",
+                    "Didascalie": "",
+                    "Start": 54214,
+                    "End": 54268
+                },
+                {
+                    "Reply": "Early each day to the steps of St. Paul's  The little old bird woman comes  In her own special way to the people she calls  Come buy my bags full of crumbs  Come feed the little birds show them you care  And you'll be glad if you do  Their young ones are hungry  Their nests are so bare  All it takes is tuppence from you  Feed the birds tuppence a bag  Tuppence, tuppence tuppence a bag  Feed the birds that's what she cries  While overhead her birds fill the skies  All around the cathedral  The saints and apostles  Look down as she sells her wares  Although you can't see it  You know they are smiling  Each time someone shows that he cares  Though her words are simple and few  Listen, listen she's calling to you  Feed the birds tuppence a bag  Tuppence, tuppence tuppence a bag  Though her words are simple and few  Listen, listen she's calling to you  Feed the birds tuppence a bag  Tuppence, tuppence tuppence a bag   MR. BANKS   Now remember that a bank is a quiet and decorous place, so we must be on our best behaviour.",
+                    "Didascalie": "",
+                    "Start": 54376,
+                    "End": 55434
+                },
+                {
+                    "Reply": "Be careful. You never know what may happen around a fireplace. Oh, bother!",
+                    "Didascalie": "",
+                    "Start": 66200,
+                    "End": 66275
+                },
+                {
+                    "Reply": "Bert, I'll thank you to stop putting ideas in their heads! There goes the other one.",
+                    "Didascalie": "",
+                    "Start": 66422,
+                    "End": 66507
+                },
+                {
+                    "Reply": "Well, we can't have them gallivanting up there like kangaroos, can we?",
+                    "Didascalie": "",
+                    "Start": 66555,
+                    "End": 66626
+                },
+                {
+                    "Reply": "Will you put your things on at once? Hurry up, please. Spit spot!",
+                    "Didascalie": "",
+                    "Start": 66703,
+                    "End": 66769
+                },
+                {
+                    "Reply": "Oh, well. If we must, we must. Fall in. Look lively, look lively. Jump to it! Jump to it! Get in line.",
+                    "Didascalie": "",
+                    "Start": 67098,
+                    "End": 67201
+                },
+                {
+                    "Reply": "Not at all.",
+                    "Didascalie": "",
+                    "Start": 67373,
+                    "End": 67385
+                },
+                {
+                    "Reply": "Quite nice, but we should all get in out of the night air. Follow me, please.",
+                    "Didascalie": "",
+                    "Start": 67542,
+                    "End": 67620
+                },
+                {
+                    "Reply": "Come along, children. Spit spot.",
+                    "Didascalie": "",
+                    "Start": 71336,
+                    "End": 71369
+                },
+                {
+                    "Reply": "I beg your pardon?",
+                    "Didascalie": "",
+                    "Start": 71466,
+                    "End": 71485
+                },
+                {
+                    "Reply": "First of all, I would like to make one thing quite clear.",
+                    "Didascalie": "",
+                    "Start": 71561,
+                    "End": 71619
+                },
+                {
+                    "Reply": "I never explain anything.",
+                    "Didascalie": "",
+                    "Start": 71655,
+                    "End": 71681
+                },
+                {
+                    "Reply": "Will you bring me my hat stand, please?",
+                    "Didascalie": "",
+                    "Start": 78444,
+                    "End": 78484
+                },
+                {
+                    "Reply": "And what would happen to me, may I ask, if I loved all the children I said good-bye to?",
+                    "Didascalie": "",
+                    "Start": 78543,
+                    "End": 78631
+                },
+                {
+                    "Reply": "Run along. Spit spot!",
+                    "Didascalie": "",
+                    "Start": 80415,
+                    "End": 80437
+                },
+                {
+                    "Reply": "Spit spot.",
+                    "Didascalie": "",
+                    "Start": 80504,
+                    "End": 80515
+                },
+                {
+                    "Reply": "No, they didn't.",
+                    "Didascalie": "",
+                    "Start": 82286,
+                    "End": 82303
+                },
+                {
+                    "Reply": "That's as it should be.",
+                    "Didascalie": "",
+                    "Start": 82410,
+                    "End": 82434
+                },
+                {
+                    "Reply": "Practically perfect people never permit sentiment to muddle their thinking.",
+                    "Didascalie": "",
+                    "Start": 82486,
+                    "End": 82562
+                },
+                {
+                    "Reply": "Oh, really?",
+                    "Didascalie": "",
+                    "Start": 82674,
+                    "End": 82686
+                },
+                {
+                    "Reply": "That will be quite enough of that, thank you.",
+                    "Didascalie": "",
+                    "Start": 82841,
+                    "End": 82887
+                }
+            ]
+        },
+        {
+            "Character": "ANIMALS",
+            "Replies": [
+                {
+                    "Reply": "Oh, it's a jolly holiday with Mary  Mary makes your heart so light  When the day is gray and ordinary  Mary makes the sun shine bright  Oh, happiness is bloomin' all around her  The daffodils are smiling at the dove oink, oink.",
+                    "Didascalie": "",
+                    "Start": 27326,
+                    "End": 27559
+                }
+            ]
+        },
+        {
+            "Character": "TURTLES",
+            "Replies": [
+                {
+                    "Reply": "Our pleasure, Mary Poppins.",
+                    "Didascalie": "",
+                    "Start": 27770,
+                    "End": 27798
+                }
+            ]
+        },
+        {
+            "Character": "WAITER",
+            "Replies": [
+                {
+                    "Reply": "Anything for you, Mary Poppins. You're our favorite person.",
+                    "Didascalie": "",
+                    "Start": 28596,
+                    "End": 28656
+                }
+            ]
+        },
+        {
+            "Character": "GUARD",
+            "Replies": [
+                {
+                    "Reply": "Righto, Mary Poppins.",
+                    "Didascalie": "",
+                    "Start": 29720,
+                    "End": 29742
+                },
+                {
+                    "Reply": "They're off! It's Mary Poppins leadin' by two lengths. Jane is second by a length. Michael third.",
+                    "Didascalie": "",
+                    "Start": 29780,
+                    "End": 29878
+                }
+            ]
+        },
+        {
+            "Character": "HUNTER",
+            "Replies": [
+                {
+                    "Reply": "Oh, yes, quite. Wha-- I say! Have you ever?",
+                    "Didascalie": "",
+                    "Start": 30397,
+                    "End": 30441
+                },
+                {
+                    "Reply": "View halloo!",
+                    "Didascalie": "",
+                    "Start": 30469,
+                    "End": 30482
+                }
+            ]
+        },
+        {
+            "Character": "HORSE",
+            "Replies": [
+                {
+                    "Reply": "Never!",
+                    "Didascalie": "",
+                    "Start": 30451,
+                    "End": 30458
+                },
+                {
+                    "Reply": "Oh, yes, definitely. A view halloo.",
+                    "Didascalie": "",
+                    "Start": 30492,
+                    "End": 30528
+                }
+            ]
+        },
+        {
+            "Character": "FOX",
+            "Replies": [
+                {
+                    "Reply": "View halloo?",
+                    "Didascalie": "",
+                    "Start": 30536,
+                    "End": 30549
+                },
+                {
+                    "Reply": "Oh, musha, musha.",
+                    "Didascalie": "",
+                    "Start": 30651,
+                    "End": 30669
+                },
+                {
+                    "Reply": "Saints preserve us! Yikes!",
+                    "Didascalie": "",
+                    "Start": 30727,
+                    "End": 30754
+                },
+                {
+                    "Reply": "Would you look at that now? 'Tis an elegant merry-go-round horse. Come on and fight, you dirty omadhauns. I can lick the lot of ya's. Faster, me beauty! Faster!",
+                    "Didascalie": "",
+                    "Start": 30824,
+                    "End": 30985
+                }
+            ]
+        },
+        {
+            "Character": "DOGS",
+            "Replies": [
+                {
+                    "Reply": "View halloo! View halloo! View halloo!",
+                    "Didascalie": "",
+                    "Start": 30604,
+                    "End": 30643
+                }
+            ]
+        },
+        {
+            "Character": "HORSE RIDER",
+            "Replies": [
+                {
+                    "Reply": "Certainly, ma'am.",
+                    "Didascalie": "",
+                    "Start": 31070,
+                    "End": 31088
+                },
+                {
+                    "Reply": "Not at all, ma'am.",
+                    "Didascalie": "",
+                    "Start": 31132,
+                    "End": 31151
+                }
+            ]
+        },
+        {
+            "Character": "SPECTATOR 1",
+            "Replies": [
+                {
+                    "Reply": "Excellent time, gentlemen.",
+                    "Didascalie": "",
+                    "Start": 31167,
+                    "End": 31194
+                }
+            ]
+        },
+        {
+            "Character": "SPECTATOR 2",
+            "Replies": [
+                {
+                    "Reply": "Oh, yes, quite. - perfect day for it, of course.",
+                    "Didascalie": "",
+                    "Start": 31210,
+                    "End": 31259
+                }
+            ]
+        },
+        {
+            "Character": "CROWD",
+            "Replies": [
+                {
+                    "Reply": "Hooray! Hooray! Hooray! Hooray! Hooray! Hooray! Hooray!",
+                    "Didascalie": "",
+                    "Start": 31304,
+                    "End": 31360
+                }
+            ]
+        },
+        {
+            "Character": "PHOTOGRAPHER",
+            "Replies": [
+                {
+                    "Reply": "Hold still, now. Watch for the dickie bird.",
+                    "Didascalie": "",
+                    "Start": 31377,
+                    "End": 31421
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Uh, how does it feel, Mary Poppins, winning the race?",
+                    "Didascalie": "",
+                    "Start": 31436,
+                    "End": 31490
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "- gaining fame and fortune.",
+                    "Didascalie": "",
+                    "Start": 31535,
+                    "End": 31563
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "Having your picture taken for the newspaper.",
+                    "Didascalie": "",
+                    "Start": 31604,
+                    "End": 31649
+                },
+                {
+                    "Reply": "There probably aren't words to describe your emotions.",
+                    "Didascalie": "",
+                    "Start": 31829,
+                    "End": 31884
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 4",
+            "Replies": [
+                {
+                    "Reply": "Besides having your extreme good looks, if I may say so.",
+                    "Didascalie": "",
+                    "Start": 31714,
+                    "End": 31771
+                }
+            ]
+        },
+        {
+            "Character": "DRUMMER",
+            "Replies": [
+                {
+                    "Reply": "For example.",
+                    "Didascalie": "",
+                    "Start": 34042,
+                    "End": 34055
+                },
+                {
+                    "Reply": "One night I said it to me girl, and now me girl's me wife.",
+                    "Didascalie": "",
+                    "Start": 34089,
+                    "End": 34148
+                }
+            ]
+        },
+        {
+            "Character": "UNCLE ALBERT",
+            "Replies": [
+                {
+                    "Reply": "Oh, bless me. Bless my soul. It's Mary Poppins! I'm delight-- -I'm delighted to see you, Mary.",
+                    "Didascalie": "",
+                    "Start": 42405,
+                    "End": 42500
+                },
+                {
+                    "Reply": "Oh, I kn-- I know, I-- but I tried. Really, I did, my dear. I-- but I so enjoy laughing, you know? And, well-- and when I start, it's all up with the-- that's what happens to me. I love to laugh! Oh, my goodness! I can't help it. You can see that. I just like laughing, that's all.",
+                    "Didascalie": "",
+                    "Start": 42562,
+                    "End": 42844
+                },
+                {
+                    "Reply": "The more the glee  The more I'm a merrier me  It's embarrassing.",
+                    "Didascalie": "",
+                    "Start": 43256,
+                    "End": 43322
+                },
+                {
+                    "Reply": "When things strike me as funny I can't hide it inside  And squeak as the squeakelers do  I've got to let go with a ho ho ho ho  And laugh too  How nice! I was hoping you'd turn up.",
+                    "Didascalie": "",
+                    "Start": 43799,
+                    "End": 43983
+                },
+                {
+                    "Reply": "We always have such a jolly time.",
+                    "Didascalie": "",
+                    "Start": 44018,
+                    "End": 44052
+                },
+                {
+                    "Reply": "Oh, welcome, children! Welcome! Make yourselves comfortable.",
+                    "Didascalie": "",
+                    "Start": 44371,
+                    "End": 44432
+                },
+                {
+                    "Reply": "Oh, pull up--",
+                    "Didascalie": "",
+                    "Start": 44489,
+                    "End": 44503
+                },
+                {
+                    "Reply": "In a watch factory? What does he do?",
+                    "Didascalie": "",
+                    "Start": 44684,
+                    "End": 44721
+                },
+                {
+                    "Reply": "He makes faces in a watch fact-- you made that up.",
+                    "Didascalie": "",
+                    "Start": 44788,
+                    "End": 44839
+                },
+                {
+                    "Reply": "That's so good!",
+                    "Didascalie": "",
+                    "Start": 44873,
+                    "End": 44889
+                },
+                {
+                    "Reply": "What's the name of his other leg? Wasn't that funny? What's the name of his other--",
+                    "Didascalie": "",
+                    "Start": 45096,
+                    "End": 45180
+                },
+                {
+                    "Reply": "Oh, please stay. Look, I have a splendid tea all ready for you.",
+                    "Didascalie": "",
+                    "Start": 45295,
+                    "End": 45359
+                },
+                {
+                    "Reply": "Well, I had hoped that maybe, that you would just, that-- splendid! Thank you very much! Keep your feet back. Mind the bread and butter. Now, watch it, children.",
+                    "Didascalie": "",
+                    "Start": 45416,
+                    "End": 45578
+                },
+                {
+                    "Reply": "Yes, please.",
+                    "Didascalie": "",
+                    "Start": 45853,
+                    "End": 45866
+                },
+                {
+                    "Reply": "Oh, yeah. Uh, speaking of weather, the other day when it was so cold, a friend of mine went to buy some long underwear, you know. The shopkeeper said to him, \"How long do you want it?\"",
+                    "Didascalie": "",
+                    "Start": 46173,
+                    "End": 46358
+                },
+                {
+                    "Reply": "Oh, thank you, my dear. I'm having such a good time. I wish that you could all stay up here all the time.",
+                    "Didascalie": "",
+                    "Start": 46555,
+                    "End": 46661
+                },
+                {
+                    "Reply": "Oh, no, there is a way. Frankly I, I don't like to mention it, because you have to think of something sad.",
+                    "Didascalie": "",
+                    "Start": 46744,
+                    "End": 46851
+                },
+                {
+                    "Reply": "Let me see. I've got the very thing. Yesterday when the lady next door answered the bell, there was a man there. And the man said to the lady, \"I'm terribly sorry. I just ran over your cat.\"",
+                    "Didascalie": "",
+                    "Start": 46917,
+                    "End": 47108
+                },
+                {
+                    "Reply": "And then the man said, \"I'd like to replace your cat.\" and the lady said, \"That's all right with me, but how are you at catching mice?\"",
+                    "Didascalie": "",
+                    "Start": 47176,
+                    "End": 47312
+                },
+                {
+                    "Reply": "Oh, that's sad. That's the saddest thing I ever heard.",
+                    "Didascalie": "",
+                    "Start": 47573,
+                    "End": 47628
+                },
+                {
+                    "Reply": "Must you really go? You know, people come to see me all the time, you know. And, and we have such a lovely time, and then they have to go home. And, and I'm very, very sad about the whole thing.",
+                    "Didascalie": "",
+                    "Start": 47695,
+                    "End": 47890
+                },
+                {
+                    "Reply": "I'd be so grateful.",
+                    "Didascalie": "",
+                    "Start": 48228,
+                    "End": 48248
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 48419,
+                    "End": 48424
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 48500,
+                    "End": 48505
+                },
+                {
+                    "Reply": "No. And that was nothing like a good joke! That-",
+                    "Didascalie": "",
+                    "Start": 48637,
+                    "End": 48686
+                }
+            ]
+        },
+        {
+            "Character": "BIRDWOMAN",
+            "Replies": [
+                {
+                    "Reply": "Feed the birds. Tuppence a bag.",
+                    "Didascalie": "",
+                    "Start": 55883,
+                    "End": 55915
+                }
+            ]
+        },
+        {
+            "Character": "BANK DIRECTORS",
+            "Replies": [
+                {
+                    "Reply": "Very well, my boy, give me the money.",
+                    "Didascalie": "",
+                    "Start": 58667,
+                    "End": 58705
+                },
+                {
+                    "Reply": "You can purchase first and second trust deeds. Think of the foreclosures! Bonds, chattels, dividends, shares. Bankruptcies. Debtor sales. Opportunities. All manner of private enterprise.",
+                    "Didascalie": "",
+                    "Start": 59232,
+                    "End": 59419
+                },
+                {
+                    "Reply": "Welcome to our joyful family of investors.",
+                    "Didascalie": "",
+                    "Start": 59873,
+                    "End": 59916
+                }
+            ]
+        },
+        {
+            "Character": "CLIENT 1",
+            "Replies": [
+                {
+                    "Reply": "There's something wrong. The bank won't give someone their money!",
+                    "Didascalie": "",
+                    "Start": 60240,
+                    "End": 60306
+                }
+            ]
+        },
+        {
+            "Character": "CLIENT 2",
+            "Replies": [
+                {
+                    "Reply": "Well, I'm going to get mine! Come along, young man! I want every penny!",
+                    "Didascalie": "",
+                    "Start": 60319,
+                    "End": 60391
+                }
+            ]
+        },
+        {
+            "Character": "CLIENT 3",
+            "Replies": [
+                {
+                    "Reply": "And mine, too!",
+                    "Didascalie": "",
+                    "Start": 60404,
+                    "End": 60419
+                }
+            ]
+        },
+        {
+            "Character": "CLIENT 4",
+            "Replies": [
+                {
+                    "Reply": "And give me mine, too!",
+                    "Didascalie": "",
+                    "Start": 60432,
+                    "End": 60455
+                }
+            ]
+        },
+        {
+            "Character": "BANKER",
+            "Replies": [
+                {
+                    "Reply": "Stop all payments. Stop all payments.",
+                    "Didascalie": "",
+                    "Start": 60466,
+                    "End": 60504
+                }
+            ]
+        },
+        {
+            "Character": "MICHEAL",
+            "Replies": [
+                {
+                    "Reply": "Gimme my money back! I want my money! Come on.",
+                    "Didascalie": "",
+                    "Start": 60685,
+                    "End": 60732
+                }
+            ]
+        },
+        {
+            "Character": "DIRECTOR",
+            "Replies": [
+                {
+                    "Reply": "Stop those children! Stop those children!",
+                    "Didascalie": "",
+                    "Start": 60745,
+                    "End": 60787
+                }
+            ]
+        },
+        {
+            "Character": "OLD WOMAN",
+            "Replies": [
+                {
+                    "Reply": "Come with me, my dears. Granny'll hide you!",
+                    "Didascalie": "",
+                    "Start": 60801,
+                    "End": 60845
+                }
+            ]
+        },
+        {
+            "Character": "CHIMNEY SWEEPS",
+            "Replies": [
+                {
+                    "Reply": "Cheroo! Cheroo! Cheroo! Cheroo! Cheroo! Cheroo!",
+                    "Didascalie": "",
+                    "Start": 67902,
+                    "End": 67950
+                },
+                {
+                    "Reply": "They're at it again!",
+                    "Didascalie": "",
+                    "Start": 70183,
+                    "End": 70204
+                },
+                {
+                    "Reply": "Votes for women, step in time  Votes for women, step in time   MRS. BANKS   Oh, no, really, not at the moment.",
+                    "Didascalie": "",
+                    "Start": 70466,
+                    "End": 70578
+                },
+                {
+                    "Reply": "Votes for women  Votes for women!",
+                    "Didascalie": "",
+                    "Start": 70598,
+                    "End": 70633
+                },
+                {
+                    "Reply": "It's the master,  Step in time  It's the master, step in time   MR. BANKS   What's all this?",
+                    "Didascalie": "",
+                    "Start": 70680,
+                    "End": 70775
+                },
+                {
+                    "Reply": "What's all this  What's all this?",
+                    "Didascalie": "",
+                    "Start": 70795,
+                    "End": 70830
+                }
+            ]
+        },
+        {
+            "Character": "DIRECTOR 1",
+            "Replies": [
+                {
+                    "Reply": "No, not that!",
+                    "Didascalie": "",
+                    "Start": 75962,
+                    "End": 75976
+                }
+            ]
+        },
+        {
+            "Character": "DIRECTOR 2",
+            "Replies": [
+                {
+                    "Reply": "Steady on.",
+                    "Didascalie": "",
+                    "Start": 75991,
+                    "End": 76002
+                }
+            ]
+        },
+        {
+            "Character": "KITE FLYERS",
+            "Replies": [
+                {
+                    "Reply": "Let's go fly a kite  Up to the highest height  Let's go fly a kite and send it soaring   MR. DAWES   Oh, there you are, Banks. I want to congratulate you. Capital bit of humor. Wooden leg named Smith. Or Jones or whatever it was. Father died laughing.",
+                    "Didascalie": "",
+                    "Start": 81603,
+                    "End": 81857
+                }
+            ]
+        },
+        {
+            "Character": "UMBRELLA",
+            "Replies": [
+                {
+                    "Reply": "That's gratitude for you. Didn't even say good-bye.",
+                    "Didascalie": "",
+                    "Start": 82217,
+                    "End": 82269
+                },
+                {
+                    "Reply": "Look at them. You know, they think more of their father than they do of you.",
+                    "Didascalie": "",
+                    "Start": 82316,
+                    "End": 82393
+                },
+                {
+                    "Reply": "Well, don't you care?",
+                    "Didascalie": "",
+                    "Start": 82447,
+                    "End": 82469
+                },
+                {
+                    "Reply": "Is that so? Well, I'll tell you one thing, Mary Poppins, you don't fool me a bit.",
+                    "Didascalie": "",
+                    "Start": 82575,
+                    "End": 82657
+                },
+                {
+                    "Reply": "Yes, really. I know exactly how you feel about these children. And if you think I'm gonna keep my mouth shut any longer, I--",
+                    "Didascalie": "",
+                    "Start": 82699,
+                    "End": 82824
+                }
+            ]
+        }
+    ]
 }

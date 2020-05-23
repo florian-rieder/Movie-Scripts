@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Lord of the Rings: The Two Towers",
-        "   "
-    ],
+    "Title": "Lord of the Rings: The Two Towers",
     "Author": [
-        "\u00a0\u00a0Peter Jackson\u00a0\u00a0Fran Walsh\u00a0\u00a0Philippa Boyens"
+        "Peter Jackson",
+        "Fran Walsh",
+        "Philippa Boyens"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -1237,12 +1238,6 @@
                     "Didascalie": "",
                     "Start": 201173,
                     "End": 201181
-                },
-                {
-                    "Reply": "RANGER 1 Look! Osgiliath burns!",
-                    "Didascalie": "",
-                    "Start": 201929,
-                    "End": 201986
                 },
                 {
                     "Reply": "Yes!",
@@ -2939,6 +2934,57 @@
             ]
         },
         {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Move back! Move to the caves!",
+                    "Didascalie": "",
+                    "Start": 166796,
+                    "End": 166826
+                },
+                {
+                    "Reply": "Make way!",
+                    "Didascalie": "",
+                    "Start": 196498,
+                    "End": 196508
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Keep moving!",
+                    "Didascalie": "",
+                    "Start": 166899,
+                    "End": 166912
+                },
+                {
+                    "Reply": "Follow me to the barricade.",
+                    "Didascalie": "",
+                    "Start": 196581,
+                    "End": 196609
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 3",
+            "Replies": [
+                {
+                    "Reply": "Quickly now!",
+                    "Didascalie": "",
+                    "Start": 166985,
+                    "End": 166998
+                },
+                {
+                    "Reply": "Watch our backs!",
+                    "Didascalie": "",
+                    "Start": 196682,
+                    "End": 196699
+                }
+            ]
+        },
+        {
             "Character": "HALETH",
             "Replies": [
                 {
@@ -3013,6 +3059,39 @@
                     "Didascalie": "",
                     "Start": 194746,
                     "End": 194771
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 4",
+            "Replies": [
+                {
+                    "Reply": "Throw another one over here!",
+                    "Didascalie": "",
+                    "Start": 196772,
+                    "End": 196801
+                }
+            ]
+        },
+        {
+            "Character": "RANGER 1",
+            "Replies": [
+                {
+                    "Reply": "Look! Osgiliath burns!",
+                    "Didascalie": "",
+                    "Start": 201963,
+                    "End": 201986
+                }
+            ]
+        },
+        {
+            "Character": "RANGER 2",
+            "Replies": [
+                {
+                    "Reply": "Mordor has come.",
+                    "Didascalie": "",
+                    "Start": 202058,
+                    "End": 202075
                 }
             ]
         },

@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Grosse Point Blank",
-        "   "
-    ],
+    "Title": "Grosse Point Blank",
     "Author": [
-        "\u00a0\u00a0Tom Jankiewicz\u00a0\u00a0 D.V. deVincentis\u00a0\u00a0 S.K. Boatman\u00a0\u00a0John Cusack"
+        "Tom Jankiewicz",
+        " D.V. deVincentis",
+        " S.K. Boatman",
+        "John Cusack"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Crime",
+        "Comedy",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -18,17 +21,6 @@
                     "Didascalie": "",
                     "Start": 159,
                     "End": 211
-                }
-            ]
-        },
-        {
-            "Character": "A POLISHED BRASS SPRINKLER HEAD",
-            "Replies": [
-                {
-                    "Reply": "pops up from the ground and begins to water the already dew-",
-                    "Didascalie": "",
-                    "Start": 412,
-                    "End": 473
                 }
             ]
         },
@@ -2490,17 +2482,6 @@
             ]
         },
         {
-            "Character": "A DROP FALLS",
-            "Replies": [
-                {
-                    "Reply": "It misses the man's mouth and hit's his cheek.",
-                    "Didascalie": "",
-                    "Start": 19300,
-                    "End": 19347
-                }
-            ]
-        },
-        {
             "Character": "HUSKY MAN",
             "Replies": [
                 {
@@ -2564,39 +2545,6 @@
                     "Didascalie": "",
                     "Start": 31785,
                     "End": 31791
-                }
-            ]
-        },
-        {
-            "Character": "INSERT-ALBUM",
-            "Replies": [
-                {
-                    "Reply": "A teen-aged Martin Blank: shy boy with a nervous smile. He poses with his mother, an older woman with a kind smile...",
-                    "Didascalie": "",
-                    "Start": 30817,
-                    "End": 30938
-                }
-            ]
-        },
-        {
-            "Character": "INSERT-PHOTO ALBUM",
-            "Replies": [
-                {
-                    "Reply": "A photograph of a tall, thin girl: a bright smile from within a bulky winter coat. A girl he's always wondered about: DEBI NEWBERRY. Handwritten on the photo in girlish loops: \"Would you rather...?!\"",
-                    "Didascalie": "",
-                    "Start": 31159,
-                    "End": 31365
-                }
-            ]
-        },
-        {
-            "Character": "INSERT-YEARBOOK",
-            "Replies": [
-                {
-                    "Reply": "A picture of a senior class \"Blues Brothers\" party: a group of teens mug to the camera in Blues Brothers get-ups. Sprinters race for a finish line, their chests stretching for the tape.",
-                    "Didascalie": "",
-                    "Start": 31987,
-                    "End": 32179
                 }
             ]
         },
@@ -4058,17 +4006,6 @@
                     "Didascalie": "",
                     "Start": 61844,
                     "End": 61917
-                }
-            ]
-        },
-        {
-            "Character": "A BOMB",
-            "Replies": [
-                {
-                    "Reply": "under the corpse.",
-                    "Didascalie": "",
-                    "Start": 62003,
-                    "End": 62021
                 }
             ]
         },

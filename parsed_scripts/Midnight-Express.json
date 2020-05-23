@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Midnight Express",
-        "   "
-    ],
+    "Title": "Midnight Express",
     "Author": [
-        "\u00a0\u00a0Oliver Stone\u00a0\u00a0Billy Hayes\u00a0\u00a0William Hoffer"
+        "Oliver Stone",
+        "Billy Hayes",
+        "William Hoffer"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -671,18 +672,6 @@
                     "Didascalie": "",
                     "Start": 154738,
                     "End": 154759
-                },
-                {
-                    "Reply": "I HAVE FIFTY THREE DAYS LEFT!  HAMIDOU takes out a KNIFE and cuts the consul's tie in half.  DAVIS falls backwards.",
-                    "Didascalie": "",
-                    "Start": 154927,
-                    "End": 155075
-                },
-                {
-                    "Reply": "I HAVE FIFTY THREE DAYS LEFT!",
-                    "Didascalie": "",
-                    "Start": 155254,
-                    "End": 155284
                 },
                 {
                     "Reply": "...What is the crime?  And what is the punishment?  The answer seems to vary from place to place, and from time to time. What's legal today is suddenly illegal tomorrow cause some society says it's so; and what's illegal yesterday all of a sudden gets legal today because everybody's doing it and you can't throw everybody in jail. Well I'm not saying this is right or wrong. It's just the way things are....",
@@ -3656,12 +3645,6 @@
                     "Didascalie": "",
                     "Start": 209087,
                     "End": 209151
-                },
-                {
-                    "Reply": "Head count!  Head count!  CUT:  A MASS OF LUNATICS in the ROOM all at once.  Attendants take a redundant and comic head count. The place sounds like a \"yadi yadi room\" the noise fearsome.",
-                    "Didascalie": "",
-                    "Start": 222367,
-                    "End": 222671
                 }
             ]
         },
@@ -4023,17 +4006,6 @@
                     "Didascalie": "(It sounded like Turkish)",
                     "Start": 272444,
                     "End": 272491
-                }
-            ]
-        },
-        {
-            "Character": "FARMER",
-            "Replies": [
-                {
-                    "Reply": "CUT:  CAR DOOR SLAMS SHUT - and BILLY, his movements still weak, moves a few steps from the car and stops.  SUBTITLE:  OCTOBER 24, 1975 - BABYLON, LONG ISLAND  Framing Billy are SUSAN and his FATHER, both silent.  They look with him at  HIS SISTER, BROTHER, UNCLE, AUNT, SISTER-In-LAW FAMILY FRIEND - AND GRANDMOTHER, all on the porch of the ordinary house in BABYLON, LONG ISLAND - DAY; all of them returning his gaze in that first SILENT moment. Curiosity. Recognition. Shock. Love.",
-                    "Didascalie": "",
-                    "Start": 272792,
-                    "End": 273442
                 }
             ]
         }

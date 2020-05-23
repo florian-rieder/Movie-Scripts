@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Public Enemies",
-        "   "
-    ],
+    "Title": "Public Enemies",
     "Author": [
-        "\u00a0\u00a0Ronan Bennett\u00a0\u00a0Michael Mann\u00a0\u00a0Ann Eiderman"
+        "Ronan Bennett",
+        "Michael Mann",
+        "Ann Eiderman"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1717,12 +1718,6 @@
                     "Didascalie": "",
                     "Start": 5903,
                     "End": 5920
-                },
-                {
-                    "Reply": "4  CONTINUED: This Guard gives Shouse an insolent look. Shouse slams the Guard's head with a length of steel pipe. Guard goes down.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 5942,
-                    "End": 6164
                 },
                 {
                     "Reply": "The bastard wouldn't do what he was told, Johnny. .Pete? Homer?",
@@ -4116,12 +4111,6 @@
                     "Didascalie": "",
                     "Start": 140941,
                     "End": 140949
-                },
-                {
-                    "Reply": "87  CONTINUED: Baum's eyes flicker.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 140971,
-                    "End": 141087
                 }
             ]
         },
@@ -4418,12 +4407,6 @@
                     "Didascalie": "",
                     "Start": 137019,
                     "End": 137206
-                },
-                {
-                    "Reply": "85  CONTINUED: rolls forward under the two 5-SHOT BURSTS from Dillinger and...",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 137723,
-                    "End": 137892
                 },
                 {
                     "Reply": "signals above and behind him. to...",
@@ -5168,12 +5151,6 @@
                     "End": 101912
                 },
                 {
-                    "Reply": "63  CONTINUED: Youngblood shoves the Thompson out the window and fires some rounds. Meanwhile, Dillinger floors it, The V-8 roars, rockets them ahead.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 101934,
-                    "End": 102185
-                },
-                {
                     "Reply": "We are.",
                     "Didascalie": "",
                     "Start": 102315,
@@ -5308,12 +5285,6 @@
                     "Didascalie": "",
                     "Start": 120986,
                     "End": 121109
-                },
-                {
-                    "Reply": "113  CONTINUED: heads right for it.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 182134,
-                    "End": 182250
                 },
                 {
                     "Reply": "walk to the electric chair...",

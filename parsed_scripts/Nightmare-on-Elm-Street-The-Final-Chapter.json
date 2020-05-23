@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Nightmare on Elm Street: The Final Chapter",
-        "   "
-    ],
+    "Title": "Nightmare on Elm Street: The Final Chapter",
     "Author": [
-        "\u00a0\u00a0Wes Craven\u00a0\u00a0Rachel Talalay"
+        "Wes Craven",
+        "Rachel Talalay"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Mystery"
+        "Comedy",
+        "Horror",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -4315,17 +4315,6 @@
             ]
         },
         {
-            "Character": "A CRAZED LUNATIC",
-            "Replies": [
-                {
-                    "Reply": "enthusiasm.  Wesley appears in the doorway, checking out the source of the screaming.  He looks at Gina, who tosses the blanket aside and rises, frowning.  The lunatic on television continues his blood-curdling SHRIEKS.",
-                    "Didascalie": "",
-                    "Start": 73826,
-                    "End": 74070
-                }
-            ]
-        },
-        {
             "Character": "ORDERLY ON TV",
             "Replies": [
                 {
@@ -4356,17 +4345,6 @@
                     "Didascalie": "",
                     "Start": 76984,
                     "End": 77013
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "The carpet at the edge of the room is bunched up as though the walls of the room itself have budged a few inches inward.",
-                    "Didascalie": "",
-                    "Start": 76287,
-                    "End": 76416
                 }
             ]
         },

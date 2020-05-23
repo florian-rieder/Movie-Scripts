@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "Stuntman, The",
-        "   "
-    ],
+    "Title": "Stuntman, The",
     "Author": [
-        "\u00a0\u00a0Lawrence B. Marcus\u00a0\u00a0Richard Rush\u00a0\u00a0Paul Brodeur"
+        "Lawrence B. Marcus",
+        "Richard Rush",
+        "Paul Brodeur"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {

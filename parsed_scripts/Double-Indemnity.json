@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Double Indemnity",
-        "   "
-    ],
+    "Title": "Double Indemnity",
     "Author": [
-        "\u00a0\u00a0James M. Cain\u00a0\u00a0Billy Wilder\u00a0\u00a0Raymond Chandler"
+        "James M. Cain",
+        "Billy Wilder",
+        "Raymond Chandler"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Film-Noir\u00a0\u00a0Drama"
+        "Crime",
+        "Film-Noir",
+        "Drama"
     ],
     "Characters": [
         {
@@ -18,6 +19,28 @@
                     "Didascalie": "",
                     "Start": 762,
                     "End": 775
+                }
+            ]
+        },
+        {
+            "Character": "A-2 A LIGHT NEWSPAPER TRUCK",
+            "Replies": [
+                {
+                    "Reply": "is crossing the intersection at right angles. It swerves and skids to avoid the Dodge, which goes on as though nothing had happened. The truck stops with a panicky screech of tires. There is a large sign on the truck: \"READ THE LOS ANGELES TIMES\". The truck driver's infuriated face stares after the coupe.",
+                    "Didascalie": "",
+                    "Start": 1425,
+                    "End": 1812
+                }
+            ]
+        },
+        {
+            "Character": "A-7 ELEVATOR",
+            "Replies": [
+                {
+                    "Reply": "Neff stands leaning against wall. He is pale and haggard with pain, but deadpans as night watchman joins him.",
+                    "Didascalie": "",
+                    "Start": 4385,
+                    "End": 4511
                 }
             ]
         },
@@ -2511,6 +2534,28 @@
             ]
         },
         {
+            "Character": "A-8 TWELFTH FLOOR INSURANCE OFFICE",
+            "Replies": [
+                {
+                    "Reply": "Neff comes through the double entrance doors from the reception room. The twelfth floor is dark. Some light shines up from the eleventh floor. Neff takes a few steps then holds on to the balcony railing and looks down.",
+                    "Didascalie": "",
+                    "Start": 6982,
+                    "End": 7249
+                }
+            ]
+        },
+        {
+            "Character": "A-10 NEFF",
+            "Replies": [
+                {
+                    "Reply": "a glass door with number twenty-seven on it and three names: HENRY B. ANDERSON, WALTER NEFF, LOUIS L. SCHWARTZ. Neff opens the door.",
+                    "Didascalie": "",
+                    "Start": 7856,
+                    "End": 8021
+                }
+            ]
+        },
+        {
             "Character": "MAID",
             "Replies": [
                 {
@@ -3986,6 +4031,61 @@
                     "Didascalie": "",
                     "Start": 289144,
                     "End": 289217
+                }
+            ]
+        },
+        {
+            "Character": "A-21 PHYLLIS",
+            "Replies": [
+                {
+                    "Reply": "She glances over her towel costume.",
+                    "Didascalie": "",
+                    "Start": 19767,
+                    "End": 19803
+                }
+            ]
+        },
+        {
+            "Character": "A-24 ENTRANCE HALL",
+            "Replies": [
+                {
+                    "Reply": "Neff watches Phyllis out of sight. He speaks to the maid while still looking up.",
+                    "Didascalie": "",
+                    "Start": 20753,
+                    "End": 20850
+                }
+            ]
+        },
+        {
+            "Character": "A-30 NEFF",
+            "Replies": [
+                {
+                    "Reply": "He sits in his car, presses the starter button, looking back towards the little window in the entrance door.",
+                    "Didascalie": "",
+                    "Start": 35267,
+                    "End": 35392
+                }
+            ]
+        },
+        {
+            "Character": "A-31 ENTRANCE DOOR",
+            "Replies": [
+                {
+                    "Reply": "The peep window is quickly closed from inside.",
+                    "Didascalie": "",
+                    "Start": 35443,
+                    "End": 35490
+                }
+            ]
+        },
+        {
+            "Character": "A-32 STREET",
+            "Replies": [
+                {
+                    "Reply": "Neff makes a U-turn and drives back down the block.",
+                    "Didascalie": "",
+                    "Start": 35534,
+                    "End": 35586
                 }
             ]
         },
@@ -5545,6 +5645,17 @@
             ]
         },
         {
+            "Character": "B-8 ZACHETTI",
+            "Replies": [
+                {
+                    "Reply": "He turns around and looks towards the car.",
+                    "Didascalie": "",
+                    "Start": 114208,
+                    "End": 114251
+                }
+            ]
+        },
+        {
             "Character": "ZACHETTI",
             "Replies": [
                 {
@@ -5658,6 +5769,23 @@
                     "Didascalie": "",
                     "Start": 144174,
                     "End": 144241
+                }
+            ]
+        },
+        {
+            "Character": "B-33 NEFF",
+            "Replies": [
+                {
+                    "Reply": "He is folding a hand towel and stuffing it into his jacket pocket. He then takes a large roll of adhesive tape and puts that into his pants pocket.",
+                    "Didascalie": "",
+                    "Start": 146108,
+                    "End": 146288
+                },
+                {
+                    "Reply": "I stuffed a hand towel and a big roll of adhesive tape into my pockets, so I could fake something that looked like a cast on a broken leg... Next I fixed the telephone and the doorbell, so that the cards would fall down if the bells rang. That way I would know there had been a phone call or visitor while I was away. I left the apartment house by the fire stairs and side door. Nobody saw me. It was already getting dark. I took the Vermont Avenue bus to Los Feliz and walked from there up to the Dietrichson house. There was that smell of honeysuckle again, only stronger, now that it was evening.",
+                    "Didascalie": "(Cont'd)",
+                    "Start": 146454,
+                    "End": 147522
                 }
             ]
         },
@@ -5777,6 +5905,17 @@
                     "Didascalie": "",
                     "Start": 163885,
                     "End": 164004
+                }
+            ]
+        },
+        {
+            "Character": "B-58 OBSERVATION PLATFORM",
+            "Replies": [
+                {
+                    "Reply": "Dark except for a little light coming from inside the parlor car. The train is going at about fifteen miles an hour between Glendale and Burbank. Neff has come out and hobbled to the railing. He stands looking back along the rails. SUDDENLY A MAN'S VOICE speaks from behind him.",
+                    "Didascalie": "",
+                    "Start": 165600,
+                    "End": 165943
                 }
             ]
         },
@@ -5926,6 +6065,50 @@
                     "Didascalie": "",
                     "Start": 247754,
                     "End": 247786
+                }
+            ]
+        },
+        {
+            "Character": "B-61 NEFF",
+            "Replies": [
+                {
+                    "Reply": "He starts running towards the car. He runs a little awkwardly because of the improvised cast on his left foot.",
+                    "Didascalie": "",
+                    "Start": 170248,
+                    "End": 170375
+                }
+            ]
+        },
+        {
+            "Character": "B-63 NEFF",
+            "Replies": [
+                {
+                    "Reply": "He gets a stronger hold on the dead Dietrichson and drags him free of the car and towards the tracks. The corpse is not seen.",
+                    "Didascalie": "",
+                    "Start": 171701,
+                    "End": 171859
+                }
+            ]
+        },
+        {
+            "Character": "B-64 PHYLLIS",
+            "Replies": [
+                {
+                    "Reply": "She has reached the point where one of the crutches lies. She picks it up and goes for the other crutch a short distance away. She carries both crutches, the hat and the rug towards Neff.",
+                    "Didascalie": "",
+                    "Start": 171904,
+                    "End": 172140
+                }
+            ]
+        },
+        {
+            "Character": "B-65 NEFF",
+            "Replies": [
+                {
+                    "Reply": "He has reached the railroad tracks. The corpse is lying beside the tracks, face down. Phyllis comes up to Neff. He takes the crutches and the hat from her. He throws the crutches beside the corpse. He takes the hat from Phyllis and tosses it carelessly along the track.",
+                    "Didascalie": "",
+                    "Start": 172182,
+                    "End": 172516
                 }
             ]
         },
@@ -6210,6 +6393,39 @@
                     "Didascalie": "",
                     "Start": 225867,
                     "End": 225891
+                }
+            ]
+        },
+        {
+            "Character": "D-4 LA GOLONDRINA",
+            "Replies": [
+                {
+                    "Reply": "In the foreground, Neff and Lola are having dinner. In the background the usual activity of Olvera Street -- sidewalk peddlers, guitar players, etc.",
+                    "Didascalie": "",
+                    "Start": 233395,
+                    "End": 233576
+                }
+            ]
+        },
+        {
+            "Character": "D-15 12TH FLOOR BALCONY",
+            "Replies": [
+                {
+                    "Reply": "Neff enters from the reception room. A couple of belated employees are leaving for the day. Neff goes toward Keyes' office, looks around to make sure he is unobserved, enters.",
+                    "Didascalie": "",
+                    "Start": 268634,
+                    "End": 268842
+                }
+            ]
+        },
+        {
+            "Character": "D-19 HALL STAIRWAY OF DIETRICHSON HOME",
+            "Replies": [
+                {
+                    "Reply": "The lights are turned on. Phyllis is coming down the stairs. She wears white lounging pajamas, and she is carrying something small and heavy concealed in a scarf in her right hand. She reaches the front door, opens it slightly, fixes the catch so that the door can be opened from outside. She switches off the porch light and the hall light. She moves towards the living room, where there is still light on.",
+                    "Didascalie": "",
+                    "Start": 275417,
+                    "End": 275921
                 }
             ]
         },

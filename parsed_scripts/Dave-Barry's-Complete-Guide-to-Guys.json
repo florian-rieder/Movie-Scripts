@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Dave Barry's Complete Guide to Guys",
-        "   "
-    ],
+    "Title": "Dave Barry's Complete Guide to Guys",
     "Author": [
-        "\u00a0\u00a0Jeff Arch\u00a0\u00a0Dave Barry"
+        "Jeff Arch",
+        "Dave Barry"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3166,6 +3164,23 @@
                     "Didascalie": "",
                     "Start": 32135,
                     "End": 32164
+                }
+            ]
+        },
+        {
+            "Character": "ROGER AT 8",
+            "Replies": [
+                {
+                    "Reply": "I do not!",
+                    "Didascalie": "",
+                    "Start": 32088,
+                    "End": 32098
+                },
+                {
+                    "Reply": "Nothing!",
+                    "Didascalie": "",
+                    "Start": 32211,
+                    "End": 32220
                 }
             ]
         },

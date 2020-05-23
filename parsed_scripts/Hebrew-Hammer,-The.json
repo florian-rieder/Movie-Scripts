@@ -1,15 +1,62 @@
 {
-    "Title": [
-        "Hebrew Hammer, The",
-        "   "
-    ],
+    "Title": "Hebrew Hammer, The",
     "Author": [
-        "\u00a0\u00a0Jonathan Kesselman"
+        "Jonathan Kesselman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
+        {
+            "Character": "GENTILE BOY 1",
+            "Replies": [
+                {
+                    "Reply": "Hey Mordechai, look. I dropped a penny.",
+                    "Didascalie": "",
+                    "Start": 1395,
+                    "End": 1435
+                },
+                {
+                    "Reply": "Hey everybody! Look what Mordechai got.",
+                    "Didascalie": "",
+                    "Start": 3809,
+                    "End": 3849
+                }
+            ]
+        },
+        {
+            "Character": "GENTILE GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "Hey Mordechai. Want a bagel?",
+                    "Didascalie": "",
+                    "Start": 1631,
+                    "End": 1660
+                }
+            ]
+        },
+        {
+            "Character": "GENTILE BOY 2",
+            "Replies": [
+                {
+                    "Reply": "Hey Jew nose, save some oxygen for us.",
+                    "Didascalie": "",
+                    "Start": 1772,
+                    "End": 1811
+                }
+            ]
+        },
+        {
+            "Character": "GENTILE GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "Hey Morty, my mom says that unless your people wise up and accept Jesus Christ as your lord and savior you're all going to burn in hell.",
+                    "Didascalie": "",
+                    "Start": 2082,
+                    "End": 2285
+                }
+            ]
+        },
         {
             "Character": "MORDECHAI",
             "Replies": [
@@ -18,17 +65,6 @@
                     "Didascalie": "",
                     "Start": 4642,
                     "End": 4662
-                }
-            ]
-        },
-        {
-            "Character": "A STOREFRONT",
-            "Replies": [
-                {
-                    "Reply": "We track with Morty as he passes a storefront window. Inside, the CLERK turns a sign outwards reading, \"JEWS NOT WELCOME.\"",
-                    "Didascalie": "",
-                    "Start": 6793,
-                    "End": 6928
                 }
             ]
         },
@@ -2343,6 +2379,34 @@
                     "Didascalie": "",
                     "Start": 31180,
                     "End": 31281
+                }
+            ]
+        },
+        {
+            "Character": "JDL MEMBER 1",
+            "Replies": [
+                {
+                    "Reply": "What about Steven Spielberg?",
+                    "Didascalie": "",
+                    "Start": 28414,
+                    "End": 28443
+                },
+                {
+                    "Reply": "Robert Shapiro?",
+                    "Didascalie": "",
+                    "Start": 29292,
+                    "End": 29308
+                }
+            ]
+        },
+        {
+            "Character": "JDL MEMBER 2",
+            "Replies": [
+                {
+                    "Reply": "What about Itzahk Perlman?",
+                    "Didascalie": "",
+                    "Start": 28683,
+                    "End": 28710
                 }
             ]
         },

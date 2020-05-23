@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Snow White and the Huntsman",
-        "   "
-    ],
+    "Title": "Snow White and the Huntsman",
     "Author": [
-        "\u00a0\u00a0Evan Daugherty\u00a0\u00a0John Lee Hancock\u00a0\u00a0Hossein Amini"
+        "Evan Daugherty",
+        "John Lee Hancock",
+        "Hossein Amini"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Action",
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {
@@ -944,12 +945,6 @@
                     "End": 180463
                 },
                 {
-                    "Reply": "83A 163a CONTINUED: 163a Snow White lies pale and motionless on the bier. Eric reaches down and gently brushes a strand of hair off her face.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 180500,
-                    "End": 180792
-                },
-                {
                     "Reply": "You will be a Queen in heaven now...",
                     "Didascalie": "",
                     "Start": 180833,
@@ -972,12 +967,6 @@
                     "Didascalie": "",
                     "Start": 182665,
                     "End": 182682
-                },
-                {
-                    "Reply": "85  169B CONTINUED: 169B He hands it back and turns for the now open gate. He exits the castle and as the doors begin to close --",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 182719,
-                    "End": 183000
                 },
                 {
                     "Reply": "Back from the dead and instigating the masses.",
@@ -1178,12 +1167,6 @@
                     "Didascalie": "",
                     "Start": 72554,
                     "End": 72565
-                },
-                {
-                    "Reply": "32A  66 CONTINUED: 66 She bites him. He grimaces and grabs her tighter and starts trudging back.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 72602,
-                    "End": 72865
                 },
                 {
                     "Reply": "She's going to kill me! The Oueen!",
@@ -2191,12 +2174,6 @@
                     "End": 24483
                 },
                 {
-                    "Reply": "12 20b CONTINUED: 20b There are GASPS and SCREAMS as the Guards move the guests away.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 24520,
-                    "End": 24757
-                },
-                {
                     "Reply": "Finn!",
                     "Didascalie": "",
                     "Start": 24931,
@@ -2551,12 +2528,6 @@
                     "End": 173384
                 },
                 {
-                    "Reply": "81 158a CONTINUED: 158a She raises the knife, about to cut out Snow White's heart -",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 173421,
-                    "End": 173646
-                },
-                {
                     "Reply": "What must I do?! Where is she?! Where have they taken her?! Answer me!",
                     "Didascalie": "",
                     "Start": 176728,
@@ -2687,12 +2658,6 @@
                     "Didascalie": "(TO HERSELF)",
                     "Start": 214457,
                     "End": 214488
-                },
-                {
-                    "Reply": "97C  213 CONTINUED: 213 Snow White tries to reach her sword with her left hand, but it is too far. She tries to drag herself a little closer...",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 214525,
-                    "End": 214836
                 },
                 {
                     "Reply": "By fairest blood it is done!",
@@ -2982,12 +2947,6 @@
                     "End": 90936
                 },
                 {
-                    "Reply": "41A  78 CONTINUED: 78 The bowman smiles, draws his bow.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 90973,
-                    "End": 91185
-                },
-                {
                     "Reply": "Wait!",
                     "Didascalie": "",
                     "Start": 92705,
@@ -3058,12 +3017,6 @@
                     "Didascalie": "",
                     "Start": 154644,
                     "End": 154727
-                },
-                {
-                    "Reply": "71A  136 CONTINUED: 136 Finn smiles and raises his sword for the death blow -- when ERIC LUNGES. He throws himself at Finn, his momentum carrying them both into THE DEAD TREE'S SPIKED BRANCHES --",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 154764,
-                    "End": 155136
                 },
                 {
                     "Reply": "Sister -- heal me!! --",
@@ -3571,12 +3524,6 @@
                     "End": 169022
                 },
                 {
-                    "Reply": "78A 150a CONTINUED: 150a He steps closer, gazing into her eyes devotedly.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 169059,
-                    "End": 169273
-                },
-                {
                     "Reply": "If I had a choice, I would take you far from here. And keep you safe by my side.",
                     "Didascalie": "",
                     "Start": 169317,
@@ -3727,12 +3674,6 @@
                     "Didascalie": "",
                     "Start": 114379,
                     "End": 114613
-                },
-                {
-                    "Reply": "53A  95 CONTINUED: 95 Snow White looks to Anna, surprised.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 114650,
-                    "End": 114865
                 },
                 {
                     "Reply": "You must prepare yourself, my dear. For a time soon comes when you must deliver that sacrifice. Will you be ready?",

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Majestic, The (The Bijou)",
-        "   "
-    ],
+    "Title": "Majestic, The (The Bijou)",
     "Author": [
-        "\u00a0\u00a0Michael Slone"
+        "Michael Slone"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -1641,17 +1639,6 @@
             ]
         },
         {
-            "Character": "A STUDIO SECURITY GUARD",
-            "Replies": [
-                {
-                    "Reply": "standing by the door.  He's watching Pete's every move.",
-                    "Didascalie": "",
-                    "Start": 16245,
-                    "End": 16301
-                }
-            ]
-        },
-        {
             "Character": "WIDER",
             "Replies": [
                 {
@@ -3016,17 +3003,6 @@
             ]
         },
         {
-            "Character": "A FINGER --",
-            "Replies": [
-                {
-                    "Reply": "moving left-to-right, right-to-left through space.",
-                    "Didascalie": "",
-                    "Start": 38903,
-                    "End": 38954
-                }
-            ]
-        },
-        {
             "Character": "ELDRIDGE",
             "Replies": [
                 {
@@ -4122,28 +4098,6 @@
             ]
         },
         {
-            "Character": "TILT DOWN TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Luke and Harry standing below.  Luke is lost in a gulf somewhere between surprise and disgust.",
-                    "Didascalie": "",
-                    "Start": 53607,
-                    "End": 53702
-                }
-            ]
-        },
-        {
-            "Character": "A BLANKET",
-            "Replies": [
-                {
-                    "Reply": "being drawn up Luke's chest.",
-                    "Didascalie": "",
-                    "Start": 57987,
-                    "End": 58016
-                }
-            ]
-        },
-        {
             "Character": "ELDERLY WOMAN",
             "Replies": [
                 {
@@ -4937,17 +4891,6 @@
             ]
         },
         {
-            "Character": "A GLASS OF WATER",
-            "Replies": [
-                {
-                    "Reply": "on a kitchen table.  Offscreen, we HEAR A HICCUP.  Then another.  Adele's hand reaches into frame.",
-                    "Didascalie": "",
-                    "Start": 71394,
-                    "End": 71493
-                }
-            ]
-        },
-        {
             "Character": "ERNIE",
             "Replies": [
                 {
@@ -5629,28 +5572,6 @@
                     "Didascalie": "(sings)",
                     "Start": 98121,
                     "End": 98234
-                }
-            ]
-        },
-        {
-            "Character": "A TV SCREEN",
-            "Replies": [
-                {
-                    "Reply": "It's tiny, with rounded corners, black-and-white, and a hopeless chaos of horizontal bars and snow.",
-                    "Didascalie": "",
-                    "Start": 99842,
-                    "End": 99942
-                }
-            ]
-        },
-        {
-            "Character": "A CLARINET",
-            "Replies": [
-                {
-                    "Reply": "launching into the opening bars of \"Don't Be That Way,\" an old Benny Goodman tune.",
-                    "Didascalie": "",
-                    "Start": 105249,
-                    "End": 105332
                 }
             ]
         },

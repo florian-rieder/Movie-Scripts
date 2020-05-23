@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "King of Comedy, The",
-        "   "
-    ],
+    "Title": "King of Comedy, The",
     "Author": [
-        "\u00a0\u00a0Paul D. Zimmerman"
+        "Paul D. Zimmerman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Comedy",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5790,28 +5789,6 @@
             ]
         },
         {
-            "Character": "A SECOND GUEST",
-            "Replies": [
-                {
-                    "Reply": "Have you set a date?",
-                    "Didascalie": "(the PUPKIN)",
-                    "Start": 116996,
-                    "End": 117030
-                }
-            ]
-        },
-        {
-            "Character": "A THIRD GUEST",
-            "Replies": [
-                {
-                    "Reply": "I hope we're all invited.",
-                    "Didascalie": "",
-                    "Start": 117184,
-                    "End": 117210
-                }
-            ]
-        },
-        {
             "Character": "JONNO",
             "Replies": [
                 {
@@ -6297,28 +6274,6 @@
             ]
         },
         {
-            "Character": "A SECOND EXECUTIVE",
-            "Replies": [
-                {
-                    "Reply": "But nobody's going to know he's a kidnapper. They'll think we've gone crazy.",
-                    "Didascalie": "",
-                    "Start": 169019,
-                    "End": 169106
-                }
-            ]
-        },
-        {
-            "Character": "A THIRD EXECUTIVE",
-            "Replies": [
-                {
-                    "Reply": "What if his stuff's unusable?",
-                    "Didascalie": "",
-                    "Start": 169504,
-                    "End": 169534
-                }
-            ]
-        },
-        {
             "Character": "SECOND EXECUTIVE",
             "Replies": [
                 {
@@ -6475,17 +6430,6 @@
                     "Didascalie": "",
                     "Start": 193909,
                     "End": 193916
-                }
-            ]
-        },
-        {
-            "Character": "A PLAINCLOTHESMAN",
-            "Replies": [
-                {
-                    "Reply": "Still nothing.",
-                    "Didascalie": "",
-                    "Start": 195048,
-                    "End": 195063
                 }
             ]
         },

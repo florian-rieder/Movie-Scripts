@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Freaked",
-        "   "
-    ],
+    "Title": "Freaked",
     "Author": [
-        "\u00a0\u00a0Tim Burns\u00a0\u00a0Tom Stern\u00a0\u00a0Alex Winter"
+        "Tim Burns",
+        "Tom Stern",
+        "Alex Winter"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2364,17 +2364,6 @@
             ]
         },
         {
-            "Character": "A BEAUTIFUL YOUNG WOMAN",
-            "Replies": [
-                {
-                    "Reply": "standing in the center of the crowd of protesters, holding a MEGAPHONE to her mouth and chanting. She puts down the megaphone to rest, and we can see that she's powerfully beautiful, in a no-nonsense feminist kind of way. This is JULIE. Rick is smitten.",
-                    "Didascalie": "",
-                    "Start": 22178,
-                    "End": 22472
-                }
-            ]
-        },
-        {
             "Character": "JULIE",
             "Replies": [
                 {
@@ -3517,28 +3506,6 @@
             ]
         },
         {
-            "Character": "A HULKING BALD MAN",
-            "Replies": [
-                {
-                    "Reply": "warts all over, squatting on the ground and chewing happily.",
-                    "Didascalie": "",
-                    "Start": 37604,
-                    "End": 37665
-                }
-            ]
-        },
-        {
-            "Character": "A CUTE BUNNY",
-            "Replies": [
-                {
-                    "Reply": "sits outside the shed. THWAP! Toad lashes out with his ten foot tongue, and sucks the bunny into his mouth. He shuffles into the shed, crunching contentedly.",
-                    "Didascalie": "",
-                    "Start": 40606,
-                    "End": 40784
-                }
-            ]
-        },
-        {
             "Character": "BOB",
             "Replies": [
                 {
@@ -4543,17 +4510,6 @@
             ]
         },
         {
-            "Character": "A SQUIRREL",
-            "Replies": [
-                {
-                    "Reply": "is sitting innocently a few yards off.",
-                    "Didascalie": "",
-                    "Start": 127522,
-                    "End": 127561
-                }
-            ]
-        },
-        {
             "Character": "DREAMLAND",
             "Replies": [
                 {
@@ -4589,17 +4545,6 @@
                     "Didascalie": "",
                     "Start": 143250,
                     "End": 143259
-                }
-            ]
-        },
-        {
-            "Character": "A VAST UNDERGROUND CITY",
-            "Replies": [
-                {
-                    "Reply": "It's obviously a matte painting.",
-                    "Didascalie": "",
-                    "Start": 144235,
-                    "End": 144268
                 }
             ]
         },
@@ -4788,12 +4733,6 @@
                     "Didascalie": "",
                     "Start": 202460,
                     "End": 202488
-                },
-                {
-                    "Reply": "Oh. NOW I RIP FRIENDS TO PIECES!",
-                    "Didascalie": "",
-                    "Start": 202657,
-                    "End": 202690
                 }
             ]
         },

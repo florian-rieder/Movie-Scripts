@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Ghost",
-        "   "
-    ],
+    "Title": "Ghost",
     "Author": [
-        "\u00a0\u00a0Bruce Joel Rubin"
+        "Bruce Joel Rubin"
     ],
     "Genre": [
-        "\u00a0\u00a0Romance\u00a0\u00a0Thriller\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Romance",
+        "Thriller",
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "How to Train Your Dragon",
-        "   "
-    ],
+    "Title": "How to Train Your Dragon",
     "Author": [
-        "\u00a0\u00a0Dean DeBlois\u00a0\u00a0Chris Sanders"
+        "Dean DeBlois",
+        "Chris Sanders"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Animation",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -4418,17 +4418,6 @@
                     "Didascalie": "",
                     "Start": 55427,
                     "End": 55433
-                }
-            ]
-        },
-        {
-            "Character": "A BEAT",
-            "Replies": [
-                {
-                    "Reply": "Suddenly a flash of light. A silhouette of a dragon. Hollers.",
-                    "Didascalie": "",
-                    "Start": 60048,
-                    "End": 60110
                 }
             ]
         },

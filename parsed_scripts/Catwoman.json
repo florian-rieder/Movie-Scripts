@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Catwoman",
-        "   "
-    ],
+    "Title": "Catwoman",
     "Author": [
-        "\u00a0\u00a0Daniel Waters"
+        "Daniel Waters"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime"
+        "Action",
+        "Crime"
     ],
     "Characters": [
         {

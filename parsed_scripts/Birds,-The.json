@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Birds, The",
-        "   "
-    ],
+    "Title": "Birds, The",
     "Author": [
-        "\u00a0\u00a0Daphne Du Maurier\u00a0\u00a0Evan Hunter"
+        "Daphne Du Maurier",
+        "Evan Hunter"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Romance"
+        "Drama",
+        "Horror",
+        "Thriller",
+        "Romance"
     ],
     "Characters": [
         {

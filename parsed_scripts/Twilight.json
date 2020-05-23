@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Twilight",
-        "   "
-    ],
+    "Title": "Twilight",
     "Author": [
-        "\u00a0\u00a0Melissa Rosenberg"
+        "Melissa Rosenberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1608,17 +1608,6 @@
                     "Didascalie": "",
                     "Start": 213544,
                     "End": 213627
-                }
-            ]
-        },
-        {
-            "Character": "A DEER",
-            "Replies": [
-                {
-                    "Reply": "-- running for its life as it darts through this maze of a forest. It sprints forward, but we gain on it. Beyond the deer, SEE the forest's edge ahead, white sunlight glowing against the trees. The buck races for the light. We're just behind it, about to emerge from the shadowy darkness -",
-                    "Didascalie": "",
-                    "Start": 1555,
-                    "End": 1888
                 }
             ]
         },

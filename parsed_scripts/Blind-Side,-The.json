@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Blind Side, The",
-        "   "
-    ],
+    "Title": "Blind Side, The",
     "Author": [
-        "\u00a0\u00a0John Lee Hancock\u00a0\u00a0Michael Lewis"
+        "John Lee Hancock",
+        "Michael Lewis"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -377,12 +375,6 @@
                     "Didascalie": "",
                     "Start": 122387,
                     "End": 122418
-                },
-                {
-                    "Reply": "71   110  110 CONTINUED: Leigh Anne feels a wave of emotion, nods to him, then races away to go and gather herself.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 122455,
-                    "End": 122786
                 },
                 {
                     "Reply": "Tenth grade tough?",
@@ -1420,12 +1412,6 @@
                     "End": 135031
                 },
                 {
-                    "Reply": "78  120  120 CONTINUED: As they chuckle, Leigh Anne strides past, onto the field.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 135068,
-                    "End": 135330
-                },
-                {
                     "Reply": "We're in the middle of practice, Leigh Anne!",
                     "Didascalie": "",
                     "Start": 135442,
@@ -1698,12 +1684,6 @@
                     "Didascalie": "",
                     "Start": 37256,
                     "End": 37269
-                },
-                {
-                    "Reply": "21  34 CONTINUED: 34 Michael turns to see Paul Sandstrom, the principal.",
-                    "Didascalie": "(O.S.) (CONTINUED)",
-                    "Start": 37306,
-                    "End": 37535
                 },
                 {
                     "Reply": "Mike, I just got a call from someone at the police department.",
@@ -2083,12 +2063,6 @@
                     "End": 56805
                 },
                 {
-                    "Reply": "32  59 CONTINUED: 59 After a beat...",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 56842,
-                    "End": 57035
-                },
-                {
                     "Reply": "Okay. Mike or Michael?",
                     "Didascalie": "",
                     "Start": 57214,
@@ -2261,12 +2235,6 @@
                     "Didascalie": "",
                     "Start": 72132,
                     "End": 72143
-                },
-                {
-                    "Reply": "41  70 CONTINUED: 70  MRS. SMITH \"Protective instincts.\"",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 72180,
-                    "End": 72403
                 },
                 {
                     "Reply": "Yes, it is sad. So sad. But he either doesn't know it or doesn't think so and it's my job, and your job, to make sure he doesn't find out.",
@@ -2849,12 +2817,6 @@
                     "Didascalie": "(after a beat)",
                     "Start": 117333,
                     "End": 117397
-                },
-                {
-                    "Reply": "68  109 CONTINUED: 109 Denise emerges from the back of the apartment, adjusting a wig on her head, making herself \"presentable.\"",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 117434,
-                    "End": 117730
                 },
                 {
                     "Reply": "When did you last see Michael?",
@@ -3738,12 +3700,6 @@
                     "End": 40946
                 },
                 {
-                    "Reply": "23  43 CONTINUED: 43 They trade a look and a smile. Sean puts a.hand on her lap.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 40983,
-                    "End": 41220
-                },
-                {
                     "Reply": "Or maybe they just thought he'd make a better Chief.",
                     "Didascalie": "",
                     "Start": 41712,
@@ -4218,12 +4174,6 @@
                     "End": 188517
                 },
                 {
-                    "Reply": "108  167 CONTINUED: 167 It hits Michael. He takes a moment, looks right at Sean.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 188554,
-                    "End": 188791
-                },
-                {
                     "Reply": "Yeah.",
                     "Didascalie": "",
                     "Start": 188909,
@@ -4371,12 +4321,6 @@
                     "Didascalie": "",
                     "Start": 47392,
                     "End": 47531
-                },
-                {
-                    "Reply": "27  49 CONTINUED: 49 NORMAN ROCKWELL. On the cover is \"FREEDOM FROM WANT\" -",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 47952,
-                    "End": 48184
                 },
                 {
                     "Reply": "Dad, you remember how to diagram sentences?",

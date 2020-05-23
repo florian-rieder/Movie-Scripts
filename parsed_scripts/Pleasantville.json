@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Pleasantville",
-        "   "
-    ],
+    "Title": "Pleasantville",
     "Author": [
-        "\u00a0\u00a0Gary Ross"
+        "Gary Ross"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Comedy",
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {

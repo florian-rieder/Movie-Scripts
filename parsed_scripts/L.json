@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "L.A. Confidential",
-        "   "
-    ],
+    "Title": "L.A. Confidential",
     "Author": [
-        "\u00a0\u00a0Brian Helgeland"
+        "Brian Helgeland"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -6504,17 +6504,6 @@
                     "Didascalie": "",
                     "Start": 120449,
                     "End": 120517
-                }
-            ]
-        },
-        {
-            "Character": "A HALLWAY",
-            "Replies": [
-                {
-                    "Reply": "Light bouncing from side rooms.  We hear the opening spiel of \"Badge of Honor\" from the left.  Bud wheels into a...",
-                    "Didascalie": "",
-                    "Start": 120546,
-                    "End": 120678
                 }
             ]
         },

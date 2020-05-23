@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Lost Horizon",
-        "   "
-    ],
+    "Title": "Lost Horizon",
     "Author": [
-        "\u00a0\u00a0James Hilton\u00a0\u00a0Robert Riskin"
+        "James Hilton",
+        "Robert Riskin"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {

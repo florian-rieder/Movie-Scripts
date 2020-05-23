@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Thing, The",
-        "   "
-    ],
+    "Title": "Thing, The",
     "Author": [
-        "\u00a0\u00a0John W. Campbell Jr.\u00a0\u00a0Bill Lancaster"
+        "John W. Campbell Jr.",
+        "Bill Lancaster"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4171,28 +4172,6 @@
             ]
         },
         {
-            "Character": "A STARRY BLACKNESS",
-            "Replies": [
-                {
-                    "Reply": "From out of the billions, the smallest of specks drives slowly forward. It closes; getting larger; its features becoming more identifiable: a vessel. Flip-flopping; out of control. Its stern roaring with flame. It passes; its blue fire surging into the screen.",
-                    "Didascalie": "",
-                    "Start": 3168,
-                    "End": 3493
-                }
-            ]
-        },
-        {
-            "Character": "A SOUND",
-            "Replies": [
-                {
-                    "Reply": "Loud and strident. A helicopter streaks across frame. It travels precariously close to the ground; its chassis battered and swayed by the wind.",
-                    "Didascalie": "",
-                    "Start": 3861,
-                    "End": 4037
-                }
-            ]
-        },
-        {
             "Character": "NORRIS AND BENNINGS",
             "Replies": [
                 {
@@ -4392,17 +4371,6 @@
                     "Didascalie": "",
                     "Start": 178267,
                     "End": 178301
-                }
-            ]
-        },
-        {
-            "Character": "A DOG",
-            "Replies": [
-                {
-                    "Reply": "It sits, its back to them, unconcerned, heedless of their arrival. It is munching on the other half of the dog carcass.",
-                    "Didascalie": "",
-                    "Start": 114779,
-                    "End": 114915
                 }
             ]
         },

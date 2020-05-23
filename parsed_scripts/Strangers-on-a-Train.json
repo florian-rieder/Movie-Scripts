@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Strangers on a Train",
-        "   "
-    ],
+    "Title": "Strangers on a Train",
     "Author": [
-        "\u00a0\u00a0Raymond Chandler\u00a0\u00a0Czenzi Ormonde"
+        "Raymond Chandler",
+        "Czenzi Ormonde"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Film-Noir\u00a0\u00a0Thriller"
+        "Drama",
+        "Film-Noir",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3105,29 +3105,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "The painting is a horrible mess. Out of the violence of the pattern a man's face can be discerned, wild-eyed and distorted. We hear laughter from Bruno.",
-                    "Didascalie": "",
-                    "Start": 34223,
-                    "End": 34376
-                },
-                {
-                    "Reply": "Bruno's two strong hands - as he holds them palms tilted upward and fingers curled in.",
-                    "Didascalie": "",
-                    "Start": 44758,
-                    "End": 44845
-                },
-                {
-                    "Reply": "Guy's hands taking Miriam's glasses from Bruno.    One of the lenses is broken.",
-                    "Didascalie": "",
-                    "Start": 59470,
-                    "End": 59550
-                }
-            ]
-        },
-        {
             "Character": "BUTLER",
             "Replies": [
                 {
@@ -3176,17 +3153,6 @@
                     "Didascalie": "",
                     "Start": 169537,
                     "End": 169559
-                }
-            ]
-        },
-        {
-            "Character": "INSERT TELEPHONE DIRECTORY",
-            "Replies": [
-                {
-                    "Reply": "Bruno's finger runs down the names until it stops at:  Joyce, Miriam Haines. 2420 Metcalf Avenue.",
-                    "Didascalie": "",
-                    "Start": 39181,
-                    "End": 39286
                 }
             ]
         },

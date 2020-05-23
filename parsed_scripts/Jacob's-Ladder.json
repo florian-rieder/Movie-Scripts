@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Jacob's Ladder",
-        "   "
-    ],
+    "Title": "Jacob's Ladder",
     "Author": [
-        "\u00a0\u00a0Bruce Joel Rubin"
+        "Bruce Joel Rubin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5899,6 +5897,28 @@
             ]
         },
         {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Let's go, Singer.",
+                    "Didascalie": "",
+                    "Start": 94687,
+                    "End": 94705
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "You're coming with us.",
+                    "Didascalie": "",
+                    "Start": 94832,
+                    "End": 94855
+                }
+            ]
+        },
+        {
             "Character": "SANTA",
             "Replies": [
                 {
@@ -6081,6 +6101,34 @@
                     "Didascalie": "",
                     "Start": 106632,
                     "End": 106665
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 1",
+            "Replies": [
+                {
+                    "Reply": "You can't go in there!",
+                    "Didascalie": "",
+                    "Start": 105841,
+                    "End": 105864
+                },
+                {
+                    "Reply": "You can't. Call the police.",
+                    "Didascalie": "",
+                    "Start": 106799,
+                    "End": 106827
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 2",
+            "Replies": [
+                {
+                    "Reply": "You can't do that!",
+                    "Didascalie": "",
+                    "Start": 106717,
+                    "End": 106736
                 }
             ]
         },

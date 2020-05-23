@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Fantastic Mr Fox",
-        "   "
-    ],
+    "Title": "Fantastic Mr Fox",
     "Author": [
-        "\u00a0\u00a0Roald Dahl\u00a0\u00a0Wes Anderson\u00a0\u00a0Noah Baumbach"
+        "Roald Dahl",
+        "Wes Anderson",
+        "Noah Baumbach"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Family"
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
     ],
     "Characters": [
         {
@@ -3009,17 +3011,6 @@
                     "Didascalie": "",
                     "Start": 57818,
                     "End": 57832
-                }
-            ]
-        },
-        {
-            "Character": "A --",
-            "Replies": [
-                {
-                    "Reply": "The door opens again. An exceptionally tall, powerfully built woman in a black dress and Wellingtons, with grey hair pulled-",
-                    "Didascalie": "",
-                    "Start": 58133,
-                    "End": 58268
                 }
             ]
         },

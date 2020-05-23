@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Shakespeare in Love",
-        "   "
-    ],
+    "Title": "Shakespeare in Love",
     "Author": [
-        "\u00a0\u00a0Marc Norman\u00a0\u00a0Tom Stoppard"
+        "Marc Norman",
+        "Tom Stoppard"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Comedy"
+        "Drama",
+        "Romance",
+        "Comedy"
     ],
     "Characters": [
         {

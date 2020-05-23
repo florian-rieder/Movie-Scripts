@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Lost in Space",
-        "   "
-    ],
+    "Title": "Lost in Space",
     "Author": [
-        "\u00a0\u00a0Irwin Allen\u00a0\u00a0Akiva Goldsman"
+        "Irwin Allen",
+        "Akiva Goldsman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1529,23 +1529,6 @@
                     "Didascalie": "",
                     "Start": 11532,
                     "End": 11698
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "a jury-rigged, palm-sized computer. He mimics the Naylrator.",
-                    "Didascalie": "",
-                    "Start": 12156,
-                    "End": 12217
-                },
-                {
-                    "Reply": "Judy stands, just out of sight, watching her sister, smiling.",
-                    "Didascalie": "",
-                    "Start": 107051,
-                    "End": 107113
                 }
             ]
         },

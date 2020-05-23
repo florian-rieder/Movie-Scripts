@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Arsenic and Old Lace",
-        "   "
-    ],
+    "Title": "Arsenic and Old Lace",
     "Author": [
-        "\u00a0\u00a0Julius J. Epstein\u00a0\u00a0Philip G. Epstein\u00a0\u00a0Joseph Kesselring"
+        "Julius J. Epstein",
+        "Philip G. Epstein",
+        "Joseph Kesselring"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -51,17 +51,6 @@
                     "Didascalie": "",
                     "Start": 3843,
                     "End": 3862
-                }
-            ]
-        },
-        {
-            "Character": "A MORE QUIET MALE VOICE",
-            "Replies": [
-                {
-                    "Reply": "I knew you'd find it.",
-                    "Didascalie": "",
-                    "Start": 3901,
-                    "End": 3923
                 }
             ]
         },
@@ -9051,17 +9040,6 @@
                     "Didascalie": "",
                     "Start": 210914,
                     "End": 210951
-                }
-            ]
-        },
-        {
-            "Character": "END CREDITS",
-            "Replies": [
-                {
-                    "Reply": "letters on a cartoon representing a village with a sorceress flying on a broomstick above the village.",
-                    "Didascalie": "",
-                    "Start": 213027,
-                    "End": 213130
                 }
             ]
         }

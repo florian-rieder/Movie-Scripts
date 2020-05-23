@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Point Break",
-        "   "
-    ],
+    "Title": "Point Break",
     "Author": [
-        "\u00a0\u00a0W. Peter Iliff\u00a0\u00a0Rick King\u00a0\u00a0Kathryn Bigelow"
+        "W. Peter Iliff",
+        "Rick King",
+        "Kathryn Bigelow"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Adventure\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Adventure",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2520,6 +2523,17 @@
                     "Didascalie": "",
                     "Start": 33654,
                     "End": 33679
+                }
+            ]
+        },
+        {
+            "Character": "LOCAL 2",
+            "Replies": [
+                {
+                    "Reply": "Move it, kook!",
+                    "Didascalie": "",
+                    "Start": 33778,
+                    "End": 33793
                 }
             ]
         },

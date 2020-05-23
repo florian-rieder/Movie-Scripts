@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Grand Hotel",
-        "   "
-    ],
+    "Title": "Grand Hotel",
     "Author": [
-        "\u00a0\u00a0Bela Balazs"
+        "Bela Balazs"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -6920,17 +6918,6 @@
             ]
         },
         {
-            "Character": "IMPORTANT CLOSEUP OF BARON",
-            "Replies": [
-                {
-                    "Reply": "PREYSING'S ROOM  Zinnowitz and Preysing are standing by door.",
-                    "Didascalie": "",
-                    "Start": 77761,
-                    "End": 77838
-                }
-            ]
-        },
-        {
             "Character": "IMPORTANT CLOSEUP OF PREYSING",
             "Replies": [
                 {
@@ -7557,59 +7544,6 @@
                     "Didascalie": "",
                     "Start": 240570,
                     "End": 240654
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Don't show them.",
-                    "Didascalie": "(quickly)",
-                    "Start": 228728,
-                    "End": 228771
-                },
-                {
-                    "Reply": "Turn 'em up.",
-                    "Didascalie": "(next to Kringelein)",
-                    "Start": 229261,
-                    "End": 229300
-                },
-                {
-                    "Reply": "Will you take the bank, sir?",
-                    "Didascalie": "(to Kringelein)",
-                    "Start": 229719,
-                    "End": 229774
-                },
-                {
-                    "Reply": "Your bank, Mr. Kringelein.",
-                    "Didascalie": "",
-                    "Start": 233323,
-                    "End": 233350
-                },
-                {
-                    "Reply": "There are complaints in the hotel about the noise.",
-                    "Didascalie": "",
-                    "Start": 235215,
-                    "End": 235292
-                },
-                {
-                    "Reply": "Splendid!",
-                    "Didascalie": "(slapping him on back)",
-                    "Start": 237232,
-                    "End": 237268
-                },
-                {
-                    "Reply": "Rejoice in life while yet the small lamp burns.",
-                    "Didascalie": "(sings)",
-                    "Start": 238219,
-                    "End": 238319
-                },
-                {
-                    "Reply": "It's a short life and a gay one...",
-                    "Didascalie": "(starts singing)",
-                    "Start": 238796,
-                    "End": 238857
                 }
             ]
         },

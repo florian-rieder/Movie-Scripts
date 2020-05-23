@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Man Trouble",
-        "   "
-    ],
+    "Title": "Man Trouble",
     "Author": [
-        "\u00a0\u00a0Carole Eastman"
+        "Carole Eastman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

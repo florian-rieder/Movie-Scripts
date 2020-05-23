@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Rise of the Guardians",
-        "   "
-    ],
+    "Title": "Rise of the Guardians",
     "Author": [
-        "\u00a0\u00a0David Lindsay-Abaire"
+        "David Lindsay-Abaire"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Family"
+        "Animation",
+        "Adventure",
+        "Family"
     ],
     "Characters": [
         {
@@ -3255,12 +3254,6 @@
                     "End": 21670
                 },
                 {
-                    "Reply": "Hang on, hang on, you mean to say, you summoned me here THREE DAYS BEFORE EASTER - because of your belly? Mate, if I did this to you three days before Christmas--",
-                    "Didascalie": "(his eyes narrow)",
-                    "Start": 21990,
-                    "End": 22209
-                },
-                {
                     "Reply": "Here we go...",
                     "Didascalie": "",
                     "Start": 22575,
@@ -5439,12 +5432,6 @@
                     "End": 153111
                 },
                 {
-                    "Reply": "Pitch rises from behind a group of Nightmares. He stretches his arms as an ARROW of NIGHTMARE SAND forms behind him.",
-                    "Didascalie": "",
-                    "Start": 155221,
-                    "End": 155348
-                },
-                {
                     "Reply": "Pitch takes aim and releases the arrow. It flies through the air and into SANDY'S back, exploding on impact.",
                     "Didascalie": "",
                     "Start": 156033,
@@ -5960,12 +5947,6 @@
             "Character": "SANDY",
             "Replies": [
                 {
-                    "Reply": "Sandy high up in he clouds, does his best to contain the MASS OF NIGHTMARES that are swirling around him.",
-                    "Didascalie": "",
-                    "Start": 154986,
-                    "End": 155102
-                },
-                {
                     "Reply": "Sandy stands up, accepting his fate, and closes his eyes as he and his Dreamsand cloud are consumed by the writhing blackness of the Nightmare sand.",
                     "Didascalie": "",
                     "Start": 158101,
@@ -5987,28 +5968,6 @@
                     "Didascalie": "",
                     "Start": 166322,
                     "End": 166356
-                }
-            ]
-        },
-        {
-            "Character": "A GREEN MEADOW",
-            "Replies": [
-                {
-                    "Reply": "As Sophie leads a parade of eggs, Bunny jumps to an adjacent rock and sits up to address the eggs as they walk in stride.",
-                    "Didascalie": "",
-                    "Start": 176232,
-                    "End": 176364
-                }
-            ]
-        },
-        {
-            "Character": "A SPARKLING STREAM",
-            "Replies": [
-                {
-                    "Reply": "Colored eggs wade through the water, emerging with SECONDARY COLORS and intricate PATTERNS of all kinds.",
-                    "Didascalie": "",
-                    "Start": 175136,
-                    "End": 175251
                 }
             ]
         },

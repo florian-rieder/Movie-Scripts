@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Shallow Grave",
-        "   "
-    ],
+    "Title": "Shallow Grave",
     "Author": [
-        "\u00a0\u00a0John Hodge"
+        "John Hodge"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

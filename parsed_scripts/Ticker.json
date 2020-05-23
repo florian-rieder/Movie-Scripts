@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Ticker",
-        "   "
-    ],
+    "Title": "Ticker",
     "Author": [
-        "\u00a0\u00a0Paul B. Margolis"
+        "Paul B. Margolis"
     ],
     "Genre": [
-        "\u00a0\u00a0Action.Thriller\u00a0\u00a0Crime"
+        "Action.Thriller",
+        "Crime"
     ],
     "Characters": [
         {

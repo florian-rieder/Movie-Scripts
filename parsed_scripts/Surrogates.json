@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Surrogates",
-        "   "
-    ],
+    "Title": "Surrogates",
     "Author": [
-        "\u00a0\u00a0John Brancato\u00a0\u00a0Michael Ferris\u00a0\u00a0Robert Venditti"
+        "John Brancato",
+        "Michael Ferris",
+        "Robert Venditti"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

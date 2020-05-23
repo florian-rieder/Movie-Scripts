@@ -1,13 +1,18 @@
 {
-    "Title": [
-        "Mummy, The",
-        "   "
-    ],
+    "Title": "Mummy, The",
     "Author": [
-        "\u00a0\u00a0Nina Wilcox Putnam\u00a0\u00a0Richard Schayer\u00a0\u00a0John L. Balderston\u00a0\u00a0Stephen Sommers\u00a0\u00a0Lloyd Fonvielle\u00a0\u00a0Kevin Jarre"
+        "Nina Wilcox Putnam",
+        "Richard Schayer",
+        "John L. Balderston",
+        "Stephen Sommers",
+        "Lloyd Fonvielle",
+        "Kevin Jarre"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Horror"
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "Horror"
     ],
     "Characters": [
         {

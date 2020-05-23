@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Case 39",
-        "   "
-    ],
+    "Title": "Case 39",
     "Author": [
-        "\u00a0\u00a0Ray Wright"
+        "Ray Wright"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3929,17 +3928,6 @@
             ]
         },
         {
-            "Character": "A HOMEMADE COFFIN",
-            "Replies": [
-                {
-                    "Reply": "Sensing Lucy's stare, he glances up over his shoulder. And Lucy ducks out of sight, breath held.",
-                    "Didascalie": "",
-                    "Start": 36392,
-                    "End": 36499
-                }
-            ]
-        },
-        {
             "Character": "ANSWERING MACHINE",
             "Replies": [
                 {
@@ -4096,17 +4084,6 @@
             ]
         },
         {
-            "Character": "A LONG DEEP SCRATCH",
-            "Replies": [
-                {
-                    "Reply": "in the wooden floor, hidden under a long runner rug. Emily peels back the rug and finds -",
-                    "Didascalie": "",
-                    "Start": 64213,
-                    "End": 64313
-                }
-            ]
-        },
-        {
             "Character": "HUNDREDS OF LONG DEEP SCRATCHES",
             "Replies": [
                 {
@@ -4114,17 +4091,6 @@
                     "Didascalie": "",
                     "Start": 64417,
                     "End": 64568
-                }
-            ]
-        },
-        {
-            "Character": "A BARRICADE",
-            "Replies": [
-                {
-                    "Reply": "Emily stares at it. Looks over at Edward and Margaret's bed, imagining them here behind this door. Slides the bureau aside. Opens the deadbolts. And as the door swings open she is looking straight down the hall at  LUCY'S BEDROOM  Emily stares, bewildered.",
-                    "Didascalie": "",
-                    "Start": 65419,
-                    "End": 65791
                 }
             ]
         },
@@ -4256,17 +4222,6 @@
                     "Didascalie": "",
                     "Start": 120348,
                     "End": 120430
-                }
-            ]
-        },
-        {
-            "Character": "A VIDEO TAPE",
-            "Replies": [
-                {
-                    "Reply": "Interviews.",
-                    "Didascalie": "",
-                    "Start": 124400,
-                    "End": 124412
                 }
             ]
         },

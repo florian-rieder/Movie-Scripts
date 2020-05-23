@@ -1,15 +1,25 @@
 {
-    "Title": [
-        "Die Hard 2",
-        "   "
-    ],
+    "Title": "Die Hard 2",
     "Author": [
-        "\u00a0\u00a0Doug Richardson\u00a0\u00a0Steven E. de Souza"
+        "Doug Richardson",
+        "Steven E. de Souza"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Action",
+        "Thriller"
     ],
     "Characters": [
+        {
+            "Character": "DIE HARD 2",
+            "Replies": [
+                {
+                    "Reply": "WHILE WE'RE IN BLACK we HEAR a PNEUMATIC \"KA-CHUNK\" and then  MCCLANE'S VOICE Holy shit, whoa, whoa -",
+                    "Didascalie": "",
+                    "Start": 540,
+                    "End": 677
+                }
+            ]
+        },
         {
             "Character": "MCCLANE",
             "Replies": [
@@ -1025,6 +1035,17 @@
                     "Didascalie": "",
                     "Start": 2943,
                     "End": 2992
+                }
+            ]
+        },
+        {
+            "Character": "MCCLANE 1ST NEWSCASTER",
+            "Replies": [
+                {
+                    "Reply": "that new storm front moves Right over there. to the Metro area this afternoon as predicted.",
+                    "Didascalie": "(pointing)",
+                    "Start": 4052,
+                    "End": 4166
                 }
             ]
         },
@@ -2449,17 +2470,6 @@
             ]
         },
         {
-            "Character": "P-",
-            "Replies": [
-                {
-                    "Reply": "18  60 CONTINUED - 60  0  THORNBERG'S VOICE - no, you did not explain anything - all you did was shove me a- -here in this cattle car -",
-                    "Didascalie": "",
-                    "Start": 36193,
-                    "End": 36434
-                }
-            ]
-        },
-        {
             "Character": "THORNBERG",
             "Replies": [
                 {
@@ -3202,6 +3212,12 @@
                     "Didascalie": "",
                     "Start": 60380,
                     "End": 60391
+                },
+                {
+                    "Reply": "336C INSIDE THE HANGER 336C Weapons are COCKED - soldier's muscles coil -",
+                    "Didascalie": "",
+                    "Start": 203593,
+                    "End": 203678
                 }
             ]
         },
@@ -3252,6 +3268,17 @@
                     "Didascalie": "(into RADIO)",
                     "Start": 72728,
                     "End": 72757
+                }
+            ]
+        },
+        {
+            "Character": "I 2ND ENGINEER",
+            "Replies": [
+                {
+                    "Reply": "That's VHF - it'll scatter -",
+                    "Didascalie": "",
+                    "Start": 76131,
+                    "End": 76160
                 }
             ]
         },
@@ -3427,6 +3454,17 @@
             ]
         },
         {
+            "Character": "SIX FEET AWAY 132",
+            "Replies": [
+                {
+                    "Reply": "he, too, has ducked the falling scaffold, but he's already on his feet, already bending to grab his dropped MAC 10 rom the slidewalk - bringing it up - AIMING -",
+                    "Didascalie": "",
+                    "Start": 95786,
+                    "End": 95967
+                }
+            ]
+        },
+        {
             "Character": "KAHN",
             "Replies": [
                 {
@@ -3451,17 +3489,6 @@
                     "Didascalie": "(heartsick)",
                     "Start": 106359,
                     "End": 106479
-                }
-            ]
-        },
-        {
-            "Character": "A TECHNICIAN",
-            "Replies": [
-                {
-                    "Reply": "Can't we cut in, jam them -",
-                    "Didascalie": "",
-                    "Start": 109883,
-                    "End": 109911
                 }
             ]
         },
@@ -3933,17 +3960,6 @@
                     "Didascalie": "",
                     "Start": 169123,
                     "End": 169232
-                }
-            ]
-        },
-        {
-            "Character": "A SOLDIER",
-            "Replies": [
-                {
-                    "Reply": "Got one here, too - looks like C-4 and the mother fucker is primed-",
-                    "Didascalie": "",
-                    "Start": 181858,
-                    "End": 181936
                 }
             ]
         },

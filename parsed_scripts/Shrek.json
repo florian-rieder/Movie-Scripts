@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Shrek",
-        "   "
-    ],
+    "Title": "Shrek",
     "Author": [
-        "\u00a0\u00a0William Steig\u00a0\u00a0Ted Elliott"
+        "William Steig",
+        "Ted Elliott"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Family\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -30,12 +33,6 @@
                     "Didascalie": "",
                     "Start": 2262,
                     "End": 2410
-                },
-                {
-                    "Reply": "Shrek calmly licks his fingers and extinguishes the torch. The men shrink back away from him. Shrek roars very loudly and long and his breath extinguishes all the remaining torches until the men are in the dark.",
-                    "Didascalie": "(waves the torch at Shrek.)",
-                    "Start": 2568,
-                    "End": 2846
                 },
                 {
                     "Reply": "Aye?",

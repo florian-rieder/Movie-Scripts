@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Tin Cup",
-        "   "
-    ],
+    "Title": "Tin Cup",
     "Author": [
-        "\u00a0\u00a0John Norville\u00a0\u00a0Ron Shelton"
+        "John Norville",
+        "Ron Shelton"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

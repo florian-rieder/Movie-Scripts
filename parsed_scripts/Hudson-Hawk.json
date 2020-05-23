@@ -1,26 +1,16 @@
 {
-    "Title": [
-        "Hudson Hawk",
-        "   "
-    ],
+    "Title": "Hudson Hawk",
     "Author": [
-        "\u00a0\u00a0Steven E. De Souza\u00a0\u00a0Daniel Waters"
+        "Steven E. De Souza",
+        "Daniel Waters"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
-        {
-            "Character": "HUDSON HAWK",
-            "Replies": [
-                {
-                    "Reply": "Production      NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS AND SOME \"SCENE OMITTED\" SLUGS. THEY HAVE BEEN REMOVED FOR THIS SOFT COPY.",
-                    "Didascalie": "",
-                    "Start": 400,
-                    "End": 565
-                }
-            ]
-        },
         {
             "Character": "UNFORGETTABLE JUGGLER",
             "Replies": [
@@ -74,17 +64,6 @@
                     "Didascalie": "",
                     "Start": 3224,
                     "End": 3251
-                }
-            ]
-        },
-        {
-            "Character": "A HAWK",
-            "Replies": [
-                {
-                    "Reply": "who is revealed to be flying over Sing Sing prison.",
-                    "Didascalie": "",
-                    "Start": 5487,
-                    "End": 5539
                 }
             ]
         },
@@ -3611,17 +3590,6 @@
             ]
         },
         {
-            "Character": "A PEACEFUL OFF-ROAD",
-            "Replies": [
-                {
-                    "Reply": "Hawk, with an unchanged expression of pure white knuckle fear, comes to a tranquil gurney-wheels-gently-squeaking stop.",
-                    "Didascalie": "",
-                    "Start": 64226,
-                    "End": 64356
-                }
-            ]
-        },
-        {
             "Character": "SNICKERS",
             "Replies": [
                 {
@@ -4255,17 +4223,6 @@
             ]
         },
         {
-            "Character": "A SHOCKED HAWK",
-            "Replies": [
-                {
-                    "Reply": "quickly turns from the blithe carnage and pulls up a sheet.  He reveals the familiar Gold Machine Demonhead.",
-                    "Didascalie": "",
-                    "Start": 122476,
-                    "End": 122590
-                }
-            ]
-        },
-        {
             "Character": "AROUND A CORNER",
             "Replies": [
                 {
@@ -4357,17 +4314,6 @@
                     "Didascalie": "",
                     "Start": 191601,
                     "End": 191615
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL PIAZZA",
-            "Replies": [
-                {
-                    "Reply": "The mule trots into a small storybook piazza in the hush of dawn.  Hawk, Anna, and the unforgettable Juggler ride atop it.",
-                    "Didascalie": "",
-                    "Start": 191847,
-                    "End": 191980
                 }
             ]
         }

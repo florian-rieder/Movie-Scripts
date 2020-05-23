@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Austin Powers - International Man of Mystery",
-        "   "
-    ],
+    "Title": "Austin Powers - International Man of Mystery",
     "Author": [
-        "\u00a0\u00a0Mike Myers"
+        "Mike Myers"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy"
+        "Action",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -70,12 +68,6 @@
                     "Didascalie": "",
                     "Start": 4971,
                     "End": 4985
-                },
-                {
-                    "Reply": "We could have another photo session back at my flat.",
-                    "Didascalie": "(suggestively)",
-                    "Start": 5080,
-                    "End": 5185
                 },
                 {
                     "Reply": "Oh, behave!",
@@ -1628,6 +1620,50 @@
             ]
         },
         {
+            "Character": "SUPERMODEL 1",
+            "Replies": [
+                {
+                    "Reply": "Austin, you've really outdone yourself this time.",
+                    "Didascalie": "",
+                    "Start": 4825,
+                    "End": 4901
+                }
+            ]
+        },
+        {
+            "Character": "SUPERMODEL 2",
+            "Replies": [
+                {
+                    "Reply": "We could have another photo session back at my flat.",
+                    "Didascalie": "(suggestively)",
+                    "Start": 5080,
+                    "End": 5185
+                }
+            ]
+        },
+        {
+            "Character": "SUPERMODEL 3",
+            "Replies": [
+                {
+                    "Reply": "Austin, I love you!",
+                    "Didascalie": "",
+                    "Start": 5381,
+                    "End": 5401
+                }
+            ]
+        },
+        {
+            "Character": "MOD GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "It's Austin Powers!",
+                    "Didascalie": "",
+                    "Start": 5707,
+                    "End": 5727
+                }
+            ]
+        },
+        {
             "Character": "BASIL EXPOSITION",
             "Replies": [
                 {
@@ -1958,23 +1994,6 @@
                     "Didascalie": "",
                     "Start": 13825,
                     "End": 13833
-                }
-            ]
-        },
-        {
-            "Character": "FULL SCREEN INSERT",
-            "Replies": [
-                {
-                    "Reply": "A vinyl 45 of \"You Can't Always Get What You Want.\"",
-                    "Didascalie": "",
-                    "Start": 13884,
-                    "End": 13936
-                },
-                {
-                    "Reply": "Andy Warhol's famous Soup Can painting.",
-                    "Didascalie": "",
-                    "Start": 15606,
-                    "End": 15646
                 }
             ]
         },
@@ -3904,6 +3923,28 @@
             ]
         },
         {
+            "Character": "SON 1",
+            "Replies": [
+                {
+                    "Reply": "I love you, Dad.",
+                    "Didascalie": "(crying)",
+                    "Start": 131130,
+                    "End": 131173
+                }
+            ]
+        },
+        {
+            "Character": "DAD 1",
+            "Replies": [
+                {
+                    "Reply": "I love you, Son.",
+                    "Didascalie": "",
+                    "Start": 131242,
+                    "End": 131259
+                }
+            ]
+        },
+        {
             "Character": "THERAPIST",
             "Replies": [
                 {
@@ -4287,6 +4328,99 @@
             ]
         },
         {
+            "Character": "GUY 1",
+            "Replies": [
+                {
+                    "Reply": "I can't believe John Smith is getting married tomorrow.",
+                    "Didascalie": "",
+                    "Start": 175083,
+                    "End": 175165
+                },
+                {
+                    "Reply": "Hello?",
+                    "Didascalie": "",
+                    "Start": 176190,
+                    "End": 176197
+                },
+                {
+                    "Reply": "Yes, I have a friend named John Smith.",
+                    "Didascalie": "(pause)",
+                    "Start": 176234,
+                    "End": 176299
+                },
+                {
+                    "Reply": "That's right, he's in Dr. Evil's private army.",
+                    "Didascalie": "(pause)",
+                    "Start": 176336,
+                    "End": 176435
+                },
+                {
+                    "Reply": "What?  He's dead?",
+                    "Didascalie": "(pause)",
+                    "Start": 176472,
+                    "End": 176516
+                },
+                {
+                    "Reply": "Decapitated by mutated flying sea bass?  Oh my God!  OK, thank you.",
+                    "Didascalie": "(pause)",
+                    "Start": 176553,
+                    "End": 176673
+                },
+                {
+                    "Reply": "Guys, John's not coming.",
+                    "Didascalie": "",
+                    "Start": 176967,
+                    "End": 176992
+                },
+                {
+                    "Reply": "He was decapitated by mutated flying sea bass.",
+                    "Didascalie": "",
+                    "Start": 177135,
+                    "End": 177208
+                },
+                {
+                    "Reply": "All right, to Smittie!",
+                    "Didascalie": "",
+                    "Start": 177406,
+                    "End": 177429
+                }
+            ]
+        },
+        {
+            "Character": "GUY 2",
+            "Replies": [
+                {
+                    "Reply": "Where is Smittie anyways?  It's not like him to be late for anything, especially his own stag party.",
+                    "Didascalie": "",
+                    "Start": 175234,
+                    "End": 175387
+                },
+                {
+                    "Reply": "Hey Bill, what's wrong?  Was that John?  Is he coming late?",
+                    "Didascalie": "(to Guy 1)",
+                    "Start": 176786,
+                    "End": 176898
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 177061,
+                    "End": 177066
+                }
+            ]
+        },
+        {
+            "Character": "GUY 3",
+            "Replies": [
+                {
+                    "Reply": "Well, you know he's a henchman for Dr. Evil.  Sometimes they work late. Can I just say something that may sound a little sappy?  I think it's a testament to our friend John that so many of his buddies showed up in his honor.  There's a lot of love in this room.",
+                    "Didascalie": "",
+                    "Start": 175456,
+                    "End": 175901
+                }
+            ]
+        },
+        {
             "Character": "WAITRESS",
             "Replies": [
                 {
@@ -4438,17 +4572,6 @@
                     "Didascalie": "(to Austin)",
                     "Start": 195481,
                     "End": 195530
-                }
-            ]
-        },
-        {
-            "Character": "END CREDITS ROLL",
-            "Replies": [
-                {
-                    "Reply": "LAST CREDIT reads \"SEE AUSTIN POWERS IN YOU ONLY FLOSS ONCE.\"",
-                    "Didascalie": "",
-                    "Start": 209751,
-                    "End": 209813
                 }
             ]
         },

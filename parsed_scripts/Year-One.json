@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Year One",
-        "   "
-    ],
+    "Title": "Year One",
     "Author": [
-        "\u00a0\u00a0Harold Ramis\u00a0\u00a0Gene Stupnitsky\u00a0\u00a0Lee Eisenberg"
+        "Harold Ramis",
+        "Gene Stupnitsky",
+        "Lee Eisenberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3652,17 +3652,6 @@
             ]
         },
         {
-            "Character": "A VILLAGER",
-            "Replies": [
-                {
-                    "Reply": "Oww!",
-                    "Didascalie": "",
-                    "Start": 18696,
-                    "End": 18701
-                }
-            ]
-        },
-        {
             "Character": "VILLAGERS",
             "Replies": [
                 {
@@ -4888,17 +4877,6 @@
             ]
         },
         {
-            "Character": "A BATTLE CHARIOT",
-            "Replies": [
-                {
-                    "Reply": "comes flying over the crest of the wadi followed by TWENTY ARMORED FOOT SOLDIERS wearing bronze helmets and breastplates.",
-                    "Didascalie": "",
-                    "Start": 79762,
-                    "End": 79904
-                }
-            ]
-        },
-        {
             "Character": "SARGON",
             "Replies": [
                 {
@@ -4954,17 +4932,6 @@
                     "Didascalie": "",
                     "Start": 179897,
                     "End": 179927
-                }
-            ]
-        },
-        {
-            "Character": "A SOLDIER",
-            "Replies": [
-                {
-                    "Reply": "Sir, shall I pursue them?",
-                    "Didascalie": "",
-                    "Start": 80914,
-                    "End": 80940
                 }
             ]
         },

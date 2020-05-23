@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Battle of Algiers, The",
-        "   "
-    ],
+    "Title": "Battle of Algiers, The",
     "Author": [
-        "\u00a0\u00a0Gillo Pontecorvo\u00a0\u00a0Franco Solinas"
+        "Gillo Pontecorvo",
+        "Franco Solinas"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Drama",
+        "War"
     ],
     "Characters": [
         {
@@ -2500,17 +2499,6 @@
                     "Didascalie": "",
                     "Start": 166486,
                     "End": 166943
-                }
-            ]
-        },
-        {
-            "Character": "A JOURNALIST",
-            "Replies": [
-                {
-                    "Reply": "We are now in the fourth day and the strike continues, with total support by the Arab population. The city is very calm. However -- Calm ... Are you deaf? The city is peaceful. In the Moslem quarters, in the outskirts of the city, in the Casbah ... Bye, will call again, I'm busy.",
-                    "Didascalie": "",
-                    "Start": 137970,
-                    "End": 138272
                 }
             ]
         },

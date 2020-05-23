@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Imaginarium of Doctor Parnassus, The",
-        "   "
-    ],
+    "Title": "Imaginarium of Doctor Parnassus, The",
     "Author": [
-        "\u00a0\u00a0Terry McKeown\u00a0\u00a0Charles Gilliam"
+        "Terry McKeown",
+        "Charles Gilliam"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Mystery"
+        "Adventure",
+        "Fantasy",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -4643,6 +4643,17 @@
                     "Didascalie": "",
                     "Start": 135908,
                     "End": 135943
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "How long does that take?   I'm running late.",
+                    "Didascalie": "",
+                    "Start": 136453,
+                    "End": 136513
                 }
             ]
         },

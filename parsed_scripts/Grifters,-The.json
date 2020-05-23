@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Grifters, The",
-        "   "
-    ],
+    "Title": "Grifters, The",
     "Author": [
-        "\u00a0\u00a0Donald E. Westlake"
+        "Donald E. Westlake"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4453,6 +4451,23 @@
                     "End": 75021
                 },
                 {
+                    "Reply": "It just doesn't seem fair, Tom.",
+                    "Didascalie": "",
+                    "Start": 76953,
+                    "End": 76985
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "You okay, pal?",
+                    "Didascalie": "",
+                    "Start": 73809,
+                    "End": 73824
+                },
+                {
                     "Reply": "And you jumped right in.",
                     "Didascalie": "(to Soldier 3)",
                     "Start": 75083,
@@ -4465,16 +4480,62 @@
                     "End": 75219
                 },
                 {
+                    "Reply": "You can't buy every round!",
+                    "Didascalie": "",
+                    "Start": 76100,
+                    "End": 76127
+                },
+                {
+                    "Reply": "Here goes.",
+                    "Didascalie": "",
+                    "Start": 76535,
+                    "End": 76546
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 3",
+            "Replies": [
+                {
+                    "Reply": "You didn't like spill much at all.",
+                    "Didascalie": "",
+                    "Start": 73997,
+                    "End": 74032
+                },
+                {
+                    "Reply": "Yeah, but it was you like told the sergeant your grandmother was dead.",
+                    "Didascalie": "(to Soldier 2)",
+                    "Start": 74852,
+                    "End": 74946
+                },
+                {
+                    "Reply": "Nah. Old Sarge, he's slowing down.",
+                    "Didascalie": "",
+                    "Start": 75508,
+                    "End": 75543
+                },
+                {
+                    "Reply": "Like our turn!",
+                    "Didascalie": "",
+                    "Start": 76172,
+                    "End": 76187
+                },
+                {
+                    "Reply": "That's a four!",
+                    "Didascalie": "",
+                    "Start": 76626,
+                    "End": 76641
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 4",
+            "Replies": [
+                {
                     "Reply": "Distraught? You said distraught?",
                     "Didascalie": "(astonished)",
                     "Start": 75279,
                     "End": 75324
-                },
-                {
-                    "Reply": "It just doesn't seem fair, Tom.",
-                    "Didascalie": "",
-                    "Start": 76953,
-                    "End": 76985
                 }
             ]
         },

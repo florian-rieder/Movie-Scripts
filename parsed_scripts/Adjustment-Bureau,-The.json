@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Adjustment Bureau, The",
-        "   "
-    ],
+    "Title": "Adjustment Bureau, The",
     "Author": [
-        "\u00a0\u00a0George Nolfi\u00a0\u00a0Philip K Dick"
+        "George Nolfi",
+        "Philip K Dick"
     ],
     "Genre": [
-        "\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Romance",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2597,17 +2597,6 @@
                     "Didascalie": "",
                     "Start": 11016,
                     "End": 11036
-                }
-            ]
-        },
-        {
-            "Character": "A BRUTAL",
-            "Replies": [
-                {
-                    "Reply": "He shows a piece of paper to Charlie and David.",
-                    "Didascalie": "",
-                    "Start": 10587,
-                    "End": 10635
                 }
             ]
         },
@@ -5711,6 +5700,17 @@
                     "Didascalie": "",
                     "Start": 157583,
                     "End": 157601
+                }
+            ]
+        },
+        {
+            "Character": "T-4 MPSON",
+            "Replies": [
+                {
+                    "Reply": "She's a beautiful dancer.",
+                    "Didascalie": "",
+                    "Start": 161319,
+                    "End": 161345
                 }
             ]
         },

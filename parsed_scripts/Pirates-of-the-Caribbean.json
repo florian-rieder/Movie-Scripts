@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Pirates of the Caribbean",
-        "   "
-    ],
+    "Title": "Pirates of the Caribbean",
     "Author": [
-        "\u00a0\u00a0Ted Elliot\u00a0\u00a0Terry Rossio"
+        "Ted Elliot",
+        "Terry Rossio"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Action",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3920,12 +3920,6 @@
                     "Didascalie": "",
                     "Start": 22213,
                     "End": 22221
-                },
-                {
-                    "Reply": "Like I said, there's no real ship as can match -- Hey!",
-                    "Didascalie": "(turns back to Jack)",
-                    "Start": 22284,
-                    "End": 22360
                 },
                 {
                     "Reply": "What's your name?",

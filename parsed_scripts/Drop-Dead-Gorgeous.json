@@ -1,26 +1,12 @@
 {
-    "Title": [
-        "Drop Dead Gorgeous",
-        "   "
-    ],
+    "Title": "Drop Dead Gorgeous",
     "Author": [
-        "\u00a0\u00a0Lona Williams"
+        "Lona Williams"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
-        {
-            "Character": "A SMALL TOWN IN MINNESOTA",
-            "Replies": [
-                {
-                    "Reply": "TO COMMEMORATE THIS OCCASSION.",
-                    "Didascalie": "",
-                    "Start": 522,
-                    "End": 553
-                }
-            ]
-        },
         {
             "Character": "MALE PAGEANT ANNOUNCER",
             "Replies": [

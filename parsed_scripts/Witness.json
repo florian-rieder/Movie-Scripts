@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Witness",
-        "   "
-    ],
+    "Title": "Witness",
     "Author": [
-        "\u00a0\u00a0Earl W. Wallace\u00a0\u00a0Pamela Wallace\u00a0\u00a0William Kelley"
+        "Earl W. Wallace",
+        "Pamela Wallace",
+        "William Kelley"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4188,17 +4190,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "Rachel's name and address scribbled on a page of the calendar.",
-                    "Didascalie": "",
-                    "Start": 80515,
-                    "End": 80578
-                }
-            ]
-        },
-        {
             "Character": "WIDER",
             "Replies": [
                 {
@@ -4304,17 +4295,6 @@
                     "Didascalie": "",
                     "Start": 100899,
                     "End": 100967
-                }
-            ]
-        },
-        {
-            "Character": "INSERT WATCHFACE",
-            "Replies": [
-                {
-                    "Reply": "It reads 4:30 a.m.",
-                    "Didascalie": "",
-                    "Start": 124209,
-                    "End": 124228
                 }
             ]
         },

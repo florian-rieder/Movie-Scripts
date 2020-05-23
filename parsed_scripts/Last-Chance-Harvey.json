@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Last Chance Harvey",
-        "   "
-    ],
+    "Title": "Last Chance Harvey",
     "Author": [
-        "\u00a0\u00a0Joel Hopkins"
+        "Joel Hopkins"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Three Men and a Baby",
-        "   "
-    ],
+    "Title": "Three Men and a Baby",
     "Author": [
-        "\u00a0\u00a0Jim Cruickshank\u00a0\u00a0James Orr\u00a0\u00a0Colline Serreau"
+        "Jim Cruickshank",
+        "James Orr",
+        "Colline Serreau"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Family"
+        "Comedy",
+        "Family"
     ],
     "Characters": [
         {

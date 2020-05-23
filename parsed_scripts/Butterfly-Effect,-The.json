@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Butterfly Effect, The",
-        "   "
-    ],
+    "Title": "Butterfly Effect, The",
     "Author": [
-        "\u00a0\u00a0J. Mackye Gruber\u00a0\u00a0Eric Bress"
+        "J. Mackye Gruber",
+        "Eric Bress"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller\u00a0\u00a0Fantasy"
+        "Drama",
+        "Thriller",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -3981,28 +3981,6 @@
                     "Didascalie": "",
                     "Start": 83227,
                     "End": 83248
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "The room is filled with model airplanes. Hundreds of them.",
-                    "Didascalie": "",
-                    "Start": 84773,
-                    "End": 84832
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL ANDREA",
-            "Replies": [
-                {
-                    "Reply": "Her hair now has gray streaks. As she signs for the bill, she leans over and kisses Evan on the cheek.",
-                    "Didascalie": "",
-                    "Start": 96683,
-                    "End": 96802
                 }
             ]
         },

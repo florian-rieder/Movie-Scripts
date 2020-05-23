@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Searchers, The",
-        "   "
-    ],
+    "Title": "Searchers, The",
     "Author": [
-        "\u00a0\u00a0Frank Nugent"
+        "Frank Nugent"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Western"
+        "Drama",
+        "Western"
     ],
     "Characters": [
         {
@@ -5171,17 +5169,6 @@
                     "Didascalie": "",
                     "Start": 202343,
                     "End": 202355
-                }
-            ]
-        },
-        {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "Laurie has reached the last page of the letter, reading it by the lamp on the table. Jorgensen is knocking out the dead ashes of his pipe.  Charlie is in the shadows, a guitar in his hands -- not playing it, but occasionally softly picking a note or chord. Mrs. Jorgensen is dabbing moist eyes with a corner of her apron.",
-                    "Didascalie": "",
-                    "Start": 206505,
-                    "End": 206907
                 }
             ]
         },

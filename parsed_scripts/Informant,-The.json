@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Informant, The",
-        "   "
-    ],
+    "Title": "Informant, The",
     "Author": [
-        "\u00a0\u00a0Scott Z. Burns\u00a0\u00a0Kurt Eichenwald"
+        "Scott Z. Burns",
+        "Kurt Eichenwald"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Comedy",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2939,17 +2939,6 @@
                     "Didascalie": "",
                     "Start": 245167,
                     "End": 245172
-                }
-            ]
-        },
-        {
-            "Character": "A PEN SIGNS A LEDGER",
-            "Replies": [
-                {
-                    "Reply": "Whitacre signs in with the security gate at ARCHER DANIELS MIDLAND headquarters in Decatur. A sprawling industrial facility that makes most of what America eats. Grain elevators, cooling towers, processing plants, loading docks and a six story concrete bunker of an office building. He parks his car in a monogrammed space.",
-                    "Didascalie": "",
-                    "Start": 4547,
-                    "End": 4921
                 }
             ]
         },
@@ -6590,6 +6579,28 @@
                     "Didascalie": "",
                     "Start": 208283,
                     "End": 208389
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "What has been the reaction of your friends and co-workers to having been taped without their knowledge?",
+                    "Didascalie": "",
+                    "Start": 208464,
+                    "End": 208588
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "Do you believe you and your family can safely stay in Decatur, or has the government made arrangements to move you?",
+                    "Didascalie": "",
+                    "Start": 208688,
+                    "End": 208834
                 }
             ]
         },

@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Losers, The",
-        "   "
-    ],
+    "Title": "Losers, The",
     "Author": [
-        "\u00a0\u00a0Peter Berg\u00a0\u00a0James Vanderbilt"
+        "Peter Berg",
+        "James Vanderbilt"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Crime",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4317,17 +4319,6 @@
             ]
         },
         {
-            "Character": "OMAR",
-            "Replies": [
-                {
-                    "Reply": "Clay nods. A beat. The Pilot pulls the stick back and the CHOPPER ASCENDS. The kids wave goodbye to our guys.",
-                    "Didascalie": "",
-                    "Start": 24245,
-                    "End": 24365
-                }
-            ]
-        },
-        {
             "Character": "MIG PILOT",
             "Replies": [
                 {
@@ -5614,6 +5605,35 @@
             ]
         },
         {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Need a hand, buddy?",
+                    "Didascalie": "",
+                    "Start": 76604,
+                    "End": 76624
+                },
+                {
+                    "Reply": "AAOW! Something just bit me!",
+                    "Didascalie": "",
+                    "Start": 77564,
+                    "End": 77593
+                },
+                {
+                    "Reply": "Is this...?",
+                    "Didascalie": "(CONT'D) (staring at the dart)",
+                    "Start": 77777,
+                    "End": 77801
+                },
+                {
+                    "Reply": "Sir, that smell! It's- gasoline!",
+                    "Didascalie": "",
+                    "Start": 103475,
+                    "End": 103508
+                }
+            ]
+        },
+        {
             "Character": "BASE ONE",
             "Replies": [
                 {
@@ -5857,6 +5877,51 @@
             ]
         },
         {
+            "Character": "SECURITY GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "\"Skippy\"?",
+                    "Didascalie": "",
+                    "Start": 145927,
+                    "End": 145937
+                },
+                {
+                    "Reply": "Show me some ID. Real easy.",
+                    "Didascalie": "",
+                    "Start": 146120,
+                    "End": 146148
+                }
+            ]
+        },
+        {
+            "Character": "BIG SECURITY 1",
+            "Replies": [
+                {
+                    "Reply": "Freeze like a statue, pretty boy!",
+                    "Didascalie": "",
+                    "Start": 146961,
+                    "End": 146995
+                },
+                {
+                    "Reply": "Telekinetic your way out of this...",
+                    "Didascalie": "",
+                    "Start": 147862,
+                    "End": 147898
+                }
+            ]
+        },
+        {
+            "Character": "BIG SECURITY 2",
+            "Replies": [
+                {
+                    "Reply": "You broke my ribs...",
+                    "Didascalie": "",
+                    "Start": 148595,
+                    "End": 148616
+                }
+            ]
+        },
+        {
             "Character": "THIRD GUARD",
             "Replies": [
                 {
@@ -5904,17 +5969,6 @@
                     "Didascalie": "(CONT'D) (NOTICING)",
                     "Start": 193987,
                     "End": 194024
-                }
-            ]
-        },
-        {
-            "Character": "VISUALIZE THIS --",
-            "Replies": [
-                {
-                    "Reply": "AT ONE END OF THE RUNWAY, the plane starting to take off.",
-                    "Didascalie": "",
-                    "Start": 211832,
-                    "End": 211890
                 }
             ]
         },

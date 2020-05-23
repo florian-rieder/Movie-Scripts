@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Finding Nemo",
-        "   "
-    ],
+    "Title": "Finding Nemo",
     "Author": [
-        "\u00a0\u00a0Andrew Stanton"
+        "Andrew Stanton"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Family"
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
     ],
     "Characters": [
         {
@@ -7701,6 +7701,72 @@
             ]
         },
         {
+            "Character": "TURTLE KID 1",
+            "Replies": [
+                {
+                    "Reply": "Are you funny?",
+                    "Didascalie": "",
+                    "Start": 45732,
+                    "End": 45747
+                }
+            ]
+        },
+        {
+            "Character": "TURTLE KID 2",
+            "Replies": [
+                {
+                    "Reply": "Where's your shell?",
+                    "Didascalie": "",
+                    "Start": 45761,
+                    "End": 45781
+                }
+            ]
+        },
+        {
+            "Character": "TURTLE KID 3",
+            "Replies": [
+                {
+                    "Reply": "Are you running away?",
+                    "Didascalie": "",
+                    "Start": 45831,
+                    "End": 45853
+                }
+            ]
+        },
+        {
+            "Character": "TURTLE KID 4",
+            "Replies": [
+                {
+                    "Reply": "Did you really cross the jellyfish forest?",
+                    "Didascalie": "",
+                    "Start": 45867,
+                    "End": 45910
+                }
+            ]
+        },
+        {
+            "Character": "TURTLE KID 5",
+            "Replies": [
+                {
+                    "Reply": "Did they sting you?",
+                    "Didascalie": "",
+                    "Start": 45974,
+                    "End": 45994
+                }
+            ]
+        },
+        {
+            "Character": "TURTLE KID 6",
+            "Replies": [
+                {
+                    "Reply": "Mr. Fish, did you die?",
+                    "Didascalie": "",
+                    "Start": 46031,
+                    "End": 46054
+                }
+            ]
+        },
+        {
             "Character": "TURTLE KID",
             "Replies": [
                 {
@@ -7780,6 +7846,39 @@
                     "Didascalie": "",
                     "Start": 47523,
                     "End": 47610
+                }
+            ]
+        },
+        {
+            "Character": "MALE BIRD 1",
+            "Replies": [
+                {
+                    "Reply": "..Harbor in a matter of days. I mean, it sounds like this guy's gonna stop at..",
+                    "Didascalie": "",
+                    "Start": 47623,
+                    "End": 47703
+                }
+            ]
+        },
+        {
+            "Character": "MALE BIRD 2",
+            "Replies": [
+                {
+                    "Reply": "..nothing until he finds his son. I sure hope he makes it.",
+                    "Didascalie": "",
+                    "Start": 47767,
+                    "End": 47826
+                }
+            ]
+        },
+        {
+            "Character": "MALE BIRD 3",
+            "Replies": [
+                {
+                    "Reply": "That's one dedicated father if you ask me.",
+                    "Didascalie": "",
+                    "Start": 47839,
+                    "End": 47882
                 }
             ]
         },
@@ -8018,6 +8117,70 @@
                     "Didascalie": "",
                     "Start": 67861,
                     "End": 67868
+                }
+            ]
+        },
+        {
+            "Character": "CRAB 1",
+            "Replies": [
+                {
+                    "Reply": "Manna from heavens!",
+                    "Didascalie": "",
+                    "Start": 68813,
+                    "End": 68833
+                },
+                {
+                    "Reply": "This is our spot!",
+                    "Didascalie": "",
+                    "Start": 68956,
+                    "End": 68974
+                },
+                {
+                    "Reply": "Yeah, that's it fella! Just keep on swimmin', you got that!",
+                    "Didascalie": "",
+                    "Start": 69058,
+                    "End": 69118
+                },
+                {
+                    "Reply": "You let 'im go!",
+                    "Didascalie": "",
+                    "Start": 69257,
+                    "End": 69273
+                }
+            ]
+        },
+        {
+            "Character": "CRAB 2",
+            "Replies": [
+                {
+                    "Reply": "Sweet nectar of life!",
+                    "Didascalie": "",
+                    "Start": 68841,
+                    "End": 68863
+                },
+                {
+                    "Reply": "Go on! Get outta here!",
+                    "Didascalie": "",
+                    "Start": 68982,
+                    "End": 69005
+                },
+                {
+                    "Reply": "Too right, mate! Oh, Oh! I got a live one here!",
+                    "Didascalie": "",
+                    "Start": 69126,
+                    "End": 69174
+                },
+                {
+                    "Reply": "Gotcha! Hey! Hey! Come back here!",
+                    "Didascalie": "",
+                    "Start": 69215,
+                    "End": 69249
+                },
+                {
+                    "Reply": "Yeah, I saw 'im, bluey! But I'm not tellin' you where he went. And there's no way you're gonna make me!",
+                    "Didascalie": "",
+                    "Start": 70525,
+                    "End": 70629
                 }
             ]
         },

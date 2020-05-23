@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "2001: A Space Odyssey",
-        "   "
-    ],
+    "Title": "2001: A Space Odyssey",
     "Author": [
-        "\u00a0\u00a0Stanley Kubrick\u00a0\u00a0Arhur C. Clarke"
+        "Stanley Kubrick",
+        "Arhur C. Clarke"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
-        {
-            "Character": "A SECTION TIMING",
-            "Replies": [
-                {
-                    "Reply": "TITLE\t\t\t\t\tPART II  YEAR 2001  a26a  B1 EARTH FROM 200 MILES UP\t\t\t\t\t NARRATOR By the year 2001, overpopulation has B1a\t\t\t\t\t\t replaced the problem of starvation THOUSAND MEGATON\t\t\t   but this was ominously offset by the NUCLEAR BOMB IN ORBIT\t\t   absolute and utter perfection of the ABOVE THE EARTH,\t\t\t   weapon.",
-                    "Didascalie": "",
-                    "Start": 20444,
-                    "End": 20794
-                }
-            ]
-        },
         {
             "Character": "CCCP MARKINGS",
             "Replies": [
@@ -1093,17 +1081,6 @@
             ]
         },
         {
-            "Character": "GRAPHES IN RUSSIAN",
-            "Replies": [
-                {
-                    "Reply": "B21  ARIES-IB IN SPACE.",
-                    "Didascalie": "",
-                    "Start": 38126,
-                    "End": 38150
-                }
-            ]
-        },
-        {
             "Character": "NARRATOR",
             "Replies": [
                 {
@@ -1275,17 +1252,6 @@
                     "Didascalie": "",
                     "Start": 39280,
                     "End": 39305
-                }
-            ]
-        },
-        {
-            "Character": "COMPARTMENT",
-            "Replies": [
-                {
-                    "Reply": "B22 ARIES-IB COCKPIT.",
-                    "Didascalie": "",
-                    "Start": 39473,
-                    "End": 39495
                 }
             ]
         },
@@ -1755,6 +1721,17 @@
             ]
         },
         {
+            "Character": "AT TOP OF TMA-1",
+            "Replies": [
+                {
+                    "Reply": "EXCAVATION.",
+                    "Didascalie": "",
+                    "Start": 52355,
+                    "End": 52367
+                }
+            ]
+        },
+        {
             "Character": "COMPANY IN THE",
             "Replies": [
                 {
@@ -1801,17 +1778,6 @@
                     "Didascalie": "",
                     "Start": 56273,
                     "End": 56300
-                }
-            ]
-        },
-        {
-            "Character": "TO BLOCK HIS EARS WITH HIS",
-            "Replies": [
-                {
-                    "Reply": "SPACESUITED HANDS. THEN COMES MERCIFUL SILENCE.",
-                    "Didascalie": "",
-                    "Start": 56353,
-                    "End": 56401
                 }
             ]
         },
@@ -1944,17 +1910,6 @@
                     "Didascalie": "",
                     "Start": 60054,
                     "End": 60063
-                }
-            ]
-        },
-        {
-            "Character": "TO OPEN DOOR",
-            "Replies": [
-                {
-                    "Reply": "MARKED \"CENTRIFUGE\".",
-                    "Didascalie": "",
-                    "Start": 60291,
-                    "End": 60312
                 }
             ]
         },
@@ -2930,6 +2885,17 @@
             ]
         },
         {
+            "Character": "BOWMAN MAKES 180 DEGREE",
+            "Replies": [
+                {
+                    "Reply": "WALK TO POOLE.",
+                    "Didascalie": "",
+                    "Start": 61294,
+                    "End": 61309
+                }
+            ]
+        },
+        {
             "Character": "MEN IN THEIR",
             "Replies": [
                 {
@@ -3411,17 +3377,6 @@
             ]
         },
         {
-            "Character": "DISCOVERY IN SPACE",
-            "Replies": [
-                {
-                    "Reply": "c79  C74 CENTRIFUGE.",
-                    "Didascalie": "",
-                    "Start": 83440,
-                    "End": 83462
-                }
-            ]
-        },
-        {
             "Character": "CENTRIFUGE",
             "Replies": [
                 {
@@ -3429,23 +3384,6 @@
                     "Didascalie": "",
                     "Start": 78455,
                     "End": 78470
-                },
-                {
-                    "Reply": "C138 CENTRIFUGE, DARK.",
-                    "Didascalie": "",
-                    "Start": 98989,
-                    "End": 99012
-                }
-            ]
-        },
-        {
-            "Character": "PERSONAL COMMUNI-",
-            "Replies": [
-                {
-                    "Reply": "CATION PANEL. POOLE STANDING NEARBY.",
-                    "Didascalie": "",
-                    "Start": 71162,
-                    "End": 71199
                 }
             ]
         },
@@ -3722,17 +3660,6 @@
                     "Didascalie": "",
                     "Start": 75690,
                     "End": 75710
-                }
-            ]
-        },
-        {
-            "Character": "A SPECIAL DESIGN",
-            "Replies": [
-                {
-                    "Reply": "FACILITATE JOB.",
-                    "Didascalie": "",
-                    "Start": 75857,
-                    "End": 75873
                 }
             ]
         },
@@ -4640,17 +4567,6 @@
                     "Didascalie": "",
                     "Start": 100116,
                     "End": 100121
-                }
-            ]
-        },
-        {
-            "Character": "WEIGHTLESS CONDITION",
-            "Replies": [
-                {
-                    "Reply": "OF THE BRAIN ROOM.",
-                    "Didascalie": "",
-                    "Start": 100161,
-                    "End": 100180
                 }
             ]
         },

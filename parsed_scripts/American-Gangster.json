@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "American Gangster",
-        "   "
-    ],
+    "Title": "American Gangster",
     "Author": [
-        "\u00a0\u00a0Steven Zaillian\u00a0\u00a0Mark Jacobson"
+        "Steven Zaillian",
+        "Mark Jacobson"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3005,6 +3004,46 @@
             ]
         },
         {
+            "Character": "SERVICEMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Why, thank you, sugar, that's very kind.",
+                    "Didascalie": "",
+                    "Start": 23471,
+                    "End": 23512
+                },
+                {
+                    "Reply": "All the time. Nate is everywhere.",
+                    "Didascalie": "",
+                    "Start": 24158,
+                    "End": 24192
+                },
+                {
+                    "Reply": "Bangkok.",
+                    "Didascalie": "",
+                    "Start": 24405,
+                    "End": 24414
+                },
+                {
+                    "Reply": "I don't want to say anything cause the price is right - but the shit in Nam is way, way, way, way, way -",
+                    "Didascalie": "",
+                    "Start": 24863,
+                    "End": 25014
+                }
+            ]
+        },
+        {
+            "Character": "SERVICEMAN 2",
+            "Replies": [
+                {
+                    "Reply": "I don't think he's ever coming home.",
+                    "Didascalie": "",
+                    "Start": 24487,
+                    "End": 24524
+                }
+            ]
+        },
+        {
             "Character": "TOBACK",
             "Replies": [
                 {
@@ -4236,12 +4275,6 @@
                     "End": 237748
                 },
                 {
-                    "Reply": "KA 760 -",
-                    "Didascalie": "",
-                    "Start": 238735,
-                    "End": 238744
-                },
-                {
                     "Reply": "I got to talk to Teddy.",
                     "Didascalie": "",
                     "Start": 268425,
@@ -4396,6 +4429,17 @@
                     "Didascalie": "",
                     "Start": 131775,
                     "End": 131781
+                }
+            ]
+        },
+        {
+            "Character": "SIU DET 1",
+            "Replies": [
+                {
+                    "Reply": "The fuck are you. What money?",
+                    "Didascalie": "",
+                    "Start": 134055,
+                    "End": 134085
                 }
             ]
         },
@@ -4753,6 +4797,28 @@
                     "Didascalie": "",
                     "Start": 268510,
                     "End": 268536
+                }
+            ]
+        },
+        {
+            "Character": "GANGSTA 2",
+            "Replies": [
+                {
+                    "Reply": "What.",
+                    "Didascalie": "",
+                    "Start": 294296,
+                    "End": 294302
+                }
+            ]
+        },
+        {
+            "Character": "GANGSTA 1",
+            "Replies": [
+                {
+                    "Reply": "Nothing.",
+                    "Didascalie": "",
+                    "Start": 294463,
+                    "End": 294472
                 }
             ]
         }

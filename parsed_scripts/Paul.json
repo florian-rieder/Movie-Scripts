@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Paul",
-        "   "
-    ],
+    "Title": "Paul",
     "Author": [
-        "\u00a0\u00a0Simon Pegg\u00a0\u00a0Nick Frost"
+        "Simon Pegg",
+        "Nick Frost"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -6261,6 +6261,52 @@
             ]
         },
         {
+            "Character": "AGENT 1",
+            "Replies": [
+                {
+                    "Reply": "Where you boys from? Australia?",
+                    "Didascalie": "",
+                    "Start": 48631,
+                    "End": 48663
+                },
+                {
+                    "Reply": "Ah. G'day mate.",
+                    "Didascalie": "",
+                    "Start": 48758,
+                    "End": 48774
+                },
+                {
+                    "Reply": "Whatcha doin' in the US fellas?",
+                    "Didascalie": "",
+                    "Start": 48879,
+                    "End": 48911
+                },
+                {
+                    "Reply": "You're a long way from San Diego.",
+                    "Didascalie": "",
+                    "Start": 49015,
+                    "End": 49049
+                },
+                {
+                    "Reply": "Is that right?",
+                    "Didascalie": "",
+                    "Start": 49166,
+                    "End": 49181
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 2",
+            "Replies": [
+                {
+                    "Reply": "Hey Haggard?!",
+                    "Didascalie": "",
+                    "Start": 49217,
+                    "End": 49231
+                }
+            ]
+        },
+        {
             "Character": "HAGGARD",
             "Replies": [
                 {
@@ -7821,6 +7867,17 @@
             ]
         },
         {
+            "Character": "MAJOR NERD 1",
+            "Replies": [
+                {
+                    "Reply": "Uh... were you... did you?",
+                    "Didascalie": "",
+                    "Start": 201359,
+                    "End": 201386
+                }
+            ]
+        },
+        {
             "Character": "SECURITY MAN",
             "Replies": [
                 {
@@ -7834,6 +7891,17 @@
                     "Didascalie": "",
                     "Start": 201699,
                     "End": 201762
+                }
+            ]
+        },
+        {
+            "Character": "MAJOR NERD 2",
+            "Replies": [
+                {
+                    "Reply": "Uh... were you... did you?",
+                    "Didascalie": "",
+                    "Start": 201560,
+                    "End": 201587
                 }
             ]
         }

@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Anna Karenina",
-        "   "
-    ],
+    "Title": "Anna Karenina",
     "Author": [
-        "\u00a0\u00a0Tom Stoppard"
+        "Tom Stoppard"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -5041,17 +5038,6 @@
                     "Didascalie": "",
                     "Start": 91526,
                     "End": 91689
-                }
-            ]
-        },
-        {
-            "Character": "TO BED--",
-            "Replies": [
-                {
-                    "Reply": "Dolly sits apart, embroidering. She looks up at the sound of voices down-",
-                    "Didascalie": "",
-                    "Start": 60532,
-                    "End": 60606
                 }
             ]
         },

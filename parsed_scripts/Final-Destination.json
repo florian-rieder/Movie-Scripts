@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Final Destination",
-        "   "
-    ],
+    "Title": "Final Destination",
     "Author": [
-        "\u00a0\u00a0James Wong\u00a0\u00a0Glen Morgan"
+        "James Wong",
+        "Glen Morgan"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -404,6 +403,12 @@
                     "Didascalie": "",
                     "Start": 47782,
                     "End": 47875
+                },
+                {
+                    "Reply": "and now, the tears arrive. He begins crying, SOBBING, as his mother and father hold him. O.S., OUTSIDE... lighting FLASHES... THUNDER RUMBLES...",
+                    "Didascalie": "",
+                    "Start": 47949,
+                    "End": 48094
                 },
                 {
                     "Reply": "horrified, lurches away from the window, considering what he has seen. Just felt on the ROAR OF THUNDER...",
@@ -2952,6 +2957,17 @@
             ]
         },
         {
+            "Character": "GATE 39",
+            "Replies": [
+                {
+                    "Reply": "Billy Hitchcock walks backward from the window, shocked by shocked step. Ms. Lewton drops to her chair as her legs give out.",
+                    "Didascalie": "",
+                    "Start": 37595,
+                    "End": 37720
+                }
+            ]
+        },
+        {
             "Character": "SILENCE",
             "Replies": [
                 {
@@ -3297,17 +3313,6 @@
             ]
         },
         {
-            "Character": "A PIECE OF PAPER",
-            "Replies": [
-                {
-                    "Reply": "torn form the magazine flits across the room.",
-                    "Didascalie": "",
-                    "Start": 62858,
-                    "End": 62904
-                }
-            ]
-        },
-        {
             "Character": "BATHTUB",
             "Replies": [
                 {
@@ -3493,17 +3498,6 @@
             ]
         },
         {
-            "Character": "A COFFEE MUG",
-            "Replies": [
-                {
-                    "Reply": "ENTERS FRAME... displaying the logo of the Mt. Abraham Fighting Colonials.",
-                    "Didascalie": "",
-                    "Start": 108916,
-                    "End": 108991
-                }
-            ]
-        },
-        {
             "Character": "FLOOR",
             "Replies": [
                 {
@@ -3605,17 +3599,6 @@
             ]
         },
         {
-            "Character": "A HOME PREGNANCY TEST",
-            "Replies": [
-                {
-                    "Reply": "the results are positive, two pink dots, confirming.",
-                    "Didascalie": "",
-                    "Start": 143675,
-                    "End": 143728
-                }
-            ]
-        },
-        {
             "Character": "FISHING HOOK",
             "Replies": [
                 {
@@ -3667,17 +3650,6 @@
                     "Didascalie": "",
                     "Start": 153290,
                     "End": 153369
-                }
-            ]
-        },
-        {
-            "Character": "A POWER LINE",
-            "Replies": [
-                {
-                    "Reply": "coils, like a cobra, ready to STRIKE!",
-                    "Didascalie": "",
-                    "Start": 153856,
-                    "End": 153894
                 }
             ]
         },
@@ -3744,17 +3716,6 @@
                     "Didascalie": "",
                     "Start": 159066,
                     "End": 159119
-                }
-            ]
-        },
-        {
-            "Character": "A METAL CAN",
-            "Replies": [
-                {
-                    "Reply": "on a shelf, is rocked as, O.S., the CAR rattles the garage, trying to break free. The can is marked \"TURPENTINE: EXTREMELY FLAMMABLE.\" The can tumbles over the shelf.",
-                    "Didascalie": "",
-                    "Start": 159742,
-                    "End": 159909
                 }
             ]
         },

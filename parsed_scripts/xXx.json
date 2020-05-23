@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "xXx",
-        "   "
-    ],
+    "Title": "xXx",
     "Author": [
-        "\u00a0\u00a0Rich Wilkes"
+        "Rich Wilkes"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3999,6 +3998,17 @@
             ]
         },
         {
+            "Character": "IVAN 1",
+            "Replies": [
+                {
+                    "Reply": "It's sweet.",
+                    "Didascalie": "",
+                    "Start": 115570,
+                    "End": 115582
+                }
+            ]
+        },
+        {
             "Character": "CAPTAIN",
             "Replies": [
                 {
@@ -4017,6 +4027,35 @@
                     "Didascalie": "(in Russian)",
                     "Start": 201506,
                     "End": 201549
+                }
+            ]
+        },
+        {
+            "Character": "IVAN 2",
+            "Replies": [
+                {
+                    "Reply": "He is okay.",
+                    "Didascalie": "",
+                    "Start": 212041,
+                    "End": 212053
+                },
+                {
+                    "Reply": "We are always on time. Two have escaped, in truck.",
+                    "Didascalie": "",
+                    "Start": 212272,
+                    "End": 212349
+                },
+                {
+                    "Reply": "Yes. Your friend, the angry one, he send something for you.",
+                    "Didascalie": "",
+                    "Start": 212656,
+                    "End": 212742
+                },
+                {
+                    "Reply": "We'll be right behind you.",
+                    "Didascalie": "",
+                    "Start": 212973,
+                    "End": 213000
                 }
             ]
         }

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Verdict, The",
-        "   "
-    ],
+    "Title": "Verdict, The",
     "Author": [
-        "\u00a0\u00a0Barry Reed\u00a0\u00a0David Mamet"
+        "Barry Reed",
+        "David Mamet"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3611,17 +3609,6 @@
                     "Didascalie": "",
                     "Start": 98403,
                     "End": 98443
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "by St. Catherine Laboure Hospital do hereby release from any and all claims...\"",
-                    "Didascalie": "",
-                    "Start": 52242,
-                    "End": 52338
                 }
             ]
         },

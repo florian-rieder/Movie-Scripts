@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Alien 3",
-        "   "
-    ],
+    "Title": "Alien 3",
     "Author": [
-        "\u00a0\u00a0Rex Pickett"
+        "Rex Pickett"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -33,17 +34,6 @@
             ]
         },
         {
-            "Character": "A RIVER OF MOLTEN GLASS",
-            "Replies": [
-                {
-                    "Reply": "Heated by the furnace to over 1,300 degrees fahrenheit. White Hot.",
-                    "Didascalie": "",
-                    "Start": 486,
-                    "End": 554
-                }
-            ]
-        },
-        {
             "Character": "GLASS FACTORY",
             "Replies": [
                 {
@@ -62,17 +52,6 @@
                     "Didascalie": "",
                     "Start": 771,
                     "End": 793
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "On a narrow LEDGE, twenty feet about the Glassworks' floor. His clothing is Medieval.  A rough textured cassock. He is a MONK.",
-                    "Didascalie": "",
-                    "Start": 906,
-                    "End": 1035
                 }
             ]
         },
@@ -2332,17 +2311,6 @@
             ]
         },
         {
-            "Character": "A VIDEO MONITOR",
-            "Replies": [
-                {
-                    "Reply": "Through scanning bars of snow, an image: A WOMAN with a YOUNG GIRL standing in front of her.",
-                    "Didascalie": "",
-                    "Start": 15585,
-                    "End": 15678
-                }
-            ]
-        },
-        {
             "Character": "WOMAN",
             "Replies": [
                 {
@@ -2350,17 +2318,6 @@
                     "Didascalie": "",
                     "Start": 15859,
                     "End": 15944
-                }
-            ]
-        },
-        {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "The woman from the screen.  This is RIPLEY.",
-                    "Didascalie": "",
-                    "Start": 16920,
-                    "End": 16964
                 }
             ]
         },
@@ -4062,28 +4019,6 @@
             ]
         },
         {
-            "Character": "A TERRIBLE ALIEN CHEST-BURSTER",
-            "Replies": [
-                {
-                    "Reply": "BURSTS out of the jerking and twitching carcass.",
-                    "Didascalie": "",
-                    "Start": 32360,
-                    "End": 32409
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "A large circular room with wooden walls stretching thirty feet high.  Light creeps in through stained glass windows.",
-                    "Didascalie": "",
-                    "Start": 34972,
-                    "End": 35089
-                }
-            ]
-        },
-        {
             "Character": "BALD TRIBUNAL MONK",
             "Replies": [
                 {
@@ -4791,28 +4726,6 @@
             ]
         },
         {
-            "Character": "A NARROW CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "Ceiling so low their torches must be held out in front of them.",
-                    "Didascalie": "",
-                    "Start": 82037,
-                    "End": 82101
-                }
-            ]
-        },
-        {
-            "Character": "A SERPENTINE CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "Liquid drips through the ceiling planks over head.",
-                    "Didascalie": "",
-                    "Start": 82311,
-                    "End": 82362
-                }
-            ]
-        },
-        {
             "Character": "WINDMILLS",
             "Replies": [
                 {
@@ -4820,39 +4733,6 @@
                     "Didascalie": "",
                     "Start": 93973,
                     "End": 94153
-                }
-            ]
-        },
-        {
-            "Character": "A HORRIBLE ALIEN HEAD BURSTER",
-            "Replies": [
-                {
-                    "Reply": "Is all that sits atop the blood spurting neck of the Abbot.",
-                    "Didascalie": "",
-                    "Start": 100951,
-                    "End": 101011
-                }
-            ]
-        },
-        {
-            "Character": "A HUGE WATERFALL",
-            "Replies": [
-                {
-                    "Reply": "Lit from within by daylight beaming down from above -- pours into the sea a short distance from them.",
-                    "Didascalie": "",
-                    "Start": 106054,
-                    "End": 106156
-                }
-            ]
-        },
-        {
-            "Character": "A SHAPE",
-            "Replies": [
-                {
-                    "Reply": "Passes underneath the boat.  A swimming CREATURE.  The Alien.",
-                    "Didascalie": "",
-                    "Start": 110153,
-                    "End": 110215
                 }
             ]
         },

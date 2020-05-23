@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Feast",
-        "   "
-    ],
+    "Title": "Feast",
     "Author": [
-        "\u00a0\u00a0Patrick Melton\u00a0\u00a0Marcus Dunston"
+        "Patrick Melton",
+        "Marcus Dunston"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Comedy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

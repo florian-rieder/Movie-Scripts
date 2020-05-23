@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Mean Streets",
-        "   "
-    ],
+    "Title": "Mean Streets",
     "Author": [
-        "\u00a0\u00a0Martin Scorsese\u00a0\u00a0Mardik Martin\u00a0\u00a0Ethan Edwards"
+        "Martin Scorsese",
+        "Mardik Martin",
+        "Ethan Edwards"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4392,17 +4392,6 @@
                     "Didascalie": "",
                     "Start": 152071,
                     "End": 152107
-                }
-            ]
-        },
-        {
-            "Character": "A LONG-HAIRED ROCK GROUP",
-            "Replies": [
-                {
-                    "Reply": "The lead guitarist holds his guitar out like a machine gun and strums frantically on it swinging it back and forth at the audience and then at the rest of the group. As he does so, the rest of the group falls \"dead\" over their instruments.",
-                    "Didascalie": "",
-                    "Start": 154072,
-                    "End": 154342
                 }
             ]
         },

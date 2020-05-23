@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Ni vu ni connu",
-        "   "
-    ],
+    "Title": "Ni vu ni connu",
     "Author": [
-        "\u00a0\u00a0Alphonse Allais\u00a0\u00a0Jacques Celhay\u00a0\u00a0Jean Marsan\u00a0\u00a0Yves Robert"
+        "Alphonse Allais",
+        "Jacques Celhay",
+        "Jean Marsan",
+        "Yves Robert"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {

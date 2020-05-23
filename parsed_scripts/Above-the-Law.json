@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Above the Law",
-        "   "
-    ],
+    "Title": "Above the Law",
     "Author": [
-        "\u00a0\u00a0Steven Pressfield\u00a0\u00a0Ronald Shusett\u00a0\u00a0Andrew Davis\u00a0\u00a0Steven Seagal"
+        "Steven Pressfield",
+        "Ronald Shusett",
+        "Andrew Davis",
+        "Steven Seagal"
     ],
     "Genre": [
-        "\u00a0\u00a0Action"
+        "Action"
     ],
     "Characters": [
         {
@@ -3825,17 +3825,6 @@
                     "Didascalie": "",
                     "Start": 189758,
                     "End": 189851
-                }
-            ]
-        },
-        {
-            "Character": "EVENING GOWN WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Jack --",
-                    "Didascalie": "(grabs her husband's arm)",
-                    "Start": 205776,
-                    "End": 205801
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Being There",
-        "   "
-    ],
+    "Title": "Being There",
     "Author": [
-        "\u00a0\u00a0Jerry Kosinski\u00a0\u00a0Robert C. Jones"
+        "Jerry Kosinski",
+        "Robert C. Jones"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

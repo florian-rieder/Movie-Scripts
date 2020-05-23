@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Lord of the Rings: Return of the King",
-        "   "
-    ],
+    "Title": "Lord of the Rings: Return of the King",
     "Author": [
-        "\u00a0\u00a0Peter Jackson\u00a0\u00a0Fran Walsh\u00a0\u00a0Philippa Boyens"
+        "Peter Jackson",
+        "Fran Walsh",
+        "Philippa Boyens"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -1592,12 +1593,6 @@
                     "End": 21316
                 },
                 {
-                    "Reply": "Final Revision - October, 2003 16, CONTINUED:   PIPPIN gasps with FRIGHT! MERRY is sitting up, wiping sleep from his eyes. He moves on . . .",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 21382,
-                    "End": 21565
-                },
-                {
                     "Reply": "Pippin? Pippin? Pippin! What are you doing?",
                     "Didascalie": "",
                     "Start": 21748,
@@ -2697,12 +2692,6 @@
                     "End": 11482
                 },
                 {
-                    "Reply": "Final Revision - October, 2003 9, CONTINUED:   EOWYN watches as ARAGORN moves away . . . a voice speaks in her ear.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 11550,
-                    "End": 11711
-                },
-                {
                     "Reply": "You are both honourable men.",
                     "Didascalie": "(smiling)",
                     "Start": 11970,
@@ -2958,12 +2947,6 @@
                     "Didascalie": "",
                     "Start": 106309,
                     "End": 106316
-                },
-                {
-                    "Reply": "Final Revision - October, 2003 74 CONTINUED:   The three HORSES DISAPPEAR ... ARAGORN turns resolutely towards the DOORWAY . . .",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 106382,
-                    "End": 106550
                 },
                 {
                     "Reply": "I do not fear death ...",
@@ -3823,12 +3806,6 @@
                     "End": 69050
                 },
                 {
-                    "Reply": "Final Revision - October, 2003 48, CONTINUED:   The GREAT GATES OPEN, allowing GANDALF, PIPPIN, FARAMIR and the OSGILIATH SURVIVORS to RIDE IN . . . Nearly 100 WOUNDED AND SHOCKED MEN.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 69115,
-                    "End": 69343
-                },
-                {
                     "Reply": "It is as the Lord Denethor predicted - long has he foreseen this doom!",
                     "Didascalie": "",
                     "Start": 69771,
@@ -3868,6 +3845,34 @@
                     "Didascalie": "",
                     "Start": 164083,
                     "End": 164113
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Where are Theoden's riders?",
+                    "Didascalie": "(worried)",
+                    "Start": 74925,
+                    "End": 74967
+                },
+                {
+                    "Reply": "Mithrandir?",
+                    "Didascalie": "",
+                    "Start": 75086,
+                    "End": 75098
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "Will Rohan's army come?",
+                    "Didascalie": "",
+                    "Start": 75015,
+                    "End": 75039
                 }
             ]
         },
@@ -4056,6 +4061,17 @@
                     "Didascalie": "(yelling)",
                     "Start": 170633,
                     "End": 170685
+                }
+            ]
+        },
+        {
+            "Character": "ORC 2",
+            "Replies": [
+                {
+                    "Reply": "This fellow will be awake in a few hours.",
+                    "Didascalie": "",
+                    "Start": 144830,
+                    "End": 144872
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Day of the Dead",
-        "   "
-    ],
+    "Title": "Day of the Dead",
     "Author": [
-        "\u00a0\u00a0George A. Romero"
+        "George A. Romero"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2674,12 +2674,6 @@
                     "Didascalie": "",
                     "Start": 97782,
                     "End": 97823
-                },
-                {
-                    "Reply": "SIDDOWN, YOUNG LADY! I DONE YUP A SHIT-LOAD O' FAVOURS AND I AIN'T NEVER YET ASKED FER NOTHIN' IN RETURN! NOW HOW'D YOU LIKE TA SPEND TWO WEEKS UP T'THE VEGETABLE FARM YERSELF? THAT'S WHAT IT'LL BE IF YA DON'T SIDDOWN AN' SHUT THE HELL UP!",
-                    "Didascalie": "",
-                    "Start": 97882,
-                    "End": 98127
                 },
                 {
                     "Reply": "Now I think Captain's punishment is fair, considerin'. In fact I think you ain't got shit ta complain about.",

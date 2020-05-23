@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "In the Bedroom",
-        "   "
-    ],
+    "Title": "In the Bedroom",
     "Author": [
-        "\u00a0\u00a0Robert Festinger\u00a0\u00a0Todd Field"
+        "Robert Festinger",
+        "Todd Field"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3399,17 +3398,6 @@
             ]
         },
         {
-            "Character": "TO RICHARD",
-            "Replies": [
-                {
-                    "Reply": "who has just arrived. He stays at the far end of the yard.",
-                    "Didascalie": "",
-                    "Start": 22200,
-                    "End": 22259
-                }
-            ]
-        },
-        {
             "Character": "C DUN",
             "Replies": [
                 {
@@ -4000,17 +3988,6 @@
             ]
         },
         {
-            "Character": "A MOMENTA",
-            "Replies": [
-                {
-                    "Reply": "Frank lugs up the last container and takes a seat on the stack. He's worn out - takes a breather.",
-                    "Didascalie": "",
-                    "Start": 63018,
-                    "End": 63126
-                }
-            ]
-        },
-        {
             "Character": "WONDERFUL GIRL",
             "Replies": [
                 {
@@ -4057,17 +4034,6 @@
                     "Didascalie": "",
                     "Start": 85282,
                     "End": 85297
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL CLUSTER OF PEOPLE",
-            "Replies": [
-                {
-                    "Reply": "standing in the middle of a much larger gathering, the reception after the funeral.",
-                    "Didascalie": "",
-                    "Start": 77690,
-                    "End": 77784
                 }
             ]
         },
@@ -4659,17 +4625,6 @@
                     "Didascalie": "",
                     "Start": 191771,
                     "End": 191801
-                }
-            ]
-        },
-        {
-            "Character": "A DEER",
-            "Replies": [
-                {
-                    "Reply": "not 30 yards distant watchin them A Buck with a splendid rack, a deep chestsnowy white, a l of him in his prime His flag up d twitching. His eyes u Quin Then he bounds off and is gone.",
-                    "Didascalie": "",
-                    "Start": 194640,
-                    "End": 194855
                 }
             ]
         },

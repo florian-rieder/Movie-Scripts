@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "French Connection, The",
-        "   "
-    ],
+    "Title": "French Connection, The",
     "Author": [
-        "\u00a0\u00a0Ernest Tidyman"
+        "Ernest Tidyman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2253,6 +2252,17 @@
                     "Didascalie": "",
                     "Start": 41144,
                     "End": 41172
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "How long will you be here?",
+                    "Didascalie": "",
+                    "Start": 45516,
+                    "End": 45543
                 }
             ]
         },

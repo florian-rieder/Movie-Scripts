@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Night Time (The Poltergeist Treatment)",
-        "   "
-    ],
+    "Title": "Night Time (The Poltergeist Treatment)",
     "Author": [
-        "\u00a0\u00a0Steven Spielberg"
+        "Steven Spielberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror"
+        "Horror"
     ],
-    "Characters": []
+    "Characters": "This script couldn't be parsed. Please check the original file's formatting, or add a special case in ScriptParser's _special_characters() method."
 }

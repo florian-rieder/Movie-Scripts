@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "White Squall",
-        "   "
-    ],
+    "Title": "White Squall",
     "Author": [
-        "\u00a0\u00a0Charles Gieg Jr\u00a0\u00a0Felix Sutton\u00a0\u00a0Todd Robinson"
+        "Charles Gieg Jr",
+        "Felix Sutton",
+        "Todd Robinson"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {
@@ -6608,17 +6608,6 @@
             ]
         },
         {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Survivors hanging onto the debris that floats in the watery tempest.  Strangely, the wind subsides.  The sea becomes calm and a stunned silence falls over those in the water.",
-                    "Didascalie": "",
-                    "Start": 169612,
-                    "End": 169787
-                }
-            ]
-        },
-        {
             "Character": "MAN",
             "Replies": [
                 {
@@ -6660,17 +6649,6 @@
                     "Didascalie": "",
                     "Start": 178486,
                     "End": 178597
-                }
-            ]
-        },
-        {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Stands, staring at the empty ramp.  Lost.  A man comes up behind her and leads her away.",
-                    "Didascalie": "",
-                    "Start": 179400,
-                    "End": 179489
                 }
             ]
         },

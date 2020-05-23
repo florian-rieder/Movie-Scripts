@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Queen, The",
-        "   "
-    ],
+    "Title": "Queen, The",
     "Author": [
-        "\u00a0\u00a0Peter Morgan"
+        "Peter Morgan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2962,17 +2959,6 @@
             ]
         },
         {
-            "Character": "ARCHIVE TELEVISION NEWS FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "Of PRINCESS DIANA walking hand in hand with a dark-haired MAN in his late thirties..",
-                    "Didascalie": "",
-                    "Start": 22085,
-                    "End": 22180
-                }
-            ]
-        },
-        {
             "Character": "CNN NEWSREADER",
             "Replies": [
                 {
@@ -2984,17 +2970,6 @@
             ]
         },
         {
-            "Character": "TELEVISION NEWS FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "PRESIDENT BILL CLINTON, fighting emotion, speaking from the White House lawn..",
-                    "Didascalie": "",
-                    "Start": 64903,
-                    "End": 64992
-                }
-            ]
-        },
-        {
             "Character": "GERMAN NEWSREADER",
             "Replies": [
                 {
@@ -3002,17 +2977,6 @@
                     "Didascalie": "",
                     "Start": 22675,
                     "End": 22810
-                }
-            ]
-        },
-        {
-            "Character": "ELEVISION NEWS FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "DIANA and DODI on the yacht on their last holiday together..",
-                    "Didascalie": "",
-                    "Start": 22887,
-                    "End": 22948
                 }
             ]
         },
@@ -4513,6 +4477,17 @@
                     "Didascalie": "",
                     "Start": 122125,
                     "End": 122210
+                }
+            ]
+        },
+        {
+            "Character": "IDE 2",
+            "Replies": [
+                {
+                    "Reply": "Just look at the papers. Talk to people on the streets.",
+                    "Didascalie": "",
+                    "Start": 124454,
+                    "End": 124529
                 }
             ]
         },

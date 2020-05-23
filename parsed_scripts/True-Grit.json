@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "True Grit",
-        "   "
-    ],
+    "Title": "True Grit",
     "Author": [
-        "\u00a0\u00a0Joel Cohen\u00a0\u00a0Ethan Coen\u00a0\u00a0Charles Portis"
+        "Joel Cohen",
+        "Ethan Coen",
+        "Charles Portis"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Western"
+        "Adventure",
+        "Drama",
+        "Western"
     ],
     "Characters": [
         {
@@ -107,17 +108,6 @@
                     "Didascalie": "",
                     "Start": 43054,
                     "End": 43156
-                }
-            ]
-        },
-        {
-            "Character": "EVENING--BOARDING HOUSE PORCH",
-            "Replies": [
-                {
-                    "Reply": "Mattie climbs the few steps from the street. Her attention is drawn by:  A man sitting on a chair to one side enjoying the quiet of the evening. He is dressed for riding, with perhaps a bit too much panache. It is almost dark and he is hard to see but it seems he is watching Mattie, amused.",
-                    "Didascalie": "",
-                    "Start": 47396,
-                    "End": 47712
                 }
             ]
         },
@@ -352,17 +342,6 @@
                     "Didascalie": "",
                     "Start": 224516,
                     "End": 224620
-                }
-            ]
-        },
-        {
-            "Character": "A BOXCAR",
-            "Replies": [
-                {
-                    "Reply": "Elsewhere; later.",
-                    "Didascalie": "",
-                    "Start": 229671,
-                    "End": 229689
                 }
             ]
         },

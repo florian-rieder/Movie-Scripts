@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Christ Complex",
-        "   "
-    ],
+    "Title": "Christ Complex",
     "Author": [
-        "\u00a0\u00a0Jeffrey Scott Richards"
+        "Jeffrey Scott Richards"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -3545,13 +3543,24 @@
             ]
         },
         {
-            "Character": "FLASHBACK",
+            "Character": "ZOEY 10 YEARS OLD",
             "Replies": [
                 {
-                    "Reply": "ZOEY 10 YEARS OLD  A young BOY is sitting on another little boy's head. It looks like he is passing gas on him.",
+                    "Reply": "A young BOY is sitting on another little boy's head. It looks like he is passing gas on him.",
                     "Didascalie": "",
-                    "Start": 10581,
+                    "Start": 10600,
                     "End": 10693
+                }
+            ]
+        },
+        {
+            "Character": "ZOEY 13 YEARS OLD",
+            "Replies": [
+                {
+                    "Reply": "ZACK, a young teenager is selling drugs on the street corner. His bags of coke should be exaggerated, as well as the customers coming up to buy from him. Think if South Park was crossed with HBO's The Wire.",
+                    "Didascalie": "",
+                    "Start": 11067,
+                    "End": 11274
                 }
             ]
         },
@@ -4354,23 +4363,6 @@
                     "Didascalie": "",
                     "Start": 89988,
                     "End": 90120
-                }
-            ]
-        },
-        {
-            "Character": "END CHOIR MUSIC",
-            "Replies": [
-                {
-                    "Reply": "CLOSE SHOT- ZOEY'S FACE  Ryan slaps Zoey in the face to wake her up.",
-                    "Didascalie": "",
-                    "Start": 87332,
-                    "End": 87401
-                },
-                {
-                    "Reply": "Quinn looks over and sees Zoey.",
-                    "Didascalie": "",
-                    "Start": 90201,
-                    "End": 90233
                 }
             ]
         },

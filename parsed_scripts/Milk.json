@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Milk",
-        "   "
-    ],
+    "Title": "Milk",
     "Author": [
-        "\u00a0\u00a0Dustin Lance Black"
+        "Dustin Lance Black"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4553,6 +4550,17 @@
                     "Didascalie": "",
                     "Start": 148757,
                     "End": 148821
+                }
+            ]
+        },
+        {
+            "Character": "CHANNEL 5 REPORTER",
+            "Replies": [
+                {
+                    "Reply": "Does this mean, as many straights are concerned, maybe the gays are taking over San Francisco? Are you going to be a Supervisor for all the people?",
+                    "Didascalie": "",
+                    "Start": 82595,
+                    "End": 82783
                 }
             ]
         },

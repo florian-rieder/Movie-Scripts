@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Get on Up",
-        "   "
-    ],
+    "Title": "Get on Up",
     "Author": [
-        "\u00a0\u00a0Steven Baigelman\u00a0\u00a0Jez Butterworth\u00a0\u00a0John-Henry Butterworth"
+        "Steven Baigelman",
+        "Jez Butterworth",
+        "John-Henry Butterworth"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3050,6 +3049,40 @@
                     "Didascalie": "(To Cameraman)",
                     "Start": 25131,
                     "End": 25166
+                }
+            ]
+        },
+        {
+            "Character": "BLACK INFANTRYMAN 1",
+            "Replies": [
+                {
+                    "Reply": "80 percent of 9th Division is brothers. We been here 2 years.",
+                    "Didascalie": "",
+                    "Start": 24405,
+                    "End": 24482
+                },
+                {
+                    "Reply": "Country and fuckin' Western. But James is ours, man. He's comin'.",
+                    "Didascalie": "",
+                    "Start": 24697,
+                    "End": 24778
+                }
+            ]
+        },
+        {
+            "Character": "BLACK INFANTRYMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Country music.",
+                    "Didascalie": "",
+                    "Start": 24621,
+                    "End": 24636
+                },
+                {
+                    "Reply": "Welcome to the shit, nigger!",
+                    "Didascalie": "",
+                    "Start": 24949,
+                    "End": 24978
                 }
             ]
         },

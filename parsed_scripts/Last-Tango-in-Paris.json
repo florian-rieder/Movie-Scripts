@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Last Tango in Paris",
-        "   "
-    ],
+    "Title": "Last Tango in Paris",
     "Author": [
-        "\u00a0\u00a0Bernardo Bertolucci\u00a0\u00a0Franco Arcalli"
+        "Bernardo Bertolucci",
+        "Franco Arcalli"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4653,6 +4652,29 @@
             ]
         },
         {
+            "Character": "MOVER 2",
+            "Replies": [
+                {
+                    "Reply": "Careful, madame.",
+                    "Didascalie": "",
+                    "Start": 25392,
+                    "End": 25409
+                },
+                {
+                    "Reply": "This is a king-size.",
+                    "Didascalie": "",
+                    "Start": 26062,
+                    "End": 26083
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 26768,
+                    "End": 26779
+                }
+            ]
+        },
+        {
             "Character": "GUEST",
             "Replies": [
                 {
@@ -4712,6 +4734,40 @@
                     "Didascalie": "",
                     "Start": 58898,
                     "End": 58972
+                }
+            ]
+        },
+        {
+            "Character": "KID 1",
+            "Replies": [
+                {
+                    "Reply": "Having a shit.",
+                    "Didascalie": "",
+                    "Start": 58179,
+                    "End": 58194
+                },
+                {
+                    "Reply": "Watch out!",
+                    "Didascalie": "",
+                    "Start": 58611,
+                    "End": 58622
+                }
+            ]
+        },
+        {
+            "Character": "KID 2",
+            "Replies": [
+                {
+                    "Reply": "No, we're doing a poo.",
+                    "Didascalie": "",
+                    "Start": 58345,
+                    "End": 58368
+                },
+                {
+                    "Reply": "Run for it!",
+                    "Didascalie": "",
+                    "Start": 58691,
+                    "End": 58703
                 }
             ]
         },
@@ -4894,6 +4950,28 @@
                     "Didascalie": "",
                     "Start": 115553,
                     "End": 115586
+                }
+            ]
+        },
+        {
+            "Character": "CREW 1",
+            "Replies": [
+                {
+                    "Reply": "You're crazy!",
+                    "Didascalie": "",
+                    "Start": 128914,
+                    "End": 128928
+                }
+            ]
+        },
+        {
+            "Character": "DRESSER 1",
+            "Replies": [
+                {
+                    "Reply": "She must have run off.",
+                    "Didascalie": "",
+                    "Start": 129483,
+                    "End": 129506
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Hollow Man",
-        "   "
-    ],
+    "Title": "Hollow Man",
     "Author": [
-        "\u00a0\u00a0Gary Scott Thompson\u00a0\u00a0Andrew W. Marlowe"
+        "Gary Scott Thompson",
+        "Andrew W. Marlowe"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5234,17 +5234,6 @@
                     "Didascalie": "",
                     "Start": 25325,
                     "End": 25455
-                }
-            ]
-        },
-        {
-            "Character": "A HABITAT",
-            "Replies": [
-                {
-                    "Reply": "The heartbeat continues. In the shadows, two Rhesus Monkeys defend themselves against an unseen attacker. Blood splatters against the Plexiglas wall.",
-                    "Didascalie": "",
-                    "Start": 61243,
-                    "End": 61397
                 }
             ]
         }

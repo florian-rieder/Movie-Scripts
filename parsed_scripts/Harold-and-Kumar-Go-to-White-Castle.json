@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Harold and Kumar Go to White Castle",
-        "   "
-    ],
+    "Title": "Harold and Kumar Go to White Castle",
     "Author": [
-        "\u00a0\u00a0Jon Hurwitz\u00a0\u00a0Hayden Schlossberg"
+        "Jon Hurwitz",
+        "Hayden Schlossberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -244,12 +243,6 @@
                     "Didascalie": "",
                     "Start": 23778,
                     "End": 23871
-                },
-                {
-                    "Reply": "GET THE HELL OUT OF MY ROOM!",
-                    "Didascalie": "",
-                    "Start": 24099,
-                    "End": 24128
                 },
                 {
                     "Reply": "Other than my roommate's boney ass?",

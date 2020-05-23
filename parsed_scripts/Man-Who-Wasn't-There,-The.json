@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Man Who Wasn't There, The",
-        "   "
-    ],
+    "Title": "Man Who Wasn't There, The",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Crime"
+        "Comedy",
+        "Drama",
+        "Crime"
     ],
     "Characters": [
         {
@@ -3479,17 +3479,6 @@
             ]
         },
         {
-            "Character": "A DOOR",
-            "Replies": [
-                {
-                    "Reply": "We hear a voice, muffled through the door, breaking into laughter.",
-                    "Didascalie": "",
-                    "Start": 26482,
-                    "End": 26565
-                }
-            ]
-        },
-        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -4049,6 +4038,40 @@
                     "Didascalie": "",
                     "Start": 148565,
                     "End": 148585
+                }
+            ]
+        },
+        {
+            "Character": "MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Ed Crane?",
+                    "Didascalie": "",
+                    "Start": 73627,
+                    "End": 73637
+                },
+                {
+                    "Reply": "Come on outside.",
+                    "Didascalie": "",
+                    "Start": 73779,
+                    "End": 73796
+                },
+                {
+                    "Reply": "I'm Officer Persky. This is Krebs.",
+                    "Didascalie": "",
+                    "Start": 74288,
+                    "End": 74323
+                }
+            ]
+        },
+        {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "...So you're a barber, huh?",
+                    "Didascalie": "",
+                    "Start": 74111,
+                    "End": 74139
                 }
             ]
         },
@@ -4890,17 +4913,6 @@
             ]
         },
         {
-            "Character": "A SIGN",
-            "Replies": [
-                {
-                    "Reply": "8:00 P.M.",
-                    "Didascalie": "",
-                    "Start": 132127,
-                    "End": 132137
-                }
-            ]
-        },
-        {
             "Character": "SCHOOL GYMNASIUM",
             "Replies": [
                 {
@@ -4981,6 +4993,46 @@
                     "Didascalie": "",
                     "Start": 145959,
                     "End": 145982
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 1",
+            "Replies": [
+                {
+                    "Reply": "So two blocks later I look at the change she gave me and, golly, I'm two bits short.",
+                    "Didascalie": "",
+                    "Start": 146934,
+                    "End": 147071
+                },
+                {
+                    "Reply": "So I walk back over to Linton's, find this gal--big argument; she doesn't even recall the transaction.",
+                    "Didascalie": "",
+                    "Start": 147229,
+                    "End": 147384
+                },
+                {
+                    "Reply": "Doesn't recall the transaction, no recollection, so I said, Look, dear...",
+                    "Didascalie": "",
+                    "Start": 147543,
+                    "End": 147643
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 2",
+            "Replies": [
+                {
+                    "Reply": "Two bits short.",
+                    "Didascalie": "",
+                    "Start": 147142,
+                    "End": 147158
+                },
+                {
+                    "Reply": "No recollection.",
+                    "Didascalie": "",
+                    "Start": 147455,
+                    "End": 147472
                 }
             ]
         },

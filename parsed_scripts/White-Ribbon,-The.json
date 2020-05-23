@@ -1,15 +1,4064 @@
 {
-    "Title": [
-        "White Ribbon, The",
-        "   "
-    ],
+    "Title": "White Ribbon, The",
     "Author": [
-        "\u00a0\u00a0Michael Haneke"
+        "Michael Haneke"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
+        {
+            "Character": "HEAR A GENTLE VOICE",
+            "Replies": [
+                {
+                    "Reply": "want to tell you, reflects the truth in every detail. Much of it I only know by hearsay, and a lot of it remains obscure to me even today, and I must leave it in darkness. Many of these questions remain without answer. But I believe I must tell of the strange events that occurred in our village, because they may cast a new light on some of the goings-on in this country...",
+                    "Didascalie": "",
+                    "Start": 697,
+                    "End": 1121
+                }
+            ]
+        },
+        {
+            "Character": "NARRATOR",
+            "Replies": [
+                {
+                    "Reply": "...to see if any of his patients had arrived. As it entered the property, the horse had tripped over a hardly visible, taut wire that had been strung between two trees.",
+                    "Didascalie": "",
+                    "Start": 2608,
+                    "End": 2798
+                },
+                {
+                    "Reply": "...The neighbor, a single woman of around 40, was the village midwife, who had filled the invaluable position of housekeeper and receptionist for the doctor since the death of his wife in childbirth.",
+                    "Didascalie": "",
+                    "Start": 3389,
+                    "End": 3617
+                },
+                {
+                    "Reply": "The woman, who because of an injured arm could only do light work, had been dispensed  11  by the steward from harvesting chores, and was assigned to easier work in the sawmill.",
+                    "Didascalie": "",
+                    "Start": 20231,
+                    "End": 20495
+                },
+                {
+                    "Reply": "It was on my way home after the strange encounter with Martin that I met Eva for the first time.",
+                    "Didascalie": "",
+                    "Start": 26516,
+                    "End": 26629
+                },
+                {
+                    "Reply": "After these two days in July, life in the village returned to what it had always been...",
+                    "Didascalie": "",
+                    "Start": 40937,
+                    "End": 41042
+                },
+                {
+                    "Reply": "... The daily harvesting drove the people almost to exhaustion. Most of the children were busy helping their parents.",
+                    "Didascalie": "",
+                    "Start": 41225,
+                    "End": 41359
+                },
+                {
+                    "Reply": "... until the harvest festival at the end of the summer brought the whole village  23  together again, first in a festive hustle and bustle, and then in horror and perplexity.",
+                    "Didascalie": "",
+                    "Start": 41977,
+                    "End": 42237
+                },
+                {
+                    "Reply": "The steward's children said, they had seen Sigi only for a short time, that he had gone off with other kids, and that they didn't pay much attention to it...",
+                    "Didascalie": "",
+                    "Start": 63340,
+                    "End": 63522
+                },
+                {
+                    "Reply": "...The search began shortly after midnight. Before, the Baron had ridden to the Rectory. But there he found out nothing new from the children who had been specially woken up.",
+                    "Didascalie": "",
+                    "Start": 63808,
+                    "End": 64007
+                },
+                {
+                    "Reply": "The landowner's speech frightened the people. Most knew about the incident at the Thanksgiving feast. But the majority didn't know exactly what had happened, and in the end they didn't care. The Baron was not really popular among the people, but he was respected as a powerful social figure, as well as the employer of nearly the whole village.",
+                    "Didascalie": "",
+                    "Start": 68189,
+                    "End": 68590
+                },
+                {
+                    "Reply": "...His threat about loosing the peace of the community couldn't mean anything good.",
+                    "Didascalie": "",
+                    "Start": 68871,
+                    "End": 68964
+                },
+                {
+                    "Reply": "The next day, after school, I went to the estate to inquire about Sigi's health and to intercede for Eva's reinstatement. We were told the Baroness had left that morning with her children. Reluctantly, the steward lent me a carriage to take Eva home.",
+                    "Didascalie": "",
+                    "Start": 75992,
+                    "End": 76283
+                },
+                {
+                    "Reply": "...The villagers took that as a sign of his anger. Indeed, no evidence had been found as to the possible author of the crime, although the Baron's appeal had led to a flood of mutual suspicions,   even    to   some    attempts   of denunciation that had all turned out to be untenable.",
+                    "Didascalie": "",
+                    "Start": 88032,
+                    "End": 88366
+                },
+                {
+                    "Reply": "In mid-December, I finally got a letter from Eva. Her father had found her a new job in the district capital, which she would start at the beginning of the New Year.",
+                    "Didascalie": "",
+                    "Start": 91427,
+                    "End": 91620
+                },
+                {
+                    "Reply": "The year was coming to an end with fine weather. The sun made the snowy landscape sparkle so brightly that it hurt the eyes.",
+                    "Didascalie": "",
+                    "Start": 111106,
+                    "End": 111247
+                },
+                {
+                    "Reply": "...Despite of the strange events, that had unsettled the village, we thought of ourselves as united in the belief that the life in our community was God's will and worth living.",
+                    "Didascalie": "",
+                    "Start": 111761,
+                    "End": 111971
+                },
+                {
+                    "Reply": "Shortly after Easter, in the last week of April, the Baroness came back with the children. She was accompanied by a new nurse.",
+                    "Didascalie": "",
+                    "Start": 113175,
+                    "End": 113318
+                },
+                {
+                    "Reply": "A few days after Marie's fainting-fit that frightened us all, and that was followed by her feverish and debilitated state...",
+                    "Didascalie": "",
+                    "Start": 123677,
+                    "End": 123818
+                },
+                {
+                    "Reply": "...I went to see the steward, because I wanted to borrow the carriage for the Whitsun holidays again.",
+                    "Didascalie": "",
+                    "Start": 124462,
+                    "End": 124578
+                },
+                {
+                    "Reply": "We had arranged to meet at the town railway station, since Eva wanted to avoid being seen with me. She was living with distant relatives,   who    were    apparently   reporting regularly to Eva's parents about her life-style.",
+                    "Didascalie": "",
+                    "Start": 134279,
+                    "End": 134538
+                },
+                {
+                    "Reply": "After    this   intricate  atrocity committed on the retarded boy, even the Baron was finally convinced that it would be more intelligent to call upon the professional help of the county's police force.",
+                    "Didascalie": "",
+                    "Start": 140891,
+                    "End": 141126
+                },
+                {
+                    "Reply": "After learning of Hansi's torture, I didn't think at first of what Liesl had told me.",
+                    "Didascalie": "",
+                    "Start": 141520,
+                    "End": 141614
+                },
+                {
+                    "Reply": "The news spread around the village like wildfire. What would the consequences be?",
+                    "Didascalie": "",
+                    "Start": 160463,
+                    "End": 160552
+                },
+                {
+                    "Reply": "The state that woman was in, who I knew was level-headed, had deeply impressed me.",
+                    "Didascalie": "",
+                    "Start": 164708,
+                    "End": 164800
+                },
+                {
+                    "Reply": "With each step I took from the estate back to the school, I felt more foolish for having given away the bicycle.",
+                    "Didascalie": "",
+                    "Start": 165005,
+                    "End": 165134
+                },
+                {
+                    "Reply": "Then I thought of Liesl's dream again.",
+                    "Didascalie": "",
+                    "Start": 166947,
+                    "End": 166986
+                },
+                {
+                    "Reply": "If the midwife couldn't take care of him, she would have entrusted the boy to me, or to the doctor. But since the night he was mistreated, I hadn't seen him again.",
+                    "Didascalie": "",
+                    "Start": 168433,
+                    "End": 168621
+                },
+                {
+                    "Reply": "The midwife never came back. I waited until the morning, two days later. Then, I went to the manor house to inform the Baron. He referred me to the steward and said to open the house immediately and to look after the disabled boy.",
+                    "Didascalie": "",
+                    "Start": 182653,
+                    "End": 182924
+                },
+                {
+                    "Reply": "I had never come to the midwife's house and felt uncomfortable at the idea of barging into somebody else's house without asking. It was strange, but we were still seeking and calling out anxiously Hansi's name, and I already knew, that we were searching in vain. Anyone who knew the midwife also knew how devoted she was to her disabled child, and that she would never have left her wounded Hansi all alone.",
+                    "Didascalie": "",
+                    "Start": 183506,
+                    "End": 183986
+                },
+                {
+                    "Reply": "During the next few weeks, the village gossip-factory worked overtime.",
+                    "Didascalie": "",
+                    "Start": 184342,
+                    "End": 184420
+                },
+                {
+                    "Reply": "Whoever had lynched the boy obviously knew about the hidden crimes of his parents.",
+                    "Didascalie": "",
+                    "Start": 185100,
+                    "End": 185190
+                },
+                {
+                    "Reply": "On the Sunday between those dates, the whole village came to the festive service.",
+                    "Didascalie": "",
+                    "Start": 186644,
+                    "End": 186733
+                }
+            ]
+        },
+        {
+            "Character": "MARTIN",
+            "Replies": [
+                {
+                    "Reply": "Were you at Xenia's place?",
+                    "Didascalie": "",
+                    "Start": 4491,
+                    "End": 4518
+                },
+                {
+                    "Reply": "He doesn't want me to die.",
+                    "Didascalie": "",
+                    "Start": 24057,
+                    "End": 24084
+                },
+                {
+                    "Reply": "God.",
+                    "Didascalie": "",
+                    "Start": 24187,
+                    "End": 24192
+                },
+                {
+                    "Reply": "Blushed? I don't know... I felt sorry for him.",
+                    "Didascalie": "",
+                    "Start": 84470,
+                    "End": 84525
+                },
+                {
+                    "Reply": "Untie me!",
+                    "Didascalie": "",
+                    "Start": 99395,
+                    "End": 99405
+                },
+                {
+                    "Reply": "Come on, untie me!",
+                    "Didascalie": "",
+                    "Start": 99463,
+                    "End": 99482
+                },
+                {
+                    "Reply": "I'll beat you black and blue, if you don't untie me!",
+                    "Didascalie": "",
+                    "Start": 99680,
+                    "End": 99741
+                },
+                {
+                    "Reply": "Flori, come over and untie me!",
+                    "Didascalie": "",
+                    "Start": 99899,
+                    "End": 99930
+                },
+                {
+                    "Reply": "It's burning!",
+                    "Didascalie": "",
+                    "Start": 101190,
+                    "End": 101204
+                },
+                {
+                    "Reply": "Yes. He isn't well. And since his mother is gone... we thought, we should go and pay him a visit.",
+                    "Didascalie": "",
+                    "Start": 172043,
+                    "End": 172157
+                }
+            ]
+        },
+        {
+            "Character": "MARIE",
+            "Replies": [
+                {
+                    "Reply": "Can't you say hello? Good afternoon, Mrs.",
+                    "Didascalie": "",
+                    "Start": 4674,
+                    "End": 4716
+                },
+                {
+                    "Reply": "We're so worried, you know. That's why Martin forgot his manners.",
+                    "Didascalie": "",
+                    "Start": 4850,
+                    "End": 4924
+                },
+                {
+                    "Reply": "How is the Doctor?",
+                    "Didascalie": "",
+                    "Start": 4974,
+                    "End": 4993
+                },
+                {
+                    "Reply": "Will he have to stay in the hospital?",
+                    "Didascalie": "",
+                    "Start": 5040,
+                    "End": 5078
+                },
+                {
+                    "Reply": "We'll take care of Xenia. Maybe, we can help her somehow.",
+                    "Didascalie": "",
+                    "Start": 5286,
+                    "End": 5352
+                },
+                {
+                    "Reply": "Good-bye, Sir. Good-bye, Mrs. Wagner.",
+                    "Didascalie": "",
+                    "Start": 6056,
+                    "End": 6094
+                },
+                {
+                    "Reply": "Come Lord Jesus and be our guest And bless what you've given to us.",
+                    "Didascalie": "",
+                    "Start": 36351,
+                    "End": 36427
+                },
+                {
+                    "Reply": "Good evening, Sir.",
+                    "Didascalie": "",
+                    "Start": 165546,
+                    "End": 165565
+                },
+                {
+                    "Reply": "We wanted to see how Hansi was doing.",
+                    "Didascalie": "",
+                    "Start": 165713,
+                    "End": 165751
+                },
+                {
+                    "Reply": "Yes. We were worried. We saw Mrs. Wagner riding off on a bicycle. So we wondered what had happened to Hansi.",
+                    "Didascalie": "",
+                    "Start": 165944,
+                    "End": 166071
+                },
+                {
+                    "Reply": "Good evening, Teacher.",
+                    "Didascalie": "",
+                    "Start": 166715,
+                    "End": 166738
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 170814,
+                    "End": 170818
+                },
+                {
+                    "Reply": "Our mother told us when she came to fetch us.",
+                    "Didascalie": "",
+                    "Start": 170912,
+                    "End": 170967
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 171072,
+                    "End": 171076
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 171694,
+                    "End": 171700
+                },
+                {
+                    "Reply": "We were worried. He's ill.",
+                    "Didascalie": "",
+                    "Start": 171950,
+                    "End": 171977
+                },
+                {
+                    "Reply": "Yes, of course we wondered.",
+                    "Didascalie": "",
+                    "Start": 172512,
+                    "End": 172540
+                },
+                {
+                    "Reply": "We discussed it with Father. He said it must be a sick person.",
+                    "Didascalie": "",
+                    "Start": 172585,
+                    "End": 172656
+                },
+                {
+                    "Reply": "I don't understand.",
+                    "Didascalie": "",
+                    "Start": 172825,
+                    "End": 172845
+                },
+                {
+                    "Reply": "I don't understand you, Sir. You should talk with Father about this or with Mother.",
+                    "Didascalie": "",
+                    "Start": 173664,
+                    "End": 173757
+                },
+                {
+                    "Reply": "Martin, would you please get her?",
+                    "Didascalie": "",
+                    "Start": 173834,
+                    "End": 173868
+                }
+            ]
+        },
+        {
+            "Character": "MIDWIFE",
+            "Replies": [
+                {
+                    "Reply": "Hello, Marie.",
+                    "Didascalie": "",
+                    "Start": 4759,
+                    "End": 4773
+                },
+                {
+                    "Reply": "That's all right.",
+                    "Didascalie": "",
+                    "Start": 4941,
+                    "End": 4959
+                },
+                {
+                    "Reply": "Not very well.",
+                    "Didascalie": "",
+                    "Start": 5010,
+                    "End": 5025
+                },
+                {
+                    "Reply": "I don't know.",
+                    "Didascalie": "",
+                    "Start": 5095,
+                    "End": 5109
+                },
+                {
+                    "Reply": "Well, did you enjoy the singing?",
+                    "Didascalie": "",
+                    "Start": 5649,
+                    "End": 5682
+                },
+                {
+                    "Reply": "At noon. I make lunch for the Doctor and the kids. Since the death of the Doctor's wife, I've been helping him out.",
+                    "Didascalie": "",
+                    "Start": 18169,
+                    "End": 18301
+                },
+                {
+                    "Reply": "It's been 4 years. Since the birth of little Rudolph. I'm the midwife here. We often work together.",
+                    "Didascalie": "",
+                    "Start": 18422,
+                    "End": 18538
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 18603,
+                    "End": 18607
+                },
+                {
+                    "Reply": "I'd never seen it before.",
+                    "Didascalie": "",
+                    "Start": 18706,
+                    "End": 18732
+                },
+                {
+                    "Reply": "It's a boy.",
+                    "Didascalie": "",
+                    "Start": 38523,
+                    "End": 38535
+                },
+                {
+                    "Reply": "What do you mean?! Don't you want a brother?",
+                    "Didascalie": "",
+                    "Start": 38646,
+                    "End": 38698
+                },
+                {
+                    "Reply": "You're lucky your father can't hear you.",
+                    "Didascalie": "",
+                    "Start": 38738,
+                    "End": 38787
+                },
+                {
+                    "Reply": "Stop that!",
+                    "Didascalie": "",
+                    "Start": 38889,
+                    "End": 38900
+                },
+                {
+                    "Reply": "You should be ashamed.",
+                    "Didascalie": "",
+                    "Start": 38996,
+                    "End": 39019
+                },
+                {
+                    "Reply": "It's great that you're back. It was about time.",
+                    "Didascalie": "",
+                    "Start": 85985,
+                    "End": 86041
+                },
+                {
+                    "Reply": "It was   difficult    with    the    children, without you.",
+                    "Didascalie": "",
+                    "Start": 86106,
+                    "End": 86175
+                },
+                {
+                    "Reply": "He doesn't like me.",
+                    "Didascalie": "",
+                    "Start": 86218,
+                    "End": 86238
+                },
+                {
+                    "Reply": "Rudi.",
+                    "Didascalie": "",
+                    "Start": 86278,
+                    "End": 86284
+                },
+                {
+                    "Reply": "Actually not.",
+                    "Didascalie": "",
+                    "Start": 86359,
+                    "End": 86373
+                },
+                {
+                    "Reply": "You didn't miss me.",
+                    "Didascalie": "",
+                    "Start": 86525,
+                    "End": 86545
+                },
+                {
+                    "Reply": "Nothing. I said it because it's the truth.",
+                    "Didascalie": "",
+                    "Start": 86611,
+                    "End": 86663
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 86774,
+                    "End": 86780
+                },
+                {
+                    "Reply": "Are you through?",
+                    "Didascalie": "",
+                    "Start": 105894,
+                    "End": 105911
+                },
+                {
+                    "Reply": "You must be very unhappy to be so mean.",
+                    "Didascalie": "",
+                    "Start": 106235,
+                    "End": 106275
+                },
+                {
+                    "Reply": "I know that I'm not much to look at. My bad breath comes from my stomach, you know that very well. But it didn't bother you in the past when we got together. I already had my ulcer when your wife was still alive.",
+                    "Didascalie": "",
+                    "Start": 106344,
+                    "End": 106593
+                },
+                {
+                    "Reply": "Aren't    you   afraid   that   I   might   do something silly?",
+                    "Didascalie": "",
+                    "Start": 107608,
+                    "End": 107681
+                },
+                {
+                    "Reply": "I know. I'm ridiculous. You wouldn't care anyway.",
+                    "Didascalie": "",
+                    "Start": 107836,
+                    "End": 107895
+                },
+                {
+                    "Reply": "Why do you despise me? For helping to raise the boy? For watching you fingering your little daughter and not saying a word?",
+                    "Didascalie": "",
+                    "Start": 108028,
+                    "End": 108168
+                },
+                {
+                    "Reply": "You can't afford to get rid of me. Who would do the dirty work for you, who would help you with the children, and here in you practice?",
+                    "Didascalie": "",
+                    "Start": 108791,
+                    "End": 108943
+                },
+                {
+                    "Reply": "It's all right, Hansi. Don't be afraid.",
+                    "Didascalie": "",
+                    "Start": 147427,
+                    "End": 147467
+                },
+                {
+                    "Reply": "Could I borrow it just the same?",
+                    "Didascalie": "",
+                    "Start": 162842,
+                    "End": 162875
+                },
+                {
+                    "Reply": "Please! Lend it to me!",
+                    "Didascalie": "",
+                    "Start": 163004,
+                    "End": 163027
+                },
+                {
+                    "Reply": "I must go to town.",
+                    "Didascalie": "",
+                    "Start": 163123,
+                    "End": 163142
+                },
+                {
+                    "Reply": "I asked the steward for a carriage, but that stubborn fool won't agree to anything.",
+                    "Didascalie": "",
+                    "Start": 163194,
+                    "End": 163287
+                },
+                {
+                    "Reply": "I have to go to the police in town. I now know who committed all these crimes.",
+                    "Didascalie": "",
+                    "Start": 163420,
+                    "End": 163507
+                },
+                {
+                    "Reply": "Will you let me have the bicycle?",
+                    "Didascalie": "",
+                    "Start": 163570,
+                    "End": 163604
+                },
+                {
+                    "Reply": "I don't know how to ride.",
+                    "Didascalie": "",
+                    "Start": 163901,
+                    "End": 163927
+                },
+                {
+                    "Reply": "My son told me who did it to him. He may loose his eyesight.",
+                    "Didascalie": "",
+                    "Start": 164241,
+                    "End": 164311
+                }
+            ]
+        },
+        {
+            "Character": "SCHOOLTEACHER",
+            "Replies": [
+                {
+                    "Reply": "Show your mother what you've been singing.",
+                    "Didascalie": "",
+                    "Start": 5776,
+                    "End": 5827
+                },
+                {
+                    "Reply": "Martin, be careful!",
+                    "Didascalie": "",
+                    "Start": 22816,
+                    "End": 22836
+                },
+                {
+                    "Reply": "Are you completely insane? ! Do you want to break your neck? !",
+                    "Didascalie": "",
+                    "Start": 23023,
+                    "End": 23094
+                },
+                {
+                    "Reply": "What's happening? Are you mad? !",
+                    "Didascalie": "",
+                    "Start": 23197,
+                    "End": 23230
+                },
+                {
+                    "Reply": "Didn't you hear me? I shouted to you.",
+                    "Didascalie": "",
+                    "Start": 23346,
+                    "End": 23392
+                },
+                {
+                    "Reply": "Well?",
+                    "Didascalie": "",
+                    "Start": 23468,
+                    "End": 23474
+                },
+                {
+                    "Reply": "Well?!!",
+                    "Didascalie": "",
+                    "Start": 23521,
+                    "End": 23529
+                },
+                {
+                    "Reply": "You saw me down there and wanted to impress me?",
+                    "Didascalie": "",
+                    "Start": 23707,
+                    "End": 23763
+                },
+                {
+                    "Reply": "Well, why didn't you...",
+                    "Didascalie": "",
+                    "Start": 23811,
+                    "End": 23835
+                },
+                {
+                    "Reply": "Why would God want you to die?",
+                    "Didascalie": "",
+                    "Start": 24222,
+                    "End": 24253
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 25188,
+                    "End": 25193
+                },
+                {
+                    "Reply": "Hello.",
+                    "Didascalie": "",
+                    "Start": 26785,
+                    "End": 26792
+                },
+                {
+                    "Reply": "They say you're from Oberdorf.",
+                    "Didascalie": "",
+                    "Start": 27241,
+                    "End": 27272
+                },
+                {
+                    "Reply": "Folks around here.",
+                    "Didascalie": "",
+                    "Start": 27323,
+                    "End": 27342
+                },
+                {
+                    "Reply": "you, I thought... I'm from Grundbach... I'm the tailor's son...",
+                    "Didascalie": "",
+                    "Start": 27542,
+                    "End": 27614
+                },
+                {
+                    "Reply": "What did she tell you?",
+                    "Didascalie": "",
+                    "Start": 27741,
+                    "End": 27764
+                },
+                {
+                    "Reply": "Back home. To Oberdorf.",
+                    "Didascalie": "",
+                    "Start": 28120,
+                    "End": 28144
+                },
+                {
+                    "Reply": "Are you going there?",
+                    "Didascalie": "",
+                    "Start": 28234,
+                    "End": 28255
+                },
+                {
+                    "Reply": "I     don't    know    either.",
+                    "Didascalie": "",
+                    "Start": 29099,
+                    "End": 29130
+                },
+                {
+                    "Reply": "You're   right.   It   was   just   an idea.",
+                    "Didascalie": "",
+                    "Start": 29736,
+                    "End": 29790
+                },
+                {
+                    "Reply": "Is that your bicycle?",
+                    "Didascalie": "",
+                    "Start": 29855,
+                    "End": 29877
+                },
+                {
+                    "Reply": "I see.",
+                    "Didascalie": "",
+                    "Start": 29972,
+                    "End": 29979
+                },
+                {
+                    "Reply": "Is this your first day off?",
+                    "Didascalie": "",
+                    "Start": 30010,
+                    "End": 30038
+                },
+                {
+                    "Reply": "Well, you're         probably   looking forward to being at home.",
+                    "Didascalie": "",
+                    "Start": 30151,
+                    "End": 30226
+                },
+                {
+                    "Reply": "I can imagine.",
+                    "Didascalie": "",
+                    "Start": 30274,
+                    "End": 30289
+                },
+                {
+                    "Reply": "That's true.",
+                    "Didascalie": "",
+                    "Start": 30762,
+                    "End": 30775
+                },
+                {
+                    "Reply": "You have to talk to the pastor, Baroness. We're still busy studying the choir pieces for the confirmation feast.",
+                    "Didascalie": "",
+                    "Start": 45476,
+                    "End": 45603
+                },
+                {
+                    "Reply": "You see: we're getting better.",
+                    "Didascalie": "",
+                    "Start": 52127,
+                    "End": 52158
+                },
+                {
+                    "Reply": "Stop looking at your feet.",
+                    "Didascalie": "",
+                    "Start": 52202,
+                    "End": 52229
+                },
+                {
+                    "Reply": "What a question. Of course. Come in. What happened.",
+                    "Didascalie": "",
+                    "Start": 69771,
+                    "End": 69831
+                },
+                {
+                    "Reply": "Come   over   here.   It's   so   dark.",
+                    "Didascalie": "",
+                    "Start": 69985,
+                    "End": 70025
+                },
+                {
+                    "Reply": "What's going on?",
+                    "Didascalie": "",
+                    "Start": 70139,
+                    "End": 70156
+                },
+                {
+                    "Reply": "I know, come on. Stop crying!",
+                    "Didascalie": "",
+                    "Start": 71939,
+                    "End": 71969
+                },
+                {
+                    "Reply": "You'll  find   something  else.",
+                    "Didascalie": "",
+                    "Start": 72077,
+                    "End": 72109
+                },
+                {
+                    "Reply": ": I'll try to talk to her. A while back, we played music together.",
+                    "Didascalie": "(after a pause)",
+                    "Start": 72595,
+                    "End": 72670
+                },
+                {
+                    "Reply": ": Unfortunately, I wasn't very good. Now she's got the tutor, he plays better.",
+                    "Didascalie": "(with a smile)",
+                    "Start": 72692,
+                    "End": 72779
+                },
+                {
+                    "Reply": "That's true.",
+                    "Didascalie": "",
+                    "Start": 72950,
+                    "End": 72963
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 73073,
+                    "End": 73079
+                },
+                {
+                    "Reply": "I don't know.",
+                    "Didascalie": "",
+                    "Start": 73144,
+                    "End": 73158
+                },
+                {
+                    "Reply": "How can you think something like that?",
+                    "Didascalie": "",
+                    "Start": 73305,
+                    "End": 73352
+                },
+                {
+                    "Reply": "Do you want me to come with you.",
+                    "Didascalie": "",
+                    "Start": 73632,
+                    "End": 73665
+                },
+                {
+                    "Reply": "Stop being so formal.",
+                    "Didascalie": "",
+                    "Start": 74024,
+                    "End": 74046
+                },
+                {
+                    "Reply": "I don't know. The Baroness isn't back yet.",
+                    "Didascalie": "",
+                    "Start": 92666,
+                    "End": 92717
+                },
+                {
+                    "Reply": "They now want to tear down the sawmill for good. That's what the steward says.",
+                    "Didascalie": "",
+                    "Start": 93113,
+                    "End": 93200
+                },
+                {
+                    "Reply": "No, thank you. Very kind.",
+                    "Didascalie": "",
+                    "Start": 94253,
+                    "End": 94279
+                },
+                {
+                    "Reply": "Really. Thank you very much.",
+                    "Didascalie": "",
+                    "Start": 94326,
+                    "End": 94355
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 94630,
+                    "End": 94635
+                },
+                {
+                    "Reply": "I actually thought I...",
+                    "Didascalie": "",
+                    "Start": 97044,
+                    "End": 97068
+                },
+                {
+                    "Reply": "Is that all right with you?",
+                    "Didascalie": "",
+                    "Start": 98194,
+                    "End": 98222
+                },
+                {
+                    "Reply": "What's going on here? Why are you still here? You know that there's a confirmation class now! Get out!",
+                    "Didascalie": "",
+                    "Start": 117700,
+                    "End": 117819
+                },
+                {
+                    "Reply": "Hello, Liesl..",
+                    "Didascalie": "",
+                    "Start": 125871,
+                    "End": 125886
+                },
+                {
+                    "Reply": "He's cute..",
+                    "Didascalie": "",
+                    "Start": 125975,
+                    "End": 125987
+                },
+                {
+                    "Reply": "Do you like him.",
+                    "Didascalie": "",
+                    "Start": 126035,
+                    "End": 126052
+                },
+                {
+                    "Reply": "He was very sick last winter, I was told.",
+                    "Didascalie": "",
+                    "Start": 126105,
+                    "End": 126154
+                },
+                {
+                    "Reply": "Maybe,  I'll   pop  back   this evening.",
+                    "Didascalie": "",
+                    "Start": 126343,
+                    "End": 126392
+                },
+                {
+                    "Reply": "Yes?",
+                    "Didascalie": "",
+                    "Start": 127084,
+                    "End": 127089
+                },
+                {
+                    "Reply": "Well, what did you mean then?",
+                    "Didascalie": "",
+                    "Start": 127650,
+                    "End": 127680
+                },
+                {
+                    "Reply": "All right. Now go on.",
+                    "Didascalie": "",
+                    "Start": 128900,
+                    "End": 128922
+                },
+                {
+                    "Reply": "Something very bad?",
+                    "Didascalie": "",
+                    "Start": 129236,
+                    "End": 129256
+                },
+                {
+                    "Reply": "Like what?",
+                    "Didascalie": "",
+                    "Start": 129299,
+                    "End": 129310
+                },
+                {
+                    "Reply": "All right. All right. That was just a dream. You needn't take it so seriously.",
+                    "Didascalie": "",
+                    "Start": 129571,
+                    "End": 129658
+                },
+                {
+                    "Reply": "What gave you the idea that your dream would come true?",
+                    "Didascalie": "",
+                    "Start": 129968,
+                    "End": 130032
+                },
+                {
+                    "Reply": "What do you mean?",
+                    "Didascalie": "",
+                    "Start": 130810,
+                    "End": 130828
+                },
+                {
+                    "Reply": "What are you saying there? That's complete nonsense!",
+                    "Didascalie": "",
+                    "Start": 131218,
+                    "End": 131279
+                },
+                {
+                    "Reply": "Somebody probably didn't close the window properly.",
+                    "Didascalie": "",
+                    "Start": 131331,
+                    "End": 131392
+                },
+                {
+                    "Reply": "And because you believe that, you dreamt it. It doesn't mean anything at all. It's just a coincidence.",
+                    "Didascalie": "",
+                    "Start": 131586,
+                    "End": 131707
+                },
+                {
+                    "Reply": "Look at me.",
+                    "Didascalie": "",
+                    "Start": 131833,
+                    "End": 131845
+                },
+                {
+                    "Reply": "Don't tell such stories to anybody!",
+                    "Didascalie": "",
+                    "Start": 131935,
+                    "End": 131980
+                },
+                {
+                    "Reply": "Well. All right then.",
+                    "Didascalie": "",
+                    "Start": 132966,
+                    "End": 132988
+                },
+                {
+                    "Reply": "Then, it isn't really so awful, is it?",
+                    "Didascalie": "",
+                    "Start": 135188,
+                    "End": 135235
+                },
+                {
+                    "Reply": "No?",
+                    "Didascalie": "",
+                    "Start": 135465,
+                    "End": 135469
+                },
+                {
+                    "Reply": "I   don't   know.   That's   what   the steward told me.",
+                    "Didascalie": "",
+                    "Start": 136543,
+                    "End": 136607
+                },
+                {
+                    "Reply": "Over there, into the forest beside the brook. We can picnic over there. I brought a basket of food.",
+                    "Didascalie": "",
+                    "Start": 136853,
+                    "End": 136967
+                },
+                {
+                    "Reply": "But  I   don't  want   anything forbidden from you. I just wanted you to enjoy the picnic.",
+                    "Didascalie": "",
+                    "Start": 137398,
+                    "End": 137505
+                },
+                {
+                    "Reply": "She's    already   dreamed   of something that has come true.",
+                    "Didascalie": "",
+                    "Start": 142912,
+                    "End": 142982
+                },
+                {
+                    "Reply": "I'd be grateful if you came too.",
+                    "Didascalie": "",
+                    "Start": 144753,
+                    "End": 144786
+                },
+                {
+                    "Reply": "Good afternoon.",
+                    "Didascalie": "",
+                    "Start": 145400,
+                    "End": 145416
+                },
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 145968,
+                    "End": 145980
+                },
+                {
+                    "Reply": "Good afternoon, Mrs. Wagner.",
+                    "Didascalie": "",
+                    "Start": 162645,
+                    "End": 162674
+                },
+                {
+                    "Reply": "It's not mine.",
+                    "Didascalie": "",
+                    "Start": 162809,
+                    "End": 162824
+                },
+                {
+                    "Reply": "Why do you need it? Where do you want to go?",
+                    "Didascalie": "",
+                    "Start": 163051,
+                    "End": 163105
+                },
+                {
+                    "Reply": "What for?",
+                    "Didascalie": "",
+                    "Start": 163166,
+                    "End": 163176
+                },
+                {
+                    "Reply": "Why? What is going on?",
+                    "Didascalie": "",
+                    "Start": 163355,
+                    "End": 163378
+                },
+                {
+                    "Reply": "Why don't you tell me?",
+                    "Didascalie": "",
+                    "Start": 163628,
+                    "End": 163651
+                },
+                {
+                    "Reply": "Can't the doctor can lend you his horse?",
+                    "Didascalie": "",
+                    "Start": 163834,
+                    "End": 163884
+                },
+                {
+                    "Reply": "Good evening, Marie.",
+                    "Didascalie": "",
+                    "Start": 165589,
+                    "End": 165610
+                },
+                {
+                    "Reply": "What are you doing here?",
+                    "Didascalie": "",
+                    "Start": 165672,
+                    "End": 165697
+                },
+                {
+                    "Reply": "But can't       you   see   that   the shutters are closed.",
+                    "Didascalie": "",
+                    "Start": 165782,
+                    "End": 165851
+                },
+                {
+                    "Reply": "Go home now. Nobody said you could come in here.",
+                    "Didascalie": "",
+                    "Start": 166101,
+                    "End": 166158
+                },
+                {
+                    "Reply": "You better go back home now, hurry.",
+                    "Didascalie": "",
+                    "Start": 166583,
+                    "End": 166627
+                },
+                {
+                    "Reply": "Hansi? Can you hear me? Hansi!",
+                    "Didascalie": "",
+                    "Start": 168126,
+                    "End": 168157
+                },
+                {
+                    "Reply": "Yes, she was.",
+                    "Didascalie": "",
+                    "Start": 169197,
+                    "End": 169211
+                },
+                {
+                    "Reply": "I have a request.",
+                    "Didascalie": "",
+                    "Start": 169359,
+                    "End": 169377
+                },
+                {
+                    "Reply": "Could I ask Marie and Martin?",
+                    "Didascalie": "",
+                    "Start": 169428,
+                    "End": 169458
+                },
+                {
+                    "Reply": "Good evening.",
+                    "Didascalie": "",
+                    "Start": 170038,
+                    "End": 170052
+                },
+                {
+                    "Reply": "Yes, with pleasure. That's very kind of you.",
+                    "Didascalie": "",
+                    "Start": 170561,
+                    "End": 170614
+                },
+                {
+                    "Reply": "But you don't seem surprised at my question.",
+                    "Didascalie": "",
+                    "Start": 170842,
+                    "End": 170896
+                },
+                {
+                    "Reply": "And   Xenia   didn't    tell    you anything about it?",
+                    "Didascalie": "",
+                    "Start": 170993,
+                    "End": 171057
+                },
+                {
+                    "Reply": "Well, that's something completely different?!",
+                    "Didascalie": "",
+                    "Start": 171396,
+                    "End": 171451
+                },
+                {
+                    "Reply": "I get the feeling you're hiding something from me.",
+                    "Didascalie": "",
+                    "Start": 171619,
+                    "End": 171678
+                },
+                {
+                    "Reply": "That's what I'd really like to know.",
+                    "Didascalie": "",
+                    "Start": 171723,
+                    "End": 171768
+                },
+                {
+                    "Reply": "I'm asking Martin.",
+                    "Didascalie": "",
+                    "Start": 172001,
+                    "End": 172020
+                },
+                {
+                    "Reply": "Did you ever ask yourselves who could have treated Hansi that way?",
+                    "Didascalie": "",
+                    "Start": 172247,
+                    "End": 172322
+                },
+                {
+                    "Reply": "Well?",
+                    "Didascalie": "",
+                    "Start": 172564,
+                    "End": 172570
+                },
+                {
+                    "Reply": "Sigi   was    with    you at Thanksgiving. And so was Hansi.",
+                    "Didascalie": "",
+                    "Start": 172734,
+                    "End": 172803
+                },
+                {
+                    "Reply": "Shaking her head and shrugging her shoulders.",
+                    "Didascalie": "",
+                    "Start": 172962,
+                    "End": 173008
+                },
+                {
+                    "Reply": "What did they do to you?",
+                    "Didascalie": "",
+                    "Start": 173031,
+                    "End": 173056
+                },
+                {
+                    "Reply": "Sigi and Hansi?",
+                    "Didascalie": "",
+                    "Start": 173194,
+                    "End": 173210
+                },
+                {
+                    "Reply": "They    obviously   were   being punished. For what?",
+                    "Didascalie": "",
+                    "Start": 173268,
+                    "End": 173330
+                },
+                {
+                    "Reply": "Liesl foresaw that Hansi would be punished? What for?",
+                    "Didascalie": "",
+                    "Start": 173395,
+                    "End": 173458
+                },
+                {
+                    "Reply": "You're  an   intelligent   girl, Marie. Don't try and play dumb.",
+                    "Didascalie": "",
+                    "Start": 173567,
+                    "End": 173641
+                },
+                {
+                    "Reply": "Stay here, Martin: I'll talk to your parents when I consider it's the right time. Now, I'm talking to you. And I expect you tell me the truth.",
+                    "Didascalie": "",
+                    "Start": 173938,
+                    "End": 174105
+                },
+                {
+                    "Reply": "I mean after the confirmation?",
+                    "Didascalie": "",
+                    "Start": 174298,
+                    "End": 174329
+                },
+                {
+                    "Reply": "I'm afraid not. They don't know anything, either.",
+                    "Didascalie": "",
+                    "Start": 174681,
+                    "End": 174739
+                },
+                {
+                    "Reply": "No. I'm sorry if I disturbed you.",
+                    "Didascalie": "",
+                    "Start": 175068,
+                    "End": 175102
+                },
+                {
+                    "Reply": "That's very kind of you, but I'm really worried about the midwife's son.",
+                    "Didascalie": "",
+                    "Start": 175248,
+                    "End": 175328
+                },
+                {
+                    "Reply": "I didn't ask her. She caught me off guard. She was completely panicked.",
+                    "Didascalie": "",
+                    "Start": 175419,
+                    "End": 175499
+                },
+                {
+                    "Reply": "Yes. I'd like to have a quick chat with you.",
+                    "Didascalie": "",
+                    "Start": 176009,
+                    "End": 176062
+                },
+                {
+                    "Reply": "I spoke to the midwife today: she said she now knew who tortured her son.",
+                    "Didascalie": "",
+                    "Start": 176755,
+                    "End": 176837
+                },
+                {
+                    "Reply": "She'll only     tell   the   police.",
+                    "Didascalie": "",
+                    "Start": 176957,
+                    "End": 176994
+                },
+                {
+                    "Reply": "She left the boy behind alone and has locked the whole house.",
+                    "Didascalie": "",
+                    "Start": 177154,
+                    "End": 177223
+                },
+                {
+                    "Reply": "Yes, she was. She never mentioned anything.",
+                    "Didascalie": "",
+                    "Start": 178110,
+                    "End": 178162
+                },
+                {
+                    "Reply": "I asked Marie and Martin. They both know nothing either.",
+                    "Didascalie": "",
+                    "Start": 178235,
+                    "End": 178300
+                },
+                {
+                    "Reply": "They were looking for the boy.",
+                    "Didascalie": "",
+                    "Start": 178655,
+                    "End": 178686
+                },
+                {
+                    "Reply": "They wanted to help him.",
+                    "Didascalie": "",
+                    "Start": 178740,
+                    "End": 178765
+                },
+                {
+                    "Reply": "Nothing. I had forgotten it.",
+                    "Didascalie": "",
+                    "Start": 179555,
+                    "End": 179584
+                },
+                {
+                    "Reply": "When they found the Baron's son... the last time he had been seen, he was with the children.",
+                    "Didascalie": "",
+                    "Start": 179709,
+                    "End": 179818
+                }
+            ]
+        },
+        {
+            "Character": "HANS",
+            "Replies": [
+                {
+                    "Reply": "La... La... lalala...",
+                    "Didascalie": "",
+                    "Start": 5995,
+                    "End": 6017
+                },
+                {
+                    "Reply": "People! ...Lots of people. Come!!",
+                    "Didascalie": "",
+                    "Start": 19208,
+                    "End": 19242
+                }
+            ]
+        },
+        {
+            "Character": "CHILDREN",
+            "Replies": [
+                {
+                    "Reply": "they also SAY GOOD-BYE, though some less distinctively, and follow the girl.",
+                    "Didascalie": "",
+                    "Start": 6159,
+                    "End": 6236
+                },
+                {
+                    "Reply": "The table is set for 8 people, but the plates are empty.",
+                    "Didascalie": "",
+                    "Start": 13749,
+                    "End": 13806
+                },
+                {
+                    "Reply": "Good night, Doctor.",
+                    "Didascalie": "",
+                    "Start": 90620,
+                    "End": 90640
+                },
+                {
+                    "Reply": "Good evening, Sir.",
+                    "Didascalie": "",
+                    "Start": 165629,
+                    "End": 165648
+                }
+            ]
+        },
+        {
+            "Character": "XENIA",
+            "Replies": [
+                {
+                    "Reply": "Hush!",
+                    "Didascalie": "",
+                    "Start": 8486,
+                    "End": 8492
+                },
+                {
+                    "Reply": "I don't know.",
+                    "Didascalie": "",
+                    "Start": 17683,
+                    "End": 17697
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 17870,
+                    "End": 17874
+                },
+                {
+                    "Reply": "I was in school. Today.",
+                    "Didascalie": "",
+                    "Start": 17934,
+                    "End": 17958
+                },
+                {
+                    "Reply": "I didn't check.",
+                    "Didascalie": "",
+                    "Start": 18055,
+                    "End": 18071
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 31672,
+                    "End": 31678
+                },
+                {
+                    "Reply": "What's dead? My God, that's when someone doesn't live anymore. When he's stopped living.",
+                    "Didascalie": "",
+                    "Start": 31746,
+                    "End": 31843
+                },
+                {
+                    "Reply": "When you're too old or very ill.",
+                    "Didascalie": "",
+                    "Start": 32106,
+                    "End": 32139
+                },
+                {
+                    "Reply": "She had an accident.",
+                    "Didascalie": "",
+                    "Start": 32186,
+                    "End": 32207
+                },
+                {
+                    "Reply": "Yes. That's when you hurt yourself very badly.",
+                    "Didascalie": "",
+                    "Start": 32252,
+                    "End": 32307
+                },
+                {
+                    "Reply": "Yes, but much worse than that. So bad, that your body can't take it anymore.",
+                    "Didascalie": "",
+                    "Start": 32349,
+                    "End": 32434
+                },
+                {
+                    "Reply": "Yes.      But   most   people   don't   have   an accident.",
+                    "Didascalie": "",
+                    "Start": 32518,
+                    "End": 32586
+                },
+                {
+                    "Reply": "No, they die much later.",
+                    "Didascalie": "",
+                    "Start": 32653,
+                    "End": 32678
+                },
+                {
+                    "Reply": "Later, when they're very old.",
+                    "Didascalie": "",
+                    "Start": 32716,
+                    "End": 32746
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 32878,
+                    "End": 32883
+                },
+                {
+                    "Reply": "Yes, everyone dies.",
+                    "Didascalie": "",
+                    "Start": 32934,
+                    "End": 32954
+                },
+                {
+                    "Reply": "Me too. Everyone.",
+                    "Didascalie": "",
+                    "Start": 33003,
+                    "End": 33021
+                },
+                {
+                    "Reply": "Dad too.",
+                    "Didascalie": "",
+                    "Start": 33064,
+                    "End": 33073
+                },
+                {
+                    "Reply": "You too. But not before a very very long time. All of us, only in a very long time.",
+                    "Didascalie": "",
+                    "Start": 33111,
+                    "End": 33202
+                },
+                {
+                    "Reply": "It has to happen. But not now, not for a very long time.",
+                    "Didascalie": "",
+                    "Start": 33296,
+                    "End": 33361
+                },
+                {
+                    "Reply": "Yes. She's dead too. But that was a long time ago.",
+                    "Didascalie": "",
+                    "Start": 33492,
+                    "End": 33551
+                },
+                {
+                    "Reply": "He was in the living room a short time ago.",
+                    "Didascalie": "",
+                    "Start": 77798,
+                    "End": 77850
+                },
+                {
+                    "Reply": "I don't know. I just thought you might want to know.",
+                    "Didascalie": "",
+                    "Start": 79929,
+                    "End": 79990
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 80060,
+                    "End": 80065
+                },
+                {
+                    "Reply": "Fourteen.",
+                    "Didascalie": "",
+                    "Start": 80151,
+                    "End": 80161
+                },
+                {
+                    "Reply": "What are you doing here? Why aren't you in bed?",
+                    "Didascalie": "",
+                    "Start": 121560,
+                    "End": 121617
+                },
+                {
+                    "Reply": "That's why you're wandering around like a ghost in the middle of the night?",
+                    "Didascalie": "",
+                    "Start": 121801,
+                    "End": 121885
+                },
+                {
+                    "Reply": "Yes, a bit.",
+                    "Didascalie": "",
+                    "Start": 122106,
+                    "End": 122118
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 122562,
+                    "End": 122567
+                }
+            ]
+        },
+        {
+            "Character": "GEORG",
+            "Replies": [
+                {
+                    "Reply": "Hi, Xeni!",
+                    "Didascalie": "",
+                    "Start": 8862,
+                    "End": 8872
+                },
+                {
+                    "Reply": "What do you mean \"well\"?",
+                    "Didascalie": "",
+                    "Start": 90946,
+                    "End": 90971
+                },
+                {
+                    "Reply": "I beg your pardon?",
+                    "Didascalie": "",
+                    "Start": 151741,
+                    "End": 151760
+                },
+                {
+                    "Reply": "What whistle?",
+                    "Didascalie": "",
+                    "Start": 151856,
+                    "End": 151870
+                }
+            ]
+        },
+        {
+            "Character": "STEWARD",
+            "Replies": [
+                {
+                    "Reply": "...its tendons were almost severed. It never would have recovered.",
+                    "Didascalie": "",
+                    "Start": 9319,
+                    "End": 9394
+                },
+                {
+                    "Reply": "Of course. It's thin, but strong. You can hardly see it, if you don't look closely.",
+                    "Didascalie": "",
+                    "Start": 9846,
+                    "End": 9937
+                },
+                {
+                    "Reply": "Meaning: I don't know. Anyway it was definitely put there intentionally and looks damn...",
+                    "Didascalie": "",
+                    "Start": 10298,
+                    "End": 10402
+                },
+                {
+                    "Reply": "Well, you two \"mothers\"? Don't you want to be part of the festivities?",
+                    "Didascalie": "",
+                    "Start": 46427,
+                    "End": 46506
+                },
+                {
+                    "Reply": "I can imagine. Who wouldn't like that.",
+                    "Didascalie": "",
+                    "Start": 46954,
+                    "End": 46993
+                },
+                {
+                    "Reply": "Eighteen! And you want me to believe you'd rather hold the Baroness's baby in your arms than your true love?",
+                    "Didascalie": "",
+                    "Start": 47421,
+                    "End": 47544
+                },
+                {
+                    "Reply": "I'm not doing her any harm. Can you get us something to eat, Emma?",
+                    "Didascalie": "",
+                    "Start": 47630,
+                    "End": 47704
+                },
+                {
+                    "Reply": "cleaning up, wait for me. There's still a job to do. Get some fresh torches and lanterns!",
+                    "Didascalie": "",
+                    "Start": 62995,
+                    "End": 63092
+                },
+                {
+                    "Reply": "Difficult to say. My wife nursed him at about one o'clock. When she came back, it was around half past two. At that time it was icy cold in this room.",
+                    "Didascalie": "",
+                    "Start": 89040,
+                    "End": 89212
+                },
+                {
+                    "Reply": "No. The children were upstairs and didn't hear anything either.",
+                    "Didascalie": "",
+                    "Start": 89269,
+                    "End": 89341
+                },
+                {
+                    "Reply": "Can I offer you something to warm you up?",
+                    "Didascalie": "",
+                    "Start": 89692,
+                    "End": 89742
+                },
+                {
+                    "Reply": "Georg!",
+                    "Didascalie": "",
+                    "Start": 89857,
+                    "End": 89864
+                },
+                {
+                    "Reply": "That must be terrible, I imagine. You probably feel like half a man when you can't use your arm properly.",
+                    "Didascalie": "",
+                    "Start": 90153,
+                    "End": 90275
+                },
+                {
+                    "Reply": "Give me that whistle!",
+                    "Didascalie": "",
+                    "Start": 151656,
+                    "End": 151678
+                },
+                {
+                    "Reply": "Give away it to me, or I'll kill you.",
+                    "Didascalie": "",
+                    "Start": 152243,
+                    "End": 152281
+                },
+                {
+                    "Reply": "Good evening. Could I talk to you for a moment, Baron?",
+                    "Didascalie": "",
+                    "Start": 159034,
+                    "End": 159097
+                },
+                {
+                    "Reply": "It's  really   urgent.   Normally,  I wouldn't have disturbed you so late.",
+                    "Didascalie": "",
+                    "Start": 159172,
+                    "End": 159255
+                }
+            ]
+        },
+        {
+            "Character": "LANDOWNER",
+            "Replies": [
+                {
+                    "Reply": "How did that thing get there? Didn't the Doctor say anything?",
+                    "Didascalie": "",
+                    "Start": 9511,
+                    "End": 9581
+                },
+                {
+                    "Reply": "Did you look at the wire?",
+                    "Didascalie": "",
+                    "Start": 9804,
+                    "End": 9830
+                },
+                {
+                    "Reply": "But why was it tied there?",
+                    "Didascalie": "",
+                    "Start": 9955,
+                    "End": 9982
+                },
+                {
+                    "Reply": "Meaning?",
+                    "Didascalie": "",
+                    "Start": 10208,
+                    "End": 10217
+                }
+            ]
+        },
+        {
+            "Character": "SEPARATE",
+            "Replies": [
+                {
+                    "Reply": "the landowner heads to the manor, the steward with the team of carthorses to a farm building.",
+                    "Didascalie": "",
+                    "Start": 10743,
+                    "End": 10837
+                }
+            ]
+        },
+        {
+            "Character": "TUTOR",
+            "Replies": [
+                {
+                    "Reply": "I'm sorry, Madame. You're just playing too well for me.",
+                    "Didascalie": "",
+                    "Start": 11269,
+                    "End": 11333
+                },
+                {
+                    "Reply": "To tell the truth: You're just playing too fast for me. I'm not Paganini.",
+                    "Didascalie": "",
+                    "Start": 11451,
+                    "End": 11533
+                },
+                {
+                    "Reply": "She's with the twins, I presume. Twenty to nine.",
+                    "Didascalie": "",
+                    "Start": 12502,
+                    "End": 12558
+                },
+                {
+                    "Reply": "Of course, Madame.",
+                    "Didascalie": "",
+                    "Start": 12718,
+                    "End": 12737
+                },
+                {
+                    "Reply": "Madame sent me to you,     Baron. She is beside herself with fear.",
+                    "Didascalie": "",
+                    "Start": 60919,
+                    "End": 60994
+                },
+                {
+                    "Reply": "Outside, in the courtyard. He said, he was going to play with the other children.",
+                    "Didascalie": "",
+                    "Start": 61517,
+                    "End": 61606
+                },
+                {
+                    "Reply": "That he didn't say.",
+                    "Didascalie": "",
+                    "Start": 61641,
+                    "End": 61661
+                },
+                {
+                    "Reply": "After that business with the cabbage heads, Madame retired to her room. She was indisposed.",
+                    "Didascalie": "",
+                    "Start": 61752,
+                    "End": 61858
+                },
+                {
+                    "Reply": "Yes. She had a terrible migraine attack.",
+                    "Didascalie": "",
+                    "Start": 61915,
+                    "End": 61956
+                }
+            ]
+        },
+        {
+            "Character": "BEATRIX",
+            "Replies": [
+                {
+                    "Reply": "Stop  apologizing   and  concentrate.",
+                    "Didascalie": "",
+                    "Start": 11351,
+                    "End": 11389
+                },
+                {
+                    "Reply": "Well, let's start all over again at the letter D.",
+                    "Didascalie": "",
+                    "Start": 11647,
+                    "End": 11705
+                },
+                {
+                    "Reply": "Listen, darling. If you like the music, then sit down beside me and turn the pages of the sheet music. But if you're bored, go up to your room and at least stay out of my sight. It makes me nervous if you're constantly sauntering around in front of me.",
+                    "Didascalie": "",
+                    "Start": 11952,
+                    "End": 12245
+                },
+                {
+                    "Reply": "to turn the pages for me or not?",
+                    "Didascalie": "",
+                    "Start": 12802,
+                    "End": 12835
+                },
+                {
+                    "Reply": "Then come here!",
+                    "Didascalie": "",
+                    "Start": 12863,
+                    "End": 12879
+                }
+            ]
+        },
+        {
+            "Character": "AGAIN",
+            "Replies": [
+                {
+                    "Reply": "the letter D. Try to play a bit faster.",
+                    "Didascalie": "",
+                    "Start": 13114,
+                    "End": 13154
+                }
+            ]
+        },
+        {
+            "Character": "WRONGDOERS",
+            "Replies": [
+                {
+                    "Reply": "PASTOR: You probably agree with me, that I cannot leave your offense unpunished, if we want keep living in mutual respect. So, tomorrow evening at this hour, I shall give each of you 10 strokes of the cane. Until then, you have time to ponder over your offense. Do you agree with me?",
+                    "Didascalie": "",
+                    "Start": 15513,
+                    "End": 15845
+                }
+            ]
+        },
+        {
+            "Character": "MARIE AND MARTIN",
+            "Replies": [
+                {
+                    "Reply": "Yes, Father.",
+                    "Didascalie": "",
+                    "Start": 15870,
+                    "End": 15883
+                },
+                {
+                    "Reply": "Good evening, Sir.",
+                    "Didascalie": "",
+                    "Start": 169995,
+                    "End": 170014
+                }
+            ]
+        },
+        {
+            "Character": "PASTOR",
+            "Replies": [
+                {
+                    "Reply": "All right then. Go to bed now, all of you.",
+                    "Didascalie": "",
+                    "Start": 15899,
+                    "End": 15950
+                },
+                {
+                    "Reply": "I refuse to be touched by you. Your mother and I will sleep poorly because we know I have to hurt you tomorrow, and because it will more painful to us than the strokes will be painful to you. Leave us alone and go to bed.",
+                    "Didascalie": "",
+                    "Start": 16156,
+                    "End": 16410
+                },
+                {
+                    "Reply": "When you were small, your mother once in a while would tie a ribbon in your hair or around your arm. Its white color was to remind you of innocence and purity. I thought that at your age you were well-mannered enough to get by without such reminders. I was wrong. Tomorrow, once you've been purified by your punishment, 9  your mother will tie such a ribbon on you again, and you'll wear it until your behavior shows us that we can trust you again.",
+                    "Didascalie": "",
+                    "Start": 16483,
+                    "End": 17063
+                },
+                {
+                    "Reply": "There.",
+                    "Didascalie": "",
+                    "Start": 34352,
+                    "End": 34359
+                },
+                {
+                    "Reply": "This will remain on you until we're all sure you have learned how to fight bad thoughts and manners. You're well aware, this year you will receive Christ's body in the form of bread and wine. Until then, strive to be free of sinful thoughts. Now let's eat.",
+                    "Didascalie": "",
+                    "Start": 35437,
+                    "End": 35734
+                },
+                {
+                    "Reply": "Amen. Blessed be this meal.",
+                    "Didascalie": "",
+                    "Start": 36443,
+                    "End": 36471
+                },
+                {
+                    "Reply": "What do you want?",
+                    "Didascalie": "",
+                    "Start": 53883,
+                    "End": 53901
+                },
+                {
+                    "Reply": "Yes?",
+                    "Didascalie": "",
+                    "Start": 54003,
+                    "End": 54008
+                },
+                {
+                    "Reply": "So what?",
+                    "Didascalie": "",
+                    "Start": 54240,
+                    "End": 54249
+                },
+                {
+                    "Reply": "What do you want?",
+                    "Didascalie": "",
+                    "Start": 54326,
+                    "End": 54344
+                },
+                {
+                    "Reply": "How do you plan to do that?",
+                    "Didascalie": "",
+                    "Start": 54531,
+                    "End": 54559
+                },
+                {
+                    "Reply": "Have you already asked Mother?",
+                    "Didascalie": "",
+                    "Start": 55374,
+                    "End": 55405
+                },
+                {
+                    "Reply": "And? What did she say?",
+                    "Didascalie": "",
+                    "Start": 55443,
+                    "End": 55466
+                },
+                {
+                    "Reply": "You'll really to take care of it? That's a heavy responsibility. You know that, don't you?",
+                    "Didascalie": "",
+                    "Start": 55684,
+                    "End": 55791
+                },
+                {
+                    "Reply": "Well. You're its father and mother now.",
+                    "Didascalie": "",
+                    "Start": 55941,
+                    "End": 55981
+                },
+                {
+                    "Reply": "Your mother and I are deeply worried about you. Think about it. Are you sleeping badly? Are you overtired?",
+                    "Didascalie": "",
+                    "Start": 81072,
+                    "End": 81195
+                },
+                {
+                    "Reply": "Do you have problems in school that I don't know?",
+                    "Didascalie": "",
+                    "Start": 81290,
+                    "End": 81347
+                },
+                {
+                    "Reply": "So, according to you: what caused these changes that led to the miserable end of this boy?",
+                    "Didascalie": "",
+                    "Start": 83117,
+                    "End": 83224
+                },
+                {
+                    "Reply": "I think you know well.",
+                    "Didascalie": "",
+                    "Start": 83356,
+                    "End": 83379
+                },
+                {
+                    "Reply": "Is that all?",
+                    "Didascalie": "",
+                    "Start": 84541,
+                    "End": 84554
+                },
+                {
+                    "Reply": "Well, Martin, why are you crying? Shall I spare you that confession? You too have done what that wretched boy did, haven't you?",
+                    "Didascalie": "",
+                    "Start": 84988,
+                    "End": 85132
+                },
+                {
+                    "Reply": "... I take of this ribbon from you, in the belief that from now on you'll no longer need it.",
+                    "Didascalie": "",
+                    "Start": 111987,
+                    "End": 112096
+                },
+                {
+                    "Reply": "Good-bye.",
+                    "Didascalie": "",
+                    "Start": 118593,
+                    "End": 118603
+                },
+                {
+                    "Reply": "Accept and drink!",
+                    "Didascalie": "",
+                    "Start": 138752,
+                    "End": 138770
+                },
+                {
+                    "Reply": "Come in!",
+                    "Didascalie": "",
+                    "Start": 149811,
+                    "End": 149820
+                },
+                {
+                    "Reply": "Yes?",
+                    "Didascalie": "",
+                    "Start": 150075,
+                    "End": 150080
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 150681,
+                    "End": 150692
+                },
+                {
+                    "Reply": "Well, how can I help you?",
+                    "Didascalie": "",
+                    "Start": 176539,
+                    "End": 176565
+                },
+                {
+                    "Reply": "Locked it?",
+                    "Didascalie": "",
+                    "Start": 177238,
+                    "End": 177249
+                },
+                {
+                    "Reply": "Xenia... Wasn't his daughter in school?",
+                    "Didascalie": "",
+                    "Start": 178047,
+                    "End": 178087
+                },
+                {
+                    "Reply": "know how to say it. I have the feeling they're hiding something.",
+                    "Didascalie": "",
+                    "Start": 178918,
+                    "End": 178992
+                }
+            ]
+        },
+        {
+            "Character": "POLICEMAN",
+            "Replies": [
+                {
+                    "Reply": "Where is the wire now?",
+                    "Didascalie": "",
+                    "Start": 17548,
+                    "End": 17571
+                },
+                {
+                    "Reply": "Then who took it away?",
+                    "Didascalie": "",
+                    "Start": 17645,
+                    "End": 17668
+                },
+                {
+                    "Reply": "You weren't here?",
+                    "Didascalie": "",
+                    "Start": 17716,
+                    "End": 17734
+                },
+                {
+                    "Reply": "Did   you   accompany   your   father?   To town?",
+                    "Didascalie": "",
+                    "Start": 17797,
+                    "End": 17855
+                },
+                {
+                    "Reply": "That means you were here.",
+                    "Didascalie": "",
+                    "Start": 17893,
+                    "End": 17919
+                },
+                {
+                    "Reply": "And when you left for school, the wire was still here?",
+                    "Didascalie": "",
+                    "Start": 17977,
+                    "End": 18040
+                },
+                {
+                    "Reply": "Since when?",
+                    "Didascalie": "",
+                    "Start": 18320,
+                    "End": 18332
+                },
+                {
+                    "Reply": "But you didn't see anything?",
+                    "Didascalie": "",
+                    "Start": 18557,
+                    "End": 18586
+                },
+                {
+                    "Reply": "Do you have any idea how long the wire had been there?",
+                    "Didascalie": "",
+                    "Start": 18626,
+                    "End": 18689
+                }
+            ]
+        },
+        {
+            "Character": "EXCITED",
+            "Replies": [
+                {
+                    "Reply": "HANS: Mother! ... Look! ...Look... come!",
+                    "Didascalie": "",
+                    "Start": 19104,
+                    "End": 19145
+                }
+            ]
+        },
+        {
+            "Character": "ANGRILY",
+            "Replies": [
+                {
+                    "Reply": "BATHING-MIDWIFE: You stay outside! I haven't yet...",
+                    "Didascalie": "",
+                    "Start": 20980,
+                    "End": 21041
+                },
+                {
+                    "Reply": "I told you to untie me!!",
+                    "Didascalie": "",
+                    "Start": 99609,
+                    "End": 99634
+                }
+            ]
+        },
+        {
+            "Character": "ENCOUNTER",
+            "Replies": [
+                {
+                    "Reply": "the weather was beautiful and hot, so I decided to try and improve my meager menu with some brown trout, which are plentiful in the river. The landowner apparently liked me, and allowed me to fish.",
+                    "Didascalie": "",
+                    "Start": 21919,
+                    "End": 22149
+                }
+            ]
+        },
+        {
+            "Character": "MATTI",
+            "Replies": [
+                {
+                    "Reply": "There. Be careful. Everything's rotten here.",
+                    "Didascalie": "",
+                    "Start": 25660,
+                    "End": 25713
+                },
+                {
+                    "Reply": "I haven't a clue. They told us to collect all the lose ends. She just climbed up there.",
+                    "Didascalie": "",
+                    "Start": 25907,
+                    "End": 26002
+                }
+            ]
+        },
+        {
+            "Character": "CAREFULLY AND TURNS TO MATTI",
+            "Replies": [
+                {
+                    "Reply": "FRANZ: Who made her climb up here?",
+                    "Didascalie": "",
+                    "Start": 25858,
+                    "End": 25893
+                }
+            ]
+        },
+        {
+            "Character": "FRANZ",
+            "Replies": [
+                {
+                    "Reply": "She could never stand heights. It made her dizzy.",
+                    "Didascalie": "",
+                    "Start": 26016,
+                    "End": 26073
+                },
+                {
+                    "Reply": "Who picked her?",
+                    "Didascalie": "",
+                    "Start": 26327,
+                    "End": 26343
+                },
+                {
+                    "Reply": "I went to the sawmill.",
+                    "Didascalie": "",
+                    "Start": 39485,
+                    "End": 39508
+                },
+                {
+                    "Reply": "I...",
+                    "Didascalie": "",
+                    "Start": 40428,
+                    "End": 40433
+                },
+                {
+                    "Reply": "Good morning, Father.",
+                    "Didascalie": "",
+                    "Start": 74639,
+                    "End": 74661
+                }
+            ]
+        },
+        {
+            "Character": "EVA",
+            "Replies": [
+                {
+                    "Reply": "Who says that?",
+                    "Didascalie": "",
+                    "Start": 27285,
+                    "End": 27300
+                },
+                {
+                    "Reply": "Oh. So what?",
+                    "Didascalie": "",
+                    "Start": 27355,
+                    "End": 27368
+                },
+                {
+                    "Reply": "I know.",
+                    "Didascalie": "",
+                    "Start": 27627,
+                    "End": 27635
+                },
+                {
+                    "Reply": "The Baroness already told me.",
+                    "Didascalie": "",
+                    "Start": 27688,
+                    "End": 27718
+                },
+                {
+                    "Reply": "That the schoolteacher is from the village next to mine.",
+                    "Didascalie": "",
+                    "Start": 27842,
+                    "End": 27906
+                },
+                {
+                    "Reply": "Where?",
+                    "Didascalie": "",
+                    "Start": 28091,
+                    "End": 28098
+                },
+                {
+                    "Reply": "Yes, I am.",
+                    "Didascalie": "",
+                    "Start": 28267,
+                    "End": 28278
+                },
+                {
+                    "Reply": "What?!",
+                    "Didascalie": "",
+                    "Start": 28679,
+                    "End": 28686
+                },
+                {
+                    "Reply": "Well, how...",
+                    "Didascalie": "",
+                    "Start": 28968,
+                    "End": 28981
+                },
+                {
+                    "Reply": "I don't think that's a very good idea.",
+                    "Didascalie": "",
+                    "Start": 29606,
+                    "End": 29645
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 29803,
+                    "End": 29808
+                },
+                {
+                    "Reply": "Yes, I am.",
+                    "Didascalie": "",
+                    "Start": 30240,
+                    "End": 30251
+                },
+                {
+                    "Reply": "Good-bye.",
+                    "Didascalie": "",
+                    "Start": 30525,
+                    "End": 30535
+                },
+                {
+                    "Reply": "I don't know your father.",
+                    "Didascalie": "",
+                    "Start": 30713,
+                    "End": 30739
+                },
+                {
+                    "Reply": "Eighteen, Sir.",
+                    "Didascalie": "",
+                    "Start": 47390,
+                    "End": 47405
+                },
+                {
+                    "Reply": "I never learned it.",
+                    "Didascalie": "",
+                    "Start": 51459,
+                    "End": 51479
+                },
+                {
+                    "Reply": "Aren't you afraid your students might laugh at you, when they see you dancing with me that way, sir.",
+                    "Didascalie": "",
+                    "Start": 51732,
+                    "End": 51849
+                },
+                {
+                    "Reply": "One. Two. Three. One. Two. Three. One. Two.",
+                    "Didascalie": "",
+                    "Start": 52027,
+                    "End": 52071
+                },
+                {
+                    "Reply": "Well.",
+                    "Didascalie": "",
+                    "Start": 52172,
+                    "End": 52178
+                },
+                {
+                    "Reply": "They fired me.",
+                    "Didascalie": "",
+                    "Start": 70170,
+                    "End": 70185
+                },
+                {
+                    "Reply": "Suddenly, in the middle of a sentence, she bursts into floods of tears. At the same time she turns away from the schoolteacher. He goes over to her, and stops in front of her, but is too shy to touch her. Suddenly she turns to him again and says, sobbing:  I don't know where to go. I can't go back home in the middle of the night. I'm afraid to walk on the road all alone.",
+                    "Didascalie": "",
+                    "Start": 70366,
+                    "End": 70764
+                },
+                {
+                    "Reply": "The son of the Baron isn't at all well. His parents are angry and desperate. Now they say that it's the tutor's and my fault, because we didn't pay enough attention to him. But I'm only there for the twins.",
+                    "Didascalie": "",
+                    "Start": 71468,
+                    "End": 71707
+                },
+                {
+                    "Reply": "Where shall I go now? We need the money I was earning here.",
+                    "Didascalie": "",
+                    "Start": 71983,
+                    "End": 72051
+                },
+                {
+                    "Reply": "To beat a child that way.",
+                    "Didascalie": "",
+                    "Start": 73093,
+                    "End": 73119
+                },
+                {
+                    "Reply": "I'll just wait for the daylight to come.",
+                    "Didascalie": "",
+                    "Start": 73366,
+                    "End": 73407
+                },
+                {
+                    "Reply": "What did you say?",
+                    "Didascalie": "",
+                    "Start": 73794,
+                    "End": 73812
+                },
+                {
+                    "Reply": "And why should you do that, Sir.",
+                    "Didascalie": "",
+                    "Start": 73966,
+                    "End": 73999
+                },
+                {
+                    "Reply": "And the Baron?",
+                    "Didascalie": "",
+                    "Start": 92730,
+                    "End": 92745
+                },
+                {
+                    "Reply": "To Italy? Really.",
+                    "Didascalie": "",
+                    "Start": 92905,
+                    "End": 92923
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 98158,
+                    "End": 98163
+                },
+                {
+                    "Reply": "Is that all right with you, sir?",
+                    "Didascalie": "",
+                    "Start": 98243,
+                    "End": 98276
+                },
+                {
+                    "Reply": "the twins were more fun, I must say.",
+                    "Didascalie": "",
+                    "Start": 135301,
+                    "End": 135338
+                },
+                {
+                    "Reply": "Oh, you of course!",
+                    "Didascalie": "",
+                    "Start": 136003,
+                    "End": 136022
+                },
+                {
+                    "Reply": "I see.",
+                    "Didascalie": "",
+                    "Start": 136620,
+                    "End": 136627
+                },
+                {
+                    "Reply": "Where are you going?",
+                    "Didascalie": "",
+                    "Start": 136810,
+                    "End": 136831
+                },
+                {
+                    "Reply": "Nothing. Please.",
+                    "Didascalie": "",
+                    "Start": 137173,
+                    "End": 137190
+                },
+                {
+                    "Reply": "Please.",
+                    "Didascalie": "",
+                    "Start": 137539,
+                    "End": 137547
+                },
+                {
+                    "Reply": "Thanks.",
+                    "Didascalie": "",
+                    "Start": 137919,
+                    "End": 137927
+                }
+            ]
+        },
+        {
+            "Character": "REGRETFULLY",
+            "Replies": [
+                {
+                    "Reply": "EVA: Neither have I. Unfortunately.",
+                    "Didascalie": "",
+                    "Start": 29308,
+                    "End": 29344
+                }
+            ]
+        },
+        {
+            "Character": "LAUGHING",
+            "Replies": [
+                {
+                    "Reply": "EVA: I only learned to ride a bicycle today!",
+                    "Didascalie": "",
+                    "Start": 30952,
+                    "End": 30997
+                }
+            ]
+        },
+        {
+            "Character": "RUDOLPH",
+            "Replies": [
+                {
+                    "Reply": "The woman today. What was wrong with her?",
+                    "Didascalie": "",
+                    "Start": 31495,
+                    "End": 31545
+                },
+                {
+                    "Reply": "What's that?",
+                    "Didascalie": "",
+                    "Start": 31644,
+                    "End": 31657
+                },
+                {
+                    "Reply": "Dead.",
+                    "Didascalie": "",
+                    "Start": 31695,
+                    "End": 31701
+                },
+                {
+                    "Reply": "When does one stop living?",
+                    "Didascalie": "",
+                    "Start": 31874,
+                    "End": 31901
+                },
+                {
+                    "Reply": "And the woman?",
+                    "Didascalie": "",
+                    "Start": 32156,
+                    "End": 32171
+                },
+                {
+                    "Reply": "An accident?",
+                    "Didascalie": "",
+                    "Start": 32224,
+                    "End": 32237
+                },
+                {
+                    "Reply": "Like Dad?",
+                    "Didascalie": "",
+                    "Start": 32324,
+                    "End": 32334
+                },
+                {
+                    "Reply": "And then you're dead?",
+                    "Didascalie": "",
+                    "Start": 32481,
+                    "End": 32503
+                },
+                {
+                    "Reply": "That means they don't need to die?",
+                    "Didascalie": "",
+                    "Start": 32603,
+                    "End": 32638
+                },
+                {
+                    "Reply": "When?",
+                    "Didascalie": "",
+                    "Start": 32695,
+                    "End": 32701
+                },
+                {
+                    "Reply": "Do all people die?",
+                    "Didascalie": "",
+                    "Start": 32845,
+                    "End": 32864
+                },
+                {
+                    "Reply": "All of them, really?",
+                    "Didascalie": "",
+                    "Start": 32899,
+                    "End": 32920
+                },
+                {
+                    "Reply": "But not you, Xeni?",
+                    "Didascalie": "",
+                    "Start": 32970,
+                    "End": 32989
+                },
+                {
+                    "Reply": "But not Dad?",
+                    "Didascalie": "",
+                    "Start": 33037,
+                    "End": 33050
+                },
+                {
+                    "Reply": "Me too?",
+                    "Didascalie": "",
+                    "Start": 33089,
+                    "End": 33097
+                },
+                {
+                    "Reply": "And you can't do anything against it?",
+                    "Didascalie": "",
+                    "Start": 33218,
+                    "End": 33256
+                },
+                {
+                    "Reply": "And Mom? She didn't go on a trip?",
+                    "Didascalie": "",
+                    "Start": 33395,
+                    "End": 33429
+                },
+                {
+                    "Reply": "Is she dead too?",
+                    "Didascalie": "",
+                    "Start": 33453,
+                    "End": 33470
+                },
+                {
+                    "Reply": "All right. Then, I don't want to see you either.",
+                    "Didascalie": "",
+                    "Start": 78958,
+                    "End": 79007
+                },
+                {
+                    "Reply": "The doctor spins around, and looks stunned to his young son. Both look as if they have been caught red-handed.",
+                    "Didascalie": "",
+                    "Start": 121433,
+                    "End": 121544
+                },
+                {
+                    "Reply": "I woke up and you weren't there.",
+                    "Didascalie": "",
+                    "Start": 121902,
+                    "End": 121935
+                },
+                {
+                    "Reply": "Does it hurt?",
+                    "Didascalie": "",
+                    "Start": 122077,
+                    "End": 122091
+                },
+                {
+                    "Reply": "That's why you're crying?",
+                    "Didascalie": "",
+                    "Start": 122135,
+                    "End": 122161
+                }
+            ]
+        },
+        {
+            "Character": "TURNS TO HIS WIFE",
+            "Replies": [
+                {
+                    "Reply": "PASTOR: Now the ribbon, Anna.",
+                    "Didascalie": "",
+                    "Start": 35280,
+                    "End": 35310
+                }
+            ]
+        },
+        {
+            "Character": "AROUND",
+            "Replies": [
+                {
+                    "Reply": "his 14-year old brother Paul is sitting on a bench against the wall. He too only wears a shirt.",
+                    "Didascalie": "",
+                    "Start": 37307,
+                    "End": 37403
+                }
+            ]
+        },
+        {
+            "Character": "FERDINAND",
+            "Replies": [
+                {
+                    "Reply": "Oh God!",
+                    "Didascalie": "",
+                    "Start": 38553,
+                    "End": 38561
+                },
+                {
+                    "Reply": "Pff!",
+                    "Didascalie": "",
+                    "Start": 38716,
+                    "End": 38721
+                },
+                {
+                    "Reply": "Well...",
+                    "Didascalie": "",
+                    "Start": 90922,
+                    "End": 90930
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 91185,
+                    "End": 91190
+                },
+                {
+                    "Reply": "Wait! I'm coming down!",
+                    "Didascalie": "",
+                    "Start": 114443,
+                    "End": 114466
+                }
+            ]
+        },
+        {
+            "Character": "FARMER",
+            "Replies": [
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 39458,
+                    "End": 39470
+                },
+                {
+                    "Reply": "Go and cut off his head of with your scythe. Sure, that'll bring your mother back to life.",
+                    "Didascalie": "",
+                    "Start": 40449,
+                    "End": 40556
+                },
+                {
+                    "Reply": "What did you intend to do?",
+                    "Didascalie": "",
+                    "Start": 58136,
+                    "End": 58163
+                },
+                {
+                    "Reply": "Well?",
+                    "Didascalie": "",
+                    "Start": 58272,
+                    "End": 58278
+                },
+                {
+                    "Reply": "Tell me.",
+                    "Didascalie": "",
+                    "Start": 58294,
+                    "End": 58303
+                },
+                {
+                    "Reply": "But I don't know the opposite either.",
+                    "Didascalie": "",
+                    "Start": 60110,
+                    "End": 60148
+                }
+            ]
+        },
+        {
+            "Character": "WITH FURY AND DESPAIR",
+            "Replies": [
+                {
+                    "Reply": "FARMER: Shut up!",
+                    "Didascalie": "",
+                    "Start": 40793,
+                    "End": 40810
+                }
+            ]
+        },
+        {
+            "Character": "BEST",
+            "Replies": [
+                {
+                    "Reply": "Farmers,  seasonal-workers,   people  from   the village, children and teenagers.",
+                    "Didascalie": "",
+                    "Start": 42303,
+                    "End": 42385
+                }
+            ]
+        },
+        {
+            "Character": "HARVESTER",
+            "Replies": [
+                {
+                    "Reply": "...with our songs and our prayers We've gathered the rye and given that crown to your lordship.",
+                    "Didascalie": "",
+                    "Start": 42627,
+                    "End": 42739
+                }
+            ]
+        },
+        {
+            "Character": "BARON",
+            "Replies": [
+                {
+                    "Reply": "Enjoy your meal!! Eat and drink as much as you wish. You deserve it.",
+                    "Didascalie": "",
+                    "Start": 44284,
+                    "End": 44362
+                },
+                {
+                    "Reply": "Quite a job, isn't it?!",
+                    "Didascalie": "",
+                    "Start": 52904,
+                    "End": 52928
+                },
+                {
+                    "Reply": "...What do you mean \"not there\"?",
+                    "Didascalie": "",
+                    "Start": 60318,
+                    "End": 60351
+                },
+                {
+                    "Reply": "Nonsense. He can't have vanished     into thin air. When did you see him last?",
+                    "Didascalie": "",
+                    "Start": 60477,
+                    "End": 60564
+                },
+                {
+                    "Reply": "You're even too stupid for that.",
+                    "Didascalie": "",
+                    "Start": 61257,
+                    "End": 61290
+                },
+                {
+                    "Reply": "Where did you see my son for the last time?",
+                    "Didascalie": "",
+                    "Start": 61452,
+                    "End": 61503
+                },
+                {
+                    "Reply": "Where?",
+                    "Didascalie": "",
+                    "Start": 61620,
+                    "End": 61627
+                },
+                {
+                    "Reply": "And      my   wife   didn't   notice   anything either?",
+                    "Didascalie": "",
+                    "Start": 61675,
+                    "End": 61738
+                },
+                {
+                    "Reply": "In the meantime I'll go round up the men.",
+                    "Didascalie": "",
+                    "Start": 63106,
+                    "End": 63148
+                },
+                {
+                    "Reply": "Don't run away, Felder. It's your honor I want to salvage.",
+                    "Didascalie": "",
+                    "Start": 66403,
+                    "End": 66470
+                },
+                {
+                    "Reply": "... with the birches over there in Aigen that should make about six-thousand cubic meters. Working steadily, they should have finished it within three weeks. If until the end of the month we...",
+                    "Didascalie": "",
+                    "Start": 155049,
+                    "End": 155275
+                },
+                {
+                    "Reply": "What do you mean: you're leaving with the children?",
+                    "Didascalie": "",
+                    "Start": 155607,
+                    "End": 155668
+                },
+                {
+                    "Reply": "May I ask you how you plan to do that?",
+                    "Didascalie": "",
+                    "Start": 155791,
+                    "End": 155830
+                },
+                {
+                    "Reply": "Well, that's brilliant! And did I miss my chance? Or what?",
+                    "Didascalie": "",
+                    "Start": 156794,
+                    "End": 156862
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 156973,
+                    "End": 156979
+                },
+                {
+                    "Reply": "Actually, what is the problem that has to be solved?",
+                    "Didascalie": "",
+                    "Start": 157027,
+                    "End": 157088
+                },
+                {
+                    "Reply": "Did you sleep with him?",
+                    "Didascalie": "",
+                    "Start": 158537,
+                    "End": 158561
+                },
+                {
+                    "Reply": "Did you sleep with him?",
+                    "Didascalie": "",
+                    "Start": 158666,
+                    "End": 158690
+                },
+                {
+                    "Reply": "You're lying, aren't you?",
+                    "Didascalie": "",
+                    "Start": 158777,
+                    "End": 158803
+                },
+                {
+                    "Reply": "They've shot the heir to the throne of Austria. In Sarajevo.",
+                    "Didascalie": "",
+                    "Start": 160221,
+                    "End": 160289
+                }
+            ]
+        },
+        {
+            "Character": "EMMA",
+            "Replies": [
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 46933,
+                    "End": 46938
+                },
+                {
+                    "Reply": "For God's sake, Georg, what are you doing?",
+                    "Didascalie": "",
+                    "Start": 152702,
+                    "End": 152745
+                },
+                {
+                    "Reply": "What's going on? What are you talking about?",
+                    "Didascalie": "",
+                    "Start": 153201,
+                    "End": 153254
+                },
+                {
+                    "Reply": "Georg! Please! Stop it! Don't kill him...!",
+                    "Didascalie": "",
+                    "Start": 154705,
+                    "End": 154748
+                }
+            ]
+        },
+        {
+            "Character": "BESIDE EVA",
+            "Replies": [
+                {
+                    "Reply": "How old are you anyway?",
+                    "Didascalie": "",
+                    "Start": 47354,
+                    "End": 47378
+                }
+            ]
+        },
+        {
+            "Character": "THINK THAT IDIOT DOES",
+            "Replies": [
+                {
+                    "Reply": "he starts to crow! He crows, shouting: I'm the rooster on the steeple.",
+                    "Didascalie": "",
+                    "Start": 49360,
+                    "End": 49439
+                }
+            ]
+        },
+        {
+            "Character": "LENI",
+            "Replies": [
+                {
+                    "Reply": "I'm coming. I haven't got a magic wand.",
+                    "Didascalie": "",
+                    "Start": 50184,
+                    "End": 50224
+                },
+                {
+                    "Reply": "It seems somebody saw you.",
+                    "Didascalie": "",
+                    "Start": 57243,
+                    "End": 57270
+                }
+            ]
+        },
+        {
+            "Character": "FIRST FARMHAND",
+            "Replies": [
+                {
+                    "Reply": "All over. Front and backside.",
+                    "Didascalie": "",
+                    "Start": 50433,
+                    "End": 50463
+                }
+            ]
+        },
+        {
+            "Character": "SECOND FARMHAND",
+            "Replies": [
+                {
+                    "Reply": "You like her that much? Go and help her.",
+                    "Didascalie": "",
+                    "Start": 50697,
+                    "End": 50747
+                }
+            ]
+        },
+        {
+            "Character": "FIRST TENANT FARMER",
+            "Replies": [
+                {
+                    "Reply": "What's that?",
+                    "Didascalie": "",
+                    "Start": 51071,
+                    "End": 51084
+                }
+            ]
+        },
+        {
+            "Character": "BARONESS",
+            "Replies": [
+                {
+                    "Reply": "This is disgusting.",
+                    "Didascalie": "",
+                    "Start": 53017,
+                    "End": 53037
+                },
+                {
+                    "Reply": "Stay   here,   Sigi,   you   can   see   him later.",
+                    "Didascalie": "",
+                    "Start": 114596,
+                    "End": 114655
+                },
+                {
+                    "Reply": "I won't stay here.",
+                    "Didascalie": "",
+                    "Start": 155436,
+                    "End": 155455
+                },
+                {
+                    "Reply": "What I mean is that I shall leave with the children.",
+                    "Didascalie": "",
+                    "Start": 155529,
+                    "End": 155591
+                },
+                {
+                    "Reply": "Come  on,   Armin!  It's   not   that difficult to understand, is it?",
+                    "Didascalie": "",
+                    "Start": 155689,
+                    "End": 155768
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 156036,
+                    "End": 156041
+                },
+                {
+                    "Reply": "Good night.",
+                    "Didascalie": "",
+                    "Start": 156464,
+                    "End": 156476
+                },
+                {
+                    "Reply": "I returned from Italy only out of deceny toward you. I wanted to give us a chance.",
+                    "Didascalie": "",
+                    "Start": 156585,
+                    "End": 156676
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 156773,
+                    "End": 156778
+                },
+                {
+                    "Reply": "Your sarcasm.",
+                    "Didascalie": "",
+                    "Start": 156998,
+                    "End": 157012
+                },
+                {
+                    "Reply": "Fine.",
+                    "Didascalie": "",
+                    "Start": 157356,
+                    "End": 157362
+                },
+                {
+                    "Reply": "What's going on?",
+                    "Didascalie": "",
+                    "Start": 160124,
+                    "End": 160141
+                }
+            ]
+        },
+        {
+            "Character": "FLORIAN",
+            "Replies": [
+                {
+                    "Reply": "I have found it. It's wounded.",
+                    "Didascalie": "",
+                    "Start": 54266,
+                    "End": 54297
+                },
+                {
+                    "Reply": "We'll heal it.",
+                    "Didascalie": "",
+                    "Start": 54575,
+                    "End": 54590
+                },
+                {
+                    "Reply": "\"Pipsi\" also lives in a cage.",
+                    "Didascalie": "",
+                    "Start": 54893,
+                    "End": 54923
+                },
+                {
+                    "Reply": "She said, it was for Father to decide.",
+                    "Didascalie": "",
+                    "Start": 55482,
+                    "End": 55521
+                },
+                {
+                    "Reply": "Thanks, Father!",
+                    "Didascalie": "",
+                    "Start": 56290,
+                    "End": 56306
+                },
+                {
+                    "Reply": "What's going on?",
+                    "Didascalie": "",
+                    "Start": 99946,
+                    "End": 99963
+                },
+                {
+                    "Reply": "It's burning?",
+                    "Didascalie": "",
+                    "Start": 100119,
+                    "End": 100133
+                },
+                {
+                    "Reply": "Shall I call Mother?",
+                    "Didascalie": "",
+                    "Start": 100977,
+                    "End": 100998
+                }
+            ]
+        },
+        {
+            "Character": "TURNS TO FLORIAN AGAIN",
+            "Replies": [
+                {
+                    "Reply": "PASTOR: Yes, but Pipsi grew up in captivity.",
+                    "Didascalie": "",
+                    "Start": 55012,
+                    "End": 55057
+                },
+                {
+                    "Reply": ": This one is used to living in freedom.",
+                    "Didascalie": "(nodding at Florian's bird)",
+                    "Start": 55092,
+                    "End": 55141
+                }
+            ]
+        },
+        {
+            "Character": "FARMER GOES ON",
+            "Replies": [
+                {
+                    "Reply": "without the help of the manor, tell me?",
+                    "Didascalie": "",
+                    "Start": 59608,
+                    "End": 59648
+                }
+            ]
+        },
+        {
+            "Character": "FRANZ TURNS TO HIM ABRUPTLY",
+            "Replies": [
+                {
+                    "Reply": "FRANZ: And how do you know they're innocent?",
+                    "Didascalie": "",
+                    "Start": 59902,
+                    "End": 59947
+                }
+            ]
+        },
+        {
+            "Character": "VARIOUS LANDSCAPES",
+            "Replies": [
+                {
+                    "Reply": "FOREST, FIELD, RIVER MEADOWS.",
+                    "Didascalie": "",
+                    "Start": 64068,
+                    "End": 64098
+                }
+            ]
+        },
+        {
+            "Character": "SURE",
+            "Replies": [
+                {
+                    "Reply": "the senior Felder would rather bite off his tongue, than cover for his wayward son. May I remind you something what most of you have already forgotten. Almost two months ago, the doctor had a riding accident and he has still not returned from the hospital. This accident was caused by a wire that had been strung in his garden with the explicit intent of bringing him down. And in that case too, nobody knows anything, saw anything or heard anything.",
+                    "Didascalie": "",
+                    "Start": 66757,
+                    "End": 67280
+                }
+            ]
+        },
+        {
+            "Character": "SHE STARTS TO SOB AGAIN",
+            "Replies": [
+                {
+                    "Reply": "I've always taken care of them very well. When you and I were dancing, the Baroness had given me permission. I haven't done anything wrong, really.",
+                    "Didascalie": "",
+                    "Start": 71742,
+                    "End": 71914
+                }
+            ]
+        },
+        {
+            "Character": "SUDDENLY SHE STARTS TO CRY AGAIN",
+            "Replies": [
+                {
+                    "Reply": "They won't understand this,      at   home.   They'll think I did something wrong.",
+                    "Didascalie": "",
+                    "Start": 73500,
+                    "End": 73591
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR",
+            "Replies": [
+                {
+                    "Reply": "Rudi? Where are you?",
+                    "Didascalie": "",
+                    "Start": 78207,
+                    "End": 78228
+                },
+                {
+                    "Reply": "Why do you tell me that?",
+                    "Didascalie": "",
+                    "Start": 79835,
+                    "End": 79860
+                },
+                {
+                    "Reply": "Has she taken good care of you?",
+                    "Didascalie": "",
+                    "Start": 80013,
+                    "End": 80045
+                },
+                {
+                    "Reply": "Careful, my arm.",
+                    "Didascalie": "",
+                    "Start": 85665,
+                    "End": 85682
+                },
+                {
+                    "Reply": "You can say that. Yes.",
+                    "Didascalie": "",
+                    "Start": 86058,
+                    "End": 86081
+                },
+                {
+                    "Reply": "I know.",
+                    "Didascalie": "",
+                    "Start": 86192,
+                    "End": 86200
+                },
+                {
+                    "Reply": "Who?",
+                    "Didascalie": "",
+                    "Start": 86255,
+                    "End": 86260
+                },
+                {
+                    "Reply": "Come on. What are you saying?!",
+                    "Didascalie": "",
+                    "Start": 86562,
+                    "End": 86593
+                },
+                {
+                    "Reply": "There's   nothing   like   a   nice    dose   of self-hate.",
+                    "Didascalie": "",
+                    "Start": 86687,
+                    "End": 86756
+                },
+                {
+                    "Reply": "Nothing. Forget it.",
+                    "Didascalie": "",
+                    "Start": 86797,
+                    "End": 86817
+                },
+                {
+                    "Reply": "Well, it's not pneumonia. But you must be careful. If his temperature rises, call me again. For the time being you must give these drops every two hours. And hang some wet sheets over the oven. That facilitates breathing.",
+                    "Didascalie": "",
+                    "Start": 88608,
+                    "End": 88862
+                },
+                {
+                    "Reply": "And the baby didn't cry?",
+                    "Didascalie": "",
+                    "Start": 89227,
+                    "End": 89252
+                },
+                {
+                    "Reply": "No, thanks. I'm overloaded with work.",
+                    "Didascalie": "",
+                    "Start": 89757,
+                    "End": 89795
+                },
+                {
+                    "Reply": "It's all right. Everything will be fine in two or three weeks.",
+                    "Didascalie": "",
+                    "Start": 90066,
+                    "End": 90136
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "",
+                    "Start": 90368,
+                    "End": 90379
+                },
+                {
+                    "Reply": "Why all the effort? Don't look at me so dumbfounded.",
+                    "Didascalie": "",
+                    "Start": 104321,
+                    "End": 104381
+                },
+                {
+                    "Reply": "ages.",
+                    "Didascalie": "",
+                    "Start": 105974,
+                    "End": 105980
+                },
+                {
+                    "Reply": "Oh God! Please, not that routine!",
+                    "Didascalie": "",
+                    "Start": 106292,
+                    "End": 106326
+                },
+                {
+                    "Reply": "Please spare me these sordid details.",
+                    "Didascalie": "",
+                    "Start": 106610,
+                    "End": 106648
+                },
+                {
+                    "Reply": "According to you: when should it have occurred to me?",
+                    "Didascalie": "",
+                    "Start": 107196,
+                    "End": 107259
+                },
+                {
+                    "Reply": "That's true.",
+                    "Didascalie": "",
+                    "Start": 107577,
+                    "End": 107590
+                },
+                {
+                    "Reply": "Well...",
+                    "Didascalie": "",
+                    "Start": 107911,
+                    "End": 107919
+                },
+                {
+                    "Reply": "That's it. Now leave me alone. I've got work to do.",
+                    "Didascalie": "",
+                    "Start": 108615,
+                    "End": 108675
+                },
+                {
+                    "Reply": "My God, why don't you just die?!",
+                    "Didascalie": "",
+                    "Start": 109431,
+                    "End": 109464
+                }
+            ]
+        },
+        {
+            "Character": "PAUSE",
+            "Replies": [
+                {
+                    "Reply": "I heard you even wanted to visit me at the hospital. And now you lock yourself in?",
+                    "Didascalie": "",
+                    "Start": 78742,
+                    "End": 78834
+                }
+            ]
+        },
+        {
+            "Character": "XENIA   SAYS",
+            "Replies": [
+                {
+                    "Reply": "Everything  is   ready  in   your practice.   Mrs.   Wagner  prepared   everything yesterday.",
+                    "Didascalie": "",
+                    "Start": 79696,
+                    "End": 79806
+                }
+            ]
+        },
+        {
+            "Character": "SAYS",
+            "Replies": [
+                {
+                    "Reply": "DOCTOR: It's amazing how much you look like your mother.",
+                    "Didascalie": "",
+                    "Start": 80288,
+                    "End": 80353
+                },
+                {
+                    "Reply": "Sit down.",
+                    "Didascalie": "",
+                    "Start": 118779,
+                    "End": 118789
+                }
+            ]
+        },
+        {
+            "Character": "TELL YOU BRIEFLY ABOUT",
+            "Replies": [
+                {
+                    "Reply": "As you know, I'm also acting as pastor for the communities of Birkenbrunn and Hebern. In the latter place, some years ago, a mother came to see me. She had noticed that her son, who was about the same age as you, and had the same symptoms that you've been showing for some time.",
+                    "Didascalie": "",
+                    "Start": 81620,
+                    "End": 81934
+                }
+            ]
+        },
+        {
+            "Character": "EVERYTHING WENT VERY FAST",
+            "Replies": [
+                {
+                    "Reply": "he lost his appetite, couldn't sleep any more, his whole face took on the brownish color of the rings under his eyes, his hands began to shake, his memory stated to fail him, he was covered with numerous small pustules, first on his face, then on his whole body and finally he died. The body, which I blessed, looked like the body of an old man.",
+                    "Didascalie": "",
+                    "Start": 82573,
+                    "End": 82975
+                }
+            ]
+        },
+        {
+            "Character": "OVER THIS",
+            "Replies": [
+                {
+                    "Reply": "NARRATOR: Winter came early that year. At the Reformation feast on the first Sunday of November, a deep blanket of snow covered the village.",
+                    "Didascalie": "",
+                    "Start": 87467,
+                    "End": 87632
+                }
+            ]
+        },
+        {
+            "Character": "LIESL",
+            "Replies": [
+                {
+                    "Reply": "Just asking.",
+                    "Didascalie": "",
+                    "Start": 91206,
+                    "End": 91219
+                },
+                {
+                    "Reply": "Yes, he is.",
+                    "Didascalie": "",
+                    "Start": 126001,
+                    "End": 126013
+                },
+                {
+                    "Reply": "Yes. Very much.",
+                    "Didascalie": "",
+                    "Start": 126066,
+                    "End": 126082
+                },
+                {
+                    "Reply": "Yes. Very sick. But the doctor cured him.",
+                    "Didascalie": "",
+                    "Start": 126169,
+                    "End": 126211
+                },
+                {
+                    "Reply": "I'm sure Father will be back for coffee at four.",
+                    "Didascalie": "",
+                    "Start": 126407,
+                    "End": 126464
+                },
+                {
+                    "Reply": "Can I bring you something?      A   cup   of coffee. I'm sure it's ready.",
+                    "Didascalie": "",
+                    "Start": 126689,
+                    "End": 126770
+                },
+                {
+                    "Reply": "Can dreams come true?",
+                    "Didascalie": "",
+                    "Start": 127104,
+                    "End": 127126
+                },
+                {
+                    "Reply": "I mean, if you dream something in your sleep, I mean, if you really dream it in your sleep, can it come true?",
+                    "Didascalie": "",
+                    "Start": 127782,
+                    "End": 127908
+                },
+                {
+                    "Reply": "Thanks.",
+                    "Didascalie": "",
+                    "Start": 128705,
+                    "End": 128713
+                },
+                {
+                    "Reply": "- ...that something very bad is going to happen to him.",
+                    "Didascalie": "",
+                    "Start": 129149,
+                    "End": 129213
+                },
+                {
+                    "Reply": "I don't know. Something like what happened to Sigi not long ago. But even worse.",
+                    "Didascalie": "",
+                    "Start": 129325,
+                    "End": 129414
+                }
+            ]
+        },
+        {
+            "Character": "EVA SAYS",
+            "Replies": [
+                {
+                    "Reply": "And Sigi?",
+                    "Didascalie": "",
+                    "Start": 92633,
+                    "End": 92643
+                },
+                {
+                    "Reply": "And how is the nurse? Does she only speak Italian?",
+                    "Didascalie": "",
+                    "Start": 136463,
+                    "End": 136521
+                }
+            ]
+        },
+        {
+            "Character": "FATHER",
+            "Replies": [
+                {
+                    "Reply": "Good morning, young man.",
+                    "Didascalie": "",
+                    "Start": 93735,
+                    "End": 93760
+                },
+                {
+                    "Reply": "Please be seated. We're not very formal here.",
+                    "Didascalie": "",
+                    "Start": 93794,
+                    "End": 93848
+                },
+                {
+                    "Reply": "So   you're a schoolteacher.",
+                    "Didascalie": "",
+                    "Start": 94577,
+                    "End": 94606
+                },
+                {
+                    "Reply": "Can you afford to have a wife?",
+                    "Didascalie": "",
+                    "Start": 94651,
+                    "End": 94682
+                },
+                {
+                    "Reply": "You should have taken over your father's business, that would have been smarter.",
+                    "Didascalie": "",
+                    "Start": 94871,
+                    "End": 94961
+                },
+                {
+                    "Reply": "Let's be serious: do you know whether she's willing to get married. She's still a child. She hasn't seen anything of the world.",
+                    "Didascalie": "",
+                    "Start": 95335,
+                    "End": 95479
+                },
+                {
+                    "Reply": "Come on. Don't make such a fuss. He walked all the way over through the fresh snow.",
+                    "Didascalie": "",
+                    "Start": 95582,
+                    "End": 95674
+                },
+                {
+                    "Reply": "How can I? If she keeps her mouth shut!",
+                    "Didascalie": "",
+                    "Start": 95803,
+                    "End": 95843
+                },
+                {
+                    "Reply": "Yes, I do.",
+                    "Didascalie": "",
+                    "Start": 97271,
+                    "End": 97282
+                },
+                {
+                    "Reply": "That's it. I'm pleased. Well, business is waiting. Even on holidays. I'll send the girl back in so that you can say good-bye. A year goes by fast. The world won't collapse. And during your holidays you can come and visit her.",
+                    "Didascalie": "",
+                    "Start": 97383,
+                    "End": 97641
+                }
+            ]
+        },
+        {
+            "Character": "MOTHER",
+            "Replies": [
+                {
+                    "Reply": "Really?",
+                    "Didascalie": "",
+                    "Start": 94295,
+                    "End": 94303
+                },
+                {
+                    "Reply": "Why don't you leave her alone.         Of course, she wants him. Can't you feel that?!",
+                    "Didascalie": "",
+                    "Start": 95691,
+                    "End": 95787
+                },
+                {
+                    "Reply": "What's going on here?",
+                    "Didascalie": "",
+                    "Start": 101123,
+                    "End": 101145
+                },
+                {
+                    "Reply": "I know. Your father has already gone.",
+                    "Didascalie": "",
+                    "Start": 101220,
+                    "End": 101258
+                },
+                {
+                    "Reply": "Good night then. Sleep well.",
+                    "Didascalie": "",
+                    "Start": 102480,
+                    "End": 102509
+                }
+            ]
+        },
+        {
+            "Character": "SCHOOLTEACHER SAYS",
+            "Replies": [
+                {
+                    "Reply": "Did your father tell...?",
+                    "Didascalie": "",
+                    "Start": 98119,
+                    "End": 98144
+                }
+            ]
+        },
+        {
+            "Character": "MARTIN VOICE",
+            "Replies": [
+                {
+                    "Reply": "Look.",
+                    "Didascalie": "",
+                    "Start": 98891,
+                    "End": 98897
+                },
+                {
+                    "Reply": "Look! Look what's happening out there!!",
+                    "Didascalie": "",
+                    "Start": 98959,
+                    "End": 99007
+                },
+                {
+                    "Reply": "Over there!! Have a look out of the window!!",
+                    "Didascalie": "",
+                    "Start": 99120,
+                    "End": 99173
+                }
+            ]
+        },
+        {
+            "Character": "ANTON",
+            "Replies": [
+                {
+                    "Reply": "Something is burning! Over there at the estate!",
+                    "Didascalie": "",
+                    "Start": 99322,
+                    "End": 99378
+                },
+                {
+                    "Reply": "I don't know...",
+                    "Didascalie": "",
+                    "Start": 99648,
+                    "End": 99664
+                },
+                {
+                    "Reply": "Stop shouting. I'll untie you.",
+                    "Didascalie": "",
+                    "Start": 100929,
+                    "End": 100960
+                }
+            ]
+        },
+        {
+            "Character": "IN A DROWSY VOICE",
+            "Replies": [
+                {
+                    "Reply": "FLORIAN: What's happening? Why can't you be quiet.",
+                    "Didascalie": "",
+                    "Start": 99825,
+                    "End": 99884
+                }
+            ]
+        },
+        {
+            "Character": "SAYS TO MARTIN",
+            "Replies": [
+                {
+                    "Reply": "FLORIAN: But Father hasn't allowed it...",
+                    "Didascalie": "",
+                    "Start": 100426,
+                    "End": 100467
+                }
+            ]
+        },
+        {
+            "Character": "LOUDLY",
+            "Replies": [
+                {
+                    "Reply": "Faaaather!! Mooooother!! Father!",
+                    "Didascalie": "",
+                    "Start": 100806,
+                    "End": 100839
+                }
+            ]
+        },
+        {
+            "Character": "TURNS TO THEM",
+            "Replies": [
+                {
+                    "Reply": "You all go to bed now. It's nothing. There's a fire on the estate. You don't need to be afraid.",
+                    "Didascalie": "",
+                    "Start": 101448,
+                    "End": 101552
+                }
+            ]
+        },
+        {
+            "Character": "APOLOGETICALLY",
+            "Replies": [
+                {
+                    "Reply": "MARTIN: I thought it was dangerous.",
+                    "Didascalie": "",
+                    "Start": 101888,
+                    "End": 101924
+                }
+            ]
+        },
+        {
+            "Character": "HE SAYS COLDLY",
+            "Replies": [
+                {
+                    "Reply": "DOCTOR: Wouldn't it be better if you stopped doing that?",
+                    "Didascalie": "",
+                    "Start": 104187,
+                    "End": 104252
+                }
+            ]
+        },
+        {
+            "Character": "BUT LET ME REASSURE YOU",
+            "Replies": [
+                {
+                    "Reply": "it has always disgusted me. I accepted it, because I wanted to ease my pain after Erika's death and I didn't care with whom. I could have screwed a cow. Whores are unfortunately too far from here and regrettably once every two months isn't enough for me, even though I'm getting older. So skip your damn martyrdom routine and get out.",
+                    "Didascalie": "",
+                    "Start": 106682,
+                    "End": 107080
+                }
+            ]
+        },
+        {
+            "Character": "CLASSMATES",
+            "Replies": [
+                {
+                    "Reply": "MARIE: Watch out, he's coming!",
+                    "Didascalie": "",
+                    "Start": 116479,
+                    "End": 116510
+                }
+            ]
+        },
+        {
+            "Character": "OF HER VOICE",
+            "Replies": [
+                {
+                    "Reply": "QUIET!!!!",
+                    "Didascalie": "",
+                    "Start": 117127,
+                    "End": 117137
+                }
+            ]
+        },
+        {
+            "Character": "HIM AND SAYS",
+            "Replies": [
+                {
+                    "Reply": "Good-bye, Pastor.",
+                    "Didascalie": "",
+                    "Start": 118559,
+                    "End": 118577
+                }
+            ]
+        },
+        {
+            "Character": "AUTOMATICALLY",
+            "Replies": [
+                {
+                    "Reply": "RUDOLPH: I can't get to sleep.",
+                    "Didascalie": "",
+                    "Start": 121755,
+                    "End": 121786
+                }
+            ]
+        },
+        {
+            "Character": "OVER TO RUDOLPH",
+            "Replies": [
+                {
+                    "Reply": "DOCTOR: Now go to bed again. You too, Xeni.",
+                    "Didascalie": "",
+                    "Start": 122503,
+                    "End": 122547
+                }
+            ]
+        },
+        {
+            "Character": "LIESL SAYS",
+            "Replies": [
+                {
+                    "Reply": "Sir!",
+                    "Didascalie": "",
+                    "Start": 127057,
+                    "End": 127062
+                },
+                {
+                    "Reply": "brother put him beside the open window, so that he'd die.",
+                    "Didascalie": "",
+                    "Start": 130954,
+                    "End": 131021
+                }
+            ]
+        },
+        {
+            "Character": "QUESTION",
+            "Replies": [
+                {
+                    "Reply": "SCHOOLTEACHER: That depends, why?",
+                    "Didascalie": "",
+                    "Start": 127198,
+                    "End": 127232
+                }
+            ]
+        },
+        {
+            "Character": "CRY",
+            "Replies": [
+                {
+                    "Reply": "things.",
+                    "Didascalie": "",
+                    "Start": 128264,
+                    "End": 128272
+                }
+            ]
+        },
+        {
+            "Character": "HER",
+            "Replies": [
+                {
+                    "Reply": "Take this. Now, calm down again. And then tell me what's going on.",
+                    "Didascalie": "",
+                    "Start": 128412,
+                    "End": 128487
+                }
+            ]
+        },
+        {
+            "Character": "AND SAYS QUIETLY",
+            "Replies": [
+                {
+                    "Reply": "odd little boy ...",
+                    "Didascalie": "",
+                    "Start": 129061,
+                    "End": 129080
+                }
+            ]
+        },
+        {
+            "Character": "SHE STARTS TO CRY AGAIN",
+            "Replies": [
+                {
+                    "Reply": "But he's so sweet. He harms no one.",
+                    "Didascalie": "",
+                    "Start": 129447,
+                    "End": 129483
+                }
+            ]
+        },
+        {
+            "Character": "SAYS CHEERFULLY",
+            "Replies": [
+                {
+                    "Reply": "EVA: No. Really.",
+                    "Didascalie": "",
+                    "Start": 135604,
+                    "End": 135621
+                }
+            ]
+        },
+        {
+            "Character": "DRINKS",
+            "Replies": [
+                {
+                    "Reply": "Accept and drink!",
+                    "Didascalie": "",
+                    "Start": 139202,
+                    "End": 139220
+                }
+            ]
+        },
+        {
+            "Character": "UNDERSTAND THEM BETTER",
+            "Replies": [
+                {
+                    "Reply": "VOICES: Hansi? Where are you? Give us a sign!",
+                    "Didascalie": "",
+                    "Start": 139608,
+                    "End": 139654
+                }
+            ]
+        },
+        {
+            "Character": "WE FOLLOW THOSE RUNNING OVER",
+            "Replies": [
+                {
+                    "Reply": "Bound to a tree is a small boy. His whole head is wrapped up in rags. A small slit has been left open so the nose can breathe. He MOANS.",
+                    "Didascalie": "",
+                    "Start": 139976,
+                    "End": 140113
+                }
+            ]
+        },
+        {
+            "Character": "COVERED IN BLOOD",
+            "Replies": [
+                {
+                    "Reply": "it's the mongoloid son of the midwife.",
+                    "Didascalie": "",
+                    "Start": 140367,
+                    "End": 140406
+                }
+            ]
+        },
+        {
+            "Character": "FIRST POLICE OFFICER",
+            "Replies": [
+                {
+                    "Reply": "...Thank God, we're not as stupid as you might think.",
+                    "Didascalie": "",
+                    "Start": 142090,
+                    "End": 142152
+                },
+                {
+                    "Reply": "Oooops! What do we have here?",
+                    "Didascalie": "",
+                    "Start": 145089,
+                    "End": 145127
+                },
+                {
+                    "Reply": "Why are you eavesdropping?",
+                    "Didascalie": "",
+                    "Start": 145449,
+                    "End": 145476
+                }
+            ]
+        },
+        {
+            "Character": "GIVE YOU A LAST CHANCE",
+            "Replies": [
+                {
+                    "Reply": "you tell me, who told you about the plan to torture the boy, and we won't tell anybody who told us. All right?",
+                    "Didascalie": "",
+                    "Start": 142571,
+                    "End": 142698
+                }
+            ]
+        },
+        {
+            "Character": "AND TURNS TO HIS COLLEAGUE",
+            "Replies": [
+                {
+                    "Reply": "that may be true. Maybe we're really dealing here with an authentic clairvoyant, and we don't realize how lucky we are. Maybe we only need to ask her, who's behind all this. The we send her to bed, she dreams a bit, and tomorrow she tells us who did it. How about that? Everything's possible, isn't it?",
+                    "Didascalie": "",
+                    "Start": 143515,
+                    "End": 143866
+                }
+            ]
+        },
+        {
+            "Character": "RIGHT IN FRONT OF HER",
+            "Replies": [
+                {
+                    "Reply": "Your deceitful whining won't work with me. I've got other ways to make you talk. I don't believe in witches and magicians, let alone that a chubby little girl like you has supernatural hallucinations. Therefore you'd better get used to the idea of telling the truth, because you won't bet rid of me until you've come clean. Is that clear?",
+                    "Didascalie": "",
+                    "Start": 144002,
+                    "End": 144390
+                }
+            ]
+        },
+        {
+            "Character": "RELUCTANTLY",
+            "Replies": [
+                {
+                    "Reply": "SCHOOLTEACHER: Of course.",
+                    "Didascalie": "",
+                    "Start": 144914,
+                    "End": 144940
+                }
+            ]
+        },
         {
             "Character": "CORRIDOR",
             "Replies": [
@@ -18,6 +4067,17 @@
                     "Didascalie": "",
                     "Start": 144992,
                     "End": 145059
+                }
+            ]
+        },
+        {
+            "Character": "STRANGERS",
+            "Replies": [
+                {
+                    "Reply": "We wanted to ask you something about Hansi.",
+                    "Didascalie": "",
+                    "Start": 145839,
+                    "End": 145891
                 }
             ]
         },
@@ -40,6 +4100,116 @@
                     "Didascalie": "",
                     "Start": 154555,
                     "End": 154691
+                }
+            ]
+        },
+        {
+            "Character": "MAID",
+            "Replies": [
+                {
+                    "Reply": "Good night, Baroness. Good night, Baron.",
+                    "Didascalie": "",
+                    "Start": 156405,
+                    "End": 156446
+                }
+            ]
+        },
+        {
+            "Character": "FORCE ME TO DO IT",
+            "Replies": [
+                {
+                    "Reply": "During our stay with Uncle Edoardo I fell in love with a man. He's from Lombardy, he works in the banking business and helped Uncle Edoardo in a financial matter. He courted me and was also very fond of the children. If Sigi has blossomed and grown so healthy, it's largely thanks to him.",
+                    "Didascalie": "",
+                    "Start": 157496,
+                    "End": 157839
+                }
+            ]
+        },
+        {
+            "Character": "STRANGE CONFRONTATION",
+            "Replies": [
+                {
+                    "Reply": "STEWARD: ...completely mad! Go if you want.",
+                    "Didascalie": "",
+                    "Start": 161758,
+                    "End": 161802
+                }
+            ]
+        },
+        {
+            "Character": "PITIFUL",
+            "Replies": [
+                {
+                    "Reply": "she tries to smile at him pleadingly, tears are streaming down her face.",
+                    "Didascalie": "",
+                    "Start": 164417,
+                    "End": 164490
+                }
+            ]
+        },
+        {
+            "Character": "NOTE TACKED UP",
+            "Replies": [
+                {
+                    "Reply": "STAIRWELL.",
+                    "Didascalie": "",
+                    "Start": 169006,
+                    "End": 169017
+                }
+            ]
+        },
+        {
+            "Character": "FRIENDLY",
+            "Replies": [
+                {
+                    "Reply": "PASTOR: Please. We'd better go to my study. It's quieter there.",
+                    "Didascalie": "",
+                    "Start": 176241,
+                    "End": 176313
+                }
+            ]
+        },
+        {
+            "Character": "HE GOES ON",
+            "Replies": [
+                {
+                    "Reply": "SCHOOLTEACHER: A couple of days before Hansi was almost beaten to death, the steward's daughter had predicted precisely that to me. Supposedly, she had dreamed it. The police thinks she's lying. Who told her about it? Who announced it to her?",
+                    "Didascalie": "",
+                    "Start": 180080,
+                    "End": 180363
+                }
+            ]
+        },
+        {
+            "Character": "SPEAK",
+            "Replies": [
+                {
+                    "Reply": "PASTOR: If I understand you correctly, you're saying that your pupils, my children included, committed these crimes. Is that right?",
+                    "Didascalie": "",
+                    "Start": 180538,
+                    "End": 180686
+                }
+            ]
+        },
+        {
+            "Character": "PASTOR CONTINUES",
+            "Replies": [
+                {
+                    "Reply": "I've seen quite a lot during my work as a pastor, but I've never come across anything as repulsive as this.",
+                    "Didascalie": "",
+                    "Start": 181807,
+                    "End": 181931
+                }
+            ]
+        },
+        {
+            "Character": "PHOTO",
+            "Replies": [
+                {
+                    "Reply": "it shows the doctor, an unknown woman, and Xenia as a small girl.",
+                    "Didascalie": "",
+                    "Start": 183390,
+                    "End": 183456
                 }
             ]
         }

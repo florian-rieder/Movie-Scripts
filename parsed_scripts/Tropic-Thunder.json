@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Tropic Thunder",
-        "   "
-    ],
+    "Title": "Tropic Thunder",
     "Author": [
-        "\u00a0\u00a0Ethan Cohen\u00a0\u00a0Ben Stiller\u00a0\u00a0Justin Theroux"
+        "Ethan Cohen",
+        "Ben Stiller",
+        "Justin Theroux"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0War"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "War"
     ],
     "Characters": [
         {
@@ -3739,17 +3741,6 @@
                     "Didascalie": "(clutching his cheeks)",
                     "Start": 64993,
                     "End": 65031
-                }
-            ]
-        },
-        {
-            "Character": "A UNKNOWN VOICE",
-            "Replies": [
-                {
-                    "Reply": ", .",
-                    "Didascalie": "(crackling over walkie talkie)",
-                    "Start": 69001,
-                    "End": 69015
                 }
             ]
         },

@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "JFK",
-        "   "
-    ],
+    "Title": "JFK",
     "Author": [
-        "\u00a0\u00a0Jim Marrs\u00a0\u00a0Jim Garrison\u00a0\u00a0Oliver Stone\u00a0\u00a0Zachary Sklar"
+        "Jim Marrs",
+        "Jim Garrison",
+        "Oliver Stone",
+        "Zachary Sklar"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -73,6 +76,23 @@
             ]
         },
         {
+            "Character": "VOICE 2",
+            "Replies": [
+                {
+                    "Reply": "November, 1960 - Senator John F. Kennedy of Massachusetts wins one of the narrowest election victories in American history over the Vice- President Richard Nixon by a little more than 100,000 votes.  Rumors abound that he stole the election in Illinois through the Democratic political machine of Mayor Daley...",
+                    "Didascalie": "",
+                    "Start": 3246,
+                    "End": 3766
+                },
+                {
+                    "Reply": "At his inauguration, at a time when American males all wore hats, he let his hair blow free in the wind. Alongside his beautiful and elegant wife of French origin, Jacqueline Bouvier, J.F.K. is the symbol of the new freedom of the 1960's, signifying change and upheaval to the American public, scaring many and hated passionately by some.  To win the election and to appease their fears, Kennedy at first takes a tough Cold War stance.",
+                    "Didascalie": "(inauguration shots)",
+                    "Start": 3816,
+                    "End": 4591
+                }
+            ]
+        },
+        {
             "Character": "BAY OF PIGS IMAGERY",
             "Replies": [
                 {
@@ -80,6 +100,17 @@
                     "Didascalie": "",
                     "Start": 4643,
                     "End": 4839
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 3",
+            "Replies": [
+                {
+                    "Reply": "He inherits a secret war against the Communist Castro dictatorship in Cuba, a war run by the CIA and angry Cuban exiles out of bases in the Southern United States, Panama, Nicaragua and Guatemala.  Castro is a successful revolutionary frightening to American business interests in Latin America - companies like Cabot's United Fruit, Continental Can, and Rockefeller's Standard Oil.  This war culminates in the disastrous Bay of Pigs invasion in April 1961, when Kennedy refuses to provide air cover for the exile brigade.  Of the 1600 men who invade, 114 are killed, 1200 are captured.  The Cuban exiles and the CIA are furious at Kennedy's irresolution... Kennedy, taking public responsibility for the failure, privately claims the CIA lied to him and tried to manipulate him into ordering an all-out American invasion of Cuba.  He vows to splinter the CIA into a thousand pieces and fires Director Allen Dulles, Deputies Charles Cabell and Richard Bissell, the top leadership of the Agency.",
+                    "Didascalie": "",
+                    "Start": 4910,
+                    "End": 6606
                 }
             ]
         },
@@ -95,6 +126,17 @@
             ]
         },
         {
+            "Character": "VOICE 4",
+            "Replies": [
+                {
+                    "Reply": "programs - The Agency collaborates with organized crime elements such as John Roselli, Sam Giancana, and Santos Trafficante of Tampa, whose casino operations in Cuba, worth more than a hundred million dollars a year in income, Castro has shut down.",
+                    "Didascalie": "",
+                    "Start": 7270,
+                    "End": 7701
+                }
+            ]
+        },
+        {
             "Character": "CUBAN MISSILE CRISIS",
             "Replies": [
                 {
@@ -106,6 +148,17 @@
             ]
         },
         {
+            "Character": "VOICE 5",
+            "Replies": [
+                {
+                    "Reply": "In October 1962, the world comes to the brink of nuclear war when Kennedy quarantines Cuba after announcing the presence of offensive Soviet nuclear missiles 90 miles off American shores.  The Joint Chiefs of Staff and the CIA call for an invasion. Kennedy refuses.  Soviet ships with more missiles sail towards the island, but at the last moment turn back. The world breathes with relief but backstage in Washington, rumors abound that J.F.K. has cut a secret deal with Russian Premier Khrushchev not to invade Cuba in return for a Russian withdrawal of missiles.  Suspicions abound that Kennedy is \"soft on Communism.\"",
+                    "Didascalie": "",
+                    "Start": 8099,
+                    "End": 9164
+                }
+            ]
+        },
+        {
             "Character": "NUCLEAR TEST BAN IMAGERY",
             "Replies": [
                 {
@@ -113,6 +166,17 @@
                     "Didascalie": "",
                     "Start": 9221,
                     "End": 9586
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 6",
+            "Replies": [
+                {
+                    "Reply": "In the ensuing months, Kennedy clamps down on Cuban exile activities, closing training camps, restricting covert operations, prohibiting shipment of weapons out of the country.  The covert arm of the CIA nevertheless continues its plan to assassinate Castor... In March '63, Kennedy announces drastic cuts in the defense budget.  In November 1963, he orders the withdrawal by Christmas of the first 1000 troops of the 16,000 stationed in Vietnam. He tells several of his intimates that he will withdraw all Vietnam troops after the '64 election, saying to the Assistant Secretary of State, Roger Hilsman, \"The Bay of Pigs has taught me one, not to trust generals or the CIA, and two, that if the American people do not want to use American troops to remove a Communist regime 90 miles from our coast, how can I ask them to use troops to remove a Communist regime 9,000 miles away?\"... Finally, in August 1963, over the objections of the Joint Chiefs of Staff, the United States, Great Britain and the Soviet Union sign a treaty banning nuclear bomb tests in the atmosphere, underwater and in space...  Early that fateful summer, Kennedy speaks of his new vision at American University in Washington.",
+                    "Didascalie": "",
+                    "Start": 9723,
+                    "End": 11808
                 }
             ]
         },
@@ -158,6 +222,17 @@
                     "Didascalie": "",
                     "Start": 164265,
                     "End": 164395
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 7",
+            "Replies": [
+                {
+                    "Reply": "More rumors emerge of J.F.K.'s backdoor efforts outside usual State Department and CIA channels to establish dialogue with Fidel Castro through contacts at the United Nations in New York.  Kennedy is seeking change on all fronts.  Bitter battles are fought with Southern segregationists to get James Meredith into the University of Mississippi. Three months after Kennedy submits a sweeping civil rights bill to Congress, Martin Luther King leads 250,000 in a march on Washington. Robert Kennedy, as Attorney General, for the first time ever vigorously prosecutes the Mafia in American life, bringing and winning a record number of cases - 288 convictions of organized crime figures including 13 grand juries against Jimmy Hoffa and his Teamsters Union.  The President also takes on Big Business, forcing back steel prices, winning 45 of 46 antitrust cases during 1963 and he wants to help everyday taxpayers by ending age- old business privileges like the oil depletion allowance and the fees paid to the Federal Reserve Bank for printing America's currency.",
+                    "Didascalie": "",
+                    "Start": 15451,
+                    "End": 17267
                 }
             ]
         },
@@ -1216,12 +1291,6 @@
                     "End": 223598
                 },
                 {
-                    "Reply": "President Johnson, meanwhile at an informal press conference, said he regretted that there is no end in sight to the war in Vietnam, where 500,000 American troops are now fighting.  \"We face more cost, more loss, and more agony.\"  In his proposal to raise taxes, Johnson...",
-                    "Didascalie": "(as TV cuts to President Johnson)",
-                    "Start": 223741,
-                    "End": 224223
-                },
-                {
                     "Reply": "No.  I told you I was going to talk to Shaw.",
                     "Didascalie": "",
                     "Start": 224524,
@@ -1736,12 +1805,6 @@
                     "Didascalie": "(to chief police officer)",
                     "Start": 297104,
                     "End": 297381
-                },
-                {
-                    "Reply": "NEWSMAN 10 Was Ferrie murdered, Mr. Garrison? Do you have any leads?",
-                    "Didascalie": "(Hank looks at him weirdly)",
-                    "Start": 297469,
-                    "End": 297629
                 },
                 {
                     "Reply": "What's it look like, Nick?",
@@ -3389,6 +3452,47 @@
             ]
         },
         {
+            "Character": "NEWSMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Apparently three bullets were found. Governor Connally also appeared to be hit.  The President was rushed by the Secret Service to Parkland Memorial Hospital four miles from Dealey Plaza.",
+                    "Didascalie": "",
+                    "Start": 29330,
+                    "End": 29649
+                },
+                {
+                    "Reply": "These backyard photos were found yesterday among Oswald's possessions in the garage of Janet William's home in Riving, Texas, where Marina Oswald and her children are living. The picture apparently was taken earlier this year.  Police say the rifle, a cheap World War II Italian-",
+                    "Didascalie": "",
+                    "Start": 56321,
+                    "End": 56784
+                },
+                {
+                    "Reply": "We go back now to the basement of police headquarters where they're about to transfer Oswald to County Prison...",
+                    "Didascalie": "",
+                    "Start": 58473,
+                    "End": 58664
+                },
+                {
+                    "Reply": "Jack Ruby... Who is Jack Ruby?  Oswald is hurt.",
+                    "Didascalie": "",
+                    "Start": 59741,
+                    "End": 59815
+                },
+                {
+                    "Reply": "McCarthy.  CBS News has projected Senator Robert Kennedy the winner of the crucial California primary.",
+                    "Didascalie": "",
+                    "Start": 432027,
+                    "End": 432182
+                },
+                {
+                    "Reply": "SENATOR KENNEDY HAS BEEN SHOT!  WE DO NOT KNOW HOW SERIOUS IT IS YET. SENATOR KENNEDY HAS BEEN SHOT.",
+                    "Didascalie": "(shaken)",
+                    "Start": 433841,
+                    "End": 434021
+                }
+            ]
+        },
+        {
             "Character": "MANAGER",
             "Replies": [
                 {
@@ -3413,6 +3517,23 @@
                     "Didascalie": "(choked pause)",
                     "Start": 30765,
                     "End": 31160
+                }
+            ]
+        },
+        {
+            "Character": "NEWSMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Many arrests have been made here today.  Anyone looking even remotely suspicious is being detained.  Most of the crowd has gone home but there are still many stunned people wandering around in Dealey Plaza unable to comprehend what happened here earlier today.",
+                    "Didascalie": "",
+                    "Start": 32289,
+                    "End": 32732
+                },
+                {
+                    "Reply": "How many shots?",
+                    "Didascalie": "",
+                    "Start": 34414,
+                    "End": 34430
                 }
             ]
         },
@@ -3465,6 +3586,39 @@
                     "Didascalie": "",
                     "Start": 364949,
                     "End": 365148
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "I thought... it came from up there, that building.",
+                    "Didascalie": "",
+                    "Start": 34068,
+                    "End": 34145
+                }
+            ]
+        },
+        {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "I heard shots from over there.",
+                    "Didascalie": "",
+                    "Start": 34258,
+                    "End": 34289
+                }
+            ]
+        },
+        {
+            "Character": "MAN 3",
+            "Replies": [
+                {
+                    "Reply": "I never thought it could happen in America.",
+                    "Didascalie": "",
+                    "Start": 34600,
+                    "End": 34670
                 }
             ]
         },
@@ -3779,6 +3933,40 @@
             ]
         },
         {
+            "Character": "NEWSMAN 3",
+            "Replies": [
+                {
+                    "Reply": "This is the rifle, it is a Mannlicher - Carcano Italian rifle, a powerful World War II military gun used by infantry and highly accurate at distances of 100 yards.",
+                    "Didascalie": "",
+                    "Start": 37683,
+                    "End": 37951
+                },
+                {
+                    "Reply": "The assassin apparently fired from this perch... but so far no word, much confusion and...",
+                    "Didascalie": "",
+                    "Start": 38233,
+                    "End": 38376
+                }
+            ]
+        },
+        {
+            "Character": "NEWSMAN 4",
+            "Replies": [
+                {
+                    "Reply": "A flash bulletin... the Dallas Police have just announced they have a suspect in the killing of a Dallas police officer, J.D. Tippit, who was shot at 1:15 in Oak Cliff, a suburb of Dallas.",
+                    "Didascalie": "",
+                    "Start": 38520,
+                    "End": 38839
+                },
+                {
+                    "Reply": "The suspect, identified as Lee Harvey Oswald, was arrested by more than a dozen police officers after a short scuffle at the Texas movie theatre in Oak Cliff, several blocks from where Officer Tippit was killed, apparently with a .38 revolver found on Oswald.  There is apparently at least one eyewitness.",
+                    "Didascalie": "",
+                    "Start": 39165,
+                    "End": 39679
+                }
+            ]
+        },
+        {
             "Character": "TV OSWALD",
             "Replies": [
                 {
@@ -3816,6 +4004,29 @@
                     "Didascalie": "",
                     "Start": 49701,
                     "End": 49721
+                }
+            ]
+        },
+        {
+            "Character": "NEWSMAN 5",
+            "Replies": [
+                {
+                    "Reply": "Did you shoot the President?",
+                    "Didascalie": "(over the din)",
+                    "Start": 46569,
+                    "End": 46624
+                },
+                {
+                    "Reply": "Did you kill the President?",
+                    "Didascalie": "",
+                    "Start": 48219,
+                    "End": 48247
+                },
+                {
+                    "Reply": "Were you ever in the Free Cuba Movement or whatever the...",
+                    "Didascalie": "",
+                    "Start": 49020,
+                    "End": 49105
                 }
             ]
         },
@@ -4187,6 +4398,29 @@
                     "Didascalie": "",
                     "Start": 435187,
                     "End": 435252
+                }
+            ]
+        },
+        {
+            "Character": "NEWSMAN 6",
+            "Replies": [
+                {
+                    "Reply": "You have been charged.",
+                    "Didascalie": "",
+                    "Start": 48712,
+                    "End": 48735
+                },
+                {
+                    "Reply": "You have been charged.",
+                    "Didascalie": "",
+                    "Start": 48886,
+                    "End": 48909
+                },
+                {
+                    "Reply": "What did you do in Russia?  What happened to your eye?",
+                    "Didascalie": "",
+                    "Start": 49547,
+                    "End": 49628
                 }
             ]
         },
@@ -5454,6 +5688,35 @@
             ]
         },
         {
+            "Character": "NEWSMAN 9",
+            "Replies": [
+                {
+                    "Reply": "In national news, President Johnson has announced the creation of a blue ribbon presidential commission to probe the events in Dallas.",
+                    "Didascalie": "",
+                    "Start": 72043,
+                    "End": 72256
+                },
+                {
+                    "Reply": "The Commission will be headed by Chief Justice of the United States Supreme Court, Earl Warren, and is expected to head off several Congressional and Texas inquiries into the assassination.  On the panel are Allen Dulles, ex-chief of the CIA, Representative Gerald Ford, John J. McCloy, former head of Chase Manhattan Bank...",
+                    "Didascalie": "",
+                    "Start": 73207,
+                    "End": 73767
+                },
+                {
+                    "Reply": "To repeat - 39-year-old Martin Luther King, who preached non-violence and won the Nobel Peace Prize, was cut down earlier today by a sniper's bullets while standing on the porch of the Lorraine Motel in Memphis, Tennessee.  He was surrounded by his closest aides.  The police say they have no suspects at this time.  Mr. King...",
+                    "Didascalie": "",
+                    "Start": 407406,
+                    "End": 407969
+                },
+                {
+                    "Reply": "Much is at stake tonight in California.  Public opinion polls show Senator Robert Kennedy of New York leading Senator Eugene McCarthy of Minnesota.  Their anti-Vietnam War message is obviously striking a chord with the voters, and whoever wins tonight will certainly emerge as the favorite over Vice-President Humphrey to win the nomination in Chicago in August.  That man now seems to be Senator Kennedy.",
+                    "Didascalie": "",
+                    "Start": 428006,
+                    "End": 428698
+                }
+            ]
+        },
+        {
             "Character": "SENATOR RUSSELL LONG",
             "Replies": [
                 {
@@ -6622,6 +6885,29 @@
             ]
         },
         {
+            "Character": "NEWSMAN 10",
+            "Replies": [
+                {
+                    "Reply": "In heavy fighting in Vietnam today, seven more American soldiers died and 23 were wounded.  The body count for this week now stands at 67 Americans and 626 enemy soldiers killed in action.",
+                    "Didascalie": "(announcer)",
+                    "Start": 222648,
+                    "End": 222993
+                },
+                {
+                    "Reply": "President Johnson, meanwhile at an informal press conference, said he regretted that there is no end in sight to the war in Vietnam, where 500,000 American troops are now fighting.  \"We face more cost, more loss, and more agony.\"  In his proposal to raise taxes, Johnson...",
+                    "Didascalie": "(as TV cuts to President Johnson)",
+                    "Start": 223741,
+                    "End": 224223
+                },
+                {
+                    "Reply": "Was Ferrie murdered, Mr. Garrison? Do you have any leads?",
+                    "Didascalie": "",
+                    "Start": 297544,
+                    "End": 297629
+                }
+            ]
+        },
+        {
             "Character": "CLAY SHAW",
             "Replies": [
                 {
@@ -6959,6 +7245,17 @@
             ]
         },
         {
+            "Character": "NEWSMAN 11",
+            "Replies": [
+                {
+                    "Reply": "Mr. Garrison's own silence on the subject has raised some interesting questions.  With taxpayer money has he uncovered some valuable new evidence or is he merely saving the information which will gain for him exposure on a national level?  Mr. Garrison it seems, should have some explanation.",
+                    "Didascalie": "(editorial)",
+                    "Start": 250665,
+                    "End": 251192
+                }
+            ]
+        },
+        {
             "Character": "DAVE FERRIE",
             "Replies": [
                 {
@@ -7263,6 +7560,17 @@
             ]
         },
         {
+            "Character": "NEWSMAN 12",
+            "Replies": [
+                {
+                    "Reply": "Mr. Shaw - What do you have to say?",
+                    "Didascalie": "",
+                    "Start": 339262,
+                    "End": 339298
+                }
+            ]
+        },
+        {
             "Character": "ATTORNEY GENERAL",
             "Replies": [
                 {
@@ -7281,6 +7589,23 @@
                     "Didascalie": "",
                     "Start": 340891,
                     "End": 341237
+                }
+            ]
+        },
+        {
+            "Character": "NEWSMAN 13",
+            "Replies": [
+                {
+                    "Reply": "Mr. Garrison, if what you say is even partly true in this case, you realize you are damaging the credibility of our government, possibly destroying it?",
+                    "Didascalie": "",
+                    "Start": 341837,
+                    "End": 342093
+                },
+                {
+                    "Reply": "We understand that The Times - Picayune will call for your resignation - unfit to hold office. You've ruined Clay Shaw's reputation - are you going to resign?",
+                    "Didascalie": "",
+                    "Start": 526841,
+                    "End": 527105
                 }
             ]
         },
@@ -8382,6 +8707,57 @@
                     "Didascalie": "",
                     "Start": 542038,
                     "End": 542105
+                }
+            ]
+        },
+        {
+            "Character": "RICH MAN 1",
+            "Replies": [
+                {
+                    "Reply": "The sonofabitch is gonna get re-",
+                    "Didascalie": "",
+                    "Start": 530048,
+                    "End": 530081
+                },
+                {
+                    "Reply": "He's gotta go, Lou.  The election's gotta be stopped.",
+                    "Didascalie": "",
+                    "Start": 530753,
+                    "End": 530833
+                },
+                {
+                    "Reply": "I talk to a lot of people.  I know I'm not the only one thinking this.",
+                    "Didascalie": "",
+                    "Start": 530981,
+                    "End": 531078
+                }
+            ]
+        },
+        {
+            "Character": "RICH MAN 2",
+            "Replies": [
+                {
+                    "Reply": "I agree, Bob, it can't go on.",
+                    "Didascalie": "",
+                    "Start": 530380,
+                    "End": 530410
+                },
+                {
+                    "Reply": "What's the feeling in Washington, Jack?",
+                    "Didascalie": "",
+                    "Start": 531152,
+                    "End": 531218
+                }
+            ]
+        },
+        {
+            "Character": "RICH MAN 3",
+            "Replies": [
+                {
+                    "Reply": "...and Bobby in '68?  Something's got to be done.",
+                    "Didascalie": "",
+                    "Start": 530534,
+                    "End": 530610
                 }
             ]
         },

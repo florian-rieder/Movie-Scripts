@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "10 Things I Hate About You",
-        "   "
-    ],
+    "Title": "10 Things I Hate About You",
     "Author": [
-        "\u00a0\u00a0Karen McCullah Lutz\u00a0\u00a0Kirsten Smith\u00a0\u00a0William Shakespeare"
+        "Karen McCullah Lutz",
+        "Kirsten Smith",
+        "William Shakespeare"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3288,12 +3288,6 @@
                     "End": 126736
                 },
                 {
-                    "Reply": "Cute  BOGEY LOWENSTEIN'S HOUSE - NIGHT  Kids loiter on the lawn.  Bianca and Chastity walk outside Joey catches up to them.",
-                    "Didascalie": "",
-                    "Start": 128047,
-                    "End": 128222
-                },
-                {
                     "Reply": "I'm driving, so I get to pick the tunes.",
                     "Didascalie": "",
                     "Start": 130037,
@@ -4161,12 +4155,6 @@
                     "Didascalie": "",
                     "Start": 114064,
                     "End": 114139
-                },
-                {
-                    "Reply": "At least you're self-aware  BOGEY'S KITCHEN - NIGHT  Kat and a crowd of White Rastas and Cowboys stand in a drunken group hug singing \"I Shot the Sheriff\".  Kat has another shot glass in hand.",
-                    "Didascalie": "",
-                    "Start": 114609,
-                    "End": 114864
                 },
                 {
                     "Reply": "So you got cozy with she who stings?",

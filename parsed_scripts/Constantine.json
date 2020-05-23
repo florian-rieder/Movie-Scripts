@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Constantine",
-        "   "
-    ],
+    "Title": "Constantine",
     "Author": [
-        "\u00a0\u00a0Jamie Delano\u00a0\u00a0Garth Ennis"
+        "Jamie Delano",
+        "Garth Ennis"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller\u00a0\u00a0Fantasy\u00a0\u00a0Drama\u00a0\u00a0Horror"
+        "Action",
+        "Thriller",
+        "Fantasy",
+        "Drama",
+        "Horror"
     ],
     "Characters": [
         {

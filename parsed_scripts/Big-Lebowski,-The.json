@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Big Lebowski, The",
-        "   "
-    ],
+    "Title": "Big Lebowski, The",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Comedy",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2883,12 +2883,6 @@
                     "Didascalie": "",
                     "Start": 88814,
                     "End": 88846
-                },
-                {
-                    "Reply": "I JUS' BAWDEEZ FUCKEEN CAR LASS WEEK!",
-                    "Didascalie": "",
-                    "Start": 88913,
-                    "End": 88951
                 },
                 {
                     "Reply": "I KILL JOO, MANG!  I--I KILL JOR FUCKEEN CAR!",

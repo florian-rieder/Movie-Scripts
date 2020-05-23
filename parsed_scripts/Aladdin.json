@@ -1,13 +1,3833 @@
 {
-    "Title": [
-        "Aladdin",
-        "   "
-    ],
+    "Title": "Aladdin",
     "Author": [
-        "\u00a0\u00a0Roger Allers\u00a0\u00a0Ron Clements"
+        "Roger Allers",
+        "Ron Clements"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Family\u00a0\u00a0Musical\u00a0\u00a0Fantasy\u00a0\u00a0Comedy"
+        "Animation",
+        "Family",
+        "Musical",
+        "Fantasy",
+        "Comedy"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "ALADDIN",
+            "Replies": [
+                {
+                    "Reply": "All this for a loaf of bread?",
+                    "Didascalie": "(Looks back, then down, then at the bread.)",
+                    "Start": 6132,
+                    "End": 6172
+                },
+                {
+                    "Reply": "You think that was easy?",
+                    "Didascalie": "",
+                    "Start": 6784,
+                    "End": 6809
+                },
+                {
+                    "Reply": "Morning, ladies.",
+                    "Didascalie": "",
+                    "Start": 7047,
+                    "End": 7064
+                },
+                {
+                    "Reply": "Trouble?  No way.  You're only in trouble if you get caught--",
+                    "Didascalie": "",
+                    "Start": 7158,
+                    "End": 7228
+                },
+                {
+                    "Reply": "I'm in trouble!",
+                    "Didascalie": "",
+                    "Start": 7354,
+                    "End": 7370
+                },
+                {
+                    "Reply": "Perfect timing, Abu!",
+                    "Didascalie": "",
+                    "Start": 7552,
+                    "End": 7573
+                },
+                {
+                    "Reply": "Come on, let's get outta here!",
+                    "Didascalie": "",
+                    "Start": 7604,
+                    "End": 7635
+                },
+                {
+                    "Reply": "Just a little snack, guys!",
+                    "Didascalie": "",
+                    "Start": 8428,
+                    "End": 8455
+                },
+                {
+                    "Reply": "I can take a hint, gotta face the facts You're my only friend, Abu!",
+                    "Didascalie": "",
+                    "Start": 8627,
+                    "End": 8703
+                },
+                {
+                    "Reply": "Gotta eat to live, gotta steal to eat Tell you all about it when I got the time!",
+                    "Didascalie": "",
+                    "Start": 9085,
+                    "End": 9174
+                },
+                {
+                    "Reply": "One jump ahead of the slowpokes One skip ahead of my doom Next time gonna use a nom de plume.",
+                    "Didascalie": "(ALADDIN and ABU exit.  Cut to MUSCLEMAN flexing to a crowd.  The GUARDS rush past.  Cut to ALADDIN and ABU behind the MUSCLEMAN, matching his moves, until they make a mistake and are discovered.)",
+                    "Start": 9380,
+                    "End": 9500
+                },
+                {
+                    "Reply": "Gotta eat to live, gotta steal to eat Otherwise we'd get along!",
+                    "Didascalie": "",
+                    "Start": 10246,
+                    "End": 10318
+                },
+                {
+                    "Reply": "One jump ahead of the hoofbeats!",
+                    "Didascalie": "",
+                    "Start": 11086,
+                    "End": 11119
+                },
+                {
+                    "Reply": "One hop ahead of the hump!",
+                    "Didascalie": "",
+                    "Start": 11147,
+                    "End": 11174
+                },
+                {
+                    "Reply": "Here goes, better throw my hand in Wish me happy landin' All I gotta do is jump!",
+                    "Didascalie": "",
+                    "Start": 11437,
+                    "End": 11534
+                },
+                {
+                    "Reply": "And now, esteemed effendi, we feast!  All right!",
+                    "Didascalie": "",
+                    "Start": 11828,
+                    "End": 11877
+                },
+                {
+                    "Reply": "Here, go on--take it.",
+                    "Didascalie": "",
+                    "Start": 12334,
+                    "End": 12356
+                },
+                {
+                    "Reply": "Look at that, Abu.  It's not every day you see a horse with two rear ends!",
+                    "Didascalie": "",
+                    "Start": 13359,
+                    "End": 13442
+                },
+                {
+                    "Reply": "I'm not worthless.  And I don't have fleas.  Come on, Abu.  Let's go home.",
+                    "Didascalie": "",
+                    "Start": 13734,
+                    "End": 13817
+                },
+                {
+                    "Reply": "Riffraff, street rat.",
+                    "Didascalie": "",
+                    "Start": 13921,
+                    "End": 13943
+                },
+                {
+                    "Reply": "Okay, Abu.  Go!",
+                    "Didascalie": "",
+                    "Start": 19976,
+                    "End": 19992
+                },
+                {
+                    "Reply": "Nice goin' Abu.  Breakfast is served.",
+                    "Didascalie": "",
+                    "Start": 20674,
+                    "End": 20712
+                },
+                {
+                    "Reply": "Wow!",
+                    "Didascalie": "(He's obviously deeply in love with her.)",
+                    "Start": 21668,
+                    "End": 21675
+                },
+                {
+                    "Reply": "Thank you kind sir.  I'm so glad you've found her. I've been looking all over for you.",
+                    "Didascalie": "",
+                    "Start": 22640,
+                    "End": 22739
+                },
+                {
+                    "Reply": "Just play along.",
+                    "Didascalie": "(whispering back)",
+                    "Start": 22821,
+                    "End": 22839
+                },
+                {
+                    "Reply": "She thinks the monkey is the Sultan.",
+                    "Didascalie": "",
+                    "Start": 23132,
+                    "End": 23169
+                },
+                {
+                    "Reply": "doctor.",
+                    "Didascalie": "",
+                    "Start": 23624,
+                    "End": 23632
+                },
+                {
+                    "Reply": "Almost there.",
+                    "Didascalie": "",
+                    "Start": 25432,
+                    "End": 25446
+                },
+                {
+                    "Reply": "your first time in the marketplace, huh?",
+                    "Didascalie": "",
+                    "Start": 25666,
+                    "End": 25707
+                },
+                {
+                    "Reply": "Yep.  Just me and Abu.  Come and go as we please.",
+                    "Didascalie": "",
+                    "Start": 26562,
+                    "End": 26612
+                },
+                {
+                    "Reply": "Palace looks pretty amazing, huh?",
+                    "Didascalie": "",
+                    "Start": 26761,
+                    "End": 26795
+                },
+                {
+                    "Reply": "I wonder what it would be like to live there, to have servants and valets...",
+                    "Didascalie": "",
+                    "Start": 26839,
+                    "End": 26924
+                },
+                {
+                    "Reply": "It's better than here.  Always scraping for food and ducking the guards.",
+                    "Didascalie": "",
+                    "Start": 27018,
+                    "End": 27099
+                },
+                {
+                    "Reply": "Sometimes you feel so--",
+                    "Didascalie": "",
+                    "Start": 27165,
+                    "End": 27189
+                },
+                {
+                    "Reply": "So, where're you from?",
+                    "Didascalie": "",
+                    "Start": 27501,
+                    "End": 27524
+                },
+                {
+                    "Reply": "Abu says that--uh--that's not fair.",
+                    "Didascalie": "",
+                    "Start": 28085,
+                    "End": 28121
+                },
+                {
+                    "Reply": "Yeah, of course.",
+                    "Didascalie": "",
+                    "Start": 28174,
+                    "End": 28191
+                },
+                {
+                    "Reply": "Well, uh, he wishes there was something he could do to help.",
+                    "Didascalie": "",
+                    "Start": 28255,
+                    "End": 28324
+                },
+                {
+                    "Reply": "Do you trust me?",
+                    "Didascalie": "",
+                    "Start": 28732,
+                    "End": 28749
+                },
+                {
+                    "Reply": "Then jump!",
+                    "Didascalie": "",
+                    "Start": 28863,
+                    "End": 28874
+                },
+                {
+                    "Reply": "Hey, get off of me!",
+                    "Didascalie": "",
+                    "Start": 29337,
+                    "End": 29357
+                },
+                {
+                    "Reply": "The princess?",
+                    "Didascalie": "",
+                    "Start": 29730,
+                    "End": 29744
+                },
+                {
+                    "Reply": "She was the princess.  I don't believe it.  I must have sounded so stupid to her.",
+                    "Didascalie": "(to himself)",
+                    "Start": 32070,
+                    "End": 32161
+                },
+                {
+                    "Reply": "Abu!  Down here!  Hey, c'mon--help me outta these.",
+                    "Didascalie": "",
+                    "Start": 32286,
+                    "End": 32337
+                },
+                {
+                    "Reply": "Hey, she was in trouble.  Ah, she was worth it.",
+                    "Didascalie": "",
+                    "Start": 32519,
+                    "End": 32567
+                },
+                {
+                    "Reply": "Don't worry, Abu.  I'll never see her again.  I'm a street rat, remember, and there's a law. She's gotta marry a prince, she deserves it.",
+                    "Didascalie": "",
+                    "Start": 32723,
+                    "End": 32877
+                },
+                {
+                    "Reply": "Who are you?",
+                    "Didascalie": "",
+                    "Start": 33145,
+                    "End": 33158
+                },
+                {
+                    "Reply": "I'm listening.",
+                    "Didascalie": "",
+                    "Start": 33262,
+                    "End": 33277
+                },
+                {
+                    "Reply": "But the law says that only a prince can marry--",
+                    "Didascalie": "",
+                    "Start": 33780,
+                    "End": 33828
+                },
+                {
+                    "Reply": "So why would you share all of this wonderful treasure with me?",
+                    "Didascalie": "",
+                    "Start": 33998,
+                    "End": 34069
+                },
+                {
+                    "Reply": "Ah, one problem.  It's out there, we're in here?",
+                    "Didascalie": "",
+                    "Start": 34174,
+                    "End": 34223
+                },
+                {
+                    "Reply": "It is I, Aladdin.",
+                    "Didascalie": "",
+                    "Start": 34626,
+                    "End": 34644
+                },
+                {
+                    "Reply": "Would ya look at that!",
+                    "Didascalie": "",
+                    "Start": 35091,
+                    "End": 35114
+                },
+                {
+                    "Reply": "Just a handful of this stuff would make me richer than the sultan!",
+                    "Didascalie": "",
+                    "Start": 35145,
+                    "End": 35220
+                },
+                {
+                    "Reply": "Abu!",
+                    "Didascalie": "",
+                    "Start": 35289,
+                    "End": 35294
+                },
+                {
+                    "Reply": "Don't...touch...anything!  We gotta find that lamp.",
+                    "Didascalie": "",
+                    "Start": 35366,
+                    "End": 35418
+                },
+                {
+                    "Reply": "Abu, will ya knock it off?",
+                    "Didascalie": "",
+                    "Start": 35901,
+                    "End": 35928
+                },
+                {
+                    "Reply": "Abu, what are you--crazy?",
+                    "Didascalie": "",
+                    "Start": 36490,
+                    "End": 36516
+                },
+                {
+                    "Reply": "A magic carpet!  C'mon.  C'mon out.  I'm not gonna hurt you.",
+                    "Didascalie": "",
+                    "Start": 36585,
+                    "End": 36654
+                },
+                {
+                    "Reply": "Take it easy, Abu.  He's not gonna bite.",
+                    "Didascalie": "",
+                    "Start": 36872,
+                    "End": 36913
+                },
+                {
+                    "Reply": "where it is.",
+                    "Didascalie": "",
+                    "Start": 37355,
+                    "End": 37368
+                },
+                {
+                    "Reply": "Wait here!",
+                    "Didascalie": "",
+                    "Start": 37716,
+                    "End": 37727
+                },
+                {
+                    "Reply": "NO!",
+                    "Didascalie": "",
+                    "Start": 38219,
+                    "End": 38223
+                },
+                {
+                    "Reply": "Whoa!  Carpet, let's move!",
+                    "Didascalie": "",
+                    "Start": 39039,
+                    "End": 39066
+                },
+                {
+                    "Reply": "Start panicking.",
+                    "Didascalie": "",
+                    "Start": 39324,
+                    "End": 39341
+                },
+                {
+                    "Reply": "Help me out!",
+                    "Didascalie": "",
+                    "Start": 39724,
+                    "End": 39737
+                },
+                {
+                    "Reply": "I can't hold on.  Give me your hand.",
+                    "Didascalie": "",
+                    "Start": 39780,
+                    "End": 39817
+                },
+                {
+                    "Reply": "What are you doing?",
+                    "Didascalie": "",
+                    "Start": 40158,
+                    "End": 40178
+                },
+                {
+                    "Reply": "Whoever he was, he's long gone with that lamp.",
+                    "Didascalie": "",
+                    "Start": 41696,
+                    "End": 41743
+                },
+                {
+                    "Reply": "Why, you hairy little thief!  Looks like such a beat-up, worthless piece of junk.  Hey, I think there's something written here, but it's hard to make out.",
+                    "Didascalie": "",
+                    "Start": 41806,
+                    "End": 41985
+                },
+                {
+                    "Reply": "Uh, Al--uh--Aladdin.",
+                    "Didascalie": "",
+                    "Start": 42682,
+                    "End": 42703
+                },
+                {
+                    "Reply": "I must have hit my head harder than I thought.",
+                    "Didascalie": "(Shaking his head)",
+                    "Start": 43211,
+                    "End": 43267
+                },
+                {
+                    "Reply": "Wait a minute!  I'm--your master?",
+                    "Didascalie": "",
+                    "Start": 43838,
+                    "End": 43872
+                },
+                {
+                    "Reply": "Whoa!  Wish fulfillment?",
+                    "Didascalie": "",
+                    "Start": 44695,
+                    "End": 44720
+                },
+                {
+                    "Reply": "Now I know I'm dreaming.",
+                    "Didascalie": "(To ABU)",
+                    "Start": 45166,
+                    "End": 45192
+                },
+                {
+                    "Reply": "You're gonna grant me any three wishes I want?",
+                    "Didascalie": "",
+                    "Start": 50043,
+                    "End": 50090
+                },
+                {
+                    "Reply": "Like?",
+                    "Didascalie": "",
+                    "Start": 50207,
+                    "End": 50213
+                },
+                {
+                    "Reply": "powerful genie--can't even bring people back from the dead. I don't know, Abu--he probably can't even get us out of this cave.  Looks like we're gonna have to find a way out of here--",
+                    "Didascalie": "",
+                    "Start": 50925,
+                    "End": 51133
+                },
+                {
+                    "Reply": "Oh, you sure showed me.  Now about my three wishes-",
+                    "Didascalie": "",
+                    "Start": 54277,
+                    "End": 54329
+                },
+                {
+                    "Reply": "Ah, no--I never actually wished to get out of the cave.  You did that on your own.",
+                    "Didascalie": "",
+                    "Start": 54418,
+                    "End": 54509
+                },
+                {
+                    "Reply": "What?  No, tell me.",
+                    "Didascalie": "",
+                    "Start": 54959,
+                    "End": 54979
+                },
+                {
+                    "Reply": "You're a prisoner?",
+                    "Didascalie": "",
+                    "Start": 55008,
+                    "End": 55027
+                },
+                {
+                    "Reply": "Genie, that's terrible.",
+                    "Didascalie": "",
+                    "Start": 55239,
+                    "End": 55263
+                },
+                {
+                    "Reply": "Why not?",
+                    "Didascalie": "",
+                    "Start": 55704,
+                    "End": 55713
+                },
+                {
+                    "Reply": "I'll do it. I'll set you free.",
+                    "Didascalie": "",
+                    "Start": 55855,
+                    "End": 55886
+                },
+                {
+                    "Reply": "Well, there's this girl--",
+                    "Didascalie": "",
+                    "Start": 56387,
+                    "End": 56413
+                },
+                {
+                    "Reply": "Oh, but Genie.  She's smart and fun and...",
+                    "Didascalie": "",
+                    "Start": 56584,
+                    "End": 56627
+                },
+                {
+                    "Reply": "Beautiful.  She's got these eyes that just...and this hair, wow...and her smile.",
+                    "Didascalie": "",
+                    "Start": 56655,
+                    "End": 56744
+                },
+                {
+                    "Reply": "But she's the princess.  To even have a chance, I'd have to be a--hey, can you make me a prince?",
+                    "Didascalie": "",
+                    "Start": 56843,
+                    "End": 56948
+                },
+                {
+                    "Reply": "Genie, I wish for you to make me a prince!",
+                    "Didascalie": "",
+                    "Start": 57479,
+                    "End": 57522
+                },
+                {
+                    "Reply": "Abu, you look good.",
+                    "Didascalie": "",
+                    "Start": 59647,
+                    "End": 59667
+                },
+                {
+                    "Reply": "Ahem.  Your majesty, I have journeyed from afar to seek your daughter's hand.",
+                    "Didascalie": "(Takes on a deeper voice.)",
+                    "Start": 65841,
+                    "End": 65933
+                },
+                {
+                    "Reply": "--Ababwa!",
+                    "Didascalie": "",
+                    "Start": 66204,
+                    "End": 66214
+                },
+                {
+                    "Reply": "Why certainly, your majesty.  Allow me.",
+                    "Didascalie": "",
+                    "Start": 66464,
+                    "End": 66504
+                },
+                {
+                    "Reply": "Oh, much farther than you've traveled, I'm sure.",
+                    "Didascalie": "",
+                    "Start": 67185,
+                    "End": 67234
+                },
+                {
+                    "Reply": "And I'm pretty sure I'll like Princess Jasmine!",
+                    "Didascalie": "",
+                    "Start": 68500,
+                    "End": 68548
+                },
+                {
+                    "Reply": "your daughter!",
+                    "Didascalie": "",
+                    "Start": 68942,
+                    "End": 68957
+                },
+                {
+                    "Reply": "Genie, I need help.",
+                    "Didascalie": "",
+                    "Start": 70005,
+                    "End": 70025
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 70201,
+                    "End": 70207
+                },
+                {
+                    "Reply": "Hey, that's the last thing I want to  be.  Okay, I'm gonna go see her.  I gotta be smooth, cool, confident.  How do I look?",
+                    "Didascalie": "",
+                    "Start": 70745,
+                    "End": 70885
+                },
+                {
+                    "Reply": "Princess Jasmine?",
+                    "Didascalie": "(From a distance)",
+                    "Start": 71052,
+                    "End": 71071
+                },
+                {
+                    "Reply": "Down kitty!",
+                    "Didascalie": "",
+                    "Start": 71407,
+                    "End": 71419
+                },
+                {
+                    "Reply": "Uh, no, no.",
+                    "Didascalie": "(Quickly replaces his turban)",
+                    "Start": 71807,
+                    "End": 71820
+                },
+                {
+                    "Reply": "I have servants that go to the marketplace for me.",
+                    "Didascalie": "",
+                    "Start": 71954,
+                    "End": 72005
+                },
+                {
+                    "Reply": "Um, Princess Jasmine?  You're very...",
+                    "Didascalie": "",
+                    "Start": 72357,
+                    "End": 72395
+                },
+                {
+                    "Reply": "Punctual!",
+                    "Didascalie": "",
+                    "Start": 72463,
+                    "End": 72473
+                },
+                {
+                    "Reply": "Beautiful.",
+                    "Didascalie": "",
+                    "Start": 72526,
+                    "End": 72537
+                },
+                {
+                    "Reply": "Yeah!",
+                    "Didascalie": "",
+                    "Start": 72618,
+                    "End": 72624
+                },
+                {
+                    "Reply": "I know.",
+                    "Didascalie": "",
+                    "Start": 72673,
+                    "End": 72681
+                },
+                {
+                    "Reply": "Uh, right.  Right.  A prince like me.",
+                    "Didascalie": "",
+                    "Start": 72744,
+                    "End": 72782
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 73117,
+                    "End": 73123
+                },
+                {
+                    "Reply": "Buzz off!",
+                    "Didascalie": "(Swats at bee)",
+                    "Start": 73210,
+                    "End": 73221
+                },
+                {
+                    "Reply": "Yeah, right!",
+                    "Didascalie": "",
+                    "Start": 73328,
+                    "End": 73341
+                },
+                {
+                    "Reply": "What?  What?",
+                    "Didascalie": "(Pokes his head up from over the edge)",
+                    "Start": 73709,
+                    "End": 73723
+                },
+                {
+                    "Reply": "It's a magic carpet.",
+                    "Didascalie": "",
+                    "Start": 73850,
+                    "End": 73871
+                },
+                {
+                    "Reply": "You, uh, you don't want to go for a ride, do you?",
+                    "Didascalie": "",
+                    "Start": 73962,
+                    "End": 74012
+                },
+                {
+                    "Reply": "Sure.  Do you trust me?",
+                    "Didascalie": "",
+                    "Start": 74103,
+                    "End": 74127
+                },
+                {
+                    "Reply": "Do you trust me?",
+                    "Didascalie": "(Extends his hand the same as before)",
+                    "Start": 74263,
+                    "End": 74289
+                },
+                {
+                    "Reply": "I can show you the world Shining, shimmering, splendid.",
+                    "Didascalie": "",
+                    "Start": 74651,
+                    "End": 74711
+                },
+                {
+                    "Reply": "Now I'm in a whole new world with you!",
+                    "Didascalie": "",
+                    "Start": 75531,
+                    "End": 75570
+                },
+                {
+                    "Reply": "Hold your breath--it gets better!",
+                    "Didascalie": "",
+                    "Start": 76236,
+                    "End": 76270
+                },
+                {
+                    "Reply": "A whole new world!",
+                    "Didascalie": "",
+                    "Start": 76649,
+                    "End": 76668
+                },
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 77506,
+                    "End": 77512
+                },
+                {
+                    "Reply": "That is...oh no!",
+                    "Didascalie": "",
+                    "Start": 77797,
+                    "End": 77814
+                },
+                {
+                    "Reply": "Jasmine, I'm sorry.",
+                    "Didascalie": "",
+                    "Start": 77942,
+                    "End": 77962
+                },
+                {
+                    "Reply": "No!",
+                    "Didascalie": "",
+                    "Start": 78014,
+                    "End": 78018
+                },
+                {
+                    "Reply": "No.  I mean, I hoped you wouldn't.  No, that's not what I meant.",
+                    "Didascalie": "",
+                    "Start": 78073,
+                    "End": 78146
+                },
+                {
+                    "Reply": "Well, you know, um...royalty going out into the city in disguise, it sounds a little strange, don't you think?",
+                    "Didascalie": "",
+                    "Start": 78576,
+                    "End": 78703
+                },
+                {
+                    "Reply": "Sleep well, princess.",
+                    "Didascalie": "",
+                    "Start": 79083,
+                    "End": 79105
+                },
+                {
+                    "Reply": "things are starting to go right.",
+                    "Didascalie": "",
+                    "Start": 79438,
+                    "End": 79471
+                },
+                {
+                    "Reply": "Better check your crystal ball  again, Jafar!",
+                    "Didascalie": "",
+                    "Start": 82338,
+                    "End": 82384
+                },
+                {
+                    "Reply": "Tell them the truth, Jafar!  You tried to have me killed.",
+                    "Didascalie": "",
+                    "Start": 82519,
+                    "End": 82585
+                },
+                {
+                    "Reply": "I know!",
+                    "Didascalie": "",
+                    "Start": 82883,
+                    "End": 82891
+                },
+                {
+                    "Reply": "Jasmine, are you all right?",
+                    "Didascalie": "",
+                    "Start": 83779,
+                    "End": 83807
+                },
+                {
+                    "Reply": "Sultan?",
+                    "Didascalie": "",
+                    "Start": 84402,
+                    "End": 84410
+                },
+                {
+                    "Reply": "Sultan?  They want me to be sultan?",
+                    "Didascalie": "",
+                    "Start": 85599,
+                    "End": 85635
+                },
+                {
+                    "Reply": "Genie...I can't.",
+                    "Didascalie": "",
+                    "Start": 86390,
+                    "End": 86407
+                },
+                {
+                    "Reply": "I'm serious.  Look, I'm sorry--I really am. But they want to make me sultan--no!, They want to make Prince Ali sultan.  Without you, I'm just Aladdin.",
+                    "Didascalie": "",
+                    "Start": 86590,
+                    "End": 86757
+                },
+                {
+                    "Reply": "Jasmine finds out?  I'll lose her.  Genie, I can't keep this up on my own.  I can't wish you free.",
+                    "Didascalie": "",
+                    "Start": 86961,
+                    "End": 87068
+                },
+                {
+                    "Reply": "sorry.  Wait, Abu-- wait--I'm sorry, I didn't--",
+                    "Didascalie": "",
+                    "Start": 87700,
+                    "End": 87748
+                },
+                {
+                    "Reply": "I'm coming.",
+                    "Didascalie": "",
+                    "Start": 88214,
+                    "End": 88226
+                },
+                {
+                    "Reply": "Jasmine?",
+                    "Didascalie": "",
+                    "Start": 89203,
+                    "End": 89212
+                },
+                {
+                    "Reply": "There's something I've got to tell you.",
+                    "Didascalie": "",
+                    "Start": 89262,
+                    "End": 89302
+                },
+                {
+                    "Reply": "No! But Jasmine, listen to me, please!",
+                    "Didascalie": "",
+                    "Start": 89394,
+                    "End": 89433
+                },
+                {
+                    "Reply": "Oh, boy!",
+                    "Didascalie": "",
+                    "Start": 89601,
+                    "End": 89610
+                },
+                {
+                    "Reply": "Whoa!",
+                    "Didascalie": "",
+                    "Start": 90402,
+                    "End": 90408
+                },
+                {
+                    "Reply": "Genie!  No!",
+                    "Didascalie": "",
+                    "Start": 91099,
+                    "End": 91111
+                },
+                {
+                    "Reply": "Jasmine, I tried to tell you.",
+                    "Didascalie": "",
+                    "Start": 92740,
+                    "End": 92770
+                },
+                {
+                    "Reply": "looks up at his turban, made out of scared ABU.",
+                    "Didascalie": "",
+                    "Start": 94493,
+                    "End": 94541
+                },
+                {
+                    "Reply": "Shh!",
+                    "Didascalie": "",
+                    "Start": 96603,
+                    "End": 96608
+                },
+                {
+                    "Reply": "Get the lamp!",
+                    "Didascalie": "",
+                    "Start": 97830,
+                    "End": 97844
+                },
+                {
+                    "Reply": "Jasmine!",
+                    "Didascalie": "",
+                    "Start": 98048,
+                    "End": 98057
+                },
+                {
+                    "Reply": "Abu!",
+                    "Didascalie": "",
+                    "Start": 98219,
+                    "End": 98224
+                },
+                {
+                    "Reply": "Are you afraid to fight me yourself, you cowardly snake?",
+                    "Didascalie": "",
+                    "Start": 98657,
+                    "End": 98722
+                },
+                {
+                    "Reply": "Hang on, Jasmine!",
+                    "Didascalie": "",
+                    "Start": 100053,
+                    "End": 100071
+                },
+                {
+                    "Reply": "The genie!  The genie!  The genie has more power than you'll ever have!",
+                    "Didascalie": "(Has an idea)",
+                    "Start": 100472,
+                    "End": 100554
+                },
+                {
+                    "Reply": "He gave you your power, he can take it away!",
+                    "Didascalie": "",
+                    "Start": 100581,
+                    "End": 100626
+                },
+                {
+                    "Reply": "Face it, Jafar--you're still just second best!",
+                    "Didascalie": "",
+                    "Start": 100714,
+                    "End": 100761
+                },
+                {
+                    "Reply": "Trust me!",
+                    "Didascalie": "",
+                    "Start": 101591,
+                    "End": 101601
+                },
+                {
+                    "Reply": "Not so fast, Jafar!  Aren't you forgetting something?",
+                    "Didascalie": "",
+                    "Start": 101734,
+                    "End": 101788
+                },
+                {
+                    "Reply": "You wanted to be a genie, you got it!  And everything that goes with it!",
+                    "Didascalie": "(JAFAR looks down questioningly)",
+                    "Start": 101824,
+                    "End": 101902
+                },
+                {
+                    "Reply": "Phenomenal cosmic powers!  Itty bitty living space.",
+                    "Didascalie": "",
+                    "Start": 102115,
+                    "End": 102167
+                },
+                {
+                    "Reply": "Jasmine, I'm sorry I lied to you about being a prince.",
+                    "Didascalie": "",
+                    "Start": 103175,
+                    "End": 103238
+                },
+                {
+                    "Reply": "But Genie, what about your freedom?",
+                    "Didascalie": "",
+                    "Start": 103621,
+                    "End": 103657
+                },
+                {
+                    "Reply": "Jasmine, I do love you, but I've got to stop pretending to be something I'm not.",
+                    "Didascalie": "",
+                    "Start": 103891,
+                    "End": 103980
+                },
+                {
+                    "Reply": "Genie, I wish for your freedom.",
+                    "Didascalie": "",
+                    "Start": 104108,
+                    "End": 104140
+                },
+                {
+                    "Reply": "Genie, you're free!",
+                    "Didascalie": "(He holds the lamp up to GENIE.)",
+                    "Start": 104243,
+                    "End": 104273
+                },
+                {
+                    "Reply": "I wish for the Nile.",
+                    "Didascalie": "",
+                    "Start": 104676,
+                    "End": 104697
+                },
+                {
+                    "Reply": "Genie, I'm--I'm gonna miss you.",
+                    "Didascalie": "",
+                    "Start": 105015,
+                    "End": 105047
+                },
+                {
+                    "Reply": "Ha, ha.  Call me Al.",
+                    "Didascalie": "",
+                    "Start": 105586,
+                    "End": 105607
+                }
+            ]
+        },
+        {
+            "Character": "PEDDLER",
+            "Replies": [
+                {
+                    "Reply": "It's barbaric, but hey--it's home!",
+                    "Didascalie": "",
+                    "Start": 356,
+                    "End": 391
+                }
+            ]
+        },
+        {
+            "Character": "JAFAR",
+            "Replies": [
+                {
+                    "Reply": "You...are late.",
+                    "Didascalie": "",
+                    "Start": 2663,
+                    "End": 2679
+                },
+                {
+                    "Reply": "You have it, then?",
+                    "Didascalie": "",
+                    "Start": 2731,
+                    "End": 2750
+                },
+                {
+                    "Reply": "Trust me, my pungent friend.  You'll get what's coming to you.",
+                    "Didascalie": "",
+                    "Start": 3009,
+                    "End": 3080
+                },
+                {
+                    "Reply": "Quickly, follow the trail!",
+                    "Didascalie": "",
+                    "Start": 3340,
+                    "End": 3367
+                },
+                {
+                    "Reply": "At last, after all my years of searching,  the cave of wonders!",
+                    "Didascalie": "",
+                    "Start": 3728,
+                    "End": 3800
+                },
+                {
+                    "Reply": "Now, remember!  Bring me the lamp.  The rest of the treasure is yours, but the lamp is mine!",
+                    "Didascalie": "",
+                    "Start": 3861,
+                    "End": 3962
+                },
+                {
+                    "Reply": "What are you waiting for?  Go on!",
+                    "Didascalie": "",
+                    "Start": 4623,
+                    "End": 4657
+                },
+                {
+                    "Reply": "Patience, Iago.  Patience.  Gazeem was obviously less than worthy.",
+                    "Didascalie": "",
+                    "Start": 5426,
+                    "End": 5501
+                },
+                {
+                    "Reply": "Yes, we do.  Only one may enter.  I must find this one, this...diamond in the rough.",
+                    "Didascalie": "",
+                    "Start": 5783,
+                    "End": 5876
+                },
+                {
+                    "Reply": "Your majesty certainly has a way with dumb animals.",
+                    "Didascalie": "",
+                    "Start": 17582,
+                    "End": 17634
+                },
+                {
+                    "Reply": "Now then, perhaps I can divine a solution to this thorny problem.",
+                    "Didascalie": "(IAGO glares at him.)",
+                    "Start": 17663,
+                    "End": 17739
+                },
+                {
+                    "Reply": "Ah, but it would require the use of the mystic blue diamond.",
+                    "Didascalie": "",
+                    "Start": 17785,
+                    "End": 17854
+                },
+                {
+                    "Reply": "It is necessary to find the princess a suitor.",
+                    "Didascalie": "",
+                    "Start": 17931,
+                    "End": 17978
+                },
+                {
+                    "Reply": "The diamond.",
+                    "Didascalie": "",
+                    "Start": 18394,
+                    "End": 18407
+                },
+                {
+                    "Reply": "You are most gracious, my liege.  Now run along and play with your little toys.",
+                    "Didascalie": "",
+                    "Start": 18585,
+                    "End": 18673
+                },
+                {
+                    "Reply": "Calm yourself, Iago.",
+                    "Didascalie": "",
+                    "Start": 19062,
+                    "End": 19083
+                },
+                {
+                    "Reply": "Soon, I will be sultan, not that addlepated twit.",
+                    "Didascalie": "(Speaking over IAGO.)",
+                    "Start": 19174,
+                    "End": 19234
+                },
+                {
+                    "Reply": "There he is.  My diamond in the rough!",
+                    "Didascalie": "",
+                    "Start": 24877,
+                    "End": 24916
+                },
+                {
+                    "Reply": "Let's have the guards extend him an invitation to the palace, shall we?",
+                    "Didascalie": "",
+                    "Start": 25065,
+                    "End": 25145
+                },
+                {
+                    "Reply": "Oh, uh, princess.",
+                    "Didascalie": "",
+                    "Start": 30447,
+                    "End": 30465
+                },
+                {
+                    "Reply": "Your father's charged me with keeping peace in Agrabah.  The boy was a criminal.",
+                    "Didascalie": "",
+                    "Start": 30680,
+                    "End": 30769
+                },
+                {
+                    "Reply": "Why, kidnapping the princess, of course.",
+                    "Didascalie": "",
+                    "Start": 30845,
+                    "End": 30886
+                },
+                {
+                    "Reply": "Oh, dear!  Oh, why frightfully upsetting.  Had I but known.",
+                    "Didascalie": "(Walking away as if shocked)",
+                    "Start": 31080,
+                    "End": 31149
+                },
+                {
+                    "Reply": "Sadly, the boy's sentence has already been carried out.",
+                    "Didascalie": "",
+                    "Start": 31187,
+                    "End": 31251
+                },
+                {
+                    "Reply": "By beheading.",
+                    "Didascalie": "",
+                    "Start": 31343,
+                    "End": 31357
+                },
+                {
+                    "Reply": "I am exceedingly sorry, princess.",
+                    "Didascalie": "",
+                    "Start": 31412,
+                    "End": 31446
+                },
+                {
+                    "Reply": "I assure you, your highness, it won't happen again.",
+                    "Didascalie": "",
+                    "Start": 52254,
+                    "End": 52306
+                },
+                {
+                    "Reply": "If only I had gotten that lamp!",
+                    "Didascalie": "",
+                    "Start": 52893,
+                    "End": 52925
+                },
+                {
+                    "Reply": "No, Iago.  Only until she finds a chump husband.",
+                    "Didascalie": "",
+                    "Start": 53133,
+                    "End": 53182
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "(He looks at IAGO in insult)",
+                    "Start": 53403,
+                    "End": 53411
+                },
+                {
+                    "Reply": "Oh!Marry the shrew?  I become sultan.  The idea has merit!",
+                    "Didascalie": "",
+                    "Start": 53508,
+                    "End": 53575
+                },
+                {
+                    "Reply": "Iago, I love the way your foul little mind works!",
+                    "Didascalie": "",
+                    "Start": 53732,
+                    "End": 53782
+                },
+                {
+                    "Reply": "Sire, I have found a solution to the problem with your daughter.",
+                    "Didascalie": "",
+                    "Start": 60178,
+                    "End": 60251
+                },
+                {
+                    "Reply": "Right here.  \"If the princess has not chosen a husband by the appointed time, then the sultan shall choose for her.\"",
+                    "Didascalie": "(Unrolling a scroll)",
+                    "Start": 60345,
+                    "End": 60479
+                },
+                {
+                    "Reply": "Not to worry, my liege.  There is more.  If, in the event a suitable prince cannot be found, a princess must then be wed to...hmm...interesting.",
+                    "Didascalie": "",
+                    "Start": 60804,
+                    "End": 60965
+                },
+                {
+                    "Reply": "The royal vizier!  Why, that would be...me!",
+                    "Didascalie": "",
+                    "Start": 60993,
+                    "End": 61037
+                },
+                {
+                    "Reply": "You will order the princess to marry me.",
+                    "Didascalie": "",
+                    "Start": 61321,
+                    "End": 61362
+                },
+                {
+                    "Reply": "The princess will marry me!",
+                    "Didascalie": "(Holds the staff closer)",
+                    "Start": 61499,
+                    "End": 61536
+                },
+                {
+                    "Reply": "Ecstatic.  I'm afraid, Prince Abooboo--",
+                    "Didascalie": "(Extremely dryly)",
+                    "Start": 66143,
+                    "End": 66192
+                },
+                {
+                    "Reply": "Whatever.  You cannot just parade in here uninvited and expect to--",
+                    "Didascalie": "",
+                    "Start": 66222,
+                    "End": 66298
+                },
+                {
+                    "Reply": "Sire, I must advise against this--",
+                    "Didascalie": "",
+                    "Start": 66635,
+                    "End": 66670
+                },
+                {
+                    "Reply": "Just where did you say you were from?",
+                    "Didascalie": "",
+                    "Start": 67135,
+                    "End": 67173
+                },
+                {
+                    "Reply": "Spectacular, your highness.",
+                    "Didascalie": "",
+                    "Start": 67905,
+                    "End": 67933
+                },
+                {
+                    "Reply": "I don't trust him, sire.",
+                    "Didascalie": "",
+                    "Start": 68249,
+                    "End": 68274
+                },
+                {
+                    "Reply": "boy is no different than the others.  What makes him think he is worthy of the princess?",
+                    "Didascalie": "",
+                    "Start": 68671,
+                    "End": 68768
+                },
+                {
+                    "Reply": "I think it's time to say good bye to Prince Abooboo.",
+                    "Didascalie": "",
+                    "Start": 69242,
+                    "End": 69303
+                },
+                {
+                    "Reply": "Just leave me alone.",
+                    "Didascalie": "",
+                    "Start": 71374,
+                    "End": 71395
+                },
+                {
+                    "Reply": "never found.",
+                    "Didascalie": "",
+                    "Start": 79937,
+                    "End": 79950
+                },
+                {
+                    "Reply": "You're speechless, I see.  A fine quality in a wife.",
+                    "Didascalie": "",
+                    "Start": 82071,
+                    "End": 82132
+                },
+                {
+                    "Reply": "Prince Ali left!",
+                    "Didascalie": "",
+                    "Start": 82239,
+                    "End": 82256
+                },
+                {
+                    "Reply": "nonsense, your highness.  He is obviously lying.",
+                    "Didascalie": "",
+                    "Start": 82644,
+                    "End": 82693
+                },
+                {
+                    "Reply": "Your majesty, all of this can be explained.",
+                    "Didascalie": "",
+                    "Start": 83205,
+                    "End": 83249
+                },
+                {
+                    "Reply": "This is not done yet, boy!",
+                    "Didascalie": "",
+                    "Start": 83521,
+                    "End": 83548
+                },
+                {
+                    "Reply": "Prince Ali is nothing more than that ragged urchin Aladdin.  He has the lamp, Iago.",
+                    "Didascalie": "",
+                    "Start": 85335,
+                    "End": 85427
+                },
+                {
+                    "Reply": "But you are going to relieve him of it!",
+                    "Didascalie": "",
+                    "Start": 85468,
+                    "End": 85508
+                },
+                {
+                    "Reply": "Let them cheer.",
+                    "Didascalie": "",
+                    "Start": 89726,
+                    "End": 89742
+                },
+                {
+                    "Reply": "Genie, grant me my first wish.  I wish to rule on high, as sultan!!!",
+                    "Didascalie": "",
+                    "Start": 90186,
+                    "End": 90263
+                },
+                {
+                    "Reply": "Heh heh heh!",
+                    "Didascalie": "",
+                    "Start": 90657,
+                    "End": 90670
+                },
+                {
+                    "Reply": "Finders-keepers, Abooboo.",
+                    "Didascalie": "",
+                    "Start": 90883,
+                    "End": 90909
+                },
+                {
+                    "Reply": "There's a new order now--my order!  Finally, you will bow to me!",
+                    "Didascalie": "",
+                    "Start": 91253,
+                    "End": 91326
+                },
+                {
+                    "Reply": "We'll never bow to you!",
+                    "Didascalie": "",
+                    "Start": 91377,
+                    "End": 91401
+                },
+                {
+                    "Reply": "second wish--I wish to be the most powerful sorcerer in the world!",
+                    "Didascalie": "",
+                    "Start": 91560,
+                    "End": 91635
+                },
+                {
+                    "Reply": "Now where were we?  Ah, yes--abject humiliation!",
+                    "Didascalie": "",
+                    "Start": 91904,
+                    "End": 91953
+                },
+                {
+                    "Reply": "Prince Ali Yes, it is he, But not as you know him.",
+                    "Didascalie": "",
+                    "Start": 92374,
+                    "End": 92433
+                },
+                {
+                    "Reply": "Yes, meet a blast from your past Whose lies were too good to last Say hello to your precious Prince Ali!",
+                    "Didascalie": "(JAFAR brings the two of them closer in the air.)",
+                    "Start": 92535,
+                    "End": 92654
+                },
+                {
+                    "Reply": "So Ali turns out to be merely Aladdin Just a con, need I go on?",
+                    "Didascalie": "",
+                    "Start": 92779,
+                    "End": 92847
+                },
+                {
+                    "Reply": "Ex-Prince Ali!",
+                    "Didascalie": "",
+                    "Start": 93133,
+                    "End": 93148
+                },
+                {
+                    "Reply": "Leave him alone!",
+                    "Didascalie": "",
+                    "Start": 95081,
+                    "End": 95098
+                },
+                {
+                    "Reply": "It pains me to see you reduced to this, Jasmine.",
+                    "Didascalie": "",
+                    "Start": 95151,
+                    "End": 95200
+                },
+                {
+                    "Reply": "A beautiful desert bloom such as yourself should be on the arm of the most powerful man in the world.",
+                    "Didascalie": "(He takes a bite out of the apple she is holding.)",
+                    "Start": 95258,
+                    "End": 95377
+                },
+                {
+                    "Reply": "What do you say, my dear?  Why,  with you as my queen...",
+                    "Didascalie": "(He waves his finger and a crown appears.)",
+                    "Start": 95427,
+                    "End": 95493
+                },
+                {
+                    "Reply": "Genie, I have decided to make my final wish.  I wish for Princess Jasmine to fall desperately in love with me.",
+                    "Didascalie": "",
+                    "Start": 95698,
+                    "End": 95825
+                },
+                {
+                    "Reply": "Don't talk back to me, you stupid blue lout!  You will do what I order you to do, slave!",
+                    "Didascalie": "",
+                    "Start": 95966,
+                    "End": 96063
+                },
+                {
+                    "Reply": "about...myself.",
+                    "Didascalie": "",
+                    "Start": 96420,
+                    "End": 96436
+                },
+                {
+                    "Reply": "Go on.",
+                    "Didascalie": "",
+                    "Start": 96990,
+                    "End": 96997
+                },
+                {
+                    "Reply": "And the street rat?",
+                    "Didascalie": "",
+                    "Start": 97303,
+                    "End": 97323
+                },
+                {
+                    "Reply": "to kill you, boy?",
+                    "Didascalie": "",
+                    "Start": 97683,
+                    "End": 97701
+                },
+                {
+                    "Reply": "Ah, ah, ah, princess--Your time is up!",
+                    "Didascalie": "",
+                    "Start": 97950,
+                    "End": 97989
+                },
+                {
+                    "Reply": "You stay out of thissss!",
+                    "Didascalie": "",
+                    "Start": 99302,
+                    "End": 99327
+                },
+                {
+                    "Reply": "You little fool!  You thought you could defeat the most powerful being on earth!",
+                    "Didascalie": "(laughs hideously)",
+                    "Start": 100167,
+                    "End": 100258
+                },
+                {
+                    "Reply": "Without the genie, boy, you're nothing!",
+                    "Didascalie": "",
+                    "Start": 100407,
+                    "End": 100447
+                },
+                {
+                    "Reply": "What!!",
+                    "Didascalie": "",
+                    "Start": 100562,
+                    "End": 100569
+                },
+                {
+                    "Reply": "You're right!  His power does exceed my own!  But not for long!",
+                    "Didascalie": "",
+                    "Start": 100769,
+                    "End": 100841
+                },
+                {
+                    "Reply": "Slave, I make my third wish!  I wish to be an all powerful genie!",
+                    "Didascalie": "",
+                    "Start": 101050,
+                    "End": 101124
+                },
+                {
+                    "Reply": "Yes!  Yes!  The power! The absolute power!",
+                    "Didascalie": "",
+                    "Start": 101491,
+                    "End": 101534
+                },
+                {
+                    "Reply": "The universe is mine to command, to control!",
+                    "Didascalie": "",
+                    "Start": 101677,
+                    "End": 101722
+                },
+                {
+                    "Reply": "No!  No!",
+                    "Didascalie": "",
+                    "Start": 101949,
+                    "End": 101958
+                },
+                {
+                    "Reply": "Get your blasted beak out of my face!",
+                    "Didascalie": "(Both from inside the lamp.)",
+                    "Start": 102600,
+                    "End": 102648
+                },
+                {
+                    "Reply": "Don't tell me to shut up!",
+                    "Didascalie": "",
+                    "Start": 102692,
+                    "End": 102718
+                }
+            ]
+        },
+        {
+            "Character": "GAZEEM",
+            "Replies": [
+                {
+                    "Reply": "A thousand apologies, O patient one.",
+                    "Didascalie": "",
+                    "Start": 2686,
+                    "End": 2723
+                },
+                {
+                    "Reply": "Ouch!",
+                    "Didascalie": "(IAGO squawks as he flies by and grabs the medallion.)",
+                    "Start": 2993,
+                    "End": 3001
+                },
+                {
+                    "Reply": "By Allah!",
+                    "Didascalie": "",
+                    "Start": 3843,
+                    "End": 3853
+                },
+                {
+                    "Reply": "It is I, Gazeem, a humble thief.",
+                    "Didascalie": "",
+                    "Start": 4415,
+                    "End": 4448
+                }
+            ]
+        },
+        {
+            "Character": "IAGO",
+            "Replies": [
+                {
+                    "Reply": "What's coming to you!  Awk!",
+                    "Didascalie": "",
+                    "Start": 3088,
+                    "End": 3116
+                },
+                {
+                    "Reply": "Awk!  Cave of wonders!",
+                    "Didascalie": "",
+                    "Start": 3812,
+                    "End": 3835
+                },
+                {
+                    "Reply": "Jeez, where'd ya dig this bozo up?",
+                    "Didascalie": "",
+                    "Start": 4196,
+                    "End": 4231
+                },
+                {
+                    "Reply": "Oh, there's a big surprise.  That's an incred--I think I'm gonna have a heart attack and die from not surprise!  What're we gonna do?  We got a big problem here,a big prob-",
+                    "Didascalie": "(Extremely sarcastically)",
+                    "Start": 5538,
+                    "End": 5736
+                },
+                {
+                    "Reply": "Awk!  Wit's-end.",
+                    "Didascalie": "(In the parrot voice)",
+                    "Start": 17292,
+                    "End": 17310
+                },
+                {
+                    "Reply": "I can't take it anymore!  If I gotta choke down on one more of those moldy, disgusting crackers...bam!",
+                    "Didascalie": "",
+                    "Start": 18855,
+                    "End": 18966
+                },
+                {
+                    "Reply": "Then I'd grab him around the head.  Whack! Whack!",
+                    "Didascalie": "",
+                    "Start": 19095,
+                    "End": 19145
+                },
+                {
+                    "Reply": "And then I stuff the crackers down his throat!  Ha ha!",
+                    "Didascalie": "",
+                    "Start": 19246,
+                    "End": 19309
+                },
+                {
+                    "Reply": "With all due respect, your rottenness, couldn't we just wait for a real storm?",
+                    "Didascalie": "(huffing and puffing)",
+                    "Start": 24230,
+                    "End": 24319
+                },
+                {
+                    "Reply": "Yes, o mighty evil one.",
+                    "Didascalie": "",
+                    "Start": 24431,
+                    "End": 24455
+                },
+                {
+                    "Reply": "Swell.",
+                    "Didascalie": "",
+                    "Start": 25216,
+                    "End": 25223
+                },
+                {
+                    "Reply": "Awk! Jafar, I'm stuck!",
+                    "Didascalie": "",
+                    "Start": 30477,
+                    "End": 30500
+                },
+                {
+                    "Reply": "I can't breathe, Jafar!",
+                    "Didascalie": "",
+                    "Start": 30813,
+                    "End": 30837
+                },
+                {
+                    "Reply": "So, how did  it go?",
+                    "Didascalie": "",
+                    "Start": 31625,
+                    "End": 31645
+                },
+                {
+                    "Reply": "Jafar, can ya hurry it up?  I'm dyin' in here!",
+                    "Didascalie": "",
+                    "Start": 33721,
+                    "End": 33768
+                },
+                {
+                    "Reply": "I will have the power to get rid of you!  D'oh!  To think--we gotta keep kissing up to that chump, and his chump daughter for the rest of our lives...",
+                    "Didascalie": "(As JASMINE)",
+                    "Start": 52949,
+                    "End": 53125
+                },
+                {
+                    "Reply": "Oh!  Wait a minute!  Wait a minute!",
+                    "Didascalie": "(Has an idea)",
+                    "Start": 53278,
+                    "End": 53315
+                },
+                {
+                    "Reply": "Okay, you marry the princess,all right? Then, uh, you become sultan!",
+                    "Didascalie": "",
+                    "Start": 53423,
+                    "End": 53500
+                },
+                {
+                    "Reply": "Awk!  The problem with your daughter!",
+                    "Didascalie": "",
+                    "Start": 60259,
+                    "End": 60297
+                },
+                {
+                    "Reply": "Hey, watch it. Watch it with the dumb rug!",
+                    "Didascalie": "",
+                    "Start": 67495,
+                    "End": 67538
+                },
+                {
+                    "Reply": "Oh, excellent judge, yeah, sure...not!!!",
+                    "Didascalie": "",
+                    "Start": 68381,
+                    "End": 68422
+                },
+                {
+                    "Reply": "Well, that's it--we're dead, forget about it.  Just dig a grave for both of us.  We're dead.",
+                    "Didascalie": "",
+                    "Start": 83285,
+                    "End": 83386
+                },
+                {
+                    "Reply": "We gotta get outta here!  We gotta get--  I gotta start packing, your highness.  Only essentials.",
+                    "Didascalie": "",
+                    "Start": 84677,
+                    "End": 84783
+                },
+                {
+                    "Reply": "Why that miserable--",
+                    "Didascalie": "",
+                    "Start": 85439,
+                    "End": 85460
+                },
+                {
+                    "Reply": "Me?",
+                    "Didascalie": "",
+                    "Start": 85520,
+                    "End": 85524
+                },
+                {
+                    "Reply": "Ahem--In the menagerie, hurry.",
+                    "Didascalie": "",
+                    "Start": 88171,
+                    "End": 88202
+                },
+                {
+                    "Reply": "Look at them, cheering that little pipsqueak.",
+                    "Didascalie": "",
+                    "Start": 89672,
+                    "End": 89718
+                },
+                {
+                    "Reply": "That's Sultan Vile Betrayer to you.",
+                    "Didascalie": "",
+                    "Start": 90716,
+                    "End": 90752
+                },
+                {
+                    "Reply": "Why am I not surprised?",
+                    "Didascalie": "",
+                    "Start": 91413,
+                    "End": 91437
+                },
+                {
+                    "Reply": "Ladies and gentlemen, a warm Agrabah welcome for Sorcerer Jafar!",
+                    "Didascalie": "",
+                    "Start": 91823,
+                    "End": 91896
+                },
+                {
+                    "Reply": "Or should we say Aladdin?",
+                    "Didascalie": "",
+                    "Start": 92702,
+                    "End": 92728
+                },
+                {
+                    "Reply": "Good bye, see ya!",
+                    "Didascalie": "",
+                    "Start": 93107,
+                    "End": 93125
+                },
+                {
+                    "Reply": "Puppet ruler want a cracker? Here's your cracker.",
+                    "Didascalie": "",
+                    "Start": 94878,
+                    "End": 94928
+                },
+                {
+                    "Reply": "I'm gettin' out of here!  Come on, you're the genie, I don't want--",
+                    "Didascalie": "",
+                    "Start": 101970,
+                    "End": 102046
+                },
+                {
+                    "Reply": "Oh, shut up, you moron!",
+                    "Didascalie": "",
+                    "Start": 102660,
+                    "End": 102684
+                }
+            ]
+        },
+        {
+            "Character": "CAVE",
+            "Replies": [
+                {
+                    "Reply": "Who disturbs my slumber?",
+                    "Didascalie": "",
+                    "Start": 4382,
+                    "End": 4407
+                },
+                {
+                    "Reply": "Know this.  Only one may enter here.  One whose worth lies far within.  A diamond in the rough.",
+                    "Didascalie": "",
+                    "Start": 4460,
+                    "End": 4564
+                },
+                {
+                    "Reply": "Seek thee out, the diamond in the rough.",
+                    "Didascalie": "",
+                    "Start": 5052,
+                    "End": 5093
+                },
+                {
+                    "Reply": "Who disturbs my slumber?",
+                    "Didascalie": "",
+                    "Start": 34589,
+                    "End": 34614
+                },
+                {
+                    "Reply": "Proceed.  Touch nothing but the lamp.",
+                    "Didascalie": "",
+                    "Start": 34656,
+                    "End": 34694
+                }
+            ]
+        },
+        {
+            "Character": "GUARD",
+            "Replies": [
+                {
+                    "Reply": "Stop, thief!  I'll have your hands for a trophy, street rat!",
+                    "Didascalie": "",
+                    "Start": 6008,
+                    "End": 6077
+                },
+                {
+                    "Reply": "Here you are!",
+                    "Didascalie": "",
+                    "Start": 28568,
+                    "End": 28582
+                },
+                {
+                    "Reply": "We just keep running into each other, don't we, street rat?",
+                    "Didascalie": "",
+                    "Start": 29011,
+                    "End": 29079
+                },
+                {
+                    "Reply": "It's the dungeon for you, boy.",
+                    "Didascalie": "",
+                    "Start": 29294,
+                    "End": 29325
+                },
+                {
+                    "Reply": "Princess Jasmine.",
+                    "Didascalie": "",
+                    "Start": 29700,
+                    "End": 29718
+                },
+                {
+                    "Reply": "What are you doing outside the palace?  And with this street rat?",
+                    "Didascalie": "",
+                    "Start": 29806,
+                    "End": 29880
+                },
+                {
+                    "Reply": "Well, I would, princess, but my orders come from Jafar.  You'll have to take it up with him.",
+                    "Didascalie": "",
+                    "Start": 29965,
+                    "End": 30066
+                },
+                {
+                    "Reply": "Hold him!",
+                    "Didascalie": "",
+                    "Start": 79708,
+                    "End": 79718
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "There he is!",
+                    "Didascalie": "",
+                    "Start": 6719,
+                    "End": 6732
+                },
+                {
+                    "Reply": "You two, over that way, and you, with me.  We'll find him.",
+                    "Didascalie": "",
+                    "Start": 6867,
+                    "End": 6934
+                },
+                {
+                    "Reply": "He's got a sword!",
+                    "Didascalie": "",
+                    "Start": 10761,
+                    "End": 10779
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "You won't get away so easy!",
+                    "Didascalie": "",
+                    "Start": 6744,
+                    "End": 6772
+                },
+                {
+                    "Reply": "You idiot--we've ALL got swords!!",
+                    "Didascalie": "",
+                    "Start": 10791,
+                    "End": 10825
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Getting into trouble a little early today, aren't we Aladdin?",
+                    "Didascalie": "",
+                    "Start": 7076,
+                    "End": 7146
+                }
+            ]
+        },
+        {
+            "Character": "ABU",
+            "Replies": [
+                {
+                    "Reply": "Hello!",
+                    "Didascalie": "",
+                    "Start": 7585,
+                    "End": 7592
+                },
+                {
+                    "Reply": "Uh-oh!",
+                    "Didascalie": "",
+                    "Start": 12187,
+                    "End": 12194
+                },
+                {
+                    "Reply": "Ah, don't.  Huh?",
+                    "Didascalie": "",
+                    "Start": 12565,
+                    "End": 12582
+                },
+                {
+                    "Reply": "Blah blah blah!",
+                    "Didascalie": "",
+                    "Start": 20273,
+                    "End": 20289
+                },
+                {
+                    "Reply": "Bye bye!",
+                    "Didascalie": "",
+                    "Start": 20491,
+                    "End": 20500
+                },
+                {
+                    "Reply": "Uh oh.  Hello?  Hello?",
+                    "Didascalie": "",
+                    "Start": 21834,
+                    "End": 21857
+                },
+                {
+                    "Reply": "Well, blah blah blah blah.",
+                    "Didascalie": "",
+                    "Start": 23358,
+                    "End": 23385
+                },
+                {
+                    "Reply": "Why you!",
+                    "Didascalie": "",
+                    "Start": 27758,
+                    "End": 27767
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 28133,
+                    "End": 28139
+                },
+                {
+                    "Reply": "Oh, boy!",
+                    "Didascalie": "",
+                    "Start": 28336,
+                    "End": 28345
+                },
+                {
+                    "Reply": "The princess?",
+                    "Didascalie": "(peeking out from the vase)",
+                    "Start": 29783,
+                    "End": 29798
+                },
+                {
+                    "Reply": "Yoo-hoo!  Aladdin? Hello!",
+                    "Didascalie": "(from a distance)",
+                    "Start": 32190,
+                    "End": 32217
+                },
+                {
+                    "Reply": "Yeah, yeah, yeah.",
+                    "Didascalie": "",
+                    "Start": 32693,
+                    "End": 32711
+                },
+                {
+                    "Reply": "Ta da!",
+                    "Didascalie": "",
+                    "Start": 32928,
+                    "End": 32935
+                },
+                {
+                    "Reply": "Oh, hmm.",
+                    "Didascalie": "",
+                    "Start": 34448,
+                    "End": 34457
+                },
+                {
+                    "Reply": "Uh oh!",
+                    "Didascalie": "",
+                    "Start": 35126,
+                    "End": 35133
+                },
+                {
+                    "Reply": "Huh?",
+                    "Didascalie": "",
+                    "Start": 35597,
+                    "End": 35602
+                },
+                {
+                    "Reply": "Aladdin!  Aladdin!",
+                    "Didascalie": "",
+                    "Start": 35870,
+                    "End": 35889
+                },
+                {
+                    "Reply": "Oh.  Huh?",
+                    "Didascalie": "",
+                    "Start": 37739,
+                    "End": 37749
+                },
+                {
+                    "Reply": "Uh oh!",
+                    "Didascalie": "",
+                    "Start": 38341,
+                    "End": 38348
+                },
+                {
+                    "Reply": "Oh, oh. Aladdin?  Wake up.  Aladdin.",
+                    "Didascalie": "",
+                    "Start": 41411,
+                    "End": 41448
+                },
+                {
+                    "Reply": "Aha!",
+                    "Didascalie": "",
+                    "Start": 41755,
+                    "End": 41760
+                },
+                {
+                    "Reply": "Uh oh!",
+                    "Didascalie": "",
+                    "Start": 58241,
+                    "End": 58248
+                },
+                {
+                    "Reply": "Ohhh.",
+                    "Didascalie": "",
+                    "Start": 87388,
+                    "End": 87394
+                },
+                {
+                    "Reply": "Yuck!",
+                    "Didascalie": "",
+                    "Start": 97566,
+                    "End": 97572
+                }
+            ]
+        },
+        {
+            "Character": "GUARDS",
+            "Replies": [
+                {
+                    "Reply": "Riffraff! Street rat!",
+                    "Didascalie": "(one at a time)",
+                    "Start": 8363,
+                    "End": 8386
+                },
+                {
+                    "Reply": "Rip him open, take it back guys!",
+                    "Didascalie": "",
+                    "Start": 8582,
+                    "End": 8615
+                },
+                {
+                    "Reply": "WRONG!",
+                    "Didascalie": "",
+                    "Start": 10326,
+                    "End": 10333
+                }
+            ]
+        },
+        {
+            "Character": "WOMEN",
+            "Replies": [
+                {
+                    "Reply": "Who?!?",
+                    "Didascalie": "",
+                    "Start": 8711,
+                    "End": 8718
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN",
+            "Replies": [
+                {
+                    "Reply": "I'd blame parents, except he hasn't got 'em!",
+                    "Didascalie": "",
+                    "Start": 9028,
+                    "End": 9073
+                }
+            ]
+        },
+        {
+            "Character": "CROWD",
+            "Replies": [
+                {
+                    "Reply": "Stop, thief! Vandal!",
+                    "Didascalie": "",
+                    "Start": 9908,
+                    "End": 9929
+                },
+                {
+                    "Reply": "Vandal!",
+                    "Didascalie": "",
+                    "Start": 11127,
+                    "End": 11135
+                },
+                {
+                    "Reply": "Street rat!",
+                    "Didascalie": "",
+                    "Start": 11182,
+                    "End": 11194
+                },
+                {
+                    "Reply": "Scoundrel!",
+                    "Didascalie": "",
+                    "Start": 11242,
+                    "End": 11253
+                },
+                {
+                    "Reply": "Take that!",
+                    "Didascalie": "",
+                    "Start": 11308,
+                    "End": 11319
+                }
+            ]
+        },
+        {
+            "Character": "BYSTANDER 1",
+            "Replies": [
+                {
+                    "Reply": "On his way to the palace, I suppose.",
+                    "Didascalie": "",
+                    "Start": 12773,
+                    "End": 12810
+                }
+            ]
+        },
+        {
+            "Character": "BYSTANDER 2",
+            "Replies": [
+                {
+                    "Reply": "Another suitor for the princess.",
+                    "Didascalie": "",
+                    "Start": 12826,
+                    "End": 12859
+                }
+            ]
+        },
+        {
+            "Character": "PRINCE",
+            "Replies": [
+                {
+                    "Reply": "Out of my way, you filthy brat!",
+                    "Didascalie": "",
+                    "Start": 13015,
+                    "End": 13047
+                },
+                {
+                    "Reply": "Oh--I teach you some manners!",
+                    "Didascalie": "",
+                    "Start": 13245,
+                    "End": 13275
+                },
+                {
+                    "Reply": "You are a worthless street rat.  You were born a street rat, you'll die a street rat, and only your fleas will mourn you.",
+                    "Didascalie": "",
+                    "Start": 13498,
+                    "End": 13636
+                },
+                {
+                    "Reply": "I've never been so insulted!",
+                    "Didascalie": "",
+                    "Start": 14471,
+                    "End": 14500
+                },
+                {
+                    "Reply": "Good luck marrying her off!",
+                    "Didascalie": "",
+                    "Start": 14583,
+                    "End": 14611
+                }
+            ]
+        },
+        {
+            "Character": "SULTAN",
+            "Replies": [
+                {
+                    "Reply": "Oh, Prince Achmed.  You're not leaving so soon, are you?",
+                    "Didascalie": "",
+                    "Start": 14509,
+                    "End": 14574
+                },
+                {
+                    "Reply": "Confound it, Rajah!  So, this is why Prince Achmed stormed out!",
+                    "Didascalie": "",
+                    "Start": 14973,
+                    "End": 15045
+                },
+                {
+                    "Reply": "Dearest, you've got to stop rejecting every suitor that comes to call.  The law says you...",
+                    "Didascalie": "",
+                    "Start": 15420,
+                    "End": 15520
+                },
+                {
+                    "Reply": "By your next birthday.",
+                    "Didascalie": "",
+                    "Start": 15607,
+                    "End": 15630
+                },
+                {
+                    "Reply": "You've only got three more days!",
+                    "Didascalie": "",
+                    "Start": 15668,
+                    "End": 15701
+                },
+                {
+                    "Reply": "going to be around forever, and I just want to make sure you're taken care of, provided for.",
+                    "Didascalie": "",
+                    "Start": 15984,
+                    "End": 16085
+                },
+                {
+                    "Reply": "But Jasmine, you're a princess.",
+                    "Didascalie": "",
+                    "Start": 16448,
+                    "End": 16480
+                },
+                {
+                    "Reply": "Oooohhh!  Allah forbid you should have any daughters!",
+                    "Didascalie": "",
+                    "Start": 16577,
+                    "End": 16639
+                },
+                {
+                    "Reply": "Ah, Jafar--my most trusted advisor.  I am in desperate need of your wisdom.",
+                    "Didascalie": "",
+                    "Start": 17018,
+                    "End": 17102
+                },
+                {
+                    "Reply": "It's this suitor business.  Jasmine refuses to choose a husband.  I'm at my wit's-end.",
+                    "Didascalie": "",
+                    "Start": 17168,
+                    "End": 17263
+                },
+                {
+                    "Reply": "If anyone can help, it's you.",
+                    "Didascalie": "",
+                    "Start": 17747,
+                    "End": 17777
+                },
+                {
+                    "Reply": "Uh, my ring?  But it's been in the family for years.",
+                    "Didascalie": "",
+                    "Start": 17862,
+                    "End": 17923
+                },
+                {
+                    "Reply": "Everything...will be...fine.",
+                    "Didascalie": "",
+                    "Start": 18357,
+                    "End": 18386
+                },
+                {
+                    "Reply": "Here, Jafar. Whatever you need will be fine.",
+                    "Didascalie": "",
+                    "Start": 18415,
+                    "End": 18460
+                },
+                {
+                    "Reply": "Yes...that'll be...pretty good.",
+                    "Didascalie": "(Still hypnotized)",
+                    "Start": 18699,
+                    "End": 18733
+                },
+                {
+                    "Reply": "Jasmine?  Oh, dearest.  What's wrong?",
+                    "Didascalie": "",
+                    "Start": 41076,
+                    "End": 41114
+                },
+                {
+                    "Reply": "There, there, there, my child--we'll set it right.",
+                    "Didascalie": "",
+                    "Start": 41222,
+                    "End": 41273
+                },
+                {
+                    "Reply": "Jafar, this is an outrage.  If it weren't for all your years of loyal service... . From now on, you are to discuss sentencing of prisoners with me, before they are beheaded.",
+                    "Didascalie": "",
+                    "Start": 52048,
+                    "End": 52246
+                },
+                {
+                    "Reply": "Jasmine, Jafar, now let's put this whole messy business behind us.  Please?",
+                    "Didascalie": "",
+                    "Start": 52314,
+                    "End": 52398
+                },
+                {
+                    "Reply": "Oh, really?",
+                    "Didascalie": "",
+                    "Start": 60305,
+                    "End": 60317
+                },
+                {
+                    "Reply": "What?  Who?",
+                    "Didascalie": "",
+                    "Start": 60973,
+                    "End": 60985
+                },
+                {
+                    "Reply": "Why, I thought the law says that only a prince can marry a princess, I'm quite sure.",
+                    "Didascalie": "",
+                    "Start": 61045,
+                    "End": 61138
+                },
+                {
+                    "Reply": "Yes...desperate measures...",
+                    "Didascalie": "",
+                    "Start": 61285,
+                    "End": 61313
+                },
+                {
+                    "Reply": "Jafar., you must come and see this!",
+                    "Didascalie": "",
+                    "Start": 61718,
+                    "End": 61754
+                },
+                {
+                    "Reply": "Splendid, absolutely marvelous.",
+                    "Didascalie": "(Clapping)",
+                    "Start": 65770,
+                    "End": 65803
+                },
+                {
+                    "Reply": "This is my royal vizier, Jafar.  He's delighted too.",
+                    "Didascalie": "",
+                    "Start": 66057,
+                    "End": 66118
+                },
+                {
+                    "Reply": "...by Allah, this is quite a remarkable device.",
+                    "Didascalie": "",
+                    "Start": 66306,
+                    "End": 66354
+                },
+                {
+                    "Reply": "I don't suppose I might...",
+                    "Didascalie": "(He tugs at the tassels, and they tug his moustache.)",
+                    "Start": 66423,
+                    "End": 66452
+                },
+                {
+                    "Reply": "--Oh, button up, Jafar.  Learn to have a little fun.",
+                    "Didascalie": "",
+                    "Start": 66678,
+                    "End": 66731
+                },
+                {
+                    "Reply": "Look out, Polly!",
+                    "Didascalie": "",
+                    "Start": 67324,
+                    "End": 67341
+                },
+                {
+                    "Reply": "Jasmine after all.",
+                    "Didascalie": "",
+                    "Start": 68222,
+                    "End": 68241
+                },
+                {
+                    "Reply": "Nonsense.  One thing I pride myself on Jafar, I'm an excellent judge of character.",
+                    "Didascalie": "",
+                    "Start": 68282,
+                    "End": 68373
+                },
+                {
+                    "Reply": "Jasmine will like this one!",
+                    "Didascalie": "",
+                    "Start": 68460,
+                    "End": 68488
+                },
+                {
+                    "Reply": "Jasmine!",
+                    "Didascalie": "",
+                    "Start": 81728,
+                    "End": 81737
+                },
+                {
+                    "Reply": "You should be, Jasmine. I have chosen a husband for you.",
+                    "Didascalie": "(Still monotone from the hypnosis)",
+                    "Start": 81861,
+                    "End": 81927
+                },
+                {
+                    "Reply": "You will wed Jafar.",
+                    "Didascalie": "(The other door opens and reveals JAFAR.)",
+                    "Start": 81994,
+                    "End": 82024
+                },
+                {
+                    "Reply": "Obviously...lying.",
+                    "Didascalie": "",
+                    "Start": 82759,
+                    "End": 82778
+                },
+                {
+                    "Reply": "Oh, oh, oh my!",
+                    "Didascalie": "",
+                    "Start": 83009,
+                    "End": 83024
+                },
+                {
+                    "Reply": "What?  Jafar?  You, you traitor!",
+                    "Didascalie": "",
+                    "Start": 83132,
+                    "End": 83165
+                },
+                {
+                    "Reply": "Guards! Guards!",
+                    "Didascalie": "",
+                    "Start": 83257,
+                    "End": 83273
+                },
+                {
+                    "Reply": "Arrest Jafar at once.",
+                    "Didascalie": "",
+                    "Start": 83491,
+                    "End": 83513
+                },
+                {
+                    "Reply": "Find him, search everywhere!",
+                    "Didascalie": "",
+                    "Start": 83738,
+                    "End": 83767
+                },
+                {
+                    "Reply": "Jafar, my most trusted counselor, plotting against me all this time.  Just horrible.  How will I ever-",
+                    "Didascalie": "",
+                    "Start": 83894,
+                    "End": 84005
+                },
+                {
+                    "Reply": "People of Agrabah, My daughter has finally chosen a suitor!",
+                    "Didascalie": "",
+                    "Start": 89016,
+                    "End": 89084
+                },
+                {
+                    "Reply": "...Ali Ababwa!",
+                    "Didascalie": "",
+                    "Start": 89574,
+                    "End": 89589
+                },
+                {
+                    "Reply": "Bless my soul.  What is this?  What is going on?",
+                    "Didascalie": "",
+                    "Start": 90416,
+                    "End": 90465
+                },
+                {
+                    "Reply": "Jafar, you vile betrayer.",
+                    "Didascalie": "",
+                    "Start": 90678,
+                    "End": 90704
+                },
+                {
+                    "Reply": "Jafar, I order you to stop!",
+                    "Didascalie": "",
+                    "Start": 91217,
+                    "End": 91245
+                },
+                {
+                    "Reply": "That's right.  You've certainly proven your worth as far as I'm concerned. It's that law that's the problem.",
+                    "Didascalie": "",
+                    "Start": 105187,
+                    "End": 105312
+                },
+                {
+                    "Reply": "Well, am I sultan or am I sultan?  From this day forth, the princess shall marry whomever she deems worthy.",
+                    "Didascalie": "",
+                    "Start": 105340,
+                    "End": 105464
+                }
+            ]
+        },
+        {
+            "Character": "JASMINE",
+            "Replies": [
+                {
+                    "Reply": "Ahem.",
+                    "Didascalie": "",
+                    "Start": 15406,
+                    "End": 15412
+                },
+                {
+                    "Reply": "The law is wrong.",
+                    "Didascalie": "",
+                    "Start": 15642,
+                    "End": 15660
+                },
+                {
+                    "Reply": "I want it to be for love.",
+                    "Didascalie": "",
+                    "Start": 15833,
+                    "End": 15859
+                },
+                {
+                    "Reply": "walls.",
+                    "Didascalie": "",
+                    "Start": 16433,
+                    "End": 16440
+                },
+                {
+                    "Reply": "really very sorry.",
+                    "Didascalie": "",
+                    "Start": 21596,
+                    "End": 21615
+                },
+                {
+                    "Reply": "Pay?",
+                    "Didascalie": "(Mystified)",
+                    "Start": 22168,
+                    "End": 22174
+                },
+                {
+                    "Reply": "Oh, I'm sorry sir.  I don't have any money.",
+                    "Didascalie": "",
+                    "Start": 22230,
+                    "End": 22274
+                },
+                {
+                    "Reply": "Please, if you let me go to the palace, I can get some from the Sultan.",
+                    "Didascalie": "",
+                    "Start": 22309,
+                    "End": 22393
+                },
+                {
+                    "Reply": "No, no please!",
+                    "Didascalie": "",
+                    "Start": 22550,
+                    "End": 22565
+                },
+                {
+                    "Reply": "What are you doing?",
+                    "Didascalie": "(whispering)",
+                    "Start": 22767,
+                    "End": 22788
+                },
+                {
+                    "Reply": "Oh, wise Sultan.  How may I serve you?",
+                    "Didascalie": "",
+                    "Start": 23303,
+                    "End": 23342
+                },
+                {
+                    "Reply": "Oh, hello doctor.",
+                    "Didascalie": "(To a camel standing nearby)",
+                    "Start": 23676,
+                    "End": 23695
+                },
+                {
+                    "Reply": "I want to thank you for stopping that man.",
+                    "Didascalie": "",
+                    "Start": 25551,
+                    "End": 25594
+                },
+                {
+                    "Reply": "Is it that obvious?",
+                    "Didascalie": "",
+                    "Start": 25789,
+                    "End": 25809
+                },
+                {
+                    "Reply": "I'm a fast learner.",
+                    "Didascalie": "",
+                    "Start": 26318,
+                    "End": 26338
+                },
+                {
+                    "Reply": "Is this where you live?",
+                    "Didascalie": "",
+                    "Start": 26526,
+                    "End": 26550
+                },
+                {
+                    "Reply": "Fabulous.",
+                    "Didascalie": "",
+                    "Start": 26624,
+                    "End": 26634
+                },
+                {
+                    "Reply": "Oh, it's wonderful.",
+                    "Didascalie": "",
+                    "Start": 26807,
+                    "End": 26827
+                },
+                {
+                    "Reply": "Oh, sure.   People who tell you where to go and how to dress.",
+                    "Didascalie": "",
+                    "Start": 26936,
+                    "End": 27006
+                },
+                {
+                    "Reply": "You're not free to make your own choices.",
+                    "Didascalie": "",
+                    "Start": 27111,
+                    "End": 27153
+                },
+                {
+                    "Reply": "You're just--",
+                    "Didascalie": "",
+                    "Start": 27201,
+                    "End": 27215
+                },
+                {
+                    "Reply": "What does it matter?  I ran away, and I am not going back.",
+                    "Didascalie": "",
+                    "Start": 27536,
+                    "End": 27603
+                },
+                {
+                    "Reply": "My father's forcing me to get married.",
+                    "Didascalie": "",
+                    "Start": 27828,
+                    "End": 27867
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 28067,
+                    "End": 28073
+                },
+                {
+                    "Reply": "Oh did he?",
+                    "Didascalie": "",
+                    "Start": 28151,
+                    "End": 28162
+                },
+                {
+                    "Reply": "And does Abu have anything else to say?",
+                    "Didascalie": "",
+                    "Start": 28203,
+                    "End": 28243
+                },
+                {
+                    "Reply": "Hmm, tell him that's very sweet.",
+                    "Didascalie": "",
+                    "Start": 28357,
+                    "End": 28390
+                },
+                {
+                    "Reply": "My father must have sent them--",
+                    "Didascalie": "",
+                    "Start": 28688,
+                    "End": 28720
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 28761,
+                    "End": 28767
+                },
+                {
+                    "Reply": "Let go of him.",
+                    "Didascalie": "",
+                    "Start": 29369,
+                    "End": 29384
+                },
+                {
+                    "Reply": "Unhand him, by order of the princess.",
+                    "Didascalie": "(standing up and pulling off the hood of her cloak)",
+                    "Start": 29575,
+                    "End": 29622
+                },
+                {
+                    "Reply": "That's not your concern.  Do as I command.  Release him!",
+                    "Didascalie": "",
+                    "Start": 29892,
+                    "End": 29957
+                },
+                {
+                    "Reply": "will.",
+                    "Didascalie": "",
+                    "Start": 30185,
+                    "End": 30191
+                },
+                {
+                    "Reply": "Jafar?",
+                    "Didascalie": "",
+                    "Start": 30432,
+                    "End": 30439
+                },
+                {
+                    "Reply": "The guards just took a boy from the market, on your orders.",
+                    "Didascalie": "",
+                    "Start": 30604,
+                    "End": 30672
+                },
+                {
+                    "Reply": "What was the crime?",
+                    "Didascalie": "",
+                    "Start": 30781,
+                    "End": 30801
+                },
+                {
+                    "Reply": "He didn't kidnap me! I ran away!",
+                    "Didascalie": "",
+                    "Start": 31011,
+                    "End": 31044
+                },
+                {
+                    "Reply": "What do you mean?",
+                    "Didascalie": "",
+                    "Start": 31161,
+                    "End": 31179
+                },
+                {
+                    "Reply": "What sentence?",
+                    "Didascalie": "",
+                    "Start": 31263,
+                    "End": 31278
+                },
+                {
+                    "Reply": "It's all my fault, Rajah.  I didn't even know his name.",
+                    "Didascalie": "",
+                    "Start": 31876,
+                    "End": 31940
+                },
+                {
+                    "Reply": "At least some good will come of my being forced to marry.  When I am queen, I will have the power to get rid of you.",
+                    "Didascalie": "",
+                    "Start": 52554,
+                    "End": 52687
+                },
+                {
+                    "Reply": "Who's there?",
+                    "Didascalie": "",
+                    "Start": 71114,
+                    "End": 71127
+                },
+                {
+                    "Reply": "I do not want to see you.",
+                    "Didascalie": "",
+                    "Start": 71240,
+                    "End": 71266
+                },
+                {
+                    "Reply": "Wait, wait.  Do I know you?",
+                    "Didascalie": "(She looks at him thinking she has seen him before.)",
+                    "Start": 71736,
+                    "End": 71766
+                },
+                {
+                    "Reply": "You remind me of someone I met in  the marketplace.",
+                    "Didascalie": "",
+                    "Start": 71832,
+                    "End": 71884
+                },
+                {
+                    "Reply": "No, I guess not.",
+                    "Didascalie": "(She looks disappointed.)",
+                    "Start": 72171,
+                    "End": 72190
+                },
+                {
+                    "Reply": "Punctual?",
+                    "Didascalie": "",
+                    "Start": 72485,
+                    "End": 72495
+                },
+                {
+                    "Reply": "Hmm.  I'm rich too, you know.",
+                    "Didascalie": "",
+                    "Start": 72576,
+                    "End": 72606
+                },
+                {
+                    "Reply": "A fine prize for any  prince to marry.",
+                    "Didascalie": "",
+                    "Start": 72693,
+                    "End": 72732
+                },
+                {
+                    "Reply": "Right, a prince like you.  And every other stuffed  shirt, swaggering, peacock I've met!",
+                    "Didascalie": "",
+                    "Start": 72845,
+                    "End": 72947
+                },
+                {
+                    "Reply": "What!?!",
+                    "Didascalie": "",
+                    "Start": 73353,
+                    "End": 73361
+                },
+                {
+                    "Reply": "No!",
+                    "Didascalie": "",
+                    "Start": 73655,
+                    "End": 73659
+                },
+                {
+                    "Reply": "How--how are you doing that?",
+                    "Didascalie": "(Now she's amazed)",
+                    "Start": 73753,
+                    "End": 73783
+                },
+                {
+                    "Reply": "Is it safe?",
+                    "Didascalie": "",
+                    "Start": 74079,
+                    "End": 74091
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "(Gets a sly grin on her face)",
+                    "Start": 74330,
+                    "End": 74336
+                },
+                {
+                    "Reply": "A whole new world A dazzling place I never knew But when I'm way up here It's crystal clear That now I'm in a whole new world with you!",
+                    "Didascalie": "",
+                    "Start": 75366,
+                    "End": 75518
+                },
+                {
+                    "Reply": "A whole new world!",
+                    "Didascalie": "",
+                    "Start": 76116,
+                    "End": 76135
+                },
+                {
+                    "Reply": "I'm like a shooting star, I've come so far I can't go back to where I used to be!",
+                    "Didascalie": "",
+                    "Start": 76282,
+                    "End": 76372
+                },
+                {
+                    "Reply": "It's all so magical.",
+                    "Didascalie": "",
+                    "Start": 77473,
+                    "End": 77494
+                },
+                {
+                    "Reply": "It's a shame Abu had to miss this.",
+                    "Didascalie": "(She looks at him and decides to burst the bubble)",
+                    "Start": 77574,
+                    "End": 77618
+                },
+                {
+                    "Reply": "You are the boy from the market!  I knew it.  Why did you lie to me?",
+                    "Didascalie": "(She pulls off his turban)",
+                    "Start": 77852,
+                    "End": 77930
+                },
+                {
+                    "Reply": "Did you think I was stupid?",
+                    "Didascalie": "",
+                    "Start": 77974,
+                    "End": 78002
+                },
+                {
+                    "Reply": "That I wouldn't figure it out?",
+                    "Didascalie": "",
+                    "Start": 78030,
+                    "End": 78061
+                },
+                {
+                    "Reply": "Who are you?  Tell me the truth!",
+                    "Didascalie": "",
+                    "Start": 78158,
+                    "End": 78191
+                },
+                {
+                    "Reply": "Why didn't you just tell me?",
+                    "Didascalie": "",
+                    "Start": 78535,
+                    "End": 78564
+                },
+                {
+                    "Reply": "Not that strange.",
+                    "Didascalie": "",
+                    "Start": 78715,
+                    "End": 78733
+                },
+                {
+                    "Reply": "Good night, my handsome prince.",
+                    "Didascalie": "",
+                    "Start": 79039,
+                    "End": 79071
+                },
+                {
+                    "Reply": "Oh, father--I just had the most wonderful time.",
+                    "Didascalie": "",
+                    "Start": 81749,
+                    "End": 81797
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 81939,
+                    "End": 81945
+                },
+                {
+                    "Reply": "Father, I choose Prince Ali!",
+                    "Didascalie": "",
+                    "Start": 82202,
+                    "End": 82231
+                },
+                {
+                    "Reply": "Prince Ali!",
+                    "Didascalie": "",
+                    "Start": 82396,
+                    "End": 82408
+                },
+                {
+                    "Reply": "Father, what's wrong with you?",
+                    "Didascalie": "",
+                    "Start": 82840,
+                    "End": 82871
+                },
+                {
+                    "Reply": "Yes.",
+                    "Didascalie": "",
+                    "Start": 83819,
+                    "End": 83824
+                },
+                {
+                    "Reply": "Ali, oh Ali--will you come here?",
+                    "Didascalie": "(From a distance)",
+                    "Start": 87884,
+                    "End": 87919
+                },
+                {
+                    "Reply": "Ali, where have you been?",
+                    "Didascalie": "",
+                    "Start": 89224,
+                    "End": 89250
+                },
+                {
+                    "Reply": "The whole kingdom has turned out for father's announcement!",
+                    "Didascalie": "",
+                    "Start": 89314,
+                    "End": 89382
+                },
+                {
+                    "Reply": "Never!",
+                    "Didascalie": "",
+                    "Start": 95565,
+                    "End": 95572
+                },
+                {
+                    "Reply": "Jafar!  I never realized how incredibly handsome you are.",
+                    "Didascalie": "(She stands and puts the crown on her head.)",
+                    "Start": 96205,
+                    "End": 96280
+                },
+                {
+                    "Reply": "You're tall, well dressed...",
+                    "Didascalie": "",
+                    "Start": 96448,
+                    "End": 96477
+                },
+                {
+                    "Reply": "What street rat?",
+                    "Didascalie": "",
+                    "Start": 97335,
+                    "End": 97352
+                },
+                {
+                    "Reply": "Aladdin!",
+                    "Didascalie": "",
+                    "Start": 99665,
+                    "End": 99674
+                },
+                {
+                    "Reply": "What have you done?",
+                    "Didascalie": "(to ALADDIN)",
+                    "Start": 101558,
+                    "End": 101579
+                },
+                {
+                    "Reply": "I know why you did.",
+                    "Didascalie": "",
+                    "Start": 103250,
+                    "End": 103270
+                },
+                {
+                    "Reply": "Oh, that stupid law.  This isn't fair--I love you.",
+                    "Didascalie": "",
+                    "Start": 103419,
+                    "End": 103470
+                },
+                {
+                    "Reply": "I understand.",
+                    "Didascalie": "",
+                    "Start": 103992,
+                    "End": 104006
+                },
+                {
+                    "Reply": "Father?",
+                    "Didascalie": "",
+                    "Start": 105324,
+                    "End": 105332
+                },
+                {
+                    "Reply": "Him!  I choose...I choose you, Aladdin.",
+                    "Didascalie": "(She smiles widely and runs into ALADDIN's arms.)",
+                    "Start": 105525,
+                    "End": 105574
+                }
+            ]
+        },
+        {
+            "Character": "BOTH",
+            "Replies": [
+                {
+                    "Reply": "...must be married to a prince.",
+                    "Didascalie": "",
+                    "Start": 15532,
+                    "End": 15564
+                },
+                {
+                    "Reply": "--trapped.",
+                    "Didascalie": "(in unison)",
+                    "Start": 27238,
+                    "End": 27250
+                },
+                {
+                    "Reply": "Eeewww!",
+                    "Didascalie": "",
+                    "Start": 53245,
+                    "End": 53253
+                },
+                {
+                    "Reply": "For you and me!",
+                    "Didascalie": "",
+                    "Start": 77253,
+                    "End": 77269
+                },
+                {
+                    "Reply": "MEN'S CHORUS:   A whole new world!",
+                    "Didascalie": "",
+                    "Start": 106492,
+                    "End": 106527
+                }
+            ]
+        },
+        {
+            "Character": "PROPRIETOR",
+            "Replies": [
+                {
+                    "Reply": "get your paws off that.",
+                    "Didascalie": "",
+                    "Start": 20233,
+                    "End": 20257
+                },
+                {
+                    "Reply": "Why, you!  Get away from here, you filthy ape!",
+                    "Didascalie": "",
+                    "Start": 20301,
+                    "End": 20348
+                },
+                {
+                    "Reply": "You'd better be able to pay for that.",
+                    "Didascalie": "",
+                    "Start": 22103,
+                    "End": 22141
+                },
+                {
+                    "Reply": "No one steals from my cart!",
+                    "Didascalie": "",
+                    "Start": 22186,
+                    "End": 22214
+                },
+                {
+                    "Reply": "Thief!",
+                    "Didascalie": "",
+                    "Start": 22286,
+                    "End": 22293
+                },
+                {
+                    "Reply": "Do you know what the penalty is for stealing?",
+                    "Didascalie": "",
+                    "Start": 22405,
+                    "End": 22451
+                },
+                {
+                    "Reply": "You know this girl?",
+                    "Didascalie": "",
+                    "Start": 22851,
+                    "End": 22871
+                },
+                {
+                    "Reply": "She said she knows the Sultan!",
+                    "Didascalie": "",
+                    "Start": 23085,
+                    "End": 23116
+                },
+                {
+                    "Reply": "you little thieves!",
+                    "Didascalie": "",
+                    "Start": 24037,
+                    "End": 24057
+                }
+            ]
+        },
+        {
+            "Character": "SHOPKEEPER 1",
+            "Replies": [
+                {
+                    "Reply": "Pretty lady, buy a pot.  No finer pot in brass or silver.",
+                    "Didascalie": "",
+                    "Start": 20839,
+                    "End": 20909
+                }
+            ]
+        },
+        {
+            "Character": "SHOPKEEPER 2",
+            "Replies": [
+                {
+                    "Reply": "Sugar dates, sugar dates and figs!  Sugar dates and pistachios!",
+                    "Didascalie": "",
+                    "Start": 20925,
+                    "End": 21001
+                }
+            ]
+        },
+        {
+            "Character": "SHOPKEEPER 3",
+            "Replies": [
+                {
+                    "Reply": "Would the lady like a necklace.  A pretty necklace for a pretty lady.",
+                    "Didascalie": "",
+                    "Start": 21017,
+                    "End": 21099
+                }
+            ]
+        },
+        {
+            "Character": "SHOPKEEPER 4",
+            "Replies": [
+                {
+                    "Reply": "Fresh fish!  We catch 'em, you buy 'em!",
+                    "Didascalie": "",
+                    "Start": 21201,
+                    "End": 21241
+                }
+            ]
+        },
+        {
+            "Character": "ALADDIN AND JASMINE",
+            "Replies": [
+                {
+                    "Reply": "after you?",
+                    "Didascalie": "",
+                    "Start": 28665,
+                    "End": 28676
+                }
+            ]
+        },
+        {
+            "Character": "OLD MAN",
+            "Replies": [
+                {
+                    "Reply": "You're only a fool if you give up, boy.",
+                    "Didascalie": "",
+                    "Start": 32998,
+                    "End": 33038
+                },
+                {
+                    "Reply": "A lowly prisoner, like yourself.  But together, perhaps we can be more.",
+                    "Didascalie": "",
+                    "Start": 33170,
+                    "End": 33250
+                },
+                {
+                    "Reply": "There is a cave, boy.  A cave of wonders.  Filled with treasures beyond your wildest dreams.",
+                    "Didascalie": "",
+                    "Start": 33289,
+                    "End": 33390
+                },
+                {
+                    "Reply": "You've heard of the golden rule, haven't you boy?",
+                    "Didascalie": "",
+                    "Start": 33840,
+                    "End": 33890
+                },
+                {
+                    "Reply": "I need a young man with strong legs and a strong back to go in after it.",
+                    "Didascalie": "",
+                    "Start": 34081,
+                    "End": 34162
+                },
+                {
+                    "Reply": "Mmm, mmm, mmm.,  Things aren't always what they seem.  So, do we have a deal?",
+                    "Didascalie": "",
+                    "Start": 34298,
+                    "End": 34384
+                },
+                {
+                    "Reply": "Remember, boy--first fetch me the lamp, and then you shall have your reward.",
+                    "Didascalie": "",
+                    "Start": 34791,
+                    "End": 34876
+                },
+                {
+                    "Reply": "Throw me the lamp!",
+                    "Didascalie": "",
+                    "Start": 39749,
+                    "End": 39768
+                },
+                {
+                    "Reply": "First give me the lamp!",
+                    "Didascalie": "",
+                    "Start": 39829,
+                    "End": 39853
+                },
+                {
+                    "Reply": "Ha ha ha ha!  Yes!  At last!  Ha ha ha ha!",
+                    "Didascalie": "",
+                    "Start": 39982,
+                    "End": 40025
+                }
+            ]
+        },
+        {
+            "Character": "CAVE VOICE",
+            "Replies": [
+                {
+                    "Reply": "Infidels!",
+                    "Didascalie": "",
+                    "Start": 38315,
+                    "End": 38325
+                },
+                {
+                    "Reply": "will never again see the light of day!",
+                    "Didascalie": "",
+                    "Start": 38544,
+                    "End": 38583
+                }
+            ]
+        },
+        {
+            "Character": "GENIE",
+            "Replies": [
+                {
+                    "Reply": "didn't singe the fur!  Hey, Rugman!  Haven't seen you in a few millennia!  Slap me some tassel!  Yo!",
+                    "Didascalie": "",
+                    "Start": 43440,
+                    "End": 43549
+                },
+                {
+                    "Reply": "but never duplicated--",
+                    "Didascalie": "",
+                    "Start": 44216,
+                    "End": 44239
+                },
+                {
+                    "Reply": "DUP. GENIES Duplicated, duplicated,  duplicated, duplicated,  duplicated,  duplicated, duplicated, duplicated, duplicated.",
+                    "Didascalie": "(He multiplies into multiple GENIES who surround him.)",
+                    "Start": 44294,
+                    "End": 44447
+                },
+                {
+                    "Reply": "here for your enjoyment wish fulfillment.",
+                    "Didascalie": "",
+                    "Start": 44618,
+                    "End": 44660
+                },
+                {
+                    "Reply": "Well Ali Baba had them forty thieves Scheherazadie had a thousand tales But master you in luck 'cause up your sleeve You got a brand of magic never fails!",
+                    "Didascalie": "",
+                    "Start": 45450,
+                    "End": 45617
+                },
+                {
+                    "Reply": "Mister Aladdin sir What will your pleasure be?",
+                    "Didascalie": "(Boxing ring appears, ALADDIN in the corner, being massaged by GENIE.  Then GENIE turns into a pile of fireworks and explodes.  Then GENIE appears inside lamp and grabs ALADDIN's hand and rubs lamp with it.)",
+                    "Start": 46188,
+                    "End": 46245
+                },
+                {
+                    "Reply": "So what'll it be, master?",
+                    "Didascalie": "",
+                    "Start": 50005,
+                    "End": 50031
+                },
+                {
+                    "Reply": "it!",
+                    "Didascalie": "",
+                    "Start": 50796,
+                    "End": 50800
+                },
+                {
+                    "Reply": "emergency, the exits are here, here, here, here,here, here, here, here, here, here, here, here, anywhere!  Keep your hands and arms inside the carpet.  Weeee'rrrrrreee...outta here!",
+                    "Didascalie": "",
+                    "Start": 51651,
+                    "End": 51857
+                },
+                {
+                    "Reply": "that, Mr.  doubting mustafa?",
+                    "Didascalie": "",
+                    "Start": 54236,
+                    "End": 54265
+                },
+                {
+                    "Reply": "Dost mine ears deceive me?  Three? You are down by ONE, boy!",
+                    "Didascalie": "",
+                    "Start": 54337,
+                    "End": 54406
+                },
+                {
+                    "Reply": "Well, don't I feel just sheepish?  All right, you baaaaad boy,  but no more freebies.",
+                    "Didascalie": "",
+                    "Start": 54596,
+                    "End": 54690
+                },
+                {
+                    "Reply": "Me?  No one's ever asked me that before. Well, in my case, ah, forget it.",
+                    "Didascalie": "",
+                    "Start": 54865,
+                    "End": 54947
+                },
+                {
+                    "Reply": "Freedom.",
+                    "Didascalie": "",
+                    "Start": 54987,
+                    "End": 54996
+                },
+                {
+                    "Reply": "It's all part-and-parcel, the whole genie gig.",
+                    "Didascalie": "",
+                    "Start": 55035,
+                    "End": 55082
+                },
+                {
+                    "Reply": "The only way I get outta this is if my master wishes me out.  So you can guess how often that's happened.",
+                    "Didascalie": "",
+                    "Start": 55721,
+                    "End": 55843
+                },
+                {
+                    "Reply": "Uh huh, right.  Whoop!",
+                    "Didascalie": "(Head turns into Pinocchio's with a long nose)",
+                    "Start": 55940,
+                    "End": 55972
+                },
+                {
+                    "Reply": "most?",
+                    "Didascalie": "",
+                    "Start": 56369,
+                    "End": 56375
+                },
+                {
+                    "Reply": "make anybody fall in love, remember?",
+                    "Didascalie": "",
+                    "Start": 56535,
+                    "End": 56572
+                },
+                {
+                    "Reply": "Pretty?",
+                    "Didascalie": "",
+                    "Start": 56635,
+                    "End": 56643
+                },
+                {
+                    "Reply": "Ami.  C'est l'amour.",
+                    "Didascalie": "(Sitting in a Parisian cafe with ABU and CARPET.)",
+                    "Start": 56801,
+                    "End": 56831
+                },
+                {
+                    "Reply": "words!",
+                    "Didascalie": "",
+                    "Start": 57460,
+                    "End": 57467
+                },
+                {
+                    "Reply": "vest combo is much too third century. These patches--what are we trying to say--beggar?  No!",
+                    "Didascalie": "",
+                    "Start": 57705,
+                    "End": 57806
+                },
+                {
+                    "Reply": "Still not enough.  Let's see.  What do you need?",
+                    "Didascalie": "",
+                    "Start": 58830,
+                    "End": 58879
+                },
+                {
+                    "Reply": "He's got the outfit, he's got the elephant, but we're not through yet.  Hang on to your turban, kid, cause we're gonna make you a star!",
+                    "Didascalie": "",
+                    "Start": 59675,
+                    "End": 59827
+                },
+                {
+                    "Reply": "When it comes to exotic type mammals Has he got a zoo, I'm telling you It's a world class menagerie!",
+                    "Didascalie": "(GENIE is off screen, a giant balloon gorilla proceeds down the parade)",
+                    "Start": 63560,
+                    "End": 63674
+                },
+                {
+                    "Reply": "Prince Ali, Handsome is he, Ali Ababwa There's no question this Ali's alluring That physique, how can I speak Never ordinary, never boring Weak at the knee Everything about the man just plain impresses Well, get on out in that square He's a wonder, he's a whiz, a wonder Adjust your veil and prepare He's about to pull my heart asunder To gawk and grovel and stare at Prince Ali!",
+                    "Didascalie": "",
+                    "Start": 63915,
+                    "End": 64355
+                },
+                {
+                    "Reply": "Prince Ali!",
+                    "Didascalie": "",
+                    "Start": 65233,
+                    "End": 65245
+                },
+                {
+                    "Reply": "can't believe it--I'm losing to a rug.",
+                    "Didascalie": "",
+                    "Start": 69954,
+                    "End": 69993
+                },
+                {
+                    "Reply": "All right, sparky, here's the deal.  You wanna court the little lady, you gotta be a straight shooter, do ya follow me?",
+                    "Didascalie": "(as Jack Nicholson)",
+                    "Start": 70052,
+                    "End": 70189
+                },
+                {
+                    "Reply": "Tell her the...TRUTH!!!",
+                    "Didascalie": "(Back to normal, wearing a mortarboard. He points out his words on a blackboard)",
+                    "Start": 70303,
+                    "End": 70337
+                },
+                {
+                    "Reply": "A woman appreciates a man who can make her laugh!",
+                    "Didascalie": "",
+                    "Start": 70514,
+                    "End": 70564
+                },
+                {
+                    "Reply": "Al, all joking aside, you really oughtta be yourself.",
+                    "Didascalie": "(ALADDIN pulls the chain turning off the light. GENIE comes out holding the real turban.)",
+                    "Start": 70669,
+                    "End": 70733
+                },
+                {
+                    "Reply": "Like a prince.",
+                    "Didascalie": "(Sadly)",
+                    "Start": 70900,
+                    "End": 70916
+                },
+                {
+                    "Reply": "How's our beau doing?",
+                    "Didascalie": "",
+                    "Start": 71498,
+                    "End": 71520
+                },
+                {
+                    "Reply": "Don't you scare me like that!",
+                    "Didascalie": "",
+                    "Start": 81310,
+                    "End": 81340
+                },
+                {
+                    "Reply": "Oh, Al.  I'm gettin' kind of fond of you, kid.  Not that I want to pick out curtains or anything.",
+                    "Didascalie": "",
+                    "Start": 81469,
+                    "End": 81575
+                },
+                {
+                    "Reply": "sadness to the bed, where he falls on it and sighs.",
+                    "Didascalie": "",
+                    "Start": 86137,
+                    "End": 86189
+                },
+                {
+                    "Reply": "Al, you won!",
+                    "Didascalie": "",
+                    "Start": 86765,
+                    "End": 86778
+                },
+                {
+                    "Reply": "role of Al will be played by a tall, dark and sinister ugly man.",
+                    "Didascalie": "",
+                    "Start": 89969,
+                    "End": 90042
+                },
+                {
+                    "Reply": "I was afraid of that.",
+                    "Didascalie": "",
+                    "Start": 90156,
+                    "End": 90178
+                },
+                {
+                    "Reply": "Ah, master-- there are a few addendas, some quid pro quo-",
+                    "Didascalie": "(Again as Buckley)",
+                    "Start": 95891,
+                    "End": 95958
+                },
+                {
+                    "Reply": "Al!  Al, little buddy!",
+                    "Didascalie": "",
+                    "Start": 96568,
+                    "End": 96591
+                },
+                {
+                    "Reply": "Rickem, rockem, rackem, rake--stick that sword into that snake!",
+                    "Didascalie": "",
+                    "Start": 99222,
+                    "End": 99294
+                },
+                {
+                    "Reply": "Jafar, Jafar, he's our man--if he can't do it, GREAT!",
+                    "Didascalie": "(Weakly)",
+                    "Start": 99393,
+                    "End": 99456
+                },
+                {
+                    "Reply": "Al, what are you doing?  Why are you bringing me into this?",
+                    "Didascalie": "",
+                    "Start": 100634,
+                    "End": 100702
+                },
+                {
+                    "Reply": "All right, your wish is my command.",
+                    "Didascalie": "(Reluctantly)",
+                    "Start": 101145,
+                    "End": 101182
+                },
+                {
+                    "Reply": "Al, you little genius, you!",
+                    "Didascalie": "",
+                    "Start": 102175,
+                    "End": 102203
+                },
+                {
+                    "Reply": "wonders ought to chill him out!",
+                    "Didascalie": "",
+                    "Start": 103003,
+                    "End": 103035
+                },
+                {
+                    "Reply": "Al, no problem. You've still got one wish left.  Just say the word and you're a prince again.",
+                    "Didascalie": "(Wipes away a tear)",
+                    "Start": 103497,
+                    "End": 103609
+                },
+                {
+                    "Reply": "not gonna find another girl like her in a million years.  Believe me, I know.  I've looked.",
+                    "Didascalie": "",
+                    "Start": 103779,
+                    "End": 103879
+                },
+                {
+                    "Reply": "One bona fide prince pedigree coming up.  I--what?",
+                    "Didascalie": "",
+                    "Start": 104148,
+                    "End": 104199
+                },
+                {
+                    "Reply": "quick, wish for something outrageous.  Say  \"I want the Nile.\"   Wish for the Nile.  Try that!",
+                    "Didascalie": "",
+                    "Start": 104561,
+                    "End": 104664
+                },
+                {
+                    "Reply": "good!  I'm free!  I'm free at last!  I'm hittin' the road.  I'm off to see the world!  I--",
+                    "Didascalie": "",
+                    "Start": 104820,
+                    "End": 104919
+                },
+                {
+                    "Reply": "Me too, Al.  No matter what anybody says, you'll always be a prince to me.",
+                    "Didascalie": "",
+                    "Start": 105055,
+                    "End": 105138
+                },
+                {
+                    "Reply": "Oh, all of ya. Come over here.  Big group hug!",
+                    "Didascalie": "",
+                    "Start": 105771,
+                    "End": 105818
+                },
+                {
+                    "Reply": "Made ya look!",
+                    "Didascalie": "",
+                    "Start": 106772,
+                    "End": 106786
+                }
+            ]
+        },
+        {
+            "Character": "ABU INTO",
+            "Replies": [
+                {
+                    "Reply": "Talk about your trunk space, check this action out!",
+                    "Didascalie": "(And on the keyword of the spell, Dumbo, ABU turns into an elephant.  CARPET struggles to get out from under ABU's size 46 feet.)",
+                    "Start": 59382,
+                    "End": 59444
+                }
+            ]
+        },
+        {
+            "Character": "MARCHERS",
+            "Replies": [
+                {
+                    "Reply": "Make way for Prince Ali!",
+                    "Didascalie": "",
+                    "Start": 61864,
+                    "End": 61889
+                }
+            ]
+        },
+        {
+            "Character": "SWORDSMEN",
+            "Replies": [
+                {
+                    "Reply": "Say hey!  It's Prince Ali!",
+                    "Didascalie": "",
+                    "Start": 61900,
+                    "End": 61927
+                }
+            ]
+        },
+        {
+            "Character": "MAJOR",
+            "Replies": [
+                {
+                    "Reply": "Hey, clear the way in the old bazaar, Hey you, let us through, it's a bright new star, Now come, be the first on your block to meet his eye!",
+                    "Didascalie": "",
+                    "Start": 61935,
+                    "End": 62084
+                }
+            ]
+        },
+        {
+            "Character": "CHORUS OF MEN",
+            "Replies": [
+                {
+                    "Reply": "He's got seventy-five golden camels!",
+                    "Didascalie": "(Carrying the camels)",
+                    "Start": 63197,
+                    "End": 63235
+                }
+            ]
+        },
+        {
+            "Character": "HARRY",
+            "Replies": [
+                {
+                    "Reply": "Don't they look lovely, June?",
+                    "Didascalie": "",
+                    "Start": 63284,
+                    "End": 63314
+                }
+            ]
+        },
+        {
+            "Character": "CHORUS OF WOMEN",
+            "Replies": [
+                {
+                    "Reply": "Purple peacocks, he's got fifty-three!",
+                    "Didascalie": "(On a float)",
+                    "Start": 63347,
+                    "End": 63388
+                }
+            ]
+        },
+        {
+            "Character": "JUNE",
+            "Replies": [
+                {
+                    "Reply": "Fabulous, Harry, I love the feathers!",
+                    "Didascalie": "",
+                    "Start": 63430,
+                    "End": 63468
+                }
+            ]
+        },
+        {
+            "Character": "CHORUS",
+            "Replies": [
+                {
+                    "Reply": "He's got ninety-five white Persian monkeys!",
+                    "Didascalie": "",
+                    "Start": 64512,
+                    "End": 64556
+                }
+            ]
+        },
+        {
+            "Character": "BEE",
+            "Replies": [
+                {
+                    "Reply": "Enough about you, Casanova.  Talk about her! She's smart,  fun, the hair, the eyes.",
+                    "Didascalie": "(It's the GENIE)",
+                    "Start": 72218,
+                    "End": 72311
+                },
+                {
+                    "Reply": "Wonderful, glorious, magnificent, punctual!",
+                    "Didascalie": "",
+                    "Start": 72407,
+                    "End": 72451
+                },
+                {
+                    "Reply": "Sorry.",
+                    "Didascalie": "",
+                    "Start": 72507,
+                    "End": 72514
+                },
+                {
+                    "Reply": "Nice recovery.",
+                    "Didascalie": "",
+                    "Start": 72549,
+                    "End": 72564
+                },
+                {
+                    "Reply": "Warning! Warning!",
+                    "Didascalie": "(Buzzing in his ear)",
+                    "Start": 72814,
+                    "End": 72833
+                },
+                {
+                    "Reply": "Mayday!",
+                    "Didascalie": "(Rear end on fire, wearing goggles and crashing)",
+                    "Start": 73007,
+                    "End": 73016
+                },
+                {
+                    "Reply": "Stop her! Stop her! Do you want me to sting her?",
+                    "Didascalie": "",
+                    "Start": 73135,
+                    "End": 73184
+                }
+            ]
+        },
+        {
+            "Character": "FLAMINGO",
+            "Replies": [
+                {
+                    "Reply": "D'uh!",
+                    "Didascalie": "",
+                    "Start": 88386,
+                    "End": 88392
+                }
+            ]
+        }
+    ]
 }

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Black Rain",
-        "   "
-    ],
+    "Title": "Black Rain",
     "Author": [
-        "\u00a0\u00a0Craig Bolotin\u00a0\u00a0Warren Lewis"
+        "Craig Bolotin",
+        "Warren Lewis"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2422,17 +2422,6 @@
             ]
         },
         {
-            "Character": "A HALF DOZEN COPS",
-            "Replies": [
-                {
-                    "Reply": "line the patrons up against the wall.  The Asst. D.A., PATTY ZACHARA, climbs onto the crap table.  A petite, nervous woman, Patty has dressed in a Channel suit for the occasion.",
-                    "Didascalie": "",
-                    "Start": 4441,
-                    "End": 4622
-                }
-            ]
-        },
-        {
             "Character": "ZACHARA",
             "Replies": [
                 {
@@ -3074,17 +3063,6 @@
                     "Didascalie": "",
                     "Start": 126224,
                     "End": 126245
-                }
-            ]
-        },
-        {
-            "Character": "A PAIR",
-            "Replies": [
-                {
-                    "Reply": "Two other police officers in spotless tan uniforms stand at his side.",
-                    "Didascalie": "",
-                    "Start": 30295,
-                    "End": 30366
                 }
             ]
         },
@@ -4538,45 +4516,6 @@
             ]
         },
         {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "in a Hawaiian shirt, his arms covered with tattoos, is starting a new game.",
-                    "Didascalie": "",
-                    "Start": 63601,
-                    "End": 63678
-                },
-                {
-                    "Reply": "partially shadowed, standing in the alley.",
-                    "Didascalie": "",
-                    "Start": 90057,
-                    "End": 90100
-                }
-            ]
-        },
-        {
-            "Character": "INSERT A PHOTO",
-            "Replies": [
-                {
-                    "Reply": "one of Kobo's porno pics.  It's the same face.",
-                    "Didascalie": "",
-                    "Start": 65687,
-                    "End": 65734
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL NICK",
-            "Replies": [
-                {
-                    "Reply": "holding the photo, standing in the crowded store.  Ich is beside him.",
-                    "Didascalie": "",
-                    "Start": 65750,
-                    "End": 65821
-                }
-            ]
-        },
-        {
             "Character": "NICK AND ICH",
             "Replies": [
                 {
@@ -4619,17 +4558,6 @@
                     "Didascalie": "",
                     "Start": 74304,
                     "End": 74381
-                }
-            ]
-        },
-        {
-            "Character": "A SUBWAY STATION",
-            "Replies": [
-                {
-                    "Reply": "The girl waits until the last minute, then after glancing back, steps in the car.  The train pulls out.  The cars race past until we see --",
-                    "Didascalie": "",
-                    "Start": 74578,
-                    "End": 74720
                 }
             ]
         },
@@ -4906,28 +4834,6 @@
             ]
         },
         {
-            "Character": "A COP",
-            "Replies": [
-                {
-                    "Reply": "standing in a uniform.  Ich.  For a moment he doesn't know what to do.  Then, he draws a pistol from his belt and accelerates toward Ich.",
-                    "Didascalie": "",
-                    "Start": 118210,
-                    "End": 118350
-                }
-            ]
-        },
-        {
-            "Character": "A GUN BLAST",
-            "Replies": [
-                {
-                    "Reply": "Ich is hit in the back of his shoulder, falls onto the porch.",
-                    "Didascalie": "",
-                    "Start": 121229,
-                    "End": 121292
-                }
-            ]
-        },
-        {
             "Character": "NICK AND JOYCE",
             "Replies": [
                 {
@@ -4946,28 +4852,6 @@
                     "Didascalie": "",
                     "Start": 122377,
                     "End": 122456
-                }
-            ]
-        },
-        {
-            "Character": "A BOSOZOKU",
-            "Replies": [
-                {
-                    "Reply": "the one Ich shot in the leg, is closing fast on his tail.",
-                    "Didascalie": "",
-                    "Start": 122893,
-                    "End": 122951
-                }
-            ]
-        },
-        {
-            "Character": "A TRUCK",
-            "Replies": [
-                {
-                    "Reply": "coming around the corner.",
-                    "Didascalie": "",
-                    "Start": 123323,
-                    "End": 123349
                 }
             ]
         },

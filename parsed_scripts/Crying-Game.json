@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Crying Game",
-        "   "
-    ],
+    "Title": "Crying Game",
     "Author": [
-        "\u00a0\u00a0Neil Jordan"
+        "Neil Jordan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Action",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4351,17 +4350,6 @@
                     "Didascalie": "",
                     "Start": 42235,
                     "End": 42293
-                }
-            ]
-        },
-        {
-            "Character": "A GIRL",
-            "Replies": [
-                {
-                    "Reply": "We're closing. I'll see you tomorrow, Dil  She leaves the salon.",
-                    "Didascalie": "",
-                    "Start": 44179,
-                    "End": 44244
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Game 6",
-        "   "
-    ],
+    "Title": "Game 6",
     "Author": [
-        "\u00a0\u00a0Don DeLillo"
+        "Don DeLillo"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4443,6 +4441,46 @@
                     "Didascalie": "",
                     "Start": 158804,
                     "End": 158836
+                }
+            ]
+        },
+        {
+            "Character": "ANNOUNCER 1",
+            "Replies": [
+                {
+                    "Reply": "The Sox are one pitch away.",
+                    "Didascalie": "",
+                    "Start": 156673,
+                    "End": 156701
+                },
+                {
+                    "Reply": "Stanley's getting ready.",
+                    "Didascalie": "",
+                    "Start": 156891,
+                    "End": 156916
+                },
+                {
+                    "Reply": "This could be it.",
+                    "Didascalie": "",
+                    "Start": 157108,
+                    "End": 157126
+                }
+            ]
+        },
+        {
+            "Character": "ANNOUNCER 2",
+            "Replies": [
+                {
+                    "Reply": "One pitch away.",
+                    "Didascalie": "",
+                    "Start": 156788,
+                    "End": 156804
+                },
+                {
+                    "Reply": "This could be it.",
+                    "Didascalie": "",
+                    "Start": 157003,
+                    "End": 157021
                 }
             ]
         },

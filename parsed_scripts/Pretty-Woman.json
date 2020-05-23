@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Pretty Woman",
-        "   "
-    ],
+    "Title": "Pretty Woman",
     "Author": [
-        "\u00a0\u00a0J.F. Lawton"
+        "J.F. Lawton"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -1918,6 +1916,17 @@
             ]
         },
         {
+            "Character": "INVESTMENT BANKER 1",
+            "Replies": [
+                {
+                    "Reply": "Our banks certainly doesn't want to discourage Harris Enterprises from investing in California.",
+                    "Didascalie": "",
+                    "Start": 1380,
+                    "End": 1484
+                }
+            ]
+        },
+        {
             "Character": "VANCE",
             "Replies": [
                 {
@@ -2528,6 +2537,28 @@
             ]
         },
         {
+            "Character": "INVESTMENT BANKER 2",
+            "Replies": [
+                {
+                    "Reply": "Not yet.  But ship building is a new endeavor for you...",
+                    "Didascalie": "",
+                    "Start": 2059,
+                    "End": 2120
+                }
+            ]
+        },
+        {
+            "Character": "INVESTMENT BANKER 3",
+            "Replies": [
+                {
+                    "Reply": "Bill, be reasonable.  If you're really going to digest Kross Industries that quickly eighteen should not be such a problem.",
+                    "Didascalie": "",
+                    "Start": 2337,
+                    "End": 2473
+                }
+            ]
+        },
+        {
             "Character": "BUTLER",
             "Replies": [
                 {
@@ -2535,17 +2566,6 @@
                     "Didascalie": "",
                     "Start": 3962,
                     "End": 4010
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Edward!",
-                    "Didascalie": "",
-                    "Start": 4779,
-                    "End": 4787
                 }
             ]
         },
@@ -4861,6 +4881,28 @@
             ]
         },
         {
+            "Character": "COOK 1",
+            "Replies": [
+                {
+                    "Reply": "Hi, hi!  No see nothing.",
+                    "Didascalie": "",
+                    "Start": 12437,
+                    "End": 12462
+                }
+            ]
+        },
+        {
+            "Character": "COOK 2",
+            "Replies": [
+                {
+                    "Reply": "Looking good, bay-bee.",
+                    "Didascalie": "",
+                    "Start": 12548,
+                    "End": 12571
+                }
+            ]
+        },
+        {
             "Character": "COP",
             "Replies": [
                 {
@@ -5964,17 +6006,6 @@
             ]
         },
         {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "We're good together.  He has to admit it.  I've been just what he wants me to be.  I say the right things, I know the right people, I give wonderful parties.",
-                    "Didascalie": "",
-                    "Start": 92107,
-                    "End": 92281
-                }
-            ]
-        },
-        {
             "Character": "DAVID KROSS",
             "Replies": [
                 {
@@ -6071,6 +6102,28 @@
                     "Didascalie": "",
                     "Start": 143069,
                     "End": 143102
+                }
+            ]
+        },
+        {
+            "Character": "PROSTITUTE 1",
+            "Replies": [
+                {
+                    "Reply": "Ain't seen her, wouldn't know her.",
+                    "Didascalie": "",
+                    "Start": 143709,
+                    "End": 143748
+                }
+            ]
+        },
+        {
+            "Character": "PROSTITUTE 2",
+            "Replies": [
+                {
+                    "Reply": "What's wrong with us, man?  Two for the price a one, what ya say?",
+                    "Didascalie": "",
+                    "Start": 143776,
+                    "End": 143846
                 }
             ]
         }

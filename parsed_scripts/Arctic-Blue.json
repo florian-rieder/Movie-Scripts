@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Arctic Blue",
-        "   "
-    ],
+    "Title": "Arctic Blue",
     "Author": [
-        "\u00a0\u00a0Ross LaManna"
+        "Ross LaManna"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Action",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -239,12 +237,6 @@
                     "Didascalie": "(hands her the package)",
                     "Start": 38558,
                     "End": 38624
-                },
-                {
-                    "Reply": "37   CONTINUED:  Perplexed, she looks at the return address --",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 38652,
-                    "End": 38716
                 },
                 {
                     "Reply": "You were looking at it in the catalog.  Don't know where you can wear it...",
@@ -955,12 +947,6 @@
                     "End": 138355
                 },
                 {
-                    "Reply": "168  CONTINUED:  Anne Marie reluctantly takes the huge gun.  Trying to allay her fears, Eric sits and brushes the hair from her face.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 138383,
-                    "End": 138518
-                },
-                {
                     "Reply": "Answer and I'll shoot!",
                     "Didascalie": "",
                     "Start": 141546,
@@ -1074,12 +1060,6 @@
                     "End": 3401
                 },
                 {
-                    "Reply": "3\tCONTINUED:  He pauses, then brings to his shoulder a rifle with a four-power scope mounted atop it.  He peers through the scope.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 3429,
-                    "End": 3561
-                },
-                {
                     "Reply": "LeMalle digs through the camping goodies in the back of the Land Rover, many still in their packages.  He helps himself to some sandwiches and a 12-pack of beer.",
                     "Didascalie": "",
                     "Start": 15795,
@@ -1090,12 +1070,6 @@
                     "Didascalie": "",
                     "Start": 69185,
                     "End": 69277
-                },
-                {
-                    "Reply": "94   CONTINUED:  Corbett realizes Eric is at a disadvantage.  But before he can bolt, Eric grabs for the .357 magnum under his coat.  He lies on the snow, gasping, pointing the gun at Corbett's midsection.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 69305,
-                    "End": 69512
                 },
                 {
                     "Reply": "The bear gets a muzzle full of the stuff.  HOWLING unhappily, it backs away, GRUNTING and SNEEZING.  Greatly offended, its appetite gone, it lopes into the forest.",
@@ -2185,12 +2159,6 @@
                     "End": 32975
                 },
                 {
-                    "Reply": "31   CONTINUED:  shivering by a woodshed near the hot springs, hacksawing a piece of meat from a frozen moose carcass.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 33152,
-                    "End": 33272
-                },
-                {
                     "Reply": "Nice bluff the other day with the tranquilizer gun out your jeep window.  See you again, maybe.",
                     "Didascalie": "",
                     "Start": 33746,
@@ -2527,12 +2495,6 @@
                     "End": 84447
                 },
                 {
-                    "Reply": "107  CONTINUED:  Eric turns, surprised at Corbett's unabashed awe.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 84475,
-                    "End": 84543
-                },
-                {
                     "Reply": "Just gather birch.  It'll smoke like hell, but it'll burn green.",
                     "Didascalie": "(shouts over WIND)",
                     "Start": 87955,
@@ -2675,12 +2637,6 @@
                     "Didascalie": "",
                     "Start": 101382,
                     "End": 101403
-                },
-                {
-                    "Reply": "119  CONTINUED:  Corbett's legs.  Eric rubs his arms and hands, but it isn't enough.  Eric loathes the specter of death, even Corbett's.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 101670,
-                    "End": 101808
                 },
                 {
                     "Reply": "Where's my ELT?",
@@ -2939,12 +2895,6 @@
                     "Didascalie": "",
                     "Start": 142955,
                     "End": 143017
-                },
-                {
-                    "Reply": "175  CONTINUED:  The trappers follow his VOICE toward the rental cabins.",
-                    "Didascalie": "(OS) (CONTINUED)",
-                    "Start": 143045,
-                    "End": 143119
                 },
                 {
                     "Reply": "I'm fine.  Look forward to seeing you...",

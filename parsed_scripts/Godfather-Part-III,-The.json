@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Godfather Part III, The",
-        "   "
-    ],
+    "Title": "Godfather Part III, The",
     "Author": [
-        "\u00a0\u00a0Mario Puzo\u00a0\u00a0Francis Ford Coppola"
+        "Mario Puzo",
+        "Francis Ford Coppola"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -1504,17 +1504,6 @@
             ]
         },
         {
-            "Character": "A IOTSM XYGLE",
-            "Replies": [
-                {
-                    "Reply": "as Eaaen smiles, shakes his head. Sureaucracy..",
-                    "Didascalie": "",
-                    "Start": 22952,
-                    "End": 23000
-                }
-            ]
-        },
-        {
             "Character": "EAGEN",
             "Replies": [
                 {
@@ -2473,6 +2462,17 @@
                     "Didascalie": "",
                     "Start": 63868,
                     "End": 63938
+                }
+            ]
+        },
+        {
+            "Character": "SANTI-1141O",
+            "Replies": [
+                {
+                    "Reply": "Maatr-ocina?",
+                    "Didascalie": "",
+                    "Start": 64210,
+                    "End": 64223
                 }
             ]
         },
@@ -3617,17 +3617,6 @@
             ]
         },
         {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Aqua!",
-                    "Didascalie": "",
-                    "Start": 126670,
-                    "End": 126676
-                }
-            ]
-        },
-        {
             "Character": "VIRAL",
             "Replies": [
                 {
@@ -4451,6 +4440,23 @@
                     "Didascalie": "",
                     "Start": 204248,
                     "End": 204322
+                }
+            ]
+        },
+        {
+            "Character": "MO 2 CUSZ",
+            "Replies": [
+                {
+                    "Reply": "I remember him very well -- from the Senate hearings on crime. Heat little man. Very polite, spoke in a soft, reasonable voice. He sat there with two million dollars worth of legal talent at his elbow and told the United States Government to go piss up a rope.",
+                    "Didascalie": "",
+                    "Start": 201387,
+                    "End": 201718
+                },
+                {
+                    "Reply": "You had to admire the pretentious little bastard.",
+                    "Didascalie": "(SMILES)",
+                    "Start": 201752,
+                    "End": 201823
                 }
             ]
         },

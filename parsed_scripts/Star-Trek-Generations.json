@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Star Trek: Generations",
-        "   "
-    ],
+    "Title": "Star Trek: Generations",
     "Author": [
-        "\u00a0\u00a0Rick Berman\u00a0\u00a0Ronald Moore\u00a0\u00a0Brannon Braga"
+        "Rick Berman",
+        "Ronald Moore",
+        "Brannon Braga"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {

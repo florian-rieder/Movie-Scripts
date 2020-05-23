@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Wrestler, The",
-        "   "
-    ],
+    "Title": "Wrestler, The",
     "Author": [
-        "\u00a0\u00a0Rob Siegel"
+        "Rob Siegel"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4939,17 +4936,6 @@
                     "Didascalie": "",
                     "Start": 82345,
                     "End": 82358
-                }
-            ]
-        },
-        {
-            "Character": "NICK VOLPE PRODUCTIONS PRESENTS",
-            "Replies": [
-                {
-                    "Reply": "\"LEGENDS OF THE RING\" FANFEST MAY 5-6, 2008  GREENVILLE CIVIC AUDITORIUM - GREENVILLE, SOUTH CAROLINA  I                 THE MAIN EVENT...",
-                    "Didascalie": "",
-                    "Start": 104527,
-                    "End": 104751
                 }
             ]
         },

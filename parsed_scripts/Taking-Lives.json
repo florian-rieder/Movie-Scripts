@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Taking Lives",
-        "   "
-    ],
+    "Title": "Taking Lives",
     "Author": [
-        "\u00a0\u00a0Michael Pye\u00a0\u00a0Jon Bokenkamp"
+        "Michael Pye",
+        "Jon Bokenkamp"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Crime\u00a0\u00a0Thriller\u00a0\u00a0Horror"
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Horror"
     ],
     "Characters": [
         {
@@ -4649,17 +4650,6 @@
                     "Didascalie": "",
                     "Start": 114791,
                     "End": 114971
-                }
-            ]
-        },
-        {
-            "Character": "A FIGHT",
-            "Replies": [
-                {
-                    "Reply": "Two drunk COLLEGE JOCKS slug it out. Grace looks around; no Asher. Angry, frustrated, Grace grabs one of the Jocks, hurls him to the ground. Six UNIFORMS swarm in and arrest the two Jocks.",
-                    "Didascalie": "",
-                    "Start": 115322,
-                    "End": 115511
                 }
             ]
         },

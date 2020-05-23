@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Malcolm X",
-        "   "
-    ],
+    "Title": "Malcolm X",
     "Author": [
-        "\u00a0\u00a0Spike Lee\u00a0\u00a0Arnold Perl"
+        "Spike Lee",
+        "Arnold Perl"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -244,12 +242,6 @@
                     "Didascalie": "",
                     "Start": 60704,
                     "End": 60737
-                },
-                {
-                    "Reply": "The robbery, IN QUICK CUTS:  --A door lock is picked by Sophia.",
-                    "Didascalie": "",
-                    "Start": 61047,
-                    "End": 61113
                 },
                 {
                     "Reply": "Look like Homey got himself a brand new hype.",
@@ -2514,17 +2506,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "SHOWTIME, SHOWTIME!",
-                    "Didascalie": "",
-                    "Start": 10001,
-                    "End": 10021
-                }
-            ]
-        },
-        {
             "Character": "LAURA",
             "Replies": [
                 {
@@ -3487,17 +3468,6 @@
                     "Didascalie": "",
                     "Start": 46378,
                     "End": 46453
-                }
-            ]
-        },
-        {
-            "Character": "A FEMALE VOICE",
-            "Replies": [
-                {
-                    "Reply": "Daniel come in yet, Honey?",
-                    "Didascalie": "",
-                    "Start": 44740,
-                    "End": 44767
                 }
             ]
         },
@@ -5196,6 +5166,53 @@
             ]
         },
         {
+            "Character": "BENJAMIN 2X",
+            "Replies": [
+                {
+                    "Reply": "Take your time.",
+                    "Didascalie": "",
+                    "Start": 127236,
+                    "End": 127252
+                },
+                {
+                    "Reply": "All praises are due to Allah. Thank you, Brother Minister.",
+                    "Didascalie": "",
+                    "Start": 139489,
+                    "End": 139551
+                },
+                {
+                    "Reply": "Brother Minister, can I have something to eat?",
+                    "Didascalie": "",
+                    "Start": 139811,
+                    "End": 139858
+                },
+                {
+                    "Reply": "Give us the command, Malcolm.",
+                    "Didascalie": "",
+                    "Start": 171864,
+                    "End": 171894
+                },
+                {
+                    "Reply": "No, Brother Minister.",
+                    "Didascalie": "",
+                    "Start": 178597,
+                    "End": 178619
+                },
+                {
+                    "Reply": "Next week, Brother Minister.",
+                    "Didascalie": "",
+                    "Start": 178913,
+                    "End": 178942
+                },
+                {
+                    "Reply": "And now, without further remarks, I present to you one who is willing to put himself on the line for you--",
+                    "Didascalie": "",
+                    "Start": 181067,
+                    "End": 181180
+                }
+            ]
+        },
+        {
             "Character": "MODERATOR",
             "Replies": [
                 {
@@ -5412,6 +5429,17 @@
                     "Didascalie": "",
                     "Start": 176771,
                     "End": 176788
+                }
+            ]
+        },
+        {
+            "Character": "BROTHER BENJAMIN 2X",
+            "Replies": [
+                {
+                    "Reply": "No sign of the minister yet.",
+                    "Didascalie": "",
+                    "Start": 176985,
+                    "End": 177014
                 }
             ]
         },

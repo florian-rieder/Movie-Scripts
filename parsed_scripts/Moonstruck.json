@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Moonstruck",
-        "   "
-    ],
+    "Title": "Moonstruck",
     "Author": [
-        "\u00a0\u00a0John Patrick Shanley"
+        "John Patrick Shanley"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Comedy",
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5116,17 +5115,6 @@
                     "Didascalie": "",
                     "Start": 125774,
                     "End": 126034
-                }
-            ]
-        },
-        {
-            "Character": "END OF MUSIC",
-            "Replies": [
-                {
-                    "Reply": "THE TRANSFORMATIONAL MUSIC COMES TO A CLOSE.",
-                    "Didascalie": "",
-                    "Start": 128763,
-                    "End": 128808
                 }
             ]
         },

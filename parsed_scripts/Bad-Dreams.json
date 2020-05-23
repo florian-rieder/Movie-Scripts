@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Bad Dreams",
-        "   "
-    ],
+    "Title": "Bad Dreams",
     "Author": [
-        "\u00a0\u00a0Andrew Fleming\u00a0\u00a0Steven E. de Souza"
+        "Andrew Fleming",
+        "Steven E. de Souza"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2176,17 +2175,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "We got one! We got a survivor! Get a stretcher and oxygen over here, STAT!",
-                    "Didascalie": "",
-                    "Start": 9697,
-                    "End": 9808
-                }
-            ]
-        },
-        {
             "Character": "NEWSCASTERS",
             "Replies": [
                 {
@@ -4312,17 +4300,6 @@
             ]
         },
         {
-            "Character": "A PASSENGER",
-            "Replies": [
-                {
-                    "Reply": "You'd think with what they charge here they could pay their electric bills  LAUGHTER.",
-                    "Didascalie": "",
-                    "Start": 53417,
-                    "End": 53529
-                }
-            ]
-        },
-        {
             "Character": "PASSENGER",
             "Replies": [
                 {
@@ -4633,6 +4610,17 @@
             ]
         },
         {
+            "Character": "FEMALE UNITY MEMBER 2",
+            "Replies": [
+                {
+                    "Reply": "Death is like this really beautiful trip Cynthia. We just want to share it with you.",
+                    "Didascalie": "",
+                    "Start": 170157,
+                    "End": 170299
+                }
+            ]
+        },
+        {
             "Character": "SKIDDING BACKWARDS--",
             "Replies": [
                 {
@@ -4640,17 +4628,6 @@
                     "Didascalie": "",
                     "Start": 179709,
                     "End": 179861
-                }
-            ]
-        },
-        {
-            "Character": "RUNS FORWARD AGAIN--",
-            "Replies": [
-                {
-                    "Reply": "171P   BERRISFORD - QUICK CUTS                                               171P As the car GRINDS him into the ground, his wrist bones SNAPPING, ribs CRUNCHING, body TWITCHING. Finally he is STILL. An artery SQUIRTS fountain-like into the air.",
-                    "Didascalie": "",
-                    "Start": 179973,
-                    "End": 180240
                 }
             ]
         },
@@ -4762,6 +4739,17 @@
                     "Didascalie": "(appalled)",
                     "Start": 208904,
                     "End": 208938
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Cynthia!   Are you staying for supper?",
+                    "Didascalie": "",
+                    "Start": 212620,
+                    "End": 212675
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Princess Bride, The",
-        "   "
-    ],
+    "Title": "Princess Bride, The",
     "Author": [
-        "\u00a0\u00a0William Goldman"
+        "William Goldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Family\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4019,70 +4020,6 @@
             ]
         },
         {
-            "Character": "A GIANT ARM",
-            "Replies": [
-                {
-                    "Reply": "pounding the Eel unconscious in one move, then easily lifting Buttercup.",
-                    "Didascalie": "",
-                    "Start": 29236,
-                    "End": 29309
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "The boat and FEZZIK, Buttercup being deposited on the deck.",
-                    "Didascalie": "",
-                    "Start": 29331,
-                    "End": 29391
-                },
-                {
-                    "Reply": "Vizzini, staring down from a narrow mountain path, as far below the Man In Black can be seen running. FEZZIK, carrying the Princess, stands alongside. It's a little later in the morning.",
-                    "Didascalie": "",
-                    "Start": 57810,
-                    "End": 57997
-                },
-                {
-                    "Reply": "Prince Humperdinck and the others reining in at the spot where Buttercup promised ransom in exchange for her freedom.",
-                    "Didascalie": "",
-                    "Start": 89524,
-                    "End": 89642
-                },
-                {
-                    "Reply": "Humperdinck and Rugen, walking into the grove of trees.",
-                    "Didascalie": "",
-                    "Start": 121831,
-                    "End": 121887
-                },
-                {
-                    "Reply": "Count Rugen, dragging Westley up alongside the thing --",
-                    "Didascalie": "",
-                    "Start": 123964,
-                    "End": 124020
-                },
-                {
-                    "Reply": "The Prince, fastening a pearl necklace around her.",
-                    "Didascalie": "",
-                    "Start": 166834,
-                    "End": 166885
-                },
-                {
-                    "Reply": "The most intelligent looking, the most impressive appearing CLERGYMAN imaginable.",
-                    "Didascalie": "",
-                    "Start": 168235,
-                    "End": 168317
-                },
-                {
-                    "Reply": "Inigo, struggling feebly, pulling the dagger from his stomach. Holding the wound with his left hand.",
-                    "Didascalie": "",
-                    "Start": 183137,
-                    "End": 183238
-                }
-            ]
-        },
-        {
             "Character": "MAN IN BLACK",
             "Replies": [
                 {
@@ -4544,17 +4481,6 @@
             ]
         },
         {
-            "Character": "A COUPLE OF ROCKS",
-            "Replies": [
-                {
-                    "Reply": "Nothing gigantic. Vizzini points to them. There is a large boulder nearby.",
-                    "Didascalie": "",
-                    "Start": 58580,
-                    "End": 58655
-                }
-            ]
-        },
-        {
             "Character": "PRINCE HUMPERDINCK",
             "Replies": [
                 {
@@ -4757,17 +4683,6 @@
             ]
         },
         {
-            "Character": "A WILD STRETCH OF TERRAIN",
-            "Replies": [
-                {
-                    "Reply": "The Man In Black comes running into view, still dragging Buttercup, who sometimes stumbles, but he keeps forcing her along. Finally, when she is close to exhaustion, he lets go of her.",
-                    "Didascalie": "",
-                    "Start": 80640,
-                    "End": 80825
-                }
-            ]
-        },
-        {
             "Character": "COUNT RUGEN",
             "Replies": [
                 {
@@ -4901,17 +4816,6 @@
             ]
         },
         {
-            "Character": "A FLAME SPURT",
-            "Replies": [
-                {
-                    "Reply": "shooting skyward and --",
-                    "Didascalie": "",
-                    "Start": 104731,
-                    "End": 104755
-                }
-            ]
-        },
-        {
             "Character": "BUTTERCUP AND WESTLEY",
             "Replies": [
                 {
@@ -4953,17 +4857,6 @@
                     "Didascalie": "",
                     "Start": 107627,
                     "End": 107654
-                }
-            ]
-        },
-        {
-            "Character": "A THIRD WARRIOR",
-            "Replies": [
-                {
-                    "Reply": "crossbow stretched, ready to shoot; this one is hidden in a tree blocking any escape Westley might try.",
-                    "Didascalie": "",
-                    "Start": 108045,
-                    "End": 108149
                 }
             ]
         },
@@ -5050,17 +4943,6 @@
                     "Didascalie": "(to the crowd)",
                     "Start": 118119,
                     "End": 118481
-                }
-            ]
-        },
-        {
-            "Character": "A VERY THICK GROVE OF TREES",
-            "Replies": [
-                {
-                    "Reply": "The trees are unusual in one respect: all of them are extraordinarily heavily knotted.",
-                    "Didascalie": "",
-                    "Start": 121722,
-                    "End": 121809
                 }
             ]
         },

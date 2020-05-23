@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Sting, The",
-        "   "
-    ],
+    "Title": "Sting, The",
     "Author": [
-        "\u00a0\u00a0David Ward"
+        "David Ward"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Comedy",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {

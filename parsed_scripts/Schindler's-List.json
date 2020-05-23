@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Schindler's List",
-        "   "
-    ],
+    "Title": "Schindler's List",
     "Author": [
-        "\u00a0\u00a0Steven Zaillian"
+        "Steven Zaillian"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Drama",
+        "War"
     ],
     "Characters": [
         {
@@ -2015,17 +2013,6 @@
             ]
         },
         {
-            "Character": "A TABLECLOTH BILLOWS",
-            "Replies": [
-                {
-                    "Reply": "as a waiter lays it down on another table that's been added to the others. Schindler seats the SS officers on either side of his own \"date\" --",
-                    "Didascalie": "",
-                    "Start": 6380,
-                    "End": 6555
-                }
-            ]
-        },
-        {
             "Character": "ROAR OF LAUGHTER",
             "Replies": [
                 {
@@ -2033,6 +2020,28 @@
                     "Didascalie": "",
                     "Start": 6885,
                     "End": 7239
+                }
+            ]
+        },
+        {
+            "Character": "SS OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "Who is that?",
+                    "Didascalie": "",
+                    "Start": 7531,
+                    "End": 7544
+                }
+            ]
+        },
+        {
+            "Character": "SS OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "That's Oskar Schindler. He's an old friend of... I don't know, somebody's.",
+                    "Didascalie": "(like everyone knows)",
+                    "Start": 7646,
+                    "End": 7773
                 }
             ]
         },
@@ -2847,6 +2856,34 @@
                     "Didascalie": "",
                     "Start": 31452,
                     "End": 31467
+                }
+            ]
+        },
+        {
+            "Character": "INVESTOR 1",
+            "Replies": [
+                {
+                    "Reply": "Not good enough.",
+                    "Didascalie": "",
+                    "Start": 33892,
+                    "End": 33909
+                },
+                {
+                    "Reply": "Money's still money.",
+                    "Didascalie": "",
+                    "Start": 34397,
+                    "End": 34418
+                }
+            ]
+        },
+        {
+            "Character": "INVESTOR 2",
+            "Replies": [
+                {
+                    "Reply": "How do we know you'll do what you say?",
+                    "Didascalie": "",
+                    "Start": 35100,
+                    "End": 35165
                 }
             ]
         },
@@ -4311,6 +4348,17 @@
             ]
         },
         {
+            "Character": "GESTAPO 1",
+            "Replies": [
+                {
+                    "Reply": "We'll risk it.",
+                    "Didascalie": "",
+                    "Start": 166582,
+                    "End": 166597
+                }
+            ]
+        },
+        {
             "Character": "SS COLONEL",
             "Replies": [
                 {
@@ -4346,6 +4394,46 @@
                     "Didascalie": "",
                     "Start": 175247,
                     "End": 175615
+                }
+            ]
+        },
+        {
+            "Character": "BRINNLITZ GUY 1",
+            "Replies": [
+                {
+                    "Reply": "Look at this.",
+                    "Didascalie": "",
+                    "Start": 181609,
+                    "End": 181623
+                }
+            ]
+        },
+        {
+            "Character": "BRINNLITZ GUY 2",
+            "Replies": [
+                {
+                    "Reply": "Oskar - my friend Lena.",
+                    "Didascalie": "",
+                    "Start": 182858,
+                    "End": 182882
+                },
+                {
+                    "Reply": "Nothing's changed. Then again, something has changed, hasn't it?",
+                    "Didascalie": "",
+                    "Start": 183187,
+                    "End": 183278
+                },
+                {
+                    "Reply": "Now you're back.",
+                    "Didascalie": "",
+                    "Start": 183571,
+                    "End": 183588
+                },
+                {
+                    "Reply": "He's a salesman.",
+                    "Didascalie": "",
+                    "Start": 184360,
+                    "End": 184377
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Looper",
-        "   "
-    ],
+    "Title": "Looper",
     "Author": [
-        "\u00a0\u00a0Rian Johnson"
+        "Rian Johnson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Crime",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2319,6 +2318,17 @@
             ]
         },
         {
+            "Character": "GAT MAN 3",
+            "Replies": [
+                {
+                    "Reply": "He'll hop a train. Fast and untraceable.",
+                    "Didascalie": "",
+                    "Start": 66098,
+                    "End": 66149
+                }
+            ]
+        },
+        {
             "Character": "THIS",
             "Replies": [
                 {
@@ -2337,17 +2347,6 @@
                     "Didascalie": "(the right straw)",
                     "Start": 80503,
                     "End": 80701
-                }
-            ]
-        },
-        {
-            "Character": "A TRAIN",
-            "Replies": [
-                {
-                    "Reply": "Joe punches Old Joe square in the jaw, and he goes down. His papers and gun fall. The diner door EXPLODES.",
-                    "Didascalie": "",
-                    "Start": 91699,
-                    "End": 91816
                 }
             ]
         },
@@ -3510,17 +3509,6 @@
             ]
         },
         {
-            "Character": "A WALL OF LEAVES",
-            "Replies": [
-                {
-                    "Reply": "Fingers part the green, and Old Joe peers through the dense foliage.",
-                    "Didascalie": "",
-                    "Start": 116324,
-                    "End": 116403
-                }
-            ]
-        },
-        {
             "Character": "HEY-",
             "Replies": [
                 {
@@ -3556,6 +3544,23 @@
                     "Didascalie": "",
                     "Start": 132262,
                     "End": 132371
+                }
+            ]
+        },
+        {
+            "Character": "GAT MAN 1",
+            "Replies": [
+                {
+                    "Reply": "He's there. Lost his signal five minutes ago, right after he sent word he had him. Joe.",
+                    "Didascalie": "",
+                    "Start": 184127,
+                    "End": 184235
+                },
+                {
+                    "Reply": "We got everyone here. All our men.",
+                    "Didascalie": "",
+                    "Start": 189135,
+                    "End": 189170
                 }
             ]
         },

@@ -1,26 +1,16 @@
 {
-    "Title": [
-        "Talented Mr. Ripley, The",
-        "   "
-    ],
+    "Title": "Talented Mr. Ripley, The",
     "Author": [
-        "\u00a0\u00a0Anthony Minghella"
+        "Anthony Minghella"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "PATRICIA  HIGHSMITH",
-            "Replies": [
-                {
-                    "Reply": "1st November 1999        NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS AND SOME \"SCENE OMITTED\" SLUGS. THEY HAVE BEEN REMOVED FOR THIS SOFT COPY.",
-                    "Didascalie": "",
-                    "Start": 289,
-                    "End": 463
-                }
-            ]
-        },
         {
             "Character": "FRAN",
             "Replies": [

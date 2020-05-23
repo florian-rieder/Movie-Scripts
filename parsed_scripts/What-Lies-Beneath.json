@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "What Lies Beneath",
-        "   "
-    ],
+    "Title": "What Lies Beneath",
     "Author": [
-        "\u00a0\u00a0Sarah Kernochan\u00a0\u00a0Clark Gregg"
+        "Sarah Kernochan",
+        "Clark Gregg"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror.Mystery\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Horror.Mystery",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5212,23 +5212,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "\"by Neil McCann\"",
-                    "Didascalie": "",
-                    "Start": 96696,
-                    "End": 96713
-                },
-                {
-                    "Reply": "Madison singing at a recital of some kind.  She's lovely, with striking GREEN EYES.  Around her neck is a distinctive SILVER NECKLACE, with a perfectly wrought, SILVER ROSEBUD.",
-                    "Didascalie": "",
-                    "Start": 102679,
-                    "End": 102856
-                }
-            ]
-        },
-        {
             "Character": "REVERSE",
             "Replies": [
                 {
@@ -5292,17 +5275,6 @@
                     "Didascalie": "",
                     "Start": 143877,
                     "End": 144005
-                }
-            ]
-        },
-        {
-            "Character": "A CASKET",
-            "Replies": [
-                {
-                    "Reply": "Widen to reveal Claire, dressed in black, stepping away from the grave.  A tiny arm snakes around her waist.  She glances down to see Caitlin, her eyes shining, clasping her mother tightly.  Claire takes a last look into the grave.",
-                    "Didascalie": "",
-                    "Start": 143390,
-                    "End": 143622
                 }
             ]
         }

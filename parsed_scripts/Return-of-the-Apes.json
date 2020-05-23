@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Return of the Apes",
-        "   "
-    ],
+    "Title": "Return of the Apes",
     "Author": [
-        "\u00a0\u00a0Terry Hayes"
+        "Terry Hayes"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -28,17 +27,6 @@
             ]
         },
         {
-            "Character": "A HELICOPTER",
-            "Replies": [
-                {
-                    "Reply": "Off the roof of a tall hospital building. As it rises up into the night we see a red cross painted on its side. It's an air ambulance.",
-                    "Didascalie": "",
-                    "Start": 1903,
-                    "End": 2038
-                }
-            ]
-        },
-        {
             "Character": "GROVE OF TREES",
             "Replies": [
                 {
@@ -46,17 +34,6 @@
                     "Didascalie": "",
                     "Start": 2223,
                     "End": 2458
-                }
-            ]
-        },
-        {
-            "Character": "A PAIR OF MECHANICAL HANDS",
-            "Replies": [
-                {
-                    "Reply": "slide a long cylindrical \"key\" into the stainless steel casket. We pull back to reveal the casket lies in a sealed, uncontaminated room. A group of people in lab coats -scientists and researchers - stare through the glass walls.",
-                    "Didascalie": "",
-                    "Start": 2743,
-                    "End": 2972
                 }
             ]
         },
@@ -2168,17 +2145,6 @@
             ]
         },
         {
-            "Character": "A CHEAP APARTMENT",
-            "Replies": [
-                {
-                    "Reply": "Through the window - the neon sign of a gas station. This is Will's place, He lives alone - a bed in the corner, run-down furniture, dishes in the sink.",
-                    "Didascalie": "",
-                    "Start": 10792,
-                    "End": 10945
-                }
-            ]
-        },
-        {
             "Character": "VIDEO ENTRY PHONE",
             "Replies": [
                 {
@@ -2260,17 +2226,6 @@
                     "Didascalie": "",
                     "Start": 16669,
                     "End": 16837
-                }
-            ]
-        },
-        {
-            "Character": "A GEODESIC DOME",
-            "Replies": [
-                {
-                    "Reply": "White, space-age, is being erected on the lawn. Workmen are unloading the NASA trucks. We pull back through a high window of the Biology building. A woman stands there, looking out. Her name is KRIS McQUADE. This is her office -",
-                    "Didascalie": "",
-                    "Start": 19191,
-                    "End": 19420
                 }
             ]
         },
@@ -2605,17 +2560,6 @@
             ]
         },
         {
-            "Character": "A CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "It's late at night. The scientists and their staff are working around the clock. Will wheels a trolley laden with bottles, vials, and catheters down a crowded corridor. Diamond pushes through the people behind, trying to catch up to him. Scientists turn to speak to her but she ignores them.",
-                    "Didascalie": "",
-                    "Start": 24537,
-                    "End": 24829
-                }
-            ]
-        },
-        {
             "Character": "SECURITY OFFICER",
             "Replies": [
                 {
@@ -2678,17 +2622,6 @@
             ]
         },
         {
-            "Character": "A LONG CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "Diamond and the others run fast through pools of light cast by naked bulbs.",
-                    "Didascalie": "",
-                    "Start": 31069,
-                    "End": 31145
-                }
-            ]
-        },
-        {
             "Character": "AN IRON LADDER",
             "Replies": [
                 {
@@ -2700,28 +2633,6 @@
             ]
         },
         {
-            "Character": "A CRAGGY PEAK",
-            "Replies": [
-                {
-                    "Reply": "Will steps out of the cave. Sunrise sweeps over a world born brand new -",
-                    "Didascalie": "",
-                    "Start": 34878,
-                    "End": 34951
-                }
-            ]
-        },
-        {
-            "Character": "A FOREST CLEARING",
-            "Replies": [
-                {
-                    "Reply": "In the middle are the smoldering remains of a camp-fire. Will moves cautiously towards it. He stops - several bodies, terribly mangled, lie on the ground.",
-                    "Didascalie": "",
-                    "Start": 35304,
-                    "End": 35459
-                }
-            ]
-        },
-        {
             "Character": "CRUSHED LEAVES AND BROKEN PLANTS",
             "Replies": [
                 {
@@ -2729,17 +2640,6 @@
                     "Didascalie": "",
                     "Start": 36019,
                     "End": 36234
-                }
-            ]
-        },
-        {
-            "Character": "A SPARKLING STREAM",
-            "Replies": [
-                {
-                    "Reply": "Will splashes through the crystal water. He looks upstream - a small lake.",
-                    "Didascalie": "",
-                    "Start": 36294,
-                    "End": 36369
                 }
             ]
         },
@@ -3156,28 +3056,6 @@
                     "Didascalie": "(proudly)",
                     "Start": 50324,
                     "End": 50385
-                }
-            ]
-        },
-        {
-            "Character": "A TINY BOAT",
-            "Replies": [
-                {
-                    "Reply": "is wreathed in woven leaves. Lying in it is the dead body of a young ape.",
-                    "Didascalie": "",
-                    "Start": 50612,
-                    "End": 50686
-                }
-            ]
-        },
-        {
-            "Character": "A ROCK PLATFORM",
-            "Replies": [
-                {
-                    "Reply": "The mourners step through the arch and on to a slab of rock. We pull back to reveal where they stand - a huge crouching ape has been carved out of the face of a cliff, Its bowed front legs form the archway, the entrance to the temple of the ape.",
-                    "Didascalie": "",
-                    "Start": 51535,
-                    "End": 51781
                 }
             ]
         },
@@ -3902,17 +3780,6 @@
             ]
         },
         {
-            "Character": "A STONE PASSAGE-WAY",
-            "Replies": [
-                {
-                    "Reply": "Will and Aragorn are running, plunging down in to darkness. Arches and corridors open off of it. It's like a labyrinth -",
-                    "Didascalie": "",
-                    "Start": 69705,
-                    "End": 69826
-                }
-            ]
-        },
-        {
             "Character": "ROW OF CAGE-LIKE CELLS",
             "Replies": [
                 {
@@ -4199,17 +4066,6 @@
             ]
         },
         {
-            "Character": "A PRISON LABORATORY",
-            "Replies": [
-                {
-                    "Reply": "The heavy steel doors stand open. Inside is a clean and gruesome room -",
-                    "Didascalie": "",
-                    "Start": 72427,
-                    "End": 72499
-                }
-            ]
-        },
-        {
             "Character": "AN UNEARTHLY LIGHT",
             "Replies": [
                 {
@@ -4239,17 +4095,6 @@
                     "Didascalie": "",
                     "Start": 76778,
                     "End": 76784
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL OFFICE",
-            "Replies": [
-                {
-                    "Reply": "Glass doors seal out the electronic hum. Diamond, staring through the glass, looks exhausted. DeMaupassent sits on a couch. He's in his shirt-sleeves, dark rings under his eyes. Next to him is Bob, the young neurologist. He wears jeans and a t-shirt. On the front it says  \"I'll sleep when I'm dead.\"",
-                    "Didascalie": "",
-                    "Start": 77888,
-                    "End": 78189
                 }
             ]
         },
@@ -4289,28 +4134,6 @@
             ]
         },
         {
-            "Character": "A TINY FETUS",
-            "Replies": [
-                {
-                    "Reply": "perfectly formed - floats in the amniotic fluid. It's alive - the large head sways, the heart beats through the translucent ribs.",
-                    "Didascalie": "",
-                    "Start": 80933,
-                    "End": 81063
-                }
-            ]
-        },
-        {
-            "Character": "A STACK OF HAND-WRITTEN NOTEPADS",
-            "Replies": [
-                {
-                    "Reply": "lie on a table in the basement. We track through them - past computer print-outs and dog-eared journals. We recognize them - these are Will's detailed notes.",
-                    "Didascalie": "",
-                    "Start": 82035,
-                    "End": 82193
-                }
-            ]
-        },
-        {
             "Character": "RED HOT FIRE",
             "Replies": [
                 {
@@ -4339,34 +4162,6 @@
             ]
         },
         {
-            "Character": "A RAINBOW",
-            "Replies": [
-                {
-                    "Reply": "arches across the end of a tiny gorge. Dozens of streams cascade into pools, spilling over ledges and swirling into ponds. Aragorn leads Will and Strider along a hidden, path - a rock ledge that runs behind the waterfalls.",
-                    "Didascalie": "",
-                    "Start": 90883,
-                    "End": 91106
-                },
-                {
-                    "Reply": "A stranger walks out of the west, the moon hides the sun, armies are on the march - come the new moon, nothing in Middle Earth will be the same.",
-                    "Didascalie": "",
-                    "Start": 104598,
-                    "End": 104743
-                }
-            ]
-        },
-        {
-            "Character": "A STONE FIREPLACE",
-            "Replies": [
-                {
-                    "Reply": "Aragorn places his hand on the circle of stones, feeling its warmth.",
-                    "Didascalie": "",
-                    "Start": 91329,
-                    "End": 91398
-                }
-            ]
-        },
-        {
             "Character": "HONEYCOMB OF PASSAGES",
             "Replies": [
                 {
@@ -4374,50 +4169,6 @@
                     "Didascalie": "",
                     "Start": 92279,
                     "End": 92462
-                }
-            ]
-        },
-        {
-            "Character": "A CROSSROADS",
-            "Replies": [
-                {
-                    "Reply": "of arches and stalactites. Will and Strider split apart. Will moves silently through the darkness, into a cavern. Through an archway he sees a shadow on the wall! He goes fast towards it -",
-                    "Didascalie": "",
-                    "Start": 92477,
-                    "End": 92666
-                }
-            ]
-        },
-        {
-            "Character": "A HUGE BOULDER",
-            "Replies": [
-                {
-                    "Reply": "The shadow comes round the boulder. We tilt down and now we see who's holding the torchDiamondl She's armed with a crossbow - cocked end loaded.",
-                    "Didascalie": "",
-                    "Start": 92683,
-                    "End": 92828
-                }
-            ]
-        },
-        {
-            "Character": "A CAVE PAINTING",
-            "Replies": [
-                {
-                    "Reply": "Newly-drawn, is hidden in e nook high up in the main cave. Strider, Will and Diamond watch aa Aregorn looks at it by torchlight.",
-                    "Didascalie": "",
-                    "Start": 94884,
-                    "End": 95013
-                }
-            ]
-        },
-        {
-            "Character": "A SPARKLING RIVER",
-            "Replies": [
-                {
-                    "Reply": "winds through a beautiful valley. The two horses splash along the water's edge. Strider and Aragorn are mounted on one, Will and Diamond on the other. They turn a curve - Aragorn leads them out of the shallows and into the forest.",
-                    "Didascalie": "",
-                    "Start": 99105,
-                    "End": 99336
                 }
             ]
         },
@@ -4574,17 +4325,6 @@
             ]
         },
         {
-            "Character": "A ROCKY GORGE",
-            "Replies": [
-                {
-                    "Reply": "Its rugged walls are lined with piles of huge boulders. Aragorn and a group of warriors are fighting hand-to-hand, being forced back by scores of ape infantry.",
-                    "Didascalie": "",
-                    "Start": 116802,
-                    "End": 116962
-                }
-            ]
-        },
-        {
             "Character": "ANTELOPE",
             "Replies": [
                 {
@@ -4615,17 +4355,6 @@
                     "Didascalie": "",
                     "Start": 122563,
                     "End": 122633
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG GIRL",
-            "Replies": [
-                {
-                    "Reply": "helps her mother set up camp. She is about 10 years old, tawny-haired, taller and straighter-backed'than any of her people. She looks like us.",
-                    "Didascalie": "",
-                    "Start": 123244,
-                    "End": 123387
                 }
             ]
         },
@@ -4694,17 +4423,6 @@
                     "Didascalie": "",
                     "Start": 126369,
                     "End": 126492
-                }
-            ]
-        },
-        {
-            "Character": "A ROCK SHELF",
-            "Replies": [
-                {
-                    "Reply": "She looks across the broad area in front of the cave - apes everywhere, weapons flashing, people screaming.",
-                    "Didascalie": "",
-                    "Start": 126579,
-                    "End": 126687
                 }
             ]
         },
@@ -4855,28 +4573,6 @@
             ]
         },
         {
-            "Character": "A HIDDEN LEDGE",
-            "Replies": [
-                {
-                    "Reply": "much closer to the city. Will and the others move fast along it, deep in the shadows. The river thunders by below them, separating them from the city. The only way across is the massive iron and wood bridge. Ape guards patrol it.",
-                    "Didascalie": "",
-                    "Start": 141739,
-                    "End": 141969
-                }
-            ]
-        },
-        {
-            "Character": "A STEEL ARROW",
-            "Replies": [
-                {
-                    "Reply": "flies through the air. Tied to its shaft, trailing out behind, is a rope made from vines. Will lowers a crossbow. He watches the arrow fly through the mist and spray -",
-                    "Didascalie": "",
-                    "Start": 142081,
-                    "End": 142249
-                }
-            ]
-        },
-        {
             "Character": "HUGE STONE ARCH",
             "Replies": [
                 {
@@ -4884,28 +4580,6 @@
                     "Didascalie": "",
                     "Start": 149046,
                     "End": 149213
-                }
-            ]
-        },
-        {
-            "Character": "A FIRE CRACKLES",
-            "Replies": [
-                {
-                    "Reply": "All of the tribes-people are gathered around it.",
-                    "Didascalie": "",
-                    "Start": 150214,
-                    "End": 150263
-                }
-            ]
-        },
-        {
-            "Character": "A GIANT CHASM",
-            "Replies": [
-                {
-                    "Reply": "It's several hours before dawn. In the gloom - whooshl Kip's Wife rides a flying fox across a precipitous drop.",
-                    "Didascalie": "",
-                    "Start": 154500,
-                    "End": 154612
                 }
             ]
         },
@@ -4921,17 +4595,6 @@
             ]
         },
         {
-            "Character": "A TERRACE",
-            "Replies": [
-                {
-                    "Reply": "Drak is alone, walking a high ridge. He stops, looking down on the twinkling lights. The city is virtually deserted but Drak doesn't move -",
-                    "Didascalie": "",
-                    "Start": 156765,
-                    "End": 156905
-                }
-            ]
-        },
-        {
             "Character": "BEN-GURI",
             "Replies": [
                 {
@@ -4943,17 +4606,6 @@
             ]
         },
         {
-            "Character": "A TORCH",
-            "Replies": [
-                {
-                    "Reply": "is ripped from a bracket. It's Drak.. He shines it down into a stone well.",
-                    "Didascalie": "",
-                    "Start": 158981,
-                    "End": 159056
-                }
-            ]
-        },
-        {
             "Character": "APES",
             "Replies": [
                 {
@@ -4961,28 +4613,6 @@
                     "Didascalie": "",
                     "Start": 159524,
                     "End": 159542
-                }
-            ]
-        },
-        {
-            "Character": "A STONE CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "Will's got Eve slung over his shoulder. They're stumbling down a corridor -",
-                    "Didascalie": "",
-                    "Start": 160018,
-                    "End": 160094
-                }
-            ]
-        },
-        {
-            "Character": "A COURTYARD",
-            "Replies": [
-                {
-                    "Reply": "at the back of the Hall of Learning. It's deep in shadow. From behind they hear the sound of pounding feet. Will looks around, not sure which way to go. He glances across a terrace - the doors to the stables fly open. The ape warriors charge out.",
-                    "Didascalie": "",
-                    "Start": 160186,
-                    "End": 160433
                 }
             ]
         },
@@ -5016,17 +4646,6 @@
                     "Didascalie": "",
                     "Start": 167044,
                     "End": 167271
-                }
-            ]
-        },
-        {
-            "Character": "A CURVED ROAD",
-            "Replies": [
-                {
-                    "Reply": "on a high terrace. Flying around a corner - Will! His coat is billowing, the horse's mane streaming in the wind. He hits the straight-away and gallops even faster.",
-                    "Didascalie": "",
-                    "Start": 171497,
-                    "End": 171661
                 }
             ]
         },

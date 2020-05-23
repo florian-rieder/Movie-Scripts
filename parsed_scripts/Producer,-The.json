@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Producer, The",
-        "   "
-    ],
+    "Title": "Producer, The",
     "Author": [
-        "\u00a0\u00a0Mel Brooks"
+        "Mel Brooks"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Musical"
+        "Comedy",
+        "Musical"
     ],
     "Characters": [
         {
@@ -936,12 +934,6 @@
                     "Didascalie": "(whisper)",
                     "Start": 62479,
                     "End": 62508
-                },
-                {
-                    "Reply": "BACK TO SCENE.",
-                    "Didascalie": "(he downs drink)",
-                    "Start": 62543,
-                    "End": 62561
                 },
                 {
                     "Reply": "With whom?",
@@ -4577,12 +4569,6 @@
                     "End": 118819
                 },
                 {
-                    "Reply": "CUT BACK TO STAGE.  SAME SCENE.  EVA STARTS TO CRY.",
-                    "Didascalie": "",
-                    "Start": 119036,
-                    "End": 119088
-                },
-                {
                     "Reply": "Eternally grateful.  Sincerely yours, Oliver Wendell Drunk.",
                     "Didascalie": "",
                     "Start": 120383,
@@ -4817,6 +4803,17 @@
                     "Didascalie": "",
                     "Start": 158803,
                     "End": 158823
+                }
+            ]
+        },
+        {
+            "Character": "CO-STARRING 440123",
+            "Replies": [
+                {
+                    "Reply": "INVEST NOW!!!! HUGE PROFITS GUARANTEED!!!",
+                    "Didascalie": "",
+                    "Start": 158914,
+                    "End": 158956
                 }
             ]
         },

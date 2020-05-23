@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Even Cowgirls Get the Blues",
-        "   "
-    ],
+    "Title": "Even Cowgirls Get the Blues",
     "Author": [
-        "\u00a0\u00a0Tom Robbins\u00a0\u00a0Gus Van Sant"
+        "Tom Robbins",
+        "Gus Van Sant"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Comedy",
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {
@@ -1300,12 +1300,6 @@
                     "End": 60727
                 },
                 {
-                    "Reply": "It is the measure of Western Civilization that it can encompass in harmony, balance off, as it were, such divergent masterworks as A MIDSUMMER NIGHT'S DREAM and THE AMERICAN DREAM, as the dome of the Sistine Chapel and the ceiling of the Paris opera.",
-                    "Didascalie": "",
-                    "Start": 60852,
-                    "End": 61285
-                },
-                {
                     "Reply": "What's the matter?",
                     "Didascalie": "",
                     "Start": 61533,
@@ -2213,17 +2207,6 @@
                     "Didascalie": "",
                     "Start": 167132,
                     "End": 167201
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "of industry; absorbing the elements like any other organic entity; blending with rock and vegetation as if it were a burrowing owl's door mat or a jack rabbit's underwear, a No. 8 Kraft paper bag lay discarded in the hills of Dakota and appeared to live where it lay. Once long ago, it had borne a package of buns and a jar of mustard to a kitchenette rendezvous with a fried hamburger. More recently, the bag had held........ love letters.",
-                    "Didascalie": "",
-                    "Start": 167857,
-                    "End": 168610
                 }
             ]
         }

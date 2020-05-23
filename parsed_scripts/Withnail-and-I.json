@@ -1,13 +1,2430 @@
 {
-    "Title": [
-        "Withnail and I",
-        "   "
-    ],
+    "Title": "Withnail and I",
     "Author": [
-        "\u00a0\u00a0Bruce Robinson"
+        "Bruce Robinson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "WITHNAIL",
+            "Replies": [
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 555,
+                    "End": 559
+                },
+                {
+                    "Reply": "I have some extremely distressing news.",
+                    "Didascalie": "",
+                    "Start": 1691,
+                    "End": 1731
+                },
+                {
+                    "Reply": "So do I. So does everyone. Look at my tongue. A grey yellow sock. Sit down for Christ's sake, what's the matter with you? Eat some sugar.",
+                    "Didascalie": "",
+                    "Start": 2178,
+                    "End": 2321
+                },
+                {
+                    "Reply": "Listen to this. \"Curse of the superman. I took drugs to win medals said top athlete Geoff Woade.\"",
+                    "Didascalie": "",
+                    "Start": 2474,
+                    "End": 2577
+                },
+                {
+                    "Reply": "My God, this huge, thatched head with its earlobes and cannonball is now considered sane. \"Geoff Woade is feeling better and is now prepared to step back into society and start tossing his orb about.\"",
+                    "Didascalie": "",
+                    "Start": 3112,
+                    "End": 3323
+                },
+                {
+                    "Reply": "Imagine the size of his balls. Imagine getting into a fight with the fucker!",
+                    "Didascalie": "",
+                    "Start": 3596,
+                    "End": 3678
+                },
+                {
+                    "Reply": "That's what you'd say but that wouldn't wash with Geoff. No! He'd like a bit of pleading. Add spice to it. In fact, he'd probably tell you what he was going to do before he did it. \"I'm going to pull you head off\". \"Oh no, please, don't pull my head off\". \"I'm going to pull your head off because I don't like your head!\"",
+                    "Didascalie": "",
+                    "Start": 3728,
+                    "End": 4070
+                },
+                {
+                    "Reply": "Have you got soup? Why didn't I get any soup?",
+                    "Didascalie": "",
+                    "Start": 4126,
+                    "End": 4172
+                },
+                {
+                    "Reply": "Why don't you use a cup like any other human being?",
+                    "Didascalie": "",
+                    "Start": 4202,
+                    "End": 4254
+                },
+                {
+                    "Reply": "How dare you!? How dare you!? How dare you call me inhumane!?",
+                    "Didascalie": "",
+                    "Start": 4340,
+                    "End": 4402
+                },
+                {
+                    "Reply": "Right you fucker - I'm going to do the washing up!",
+                    "Didascalie": "",
+                    "Start": 4488,
+                    "End": 4539
+                },
+                {
+                    "Reply": "This is the morning. Stand aside!",
+                    "Didascalie": "",
+                    "Start": 4920,
+                    "End": 4954
+                },
+                {
+                    "Reply": "What do you mean? a rat?",
+                    "Didascalie": "",
+                    "Start": 5037,
+                    "End": 5062
+                },
+                {
+                    "Reply": "Oh Christ Almighty. Synous nicotine based. Keep back, keep back. The entire sink's gone rotten. I don't know what's in here.",
+                    "Didascalie": "",
+                    "Start": 5218,
+                    "End": 5348
+                },
+                {
+                    "Reply": "Burnt, burnt, the fucking kettle's on fire.",
+                    "Didascalie": "",
+                    "Start": 5484,
+                    "End": 5528
+                },
+                {
+                    "Reply": "You must you must. The poop will boil through the glaze. We'll never be able to use the dinner service again.",
+                    "Didascalie": "",
+                    "Start": 5676,
+                    "End": 5786
+                },
+                {
+                    "Reply": "Here, get it with the pliers!",
+                    "Didascalie": "",
+                    "Start": 5835,
+                    "End": 5865
+                },
+                {
+                    "Reply": "That's right, put on the gloves. Don't attempt anything without the gloves.",
+                    "Didascalie": "",
+                    "Start": 5932,
+                    "End": 6013
+                },
+                {
+                    "Reply": "What is it? What have you found?",
+                    "Didascalie": "",
+                    "Start": 6091,
+                    "End": 6124
+                },
+                {
+                    "Reply": "Matter? Where's it coming from?",
+                    "Didascalie": "",
+                    "Start": 6155,
+                    "End": 6187
+                },
+                {
+                    "Reply": "I think we've been in here too long. I feel unusual. I think we should go outside.",
+                    "Didascalie": "",
+                    "Start": 6255,
+                    "End": 6338
+                },
+                {
+                    "Reply": "This is ridiculous, look at me. I'm thirty in a month and I've got a sole flapping off my shoe.",
+                    "Didascalie": "",
+                    "Start": 6490,
+                    "End": 6591
+                },
+                {
+                    "Reply": "Easy for you to say lovey. You've had an audition. Why can't I have an audition. It's ridiculous: I've been to drama school. I'm good looking. I tell you, I've a fuck sight more talent that half the rubbish that gets of TV. Why can't I get on TV?",
+                    "Didascalie": "",
+                    "Start": 6643,
+                    "End": 6905
+                },
+                {
+                    "Reply": "Will it? That's what you say. The only programme I'm likely to get on is the fucking news. I tell you, I can't take much more of this. I'm going to crack.",
+                    "Didascalie": "",
+                    "Start": 6961,
+                    "End": 7126
+                },
+                {
+                    "Reply": "Yeah, yeah. I feel as sick as a pike. I'm going to have to sit down.",
+                    "Didascalie": "",
+                    "Start": 7171,
+                    "End": 7240
+                },
+                {
+                    "Reply": "How should I possibly know what we should do? What should we do?",
+                    "Didascalie": "",
+                    "Start": 7364,
+                    "End": 7429
+                },
+                {
+                    "Reply": "Rejuvenate! I'm in a park and I'm practically dead. What good's the countryside? What time is it?",
+                    "Didascalie": "",
+                    "Start": 7517,
+                    "End": 7620
+                },
+                {
+                    "Reply": "Fours hours to opening time. God help us. Have we got any embrocation?",
+                    "Didascalie": "",
+                    "Start": 7655,
+                    "End": 7726
+                },
+                {
+                    "Reply": "To rub on ourselves you fool. We'll cover ourselves in deep heat and get up against a radiator. Keep ourselves alive until twelve.",
+                    "Didascalie": "",
+                    "Start": 7759,
+                    "End": 7895
+                },
+                {
+                    "Reply": "Jesus, look at that. Apart from a raw potato that's the only solid to have passed my lips in the last sixty hours. I must be ill.",
+                    "Didascalie": "",
+                    "Start": 7924,
+                    "End": 8059
+                },
+                {
+                    "Reply": "Wasn't much in the tube. there's nothing left for you.",
+                    "Didascalie": "",
+                    "Start": 8581,
+                    "End": 8636
+                },
+                {
+                    "Reply": "That's what I want to know. what happened to my cigar commercial. What happened to my agent? Bastard must have died.",
+                    "Didascalie": "",
+                    "Start": 9297,
+                    "End": 9414
+                },
+                {
+                    "Reply": "Rubbish. Haven't seen Gylgod down the labour exchange. Why doesn't he retire.",
+                    "Didascalie": "",
+                    "Start": 9459,
+                    "End": 9537
+                },
+                {
+                    "Reply": "Have you been at the controls!?",
+                    "Didascalie": "",
+                    "Start": 9818,
+                    "End": 9850
+                },
+                {
+                    "Reply": "The thermostats. what have you done to them?",
+                    "Didascalie": "",
+                    "Start": 9901,
+                    "End": 9946
+                },
+                {
+                    "Reply": "Then why has my head gone numb. I must have some booze. I demand to have some booze.",
+                    "Didascalie": "",
+                    "Start": 9993,
+                    "End": 10083
+                },
+                {
+                    "Reply": "Why not?",
+                    "Didascalie": "",
+                    "Start": 10237,
+                    "End": 10246
+                },
+                {
+                    "Reply": "Nonsense, this is a far superior drink to meths. The wankers don't drink it because they can't afford it.",
+                    "Didascalie": "",
+                    "Start": 10376,
+                    "End": 10487
+                },
+                {
+                    "Reply": "Ah. Ah. Have you got anymore?",
+                    "Didascalie": "",
+                    "Start": 10567,
+                    "End": 10597
+                },
+                {
+                    "Reply": "Liar, what's in your toolbox?",
+                    "Didascalie": "",
+                    "Start": 10678,
+                    "End": 10708
+                },
+                {
+                    "Reply": "Liar, you've got antifreeze.",
+                    "Didascalie": "",
+                    "Start": 10761,
+                    "End": 10790
+                },
+                {
+                    "Reply": "All right, this is the plan. We get in there and get wrecked.",
+                    "Didascalie": "",
+                    "Start": 11158,
+                    "End": 11220
+                },
+                {
+                    "Reply": "Two large gins, two pints of cider. Ice in the cider.",
+                    "Didascalie": "",
+                    "Start": 11752,
+                    "End": 11806
+                },
+                {
+                    "Reply": "If your father was my father you wouldn't get it.",
+                    "Didascalie": "",
+                    "Start": 11901,
+                    "End": 11951
+                },
+                {
+                    "Reply": "Chin chin.",
+                    "Didascalie": "",
+                    "Start": 12021,
+                    "End": 12032
+                },
+                {
+                    "Reply": "What about him?",
+                    "Didascalie": "",
+                    "Start": 12255,
+                    "End": 12271
+                },
+                {
+                    "Reply": "What for?",
+                    "Didascalie": "",
+                    "Start": 12345,
+                    "End": 12355
+                },
+                {
+                    "Reply": "You want me to call what-his-name and ask him about his house?",
+                    "Didascalie": "",
+                    "Start": 12423,
+                    "End": 12486
+                },
+                {
+                    "Reply": "Alright. what's his number?",
+                    "Didascalie": "",
+                    "Start": 12538,
+                    "End": 12566
+                },
+                {
+                    "Reply": "Well neither have I. What the fuck are you talking about?",
+                    "Didascalie": "",
+                    "Start": 12644,
+                    "End": 12702
+                },
+                {
+                    "Reply": "Monty? Uncle Monty?",
+                    "Didascalie": "",
+                    "Start": 12788,
+                    "End": 12808
+                },
+                {
+                    "Reply": "Alright. Give us a tenner and I'll give him a bell.",
+                    "Didascalie": "",
+                    "Start": 12945,
+                    "End": 12997
+                },
+                {
+                    "Reply": "You'll be pleased to hear Monte's invited us for drinks.",
+                    "Didascalie": "",
+                    "Start": 14127,
+                    "End": 14184
+                },
+                {
+                    "Reply": "Balls to Monty!? I've just spent an hour flattering the bugger.",
+                    "Didascalie": "",
+                    "Start": 14261,
+                    "End": 14325
+                },
+                {
+                    "Reply": "What are you talking about?",
+                    "Didascalie": "",
+                    "Start": 14505,
+                    "End": 14533
+                },
+                {
+                    "Reply": "What fucker said that!?",
+                    "Didascalie": "",
+                    "Start": 14647,
+                    "End": 14671
+                },
+                {
+                    "Reply": "I've a heart condition. I've a heart condition. If you hit me it's murder!",
+                    "Didascalie": "",
+                    "Start": 15080,
+                    "End": 15160
+                },
+                {
+                    "Reply": "did to upset you but it's nothing to do with me. I suggest you both go outside and discuss it sensibly, in the street.",
+                    "Didascalie": "",
+                    "Start": 15374,
+                    "End": 15498
+                },
+                {
+                    "Reply": "Ahhhh, out of my way.",
+                    "Didascalie": "",
+                    "Start": 15562,
+                    "End": 15584
+                },
+                {
+                    "Reply": "The bastards. Justice suck. It's a miserable cheap cigar and the bastards won't see me.",
+                    "Didascalie": "",
+                    "Start": 16129,
+                    "End": 16222
+                },
+                {
+                    "Reply": "It's dinner and Danny's here.",
+                    "Didascalie": "",
+                    "Start": 16278,
+                    "End": 16308
+                },
+                {
+                    "Reply": "I let him in this morning. He lost one of his clogs. He's come in because of the perpetual cold. I hope the buggers sales plummet.",
+                    "Didascalie": "",
+                    "Start": 16358,
+                    "End": 16494
+                },
+                {
+                    "Reply": "Then stick it in the soap tray and save it for later.",
+                    "Didascalie": "",
+                    "Start": 16563,
+                    "End": 16617
+                },
+                {
+                    "Reply": "Stop saying that. You're not in the same boat. The only thing you're in that I've been in is this fucking bath.",
+                    "Didascalie": "",
+                    "Start": 16770,
+                    "End": 16887
+                },
+                {
+                    "Reply": "What's it got to do with you?",
+                    "Didascalie": "",
+                    "Start": 17887,
+                    "End": 17917
+                },
+                {
+                    "Reply": "A wig.",
+                    "Didascalie": "",
+                    "Start": 18650,
+                    "End": 18657
+                },
+                {
+                    "Reply": "Thought you were in the bottle industry.",
+                    "Didascalie": "",
+                    "Start": 19424,
+                    "End": 19465
+                },
+                {
+                    "Reply": "Really.",
+                    "Didascalie": "",
+                    "Start": 19746,
+                    "End": 19754
+                },
+                {
+                    "Reply": "Shits itself!?",
+                    "Didascalie": "",
+                    "Start": 19941,
+                    "End": 19956
+                },
+                {
+                    "Reply": "What absolute twaddle.",
+                    "Didascalie": "",
+                    "Start": 20450,
+                    "End": 20473
+                },
+                {
+                    "Reply": "Old suit? This suit was cut by Hawke's of Saville row. Just because the best tailoring you've ever seen is above you fucking appendix doesn't mean anything.",
+                    "Didascalie": "",
+                    "Start": 20586,
+                    "End": 20753
+                },
+                {
+                    "Reply": "You wouldn't spike me you're too mean. Besides, there's nothing invented I couldn't take.",
+                    "Didascalie": "",
+                    "Start": 20934,
+                    "End": 21029
+                },
+                {
+                    "Reply": "I could take double anything you could.",
+                    "Didascalie": "",
+                    "Start": 21126,
+                    "End": 21166
+                },
+                {
+                    "Reply": "I'm not having this shag-sack insulting me. Let him get his drugs out.",
+                    "Didascalie": "",
+                    "Start": 21367,
+                    "End": 21438
+                },
+                {
+                    "Reply": "Balls. I'll swallow it and run a mile.",
+                    "Didascalie": "",
+                    "Start": 21720,
+                    "End": 21759
+                },
+                {
+                    "Reply": "Two quid! You're out of your mind.",
+                    "Didascalie": "",
+                    "Start": 21839,
+                    "End": 21874
+                },
+                {
+                    "Reply": "You can stuff it up your arse for nothing and fuck off while you're doing it.",
+                    "Didascalie": "",
+                    "Start": 21920,
+                    "End": 22003
+                },
+                {
+                    "Reply": "Monte's car.",
+                    "Didascalie": "",
+                    "Start": 22408,
+                    "End": 22421
+                },
+                {
+                    "Reply": "Sherry!",
+                    "Didascalie": "",
+                    "Start": 22752,
+                    "End": 22760
+                },
+                {
+                    "Reply": "Chin chin.",
+                    "Didascalie": "",
+                    "Start": 23133,
+                    "End": 23144
+                },
+                {
+                    "Reply": "Geraniums.",
+                    "Didascalie": "",
+                    "Start": 23210,
+                    "End": 23221
+                },
+                {
+                    "Reply": "Eccentric.",
+                    "Didascalie": "",
+                    "Start": 23708,
+                    "End": 23719
+                },
+                {
+                    "Reply": "Shall I get you a drink Monte?",
+                    "Didascalie": "",
+                    "Start": 24103,
+                    "End": 24134
+                },
+                {
+                    "Reply": "Rather busy uncle. TV and stuff. My agent's trying to edge me towards the Royal Shakespeare again.",
+                    "Didascalie": "",
+                    "Start": 24487,
+                    "End": 24591
+                },
+                {
+                    "Reply": "He's just had an audition for rep.",
+                    "Didascalie": "",
+                    "Start": 24631,
+                    "End": 24666
+                },
+                {
+                    "Reply": "Monte used to act.",
+                    "Didascalie": "",
+                    "Start": 24789,
+                    "End": 24808
+                },
+                {
+                    "Reply": "A part I intend to play, Uncle.",
+                    "Didascalie": "",
+                    "Start": 25391,
+                    "End": 25423
+                },
+                {
+                    "Reply": "Ok ok. Give me a minute.",
+                    "Didascalie": "",
+                    "Start": 25757,
+                    "End": 25782
+                },
+                {
+                    "Reply": "Could I have a word with you Monte?",
+                    "Didascalie": "",
+                    "Start": 25868,
+                    "End": 25904
+                },
+                {
+                    "Reply": "He went to the other place Monte.",
+                    "Didascalie": "",
+                    "Start": 26491,
+                    "End": 26525
+                },
+                {
+                    "Reply": "Monte, Monte.",
+                    "Didascalie": "",
+                    "Start": 26875,
+                    "End": 26889
+                },
+                {
+                    "Reply": "Listen Monte. Can I just have a quick word in private.",
+                    "Didascalie": "",
+                    "Start": 27007,
+                    "End": 27062
+                },
+                {
+                    "Reply": "Good night Monty.",
+                    "Didascalie": "",
+                    "Start": 27205,
+                    "End": 27223
+                },
+                {
+                    "Reply": "Because it wouldn't have helped if I hadn't.",
+                    "Didascalie": "",
+                    "Start": 27393,
+                    "End": 27438
+                },
+                {
+                    "Reply": "Scrubbers!",
+                    "Didascalie": "",
+                    "Start": 27859,
+                    "End": 27870
+                },
+                {
+                    "Reply": "Scrubbers! scrubbers!",
+                    "Didascalie": "",
+                    "Start": 27938,
+                    "End": 27960
+                },
+                {
+                    "Reply": "Little tarts they love it.",
+                    "Didascalie": "",
+                    "Start": 28012,
+                    "End": 28039
+                },
+                {
+                    "Reply": "Look at that, look at that. Accident black spot. These aren't accidents. They're throwing themselves into the road gladly.",
+                    "Didascalie": "",
+                    "Start": 28268,
+                    "End": 28401
+                },
+                {
+                    "Reply": "At some point or another I want to stop and get hold of a child.",
+                    "Didascalie": "",
+                    "Start": 28653,
+                    "End": 28718
+                },
+                {
+                    "Reply": "To tutor it in the ways of righteousness and procure some uncontaminated urine.",
+                    "Didascalie": "",
+                    "Start": 28791,
+                    "End": 28881
+                },
+                {
+                    "Reply": "This is a device enabling the drunken driver to operate in absolute safety. You fill this with piss, take this pipe down the trouser and sellotape this valve to the end of the old chap. Then you get horrible drunk and they can't fucking touch you.",
+                    "Didascalie": "",
+                    "Start": 28974,
+                    "End": 29252
+                },
+                {
+                    "Reply": "Are we there?",
+                    "Didascalie": "",
+                    "Start": 30039,
+                    "End": 30053
+                },
+                {
+                    "Reply": "Where's the whisky?",
+                    "Didascalie": "",
+                    "Start": 30281,
+                    "End": 30301
+                },
+                {
+                    "Reply": "I've got a bastard behind the eyes. I can't take aspirins without a drink. Where's the aspirin?",
+                    "Didascalie": "",
+                    "Start": 30354,
+                    "End": 30460
+                },
+                {
+                    "Reply": "You mean we've come out here in the middle of fucking nowhere without aspirins?",
+                    "Didascalie": "",
+                    "Start": 30529,
+                    "End": 30619
+                },
+                {
+                    "Reply": "How should i know where we are. I feel like a pig shat in my head.",
+                    "Didascalie": "",
+                    "Start": 30676,
+                    "End": 30753
+                },
+                {
+                    "Reply": "There must and shall be aspirins.",
+                    "Didascalie": "",
+                    "Start": 31087,
+                    "End": 31121
+                },
+                {
+                    "Reply": "If I don't get aspirin I shall die here on this fucking mountainside.",
+                    "Didascalie": "",
+                    "Start": 31204,
+                    "End": 31284
+                },
+                {
+                    "Reply": "I  Monty!",
+                    "Didascalie": "",
+                    "Start": 31608,
+                    "End": 31628
+                },
+                {
+                    "Reply": "Sitting down to enjoy my holiday I  Right, now we're going to have to approach this scientifically.",
+                    "Didascalie": "",
+                    "Start": 31762,
+                    "End": 31877
+                },
+                {
+                    "Reply": "The fuel and wood situation. There's nothing out there except a hurricane. This place is uninhabitable.",
+                    "Didascalie": "",
+                    "Start": 32266,
+                    "End": 32380
+                },
+                {
+                    "Reply": "Warm up!? We may as well sit round a cigarette. This is ridiculous. We'll be found dead in here next spring.",
+                    "Didascalie": "",
+                    "Start": 32520,
+                    "End": 32639
+                },
+                {
+                    "Reply": "I've got a blinding fucking headache. Got to have heat!",
+                    "Didascalie": "",
+                    "Start": 32720,
+                    "End": 32776
+                },
+                {
+                    "Reply": "Problem's we've got to keep this bastard burning I  Well we've got enough furniture for tonight. Tomorrow we get down that farm and get some logs.",
+                    "Didascalie": "",
+                    "Start": 32919,
+                    "End": 33091
+                },
+                {
+                    "Reply": "This is a mistake I tell you. This is a dreadful mistake.",
+                    "Didascalie": "",
+                    "Start": 33116,
+                    "End": 33174
+                },
+                {
+                    "Reply": "Jesus, you're covered in shit.",
+                    "Didascalie": "",
+                    "Start": 35452,
+                    "End": 35483
+                },
+                {
+                    "Reply": "Where are we going to get it then?",
+                    "Didascalie": "",
+                    "Start": 35635,
+                    "End": 35670
+                },
+                {
+                    "Reply": "No idea.",
+                    "Didascalie": "",
+                    "Start": 36110,
+                    "End": 36119
+                },
+                {
+                    "Reply": "I fail to see my family's of any interest to you. I've absolutely no interest in yours. I dislike relatives in general and in particular mine.",
+                    "Didascalie": "",
+                    "Start": 36200,
+                    "End": 36363
+                },
+                {
+                    "Reply": "I've told you why. We're incompatible. They don't like me being on stage.",
+                    "Didascalie": "",
+                    "Start": 36411,
+                    "End": 36495
+                },
+                {
+                    "Reply": "What do you mean?",
+                    "Didascalie": "",
+                    "Start": 36700,
+                    "End": 36718
+                },
+                {
+                    "Reply": "You just wait. Just you wait. When I strike they won't know what hit them.",
+                    "Didascalie": "",
+                    "Start": 36865,
+                    "End": 36950
+                },
+                {
+                    "Reply": "Tractor approaching.",
+                    "Didascalie": "",
+                    "Start": 37014,
+                    "End": 37035
+                },
+                {
+                    "Reply": "Hey, stop!",
+                    "Didascalie": "",
+                    "Start": 37270,
+                    "End": 37281
+                },
+                {
+                    "Reply": "Stop I  Stop please!",
+                    "Didascalie": "",
+                    "Start": 37329,
+                    "End": 37365
+                },
+                {
+                    "Reply": "Stop please! Please stop!",
+                    "Didascalie": "",
+                    "Start": 37441,
+                    "End": 37467
+                },
+                {
+                    "Reply": "here. Are you the farmer?",
+                    "Didascalie": "",
+                    "Start": 37724,
+                    "End": 37750
+                },
+                {
+                    "Reply": "French!?",
+                    "Didascalie": "",
+                    "Start": 38207,
+                    "End": 38216
+                },
+                {
+                    "Reply": "Listen, we're bona fide. We're not from London. Could we have some fuel and wood?",
+                    "Didascalie": "",
+                    "Start": 38431,
+                    "End": 38523
+                },
+                {
+                    "Reply": "When?",
+                    "Didascalie": "",
+                    "Start": 38668,
+                    "End": 38674
+                },
+                {
+                    "Reply": "Sorry I can't. My boots are in the oven I  You'd go if you had boots?",
+                    "Didascalie": "",
+                    "Start": 39396,
+                    "End": 39481
+                },
+                {
+                    "Reply": "I've got one!",
+                    "Didascalie": "",
+                    "Start": 39697,
+                    "End": 39711
+                },
+                {
+                    "Reply": "What are we supposed to do with that?",
+                    "Didascalie": "",
+                    "Start": 40331,
+                    "End": 40369
+                },
+                {
+                    "Reply": "Eat it!? Fucker's alive I  Yeah, you've got to kill it.",
+                    "Didascalie": "",
+                    "Start": 40399,
+                    "End": 40460
+                },
+                {
+                    "Reply": "Me!? I'm the firelighter and fuel collecter.",
+                    "Didascalie": "",
+                    "Start": 40475,
+                    "End": 40520
+                },
+                {
+                    "Reply": "No it doesn't I'm starving. How can we make it die?",
+                    "Didascalie": "",
+                    "Start": 40631,
+                    "End": 40683
+                },
+                {
+                    "Reply": "Alright, you get hold of ir. I'll strangle it.",
+                    "Didascalie": "",
+                    "Start": 40839,
+                    "End": 40886
+                },
+                {
+                    "Reply": "It's a bloody chicken. Just think of it with bacon across its back!",
+                    "Didascalie": "",
+                    "Start": 40966,
+                    "End": 41034
+                },
+                {
+                    "Reply": "You're the food and plummings man. I've no idea. I wish I'd found this an hour ago. I'd have taken great pleasure in gunning this pullet down.",
+                    "Didascalie": "",
+                    "Start": 41396,
+                    "End": 41549
+                },
+                {
+                    "Reply": "Shouldn't it be more bald than that?",
+                    "Didascalie": "",
+                    "Start": 41632,
+                    "End": 41669
+                },
+                {
+                    "Reply": "Lets get its feet off I  No, it's going to need it's feet.",
+                    "Didascalie": "",
+                    "Start": 41912,
+                    "End": 41976
+                },
+                {
+                    "Reply": "I've already put two shilling pieces in. No I havn't got another.",
+                    "Didascalie": "",
+                    "Start": 42382,
+                    "End": 42448
+                },
+                {
+                    "Reply": "Bitch hung up on me.",
+                    "Didascalie": "",
+                    "Start": 42561,
+                    "End": 42582
+                },
+                {
+                    "Reply": "Hello. How are you? Very well. What! Why wouldn't they see me?",
+                    "Didascalie": "",
+                    "Start": 42717,
+                    "End": 42780
+                },
+                {
+                    "Reply": "Bastard asked me to understudy Constantine in The Seagull. I'm not going to understudy anyone, especially that little pimp.",
+                    "Didascalie": "",
+                    "Start": 43337,
+                    "End": 43471
+                },
+                {
+                    "Reply": "What do you think to Desmond Wolf?",
+                    "Didascalie": "",
+                    "Start": 43718,
+                    "End": 43753
+                },
+                {
+                    "Reply": "I'm thinking of changing my name.",
+                    "Didascalie": "",
+                    "Start": 43818,
+                    "End": 43852
+                },
+                {
+                    "Reply": "Do you think he's happier than us?",
+                    "Didascalie": "",
+                    "Start": 44142,
+                    "End": 44177
+                },
+                {
+                    "Reply": "I suppose happiness is relative. I never thought it would be a polythene bag without the hole in it.",
+                    "Didascalie": "",
+                    "Start": 44223,
+                    "End": 44334
+                },
+                {
+                    "Reply": "Grab its ring. Keep your bag up. Outvive him.",
+                    "Didascalie": "",
+                    "Start": 44793,
+                    "End": 44839
+                },
+                {
+                    "Reply": "Wants to get down there and have sex with those cows.",
+                    "Didascalie": "",
+                    "Start": 45164,
+                    "End": 45218
+                },
+                {
+                    "Reply": "Do as he says, start shouting. It won't gore you I  A coward you are Withnail. An expert on bulls you are not!",
+                    "Didascalie": "",
+                    "Start": 45328,
+                    "End": 45454
+                },
+                {
+                    "Reply": "I think an evening at the Crow!",
+                    "Didascalie": "",
+                    "Start": 45667,
+                    "End": 45699
+                },
+                {
+                    "Reply": "We'll have another pair of large scotches.",
+                    "Didascalie": "",
+                    "Start": 46520,
+                    "End": 46563
+                },
+                {
+                    "Reply": "Yes, as a matter of I have. Before I became a journalist I was in the terretorials.",
+                    "Didascalie": "",
+                    "Start": 46886,
+                    "End": 46980
+                },
+                {
+                    "Reply": "What were you in?",
+                    "Didascalie": "",
+                    "Start": 47146,
+                    "End": 47164
+                },
+                {
+                    "Reply": "Ireland.",
+                    "Didascalie": "",
+                    "Start": 47301,
+                    "End": 47310
+                },
+                {
+                    "Reply": "We're doing a feature for Country Life. Survey of rural types: farmers, traveling tinkers, milkmen; that sort of thing.",
+                    "Didascalie": "",
+                    "Start": 47539,
+                    "End": 47669
+                },
+                {
+                    "Reply": "We got a drink didn't we?",
+                    "Didascalie": "",
+                    "Start": 47891,
+                    "End": 47917
+                },
+                {
+                    "Reply": "What for?",
+                    "Didascalie": "",
+                    "Start": 48447,
+                    "End": 48457
+                },
+                {
+                    "Reply": "Come on old boy. What's in your hump?",
+                    "Didascalie": "",
+                    "Start": 49054,
+                    "End": 49092
+                },
+                {
+                    "Reply": "What pot?",
+                    "Didascalie": "",
+                    "Start": 49275,
+                    "End": 49285
+                },
+                {
+                    "Reply": "We don't want a rabbit, we want a pheasant.",
+                    "Didascalie": "",
+                    "Start": 49623,
+                    "End": 49667
+                },
+                {
+                    "Reply": "Of course you have, you're the poacher.",
+                    "Didascalie": "",
+                    "Start": 49826,
+                    "End": 49866
+                },
+                {
+                    "Reply": "Sod your pheasants. You'll have to find us first.",
+                    "Didascalie": "",
+                    "Start": 50184,
+                    "End": 50234
+                },
+                {
+                    "Reply": "if i see that sillage heap prowling around here i'll take the bastard axe to him. bastards. you'll all suffer. i'm going to be a star!",
+                    "Didascalie": "",
+                    "Start": 50563,
+                    "End": 50718
+                },
+                {
+                    "Reply": "Vegtables again. I'll be sprouting feelers soon I  There's black pudding in it.",
+                    "Didascalie": "",
+                    "Start": 50824,
+                    "End": 50919
+                },
+                {
+                    "Reply": "Black puddings are no good to us. I want somethings flesh!",
+                    "Didascalie": "",
+                    "Start": 50944,
+                    "End": 51003
+                },
+                {
+                    "Reply": "I think I'll call myself Donald Twain. Get down, get down. It's him, what does he want?",
+                    "Didascalie": "",
+                    "Start": 51109,
+                    "End": 51207
+                },
+                {
+                    "Reply": "Don't be ridiculous, he's got a gun. Bastard's phycotic, you've only got to look at him.",
+                    "Didascalie": "",
+                    "Start": 51285,
+                    "End": 51384
+                },
+                {
+                    "Reply": "this place has become impossible. Nothing to eat, freezing cold and now a madman on the prowl outside with eels.",
+                    "Didascalie": "",
+                    "Start": 51490,
+                    "End": 51613
+                },
+                {
+                    "Reply": "where are you going?",
+                    "Didascalie": "",
+                    "Start": 51721,
+                    "End": 51742
+                },
+                {
+                    "Reply": "you can't go outside, i can't get my boots on when they're hot.",
+                    "Didascalie": "",
+                    "Start": 51807,
+                    "End": 51871
+                },
+                {
+                    "Reply": "no you won't these are the sort of windows faces look in at.",
+                    "Didascalie": "",
+                    "Start": 51933,
+                    "End": 51994
+                },
+                {
+                    "Reply": "and in both our interests i think we should sleep together tonight.",
+                    "Didascalie": "",
+                    "Start": 52071,
+                    "End": 52149
+                },
+                {
+                    "Reply": "yes he is and if he catches one of us off guard he's got a much better chance of dealing with the other.",
+                    "Didascalie": "",
+                    "Start": 52256,
+                    "End": 52371
+                },
+                {
+                    "Reply": "no, i have to keep the gun . i intend to stay awake until morning.",
+                    "Didascalie": "",
+                    "Start": 52921,
+                    "End": 52998
+                },
+                {
+                    "Reply": "i heard a noise.",
+                    "Didascalie": "",
+                    "Start": 53210,
+                    "End": 53227
+                },
+                {
+                    "Reply": "at two in the morning? it's the killer. he's come to kill us.",
+                    "Didascalie": "",
+                    "Start": 53415,
+                    "End": 53477
+                },
+                {
+                    "Reply": "He's getting in thorough the window. He's sharpening the fucking knife I  where's the matches?",
+                    "Didascalie": "",
+                    "Start": 53685,
+                    "End": 53805
+                },
+                {
+                    "Reply": "in the kitchen.",
+                    "Didascalie": "",
+                    "Start": 53830,
+                    "End": 53846
+                },
+                {
+                    "Reply": "no no, it'll be too late by then, i'll be knifed. we'll have to try and make friends with him. He's going to your room. it's you he wants. offer him yourself! we mean no harm.",
+                    "Didascalie": "",
+                    "Start": 54025,
+                    "End": 54221
+                },
+                {
+                    "Reply": "monty you terrible cunt. what are you doing prowling round in the middle of the fucking night?",
+                    "Didascalie": "",
+                    "Start": 54327,
+                    "End": 54432
+                },
+                {
+                    "Reply": "I'll go.",
+                    "Didascalie": "",
+                    "Start": 55850,
+                    "End": 55859
+                },
+                {
+                    "Reply": "Leave this to me I  I'll come with you, I could do with a walk. Besides. I shall need you to work on the joint. I hear you're a little wizard in the kitchen.",
+                    "Didascalie": "",
+                    "Start": 56105,
+                    "End": 56298
+                },
+                {
+                    "Reply": "We forgot to bring our wellingtons.",
+                    "Didascalie": "",
+                    "Start": 56489,
+                    "End": 56525
+                },
+                {
+                    "Reply": "I  What do you mean sorry!? What's he doing here? We can't stay he won't leave me alone.",
+                    "Didascalie": "",
+                    "Start": 58984,
+                    "End": 59093
+                },
+                {
+                    "Reply": "Chin chin.",
+                    "Didascalie": "",
+                    "Start": 59431,
+                    "End": 59442
+                },
+                {
+                    "Reply": "Couple of blooms.",
+                    "Didascalie": "",
+                    "Start": 60214,
+                    "End": 60232
+                },
+                {
+                    "Reply": "I think a drink don't you?",
+                    "Didascalie": "",
+                    "Start": 60327,
+                    "End": 60354
+                },
+                {
+                    "Reply": "Oh, bollocks to the wellingtons. We'll tell him there was a farmer's conference and they had a run on them.",
+                    "Didascalie": "",
+                    "Start": 60425,
+                    "End": 60543
+                },
+                {
+                    "Reply": "You don't want to go to Manchester anyway; play a bloody soilder.",
+                    "Didascalie": "",
+                    "Start": 60925,
+                    "End": 60991
+                },
+                {
+                    "Reply": "It's not much of a part is it. They'd make you cut you hair off.",
+                    "Didascalie": "",
+                    "Start": 61089,
+                    "End": 61154
+                },
+                {
+                    "Reply": "Alright we're going to have to work quickly. A pair of quadruple whiskies and another pair of pints please.",
+                    "Didascalie": "",
+                    "Start": 61252,
+                    "End": 61370
+                },
+                {
+                    "Reply": "Where is he. Utterly aresholed.",
+                    "Didascalie": "",
+                    "Start": 61544,
+                    "End": 61576
+                },
+                {
+                    "Reply": "Alright here? Miss B: No, we're closing in a minute.",
+                    "Didascalie": "",
+                    "Start": 62104,
+                    "End": 62157
+                },
+                {
+                    "Reply": "closed. What do you want in here?",
+                    "Didascalie": "",
+                    "Start": 62526,
+                    "End": 62560
+                },
+                {
+                    "Reply": "Cake and tea. what's it got to do with you? P: I happen to be the proprietor. Now, will you leave?",
+                    "Didascalie": "",
+                    "Start": 62585,
+                    "End": 62694
+                },
+                {
+                    "Reply": "Ah good, I'm glad you're the proprietor. I was going to have to have a word with you anyway. We're doing a film up here, location SEE. WE MIGHT WANT TO DO A FILM IN HERE. P You're drunk.",
+                    "Didascalie": "",
+                    "Start": 62719,
+                    "End": 62927
+                },
+                {
+                    "Reply": "Cake and fine wine. Miss B: If you don't leave we'll call the police.",
+                    "Didascalie": "",
+                    "Start": 62995,
+                    "End": 63075
+                },
+                {
+                    "Reply": "I  Don't do that Miss Blenerhassit. I'm warning you Miss Blennerhassit, if you do - you're fired. We are multi-millionaries. we'll buy this place and fire you immediately.",
+                    "Didascalie": "",
+                    "Start": 63354,
+                    "End": 63566
+                },
+                {
+                    "Reply": "Yeah, that's right, we'll buy this place and install a fucking DUKE-BOX AND LIVEN ALL YOU STIFFS UP A BIT. P The police Miss Blenerhassit. Just tell them there are a couple of drunks in the Penryth tea rooms and we'd like them removed.",
+                    "Didascalie": "",
+                    "Start": 63591,
+                    "End": 63858
+                },
+                {
+                    "Reply": "We'll buy this place and have it knocked down.",
+                    "Didascalie": "",
+                    "Start": 64109,
+                    "End": 64156
+                },
+                {
+                    "Reply": "-------------------------------------------------------------------------------",
+                    "Didascalie": "",
+                    "Start": 64633,
+                    "End": 64713
+                },
+                {
+                    "Reply": "Sulking up the hill. He says he won't come down for lunch without an appology.",
+                    "Didascalie": "",
+                    "Start": 64937,
+                    "End": 65026
+                },
+                {
+                    "Reply": "Sherry?",
+                    "Didascalie": "",
+                    "Start": 65418,
+                    "End": 65426
+                },
+                {
+                    "Reply": "I don't know how to do them.",
+                    "Didascalie": "",
+                    "Start": 66323,
+                    "End": 66352
+                },
+                {
+                    "Reply": "Would it be in poor form to plagarise a toast?",
+                    "Didascalie": "",
+                    "Start": 67643,
+                    "End": 67690
+                },
+                {
+                    "Reply": "In that case, to a delightful weekend in the country.",
+                    "Didascalie": "",
+                    "Start": 67837,
+                    "End": 67891
+                },
+                {
+                    "Reply": "Well, there's this local type. Poacher. We got into a bit of a tiff and he threatened me with a dead fish. Yes, it was rather amusing acutally. When you came into the house we thought it was him and we thought that you cleaning your boots was him sharpening the knife.",
+                    "Didascalie": "",
+                    "Start": 68308,
+                    "End": 68617
+                },
+                {
+                    "Reply": "Look, I know what your thinking but I had no alternative. The old beggers come a long way and I didn't want to put the wind up him.",
+                    "Didascalie": "",
+                    "Start": 68990,
+                    "End": 69132
+                },
+                {
+                    "Reply": "Anyway, he sent me out to say the coffee's ready.",
+                    "Didascalie": "",
+                    "Start": 69410,
+                    "End": 69460
+                },
+                {
+                    "Reply": "Well stop smilling at him.",
+                    "Didascalie": "",
+                    "Start": 69568,
+                    "End": 69595
+                },
+                {
+                    "Reply": "I  Good old Jake eh? And that's precisely the reason I'm off back to London. Come on, lets pack up and get off. Good old Jake, eh Withnail. Lets all have a laugh. Good old Jake.",
+                    "Didascalie": "",
+                    "Start": 71014,
+                    "End": 71222
+                },
+                {
+                    "Reply": "Good old Jake.",
+                    "Didascalie": "",
+                    "Start": 71612,
+                    "End": 71627
+                },
+                {
+                    "Reply": "You two and up two.",
+                    "Didascalie": "",
+                    "Start": 72073,
+                    "End": 72093
+                },
+                {
+                    "Reply": "No I don't I want to get to bed!",
+                    "Didascalie": "",
+                    "Start": 73080,
+                    "End": 73113
+                },
+                {
+                    "Reply": "I deny all accusations. What do you want?",
+                    "Didascalie": "",
+                    "Start": 77638,
+                    "End": 77680
+                },
+                {
+                    "Reply": "Hold on, hold on. Don't let you imagination run away with you.",
+                    "Didascalie": "",
+                    "Start": 77895,
+                    "End": 77958
+                },
+                {
+                    "Reply": "Tatical necessity. If I hadn't told him you were active we'd never have got the cottage.",
+                    "Didascalie": "",
+                    "Start": 78144,
+                    "End": 78243
+                },
+                {
+                    "Reply": "I never thought he'd come all this way.",
+                    "Didascalie": "",
+                    "Start": 78333,
+                    "End": 78373
+                },
+                {
+                    "Reply": "Calcualted risk.",
+                    "Didascalie": "",
+                    "Start": 78445,
+                    "End": 78462
+                },
+                {
+                    "Reply": "I  Well let me tell you something Withnail, if he comes in my room again its murder and you'll be held resposible in law.",
+                    "Didascalie": "",
+                    "Start": 78830,
+                    "End": 78972
+                },
+                {
+                    "Reply": "Now I must say, that represents a level of hippocrasy in you that I'd previously suspected but not noticed due to highly evasive skills.",
+                    "Didascalie": "",
+                    "Start": 79502,
+                    "End": 79659
+                },
+                {
+                    "Reply": "I'll say one thing for Monte; he keeps a sensational cellar.",
+                    "Didascalie": "",
+                    "Start": 79790,
+                    "End": 79851
+                },
+                {
+                    "Reply": "Well done.",
+                    "Didascalie": "",
+                    "Start": 80034,
+                    "End": 80045
+                },
+                {
+                    "Reply": "What!?",
+                    "Didascalie": "",
+                    "Start": 80241,
+                    "End": 80248
+                },
+                {
+                    "Reply": "Don't be ridiculous, I need at least an hour for lunch.",
+                    "Didascalie": "",
+                    "Start": 80341,
+                    "End": 80397
+                },
+                {
+                    "Reply": "You got a truck coming up in this lane followed by a slow right-hander.",
+                    "Didascalie": "",
+                    "Start": 80690,
+                    "End": 80772
+                },
+                {
+                    "Reply": "Stay in this lane I  What lane, I can't see any lane.",
+                    "Didascalie": "",
+                    "Start": 80832,
+                    "End": 80901
+                },
+                {
+                    "Reply": "Bear right, bear right.",
+                    "Didascalie": "",
+                    "Start": 80926,
+                    "End": 80950
+                },
+                {
+                    "Reply": "I'm making time.",
+                    "Didascalie": "",
+                    "Start": 81475,
+                    "End": 81492
+                },
+                {
+                    "Reply": "I  On no.",
+                    "Didascalie": "",
+                    "Start": 81728,
+                    "End": 81748
+                },
+                {
+                    "Reply": "It's perfectly alright, leave him to me.",
+                    "Didascalie": "",
+                    "Start": 81773,
+                    "End": 81814
+                },
+                {
+                    "Reply": "They're not mine, they belong to him. P1: You're drunk.",
+                    "Didascalie": "",
+                    "Start": 82325,
+                    "End": 82381
+                },
+                {
+                    "Reply": "door. Withnail virtually falls out then stands against the car.",
+                    "Didascalie": "",
+                    "Start": 82555,
+                    "End": 82619
+                },
+                {
+                    "Reply": "I most certainly am P1: I'm placing you under arrest.",
+                    "Didascalie": "",
+                    "Start": 82821,
+                    "End": 82875
+                },
+                {
+                    "Reply": "Don't be ridiculous I haven't done anything. Listen, my cousin's A QC. P2 Get in the back on the van.",
+                    "Didascalie": "",
+                    "Start": 82900,
+                    "End": 83013
+                },
+                {
+                    "Reply": "Where's our checks?",
+                    "Didascalie": "",
+                    "Start": 83673,
+                    "End": 83693
+                },
+                {
+                    "Reply": "I  What are you doing in my bed? D: Having a sleep.",
+                    "Didascalie": "",
+                    "Start": 84035,
+                    "End": 84097
+                },
+                {
+                    "Reply": "How did you get in? D: Inginuity man - come up the drainpipe.",
+                    "Didascalie": "",
+                    "Start": 84438,
+                    "End": 84500
+                },
+                {
+                    "Reply": "What are you going to do with those? D: The joint I am about to roll requires a craftsman and can utalise up to twelve spliffs.",
+                    "Didascalie": "",
+                    "Start": 84707,
+                    "End": 84845
+                },
+                {
+                    "Reply": "I  No, I got a different one. They want me to play the lead.",
+                    "Didascalie": "",
+                    "Start": 85885,
+                    "End": 85956
+                },
+                {
+                    "Reply": "Congratulations. D: Where exactly have you two been?",
+                    "Didascalie": "",
+                    "Start": 85981,
+                    "End": 86034
+                },
+                {
+                    "Reply": "No his dog doesn't come up here. D: Then it was a rodent. Quite freeked me at the time. I was going to cook onions. There was some bald gieser round here the other day reckoned you owed him 235 quid backrent. I told him there was no question of paying rent on a property infested with rodent. Started coming on all bald with me.",
+                    "Didascalie": "",
+                    "Start": 86510,
+                    "End": 86889
+                },
+                {
+                    "Reply": "You mean ratty. D: I told him to piss off.",
+                    "Didascalie": "",
+                    "Start": 86914,
+                    "End": 86957
+                },
+                {
+                    "Reply": "D Just high.",
+                    "Didascalie": "",
+                    "Start": 87241,
+                    "End": 87255
+                },
+                {
+                    "Reply": "I  Shup up will you, you're giving me the fear! Give us a downer Danny, I've gone and fucked my brain. D: Sit down man, take control. You have a rush. It will pass.",
+                    "Didascalie": "",
+                    "Start": 87854,
+                    "End": 88049
+                },
+                {
+                    "Reply": "I couldn't I'm spaced. D: Not as spaced as you rodents.",
+                    "Didascalie": "",
+                    "Start": 88176,
+                    "End": 88232
+                },
+                {
+                    "Reply": "What are you talking about Danny? D: If you are holding onto a rising balloon you are presented with a difficult political decission - let go while you've still got the chance or hold onto the rope and continue getting higher. That's politics man. We are at the end of an age. The greatest decade in the history of mankind is nearly over. They're selling hippy wigs in wolworths.",
+                    "Didascalie": "",
+                    "Start": 89026,
+                    "End": 89456
+                },
+                {
+                    "Reply": "Already?",
+                    "Didascalie": "",
+                    "Start": 89770,
+                    "End": 89779
+                },
+                {
+                    "Reply": "But I've got us a bottle open. Confiscated it from Monte's supplies. 53 Margaux. Best of the century I  I can't Withnail, I'll miss the train.",
+                    "Didascalie": "",
+                    "Start": 89908,
+                    "End": 90076
+                },
+                {
+                    "Reply": "There's always time for a drink.",
+                    "Didascalie": "",
+                    "Start": 90101,
+                    "End": 90134
+                },
+                {
+                    "Reply": "-------------------------------------------------------------------------------",
+                    "Didascalie": "",
+                    "Start": 90363,
+                    "End": 90443
+                },
+                {
+                    "Reply": "Because I want to walk you to the station.",
+                    "Didascalie": "",
+                    "Start": 90664,
+                    "End": 90707
+                }
+            ]
+        },
+        {
+            "Character": "WHAT FOR",
+            "Replies": [
+                {
+                    "Reply": "Two pound ten a tit and a fiver for his arse.",
+                    "Didascalie": "",
+                    "Start": 9731,
+                    "End": 9777
+                }
+            ]
+        },
+        {
+            "Character": "BARMAN",
+            "Replies": [
+                {
+                    "Reply": ": There you are lads.",
+                    "Didascalie": "",
+                    "Start": 11974,
+                    "End": 11996
+                }
+            ]
+        },
+        {
+            "Character": "BIG IRISH MAN",
+            "Replies": [
+                {
+                    "Reply": "moment of drunken sincerity. I'm in considerable danger in here.",
+                    "Didascalie": "",
+                    "Start": 13795,
+                    "End": 13860
+                },
+                {
+                    "Reply": "Perfumed ponce!",
+                    "Didascalie": "",
+                    "Start": 13968,
+                    "End": 13984
+                },
+                {
+                    "Reply": "I called him a ponce. And now I'm calling you one. Ponce!",
+                    "Didascalie": "",
+                    "Start": 14844,
+                    "End": 14902
+                },
+                {
+                    "Reply": "What's your name McFuck!?",
+                    "Didascalie": "",
+                    "Start": 14971,
+                    "End": 14997
+                },
+                {
+                    "Reply": "I'll murder the pair of y'ers.",
+                    "Didascalie": "",
+                    "Start": 15180,
+                    "End": 15211
+                }
+            ]
+        },
+        {
+            "Character": "DANNY",
+            "Replies": [
+                {
+                    "Reply": "You're looking very beautiful man. Have you been away? St. Peter preached the epistles to the apostles looking like that. Have you got any food.",
+                    "Didascalie": "",
+                    "Start": 17369,
+                    "End": 17534
+                },
+                {
+                    "Reply": "How much is it?",
+                    "Didascalie": "",
+                    "Start": 17615,
+                    "End": 17631
+                },
+                {
+                    "Reply": "I see you're wearing a suit.",
+                    "Didascalie": "",
+                    "Start": 17843,
+                    "End": 17872
+                },
+                {
+                    "Reply": "No man, this was more like a long white hat. So he looks at the coalman and says 'what's all this. This is a court man. This ain't fancy dress' and the coal man looks at him and says 'you think you look normal, your honour?'. Cunt give him two years.",
+                    "Didascalie": "",
+                    "Start": 18669,
+                    "End": 18935
+                },
+                {
+                    "Reply": "I'm afraid I can't offer you gentlemen anything.",
+                    "Didascalie": "",
+                    "Start": 18998,
+                    "End": 19047
+                },
+                {
+                    "Reply": "Doing what?",
+                    "Didascalie": "",
+                    "Start": 19292,
+                    "End": 19304
+                },
+                {
+                    "Reply": "The toy industry.",
+                    "Didascalie": "",
+                    "Start": 19316,
+                    "End": 19334
+                },
+                {
+                    "Reply": "No man, that's a side line. You can have that. Instructions are included. Yeah. My partner's got a really good idea for making dolls.",
+                    "Didascalie": "",
+                    "Start": 19477,
+                    "End": 19616
+                },
+                {
+                    "Reply": "Then you've got to change its draws for it. Horrible really but they're like that the little girls. So we're going to make one that shits itself too.",
+                    "Didascalie": "",
+                    "Start": 19766,
+                    "End": 19926
+                },
+                {
+                    "Reply": "behaving so uptightly.",
+                    "Didascalie": "",
+                    "Start": 20038,
+                    "End": 20061
+                },
+                {
+                    "Reply": "I don't advise a hair cut man. All hairdressers are in the employment of the government. Hair are your aerials. They pick up signals from the cosmos and transmit them directly into the brain. This is the reason bold-headed men are uptight.",
+                    "Didascalie": "",
+                    "Start": 20180,
+                    "End": 20435
+                },
+                {
+                    "Reply": "Has he just been busted?",
+                    "Didascalie": "",
+                    "Start": 20485,
+                    "End": 20510
+                },
+                {
+                    "Reply": "Then why's he wearing that old suit?",
+                    "Didascalie": "",
+                    "Start": 20534,
+                    "End": 20571
+                },
+                {
+                    "Reply": "Don't get uptight with me man. Because if you do I'll have to give you a dose of medicine and if I spike you you'll know you've been spoken to.",
+                    "Didascalie": "",
+                    "Start": 20765,
+                    "End": 20919
+                },
+                {
+                    "Reply": "If I medicined you you'd think a brain tumour was a birthday present.",
+                    "Didascalie": "",
+                    "Start": 21041,
+                    "End": 21111
+                },
+                {
+                    "Reply": "This doll is extremely dangerous. It has voodoo qualities.",
+                    "Didascalie": "",
+                    "Start": 21486,
+                    "End": 21545
+                },
+                {
+                    "Reply": "Trade: Phenodihydrochloride benzelex. Street: The embalmer.",
+                    "Didascalie": "",
+                    "Start": 21645,
+                    "End": 21705
+                },
+                {
+                    "Reply": "Cool your boots man. This pill's valued at two quid.",
+                    "Didascalie": "",
+                    "Start": 21771,
+                    "End": 21824
+                },
+                {
+                    "Reply": "No need to insult me man. I was leaving anyway. Have either of you got shoes?",
+                    "Didascalie": "",
+                    "Start": 22015,
+                    "End": 22098
+                }
+            ]
+        },
+        {
+            "Character": "MONTY",
+            "Replies": [
+                {
+                    "Reply": "Oh hello. Come in.",
+                    "Didascalie": "",
+                    "Start": 22596,
+                    "End": 22615
+                },
+                {
+                    "Reply": "Sit down do. Would you like a drink?",
+                    "Didascalie": "",
+                    "Start": 22666,
+                    "End": 22703
+                },
+                {
+                    "Reply": "I  Sherry.",
+                    "Didascalie": "",
+                    "Start": 22809,
+                    "End": 22825
+                },
+                {
+                    "Reply": "Sherry.",
+                    "Didascalie": "",
+                    "Start": 22837,
+                    "End": 22845
+                },
+                {
+                    "Reply": "Do you like vegetables? I've always been fond of root crops but I only started to grow last summer. I happen to think the cauliflower more beautiful than the rose.",
+                    "Didascalie": "",
+                    "Start": 22954,
+                    "End": 23118
+                },
+                {
+                    "Reply": "Do you grow?",
+                    "Didascalie": "",
+                    "Start": 23182,
+                    "End": 23195
+                },
+                {
+                    "Reply": "Oh you little traitors. I think the carrot infinitely more fascinating than the geranium. The carrot has mystery. Flowers are essentially tarts. Prostitutes for the bees. There is you'll agree a certain je ne ses quoi oh so very special about a firm young carrot. Excuse me. Do help yourselves to another drink.",
+                    "Didascalie": "",
+                    "Start": 23233,
+                    "End": 23565
+                },
+                {
+                    "Reply": "You beastly little parasite. How dare you? You little thug. How dare you? Ooohhhh. Beastly ungrateful little swine.",
+                    "Didascalie": "",
+                    "Start": 23890,
+                    "End": 24011
+                },
+                {
+                    "Reply": "Yes. Yes please dear boy. You can prepare me a small rhesus negative Bloody Mary. And you must tell me all the news. I haven't seen you since you finished your last film.",
+                    "Didascalie": "",
+                    "Start": 24146,
+                    "End": 24327
+                },
+                {
+                    "Reply": "Oh splendid.",
+                    "Didascalie": "",
+                    "Start": 24603,
+                    "End": 24616
+                },
+                {
+                    "Reply": "Oh splendid. So you're a thespian too?",
+                    "Didascalie": "",
+                    "Start": 24678,
+                    "End": 24717
+                },
+                {
+                    "Reply": "I'd hardly say that. It's true I crept the boards in my youth but I never had it in my blood and that's what so essential isn't it?",
+                    "Didascalie": "",
+                    "Start": 24820,
+                    "End": 24957
+                },
+                {
+                    "Reply": "wrong, being so majestical. To offer it the show of violence......",
+                    "Didascalie": "",
+                    "Start": 25506,
+                    "End": 25573
+                },
+                {
+                    "Reply": "Oh forgive me dear boy, forgive me. I was allowing memories to have the better of me.",
+                    "Didascalie": "",
+                    "Start": 25916,
+                    "End": 26007
+                },
+                {
+                    "Reply": "Indeed I remember my first agent. Raymond Duck. Dreadful little Israelite. Four floors up at the charring cross and never a job at the top of them. I'm told you're a writer too. Do you write poems?",
+                    "Didascalie": "",
+                    "Start": 26132,
+                    "End": 26340
+                },
+                {
+                    "Reply": "Have you published?",
+                    "Didascalie": "",
+                    "Start": 26407,
+                    "End": 26427
+                },
+                {
+                    "Reply": "Where did you school?",
+                    "Didascalie": "",
+                    "Start": 26454,
+                    "End": 26476
+                },
+                {
+                    "Reply": "Oh you went to Eton?",
+                    "Didascalie": "",
+                    "Start": 26537,
+                    "End": 26558
+                },
+                {
+                    "Reply": "Get that damned little swine out of here. It's trying to get itself in with you. It's trying for even more advantage. It's obsessed with its gut - its like a rugby ball now. It will die, it will die!",
+                    "Didascalie": "",
+                    "Start": 26610,
+                    "End": 26820
+                },
+                {
+                    "Reply": "No dear boy you must leave, you must leave. Once again that oaf has destroyed my day.",
+                    "Didascalie": "",
+                    "Start": 26901,
+                    "End": 26992
+                },
+                {
+                    "Reply": "Oh, very well.",
+                    "Didascalie": "",
+                    "Start": 27074,
+                    "End": 27089
+                },
+                {
+                    "Reply": "Good night my dears.",
+                    "Didascalie": "",
+                    "Start": 27169,
+                    "End": 27190
+                },
+                {
+                    "Reply": "oh my boys, my boys.",
+                    "Didascalie": "",
+                    "Start": 54243,
+                    "End": 54264
+                },
+                {
+                    "Reply": "i had a punctured tyre. i had to wait an eon for assistance. i'm sorry if i frightened you. i'll sleep in the other room if i may I  anywhere you like Monty -------------------------------------------------------------------------------",
+                    "Didascalie": "",
+                    "Start": 54454,
+                    "End": 54726
+                },
+                {
+                    "Reply": "ah, good morning. did you sleep well?",
+                    "Didascalie": "",
+                    "Start": 54748,
+                    "End": 54786
+                },
+                {
+                    "Reply": "as a bee. I do appologise for last night, it was perfectly inconsidereate of me.",
+                    "Didascalie": "",
+                    "Start": 54857,
+                    "End": 54948
+                },
+                {
+                    "Reply": "didn't break it. merely forced it a little. there was an empty wine bottle on the ledge. tomatoes. you better wake him, breakfast in fifteen minutes.",
+                    "Didascalie": "",
+                    "Start": 55051,
+                    "End": 55221
+                },
+                {
+                    "Reply": "The older order changeth giving way to the new and God forfills himself in many ways and soon, I suppose, I shall be swept away by some vulgar little tumor. My boys, we are at the end of an age. We live in a land of weather forcasts and breakfasts that set in. Shat on by Tories, shovelled up by labour. Now which of you is going to be a splendid fellow and go down to the Rolls for the rest of the wine?",
+                    "Didascalie": "",
+                    "Start": 55333,
+                    "End": 55798
+                },
+                {
+                    "Reply": "But we have my car dear boy.",
+                    "Didascalie": "",
+                    "Start": 55954,
+                    "End": 55983
+                },
+                {
+                    "Reply": "Stranded!",
+                    "Didascalie": "",
+                    "Start": 56070,
+                    "End": 56080
+                },
+                {
+                    "Reply": "What on earth are those?",
+                    "Didascalie": "",
+                    "Start": 56439,
+                    "End": 56464
+                },
+                {
+                    "Reply": "You mean you've been up here in all this beastly mud and oomska without wellingtons? This afternoon I'll take you both into Penryth and get you fitted with some good quality rubber boots.",
+                    "Didascalie": "",
+                    "Start": 56547,
+                    "End": 56755
+                },
+                {
+                    "Reply": "I brought two of these in case either of you were any good in the kitchen.",
+                    "Didascalie": "",
+                    "Start": 56938,
+                    "End": 57023
+                },
+                {
+                    "Reply": "Oh, of course you are. Cooking's one of the natural talents.",
+                    "Didascalie": "",
+                    "Start": 57072,
+                    "End": 57133
+                },
+                {
+                    "Reply": "You haven't time we're taking late luncheon at three.",
+                    "Didascalie": "",
+                    "Start": 57423,
+                    "End": 57477
+                },
+                {
+                    "Reply": "Sign on!? At a labour exchange!?",
+                    "Didascalie": "",
+                    "Start": 57617,
+                    "End": 57650
+                },
+                {
+                    "Reply": "Couldn't you forgo for just this one occasion? I've come a very long way to see you both.",
+                    "Didascalie": "",
+                    "Start": 57776,
+                    "End": 57876
+                },
+                {
+                    "Reply": "I  I can't find the rosemary.",
+                    "Didascalie": "",
+                    "Start": 58419,
+                    "End": 58459
+                },
+                {
+                    "Reply": "I  perhaps it's in the other bag.",
+                    "Didascalie": "",
+                    "Start": 58612,
+                    "End": 58656
+                },
+                {
+                    "Reply": "I'm afraid we must drink from these. I hope their shapes will not offend your palates.",
+                    "Didascalie": "",
+                    "Start": 59309,
+                    "End": 59406
+                },
+                {
+                    "Reply": "To a delightful weekend in the country.",
+                    "Didascalie": "",
+                    "Start": 59464,
+                    "End": 59504
+                },
+                {
+                    "Reply": "I do think you could at least have shaved. What will people think, you look like a pair of farm-hands. Get away from the car.",
+                    "Didascalie": "",
+                    "Start": 59812,
+                    "End": 59948
+                },
+                {
+                    "Reply": "It's all you fault.",
+                    "Didascalie": "",
+                    "Start": 65156,
+                    "End": 65176
+                },
+                {
+                    "Reply": "Sherry!? Oh no, no, no, no. I'll fall straight into his trap.",
+                    "Didascalie": "",
+                    "Start": 65448,
+                    "End": 65510
+                },
+                {
+                    "Reply": "You shouldn't treat each other so badly. He's been working his fingers to the bone and all you do is sit in here drinking. Now, he's going to revitalize himself in here while you finish the vegtables.",
+                    "Didascalie": "",
+                    "Start": 66067,
+                    "End": 66298
+                },
+                {
+                    "Reply": "-------------------------------------------------------------------------------",
+                    "Didascalie": "",
+                    "Start": 66797,
+                    "End": 66877
+                },
+                {
+                    "Reply": "It's very stimulating getting back to a basic sort of lifestyle.",
+                    "Didascalie": "",
+                    "Start": 67076,
+                    "End": 67141
+                },
+                {
+                    "Reply": "What do you mean?",
+                    "Didascalie": "",
+                    "Start": 67295,
+                    "End": 67313
+                },
+                {
+                    "Reply": "All the glorious trials of youth dear boy. When I was a lad I'd rocket off on my tandem with Wrigglesworth and ride and ride.",
+                    "Didascalie": "",
+                    "Start": 67384,
+                    "End": 67520
+                },
+                {
+                    "Reply": "It depend entirely on the quality of the wine. In this case, it most certainly would not.",
+                    "Didascalie": "",
+                    "Start": 67712,
+                    "End": 67812
+                },
+                {
+                    "Reply": "I  You're forgetting Jake.",
+                    "Didascalie": "",
+                    "Start": 68034,
+                    "End": 68071
+                },
+                {
+                    "Reply": "Jake can wait too.",
+                    "Didascalie": "",
+                    "Start": 68093,
+                    "End": 68112
+                },
+                {
+                    "Reply": "Is this true?",
+                    "Didascalie": "",
+                    "Start": 68269,
+                    "End": 68283
+                },
+                {
+                    "Reply": "Oh, how delicious!",
+                    "Didascalie": "",
+                    "Start": 68639,
+                    "End": 68658
+                },
+                {
+                    "Reply": "Oh, wait for us dear boy, we'll all go.",
+                    "Didascalie": "",
+                    "Start": 68720,
+                    "End": 68760
+                },
+                {
+                    "Reply": "anecdote about his sensitive crimes in a punt with a chap called Norman who had ref hair and a poetry book stained with the butter drips from crumpets.",
+                    "Didascalie": "",
+                    "Start": 70027,
+                    "End": 70199
+                },
+                {
+                    "Reply": "Indeed I often wonder where Norman is now. Probably wintering with his mother in Guilford, a cat, rain, vim under the sink and both bars on. But old now, there is no true beauty without decay.",
+                    "Didascalie": "",
+                    "Start": 70221,
+                    "End": 70434
+                },
+                {
+                    "Reply": "sky's bruising, night must fall and we shall be forced to camp.",
+                    "Didascalie": "",
+                    "Start": 70646,
+                    "End": 70710
+                },
+                {
+                    "Reply": "Here hare here!",
+                    "Didascalie": "",
+                    "Start": 71571,
+                    "End": 71587
+                },
+                {
+                    "Reply": "Ace bets two and it's over to you.",
+                    "Didascalie": "",
+                    "Start": 72013,
+                    "End": 72048
+                },
+                {
+                    "Reply": "?",
+                    "Didascalie": "",
+                    "Start": 72236,
+                    "End": 72239
+                },
+                {
+                    "Reply": "A possible flush. Well, it's the two queens to bet!",
+                    "Didascalie": "",
+                    "Start": 72412,
+                    "End": 72464
+                },
+                {
+                    "Reply": "I think we'd better get him to bed.",
+                    "Didascalie": "",
+                    "Start": 72755,
+                    "End": 72791
+                },
+                {
+                    "Reply": "I wouldn't dream of depriving the poor fellow of his bed.",
+                    "Didascalie": "",
+                    "Start": 72916,
+                    "End": 72974
+                },
+                {
+                    "Reply": "He doesn't want to sleep with you.",
+                    "Didascalie": "",
+                    "Start": 73731,
+                    "End": 73766
+                },
+                {
+                    "Reply": "You already have. Twice!",
+                    "Didascalie": "",
+                    "Start": 73902,
+                    "End": 73927
+                },
+                {
+                    "Reply": "But not that tired eh? Are you a sponge or a stone?",
+                    "Didascalie": "",
+                    "Start": 74212,
+                    "End": 74264
+                },
+                {
+                    "Reply": "Do you like to sample all facets of life or do you shut yourself off from new experience.",
+                    "Didascalie": "",
+                    "Start": 74328,
+                    "End": 74428
+                },
+                {
+                    "Reply": "Loyalty isn't a matter of selection.",
+                    "Didascalie": "",
+                    "Start": 74488,
+                    "End": 74525
+                },
+                {
+                    "Reply": "You must mustn't you. Off you go then. I'll sleep down here. It won't be the first time I've been left with the couch!",
+                    "Didascalie": "",
+                    "Start": 74690,
+                    "End": 74819
+                },
+                {
+                    "Reply": "Boy! Boy! I know you're not asleep boy. But he is. I've been into his room. He won't hear a thing.",
+                    "Didascalie": "",
+                    "Start": 75147,
+                    "End": 75256
+                },
+                {
+                    "Reply": "I tried not to come, oh how I tried not to.",
+                    "Didascalie": "",
+                    "Start": 75422,
+                    "End": 75466
+                },
+                {
+                    "Reply": "There's no need to explain, he's told me everything.",
+                    "Didascalie": "",
+                    "Start": 75552,
+                    "End": 75605
+                },
+                {
+                    "Reply": "About how you came to Chelsea and you arrest in the totenham court road. He told me about your probelms, how you feel.",
+                    "Didascalie": "",
+                    "Start": 75671,
+                    "End": 75800
+                },
+                {
+                    "Reply": "You are a toilet trader! Go with it boy, give into to it. It's like a tide. Don't let it ruin your youth as I nearly did over Eric.",
+                    "Didascalie": "",
+                    "Start": 75865,
+                    "End": 76017
+                },
+                {
+                    "Reply": "Yes you are! Of course you are. You're only saying that to deny your relationship with him. It's not his fault that he can't love you any more that it's mine that I adore you. Can't we allow ourselves this one moment of indiscretion? He need never know.",
+                    "Didascalie": "",
+                    "Start": 76082,
+                    "End": 76366
+                },
+                {
+                    "Reply": "I  Monty you must listen! We're in an affair, we have been for years. But he's estranged, he won't allow himself to admit it.",
+                    "Didascalie": "",
+                    "Start": 76657,
+                    "End": 76803
+                },
+                {
+                    "Reply": "Oh my dear boy, if I'd realised that I'd never have attempted to come between you.",
+                    "Didascalie": "",
+                    "Start": 77027,
+                    "End": 77120
+                },
+                {
+                    "Reply": "You better go to him I  Oh, I intend to. This instant.",
+                    "Didascalie": "",
+                    "Start": 77247,
+                    "End": 77317
+                }
+            ]
+        },
+        {
+            "Character": "SCRUBBER",
+            "Replies": [
+                {
+                    "Reply": "Up yours grandad!",
+                    "Didascalie": "",
+                    "Start": 27895,
+                    "End": 27913
+                }
+            ]
+        },
+        {
+            "Character": "OLD WOMAN",
+            "Replies": [
+                {
+                    "Reply": "Who's there?",
+                    "Didascalie": "",
+                    "Start": 33635,
+                    "End": 33648
+                },
+                {
+                    "Reply": "What do you want?",
+                    "Didascalie": "",
+                    "Start": 33770,
+                    "End": 33788
+                },
+                {
+                    "Reply": "I don't care where you come from.",
+                    "Didascalie": "",
+                    "Start": 34210,
+                    "End": 34244
+                },
+                {
+                    "Reply": "You'll have to see my son. He runs this farm.",
+                    "Didascalie": "",
+                    "Start": 34784,
+                    "End": 34830
+                },
+                {
+                    "Reply": "Up in top field. You can't miss him, his legs bound in polythyne.",
+                    "Didascalie": "",
+                    "Start": 34892,
+                    "End": 34958
+                }
+            ]
+        },
+        {
+            "Character": "PARKIN",
+            "Replies": [
+                {
+                    "Reply": "Ay, seen the fat man. London type. Queer sort. Think his name's French or something.",
+                    "Didascalie": "",
+                    "Start": 38087,
+                    "End": 38182
+                },
+                {
+                    "Reply": "Ay, Adrian de la Touche. He hasn't been up year for couple of years. Last time I saw him, he were; he were with his son.",
+                    "Didascalie": "",
+                    "Start": 38239,
+                    "End": 38370
+                },
+                {
+                    "Reply": "Ay, I could bring you up some logs later but I've got the cows and that to feed first.",
+                    "Didascalie": "",
+                    "Start": 38546,
+                    "End": 38643
+                },
+                {
+                    "Reply": "I could bring you up a chicken but you'll have to go to the village really.",
+                    "Didascalie": "",
+                    "Start": 38837,
+                    "End": 38923
+                },
+                {
+                    "Reply": "Parkin I  Mr Parkin. What happened to your leg?",
+                    "Didascalie": "",
+                    "Start": 38999,
+                    "End": 39062
+                },
+                {
+                    "Reply": "Got a randy bull up there. Give me one in knee!",
+                    "Didascalie": "",
+                    "Start": 39085,
+                    "End": 39133
+                },
+                {
+                    "Reply": "Pay us when you come down I  What about this chicken?",
+                    "Didascalie": "",
+                    "Start": 40023,
+                    "End": 40092
+                },
+                {
+                    "Reply": "I  Oye! Oye! Parkin's been. There's the supper!",
+                    "Didascalie": "",
+                    "Start": 40263,
+                    "End": 40316
+                },
+                {
+                    "Reply": "Shut that gate, shut that bull!",
+                    "Didascalie": "",
+                    "Start": 44466,
+                    "End": 44498
+                },
+                {
+                    "Reply": "Shut that gate, shut that bull!",
+                    "Didascalie": "",
+                    "Start": 44565,
+                    "End": 44597
+                },
+                {
+                    "Reply": "Well he's randy!",
+                    "Didascalie": "",
+                    "Start": 45024,
+                    "End": 45041
+                },
+                {
+                    "Reply": "Just run at it, shouting!",
+                    "Didascalie": "",
+                    "Start": 45277,
+                    "End": 45303
+                },
+                {
+                    "Reply": "Shut that gate and keep it shut.",
+                    "Didascalie": "",
+                    "Start": 45609,
+                    "End": 45642
+                }
+            ]
+        },
+        {
+            "Character": "RAYMOND",
+            "Replies": [
+                {
+                    "Reply": "Thought I was going for a minute but no man's put me down yet.",
+                    "Didascalie": "",
+                    "Start": 46741,
+                    "End": 46804
+                },
+                {
+                    "Reply": "Do you know, when you first came in here I knew you were a services man. You can never, never disguise it.",
+                    "Didascalie": "",
+                    "Start": 47004,
+                    "End": 47121
+                },
+                {
+                    "Reply": "Tanks. Afrika Korps. A little before your time. Don't suppose you've engaged.",
+                    "Didascalie": "",
+                    "Start": 47188,
+                    "End": 47276
+                },
+                {
+                    "Reply": "Ooooh, a crack at the Mick.",
+                    "Didascalie": "",
+                    "Start": 47334,
+                    "End": 47362
+                },
+                {
+                    "Reply": "These shall be my pleasure. What are you doing up here then?",
+                    "Didascalie": "",
+                    "Start": 47453,
+                    "End": 47514
+                },
+                {
+                    "Reply": "Have you met Jake? Poacher. Works the lake but keep it under your hat, hmm?",
+                    "Didascalie": "",
+                    "Start": 47693,
+                    "End": 47779
+                },
+                {
+                    "Reply": "Time please gentlemen.",
+                    "Didascalie": "",
+                    "Start": 48052,
+                    "End": 48075
+                }
+            ]
+        },
+        {
+            "Character": "JAKE",
+            "Replies": [
+                {
+                    "Reply": "You leave them alone. Nothing down there of interest to you.",
+                    "Didascalie": "",
+                    "Start": 48658,
+                    "End": 48719
+                },
+                {
+                    "Reply": "No.",
+                    "Didascalie": "",
+                    "Start": 49025,
+                    "End": 49029
+                },
+                {
+                    "Reply": "Those pheasants are for his pot. There eels are for my pot. Now what makes you think I should give you something for your pot?",
+                    "Didascalie": "",
+                    "Start": 49113,
+                    "End": 49250
+                },
+                {
+                    "Reply": "Ah, he know. Here, give us a wheeze on that fag.",
+                    "Didascalie": "",
+                    "Start": 49341,
+                    "End": 49390
+                },
+                {
+                    "Reply": "Might come up and see you lads in the week . Might bring you up a rabbit.",
+                    "Didascalie": "",
+                    "Start": 49514,
+                    "End": 49598
+                },
+                {
+                    "Reply": "Now listen here you young prat. Haven't got no pheasants. Haven't got no birds. No more than you have.",
+                    "Didascalie": "",
+                    "Start": 49688,
+                    "End": 49801
+                },
+                {
+                    "Reply": "Half dead he might be, but I'll come up after you and wake you up with a live one.",
+                    "Didascalie": "",
+                    "Start": 50066,
+                    "End": 50159
+                },
+                {
+                    "Reply": "I know where you are. You're at crow crag. I've been wathching you. Especially you, prancing like a tit. You want working on boy. XXXXXXXXXXXXXXXXXXXXXXXXXXXXX ----------------------------------------------------------------------",
+                    "Didascalie": "",
+                    "Start": 50277,
+                    "End": 50538
+                }
+            ]
+        }
+    ]
 }

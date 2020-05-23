@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "Apartment, The",
-        "   "
-    ],
+    "Title": "Apartment, The",
     "Author": [
-        "\u00a0\u00a0Billy Wilder\u00a0\u00a0I.A.L Diamond"
+        "Billy Wilder",
+        "I.A.L Diamond"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
-        {
-            "Character": "A DESK COMPUTER",
-            "Replies": [
-                {
-                    "Reply": "A man's hand is punching out a series of figures on the keyboard.",
-                    "Didascalie": "",
-                    "Start": 186,
-                    "End": 252
-                }
-            ]
-        },
         {
             "Character": "BUD",
             "Replies": [
@@ -3137,6 +3124,17 @@
                     "Didascalie": "",
                     "Start": 243344,
                     "End": 243420
+                }
+            ]
+        },
+        {
+            "Character": "DESK 861",
+            "Replies": [
+                {
+                    "Reply": "Like every other desk, it has a small name plate attached to the side.  This one reads C.C. BAXTER.",
+                    "Didascalie": "",
+                    "Start": 1889,
+                    "End": 1989
                 }
             ]
         },

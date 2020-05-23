@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Prometheus",
-        "   "
-    ],
+    "Title": "Prometheus",
     "Author": [
-        "\u00a0\u00a0Jon Spaihts"
+        "Jon Spaihts"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi"
+        "Adventure",
+        "Mystery",
+        "Sci-Fi"
     ],
     "Characters": [
         {

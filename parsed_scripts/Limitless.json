@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Limitless",
-        "   "
-    ],
+    "Title": "Limitless",
     "Author": [
-        "\u00a0\u00a0Leslie Dixon"
+        "Leslie Dixon"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4432,17 +4431,6 @@
                     "Didascalie": "",
                     "Start": 153047,
                     "End": 153123
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "across the street. He clicks open a CELL PHONE.",
-                    "Didascalie": "",
-                    "Start": 159158,
-                    "End": 159206
                 }
             ]
         },

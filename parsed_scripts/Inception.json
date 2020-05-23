@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Inception",
-        "   "
-    ],
+    "Title": "Inception",
     "Author": [
-        "\u00a0\u00a0Christopher Nolan"
+        "Christopher Nolan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Mystery"
+        "Action",
+        "Adventure",
+        "Mystery"
     ],
     "Characters": [
         {

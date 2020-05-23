@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Oblivion",
-        "   "
-    ],
+    "Title": "Oblivion",
     "Author": [
-        "\u00a0\u00a0Joseph Kosinski\u00a0\u00a0Karl Gajdusek\u00a0\u00a0William Monahan"
+        "Joseph Kosinski",
+        "Karl Gajdusek",
+        "William Monahan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1146,12 +1147,6 @@
                     "Didascalie": "",
                     "Start": 149330,
                     "End": 149336
-                },
-                {
-                    "Reply": "NOOO1 PETALS are falling towards us from the skytower, and then, so is VICTORIA.",
-                    "Didascalie": "",
-                    "Start": 149626,
-                    "End": 149727
                 },
                 {
                     "Reply": "This is Technician Jack Harper.",
@@ -3227,6 +3222,76 @@
             ]
         },
         {
+            "Character": "WITH DRONE 166",
+            "Replies": [
+                {
+                    "Reply": "It pulls out of an arc, ACCELERATES, closing on the Bubbleship as the Bubbleship tears away into a cloud bank, goes in. Drone 166 follows, seconds behind.",
+                    "Didascalie": "",
+                    "Start": 154731,
+                    "End": 154908
+                }
+            ]
+        },
+        {
+            "Character": "VICTORIA 2",
+            "Replies": [
+                {
+                    "Reply": "You're early...",
+                    "Didascalie": "",
+                    "Start": 167477,
+                    "End": 167493
+                },
+                {
+                    "Reply": "What happened out there? I lost contact.",
+                    "Didascalie": "",
+                    "Start": 167842,
+                    "End": 167893
+                },
+                {
+                    "Reply": "Are you all right?",
+                    "Didascalie": "",
+                    "Start": 168050,
+                    "End": 168069
+                },
+                {
+                    "Reply": ".What?",
+                    "Didascalie": "",
+                    "Start": 168277,
+                    "End": 168284
+                },
+                {
+                    "Reply": "You dreamed a lot last night. I was thinking, you have to start writing them down.",
+                    "Didascalie": "",
+                    "Start": 168408,
+                    "End": 168511
+                },
+                {
+                    "Reply": "I'll get it.",
+                    "Didascalie": "",
+                    "Start": 168645,
+                    "End": 168658
+                },
+                {
+                    "Reply": "We should watch a movie tonight.",
+                    "Didascalie": "",
+                    "Start": 170634,
+                    "End": 170667
+                },
+                {
+                    "Reply": "I was going over the catalog and there's still a bunch of your favorites I haven't seen...",
+                    "Didascalie": "",
+                    "Start": 170838,
+                    "End": 170949
+                },
+                {
+                    "Reply": "Hey, you didn't say goodbye.",
+                    "Didascalie": "",
+                    "Start": 171505,
+                    "End": 171534
+                }
+            ]
+        },
+        {
             "Character": "ORIGINAL JACK",
             "Replies": [
                 {
@@ -3323,6 +3388,17 @@
                     "Didascalie": "",
                     "Start": 190918,
                     "End": 190926
+                }
+            ]
+        },
+        {
+            "Character": "DRONE 166",
+            "Replies": [
+                {
+                    "Reply": "falls inert in front of Julia as the Tet Explodes in the sky above her. She stares up, tears already running down her face.",
+                    "Didascalie": "",
+                    "Start": 199572,
+                    "End": 199716
                 }
             ]
         },

@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Room",
-        "   "
-    ],
+    "Title": "Room",
     "Author": [
-        "\u00a0\u00a0Emma Donoghue"
+        "Emma Donoghue"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1076,12 +1073,6 @@
                     "End": 95030
                 },
                 {
-                    "Reply": "40    CONTINUED:                                               40  Ma realizes he thought their escape would be temporary. She hugs him as he drifts off to sleep.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 95102,
-                    "End": 95278
-                },
-                {
                     "Reply": "Ma.",
                     "Didascalie": "",
                     "Start": 95933,
@@ -1248,12 +1239,6 @@
                     "Didascalie": "",
                     "Start": 144128,
                     "End": 144144
-                },
-                {
-                    "Reply": "67   CONTINUED:                                               67  This is the first time Jack has initiated any conversation with an adult other than Ma.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 144214,
-                    "End": 144379
                 },
                 {
                     "Reply": "I had a dog called Lucky. But he's not real.",
@@ -1460,12 +1445,6 @@
                     "End": 183973
                 },
                 {
-                    "Reply": "104   CONTINUED:                                                104  He tries the handle, but the door opens only a few inches.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 184044,
-                    "End": 184179
-                },
-                {
                     "Reply": "Ma! Ma!",
                     "Didascalie": "(CONT'D) (shouting)",
                     "Start": 184298,
@@ -1500,12 +1479,6 @@
                     "Didascalie": "",
                     "Start": 187181,
                     "End": 187212
-                },
-                {
-                    "Reply": "107     CONTINUED:                                              107  Ma breaks down in sobs.",
-                    "Didascalie": "(OVERLAPPING) (CONTINUED)",
-                    "Start": 187285,
-                    "End": 187387
                 },
                 {
                     "Reply": "Sure. I did it before. In Room.",
@@ -1769,12 +1742,6 @@
                     "Didascalie": "",
                     "Start": 5967,
                     "End": 6035
-                },
-                {
-                    "Reply": "4   CONTINUED:                                                   4  She reaches for her clothes.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 6104,
-                    "End": 6206
                 },
                 {
                     "Reply": "Good choice!",
@@ -2491,12 +2458,6 @@
                     "End": 52478
                 },
                 {
-                    "Reply": "29   CONTINUED:                                               29  Curious, Jack switches channels: a 1970 BBC mini-series, THE SIX WIVES OF HENRY VIII.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 52548,
-                    "End": 52711
-                },
-                {
                     "Reply": "Ah, they're real people playing dress-up, pretending to be people from hundreds of years ago.",
                     "Didascalie": "",
                     "Start": 53091,
@@ -2639,12 +2600,6 @@
                     "Didascalie": "",
                     "Start": 59260,
                     "End": 59341
-                },
-                {
-                    "Reply": "31   CONTINUED:                                                  31  She shoves her fingers down her throat to make her retch.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 59414,
-                    "End": 59547
                 },
                 {
                     "Reply": "Makes you smell sick.",
@@ -3607,12 +3562,6 @@
                     "End": 160822
                 },
                 {
-                    "Reply": "82   CONTINUED:                                               82  They start to walk towards the entrance. Ma stops and crouches down. Puts her hands on Jack's shoulders and speaks tenderly.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 160892,
-                    "End": 161099
-                },
-                {
                     "Reply": "You're going to be fine. OK?",
                     "Didascalie": "",
                     "Start": 161157,
@@ -4264,12 +4213,6 @@
                     "Didascalie": "",
                     "Start": 34719,
                     "End": 34771
-                },
-                {
-                    "Reply": "22   CONTINUED:                                                  22  Sound of the door opening, then shutting with a boom. Jack waits to hear what Ma will do or say to him.",
-                    "Didascalie": "(O.S.) (CONTINUED)",
-                    "Start": 34843,
-                    "End": 35027
                 },
                 {
                     "Reply": "You know the drill: not a peep out of you till the door's shut.",
@@ -5172,12 +5115,6 @@
                     "End": 125149
                 },
                 {
-                    "Reply": "57   CONTINUED:                                                  57  Ma nods. From out of the kitchen comes an man in his late 50s. This is LEO, Nancy's partner.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 125219,
-                    "End": 125392
-                },
-                {
                     "Reply": "Jack, this is Leo.",
                     "Didascalie": "",
                     "Start": 125829,
@@ -5254,12 +5191,6 @@
                     "Didascalie": "",
                     "Start": 132031,
                     "End": 132038
-                },
-                {
-                    "Reply": "59   CONTINUED:                                               59  Jack walks over to the bed and sits down. We are with him as he takes in the band posters, track trophies, pictures -",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 132109,
-                    "End": 132304
                 },
                 {
                     "Reply": "I'll let you rest. We'll be downstairs.",
@@ -5628,6 +5559,45 @@
             ]
         },
         {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Joy! Joy! Any message for your well-",
+                    "Didascalie": "",
+                    "Start": 123286,
+                    "End": 123323
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Jack! Jack! Look this way.",
+                    "Didascalie": "",
+                    "Start": 123562,
+                    "End": 123589
+                },
+                {
+                    "Reply": "Joy! What do you say to your captor?",
+                    "Didascalie": "",
+                    "Start": 123824,
+                    "End": 123876
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "Jack! How do you like the world so far?",
+                    "Didascalie": "",
+                    "Start": 123641,
+                    "End": 123696
+                }
+            ]
+        },
+        {
             "Character": "LAWYER",
             "Replies": [
                 {
@@ -5760,12 +5730,6 @@
                     "Didascalie": "",
                     "Start": 142271,
                     "End": 142288
-                },
-                {
-                    "Reply": "65   CONTINUED:                                                  65  He lets them out, closes the door behind them, then peeps through the closed curtains. As he turns away, he spots Jack, gives him a salute and then busies himself in ways calculated to raise the interest of a 5-year-old. Tidying up, he picks up a ball from the floor, spins it on his finger, bounces it.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 142359,
-                    "End": 142758
                 },
                 {
                     "Reply": "Gee, am I hungry.",

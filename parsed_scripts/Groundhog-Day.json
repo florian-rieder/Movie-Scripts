@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Groundhog Day",
-        "   "
-    ],
+    "Title": "Groundhog Day",
     "Author": [
-        "\u00a0\u00a0Danny Rubin"
+        "Danny Rubin"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Romance"
+        "Comedy",
+        "Fantasy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4418,12 +4417,6 @@
             "Character": "DEEJAY",
             "Replies": [
                 {
-                    "Reply": "Okay, campers, rise and shine, and don't forget your booties because it's COOOLD out there  TODAY1 Phil grimaces and swings out of bed.",
-                    "Didascalie": "",
-                    "Start": 19143,
-                    "End": 19322
-                },
-                {
                     "Reply": "Not hardly. And you can expect hazardous travel later today with that, you know, blizzard thing--",
                     "Didascalie": "",
                     "Start": 19636,
@@ -5013,23 +5006,6 @@
                     "Didascalie": "(PLEASANTLY)",
                     "Start": 114585,
                     "End": 114616
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "Phil's business card is dropped into a dish. Then the Tarot card of the Hanged Man, a chicken bone, and a feather are placed on top of it .",
-                    "Didascalie": "",
-                    "Start": 40882,
-                    "End": 41042
-                },
-                {
-                    "Reply": "X-rays of Phil's skull are slapped up onto a light box.",
-                    "Didascalie": "",
-                    "Start": 69011,
-                    "End": 69067
                 }
             ]
         },
@@ -5827,28 +5803,6 @@
             ]
         },
         {
-            "Character": "A TV SCREEN",
-            "Replies": [
-                {
-                    "Reply": "A woman in some horror movie is screaming.",
-                    "Didascalie": "",
-                    "Start": 132513,
-                    "End": 132556
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Mrs. Lancaster is watching TV in the parlor of the hotel. In the corridor behind her, Phil walks by, dressed in a robe, carrying an electric toaster and a towel, heading for the bathroom.",
-                    "Didascalie": "",
-                    "Start": 132584,
-                    "End": 132802
-                }
-            ]
-        },
-        {
             "Character": "DORIS",
             "Replies": [
                 {
@@ -6248,28 +6202,6 @@
                     "Didascalie": "",
                     "Start": 183063,
                     "End": 183127
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Phil! Good morning!",
-                    "Didascalie": "",
-                    "Start": 185283,
-                    "End": 185303
-                }
-            ]
-        },
-        {
-            "Character": "A LADY",
-            "Replies": [
-                {
-                    "Reply": "Mr. Connors. I wanted to thank you.",
-                    "Didascalie": "",
-                    "Start": 185333,
-                    "End": 185380
                 }
             ]
         },

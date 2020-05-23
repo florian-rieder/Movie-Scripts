@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Panic Room",
-        "   "
-    ],
+    "Title": "Panic Room",
     "Author": [
-        "\u00a0\u00a0David Koepp"
+        "David Koepp"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1026,12 +1025,6 @@
                     "End": 43462
                 },
                 {
-                    "Reply": "PANIC ROOM!",
-                    "Didascalie": "",
-                    "Start": 43549,
-                    "End": 43561
-                },
-                {
                     "Reply": "No.  you gotta...",
                     "Didascalie": "",
                     "Start": 43730,
@@ -1661,6 +1654,17 @@
                     "Didascalie": "",
                     "Start": 29086,
                     "End": 29101
+                }
+            ]
+        },
+        {
+            "Character": "ZONE 1 DISABLED",
+            "Replies": [
+                {
+                    "Reply": "IN THE KITCHEN,  Burnham opens the kitchen door, letting the two other guys slip inside.  RAOUL is a hulking figure whose back seems to rise up over the top of his slouching head; when he walks it looks like gravity does all the work, just pulling him forward.  JUNIOR is much smaller, very high-strung, dresses like a homey, very street, but can't hide the fact that the street is Park Avenue.",
+                    "Didascalie": "",
+                    "Start": 29123,
+                    "End": 29526
                 }
             ]
         },
@@ -3209,6 +3213,112 @@
                     "Didascalie": "",
                     "Start": 131161,
                     "End": 131178
+                }
+            ]
+        },
+        {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Everything okay?",
+                    "Didascalie": "",
+                    "Start": 133034,
+                    "End": 133051
+                },
+                {
+                    "Reply": "'Bout four o'clock.",
+                    "Didascalie": "",
+                    "Start": 133284,
+                    "End": 133304
+                },
+                {
+                    "Reply": "Can we come in?",
+                    "Didascalie": "",
+                    "Start": 133563,
+                    "End": 133579
+                },
+                {
+                    "Reply": "We'd like to come in.",
+                    "Didascalie": "",
+                    "Start": 133677,
+                    "End": 133699
+                },
+                {
+                    "Reply": "Can we come in?",
+                    "Didascalie": "",
+                    "Start": 133906,
+                    "End": 133922
+                },
+                {
+                    "Reply": "You don't look so good.",
+                    "Didascalie": "",
+                    "Start": 134062,
+                    "End": 134086
+                },
+                {
+                    "Reply": "Your husband says you said \"There are three...\" right before you got cut off.",
+                    "Didascalie": "",
+                    "Start": 134535,
+                    "End": 134635
+                },
+                {
+                    "Reply": "Ma'am, if there's something you want to say to us right now that maybe you can't say to us right now, maybe you just want to make a signal, by blinking a few times, something like that.",
+                    "Didascalie": "",
+                    "Start": 134876,
+                    "End": 135117
+                },
+                {
+                    "Reply": "That's something you could do.",
+                    "Didascalie": "",
+                    "Start": 135253,
+                    "End": 135284
+                },
+                {
+                    "Reply": "May I ask what the rest of that sentence was going to be?",
+                    "Didascalie": "",
+                    "Start": 135798,
+                    "End": 135867
+                },
+                {
+                    "Reply": "The sentence that started \"There are three.\"  What was the rest?",
+                    "Didascalie": "",
+                    "Start": 135979,
+                    "End": 136055
+                },
+                {
+                    "Reply": "Put your hands up.",
+                    "Didascalie": "",
+                    "Start": 153348,
+                    "End": 153367
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "Are you all right?",
+                    "Didascalie": "",
+                    "Start": 133136,
+                    "End": 133155
+                },
+                {
+                    "Reply": "We got a call...",
+                    "Didascalie": "",
+                    "Start": 133400,
+                    "End": 133417
+                },
+                {
+                    "Reply": "Are you okay?",
+                    "Didascalie": "",
+                    "Start": 133802,
+                    "End": 133816
+                },
+                {
+                    "Reply": "You want her to show you which three things, Rick, or should we just go?",
+                    "Didascalie": "",
+                    "Start": 136961,
+                    "End": 137045
                 }
             ]
         },

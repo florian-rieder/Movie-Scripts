@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Serenity",
-        "   "
-    ],
+    "Title": "Serenity",
     "Author": [
-        "\u00a0\u00a0Joss Whedon"
+        "Joss Whedon"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1319,6 +1319,12 @@
                     "End": 41898
                 },
                 {
+                    "Reply": "GET THEM INSIDE THE VAULT.",
+                    "Didascalie": "",
+                    "Start": 42010,
+                    "End": 42037
+                },
+                {
                     "Reply": "Zoe take the wheel --",
                     "Didascalie": "",
                     "Start": 42285,
@@ -2475,12 +2481,6 @@
                     "Didascalie": "",
                     "Start": 175955,
                     "End": 175961
-                },
-                {
-                    "Reply": "V0 I am.",
-                    "Didascalie": "",
-                    "Start": 176135,
-                    "End": 176154
                 },
                 {
                     "Reply": "Of course, that ain't exactly plan  A..",

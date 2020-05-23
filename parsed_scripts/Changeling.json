@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Changeling",
-        "   "
-    ],
+    "Title": "Changeling",
     "Author": [
-        "\u00a0\u00a0J Michael Straczynski"
+        "J Michael Straczynski"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -3617,18 +3616,6 @@
                     "Didascalie": "",
                     "Start": 129384,
                     "End": 129454
-                },
-                {
-                    "Reply": "My room. My room.       They SAID it was MY ROOM!",
-                    "Didascalie": "",
-                    "Start": 130268,
-                    "End": 130339
-                },
-                {
-                    "Reply": "MY ROOM!     MY ROOM!   MY ROOM!   MY ROOM!",
-                    "Didascalie": "",
-                    "Start": 130502,
-                    "End": 130567
                 }
             ]
         },

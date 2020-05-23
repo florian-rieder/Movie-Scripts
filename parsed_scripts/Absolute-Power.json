@@ -1,26 +1,15 @@
 {
-    "Title": [
-        "Absolute Power",
-        "   "
-    ],
+    "Title": "Absolute Power",
     "Author": [
-        "\u00a0\u00a0David Baldacci\u00a0\u00a0William Goldman"
+        "David Baldacci",
+        "William Goldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Thriller",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "PULL BACK TO REVEAL --",
-            "Replies": [
-                {
-                    "Reply": "A bunch of art students are doing sketches of the eyes, the elongated fingers, the slender hands El Greco drew so brilliantly.",
-                    "Didascalie": "",
-                    "Start": 408,
-                    "End": 543
-                }
-            ]
-        },
         {
             "Character": "GIRL STUDENT",
             "Replies": [

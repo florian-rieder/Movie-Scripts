@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Flight",
-        "   "
-    ],
+    "Title": "Flight",
     "Author": [
-        "\u00a0\u00a0John Gatins"
+        "John Gatins"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2572,12 +2569,6 @@
                     "Didascalie": "(fake checks his watch)",
                     "Start": 242369,
                     "End": 242409
-                },
-                {
-                    "Reply": "LADIES and GENTLEMEN it took EXACTLY 17 SECONDS FOR DEANA COLEMAN to ask me if I have been drinking! A NEW WORLD RECORD!",
-                    "Didascalie": "(has continued to rant)",
-                    "Start": 242636,
-                    "End": 242802
                 },
                 {
                     "Reply": "You're asking me to leave the house I bought for you?! Very good.",
@@ -5625,6 +5616,28 @@
             ]
         },
         {
+            "Character": "PASSENGER 1",
+            "Replies": [
+                {
+                    "Reply": "We were in a nose dive and people were screaming and yelling and then the plane turned upside down and we had to hold on to our seat belts to keep from falling out of our chairs -- I saw one kid fall to the floor and this flight attendant picked him up and handed him to his dad...I didn't see her again.",
+                    "Didascalie": "",
+                    "Start": 154476,
+                    "End": 154869
+                }
+            ]
+        },
+        {
+            "Character": "PASSENGER 2",
+            "Replies": [
+                {
+                    "Reply": "We turned like a corkscrew and all I could think was, \"this is really happening, I'm going to die\" and then all of a sudden the plane was upside down but steady and the pilot must have known how to fly it that way. He flipped it back over and landed it hard.",
+                    "Didascalie": "",
+                    "Start": 155954,
+                    "End": 156290
+                }
+            ]
+        },
+        {
             "Character": "NEIGHBOR",
             "Replies": [
                 {
@@ -5827,6 +5840,17 @@
                     "Didascalie": "",
                     "Start": 242871,
                     "End": 242895
+                }
+            ]
+        },
+        {
+            "Character": "EXACTLY 17 SECONDS FOR DEANA",
+            "Replies": [
+                {
+                    "Reply": "COLEMAN to ask me if I have been drinking! A NEW WORLD RECORD!",
+                    "Didascalie": "",
+                    "Start": 242728,
+                    "End": 242802
                 }
             ]
         },

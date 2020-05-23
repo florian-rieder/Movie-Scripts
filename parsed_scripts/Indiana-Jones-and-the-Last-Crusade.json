@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Indiana Jones and the Last Crusade",
-        "   "
-    ],
+    "Title": "Indiana Jones and the Last Crusade",
     "Author": [
-        "\u00a0\u00a0George Lucas\u00a0\u00a0Philip Kaufman\u00a0\u00a0Menno Meyjes\u00a0\u00a0Jeffrey Boam"
+        "George Lucas",
+        "Philip Kaufman",
+        "Menno Meyjes",
+        "Jeffrey Boam"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -1186,12 +1187,6 @@
                     "Didascalie": "",
                     "Start": 70686,
                     "End": 70721
-                },
-                {
-                    "Reply": "Yes, sirl  CONTINUED:  This reply is a kneejerk reaction on Indy's part. Now they look at each other.",
-                    "Didascalie": "(a reflex)",
-                    "Start": 71764,
-                    "End": 71870
                 },
                 {
                     "Reply": "Don't call me that, please.",

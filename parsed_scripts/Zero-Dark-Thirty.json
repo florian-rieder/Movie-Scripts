@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Zero Dark Thirty",
-        "   "
-    ],
+    "Title": "Zero Dark Thirty",
     "Author": [
-        "\u00a0\u00a0Mark Boal"
+        "Mark Boal"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4534,6 +4532,29 @@
             ]
         },
         {
+            "Character": "PRINCE 51 PILOT",
+            "Replies": [
+                {
+                    "Reply": "Thirty seconds to first turn.",
+                    "Didascalie": "",
+                    "Start": 161204,
+                    "End": 161234
+                },
+                {
+                    "Reply": "Big left!",
+                    "Didascalie": "(INTO RADIO)",
+                    "Start": 163393,
+                    "End": 163414
+                },
+                {
+                    "Reply": "Power!",
+                    "Didascalie": "",
+                    "Start": 166930,
+                    "End": 166937
+                }
+            ]
+        },
+        {
             "Character": "JARED",
             "Replies": [
                 {
@@ -4583,6 +4604,40 @@
                     "Didascalie": "(IN ARABIC)",
                     "Start": 182923,
                     "End": 182962
+                }
+            ]
+        },
+        {
+            "Character": "PRINCE 51 CO-PILOT",
+            "Replies": [
+                {
+                    "Reply": "Hard left.",
+                    "Didascalie": "",
+                    "Start": 161732,
+                    "End": 161743
+                }
+            ]
+        },
+        {
+            "Character": "PRINCE 52 PILOT",
+            "Replies": [
+                {
+                    "Reply": "Now entering Pakistan.",
+                    "Didascalie": "(OVER RADIO)",
+                    "Start": 162486,
+                    "End": 162520
+                },
+                {
+                    "Reply": "Prince 51 is down. Blackhawk down in the animal pen.",
+                    "Didascalie": "",
+                    "Start": 167826,
+                    "End": 167889
+                },
+                {
+                    "Reply": "This mission is still a go.",
+                    "Didascalie": "(OVER RADIO)",
+                    "Start": 168816,
+                    "End": 168855
                 }
             ]
         },

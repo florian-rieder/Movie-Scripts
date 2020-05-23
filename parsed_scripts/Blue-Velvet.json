@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Blue Velvet",
-        "   "
-    ],
+    "Title": "Blue Velvet",
     "Author": [
-        "\u00a0\u00a0David Lynch"
+        "David Lynch"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

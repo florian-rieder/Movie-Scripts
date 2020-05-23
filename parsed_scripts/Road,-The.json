@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Road, The",
-        "   "
-    ],
+    "Title": "Road, The",
     "Author": [
-        "\u00a0\u00a0Joe Penhall"
+        "Joe Penhall"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Adventure",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -88,6 +87,17 @@
                     "Didascalie": "",
                     "Start": 177609,
                     "End": 177623
+                }
+            ]
+        },
+        {
+            "Character": "BEARDED MAN 2",
+            "Replies": [
+                {
+                    "Reply": "What the fuck do you think you're doing? Huh? What the fuck do you think you're doing...?",
+                    "Didascalie": "",
+                    "Start": 70922,
+                    "End": 71032
                 }
             ]
         },

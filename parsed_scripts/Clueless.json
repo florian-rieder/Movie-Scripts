@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Clueless",
-        "   "
-    ],
+    "Title": "Clueless",
     "Author": [
-        "\u00a0\u00a0Amy Heckerling"
+        "Amy Heckerling"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5735,17 +5733,6 @@
                     "Didascalie": "",
                     "Start": 71008,
                     "End": 71092
-                }
-            ]
-        },
-        {
-            "Character": "END CREDITS",
-            "Replies": [
-                {
-                    "Reply": "\"Need You Around\"",
-                    "Didascalie": "",
-                    "Start": 74106,
-                    "End": 74124
                 }
             ]
         }

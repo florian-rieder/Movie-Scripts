@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Entrapment",
-        "   "
-    ],
+    "Title": "Entrapment",
     "Author": [
-        "\u00a0\u00a0Ronald Bass\u00a0\u00a0Michael Herzberg"
+        "Ronald Bass",
+        "Michael Herzberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4072,12 +4073,6 @@
                     "Didascalie": "",
                     "Start": 220180,
                     "End": 220207
-                },
-                {
-                    "Reply": "SAVE IT FOR A RAINY DAY!",
-                    "Didascalie": "",
-                    "Start": 221549,
-                    "End": 221574
                 },
                 {
                     "Reply": "You can do this.",

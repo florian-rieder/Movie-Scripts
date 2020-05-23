@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Diner",
-        "   "
-    ],
+    "Title": "Diner",
     "Author": [
-        "\u00a0\u00a0Barry Levinson"
+        "Barry Levinson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -413,12 +411,6 @@
                     "Didascalie": "",
                     "Start": 88793,
                     "End": 88821
-                },
-                {
-                    "Reply": "Were you?",
-                    "Didascalie": "(VERY RESERVED)",
-                    "Start": 89113,
-                    "End": 89134
                 },
                 {
                     "Reply": "Do you ride Wester. style as well?",
@@ -1119,12 +1111,6 @@
                     "Didascalie": "",
                     "Start": 38433,
                     "End": 38446
-                },
-                {
-                    "Reply": "CONTINUZD:  ---- - EDDIE --",
-                    "Didascalie": "(Mr, I 'UED)",
-                    "Start": 38499,
-                    "End": 38672
                 },
                 {
                     "Reply": "I'm hungry here.",
@@ -2192,12 +2178,6 @@
                     "End": 13075
                 },
                 {
-                    "Reply": "I'a buying at. the diner.",
-                    "Didascalie": "(DESPERATE)",
-                    "Start": 13134,
-                    "End": 13171
-                },
-                {
                     "Reply": "That's true. There's hardly any blues in movies. Just sidekicks.",
                     "Didascalie": "",
                     "Start": 16324,
@@ -2380,6 +2360,17 @@
                     "Didascalie": "",
                     "Start": 16993,
                     "End": 17025
+                }
+            ]
+        },
+        {
+            "Character": "FZN 1 CK",
+            "Replies": [
+                {
+                    "Reply": "Enid. French fries and gravy, and a cherry coke.",
+                    "Didascalie": "",
+                    "Start": 17189,
+                    "End": 17248
                 }
             ]
         },
@@ -3205,6 +3196,17 @@
             ]
         },
         {
+            "Character": "I 01",
+            "Replies": [
+                {
+                    "Reply": "CONTINUZD:  ---- - EDDIE --",
+                    "Didascalie": "(Mr, I 'UED)",
+                    "Start": 38499,
+                    "End": 38672
+                }
+            ]
+        },
+        {
             "Character": "CUSTOMER",
             "Replies": [
                 {
@@ -3353,6 +3355,17 @@
                     "Didascalie": "(CONTINUING)",
                     "Start": 50857,
                     "End": 50898
+                }
+            ]
+        },
+        {
+            "Character": "SH 1ZEVIE",
+            "Replies": [
+                {
+                    "Reply": "Beth heard the movie was pretty good.",
+                    "Didascalie": "(ALMOST APOLOGIZING for bringing Beth)",
+                    "Start": 52253,
+                    "End": 52312
                 }
             ]
         },
@@ -3745,6 +3758,17 @@
             ]
         },
         {
+            "Character": "C 0 NT IN-E D",
+            "Replies": [
+                {
+                    "Reply": "You know the big part of the problem?",
+                    "Didascalie": "(CONTINUING)",
+                    "Start": 74129,
+                    "End": 74178
+                }
+            ]
+        },
+        {
             "Character": "IR BOOGIE",
             "Replies": [
                 {
@@ -3752,12 +3776,6 @@
                     "Didascalie": "",
                     "Start": 75887,
                     "End": 75915
-                },
-                {
-                    "Reply": "I          CONTINUED : They're probably in the basement watching TV.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 75953,
-                    "End": 76194
                 }
             ]
         },
@@ -3956,17 +3974,6 @@
                     "Didascalie": "",
                     "Start": 93312,
                     "End": 93338
-                }
-            ]
-        },
-        {
-            "Character": "A COLT DEFENSIVE LINEMAN",
-            "Replies": [
-                {
-                    "Reply": "smashes into the Giant's quarterback, knocking him to the ground with a thud. The Colts are fired up. The Champion-",
-                    "Didascalie": "",
-                    "Start": 93789,
-                    "End": 93915
                 }
             ]
         },
@@ -4519,6 +4526,17 @@
             ]
         },
         {
+            "Character": "F-NWICK 1",
+            "Replies": [
+                {
+                    "Reply": "You crouch. I'll stand.",
+                    "Didascalie": "",
+                    "Start": 148913,
+                    "End": 148937
+                }
+            ]
+        },
+        {
             "Character": "SH VIE",
             "Replies": [
                 {
@@ -4537,17 +4555,6 @@
                     "Didascalie": "",
                     "Start": 150957,
                     "End": 150986
-                }
-            ]
-        },
-        {
-            "Character": "CC",
-            "Replies": [
-                {
-                    "Reply": "CONTINUED: Right. Sat on the couch in her club cellar for hours, trying to figure out a way to get my arm arc:,tzid her. Finally, I learned the 'move.' I yawned and put my arm around her shoulder.",
-                    "Didascalie": "",
-                    "Start": 155649,
-                    "End": 155906
                 }
             ]
         },

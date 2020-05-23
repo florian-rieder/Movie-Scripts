@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Max Payne",
-        "   "
-    ],
+    "Title": "Max Payne",
     "Author": [
-        "\u00a0\u00a0Beau Michael Thorne"
+        "Beau Michael Thorne"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

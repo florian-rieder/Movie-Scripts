@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Event Horizon",
-        "   "
-    ],
+    "Title": "Event Horizon",
     "Author": [
-        "\u00a0\u00a0Philip Eisner"
+        "Philip Eisner"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5382,17 +5381,6 @@
             ]
         },
         {
-            "Character": "WIDER TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "the seven bodies of the crew, suspended inert in the gel.",
-                    "Didascalie": "",
-                    "Start": 25898,
-                    "End": 25956
-                }
-            ]
-        },
-        {
             "Character": "CLAIRE",
             "Replies": [
                 {
@@ -5459,17 +5447,6 @@
                     "Didascalie": "",
                     "Start": 192831,
                     "End": 192908
-                }
-            ]
-        },
-        {
-            "Character": "A VIDEO SCREEN",
-            "Replies": [
-                {
-                    "Reply": "A jumpy, handheld camera view of:  Gravity couch bay. Two crewmen checking electronics modules. The ship is well-lit, clean, no sign of debris. The narrator's voice is excited and nervous.",
-                    "Didascalie": "",
-                    "Start": 123055,
-                    "End": 123291
                 }
             ]
         },

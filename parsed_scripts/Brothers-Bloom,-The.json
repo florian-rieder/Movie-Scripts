@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Brothers Bloom, The",
-        "   "
-    ],
+    "Title": "Brothers Bloom, The",
     "Author": [
-        "\u00a0\u00a0Rian Johnson"
+        "Rian Johnson"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

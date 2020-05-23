@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Taxi Driver",
-        "   "
-    ],
+    "Title": "Taxi Driver",
     "Author": [
-        "\u00a0\u00a0Paul Schrader"
+        "Paul Schrader"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1825,17 +1824,6 @@
             ]
         },
         {
-            "Character": "CREDITS",
-            "Replies": [
-                {
-                    "Reply": "CREDITS appear over scenes from MANHATTAN NIGHTLIFE. The snow has melted, it is spring.",
-                    "Didascalie": "",
-                    "Start": 7096,
-                    "End": 7184
-                }
-            ]
-        },
-        {
             "Character": "MAN IN BUSINESS SUIT",
             "Replies": [
                 {
@@ -1912,17 +1900,6 @@
                     "Didascalie": "",
                     "Start": 16010,
                     "End": 16061
-                }
-            ]
-        },
-        {
-            "Character": "MUST PHONE IN AT ONCE TO",
-            "Replies": [
-                {
-                    "Reply": "JUDSON 2-3410 AND MUST FILE A REPORT Promptly AT 9 AM THE FOLLOWING MORNING AT 43 W. 61st.",
-                    "Didascalie": "",
-                    "Start": 16247,
-                    "End": 16392
                 }
             ]
         },

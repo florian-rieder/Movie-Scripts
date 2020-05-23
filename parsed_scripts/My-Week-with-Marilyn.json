@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "My Week with Marilyn",
-        "   "
-    ],
+    "Title": "My Week with Marilyn",
     "Author": [
-        "\u00a0\u00a0Adrian Hodges"
+        "Adrian Hodges"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1336,12 +1333,6 @@
                     "Didascalie": "",
                     "Start": 227425,
                     "End": 227487
-                },
-                {
-                    "Reply": "MY WEEK WITH MARILYN 111-",
-                    "Didascalie": "(CONT'D) (MORE)",
-                    "Start": 227520,
-                    "End": 227559
                 },
                 {
                     "Reply": "From now on I'm nobody. Just the third. You don't even know I exist. We'll never look at each other again.",
@@ -3398,6 +3389,35 @@
             ]
         },
         {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Marilyn, this way..!",
+                    "Didascalie": "",
+                    "Start": 46430,
+                    "End": 46451
+                },
+                {
+                    "Reply": "Is it true you want to be a classical actor now?",
+                    "Didascalie": "",
+                    "Start": 48978,
+                    "End": 49038
+                },
+                {
+                    "Reply": "There's a rumour you're going to be in The Brothers Karamazov on Broadway.",
+                    "Didascalie": "",
+                    "Start": 49184,
+                    "End": 49281
+                },
+                {
+                    "Reply": "What's your definition of an intellectual, Marilyn?",
+                    "Didascalie": "",
+                    "Start": 50230,
+                    "End": 50293
+                }
+            ]
+        },
+        {
             "Character": "MARILYN",
             "Replies": [
                 {
@@ -3429,12 +3449,6 @@
                     "Didascalie": "",
                     "Start": 49327,
                     "End": 49347
-                },
-                {
-                    "Reply": "Which of them will you be playing?",
-                    "Didascalie": "(SHOUTS)",
-                    "Start": 49420,
-                    "End": 49478
                 },
                 {
                     "Reply": "I'll be playing Grushenka.",
@@ -4477,6 +4491,23 @@
             ]
         },
         {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "Which of them will you be playing?",
+                    "Didascalie": "(SHOUTS)",
+                    "Start": 49420,
+                    "End": 49478
+                },
+                {
+                    "Reply": "Can you spell that?",
+                    "Didascalie": "",
+                    "Start": 49820,
+                    "End": 49840
+                }
+            ]
+        },
+        {
             "Character": "MILTON",
             "Replies": [
                 {
@@ -4514,12 +4545,6 @@
                     "Didascalie": "",
                     "Start": 70370,
                     "End": 70440
-                },
-                {
-                    "Reply": "MY WEEK WITH MARILYN 32A.",
-                    "Didascalie": "(MORE)",
-                    "Start": 70473,
-                    "End": 70511
                 },
                 {
                     "Reply": "Try to change her and she'll drive you crazy. Trust me.",

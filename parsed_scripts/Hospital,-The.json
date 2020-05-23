@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "Hospital, The",
-        "   "
-    ],
+    "Title": "Hospital, The",
     "Author": [
-        "\u00a0\u00a0Paddy Chayefsky"
+        "Paddy Chayefsky"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "SHOOTING DRAFT",
-            "Replies": [
-                {
-                    "Reply": "1971    THE HOSPITAL. DAY. MAY,  PANORAMIC VIEW of The Hospital -- a vast medical complex, a sprawling pastiche of architecture extending ten blocks north and south on First Avenue and east to the river.",
-                    "Didascalie": "",
-                    "Start": 266,
-                    "End": 548
-                }
-            ]
-        },
         {
             "Character": "NARRATOR",
             "Replies": [

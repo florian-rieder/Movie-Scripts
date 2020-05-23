@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Klute",
-        "   "
-    ],
+    "Title": "Klute",
     "Author": [
-        "\u00a0\u00a0Andy Lewis\u00a0\u00a0David Lewis"
+        "Andy Lewis",
+        "David Lewis"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4007,17 +4008,6 @@
                     "Didascalie": "(CONT'D) (beat)",
                     "Start": 143495,
                     "End": 143523
-                }
-            ]
-        },
-        {
-            "Character": "TO --",
-            "Replies": [
-                {
-                    "Reply": "He returns toward her.",
-                    "Didascalie": "",
-                    "Start": 134275,
-                    "End": 134298
                 }
             ]
         },

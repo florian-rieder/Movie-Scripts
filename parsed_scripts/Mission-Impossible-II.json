@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Mission Impossible II",
-        "   "
-    ],
+    "Title": "Mission Impossible II",
     "Author": [
-        "\u00a0\u00a0Robert Towne"
+        "Robert Towne"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4294,17 +4294,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Naturally Vain..",
-                    "Didascalie": "",
-                    "Start": 84584,
-                    "End": 84601
-                }
-            ]
-        },
-        {
             "Character": "MCCLOY",
             "Replies": [
                 {
@@ -4554,17 +4543,6 @@
             ]
         },
         {
-            "Character": "A VIEW OF SYDNEY",
-            "Replies": [
-                {
-                    "Reply": "from harbors to skyline in all its sunlight splendor.",
-                    "Didascalie": "",
-                    "Start": 156387,
-                    "End": 156441
-                }
-            ]
-        },
-        {
             "Character": "CHEMIST",
             "Replies": [
                 {
@@ -4578,17 +4556,6 @@
                     "Didascalie": "",
                     "Start": 163301,
                     "End": 163338
-                }
-            ]
-        },
-        {
-            "Character": "A SPECTACULAR VIEW OF SYDNEY",
-            "Replies": [
-                {
-                    "Reply": "on bluffs overlooking the city.  Camera moves slowly to the top of the bluff.",
-                    "Didascalie": "",
-                    "Start": 178065,
-                    "End": 178148
                 }
             ]
         },

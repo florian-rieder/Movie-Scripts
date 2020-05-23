@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Legion",
-        "   "
-    ],
+    "Title": "Legion",
     "Author": [
-        "\u00a0\u00a0Peter Schink\u00a0\u00a0Scott Stewart"
+        "Peter Schink",
+        "Scott Stewart"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -18,17 +19,6 @@
                     "Didascalie": "",
                     "Start": 340,
                     "End": 426
-                }
-            ]
-        },
-        {
-            "Character": "A BLOOD RED MOON",
-            "Replies": [
-                {
-                    "Reply": "reflected in a greasy puddle of water. Might just be the smog that's making it that ominous color. Then we notice something moving in the reflection. A dark shape, growing, coming down at us fast. Beat...then WHAM!",
-                    "Didascalie": "",
-                    "Start": 2398,
-                    "End": 2643
                 }
             ]
         },
@@ -3615,17 +3605,6 @@
             ]
         },
         {
-            "Character": "A GRIMY PIECE OF WOOD",
-            "Replies": [
-                {
-                    "Reply": "A cloth wipes away the dirt, revealing the partial image of an ANGEL carved into the surface.",
-                    "Didascalie": "",
-                    "Start": 33481,
-                    "End": 33585
-                }
-            ]
-        },
-        {
             "Character": "OLD WOMAN",
             "Replies": [
                 {
@@ -3768,17 +3747,6 @@
             ]
         },
         {
-            "Character": "A DEAD BOLT",
-            "Replies": [
-                {
-                    "Reply": "Thrown.   Locking the diner door.",
-                    "Didascalie": "",
-                    "Start": 84378,
-                    "End": 84412
-                }
-            ]
-        },
-        {
             "Character": "TEENAGE GIRL",
             "Replies": [
                 {
@@ -3830,17 +3798,6 @@
             ]
         },
         {
-            "Character": "A SHEET",
-            "Replies": [
-                {
-                    "Reply": "covering a body.",
-                    "Didascalie": "",
-                    "Start": 127021,
-                    "End": 127038
-                }
-            ]
-        },
-        {
             "Character": "RADIO VOICE",
             "Replies": [
                 {
@@ -3860,17 +3817,6 @@
                     "Didascalie": "",
                     "Start": 131275,
                     "End": 131475
-                }
-            ]
-        },
-        {
-            "Character": "A CIGARETTE",
-            "Replies": [
-                {
-                    "Reply": "being lit.",
-                    "Didascalie": "",
-                    "Start": 131590,
-                    "End": 131601
                 }
             ]
         },

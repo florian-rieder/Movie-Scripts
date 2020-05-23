@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Detroit Rock City",
-        "   "
-    ],
+    "Title": "Detroit Rock City",
     "Author": [
-        "\u00a0\u00a0Carl V Dupre"
+        "Carl V Dupre"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Musical"
+        "Adventure",
+        "Comedy",
+        "Musical"
     ],
     "Characters": [
         {
@@ -2731,17 +2730,6 @@
                     "Didascalie": "",
                     "Start": 246054,
                     "End": 246063
-                }
-            ]
-        },
-        {
-            "Character": "OPENING TITLE SEQUENCE",
-            "Replies": [
-                {
-                    "Reply": "\"ROCK 'N' ROLL ALL NITE\" BLASTS the way it's supposed to sound. The jammin' KISS classic is accompanied by a barrage of QUICK CUTS depicting KISS mania. TV appearances. Concert footage. Magazine covers. Comic Books. Posters. Art work. KISS merchandise, dolls, lunch boxes, clothes, etc.",
-                    "Didascalie": "",
-                    "Start": 11052,
-                    "End": 11403
                 }
             ]
         },

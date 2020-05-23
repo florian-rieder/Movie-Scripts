@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Single White Female",
-        "   "
-    ],
+    "Title": "Single White Female",
     "Author": [
-        "\u00a0\u00a0Don Roos\u00a0\u00a0John Lutz"
+        "Don Roos",
+        "John Lutz"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4077,12 +4076,12 @@
             ]
         },
         {
-            "Character": "AUTOMATED MAIL PO BOX NEW YORK",
+            "Character": "NEW YORK NY 10024",
             "Replies": [
                 {
-                    "Reply": "NEW YORK NY 10024  She puts the envelopes back into the box, and picks up other documents. They are newspapers clippings.",
+                    "Reply": "She puts the envelopes back into the box, and picks up other documents. They are newspapers clippings.",
                     "Didascalie": "",
-                    "Start": 87397,
+                    "Start": 87416,
                     "End": 87519
                 }
             ]

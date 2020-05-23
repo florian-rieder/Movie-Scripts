@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "It Happened One Night",
-        "   "
-    ],
+    "Title": "It Happened One Night",
     "Author": [
-        "\u00a0\u00a0Samuel Hopkins Adams\u00a0\u00a0Robert Riskin"
+        "Samuel Hopkins Adams",
+        "Robert Riskin"
     ],
     "Genre": [
-        "\u00a0\u00a0Romance\u00a0\u00a0Comedy"
+        "Romance",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3134,23 +3133,6 @@
                     "Didascalie": "",
                     "Start": 21789,
                     "End": 21810
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Sorry, sir. She got away.",
-                    "Didascalie": "",
-                    "Start": 42752,
-                    "End": 42778
-                },
-                {
-                    "Reply": "Get her, Mac! She's ducking!",
-                    "Didascalie": "",
-                    "Start": 525606,
-                    "End": 525635
                 }
             ]
         },
@@ -7467,17 +7449,6 @@
                     "Didascalie": "(her voice breaking)",
                     "Start": 514492,
                     "End": 514576
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG GIRL",
-            "Replies": [
-                {
-                    "Reply": "I wish I were in her shoes.",
-                    "Didascalie": "(whispering)",
-                    "Start": 520524,
-                    "End": 520616
                 }
             ]
         },

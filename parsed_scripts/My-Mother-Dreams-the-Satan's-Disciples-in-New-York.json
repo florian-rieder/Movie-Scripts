@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "My Mother Dreams the Satan's Disciples in New York",
-        "   "
-    ],
+    "Title": "My Mother Dreams the Satan's Disciples in New York",
     "Author": [
-        "\u00a0\u00a0Rex Pickett"
+        "Rex Pickett"
     ],
     "Genre": [
-        "\u00a0\u00a0Short"
+        "Short"
     ],
     "Characters": [
         {
@@ -1250,17 +1247,6 @@
                     "Didascalie": "(mollifying)",
                     "Start": 52304,
                     "End": 52394
-                }
-            ]
-        },
-        {
-            "Character": "A CHORUS OF VOICES",
-            "Replies": [
-                {
-                    "Reply": "Hi, Marian.",
-                    "Didascalie": "",
-                    "Start": 47512,
-                    "End": 47524
                 }
             ]
         },

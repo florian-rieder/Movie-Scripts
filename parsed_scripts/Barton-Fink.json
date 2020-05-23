@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Barton Fink",
-        "   "
-    ],
+    "Title": "Barton Fink",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Comedy",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2047,17 +2047,6 @@
             ]
         },
         {
-            "Character": "A GREAT WAVE",
-            "Replies": [
-                {
-                    "Reply": "Crushing against the Pacific shore.",
-                    "Didascalie": "",
-                    "Start": 10137,
-                    "End": 10173
-                }
-            ]
-        },
-        {
             "Character": "HOTEL LOBBY",
             "Replies": [
                 {
@@ -2065,17 +2054,6 @@
                     "Didascalie": "",
                     "Start": 10242,
                     "End": 10415
-                }
-            ]
-        },
-        {
-            "Character": "A TRAP DOOR",
-            "Replies": [
-                {
-                    "Reply": "up from the basement.",
-                    "Didascalie": "",
-                    "Start": 11273,
-                    "End": 11295
                 }
             ]
         },
@@ -2275,17 +2253,6 @@
                     "Didascalie": "",
                     "Start": 109483,
                     "End": 109493
-                }
-            ]
-        },
-        {
-            "Character": "A PILLOW",
-            "Replies": [
-                {
-                    "Reply": "As Barton's head drops down into frame against it.",
-                    "Didascalie": "",
-                    "Start": 15951,
-                    "End": 16002
                 }
             ]
         },
@@ -2631,23 +2598,6 @@
                     "Didascalie": "",
                     "Start": 129167,
                     "End": 129195
-                }
-            ]
-        },
-        {
-            "Character": "A TENEMENT BUILDING",
-            "Replies": [
-                {
-                    "Reply": "On Manhattan's Lower East Side. Early morning traffic is audible.",
-                    "Didascalie": "",
-                    "Start": 23044,
-                    "End": 23112
-                },
-                {
-                    "Reply": "On Manhattan's Lower East Side. Early morning traffic is audible, as is the cry fishmongers.",
-                    "Didascalie": "",
-                    "Start": 52637,
-                    "End": 52732
                 }
             ]
         },
@@ -4310,17 +4260,6 @@
                     "Didascalie": "",
                     "Start": 132133,
                     "End": 132236
-                }
-            ]
-        },
-        {
-            "Character": "A TENEMENT HOTEL",
-            "Replies": [
-                {
-                    "Reply": "On the Lower East Side. We can faintly hear the cry of the fishmongers. It is too early for us to hear traffic; later, perhaps, we will.",
-                    "Didascalie": "",
-                    "Start": 60585,
-                    "End": 60726
                 }
             ]
         },

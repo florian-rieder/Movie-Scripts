@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Inglourious Basterds",
-        "   "
-    ],
+    "Title": "Inglourious Basterds",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino"
+        "Quentin Tarantino"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0War"
+        "Action",
+        "Adventure",
+        "War"
     ],
     "Characters": [
         {
@@ -1174,12 +1173,6 @@
                     "End": 37319
                 },
                 {
-                    "Reply": "Year mine Fuhrer.",
-                    "Didascalie": "",
-                    "Start": 37504,
-                    "End": 37522
-                },
-                {
                     "Reply": "I have a order I want relayed to all German soldiers stationed in France.",
                     "Didascalie": "",
                     "Start": 37550,
@@ -1589,17 +1582,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "she signs the BAT, \"MADELEINE\"",
-                    "Didascalie": "",
-                    "Start": 57733,
-                    "End": 57764
-                }
-            ]
-        },
-        {
             "Character": "FADE TO BLACK",
             "Replies": [
                 {
@@ -1607,17 +1589,6 @@
                     "Didascalie": "",
                     "Start": 120880,
                     "End": 120884
-                }
-            ]
-        },
-        {
-            "Character": "CHAPTER THREE",
-            "Replies": [
-                {
-                    "Reply": "\"GERMAN NIGHT IN PARIS\"",
-                    "Didascalie": "",
-                    "Start": 62069,
-                    "End": 62093
                 }
             ]
         },
@@ -1885,12 +1856,6 @@
                     "Didascalie": "",
                     "Start": 68028,
                     "End": 68040
-                },
-                {
-                    "Reply": "As Shosanna's Theme plays on the Soundtrack, we watch viva MONTAGE, her go through her daily chores. Carry heavy film cans up the stairs, empty the rat traps, ect,ect...",
-                    "Didascalie": "",
-                    "Start": 69973,
-                    "End": 70163
                 },
                 {
                     "Reply": "A Max Linder festival.",
@@ -2752,12 +2717,6 @@
                     "Didascalie": "",
                     "Start": 187234,
                     "End": 187427
-                },
-                {
-                    "Reply": "IN A PRIVATE DINNING ROOM IN GERMANY, The FUHRER, aka Adolph Hitler, aka Adolph Shicklegroover, aka The Bohemian Corporal, having dinner with Goebbels, only a few short days ago.",
-                    "Didascalie": "",
-                    "Start": 192675,
-                    "End": 192874
                 },
                 {
                     "Reply": "I've been rethinking my position in regards to your Paris premiere of \"Nations Pride\". As the weeks have gone on, and the Americans are on the beach, I do find myself thinking more and more about this Private Zoller. This boy has done something tremendous for us. And I'm beginning to think my participation in this event could be meaningful.",
@@ -4022,17 +3981,6 @@
                     "Didascalie": "",
                     "Start": 131279,
                     "End": 131300
-                }
-            ]
-        },
-        {
-            "Character": "GIR",
-            "Replies": [
-                {
-                    "Reply": ".THE SCENE EARLIER BETWEEN MARCEL AND SHOSANNA IN THE  LOBBY, ON THE STAIRS, TALKING ABOUT BURNING DOWN THE CINEMA.",
-                    "Didascalie": "",
-                    "Start": 132909,
-                    "End": 133035
                 }
             ]
         },
@@ -5433,17 +5381,6 @@
             ]
         },
         {
-            "Character": "A RUSSIAN GENERAL KCHOVLANSKEY",
-            "Replies": [
-                {
-                    "Reply": "peering at the German Private through binoculars. He lowers the long range glasses, and confers with one of his OFFICERS.",
-                    "Didascalie": "",
-                    "Start": 237380,
-                    "End": 237512
-                }
-            ]
-        },
-        {
             "Character": "GENERAL KCHOVLANSKEY",
             "Replies": [
                 {
@@ -5686,6 +5623,17 @@
                     "Didascalie": "",
                     "Start": 255937,
                     "End": 255957
+                }
+            ]
+        },
+        {
+            "Character": "EX CU 35MM FILM",
+            "Replies": [
+                {
+                    "Reply": "MOVING...",
+                    "Didascalie": "",
+                    "Start": 255995,
+                    "End": 256005
                 }
             ]
         },

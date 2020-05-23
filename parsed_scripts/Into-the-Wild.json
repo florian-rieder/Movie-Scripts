@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Into the Wild",
-        "   "
-    ],
+    "Title": "Into the Wild",
     "Author": [
-        "\u00a0\u00a0Sean Penn\u00a0\u00a0Jon Krakauer"
+        "Sean Penn",
+        "Jon Krakauer"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {

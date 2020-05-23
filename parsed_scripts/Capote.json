@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Capote",
-        "   "
-    ],
+    "Title": "Capote",
     "Author": [
-        "\u00a0\u00a0Dan Futterman"
+        "Dan Futterman"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {

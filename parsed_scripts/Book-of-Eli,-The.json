@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Book of Eli, The",
-        "   "
-    ],
+    "Title": "Book of Eli, The",
     "Author": [
-        "\u00a0\u00a0Gary Whitta"
+        "Gary Whitta"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller\u00a0\u00a0Western"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Thriller",
+        "Western"
     ],
     "Characters": [
         {

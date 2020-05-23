@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Insomnia",
-        "   "
-    ],
+    "Title": "Insomnia",
     "Author": [
-        "\u00a0\u00a0Hilary Seitz"
+        "Hilary Seitz"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4867,17 +4866,6 @@
             ]
         },
         {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "in the distance, walking along the road.  Towards Dr. Agee's.",
-                    "Didascalie": "",
-                    "Start": 148394,
-                    "End": 148456
-                }
-            ]
-        },
-        {
             "Character": "WALTER BYRD",
             "Replies": [
                 {
@@ -4908,17 +4896,6 @@
                     "Didascalie": "",
                     "Start": 148775,
                     "End": 148797
-                }
-            ]
-        },
-        {
-            "Character": "A PICK-UP",
-            "Replies": [
-                {
-                    "Reply": "rounds the corner.  THUMP!  Broadsides him.  Will's pitched up and over the hood.  Falls hard on the tarmac.  Dazed for a second.  Blood, gushing from his forehead.  Hears the PICK-UP DOOR open...FEET running over to him.",
-                    "Didascalie": "",
-                    "Start": 149331,
-                    "End": 149592
                 }
             ]
         },
@@ -5573,17 +5550,6 @@
                     "Didascalie": "",
                     "Start": 198961,
                     "End": 198983
-                }
-            ]
-        },
-        {
-            "Character": "A FIGURE",
-            "Replies": [
-                {
-                    "Reply": "runs past number one.  Big.  Shadowy.  The flash of a GUN.",
-                    "Didascalie": "",
-                    "Start": 225835,
-                    "End": 225894
                 }
             ]
         }

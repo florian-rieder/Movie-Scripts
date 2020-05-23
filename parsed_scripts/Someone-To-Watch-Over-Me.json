@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Someone To Watch Over Me",
-        "   "
-    ],
+    "Title": "Someone To Watch Over Me",
     "Author": [
-        "\u00a0\u00a0Howard Franklin\u00a0\u00a0Danilo Bach\u00a0\u00a0David Seltzer"
+        "Howard Franklin",
+        "Danilo Bach",
+        "David Seltzer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2640,17 +2642,6 @@
                     "Didascalie": "(staggering back)",
                     "Start": 18574,
                     "End": 18595
-                }
-            ]
-        },
-        {
-            "Character": "A MET BENEFACTRESS",
-            "Replies": [
-                {
-                    "Reply": "Thank you so much for agreeing to host us tonight.  It's really extraordinary!",
-                    "Didascalie": "(effusively)",
-                    "Start": 10019,
-                    "End": 10129
                 }
             ]
         },

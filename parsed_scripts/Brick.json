@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Brick",
-        "   "
-    ],
+    "Title": "Brick",
     "Author": [
-        "\u00a0\u00a0Rian Johnson"
+        "Rian Johnson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -3500,6 +3498,34 @@
             ]
         },
         {
+            "Character": "STONER 1",
+            "Replies": [
+                {
+                    "Reply": "Dunno, bra.",
+                    "Didascalie": "",
+                    "Start": 38270,
+                    "End": 38282
+                },
+                {
+                    "Reply": "Put him down, man!",
+                    "Didascalie": "",
+                    "Start": 42191,
+                    "End": 42210
+                }
+            ]
+        },
+        {
+            "Character": "STONER 2",
+            "Replies": [
+                {
+                    "Reply": "Uh uh.",
+                    "Didascalie": "",
+                    "Start": 38525,
+                    "End": 38532
+                }
+            ]
+        },
+        {
             "Character": "DODE",
             "Replies": [
                 {
@@ -4768,17 +4794,6 @@
                     "Didascalie": "",
                     "Start": 161292,
                     "End": 161372
-                }
-            ]
-        },
-        {
-            "Character": "A CEILING FAN",
-            "Replies": [
-                {
-                    "Reply": "Spinning gently. Brendan's eyes open, watch it sleepily, then sharpen.",
-                    "Didascalie": "",
-                    "Start": 176094,
-                    "End": 176175
                 }
             ]
         }

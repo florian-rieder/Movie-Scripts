@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Logan's Run",
-        "   "
-    ],
+    "Title": "Logan's Run",
     "Author": [
-        "\u00a0\u00a0David Zelgan Goodman"
+        "David Zelgan Goodman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2508,12 +2507,12 @@
             ]
         },
         {
-            "Character": "CLEAR",
+            "Character": "FRANCIS-7",
             "Replies": [
                 {
-                    "Reply": "FRANCIS-7  appear on the SCREEN.",
+                    "Reply": "appear on the SCREEN.",
                     "Didascalie": "",
-                    "Start": 33900,
+                    "Start": 33911,
                     "End": 33933
                 }
             ]
@@ -2690,29 +2689,6 @@
                     "Didascalie": "",
                     "Start": 57990,
                     "End": 58024
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "We're going to have ourselves a time, we are. Right, Billy?!",
-                    "Didascalie": "",
-                    "Start": 56763,
-                    "End": 56828
-                },
-                {
-                    "Reply": "Give him some Muscle!!",
-                    "Didascalie": "",
-                    "Start": 58498,
-                    "End": 58521
-                },
-                {
-                    "Reply": "Kill him!",
-                    "Didascalie": "",
-                    "Start": 58780,
-                    "End": 58790
                 }
             ]
         },

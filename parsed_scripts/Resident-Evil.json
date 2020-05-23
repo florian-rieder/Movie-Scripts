@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Resident Evil",
-        "   "
-    ],
+    "Title": "Resident Evil",
     "Author": [
-        "\u00a0\u00a0George A. Romero"
+        "George A. Romero"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

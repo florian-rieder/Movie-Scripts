@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "An Education",
-        "   "
-    ],
+    "Title": "An Education",
     "Author": [
-        "\u00a0\u00a0Nick Hornby\u00a0\u00a0Lynn Barber"
+        "Nick Hornby",
+        "Lynn Barber"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3007,6 +3005,17 @@
             ]
         },
         {
+            "Character": "SMALLER BOY 1",
+            "Replies": [
+                {
+                    "Reply": "Goodbye, darling! See you at the weekend! I will miss you with all of my heart!",
+                    "Didascalie": "",
+                    "Start": 7787,
+                    "End": 7944
+                }
+            ]
+        },
+        {
             "Character": "DAVID",
             "Replies": [
                 {
@@ -5584,6 +5593,17 @@
                     "Didascalie": "",
                     "Start": 203478,
                     "End": 203502
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "May not an ass know when the cart draws the horse? Sings whoop jug I love thee.",
+                    "Didascalie": "",
+                    "Start": 154644,
+                    "End": 154744
                 }
             ]
         },

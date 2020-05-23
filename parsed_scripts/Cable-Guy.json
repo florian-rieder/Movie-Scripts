@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Cable Guy",
-        "   "
-    ],
+    "Title": "Cable Guy",
     "Author": [
-        "\u00a0\u00a0Lou Holtz Jr.\u00a0\u00a0Judd Apatow"
+        "Lou Holtz Jr.",
+        "Judd Apatow"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Comedy",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

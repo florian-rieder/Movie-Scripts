@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "State and Main",
-        "   "
-    ],
+    "Title": "State and Main",
     "Author": [
-        "\u00a0\u00a0David Mamet"
+        "David Mamet"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3063,12 +3060,6 @@
                     "End": 18681
                 },
                 {
-                    "Reply": "Whoa, whoa, whoa, you wiped out the board.  DINNER WITH THE MAYOR, TUESDAY NIGHT, write it in red.  That's all we need, to miss Dinner with...",
-                    "Didascalie": "(CONT'D) (to Production Assistant)",
-                    "Start": 18723,
-                    "End": 18919
-                },
-                {
                     "Reply": "Wait a sec, Marty.  Call us back.  Two minutes.",
                     "Didascalie": "(to phone)",
                     "Start": 19101,
@@ -4463,17 +4454,6 @@
                     "Didascalie": "",
                     "Start": 171455,
                     "End": 171535
-                }
-            ]
-        },
-        {
-            "Character": "INSERT FRONT PAGE",
-            "Replies": [
-                {
-                    "Reply": "\"Burlington Banner\".  Picture of movie star Bob Barrenger, and Banner headline: \"Waterford chosen as sight of new Bob Barrenger film.  A story of small town life based on...\"",
-                    "Didascalie": "",
-                    "Start": 11690,
-                    "End": 11871
                 }
             ]
         },
@@ -6725,17 +6705,6 @@
                     "Didascalie": "",
                     "Start": 28235,
                     "End": 28245
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "An article of Bob Barrenger.",
-                    "Didascalie": "",
-                    "Start": 32375,
-                    "End": 32404
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Evil Dead II: Dead by Dawn",
-        "   "
-    ],
+    "Title": "Evil Dead II: Dead by Dawn",
     "Author": [
-        "\u00a0\u00a0Sam Raimi\u00a0\u00a0Scott Spiegel"
+        "Sam Raimi",
+        "Scott Spiegel"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Fantasy\u00a0\u00a0Comedy\u00a0\u00a0Action"
+        "Horror",
+        "Fantasy",
+        "Comedy",
+        "Action"
     ],
     "Characters": [
         {
@@ -1319,17 +1320,6 @@
                     "Didascalie": "",
                     "Start": 114628,
                     "End": 114641
-                }
-            ]
-        },
-        {
-            "Character": "SECOND TRIGGER",
-            "Replies": [
-                {
-                    "Reply": "261B  INSERT FLAME BELCHES FROM THE GUN TWICE               261B   262   CLOSE SHOT - ASH                                      262  As he lowers the smoking gun.  Wondering if he has hit the hand or not.",
-                    "Didascalie": "",
-                    "Start": 72409,
-                    "End": 72625
                 }
             ]
         },

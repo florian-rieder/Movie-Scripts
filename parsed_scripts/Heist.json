@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Heist",
-        "   "
-    ],
+    "Title": "Heist",
     "Author": [
-        "\u00a0\u00a0David Mamet"
+        "David Mamet"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1559,12 +1558,6 @@
                     "Didascalie": "",
                     "Start": 101563,
                     "End": 101682
-                },
-                {
-                    "Reply": "...look here:  INT POOLSIDE CABANA DAY.",
-                    "Didascalie": "",
-                    "Start": 102134,
-                    "End": 102174
                 },
                 {
                     "Reply": "...take the wrappers off, hang em in the air, get the drycleaning smell out.",

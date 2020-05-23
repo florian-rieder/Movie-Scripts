@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Scott Pilgrim vs the World",
-        "   "
-    ],
+    "Title": "Scott Pilgrim vs the World",
     "Author": [
-        "\u00a0\u00a0Edgar Wright\u00a0\u00a0Michael Bacall"
+        "Edgar Wright",
+        "Michael Bacall"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Action",
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -521,12 +521,6 @@
                     "Didascalie": "",
                     "Start": 73790,
                     "End": 73805
-                },
-                {
-                    "Reply": "Okay! From here on out, no GIRLFRIENDS or GIRLFRIEND talk at practice, whether they're old, new or new-new. We were lucky to survive that last round. This is sudden death now. Okay?",
-                    "Didascalie": "",
-                    "Start": 93387,
-                    "End": 93619
                 },
                 {
                     "Reply": "What Neil said.",

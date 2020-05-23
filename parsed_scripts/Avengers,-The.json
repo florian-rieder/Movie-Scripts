@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Avengers, The",
-        "   "
-    ],
+    "Title": "Avengers, The",
     "Author": [
-        "\u00a0\u00a0Don Macpherson"
+        "Don Macpherson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {

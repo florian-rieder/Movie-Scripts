@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Help, The",
-        "   "
-    ],
+    "Title": "Help, The",
     "Author": [
-        "\u00a0\u00a0Tate Taylor\u00a0\u00a0Kathryn Stockett"
+        "Tate Taylor",
+        "Kathryn Stockett"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -7372,6 +7370,17 @@
                     "Didascalie": "",
                     "Start": 169497,
                     "End": 169514
+                }
+            ]
+        },
+        {
+            "Character": "BLACK WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "We all are.",
+                    "Didascalie": "",
+                    "Start": 169619,
+                    "End": 169631
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Hellraiser: Deader",
-        "   "
-    ],
+    "Title": "Hellraiser: Deader",
     "Author": [
-        "\u00a0\u00a0Clive Barker\u00a0\u00a0Neal Marshall Stevens\u00a0\u00a0Tim Day"
+        "Clive Barker",
+        "Neal Marshall Stevens",
+        "Tim Day"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2719,17 +2720,6 @@
                     "Didascalie": "",
                     "Start": 141671,
                     "End": 141712
-                }
-            ]
-        },
-        {
-            "Character": "A FLASHBACK",
-            "Replies": [
-                {
-                    "Reply": "Amy searching Marla's drawers, tugging one open -- pressing the stud on a stiletto. ON THIS STILETTO.",
-                    "Didascalie": "",
-                    "Start": 103081,
-                    "End": 103187
                 }
             ]
         },

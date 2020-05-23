@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Custody",
-        "   "
-    ],
+    "Title": "Custody",
     "Author": [
-        "\u00a0\u00a0Eric Stuyvesant"
+        "Eric Stuyvesant"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -5409,6 +5406,28 @@
             ]
         },
         {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "A guy like you is so hard to find.",
+                    "Didascalie": "",
+                    "Start": 94668,
+                    "End": 94703
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 3",
+            "Replies": [
+                {
+                    "Reply": "Yeah.",
+                    "Didascalie": "",
+                    "Start": 96453,
+                    "End": 96459
+                }
+            ]
+        },
+        {
             "Character": "CARRIE",
             "Replies": [
                 {
@@ -5704,6 +5723,47 @@
                     "Didascalie": "",
                     "Start": 158109,
                     "End": 158122
+                }
+            ]
+        },
+        {
+            "Character": "CUSTOMER 2",
+            "Replies": [
+                {
+                    "Reply": "Ma'am.",
+                    "Didascalie": "",
+                    "Start": 174029,
+                    "End": 174036
+                },
+                {
+                    "Reply": "I'd just like some coffee.",
+                    "Didascalie": "",
+                    "Start": 174232,
+                    "End": 174259
+                },
+                {
+                    "Reply": "Excuse me, Miss?",
+                    "Didascalie": "(Calling out.)",
+                    "Start": 174482,
+                    "End": 174520
+                },
+                {
+                    "Reply": "Cold.",
+                    "Didascalie": "",
+                    "Start": 174680,
+                    "End": 174686
+                },
+                {
+                    "Reply": "The coffee, it's cold.",
+                    "Didascalie": "",
+                    "Start": 174830,
+                    "End": 174853
+                },
+                {
+                    "Reply": "Miss... My coffee?",
+                    "Didascalie": "",
+                    "Start": 178292,
+                    "End": 178311
                 }
             ]
         }

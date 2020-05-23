@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Assignment, The",
-        "   "
-    ],
+    "Title": "Assignment, The",
     "Author": [
-        "\u00a0\u00a0Dan Gordon\u00a0\u00a0Sabi H. Shabtai"
+        "Dan Gordon",
+        "Sabi H. Shabtai"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller"
+        "Thriller"
     ],
     "Characters": [
         {
@@ -333,17 +331,6 @@
                     "Didascalie": "",
                     "Start": 6327,
                     "End": 6408
-                }
-            ]
-        },
-        {
-            "Character": "END OF TITLES",
-            "Replies": [
-                {
-                    "Reply": "E. Carlos takes an M26 hand grenade and puts it into an inside pocket of his coat. He puts a machine pistol and snaps its ammo clip into it and puts it in his student's shoulder bag and then takes a Walther PPK and places it in his jeans at the small of his back. All the while that he is doing these things he sings: \"ALL YOU NEED IS LOVE.\"",
-                    "Didascalie": "",
-                    "Start": 7848,
-                    "End": 8270
                 }
             ]
         },

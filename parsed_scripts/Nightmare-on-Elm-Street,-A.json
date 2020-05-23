@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Nightmare on Elm Street, A",
-        "   "
-    ],
+    "Title": "Nightmare on Elm Street, A",
     "Author": [
-        "\u00a0\u00a0Wes Craven"
+        "Wes Craven"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Mystery"
+        "Comedy",
+        "Horror",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -315,12 +314,6 @@
                     "Didascalie": "",
                     "Start": 44104,
                     "End": 44188
-                },
-                {
-                    "Reply": "ROLL END TITLES.",
-                    "Didascalie": "",
-                    "Start": 225886,
-                    "End": 225903
                 }
             ]
         },

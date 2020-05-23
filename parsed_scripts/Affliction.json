@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Affliction",
-        "   "
-    ],
+    "Title": "Affliction",
     "Author": [
-        "\u00a0\u00a0Russell Banks\u00a0\u00a0Paul Schrader"
+        "Russell Banks",
+        "Paul Schrader"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -359,17 +357,6 @@
                     "Didascalie": "",
                     "Start": 183767,
                     "End": 184922
-                }
-            ]
-        },
-        {
-            "Character": "END CREDITS",
-            "Replies": [
-                {
-                    "Reply": "WADE WHITEHOUSE, driving, sits beside JILL, his daughter, ten years-old, wearing a black-and-yellow tiger plastic mask.",
-                    "Didascalie": "",
-                    "Start": 3826,
-                    "End": 3962
                 }
             ]
         },

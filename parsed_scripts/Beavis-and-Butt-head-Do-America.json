@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Beavis and Butt-head Do America",
-        "   "
-    ],
+    "Title": "Beavis and Butt-head Do America",
     "Author": [
-        "\u00a0\u00a0Mike Judge\u00a0\u00a0Joe Stillman"
+        "Mike Judge",
+        "Joe Stillman"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Comedy"
+        "Animation",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3034,17 +3033,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Why don't you take turns?",
-                    "Didascalie": "",
-                    "Start": 41462,
-                    "End": 41488
-                }
-            ]
-        },
-        {
             "Character": "JIM",
             "Replies": [
                 {
@@ -3841,6 +3829,17 @@
                     "Didascalie": "",
                     "Start": 92253,
                     "End": 92413
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "...set for 5:00 tomorrow when representatives from around the world will meet in Washington for the first such peace conference...",
+                    "Didascalie": "",
+                    "Start": 83212,
+                    "End": 83352
                 }
             ]
         },

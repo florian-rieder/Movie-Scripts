@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Man Who Knew Too Much, The",
-        "   "
-    ],
+    "Title": "Man Who Knew Too Much, The",
     "Author": [
-        "\u00a0\u00a0John Michael Hayes"
+        "John Michael Hayes"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Adventure",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2001,12 +2000,6 @@
                     "Didascalie": "(Laughs)",
                     "Start": 52188,
                     "End": 52222
-                },
-                {
-                    "Reply": "Any time he starts wearing you out --",
-                    "Didascalie": "(To Mrs. Drayton)",
-                    "Start": 52279,
-                    "End": 52328
                 },
                 {
                     "Reply": "Just like the county fairs when I was a kid. They'd get everything but the balloon ascension.",
@@ -4875,17 +4868,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "CHAPPELL -- AMBROSE CHAPPELL!!\"",
-                    "Didascalie": "",
-                    "Start": 131431,
-                    "End": 131463
-                }
-            ]
-        },
-        {
             "Character": "HELEN",
             "Replies": [
                 {
@@ -5178,12 +5160,6 @@
                     "Didascalie": "",
                     "Start": 137489,
                     "End": 137518
-                },
-                {
-                    "Reply": "That's what I told you.",
-                    "Didascalie": "(Smiles)",
-                    "Start": 137571,
-                    "End": 137608
                 },
                 {
                     "Reply": "Why should he? He's a doctor.   Probably gets free hormones.",

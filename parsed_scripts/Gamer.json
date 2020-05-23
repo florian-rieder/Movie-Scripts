@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Gamer",
-        "   "
-    ],
+    "Title": "Gamer",
     "Author": [
-        "\u00a0\u00a0Mark Neveldine\u00a0\u00a0Brian Taylor"
+        "Mark Neveldine",
+        "Brian Taylor"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -165,6 +165,29 @@
                     "Didascalie": "",
                     "Start": 125376,
                     "End": 125389
+                }
+            ]
+        },
+        {
+            "Character": "BLUE SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Good run, Kable.",
+                    "Didascalie": "",
+                    "Start": 14480,
+                    "End": 14497
+                },
+                {
+                    "Reply": "I am.   I'm going to make it.",
+                    "Didascalie": "",
+                    "Start": 14972,
+                    "End": 15002
+                },
+                {
+                    "Reply": "They say you only got three battles left til you get out...",
+                    "Didascalie": "(tuning the BROWN out, turning his attention to KABLE)",
+                    "Start": 15292,
+                    "End": 15389
                 }
             ]
         },
@@ -818,6 +841,34 @@
                     "Didascalie": "",
                     "Start": 229718,
                     "End": 229740
+                }
+            ]
+        },
+        {
+            "Character": "BROWN SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Whatever your name is. You got to the save point fast.",
+                    "Didascalie": "",
+                    "Start": 14701,
+                    "End": 14774
+                }
+            ]
+        },
+        {
+            "Character": "BROWN SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "So the fuck what? No one's getting out of here alive.",
+                    "Didascalie": "",
+                    "Start": 14837,
+                    "End": 14909
+                },
+                {
+                    "Reply": "Sure you will.",
+                    "Didascalie": "",
+                    "Start": 15111,
+                    "End": 15126
                 }
             ]
         },
@@ -2000,6 +2051,17 @@
             ]
         },
         {
+            "Character": "KABLE EARNS 800 UPGRADE POINTS",
+            "Replies": [
+                {
+                    "Reply": "A set of dynamic frames allow him to scroll through a series of revolving images - WEAPONS, EQUIPMENT, BODY ARMOR.",
+                    "Didascalie": "",
+                    "Start": 61337,
+                    "End": 61457
+                }
+            ]
+        },
+        {
             "Character": "SIMON",
             "Replies": [
                 {
@@ -2085,12 +2147,6 @@
                     "Didascalie": "",
                     "Start": 67155,
                     "End": 67281
-                },
-                {
-                    "Reply": "Baby... make it a hundred.",
-                    "Didascalie": "(feeling herself up)",
-                    "Start": 67353,
-                    "End": 67396
                 },
                 {
                     "Reply": "It's been real.",
@@ -2564,6 +2620,34 @@
             ]
         },
         {
+            "Character": "TWIN 1",
+            "Replies": [
+                {
+                    "Reply": "Mmmmm, now that we have your attention, here's another offer you can't refuse.",
+                    "Didascalie": "",
+                    "Start": 66683,
+                    "End": 66792
+                },
+                {
+                    "Reply": "Baby... make it a hundred.",
+                    "Didascalie": "(feeling herself up)",
+                    "Start": 67353,
+                    "End": 67396
+                }
+            ]
+        },
+        {
+            "Character": "TWIN 2",
+            "Replies": [
+                {
+                    "Reply": "Fifty million euros for control of Kable, instant transfer to the account of your choice.",
+                    "Didascalie": "",
+                    "Start": 66988,
+                    "End": 67108
+                }
+            ]
+        },
+        {
             "Character": "GUY",
             "Replies": [
                 {
@@ -2970,12 +3054,6 @@
                     "End": 91647
                 },
                 {
-                    "Reply": "But they love Kable.",
-                    "Didascalie": "(cont'd) (playing dumb)",
-                    "Start": 91721,
-                    "End": 91761
-                },
-                {
                     "Reply": "They do now. But when my boy kills their hero right there in front of their eyeballs, so vivid it's like you can reach out and feel the wet flesh - Trust me, they'll change their point of view.",
                     "Didascalie": "(unaffected)",
                     "Start": 91971,
@@ -2988,12 +3066,6 @@
                     "End": 92526
                 },
                 {
-                    "Reply": "Guess we never figured on Kable blowing up as big as he did.",
-                    "Didascalie": "(shaking his head)",
-                    "Start": 92604,
-                    "End": 92702
-                },
-                {
                     "Reply": "Bigger than the game? No. Then again, who ever would've imagined a player could last over a dozen sessions with the same I-con...",
                     "Didascalie": "",
                     "Start": 93027,
@@ -3004,6 +3076,99 @@
                     "Didascalie": "",
                     "Start": 94088,
                     "End": 94122
+                }
+            ]
+        },
+        {
+            "Character": "CASTLE 2",
+            "Replies": [
+                {
+                    "Reply": "He's scary.",
+                    "Didascalie": "",
+                    "Start": 90789,
+                    "End": 90801
+                },
+                {
+                    "Reply": "But they love Kable.",
+                    "Didascalie": "(playing dumb)",
+                    "Start": 91721,
+                    "End": 91761
+                },
+                {
+                    "Reply": "How can you be sure?",
+                    "Didascalie": "",
+                    "Start": 92330,
+                    "End": 92351
+                },
+                {
+                    "Reply": "Tillman is a perfect soldier, a tactical killing computer - you dropped him in with common murderers. What did you expect?",
+                    "Didascalie": "",
+                    "Start": 93252,
+                    "End": 93420
+                },
+                {
+                    "Reply": "And in the hands of a talented player...",
+                    "Didascalie": "",
+                    "Start": 93580,
+                    "End": 93636
+                },
+                {
+                    "Reply": "Tell me again why we don't just get rid of the problem...",
+                    "Didascalie": "",
+                    "Start": 93817,
+                    "End": 93890
+                },
+                {
+                    "Reply": "You know, off camera?",
+                    "Didascalie": "(makes a throat slashing motion)",
+                    "Start": 93961,
+                    "End": 93999
+                }
+            ]
+        },
+        {
+            "Character": "CASTLE 3",
+            "Replies": [
+                {
+                    "Reply": "He's right.",
+                    "Didascalie": "",
+                    "Start": 91864,
+                    "End": 91876
+                },
+                {
+                    "Reply": "Guess we never figured on Kable blowing up as big as he did.",
+                    "Didascalie": "(shaking his head)",
+                    "Start": 92604,
+                    "End": 92702
+                },
+                {
+                    "Reply": "His instincts give him an edge.",
+                    "Didascalie": "(musing)",
+                    "Start": 93482,
+                    "End": 93530
+                },
+                {
+                    "Reply": "Of course we can never let him out.",
+                    "Didascalie": "",
+                    "Start": 93686,
+                    "End": 93722
+                },
+                {
+                    "Reply": "One thing I know is what makes people tick.",
+                    "Didascalie": "",
+                    "Start": 94301,
+                    "End": 94360
+                }
+            ]
+        },
+        {
+            "Character": "BLUE SOLDIER 4",
+            "Replies": [
+                {
+                    "Reply": "This is real, this is real, this is real!!!!",
+                    "Didascalie": "",
+                    "Start": 98775,
+                    "End": 98838
                 }
             ]
         },

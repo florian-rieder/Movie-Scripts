@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Drag Me to Hell",
-        "   "
-    ],
+    "Title": "Drag Me to Hell",
     "Author": [
-        "\u00a0\u00a0Ivan Raimi\u00a0\u00a0Sam Raimi"
+        "Ivan Raimi",
+        "Sam Raimi"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3363,28 +3362,6 @@
             ]
         },
         {
-            "Character": "A WALL CLOCK",
-            "Replies": [
-                {
-                    "Reply": "The time is 1:30 A.M.",
-                    "Didascalie": "",
-                    "Start": 122614,
-                    "End": 122636
-                }
-            ]
-        },
-        {
-            "Character": "A WAITRESS",
-            "Replies": [
-                {
-                    "Reply": "Comes by, removes a dirty dish and refills her coffee.",
-                    "Didascalie": "",
-                    "Start": 122923,
-                    "End": 122978
-                }
-            ]
-        },
-        {
             "Character": "WAITRESS",
             "Replies": [
                 {
@@ -3396,13 +3373,13 @@
             ]
         },
         {
-            "Character": "A WITHERED OLD MAN",
+            "Character": "OLD MAN 0",
             "Replies": [
                 {
-                    "Reply": "site alone at a table in a wheelchair. A portable oxygen cylinder, supplying him with air.",
+                    "Reply": "Yeah?",
                     "Didascalie": "",
-                    "Start": 123229,
-                    "End": 123330
+                    "Start": 123627,
+                    "End": 123633
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Prophecy, The",
-        "   "
-    ],
+    "Title": "Prophecy, The",
     "Author": [
-        "\u00a0\u00a0Gregory Widen"
+        "Gregory Widen"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller\u00a0\u00a0Fantasy\u00a0\u00a0Mystery"
+        "Horror",
+        "Thriller",
+        "Fantasy",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -5916,17 +5916,6 @@
             ]
         },
         {
-            "Character": "A CAVERN",
-            "Replies": [
-                {
-                    "Reply": "-- That could easily belong to a bum. It's Gabriel and Jerry's digs. Just the moldy blanket, single oil lamp, piles of twinkie wrappers,  And something else.",
-                    "Didascalie": "",
-                    "Start": 157890,
-                    "End": 158095
-                }
-            ]
-        },
-        {
             "Character": "FIREMAN",
             "Replies": [
                 {
@@ -6098,17 +6087,6 @@
                     "Didascalie": "",
                     "Start": 196541,
                     "End": 196679
-                }
-            ]
-        },
-        {
-            "Character": "A HOSPITAL CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "At the end of it is the intensive care unit, that institutional purgatory where a small handful of patients, wired and tubed and oxygenated, lay inconclusively between life and death. There's a nurse's station there, all health status video screens and a single nurse that looks up from her work at Gabriel.",
-                    "Didascalie": "",
-                    "Start": 208461,
-                    "End": 208849
                 }
             ]
         },

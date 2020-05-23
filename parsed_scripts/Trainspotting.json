@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Trainspotting",
-        "   "
-    ],
+    "Title": "Trainspotting",
     "Author": [
-        "\u00a0\u00a0Irvine Welsh\u00a0\u00a0John Hodge"
+        "Irvine Welsh",
+        "John Hodge"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2704,6 +2702,82 @@
                     "Didascalie": "",
                     "Start": 121245,
                     "End": 121283
+                }
+            ]
+        },
+        {
+            "Character": "MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Well, Mr. Renton, I see that you attended the Royal Edinburgh College.",
+                    "Didascalie": "",
+                    "Start": 21187,
+                    "End": 21263
+                },
+                {
+                    "Reply": "One of Edinburgh's finest schools.",
+                    "Didascalie": "",
+                    "Start": 21394,
+                    "End": 21429
+                },
+                {
+                    "Reply": "I'm an old boy myself, you know?",
+                    "Didascalie": "",
+                    "Start": 21696,
+                    "End": 21729
+                },
+                {
+                    "Reply": "Do you recall the school motto?",
+                    "Didascalie": "",
+                    "Start": 21839,
+                    "End": 21871
+                },
+                {
+                    "Reply": "Strive, hope, believe and conquer.",
+                    "Didascalie": "",
+                    "Start": 22004,
+                    "End": 22039
+                },
+                {
+                    "Reply": "Mr. Murphy, do you mean that you lied on your application?",
+                    "Didascalie": "",
+                    "Start": 23773,
+                    "End": 23832
+                },
+                {
+                    "Reply": "You were referred here by the Department of Employment. There's no need for you to get you \"foot in the door\", as you put it.",
+                    "Didascalie": "",
+                    "Start": 23989,
+                    "End": 24120
+                },
+                {
+                    "Reply": "Thank you, Mr. Murphy. We'll let you know.",
+                    "Didascalie": "",
+                    "Start": 25889,
+                    "End": 25932
+                }
+            ]
+        },
+        {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "Mr. Renton --",
+                    "Didascalie": "",
+                    "Start": 22286,
+                    "End": 22300
+                },
+                {
+                    "Reply": "You seem eminently suited to this post but I wonder if you could explain the gaps in your employment record?",
+                    "Didascalie": "",
+                    "Start": 22403,
+                    "End": 22517
+                },
+                {
+                    "Reply": "Mr. Murphy, what attracts you to the leisure industry?",
+                    "Didascalie": "",
+                    "Start": 24485,
+                    "End": 24540
                 }
             ]
         },

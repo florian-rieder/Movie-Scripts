@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Warrior",
-        "   "
-    ],
+    "Title": "Warrior",
     "Author": [
-        "\u00a0\u00a0Gavin O'Connor\u00a0\u00a0Anthony Tambakis\u00a0\u00a0Cliff Dorfman"
+        "Gavin O'Connor",
+        "Anthony Tambakis",
+        "Cliff Dorfman"
     ],
     "Genre": [
-        "\u00a0\u00a0 Action\u00a0\u00a0Drama"
+        " Action",
+        "Drama"
     ],
     "Characters": [
         {

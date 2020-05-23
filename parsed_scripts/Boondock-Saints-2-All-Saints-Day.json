@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Boondock Saints 2: All Saints Day",
-        "   "
-    ],
+    "Title": "Boondock Saints 2: All Saints Day",
     "Author": [
-        "\u00a0\u00a0Troy Duffy"
+        "Troy Duffy"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

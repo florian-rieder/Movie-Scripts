@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Fright Night (1985)",
-        "   "
-    ],
+    "Title": "Fright Night (1985)",
     "Author": [
-        "\u00a0\u00a0Tom Holland"
+        "Tom Holland"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Comedy",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

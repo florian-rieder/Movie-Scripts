@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Observe and Report",
-        "   "
-    ],
+    "Title": "Observe and Report",
     "Author": [
-        "\u00a0\u00a0Jody Hill"
+        "Jody Hill"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Comedy",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {

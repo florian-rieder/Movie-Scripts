@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "My Girl",
-        "   "
-    ],
+    "Title": "My Girl",
     "Author": [
-        "\u00a0\u00a0Laurice Elehwany"
+        "Laurice Elehwany"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Family\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Family",
+        "Romance"
     ],
     "Characters": [
         {

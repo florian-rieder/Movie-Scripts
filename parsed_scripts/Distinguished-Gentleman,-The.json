@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Distinguished Gentleman, The",
-        "   "
-    ],
+    "Title": "Distinguished Gentleman, The",
     "Author": [
-        "\u00a0\u00a0Adam Resnick"
+        "Adam Resnick"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -4984,23 +4981,6 @@
                     "Didascalie": "",
                     "Start": 253162,
                     "End": 253241
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "It spells out Tommy's full name:   Thomas Jefferson Johnson.",
-                    "Didascalie": "",
-                    "Start": 40124,
-                    "End": 40190
-                },
-                {
-                    "Reply": "Celia's hands print CELIA KIRBY.    PRO BONO.",
-                    "Didascalie": "",
-                    "Start": 99467,
-                    "End": 99513
                 }
             ]
         },

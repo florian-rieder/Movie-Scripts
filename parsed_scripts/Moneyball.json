@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Moneyball",
-        "   "
-    ],
+    "Title": "Moneyball",
     "Author": [
-        "\u00a0\u00a0Steven Zaillian\u00a0\u00a0Aaron Sorkin"
+        "Steven Zaillian",
+        "Aaron Sorkin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4890,6 +4888,34 @@
             ]
         },
         {
+            "Character": "TSA OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "Is that phone still on?",
+                    "Didascalie": "",
+                    "Start": 11748,
+                    "End": 11772
+                },
+                {
+                    "Reply": "Faradie. Can his phone be on?",
+                    "Didascalie": "",
+                    "Start": 12002,
+                    "End": 12032
+                }
+            ]
+        },
+        {
+            "Character": "TSA OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "Sir, you need to turn your phone off.",
+                    "Didascalie": "",
+                    "Start": 12111,
+                    "End": 12149
+                }
+            ]
+        },
+        {
             "Character": "GUEST",
             "Replies": [
                 {
@@ -9582,6 +9608,17 @@
             ]
         },
         {
+            "Character": "GAME 20",
+            "Replies": [
+                {
+                    "Reply": "--one game shy of 20 consecutive wins, they have a shot at redemption. How rare is it to win 20 games in a row? This rare: No American League team has ever done it.",
+                    "Didascalie": "",
+                    "Start": 267271,
+                    "End": 267480
+                }
+            ]
+        },
+        {
             "Character": "AND --",
             "Replies": [
                 {
@@ -9600,6 +9637,17 @@
                     "Didascalie": "",
                     "Start": 279789,
                     "End": 279848
+                }
+            ]
+        },
+        {
+            "Character": "DECIDING GAME 5",
+            "Replies": [
+                {
+                    "Reply": "Minnesota Twins at Oakland A's The camera pans down the huge scoreboard. It's excruciating. The numbers on the board tell us it's been an incredibly close game but the A's are losing by one run in the bottom of the ninth with two outs and nobody on.",
+                    "Didascalie": "",
+                    "Start": 288303,
+                    "End": 288608
                 }
             ]
         },

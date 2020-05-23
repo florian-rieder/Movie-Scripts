@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Garden State",
-        "   "
-    ],
+    "Title": "Garden State",
     "Author": [
-        "\u00a0\u00a0Zach Braff"
+        "Zach Braff"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3860,6 +3859,121 @@
             ]
         },
         {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": ".Well you had to call her; she never called anyone.",
+                    "Didascalie": "",
+                    "Start": 20469,
+                    "End": 20531
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "This was a woman who never smiled.",
+                    "Didascalie": "",
+                    "Start": 20638,
+                    "End": 20673
+                }
+            ]
+        },
+        {
+            "Character": "MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Somebody ate all the lox.",
+                    "Didascalie": "",
+                    "Start": 20786,
+                    "End": 20812
+                }
+            ]
+        },
+        {
+            "Character": "LADY 1",
+            "Replies": [
+                {
+                    "Reply": "The new thing is \"Talk to the hand.\"",
+                    "Didascalie": "",
+                    "Start": 20986,
+                    "End": 21033
+                },
+                {
+                    "Reply": "But you got a hold it out like this.",
+                    "Didascalie": "",
+                    "Start": 21146,
+                    "End": 21193
+                },
+                {
+                    "Reply": "\"I don't have the time for you.\"",
+                    "Didascalie": "",
+                    "Start": 21301,
+                    "End": 21334
+                },
+                {
+                    "Reply": "\"He's the only one with time...",
+                    "Didascalie": "",
+                    "Start": 21442,
+                    "End": 21474
+                },
+                {
+                    "Reply": "\"I don't have the time for you.\"",
+                    "Didascalie": "",
+                    "Start": 21719,
+                    "End": 21752
+                },
+                {
+                    "Reply": "\"He's the only one with time...",
+                    "Didascalie": "",
+                    "Start": 21861,
+                    "End": 21893
+                }
+            ]
+        },
+        {
+            "Character": "LADY 2",
+            "Replies": [
+                {
+                    "Reply": "That's what they're doing.",
+                    "Didascalie": "",
+                    "Start": 21076,
+                    "End": 21103
+                },
+                {
+                    "Reply": "Like you're saying...",
+                    "Didascalie": "",
+                    "Start": 21236,
+                    "End": 21258
+                },
+                {
+                    "Reply": "\"So talk to my hand.\"",
+                    "Didascalie": "",
+                    "Start": 21377,
+                    "End": 21399
+                },
+                {
+                    "Reply": "Like you're saying...",
+                    "Didascalie": "",
+                    "Start": 21654,
+                    "End": 21676
+                },
+                {
+                    "Reply": "\"So talk to my hand.\"",
+                    "Didascalie": "",
+                    "Start": 21795,
+                    "End": 21817
+                },
+                {
+                    "Reply": "\"Time for the nonsense that you're giving me.",
+                    "Didascalie": "",
+                    "Start": 21936,
+                    "End": 21992
+                }
+            ]
+        },
+        {
             "Character": "SYLVIA",
             "Replies": [
                 {
@@ -4291,28 +4405,6 @@
                     "Didascalie": "(BEAT)",
                     "Start": 27373,
                     "End": 27476
-                }
-            ]
-        },
-        {
-            "Character": "A PICTURE",
-            "Replies": [
-                {
-                    "Reply": "Several people are seated amongst dozens of presents laughing. A. seven year old Large stands with his arm around a seven year old Cynthia. They both wear enormous \"chicken-",
-                    "Didascalie": "",
-                    "Start": 28959,
-                    "End": 29153
-                }
-            ]
-        },
-        {
-            "Character": "A WATERBED-",
-            "Replies": [
-                {
-                    "Reply": "A LOUD RING from a PHONE on the bedside table which appears to be made out of Legos. He answers it.",
-                    "Didascalie": "",
-                    "Start": 29573,
-                    "End": 29683
                 }
             ]
         },
@@ -6860,17 +6952,6 @@
                     "Didascalie": "",
                     "Start": 100272,
                     "End": 100286
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL GATED PET CEMETERY",
-            "Replies": [
-                {
-                    "Reply": "About a dozen large rocks serve as tombstones for different pets.",
-                    "Didascalie": "",
-                    "Start": 102213,
-                    "End": 102289
                 }
             ]
         },

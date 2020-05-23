@@ -1,15 +1,420 @@
 {
-    "Title": [
-        "Artist, The",
-        "   "
-    ],
+    "Title": "Artist, The",
     "Author": [
-        "\u00a0\u00a0Michel Hazanavicius"
+        "Michel Hazanavicius"
     ],
     "Genre": [
-        "\u00a0\u00a0Romance\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Romance",
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
+        {
+            "Character": "TITLE CARD",
+            "Replies": [
+                {
+                    "Reply": "I'm not telling!   I won't talk!!!",
+                    "Didascalie": "",
+                    "Start": 1061,
+                    "End": 1096
+                },
+                {
+                    "Reply": "Can I help you in some way?",
+                    "Didascalie": "",
+                    "Start": 3534,
+                    "End": 3562
+                },
+                {
+                    "Reply": "No. I don't get helped.   I give the help around here.",
+                    "Didascalie": "",
+                    "Start": 3600,
+                    "End": 3655
+                },
+                {
+                    "Reply": "Free Georgia forever!!!",
+                    "Didascalie": "",
+                    "Start": 5584,
+                    "End": 5608
+                },
+                {
+                    "Reply": "We've arrived, welcome to France!!!",
+                    "Didascalie": "",
+                    "Start": 6283,
+                    "End": 6319
+                },
+                {
+                    "Reply": "I'll get you for that.",
+                    "Didascalie": "",
+                    "Start": 9053,
+                    "End": 9076
+                },
+                {
+                    "Reply": "Contemporary film!   Five girls who can dance!",
+                    "Didascalie": "",
+                    "Start": 16116,
+                    "End": 16163
+                },
+                {
+                    "Reply": "The name is Miller.    Peppy Miller!",
+                    "Didascalie": "",
+                    "Start": 16933,
+                    "End": 16970
+                },
+                {
+                    "Reply": "Remove that screen and bring me another one!    On the double!",
+                    "Didascalie": "",
+                    "Start": 18972,
+                    "End": 19035
+                },
+                {
+                    "Reply": "Because of this childish nonsense, there's nothing about the film before page 5!",
+                    "Didascalie": "",
+                    "Start": 19675,
+                    "End": 19756
+                },
+                {
+                    "Reply": "If you want to be an actress, you need to have something no one else has.",
+                    "Didascalie": "",
+                    "Start": 25071,
+                    "End": 25150
+                },
+                {
+                    "Reply": "We belong to another age, you and I, George.",
+                    "Didascalie": "",
+                    "Start": 38029,
+                    "End": 38074
+                },
+                {
+                    "Reply": "People want to see new faces. Talking faces.",
+                    "Didascalie": "",
+                    "Start": 38243,
+                    "End": 38288
+                },
+                {
+                    "Reply": "Paramount will be delighted. They still want me.",
+                    "Didascalie": "",
+                    "Start": 38396,
+                    "End": 38445
+                },
+                {
+                    "Reply": "I'm sorry. The public wants fresh blood. And the public is never wrong.",
+                    "Didascalie": "",
+                    "Start": 38698,
+                    "End": 38775
+                },
+                {
+                    "Reply": "It's me the people want and it's my films they want to see. And I'm going to give them to them.",
+                    "Didascalie": "",
+                    "Start": 38824,
+                    "End": 38925
+                },
+                {
+                    "Reply": "I don't need you. Go make your talking movies.",
+                    "Didascalie": "",
+                    "Start": 39072,
+                    "End": 39119
+                },
+                {
+                    "Reply": "Fresh blood...",
+                    "Didascalie": "",
+                    "Start": 39505,
+                    "End": 39520
+                },
+                {
+                    "Reply": "Gadgets!",
+                    "Didascalie": "",
+                    "Start": 41126,
+                    "End": 41135
+                },
+                {
+                    "Reply": "We have to talk, George.",
+                    "Didascalie": "",
+                    "Start": 42541,
+                    "End": 42566
+                },
+                {
+                    "Reply": "Or not.",
+                    "Didascalie": "",
+                    "Start": 42605,
+                    "End": 42613
+                },
+                {
+                    "Reply": "I'm unhappy, George.",
+                    "Didascalie": "",
+                    "Start": 42857,
+                    "End": 42878
+                },
+                {
+                    "Reply": "So are millions of other people, me for instance.",
+                    "Didascalie": "",
+                    "Start": 42937,
+                    "End": 42987
+                },
+                {
+                    "Reply": "Your first film doesn't come out until tomorrow and yet you're already the new darling of Hollywood! How do you explain that?",
+                    "Didascalie": "",
+                    "Start": 46733,
+                    "End": 46869
+                },
+                {
+                    "Reply": "I don't know, maybe it's because I talk. And people hear me.",
+                    "Didascalie": "",
+                    "Start": 47029,
+                    "End": 47095
+                },
+                {
+                    "Reply": "People are sick to death of those old actors who pull faces to make themselves understood.",
+                    "Didascalie": "",
+                    "Start": 47241,
+                    "End": 47337
+                },
+                {
+                    "Reply": "Anyway, it's normal for the young to take over from the old, that's life. Make way for youth!",
+                    "Didascalie": "",
+                    "Start": 47461,
+                    "End": 47560
+                },
+                {
+                    "Reply": "It would seem that we're ruined.",
+                    "Didascalie": "",
+                    "Start": 48451,
+                    "End": 48484
+                },
+                {
+                    "Reply": "That's the best case scenario...",
+                    "Didascalie": "",
+                    "Start": 48609,
+                    "End": 48642
+                },
+                {
+                    "Reply": "Let's go back, Norma. They've never seen a white woman before and I don't want to take any risks.",
+                    "Didascalie": "",
+                    "Start": 50259,
+                    "End": 50362
+                },
+                {
+                    "Reply": "I wanted to talk, I...",
+                    "Didascalie": "",
+                    "Start": 55107,
+                    "End": 55130
+                },
+                {
+                    "Reply": "I saw Tears of Love.",
+                    "Didascalie": "",
+                    "Start": 55190,
+                    "End": 55211
+                },
+                {
+                    "Reply": "And so you've come to get your money back?",
+                    "Didascalie": "",
+                    "Start": 55261,
+                    "End": 55304
+                },
+                {
+                    "Reply": "Too much face-pulling?",
+                    "Didascalie": "",
+                    "Start": 55390,
+                    "End": 55413
+                },
+                {
+                    "Reply": "About last night...",
+                    "Didascalie": "",
+                    "Start": 55577,
+                    "End": 55597
+                },
+                {
+                    "Reply": "You're right. Make way for youth...",
+                    "Didascalie": "",
+                    "Start": 55820,
+                    "End": 55856
+                },
+                {
+                    "Reply": "I'm so happy to meet you. My Dad just loves you.",
+                    "Didascalie": "",
+                    "Start": 55965,
+                    "End": 56014
+                },
+                {
+                    "Reply": "OK! Well, we'll be off now.   I'll call you soon.",
+                    "Didascalie": "",
+                    "Start": 56403,
+                    "End": 56453
+                },
+                {
+                    "Reply": "Take me home. I'd like to be alone.",
+                    "Didascalie": "",
+                    "Start": 56996,
+                    "End": 57032
+                },
+                {
+                    "Reply": "How long's it been since I paid you last, Clifton?",
+                    "Didascalie": "",
+                    "Start": 61198,
+                    "End": 61254
+                },
+                {
+                    "Reply": "Been one year now, Sir.",
+                    "Didascalie": "",
+                    "Start": 61340,
+                    "End": 61364
+                },
+                {
+                    "Reply": "You're fired. Keep the car. Get yourself a job someplace else.",
+                    "Didascalie": "",
+                    "Start": 61627,
+                    "End": 61695
+                },
+                {
+                    "Reply": "Well done! It all sold, there's nothing left!",
+                    "Didascalie": "",
+                    "Start": 64734,
+                    "End": 64780
+                },
+                {
+                    "Reply": "If only he could talk!",
+                    "Didascalie": "",
+                    "Start": 68643,
+                    "End": 68666
+                },
+                {
+                    "Reply": "Look what you've become...",
+                    "Didascalie": "",
+                    "Start": 69727,
+                    "End": 69754
+                },
+                {
+                    "Reply": "You were very nasty! And stupid! And arrogant!",
+                    "Didascalie": "",
+                    "Start": 69840,
+                    "End": 69887
+                },
+                {
+                    "Reply": "You acted very badly! You were thoughtless!",
+                    "Didascalie": "",
+                    "Start": 70128,
+                    "End": 70172
+                },
+                {
+                    "Reply": "COME BACK! COME BACK HERE RIGHT NOW!!!",
+                    "Didascalie": "",
+                    "Start": 70477,
+                    "End": 70516
+                },
+                {
+                    "Reply": "He's not in any danger now. He just needs to rest.",
+                    "Didascalie": "",
+                    "Start": 76087,
+                    "End": 76144
+                },
+                {
+                    "Reply": "He was holding that. It was real hard to pry it away from him.",
+                    "Didascalie": "",
+                    "Start": 76387,
+                    "End": 76456
+                },
+                {
+                    "Reply": "It's probably the very best he could have hoped for.",
+                    "Didascalie": "",
+                    "Start": 76946,
+                    "End": 77005
+                },
+                {
+                    "Reply": "I've got to go. I have to be on set for nine o'clock.",
+                    "Didascalie": "",
+                    "Start": 78855,
+                    "End": 78915
+                },
+                {
+                    "Reply": "You should go back to your room, Sir.",
+                    "Didascalie": "",
+                    "Start": 80386,
+                    "End": 80424
+                },
+                {
+                    "Reply": "George is a silent movie actor. He belongs to the past. Today he's a nobody.",
+                    "Didascalie": "",
+                    "Start": 81388,
+                    "End": 81471
+                },
+                {
+                    "Reply": "What are you doing?",
+                    "Didascalie": "",
+                    "Start": 81603,
+                    "End": 81623
+                },
+                {
+                    "Reply": "I'm stopping work. It's him or me.",
+                    "Didascalie": "",
+                    "Start": 81698,
+                    "End": 81733
+                },
+                {
+                    "Reply": "What I mean is it's either him AND me! Or neither of us!",
+                    "Didascalie": "",
+                    "Start": 81900,
+                    "End": 81963
+                },
+                {
+                    "Reply": "I'm blackmailing you, get it?!",
+                    "Didascalie": "",
+                    "Start": 82058,
+                    "End": 82089
+                },
+                {
+                    "Reply": "And why not...",
+                    "Didascalie": "",
+                    "Start": 82595,
+                    "End": 82610
+                },
+                {
+                    "Reply": "What did you say?",
+                    "Didascalie": "",
+                    "Start": 88205,
+                    "End": 88223
+                },
+                {
+                    "Reply": "\"BANG!\"",
+                    "Didascalie": "",
+                    "Start": 91545,
+                    "End": 91553
+                },
+                {
+                    "Reply": "I feel so awful. I only wanted to help you. To take care of you...",
+                    "Didascalie": "",
+                    "Start": 92285,
+                    "End": 92358
+                },
+                {
+                    "Reply": "You've got so much that no one else has...",
+                    "Didascalie": "",
+                    "Start": 92779,
+                    "End": 92822
+                },
+                {
+                    "Reply": "No, I'm nothing but a shadow. No good for anything but silence.",
+                    "Didascalie": "",
+                    "Start": 92882,
+                    "End": 92952
+                },
+                {
+                    "Reply": "I know what you have that no one else does.",
+                    "Didascalie": "",
+                    "Start": 93384,
+                    "End": 93428
+                }
+            ]
+        },
+        {
+            "Character": "BELONGINGS",
+            "Replies": [
+                {
+                    "Reply": "a top hat which he snaps open, and a mask, which he puts over his head to conceal his eyes.",
+                    "Didascalie": "",
+                    "Start": 2544,
+                    "End": 2640
+                }
+            ]
+        },
         {
             "Character": "OMITTED",
             "Replies": [
@@ -18,6 +423,39 @@
                     "Didascalie": "",
                     "Start": 44887,
                     "End": 45479
+                }
+            ]
+        },
+        {
+            "Character": "SPECTATOR",
+            "Replies": [
+                {
+                    "Reply": "he laughs, is absorbed and cries along with the others.",
+                    "Didascalie": "",
+                    "Start": 67963,
+                    "End": 68024
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR",
+            "Replies": [
+                {
+                    "Reply": "Title card: Do you think he could come rest up at my place?",
+                    "Didascalie": "",
+                    "Start": 76812,
+                    "End": 76872
+                }
+            ]
+        },
+        {
+            "Character": "CHAUFFEUR ANSWERS",
+            "Replies": [
+                {
+                    "Reply": "Title card: I work for Miss Miller now.",
+                    "Didascalie": "",
+                    "Start": 83283,
+                    "End": 83323
                 }
             ]
         },

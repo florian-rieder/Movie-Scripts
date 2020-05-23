@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Mr Deeds Goes to Town",
-        "   "
-    ],
+    "Title": "Mr Deeds Goes to Town",
     "Author": [
-        "\u00a0\u00a0Clarence Budington Kelland\u00a0\u00a0Robert Riskin"
+        "Clarence Budington Kelland",
+        "Robert Riskin"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -5893,58 +5891,6 @@
             ]
         },
         {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "As a sentimental gesture toward the best friend opera ever had, the late Mr. Semple, I think it only fitting that his nephew, Mr. Longfellow Deeds, should be made our next Chairman. I therefore nominate him.",
-                    "Didascalie": "(rising)",
-                    "Start": 103440,
-                    "End": 103842
-                },
-                {
-                    "Reply": "I hear he still believes in Santa Claus.",
-                    "Didascalie": "",
-                    "Start": 284912,
-                    "End": 284953
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Second.",
-                    "Didascalie": "",
-                    "Start": 103977,
-                    "End": 103985
-                },
-                {
-                    "Reply": "Move we dispense with it.",
-                    "Didascalie": "",
-                    "Start": 106590,
-                    "End": 106616
-                },
-                {
-                    "Reply": "Move we dispense with it.",
-                    "Didascalie": "",
-                    "Start": 107570,
-                    "End": 107596
-                },
-                {
-                    "Reply": "We do.",
-                    "Didascalie": "",
-                    "Start": 111327,
-                    "End": 111334
-                },
-                {
-                    "Reply": "Hey, what's the big idea?",
-                    "Didascalie": "(shouting)",
-                    "Start": 318165,
-                    "End": 318255
-                }
-            ]
-        },
-        {
             "Character": "EVERYBODY",
             "Replies": [
                 {
@@ -7103,39 +7049,6 @@
             ]
         },
         {
-            "Character": "A HUSBAND",
-            "Replies": [
-                {
-                    "Reply": "Shh! - he may hear you.",
-                    "Didascalie": "",
-                    "Start": 284458,
-                    "End": 284482
-                }
-            ]
-        },
-        {
-            "Character": "A WIFE",
-            "Replies": [
-                {
-                    "Reply": "Even if he heard you, he wouldn't understand.",
-                    "Didascalie": "",
-                    "Start": 284615,
-                    "End": 284661
-                }
-            ]
-        },
-        {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Will he be Santa Claus? That's what I want to know.",
-                    "Didascalie": "",
-                    "Start": 285114,
-                    "End": 285192
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER MAN",
             "Replies": [
                 {
@@ -8285,17 +8198,6 @@
                     "Didascalie": "",
                     "Start": 468339,
                     "End": 468422
-                }
-            ]
-        },
-        {
-            "Character": "A REPORTER",
-            "Replies": [
-                {
-                    "Reply": "He's sunk.",
-                    "Didascalie": "",
-                    "Start": 469814,
-                    "End": 469825
                 }
             ]
         },

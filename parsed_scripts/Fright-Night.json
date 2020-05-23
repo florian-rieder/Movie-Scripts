@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Fright Night",
-        "   "
-    ],
+    "Title": "Fright Night",
     "Author": [
-        "\u00a0\u00a0Marti Noxon"
+        "Marti Noxon"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Horror"
+        "Comedy",
+        "Horror"
     ],
     "Characters": [
         {
@@ -36,12 +34,6 @@
         {
             "Character": "TELEVISION ANNOUNCER",
             "Replies": [
-                {
-                    "Reply": "Peter Vincent's \"FRIGHT NIGHT.\"",
-                    "Didascalie": "",
-                    "Start": 1591,
-                    "End": 1623
-                },
                 {
                     "Reply": "Something's moving in the dark.",
                     "Didascalie": "",

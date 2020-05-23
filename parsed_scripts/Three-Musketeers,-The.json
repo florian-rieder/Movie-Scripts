@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Three Musketeers, The",
-        "   "
-    ],
+    "Title": "Three Musketeers, The",
     "Author": [
-        "\u00a0\u00a0David Loughery"
+        "David Loughery"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

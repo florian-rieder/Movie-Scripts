@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Pandorum",
-        "   "
-    ],
+    "Title": "Pandorum",
     "Author": [
-        "\u00a0\u00a0Travis Milloy"
+        "Travis Milloy"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2964,12 +2963,6 @@
                     "Didascalie": "",
                     "Start": 214141,
                     "End": 214175
-                },
-                {
-                    "Reply": "CONTINUED: The SCREENS FLICKER BRIGHTLY, all of the systems engaging.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 214212,
-                    "End": 214427
                 },
                 {
                     "Reply": "shut-up.",

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Out of Sight",
-        "   "
-    ],
+    "Title": "Out of Sight",
     "Author": [
-        "\u00a0\u00a0Scott Frank"
+        "Scott Frank"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2281,17 +2282,6 @@
                     "Didascalie": "",
                     "Start": 6442,
                     "End": 6474
-                }
-            ]
-        },
-        {
-            "Character": "A GROUP OF ELDERLY INMATES",
-            "Replies": [
-                {
-                    "Reply": "sitting around a wooden picnic table are playing cards.  All of them are over sixty.  One of them, a one-legged guy on crutches hops away from the table, spits out some tobacco as we...",
-                    "Didascalie": "",
-                    "Start": 7487,
-                    "End": 7683
                 }
             ]
         },
@@ -7431,17 +7421,6 @@
             ]
         },
         {
-            "Character": "A PRISONER AT ANOTHER TABLE",
-            "Replies": [
-                {
-                    "Reply": "Who nods towards the door.  We PAN OVER just as A GUARD APPEARS, takes in the scene as a dazed Himey slowly pulls himself up, covers his now bleeding nose.",
-                    "Didascalie": "",
-                    "Start": 71647,
-                    "End": 71813
-                }
-            ]
-        },
-        {
             "Character": "GUARD",
             "Replies": [
                 {
@@ -8324,17 +8303,6 @@
             ]
         },
         {
-            "Character": "A BROKEN PAIR OF SUNGLASSES",
-            "Replies": [
-                {
-                    "Reply": "Wrap-around... a lot like the ones she remembers Glenn wearing.",
-                    "Didascalie": "",
-                    "Start": 162774,
-                    "End": 162838
-                }
-            ]
-        },
-        {
             "Character": "MALE VOICE",
             "Replies": [
                 {
@@ -8438,17 +8406,6 @@
                     "Didascalie": "",
                     "Start": 192412,
                     "End": 192443
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "She's lying in Jack's arms.  She looks at him a moment, then moves away from him to sit up and swing her legs off the bed.",
-                    "Didascalie": "",
-                    "Start": 204794,
-                    "End": 204922
                 }
             ]
         },

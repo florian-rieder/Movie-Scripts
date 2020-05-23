@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "RocknRolla",
-        "   "
-    ],
+    "Title": "RocknRolla",
     "Author": [
-        "\u00a0\u00a0Guy Ritchie"
+        "Guy Ritchie"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Action",
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -5785,6 +5784,58 @@
                     "Didascalie": "",
                     "Start": 149858,
                     "End": 149932
+                }
+            ]
+        },
+        {
+            "Character": "CHECHNYAN 1",
+            "Replies": [
+                {
+                    "Reply": "Victor is Uri's right hand man, we served together for four years in Chechnya. We used to have a good time together, he's a real soldier, strong, hard, we made much trouble.",
+                    "Didascalie": "",
+                    "Start": 155752,
+                    "End": 155986
+                },
+                {
+                    "Reply": "Caught in tank tracks!      He pulled me out and this one,...",
+                    "Didascalie": "",
+                    "Start": 156244,
+                    "End": 156321
+                },
+                {
+                    "Reply": "Stem grenade.",
+                    "Didascalie": "",
+                    "Start": 156464,
+                    "End": 156478
+                },
+                {
+                    "Reply": "Six thirty calibe,....",
+                    "Didascalie": "",
+                    "Start": 157303,
+                    "End": 157326
+                },
+                {
+                    "Reply": "Leave it with me Victor.",
+                    "Didascalie": "",
+                    "Start": 203344,
+                    "End": 203369
+                }
+            ]
+        },
+        {
+            "Character": "CHECHNYAN 2",
+            "Replies": [
+                {
+                    "Reply": "I have one of those,...",
+                    "Didascalie": "",
+                    "Start": 156535,
+                    "End": 156559
+                },
+                {
+                    "Reply": "How many of these have you got?",
+                    "Didascalie": "",
+                    "Start": 156710,
+                    "End": 156742
                 }
             ]
         },

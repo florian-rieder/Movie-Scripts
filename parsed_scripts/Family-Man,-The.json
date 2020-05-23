@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Family Man, The",
-        "   "
-    ],
+    "Title": "Family Man, The",
     "Author": [
-        "\u00a0\u00a0David Diamond\u00a0\u00a0David Weissman"
+        "David Diamond",
+        "David Weissman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5001,17 +5000,6 @@
                     "Didascalie": "",
                     "Start": 165514,
                     "End": 165527
-                }
-            ]
-        },
-        {
-            "Character": "A PHONE RINGING",
-            "Replies": [
-                {
-                    "Reply": "Jack, flat on his back in bed...Light streams onto his face ...he stirs...",
-                    "Didascalie": "",
-                    "Start": 170058,
-                    "End": 170136
                 }
             ]
         },

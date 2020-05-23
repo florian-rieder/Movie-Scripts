@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Air Force One",
-        "   "
-    ],
+    "Title": "Air Force One",
     "Author": [
-        "\u00a0\u00a0Andrew W. Marlowe"
+        "Andrew W. Marlowe"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4191,12 +4191,6 @@
                     "End": 95129
                 },
                 {
-                    "Reply": "the destruction of a V.C.  munitions dump. During insertion, the plane was shot down and the entire team was killed, or so we thought. Two days later the dump  BLEW AND A WEEK AFTER THAT, THIS 19-",
-                    "Didascalie": "",
-                    "Start": 95300,
-                    "End": 95616
-                },
-                {
                     "Reply": "That kid's name was Jim Marshall.",
                     "Didascalie": "",
                     "Start": 96009,
@@ -4717,6 +4711,41 @@
             ]
         },
         {
+            "Character": "KC-135 PILOT",
+            "Replies": [
+                {
+                    "Reply": "Air Force One, this is AF-135-RA. We have been instructed to refuel your plane.",
+                    "Didascalie": "",
+                    "Start": 187071,
+                    "End": 187203
+                },
+                {
+                    "Reply": "Please change course to Zero Seven Four and drop to eighteen thousand feet. Over.",
+                    "Didascalie": "",
+                    "Start": 187423,
+                    "End": 187557
+                },
+                {
+                    "Reply": "Air Force One, please reduce speed to 250 knots.",
+                    "Didascalie": "",
+                    "Start": 187987,
+                    "End": 188062
+                },
+                {
+                    "Reply": "Ga get it.",
+                    "Didascalie": "",
+                    "Start": 188934,
+                    "End": 188945
+                },
+                {
+                    "Reply": "LOOK OUT!",
+                    "Didascalie": "",
+                    "Start": 195555,
+                    "End": 195565
+                }
+            ]
+        },
+        {
             "Character": "MAJOR CALOWELL",
             "Replies": [
                 {
@@ -4859,6 +4888,23 @@
                     "Didascalie": "",
                     "Start": 239481,
                     "End": 239568
+                }
+            ]
+        },
+        {
+            "Character": "FIGHTER PILOT 11",
+            "Replies": [
+                {
+                    "Reply": "I'm tight on one, the other's loose.",
+                    "Didascalie": "",
+                    "Start": 239995,
+                    "End": 240032
+                },
+                {
+                    "Reply": "YAAAAAAAAH!",
+                    "Didascalie": "",
+                    "Start": 247908,
+                    "End": 247920
                 }
             ]
         },
@@ -5053,6 +5099,23 @@
                     "Didascalie": "",
                     "Start": 271263,
                     "End": 271284
+                }
+            ]
+        },
+        {
+            "Character": "KC-1O PILOT",
+            "Replies": [
+                {
+                    "Reply": "She's out of control. I can't pace her.",
+                    "Didascalie": "",
+                    "Start": 266125,
+                    "End": 266191
+                },
+                {
+                    "Reply": "I repeat, Air Force One is down.",
+                    "Didascalie": "",
+                    "Start": 267688,
+                    "End": 267721
                 }
             ]
         }

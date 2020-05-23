@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Lord of the Rings: Fellowship of the Ring, The",
-        "   "
-    ],
+    "Title": "Lord of the Rings: Fellowship of the Ring, The",
     "Author": [
-        "\u00a0\u00a0Frances Walsh\u00a0\u00a0Philippa Boyens\u00a0\u00a0Peter Jackson"
+        "Frances Walsh",
+        "Philippa Boyens",
+        "Peter Jackson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {

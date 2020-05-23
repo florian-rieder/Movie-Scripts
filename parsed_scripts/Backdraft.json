@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Backdraft",
-        "   "
-    ],
+    "Title": "Backdraft",
     "Author": [
-        "\u00a0\u00a0Gregory Widen"
+        "Gregory Widen"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {

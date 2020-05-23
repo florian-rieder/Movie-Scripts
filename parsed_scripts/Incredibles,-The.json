@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Incredibles, The",
-        "   "
-    ],
+    "Title": "Incredibles, The",
     "Author": [
-        "\u00a0\u00a0Brad Bird"
+        "Brad Bird"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Family\u00a0\u00a0Adventure\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi"
+        "Animation",
+        "Family",
+        "Adventure",
+        "Action",
+        "Comedy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -122,6 +124,28 @@
                     "Didascalie": "",
                     "Start": 2559,
                     "End": 2584
+                }
+            ]
+        },
+        {
+            "Character": "POLICE OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "Thank you, Mr. lncredible. You've done it again.",
+                    "Didascalie": "",
+                    "Start": 2657,
+                    "End": 2706
+                }
+            ]
+        },
+        {
+            "Character": "POLICE OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah, you're the best.",
+                    "Didascalie": "",
+                    "Start": 2727,
+                    "End": 2750
                 }
             ]
         },
@@ -1157,12 +1181,6 @@
                     "Didascalie": "",
                     "Start": 52780,
                     "End": 52790
-                },
-                {
-                    "Reply": "GUARD 1  Huh? What?",
-                    "Didascalie": "",
-                    "Start": 53677,
-                    "End": 53697
                 },
                 {
                     "Reply": "No. That's what I was doing. Let go of me! Let go, you lousy, lying, unfaithful creep!",
@@ -3223,6 +3241,28 @@
             ]
         },
         {
+            "Character": "BOY 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, Tony, do you play football?",
+                    "Didascalie": "",
+                    "Start": 14807,
+                    "End": 14840
+                }
+            ]
+        },
+        {
+            "Character": "BOY 2",
+            "Replies": [
+                {
+                    "Reply": "Tony, I thought we were gonna go swimming.",
+                    "Didascalie": "",
+                    "Start": 14850,
+                    "End": 14893
+                }
+            ]
+        },
+        {
             "Character": "VIOLET",
             "Replies": [
                 {
@@ -4280,6 +4320,64 @@
             ]
         },
         {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, hey. We got a man down!",
+                    "Didascalie": "",
+                    "Start": 41904,
+                    "End": 41933
+                },
+                {
+                    "Reply": "Huh? What?",
+                    "Didascalie": "",
+                    "Start": 53686,
+                    "End": 53697
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "Come on, let's go.",
+                    "Didascalie": "",
+                    "Start": 41945,
+                    "End": 41964
+                },
+                {
+                    "Reply": "Are you okay? What happened?",
+                    "Didascalie": "",
+                    "Start": 41976,
+                    "End": 42005
+                },
+                {
+                    "Reply": "Uh, I didn't say anything.",
+                    "Didascalie": "",
+                    "Start": 53709,
+                    "End": 53736
+                },
+                {
+                    "Reply": "Hey! Stop talking!",
+                    "Didascalie": "",
+                    "Start": 55599,
+                    "End": 55618
+                },
+                {
+                    "Reply": "Get the boy! Show yourself!",
+                    "Didascalie": "",
+                    "Start": 55769,
+                    "End": 55797
+                },
+                {
+                    "Reply": "Yeah, okay.",
+                    "Didascalie": "",
+                    "Start": 58934,
+                    "End": 58946
+                }
+            ]
+        },
+        {
             "Character": "SNUG",
             "Replies": [
                 {
@@ -4339,6 +4437,17 @@
                     "Didascalie": "",
                     "Start": 54054,
                     "End": 54075
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 3",
+            "Replies": [
+                {
+                    "Reply": "Hold it! Freeze!",
+                    "Didascalie": "",
+                    "Start": 55630,
+                    "End": 55647
                 }
             ]
         },
@@ -4408,6 +4517,17 @@
                     "Didascalie": "",
                     "Start": 64587,
                     "End": 64658
+                }
+            ]
+        },
+        {
+            "Character": "OLD MAN 2",
+            "Replies": [
+                {
+                    "Reply": "Yeah. No school like the old school.",
+                    "Didascalie": "",
+                    "Start": 64672,
+                    "End": 64709
                 }
             ]
         },

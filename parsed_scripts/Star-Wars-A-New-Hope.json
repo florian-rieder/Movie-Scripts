@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Star Wars: A New Hope",
-        "   "
-    ],
+    "Title": "Star Wars: A New Hope",
     "Author": [
-        "\u00a0\u00a0George Lucas"
+        "George Lucas"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {

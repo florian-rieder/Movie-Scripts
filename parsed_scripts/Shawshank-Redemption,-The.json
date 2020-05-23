@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Shawshank Redemption, The",
-        "   "
-    ],
+    "Title": "Shawshank Redemption, The",
     "Author": [
-        "\u00a0\u00a0Frank Darabont"
+        "Frank Darabont"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -256,12 +253,6 @@
                     "Didascalie": "",
                     "Start": 141959,
                     "End": 142008
-                },
-                {
-                    "Reply": "Guess the world moved on.  285\tINT -- FOODWAY -- DAY 285  Bagging groceries. CHILDREN underfoot. One points a toy gun at Red, pumping the trigger. Red focuses on the gun, listening to it CLICKETY-CLACK. Sparky wheel grinding.  The kids get swept off by MOM. Red starts bagging the next customer. SLOW PUSH IN on Red. Surrounded by MOTION and NOISE.",
-                    "Didascalie": "",
-                    "Start": 166331,
-                    "End": 166688
                 },
                 {
                     "Reply": "I find I am so excited I can barely sit still or hold a thought in my head. I think it is the excitement only a free man can feel, a free man at the start of a long journey whose conclusion is uncertain...",

@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Iron Lady, The",
-        "   "
-    ],
+    "Title": "Iron Lady, The",
     "Author": [
-        "\u00a0\u00a0Abi Morgan"
+        "Abi Morgan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2462,6 +2459,34 @@
             ]
         },
         {
+            "Character": "PRETTY YOUNG WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Margaret, do you want to come to the pictures?",
+                    "Didascalie": "",
+                    "Start": 17010,
+                    "End": 17079
+                }
+            ]
+        },
+        {
+            "Character": "PRETTY YOUNG WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "She can't come, she's got to study.",
+                    "Didascalie": "",
+                    "Start": 17383,
+                    "End": 17441
+                },
+                {
+                    "Reply": "Miss Hoity Toity!",
+                    "Didascalie": "",
+                    "Start": 17574,
+                    "End": 17592
+                }
+            ]
+        },
+        {
             "Character": "ALFRED OOV",
             "Replies": [
                 {
@@ -2859,6 +2884,52 @@
             ]
         },
         {
+            "Character": "NEWS READER 2",
+            "Replies": [
+                {
+                    "Reply": "...Where the Prime Minister and a number of her cabinet were staying. They escaped unhurt -",
+                    "Didascalie": "",
+                    "Start": 28046,
+                    "End": 28182
+                },
+                {
+                    "Reply": "Mrs Ghandi in India, but never in the West has there been a woman Prime Minister.",
+                    "Didascalie": "",
+                    "Start": 102482,
+                    "End": 102608
+                },
+                {
+                    "Reply": "Eleven soldiers died today when two bombs were detonated during military parades in Hyde Park and Regent's Park. Seven horses also died in the blasts.",
+                    "Didascalie": "",
+                    "Start": 134633,
+                    "End": 134872
+                },
+                {
+                    "Reply": "As Mrs Thatcher leaves Paris for London to make a last ditch attempt to pull together support for her leadership, the ship may have sailed.",
+                    "Didascalie": "",
+                    "Start": 181857,
+                    "End": 182085
+                }
+            ]
+        },
+        {
+            "Character": "NEWS READER 3",
+            "Replies": [
+                {
+                    "Reply": "Five people have died, many others are injured, some critically. The IRA have claimed responsibility.",
+                    "Didascalie": "",
+                    "Start": 28438,
+                    "End": 28584
+                },
+                {
+                    "Reply": "The IRA have claimed responsibility.",
+                    "Didascalie": "",
+                    "Start": 135070,
+                    "End": 135129
+                }
+            ]
+        },
+        {
             "Character": "GREY SUITED MAN",
             "Replies": [
                 {
@@ -3169,6 +3240,53 @@
             ]
         },
         {
+            "Character": "MINISTER 1",
+            "Replies": [
+                {
+                    "Reply": "Hear hear, Prime Minister.",
+                    "Didascalie": "",
+                    "Start": 70820,
+                    "End": 70847
+                },
+                {
+                    "Reply": "Prime Minister I just don't think we can ask the poorest of the poor to pay the same amount of tax as a multi-millionaire.",
+                    "Didascalie": "",
+                    "Start": 166035,
+                    "End": 166224
+                },
+                {
+                    "Reply": "Because -",
+                    "Didascalie": "",
+                    "Start": 166838,
+                    "End": 166848
+                },
+                {
+                    "Reply": "Geoffrey's speech in the House of Commons was devastating.",
+                    "Didascalie": "",
+                    "Start": 175960,
+                    "End": 176041
+                },
+                {
+                    "Reply": "I don't think she can survive this.",
+                    "Didascalie": "",
+                    "Start": 177032,
+                    "End": 177090
+                },
+                {
+                    "Reply": "We will never win another election led by that woman.",
+                    "Didascalie": "",
+                    "Start": 182579,
+                    "End": 182655
+                },
+                {
+                    "Reply": "The question is, how does anyone put it to her?",
+                    "Didascalie": "",
+                    "Start": 183057,
+                    "End": 183127
+                }
+            ]
+        },
+        {
             "Character": "INTERVIEWER",
             "Replies": [
                 {
@@ -3319,6 +3437,17 @@
             ]
         },
         {
+            "Character": "NEW READER 3",
+            "Replies": [
+                {
+                    "Reply": "The place that she has secured in British history, as the first woman ever to be invited to form a government.",
+                    "Didascalie": "",
+                    "Start": 102687,
+                    "End": 102864
+                }
+            ]
+        },
+        {
             "Character": "DOCTOR",
             "Replies": [
                 {
@@ -3464,6 +3593,17 @@
                     "Didascalie": "",
                     "Start": 174119,
                     "End": 174154
+                }
+            ]
+        },
+        {
+            "Character": "PROTESTOR 1",
+            "Replies": [
+                {
+                    "Reply": "You're supposed to be a mother!",
+                    "Didascalie": "",
+                    "Start": 123560,
+                    "End": 123592
                 }
             ]
         },
@@ -3821,6 +3961,34 @@
             ]
         },
         {
+            "Character": "MP 1",
+            "Replies": [
+                {
+                    "Reply": "Prime Minister we do still have three weeks before our ships reach the islands.",
+                    "Didascalie": "",
+                    "Start": 146415,
+                    "End": 146539
+                },
+                {
+                    "Reply": "The U.S. Secretary of State has arrived, Prime Minister.",
+                    "Didascalie": "",
+                    "Start": 147048,
+                    "End": 147127
+                }
+            ]
+        },
+        {
+            "Character": "MP 2",
+            "Replies": [
+                {
+                    "Reply": "All we're saying is that we shouldn't give up on trying to find a diplomatic solution.",
+                    "Didascalie": "",
+                    "Start": 146610,
+                    "End": 146741
+                }
+            ]
+        },
+        {
             "Character": "GENERAL HAIG",
             "Replies": [
                 {
@@ -3851,6 +4019,17 @@
                     "Didascalie": "",
                     "Start": 148950,
                     "End": 148992
+                }
+            ]
+        },
+        {
+            "Character": "NAVAL ATTACHE 1",
+            "Replies": [
+                {
+                    "Reply": "The Argentinian ship the General Belgrano and her escorts are pursuing course 273 degrees toward the Argentinian mainland. We are tracking it with our submarine HMS Conqueror.",
+                    "Didascalie": "",
+                    "Start": 150168,
+                    "End": 150454
                 }
             ]
         },
@@ -4002,6 +4181,29 @@
             ]
         },
         {
+            "Character": "MINISTER 2",
+            "Replies": [
+                {
+                    "Reply": "Because people... on the whole...",
+                    "Didascalie": "",
+                    "Start": 166920,
+                    "End": 166954
+                },
+                {
+                    "Reply": "We need a leader who listens.",
+                    "Didascalie": "",
+                    "Start": 182725,
+                    "End": 182755
+                },
+                {
+                    "Reply": "- of course would vote for you Prime Minister but I don't think you can win. The loyalty of my colleagues cannot be counted upon.",
+                    "Didascalie": "",
+                    "Start": 183687,
+                    "End": 183883
+                }
+            ]
+        },
+        {
             "Character": "ANGRY CROWD",
             "Replies": [
                 {
@@ -4020,6 +4222,57 @@
                     "Didascalie": "",
                     "Start": 174675,
                     "End": 174701
+                }
+            ]
+        },
+        {
+            "Character": "MINSTER 2",
+            "Replies": [
+                {
+                    "Reply": "- just couldn't take any more of the bullying.",
+                    "Didascalie": "",
+                    "Start": 176117,
+                    "End": 176186
+                }
+            ]
+        },
+        {
+            "Character": "MINISTER 3",
+            "Replies": [
+                {
+                    "Reply": "He was almost inviting someone to challenge her for leadership of the party.",
+                    "Didascalie": "",
+                    "Start": 176402,
+                    "End": 176523
+                },
+                {
+                    "Reply": "This isn't about her, it's about the party.",
+                    "Didascalie": "",
+                    "Start": 182825,
+                    "End": 182891
+                },
+                {
+                    "Reply": "The loyalty of my colleagues cannot be counted upon.",
+                    "Didascalie": "",
+                    "Start": 184057,
+                    "End": 184132
+                }
+            ]
+        },
+        {
+            "Character": "MINISTER 4",
+            "Replies": [
+                {
+                    "Reply": "She behaved appallingly. I wouldn't have spoken to my gamekeeper like that.",
+                    "Didascalie": "",
+                    "Start": 176835,
+                    "End": 176955
+                },
+                {
+                    "Reply": "One must know when to go.",
+                    "Didascalie": "",
+                    "Start": 182961,
+                    "End": 182987
                 }
             ]
         },
@@ -4064,6 +4317,17 @@
                     "Didascalie": "",
                     "Start": 180737,
                     "End": 180926
+                }
+            ]
+        },
+        {
+            "Character": "HEAD OF STATE 1",
+            "Replies": [
+                {
+                    "Reply": "Margaret, they can't touch you.",
+                    "Didascalie": "",
+                    "Start": 181294,
+                    "End": 181326
                 }
             ]
         },

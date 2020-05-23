@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Autumn in New York",
-        "   "
-    ],
+    "Title": "Autumn in New York",
     "Author": [
-        "\u00a0\u00a0Allison Burnett"
+        "Allison Burnett"
     ],
     "Genre": [
-        "\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {

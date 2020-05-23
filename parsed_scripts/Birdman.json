@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Birdman",
-        "   "
-    ],
+    "Title": "Birdman",
     "Author": [
-        "\u00a0\u00a0Alejandro G. Inarritu\u00a0\u00a0Nicolas Giacobone\u00a0\u00a0Alexander Dinelaris Jr.\u00a0\u00a0Armando Bo"
+        "Alejandro G. Inarritu",
+        "Nicolas Giacobone",
+        "Alexander Dinelaris Jr.",
+        "Armando Bo"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -6698,23 +6700,6 @@
                     "Didascalie": "",
                     "Start": 159428,
                     "End": 159457
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Juuump!",
-                    "Didascalie": "(From the street below.)",
-                    "Start": 99374,
-                    "End": 99393
-                },
-                {
-                    "Reply": "Okay. Jump on my face!",
-                    "Didascalie": "",
-                    "Start": 99505,
-                    "End": 99528
                 }
             ]
         },

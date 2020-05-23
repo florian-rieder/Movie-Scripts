@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Wanted",
-        "   "
-    ],
+    "Title": "Wanted",
     "Author": [
-        "\u00a0\u00a0Michael Brandt\u00a0\u00a0Derek Haas"
+        "Michael Brandt",
+        "Derek Haas"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3374,6 +3374,17 @@
             ]
         },
         {
+            "Character": "POLICE OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "Oh, Christ.",
+                    "Didascalie": "",
+                    "Start": 157122,
+                    "End": 157134
+                }
+            ]
+        },
+        {
             "Character": "COP",
             "Replies": [
                 {
@@ -3381,6 +3392,23 @@
                     "Didascalie": "",
                     "Start": 157698,
                     "End": 157713
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "What is it?",
+                    "Didascalie": "",
+                    "Start": 157753,
+                    "End": 157765
+                },
+                {
+                    "Reply": "Air Support can you get a beam on the four-story southeast of our position?",
+                    "Didascalie": "(CONT'D) (into the radio)",
+                    "Start": 157878,
+                    "End": 157975
                 }
             ]
         },

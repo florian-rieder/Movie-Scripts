@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Brazil",
-        "   "
-    ],
+    "Title": "Brazil",
     "Author": [
-        "\u00a0\u00a0Terry Gilliam\u00a0\u00a0Charles McKeown"
+        "Terry Gilliam",
+        "Charles McKeown"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -5286,6 +5286,39 @@
             ]
         },
         {
+            "Character": "EXPEDITER 1",
+            "Replies": [
+                {
+                    "Reply": "Mr Warren, this order ...",
+                    "Didascalie": "(waving pager)",
+                    "Start": 134202,
+                    "End": 134244
+                }
+            ]
+        },
+        {
+            "Character": "EXPEDITER 2",
+            "Replies": [
+                {
+                    "Reply": "Mr Warren ...",
+                    "Didascalie": "(waving same)",
+                    "Start": 134320,
+                    "End": 134350
+                }
+            ]
+        },
+        {
+            "Character": "EXPEDITER 3",
+            "Replies": [
+                {
+                    "Reply": "About this invoice ... Victim's list ...",
+                    "Didascalie": "(ditto)",
+                    "Start": 134420,
+                    "End": 134492
+                }
+            ]
+        },
+        {
             "Character": "WARREN",
             "Replies": [
                 {
@@ -5347,6 +5380,39 @@
                     "Didascalie": "",
                     "Start": 214610,
                     "End": 214821
+                }
+            ]
+        },
+        {
+            "Character": "EXPEDITER 4",
+            "Replies": [
+                {
+                    "Reply": "... about these requisitions ...",
+                    "Didascalie": "",
+                    "Start": 134870,
+                    "End": 134903
+                }
+            ]
+        },
+        {
+            "Character": "EXPEDITER 5",
+            "Replies": [
+                {
+                    "Reply": "still outstanding.",
+                    "Didascalie": "",
+                    "Start": 135012,
+                    "End": 135031
+                }
+            ]
+        },
+        {
+            "Character": "EXPEDITER 6",
+            "Replies": [
+                {
+                    "Reply": "... a decision, Mr Warren ...",
+                    "Didascalie": "",
+                    "Start": 135089,
+                    "End": 135119
                 }
             ]
         },
@@ -5702,6 +5768,17 @@
                     "Didascalie": "",
                     "Start": 210990,
                     "End": 211000
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 3",
+            "Replies": [
+                {
+                    "Reply": "We can't allow you to do that sir, it's more than our job's worth.",
+                    "Didascalie": "(pulling Sam back)",
+                    "Start": 212030,
+                    "End": 212128
                 }
             ]
         },

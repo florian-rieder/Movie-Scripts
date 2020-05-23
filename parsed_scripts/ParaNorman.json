@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "ParaNorman",
-        "   "
-    ],
+    "Title": "ParaNorman",
     "Author": [
-        "\u00a0\u00a0Chris Butler"
+        "Chris Butler"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Animation",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {

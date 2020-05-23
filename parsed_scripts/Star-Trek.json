@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Star Trek",
-        "   "
-    ],
+    "Title": "Star Trek",
     "Author": [
-        "\u00a0\u00a0Roberto Orci\u00a0\u00a0Alex Kurtzman"
+        "Roberto Orci",
+        "Alex Kurtzman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -6242,6 +6242,17 @@
                     "Didascalie": "",
                     "Start": 286145,
                     "End": 286221
+                }
+            ]
+        },
+        {
+            "Character": "KELVIN CREW MEMBER 2",
+            "Replies": [
+                {
+                    "Reply": "Power grid junctions C-7 and E-3 are out...",
+                    "Didascalie": "",
+                    "Start": 288247,
+                    "End": 288302
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Eastern Promises",
-        "   "
-    ],
+    "Title": "Eastern Promises",
     "Author": [
-        "\u00a0\u00a0Steven Knight"
+        "Steven Knight"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1143,12 +1143,6 @@
                     "End": 174274
                 },
                 {
-                    "Reply": "94    86   CONTINUED:                                                  86  Nikolai steps out from behind the screen, the baggy jeans tightly belted, his chest bare. For the first time Anna sees the extent of Nikolai's body tattoos and reacts....",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 174338,
-                    "End": 174641
-                },
-                {
                     "Reply": "No.",
                     "Didascalie": "",
                     "Start": 174939,
@@ -1252,6 +1246,23 @@
             ]
         },
         {
+            "Character": "NURSE 1",
+            "Replies": [
+                {
+                    "Reply": "Her stats are very poor, very poor.",
+                    "Didascalie": "",
+                    "Start": 6541,
+                    "End": 6577
+                },
+                {
+                    "Reply": "Baby stats sixty-eight and in free fall.",
+                    "Didascalie": "",
+                    "Start": 7946,
+                    "End": 8004
+                }
+            ]
+        },
+        {
             "Character": "JUNIOR DOCTOR",
             "Replies": [
                 {
@@ -1300,6 +1311,17 @@
                     "Didascalie": "",
                     "Start": 188957,
                     "End": 189023
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 2",
+            "Replies": [
+                {
+                    "Reply": "I'm not getting a pulse.",
+                    "Didascalie": "",
+                    "Start": 8059,
+                    "End": 8084
                 }
             ]
         },

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Wild Things: Diamonds in the Rough",
-        "   "
-    ],
+    "Title": "Wild Things: Diamonds in the Rough",
     "Author": [
-        "\u00a0\u00a0Andy Hurst\u00a0\u00a0Ross Helford"
+        "Andy Hurst",
+        "Ross Helford"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4159,6 +4160,28 @@
                     "Didascalie": "",
                     "Start": 125678,
                     "End": 125749
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Any comment, Mr. Clifford?",
+                    "Didascalie": "",
+                    "Start": 58476,
+                    "End": 58503
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Did your stepfather rape that girl? How could he do something like that? Marie stops in her tracks, wheels around and addresses the throng of reporters...",
+                    "Didascalie": "(to Marie)",
+                    "Start": 58730,
+                    "End": 58973
                 }
             ]
         },

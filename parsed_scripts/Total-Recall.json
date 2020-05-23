@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Total Recall",
-        "   "
-    ],
+    "Title": "Total Recall",
     "Author": [
-        "\u00a0\u00a0Ronald Shusett\u00a0\u00a0Dan O'Bannon\u00a0\u00a0Steven Pressfield"
+        "Ronald Shusett",
+        "Dan O'Bannon",
+        "Steven Pressfield"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

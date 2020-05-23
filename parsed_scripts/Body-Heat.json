@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Body Heat",
-        "   "
-    ],
+    "Title": "Body Heat",
     "Author": [
-        "\u00a0\u00a0Lawrence Kasdan"
+        "Lawrence Kasdan"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2744,17 +2742,6 @@
                     "Didascalie": "",
                     "Start": 175513,
                     "End": 175544
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Lowenstein, you're a fag.",
-                    "Didascalie": "",
-                    "Start": 8689,
-                    "End": 8715
                 }
             ]
         },

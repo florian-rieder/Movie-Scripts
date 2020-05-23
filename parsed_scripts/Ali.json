@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Ali",
-        "   "
-    ],
+    "Title": "Ali",
     "Author": [
-        "\u00a0\u00a0Stephen J Rivele\u00a0\u00a0Christopher Wilkinson\u00a0\u00a0Eric Roth\u00a0\u00a0Michael Mann"
+        "Stephen J Rivele",
+        "Christopher Wilkinson",
+        "Eric Roth",
+        "Michael Mann"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2867,17 +2867,6 @@
             ]
         },
         {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Federal Bureau of Investigation.",
-                    "Didascalie": "(presenting badge)",
-                    "Start": 124010,
-                    "End": 124063
-                }
-            ]
-        },
-        {
             "Character": "BUNDINI",
             "Replies": [
                 {
@@ -3508,17 +3497,6 @@
             ]
         },
         {
-            "Character": "EARLY EVENING",
-            "Replies": [
-                {
-                    "Reply": "being wrapped. Cassius' shirt is off, sitting on a bench in the dressing room...the ritualistic tradition, having his hands taped. Dundee expertly does it. In the background, Bundini, Pacheco, Bingham, Rudy and Two Men in dark suits, someone from Liston's camp, and a State Boxing Inspector watch. Then, the door opens for Malcolm X, in a dark suit, thin tie. Cassius lights up. Dundee is done. The Boxing Inspector signs the tape. Then, Dundee puts on gloves and laces them while...",
-                    "Didascalie": "",
-                    "Start": 27855,
-                    "End": 28419
-                }
-            ]
-        },
-        {
             "Character": "RUDY",
             "Replies": [
                 {
@@ -3627,23 +3605,6 @@
             ]
         },
         {
-            "Character": "A REPORTER",
-            "Replies": [
-                {
-                    "Reply": "The people look to you. Do you plan on being a people's champ, like Joe Louis?",
-                    "Didascalie": "",
-                    "Start": 51189,
-                    "End": 51306
-                },
-                {
-                    "Reply": "Mr. Clay...?",
-                    "Didascalie": "(starts)",
-                    "Start": 51633,
-                    "End": 51666
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER REPORTER",
             "Replies": [
                 {
@@ -3714,35 +3675,6 @@
             ]
         },
         {
-            "Character": "A NEIGHBOR",
-            "Replies": [
-                {
-                    "Reply": "Could we get a picture with you?",
-                    "Didascalie": "(V.O.) (to Ali)",
-                    "Start": 63195,
-                    "End": 63248
-                },
-                {
-                    "Reply": "You mind, Mr. Clay?",
-                    "Didascalie": "(V.O.) (to Cassius, Sr.)",
-                    "Start": 63288,
-                    "End": 63328
-                },
-                {
-                    "Reply": "One more.",
-                    "Didascalie": "",
-                    "Start": 63880,
-                    "End": 63890
-                },
-                {
-                    "Reply": "Thank you.",
-                    "Didascalie": "(click)",
-                    "Start": 63920,
-                    "End": 63951
-                }
-            ]
-        },
-        {
             "Character": "ODESSA CLAY",
             "Replies": [
                 {
@@ -3779,6 +3711,47 @@
                     "Didascalie": "(OVER) (calling)",
                     "Start": 70649,
                     "End": 70697
+                }
+            ]
+        },
+        {
+            "Character": "JOSEPH 13X",
+            "Replies": [
+                {
+                    "Reply": "Brother Malcolm...",
+                    "Didascalie": "",
+                    "Start": 68901,
+                    "End": 68920
+                },
+                {
+                    "Reply": "The Honorable Elijah Muhammad has given the Muslim name, Muhammad Ali, to Cassius X. Herbert Muhammad's been placed in charge of his training, instead of you.",
+                    "Didascalie": "",
+                    "Start": 69086,
+                    "End": 69321
+                },
+                {
+                    "Reply": "Muhammad Ali will not be traveling with you to Africa.",
+                    "Didascalie": "(V.O.) (and ultimately)",
+                    "Start": 69360,
+                    "End": 69454
+                },
+                {
+                    "Reply": "Why we meeting?",
+                    "Didascalie": "",
+                    "Start": 95966,
+                    "End": 95982
+                },
+                {
+                    "Reply": "You got bad breath, man.",
+                    "Didascalie": "",
+                    "Start": 97924,
+                    "End": 97949
+                },
+                {
+                    "Reply": "When do I get my expenses reimbursed...dry cleaning lots of suits isn't free...",
+                    "Didascalie": "",
+                    "Start": 98356,
+                    "End": 98474
                 }
             ]
         },
@@ -4421,6 +4394,12 @@
                     "End": 96568
                 },
                 {
+                    "Reply": "Not...a resounding success. We were better off before, with Malcolm INSIDE the Nation.",
+                    "Didascalie": "(CONT'D) (droll)",
+                    "Start": 96870,
+                    "End": 97015
+                },
+                {
                     "Reply": "So... We want you...to get Elijah Muhammad...to take Malcolm back.",
                     "Didascalie": "(CONT'D) (beat)",
                     "Start": 97044,
@@ -4459,17 +4438,6 @@
                     "Didascalie": "",
                     "Start": 102736,
                     "End": 102795
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG MAN",
-            "Replies": [
-                {
-                    "Reply": "What you doin' in my pockets, man?",
-                    "Didascalie": "(shouts)",
-                    "Start": 104064,
-                    "End": 104122
                 }
             ]
         },

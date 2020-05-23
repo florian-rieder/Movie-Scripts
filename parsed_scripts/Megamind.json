@@ -1,26 +1,17 @@
 {
-    "Title": [
-        "Megamind",
-        "   "
-    ],
+    "Title": "Megamind",
     "Author": [
-        "\u00a0\u00a0Alan Schoolcraft\u00a0\u00a0Brent Simons"
+        "Alan Schoolcraft",
+        "Brent Simons"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Family\u00a0\u00a0Sci-Fi"
+        "Animation",
+        "Action",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
     ],
     "Characters": [
-        {
-            "Character": "CREDITS SEQUENCE",
-            "Replies": [
-                {
-                    "Reply": "NEWSPAPER HEADLINE MONTAGE:  HEADLINES flash before us, displaying their accompanying photographs.",
-                    "Didascalie": "",
-                    "Start": 189,
-                    "End": 306
-                }
-            ]
-        },
         {
             "Character": "UBERMAN",
             "Replies": [
@@ -71,12 +62,6 @@
                     "Didascalie": "",
                     "Start": 15624,
                     "End": 15705
-                },
-                {
-                    "Reply": "You figured out my weakness, damn you. I CAN'T BEND COPPER!",
-                    "Didascalie": "",
-                    "Start": 15964,
-                    "End": 16040
                 },
                 {
                     "Reply": "So did I.",
@@ -3002,17 +2987,6 @@
             ]
         },
         {
-            "Character": "A VICIOUS TORNADO",
-            "Replies": [
-                {
-                    "Reply": "It's heading for downtown Metro as Master Mind and the lackeys coolly look on.",
-                    "Didascalie": "",
-                    "Start": 21937,
-                    "End": 22022
-                }
-            ]
-        },
-        {
             "Character": "HAL",
             "Replies": [
                 {
@@ -4754,6 +4728,39 @@
             ]
         },
         {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Tighten, Is this the work of Master Mind?",
+                    "Didascalie": "",
+                    "Start": 128107,
+                    "End": 128165
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "How will the death of your mentor affect your resolve?",
+                    "Didascalie": "",
+                    "Start": 128225,
+                    "End": 128296
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "Was that Pat Morita?",
+                    "Didascalie": "",
+                    "Start": 128356,
+                    "End": 128377
+                }
+            ]
+        },
+        {
             "Character": "SECURITY GUARD",
             "Replies": [
                 {
@@ -4969,17 +4976,6 @@
             ]
         },
         {
-            "Character": "END OF FLASHBACK",
-            "Replies": [
-                {
-                    "Reply": "Wayne stares at Master Mind, clearly impressed.",
-                    "Didascalie": "",
-                    "Start": 173257,
-                    "End": 173305
-                }
-            ]
-        },
-        {
             "Character": "WAYNE",
             "Replies": [
                 {
@@ -4987,17 +4983,6 @@
                     "Didascalie": "",
                     "Start": 173360,
                     "End": 173380
-                }
-            ]
-        },
-        {
-            "Character": "A TANK TRACK",
-            "Replies": [
-                {
-                    "Reply": "as it moves over the street. We PULL BACK to see a whole line of TANKS rolling along the street.",
-                    "Didascalie": "",
-                    "Start": 181050,
-                    "End": 181153
                 }
             ]
         },
@@ -5065,6 +5050,39 @@
                     "Didascalie": "",
                     "Start": 201917,
                     "End": 202023
+                }
+            ]
+        },
+        {
+            "Character": "BYSTANDER 1",
+            "Replies": [
+                {
+                    "Reply": "It's Uberman!",
+                    "Didascalie": "",
+                    "Start": 205164,
+                    "End": 205178
+                }
+            ]
+        },
+        {
+            "Character": "BYSTANDER 2",
+            "Replies": [
+                {
+                    "Reply": "Uberman's alive!",
+                    "Didascalie": "",
+                    "Start": 205239,
+                    "End": 205256
+                }
+            ]
+        },
+        {
+            "Character": "BYSTANDER 3",
+            "Replies": [
+                {
+                    "Reply": "We're saved!",
+                    "Didascalie": "",
+                    "Start": 205317,
+                    "End": 205330
                 }
             ]
         },

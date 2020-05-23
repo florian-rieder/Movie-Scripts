@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ides of March, The",
-        "   "
-    ],
+    "Title": "Ides of March, The",
     "Author": [
-        "\u00a0\u00a0George Clooney\u00a0\u00a0Grant Heslov\u00a0\u00a0Beau Willimon"
+        "George Clooney",
+        "Grant Heslov",
+        "Beau Willimon"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3607,6 +3606,29 @@
             ]
         },
         {
+            "Character": "STAFFER 1",
+            "Replies": [
+                {
+                    "Reply": "We're still checking...it was a blog so who the fuck knows...",
+                    "Didascalie": "",
+                    "Start": 29295,
+                    "End": 29368
+                },
+                {
+                    "Reply": "Okay.",
+                    "Didascalie": "",
+                    "Start": 29752,
+                    "End": 29758
+                },
+                {
+                    "Reply": "You got an appointment?",
+                    "Didascalie": "",
+                    "Start": 141891,
+                    "End": 141915
+                }
+            ]
+        },
+        {
             "Character": "MOLLY",
             "Replies": [
                 {
@@ -4506,6 +4528,82 @@
             ]
         },
         {
+            "Character": "STUDENT 1",
+            "Replies": [
+                {
+                    "Reply": "Gay marriage?",
+                    "Didascalie": "",
+                    "Start": 95808,
+                    "End": 95822
+                },
+                {
+                    "Reply": "Not to fifty percent of Americans.",
+                    "Didascalie": "",
+                    "Start": 95952,
+                    "End": 95987
+                },
+                {
+                    "Reply": "That's who votes...that's who shows up at the polls.",
+                    "Didascalie": "",
+                    "Start": 96143,
+                    "End": 96207
+                },
+                {
+                    "Reply": "From...a religious...a GOV. MORRIS From a religious to a civil rights issue.",
+                    "Didascalie": "",
+                    "Start": 97163,
+                    "End": 97273
+                },
+                {
+                    "Reply": "But one could argue a great difference between gender and race.",
+                    "Didascalie": "",
+                    "Start": 97346,
+                    "End": 97421
+                },
+                {
+                    "Reply": "The argument of course-",
+                    "Didascalie": "",
+                    "Start": 97618,
+                    "End": 97642
+                },
+                {
+                    "Reply": "The argument is that men and women, can in fact be separate but equal, races cannot.",
+                    "Didascalie": "",
+                    "Start": 97990,
+                    "End": 98097
+                },
+                {
+                    "Reply": "You have separate public bathrooms for men and women but it would be illegal to have separate bathrooms for two races.",
+                    "Didascalie": "",
+                    "Start": 98409,
+                    "End": 98561
+                },
+                {
+                    "Reply": "Yes now.",
+                    "Didascalie": "(LAUGHING)",
+                    "Start": 98672,
+                    "End": 98693
+                }
+            ]
+        },
+        {
+            "Character": "STUDENT 2",
+            "Replies": [
+                {
+                    "Reply": "Do you think candor is your appeal?",
+                    "Didascalie": "",
+                    "Start": 101110,
+                    "End": 101146
+                },
+                {
+                    "Reply": "I just heard a lot of Christian Coalition cars start up.",
+                    "Didascalie": "",
+                    "Start": 101435,
+                    "End": 101503
+                }
+            ]
+        },
+        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -4633,6 +4731,28 @@
                     "Didascalie": "",
                     "Start": 185617,
                     "End": 185689
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 5",
+            "Replies": [
+                {
+                    "Reply": "Did you know her well Governor?",
+                    "Didascalie": "",
+                    "Start": 157174,
+                    "End": 157206
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 6",
+            "Replies": [
+                {
+                    "Reply": "How long has she interned with you Governor?",
+                    "Didascalie": "",
+                    "Start": 157566,
+                    "End": 157622
                 }
             ]
         },

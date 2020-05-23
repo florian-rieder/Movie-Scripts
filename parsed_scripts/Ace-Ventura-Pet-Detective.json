@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Ace Ventura: Pet Detective",
-        "   "
-    ],
+    "Title": "Ace Ventura: Pet Detective",
     "Author": [
-        "\u00a0\u00a0Jack Bernstein\u00a0\u00a0Tom Shadyac\u00a0\u00a0Jim Carrey"
+        "Jack Bernstein",
+        "Tom Shadyac",
+        "Jim Carrey"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3626,17 +3625,6 @@
                     "Didascalie": "",
                     "Start": 70488,
                     "End": 70496
-                }
-            ]
-        },
-        {
-            "Character": "A PICTURE OF CAMP",
-            "Replies": [
-                {
-                    "Reply": "Comes up on the computer screen.",
-                    "Didascalie": "",
-                    "Start": 27962,
-                    "End": 27995
                 }
             ]
         },

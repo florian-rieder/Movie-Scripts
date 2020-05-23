@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Babel",
-        "   "
-    ],
+    "Title": "Babel",
     "Author": [
-        "\u00a0\u00a0Guillermo Arriaga"
+        "Guillermo Arriaga"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4221,6 +4219,40 @@
             ]
         },
         {
+            "Character": "TEAMMATE 1",
+            "Replies": [
+                {
+                    "Reply": "You shouldn't have lost your temper.",
+                    "Didascalie": "",
+                    "Start": 46002,
+                    "End": 46039
+                },
+                {
+                    "Reply": "Why are you in a bad mood?",
+                    "Didascalie": "",
+                    "Start": 46602,
+                    "End": 46629
+                }
+            ]
+        },
+        {
+            "Character": "TEAMMATE 2",
+            "Replies": [
+                {
+                    "Reply": "If you hadn't been thrown out, we would've won the game.",
+                    "Didascalie": "",
+                    "Start": 46282,
+                    "End": 46364
+                },
+                {
+                    "Reply": "She's always in a bad mood because nobody's fucked her yet.",
+                    "Didascalie": "",
+                    "Start": 46788,
+                    "End": 46873
+                }
+            ]
+        },
+        {
             "Character": "YASUJIRO",
             "Replies": [
                 {
@@ -4474,6 +4506,29 @@
             ]
         },
         {
+            "Character": "COMADRE 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, so you finally made it.",
+                    "Didascalie": "(All in Spanish)",
+                    "Start": 72238,
+                    "End": 72293
+                },
+                {
+                    "Reply": "You brought them?",
+                    "Didascalie": "",
+                    "Start": 72465,
+                    "End": 72483
+                },
+                {
+                    "Reply": "More like Luis Miguel.",
+                    "Didascalie": "",
+                    "Start": 73144,
+                    "End": 73167
+                }
+            ]
+        },
+        {
             "Character": "LUIS",
             "Replies": [
                 {
@@ -4558,6 +4613,40 @@
                     "Didascalie": "",
                     "Start": 74854,
                     "End": 74868
+                }
+            ]
+        },
+        {
+            "Character": "DAUGHTER 1",
+            "Replies": [
+                {
+                    "Reply": "Oh ma, I don't know how you did it but it zipped up perfectly.",
+                    "Didascalie": "(All in Spanish)",
+                    "Start": 75437,
+                    "End": 75551
+                },
+                {
+                    "Reply": "You haven't changed a bit, ma.",
+                    "Didascalie": "",
+                    "Start": 75793,
+                    "End": 75824
+                },
+                {
+                    "Reply": "I made two.",
+                    "Didascalie": "",
+                    "Start": 136191,
+                    "End": 136203
+                }
+            ]
+        },
+        {
+            "Character": "DAUGHTER 2",
+            "Replies": [
+                {
+                    "Reply": "Nothing ma, nothing.",
+                    "Didascalie": "",
+                    "Start": 76462,
+                    "End": 76483
                 }
             ]
         },
@@ -5883,6 +5972,52 @@
             ]
         },
         {
+            "Character": "FRIEND 1",
+            "Replies": [
+                {
+                    "Reply": "Well he spends all his time with them, what do you expect.",
+                    "Didascalie": "",
+                    "Start": 154835,
+                    "End": 154920
+                },
+                {
+                    "Reply": "I liked one of those tourists.",
+                    "Didascalie": "",
+                    "Start": 155276,
+                    "End": 155307
+                },
+                {
+                    "Reply": "Are the Americans going to invade our country?",
+                    "Didascalie": "",
+                    "Start": 158163,
+                    "End": 158236
+                }
+            ]
+        },
+        {
+            "Character": "FRIEND 2",
+            "Replies": [
+                {
+                    "Reply": "The woman is hurt, he had to help her.",
+                    "Didascalie": "",
+                    "Start": 155004,
+                    "End": 155069
+                },
+                {
+                    "Reply": "Really?   They're all skin and bones.",
+                    "Didascalie": "",
+                    "Start": 155392,
+                    "End": 155430
+                },
+                {
+                    "Reply": "They said Tazarine, did you hear?",
+                    "Didascalie": "",
+                    "Start": 156097,
+                    "End": 156131
+                }
+            ]
+        },
+        {
             "Character": "NEWSCASTER",
             "Replies": [
                 {
@@ -5896,6 +6031,17 @@
                     "Didascalie": "",
                     "Start": 156461,
                     "End": 156676
+                }
+            ]
+        },
+        {
+            "Character": "FRIEND 3",
+            "Replies": [
+                {
+                    "Reply": "Hey look, it's the story.",
+                    "Didascalie": "",
+                    "Start": 155987,
+                    "End": 156013
                 }
             ]
         },

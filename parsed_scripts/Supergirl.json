@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Supergirl",
-        "   "
-    ],
+    "Title": "Supergirl",
     "Author": [
-        "\u00a0\u00a0David Odell"
+        "David Odell"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi\u00a0\u00a0Adventure\u00a0\u00a0Fantasy\u00a0\u00a0Action"
+        "Sci-Fi",
+        "Adventure",
+        "Fantasy",
+        "Action"
     ],
     "Characters": [
         {

@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "Enough",
-        "   "
-    ],
+    "Title": "Enough",
     "Author": [
-        "\u00a0\u00a0Nicholas Kazan"
+        "Nicholas Kazan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "ENOUGH",
-            "Replies": [
-                {
-                    "Reply": "NOTE ON TITLES: GRAPHIC TITLES pop up throughout. Some are chapter titles, others more like the explanatory arrows found in cartoons.",
-                    "Didascalie": "",
-                    "Start": 370,
-                    "End": 524
-                }
-            ]
-        },
         {
             "Character": "HEY",
             "Replies": [
@@ -3657,6 +3644,17 @@
                     "Didascalie": "",
                     "Start": 145684,
                     "End": 145799
+                }
+            ]
+        },
+        {
+            "Character": "INSTRUCTOR 4",
+            "Replies": [
+                {
+                    "Reply": "We must prepare even for the impossible.",
+                    "Didascalie": "",
+                    "Start": 144417,
+                    "End": 144468
                 }
             ]
         },

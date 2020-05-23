@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "After School Special",
-        "   "
-    ],
+    "Title": "After School Special",
     "Author": [
-        "\u00a0\u00a0David H. Steinberg"
+        "David H. Steinberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -4137,6 +4134,40 @@
             ]
         },
         {
+            "Character": "GUY 1",
+            "Replies": [
+                {
+                    "Reply": "Did you hear about Rachael?",
+                    "Didascalie": "",
+                    "Start": 11241,
+                    "End": 11269
+                },
+                {
+                    "Reply": "John Baldwin nailed her.",
+                    "Didascalie": "",
+                    "Start": 11380,
+                    "End": 11405
+                },
+                {
+                    "Reply": "Yeah. It was at Richard Rosenblatt's party. In the bathroom.",
+                    "Didascalie": "",
+                    "Start": 11590,
+                    "End": 11666
+                }
+            ]
+        },
+        {
+            "Character": "GUY 2",
+            "Replies": [
+                {
+                    "Reply": "No, what happened?",
+                    "Didascalie": "",
+                    "Start": 11315,
+                    "End": 11334
+                }
+            ]
+        },
+        {
             "Character": "RACHAEL",
             "Replies": [
                 {
@@ -6689,17 +6720,6 @@
                     "Didascalie": "(joking this time)",
                     "Start": 172431,
                     "End": 172475
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "Deacon, standing a little too close to him.",
-                    "Didascalie": "",
-                    "Start": 91584,
-                    "End": 91628
                 }
             ]
         },

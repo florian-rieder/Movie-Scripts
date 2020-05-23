@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Basquiat",
-        "   "
-    ],
+    "Title": "Basquiat",
     "Author": [
-        "\u00a0\u00a0Julian Schnabel"
+        "Julian Schnabel"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3965,17 +3962,6 @@
             ]
         },
         {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "A man wearing a pin-striped suit and gold-rimmed glasses. The woman is wrapped in a cashmere shawl.",
-                    "Didascalie": "",
-                    "Start": 70085,
-                    "End": 70185
-                }
-            ]
-        },
-        {
             "Character": "CYNTHIA KRUGER",
             "Replies": [
                 {
@@ -4542,17 +4528,6 @@
                     "Didascalie": "",
                     "Start": 118956,
                     "End": 118980
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "The screen is filled with the cover of the New York Times Magazine. Jean is featured on the cover, without his dreadlocks.",
-                    "Didascalie": "",
-                    "Start": 117550,
-                    "End": 117673
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Braveheart",
-        "   "
-    ],
+    "Title": "Braveheart",
     "Author": [
-        "\u00a0\u00a0Randall Wallace"
+        "Randall Wallace"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0War\u00a0\u00a0Action"
+        "Drama",
+        "War",
+        "Action"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Hotel Rwanda",
-        "   "
-    ],
+    "Title": "Hotel Rwanda",
     "Author": [
-        "\u00a0\u00a0Keir Pearson\u00a0\u00a0Terry George"
+        "Keir Pearson",
+        "Terry George"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller\u00a0\u00a0War"
+        "Drama",
+        "Thriller",
+        "War"
     ],
     "Characters": [
         {
@@ -5088,6 +5088,23 @@
                     "Didascalie": "",
                     "Start": 90469,
                     "End": 90595
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 1",
+            "Replies": [
+                {
+                    "Reply": "Wait!",
+                    "Didascalie": "",
+                    "Start": 92749,
+                    "End": 92755
+                },
+                {
+                    "Reply": "Sit down.",
+                    "Didascalie": "",
+                    "Start": 92894,
+                    "End": 92904
                 }
             ]
         },

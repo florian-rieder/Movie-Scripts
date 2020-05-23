@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Tombstone",
-        "   "
-    ],
+    "Title": "Tombstone",
     "Author": [
-        "\u00a0\u00a0Kevin Jarre"
+        "Kevin Jarre"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Western"
+        "Action",
+        "Drama",
+        "Western"
     ],
     "Characters": [
         {
@@ -75,18 +74,6 @@
                     "Didascalie": "",
                     "Start": 75190,
                     "End": 75446
-                },
-                {
-                    "Reply": "INT - VIRGIL'S PARLOR - DAY  In tight on a gleaming silver shield, \"Town Marshal, Tombstone, A.T.\"  PULL BACK to reveal it pinned to Virgil's breast.  He sits by his parlor hearth with Morgan at his side. Wyatt sits opposite with his head in his hands.",
-                    "Didascalie": "",
-                    "Start": 79049,
-                    "End": 79306
-                },
-                {
-                    "Reply": "INT- DOC'S ROOM - NIGHT  Later.  Doc sits up in bed, revived but looking like death warmed over, mouth gaping open, eyes swimming with every breath.  DR. GOODFELLOW stands by the bed, putting on his jacket.",
-                    "Didascalie": "",
-                    "Start": 108689,
-                    "End": 108899
                 }
             ]
         },

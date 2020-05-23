@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Friday the 13th Part VIII: Jason Takes Manhattan",
-        "   "
-    ],
+    "Title": "Friday the 13th Part VIII: Jason Takes Manhattan",
     "Author": [
-        "\u00a0\u00a0Rob Hedden"
+        "Rob Hedden"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror"
+        "Horror"
     ],
     "Characters": [
         {
@@ -393,17 +390,6 @@
                     "Didascalie": "",
                     "Start": 149875,
                     "End": 149890
-                }
-            ]
-        },
-        {
-            "Character": "A HOCKEY MASKED MONSTER",
-            "Replies": [
-                {
-                    "Reply": "leaps out, clutching a HUGE KNIFE. Suzy barely has time to scream before JASON PLUNGES THE KNIFE INTO HER CHEST.",
-                    "Didascalie": "",
-                    "Start": 7858,
-                    "End": 7973
                 }
             ]
         },
@@ -4208,17 +4194,6 @@
             ]
         },
         {
-            "Character": "A DARK FIGURE",
-            "Replies": [
-                {
-                    "Reply": "lunges from under the ocean surface, grabbing onto Sean. Everybody SCREAMS...but it's JULIUS, gasping for oxygen, spitting up seawater. Sean pulls him over the edge.",
-                    "Didascalie": "",
-                    "Start": 103909,
-                    "End": 104081
-                }
-            ]
-        },
-        {
             "Character": "IRISH COP",
             "Replies": [
                 {
@@ -4368,17 +4343,6 @@
                     "Didascalie": "(blase)",
                     "Start": 139491,
                     "End": 139515
-                }
-            ]
-        },
-        {
-            "Character": "A BIKER",
-            "Replies": [
-                {
-                    "Reply": "climbs off his counter stool, revealing a HUGE BOWIE KNIFE. Jason plows straight for him and the Biker STABS JASON IN THE HEART. Jason has little reaction, pulling it out, tossing it aside. The Biker's face goes wan, backing away.",
-                    "Didascalie": "",
-                    "Start": 139906,
-                    "End": 140145
                 }
             ]
         },

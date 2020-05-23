@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Mr Brooks",
-        "   "
-    ],
+    "Title": "Mr Brooks",
     "Author": [
-        "\u00a0\u00a0Bruce A. Evans\u00a0\u00a0Raynold Gideon"
+        "Bruce A. Evans",
+        "Raynold Gideon"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3377,6 +3377,23 @@
                     "Didascalie": "",
                     "Start": 107242,
                     "End": 107293
+                }
+            ]
+        },
+        {
+            "Character": "DETECTIVE 1",
+            "Replies": [
+                {
+                    "Reply": "I'm Detective Smolny with the Chicago Police and this is Detective Carfagno, from Palo Alto, California...",
+                    "Didascalie": "",
+                    "Start": 119136,
+                    "End": 119282
+                },
+                {
+                    "Reply": "We'd like to speak to Jane Brooks, if that's possible.",
+                    "Didascalie": "(showing his badge)",
+                    "Start": 119365,
+                    "End": 119447
                 }
             ]
         },

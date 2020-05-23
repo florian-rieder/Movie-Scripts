@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Rise of the Planet of the Apes",
-        "   "
-    ],
+    "Title": "Rise of the Planet of the Apes",
     "Author": [
-        "\u00a0\u00a0Rick Jaffa\u00a0\u00a0Amanda Silver\u00a0\u00a0Jamie Moss"
+        "Rick Jaffa",
+        "Amanda Silver",
+        "Jamie Moss"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {

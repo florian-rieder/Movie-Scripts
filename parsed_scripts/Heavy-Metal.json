@@ -1,26 +1,18 @@
 {
-    "Title": [
-        "Heavy Metal",
-        "   "
-    ],
+    "Title": "Heavy Metal",
     "Author": [
-        "\u00a0\u00a0Dan Goldberg\u00a0\u00a0Len Blum"
+        "Dan Goldberg",
+        "Len Blum"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Animation\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
-        {
-            "Character": "A WHEATFIELD",
-            "Replies": [
-                {
-                    "Reply": "A beautiful field of wheat glistens in the morning sun.",
-                    "Didascalie": "",
-                    "Start": 203,
-                    "End": 259
-                }
-            ]
-        },
         {
             "Character": "AUSTIN",
             "Replies": [
@@ -106,28 +98,6 @@
                     "Didascalie": "",
                     "Start": 55608,
                     "End": 55676
-                }
-            ]
-        },
-        {
-            "Character": "A FOREST",
-            "Replies": [
-                {
-                    "Reply": "From the forest floor we see the green planetoid fly overhead, dropping balls.  We watch as it moves away and disappears beyond a far-off mountain range.  The forest rumbles as the planetoid crashes in the distance.",
-                    "Didascalie": "",
-                    "Start": 2959,
-                    "End": 3175
-                }
-            ]
-        },
-        {
-            "Character": "A GREEN BALL NEAR HER FEET",
-            "Replies": [
-                {
-                    "Reply": "An ominous note is struck as the girl notices the glowing ball, and is drawn to it.  Picking the sphere up, she looks at it.  Something inside her warns her of its danger, but, unable to resist, she puts it in her basket and continues on.",
-                    "Didascalie": "",
-                    "Start": 3359,
-                    "End": 3598
                 }
             ]
         },
@@ -315,17 +285,6 @@
                     "Didascalie": "",
                     "Start": 31328,
                     "End": 31363
-                }
-            ]
-        },
-        {
-            "Character": "A GUN EMPLACEMENT",
-            "Replies": [
-                {
-                    "Reply": "Japanese soldiers crank the barrel of an anti-aircraft gun skyward.  We begin to hear the sound of approaching engines.",
-                    "Didascalie": "",
-                    "Start": 14623,
-                    "End": 14743
                 }
             ]
         },

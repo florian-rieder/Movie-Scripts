@@ -1,26 +1,13 @@
 {
-    "Title": [
-        "A Serious Man",
-        "   "
-    ],
+    "Title": "A Serious Man",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
-        {
-            "Character": "A SERIOUS MAN",
-            "Replies": [
-                {
-                    "Reply": "June 4th, 2007      White letters on a black screen: Receive with simplicity everything that happens to you.",
-                    "Didascalie": "",
-                    "Start": 221,
-                    "End": 370
-                }
-            ]
-        },
         {
             "Character": "MAN",
             "Replies": [
@@ -515,17 +502,6 @@
                     "Didascalie": "",
                     "Start": 17028,
                     "End": 17059
-                }
-            ]
-        },
-        {
-            "Character": "A BLINDING LIGHT",
-            "Replies": [
-                {
-                    "Reply": "At the cut to the light the Jefferson Airplane music jumps up full. The light resolves into a multi-flared image of a blinking eye.",
-                    "Didascalie": "",
-                    "Start": 12709,
-                    "End": 12861
                 }
             ]
         },
@@ -4043,6 +4019,17 @@
             ]
         },
         {
+            "Character": "VOLUME 12",
+            "Replies": [
+                {
+                    "Reply": "Rabbi Youssele wears a caftan and a felt hat and has sad eyes.",
+                    "Didascalie": "",
+                    "Start": 43167,
+                    "End": 43230
+                }
+            ]
+        },
+        {
             "Character": "FRONT DOOR",
             "Replies": [
                 {
@@ -4677,13 +4664,48 @@
             ]
         },
         {
-            "Character": "A HAND RAPPING AT A DOOR",
+            "Character": "COP 1",
             "Replies": [
                 {
-                    "Reply": "The front door to the Gopnik home.",
+                    "Reply": "Arthur Gopnik?",
                     "Didascalie": "",
-                    "Start": 118531,
-                    "End": 118566
+                    "Start": 118782,
+                    "End": 118797
+                },
+                {
+                    "Reply": "Is that Arthur Gopnik?",
+                    "Didascalie": "",
+                    "Start": 119601,
+                    "End": 119624
+                },
+                {
+                    "Reply": "You're what.",
+                    "Didascalie": "",
+                    "Start": 119859,
+                    "End": 119872
+                },
+                {
+                    "Reply": "Look. Tell Gopnik-you know, Arthur Gopnik-he's breaking the law. We're not arresting him now but next time we will. Gambling is against the law in this state.",
+                    "Didascalie": "",
+                    "Start": 120140,
+                    "End": 120319
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "Who died?",
+                    "Didascalie": "",
+                    "Start": 120041,
+                    "End": 120051
+                },
+                {
+                    "Reply": "Sorry, sir.",
+                    "Didascalie": "",
+                    "Start": 120413,
+                    "End": 120425
                 }
             ]
         },
@@ -4789,17 +4811,6 @@
             ]
         },
         {
-            "Character": "A SIGNPOST",
-            "Replies": [
-                {
-                    "Reply": "The old-fashioned kind with wooden fingers pointing the different directions.",
-                    "Didascalie": "",
-                    "Start": 154065,
-                    "End": 154153
-                }
-            ]
-        },
-        {
             "Character": "BOUNDARY WATERS",
             "Replies": [
                 {
@@ -4840,17 +4851,6 @@
                     "Didascalie": "",
                     "Start": 163652,
                     "End": 163658
-                }
-            ]
-        },
-        {
-            "Character": "A DOOR",
-            "Replies": [
-                {
-                    "Reply": "Creaking open. The cut has snapped off the robust Adon Olam, leaving sepulchral quiet.",
-                    "Didascalie": "",
-                    "Start": 164052,
-                    "End": 164149
                 }
             ]
         },

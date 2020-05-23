@@ -1,37 +1,15 @@
 {
-    "Title": [
-        "Man On Fire",
-        "   "
-    ],
+    "Title": "Man On Fire",
     "Author": [
-        "\u00a0\u00a0Brian Helgeland"
+        "Brian Helgeland"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "A CATHOLIC CHURCH",
-            "Replies": [
-                {
-                    "Reply": "The big wooden doors open to release the parishioners inside. Feature a tall, lanky 18-YEAR-OLD. Holding his GIRLFRIEND'S hand, anxious for Sunday to really begin.",
-                    "Didascalie": "",
-                    "Start": 605,
-                    "End": 769
-                }
-            ]
-        },
-        {
-            "Character": "A GRAND MARQUIS",
-            "Replies": [
-                {
-                    "Reply": "Squeals around the corner, lurches to a stop alongside the Mercedes. FOUR MEN get out flashing  badges. In a moment they're hustling Eighteen toward the car, stiff-",
-                    "Didascalie": "",
-                    "Start": 952,
-                    "End": 1117
-                }
-            ]
-        },
         {
             "Character": "JORDAN",
             "Replies": [

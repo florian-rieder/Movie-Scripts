@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Beach, The",
-        "   "
-    ],
+    "Title": "Beach, The",
     "Author": [
-        "\u00a0\u00a0Alex Garland\u00a0\u00a0John Hodge"
+        "Alex Garland",
+        "John Hodge"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Adventure\u00a0\u00a0Thriller"
+        "Drama",
+        "Adventure",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1811,6 +1811,79 @@
                     "Didascalie": "",
                     "Start": 2154,
                     "End": 2302
+                }
+            ]
+        },
+        {
+            "Character": "TRAVELER 1",
+            "Replies": [
+                {
+                    "Reply": "Where you been?",
+                    "Didascalie": "",
+                    "Start": 2811,
+                    "End": 2827
+                },
+                {
+                    "Reply": "I heard they built a big hotel there.",
+                    "Didascalie": "",
+                    "Start": 3273,
+                    "End": 3311
+                },
+                {
+                    "Reply": "We're going anyway: all the rooms have got air conditioning.",
+                    "Didascalie": "",
+                    "Start": 3374,
+                    "End": 3435
+                }
+            ]
+        },
+        {
+            "Character": "TRAVELER 2",
+            "Replies": [
+                {
+                    "Reply": "Where you going?",
+                    "Didascalie": "",
+                    "Start": 2838,
+                    "End": 2855
+                },
+                {
+                    "Reply": "I know a place that everyone says is really unspoiled.",
+                    "Didascalie": "",
+                    "Start": 3207,
+                    "End": 3262
+                }
+            ]
+        },
+        {
+            "Character": "TRAVELER 3",
+            "Replies": [
+                {
+                    "Reply": "How much did it cost?",
+                    "Didascalie": "",
+                    "Start": 2972,
+                    "End": 2994
+                }
+            ]
+        },
+        {
+            "Character": "TRAVELER 4",
+            "Replies": [
+                {
+                    "Reply": "We're going exploring. We've read this book. It tells us all the best places to explore.",
+                    "Didascalie": "",
+                    "Start": 3107,
+                    "End": 3196
+                }
+            ]
+        },
+        {
+            "Character": "TRAVELER 5",
+            "Replies": [
+                {
+                    "Reply": "Some sort of sewage problem, apparently.",
+                    "Didascalie": "",
+                    "Start": 3322,
+                    "End": 3363
                 }
             ]
         },
@@ -3814,6 +3887,72 @@
             ]
         },
         {
+            "Character": "MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Toothbrush, toothpaste, sixty cigarettes, a new hat, some elastoplast, a pair of swimming trunks, four bars of chocolate and some razors.",
+                    "Didascalie": "",
+                    "Start": 59077,
+                    "End": 59215
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "One hundred aspirin, one hundred paracetamol, six boxes of regular tampons, toothpaste, soap and some shampoo.",
+                    "Didascalie": "",
+                    "Start": 59223,
+                    "End": 59334
+                }
+            ]
+        },
+        {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "Toothpaste, a ball of string, four double-A batteries, and twenty condoms. No, make it forty.",
+                    "Didascalie": "",
+                    "Start": 59340,
+                    "End": 59434
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "Six bars of chocolate, moisturizer, four boxes of tampons, assorted sixes, two bars of soap and some toothpaste.",
+                    "Didascalie": "",
+                    "Start": 59442,
+                    "End": 59555
+                }
+            ]
+        },
+        {
+            "Character": "MAN 3",
+            "Replies": [
+                {
+                    "Reply": "One tin of beef curry.",
+                    "Didascalie": "",
+                    "Start": 59561,
+                    "End": 59584
+                }
+            ]
+        },
+        {
+            "Character": "WOMAN 3",
+            "Replies": [
+                {
+                    "Reply": "A newspaper, some boiled sweets, shampoo and conditioner, two hundred cigarettes, a pair of plastic sandals, small, a new swimsuit, size ten, bright but no flowers, a plain T-shirt, a jar of Vegemite and three cigarette lighters.",
+                    "Didascalie": "",
+                    "Start": 59592,
+                    "End": 59822
+                }
+            ]
+        },
+        {
             "Character": "SUMET",
             "Replies": [
                 {
@@ -3845,6 +3984,23 @@
                     "Didascalie": "",
                     "Start": 63689,
                     "End": 63723
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "Sounds cool.",
+                    "Didascalie": "",
+                    "Start": 66046,
+                    "End": 66059
+                },
+                {
+                    "Reply": "Can we see it?",
+                    "Didascalie": "",
+                    "Start": 66129,
+                    "End": 66144
                 }
             ]
         },

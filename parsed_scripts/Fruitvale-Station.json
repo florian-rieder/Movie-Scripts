@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Fruitvale Station",
-        "   "
-    ],
+    "Title": "Fruitvale Station",
     "Author": [
-        "\u00a0\u00a0Ryan Coogler"
+        "Ryan Coogler"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3233,6 +3230,23 @@
             ]
         },
         {
+            "Character": "CORRECTIONS OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "Is there a problem here?",
+                    "Didascalie": "",
+                    "Start": 44066,
+                    "End": 44091
+                },
+                {
+                    "Reply": "Grant, back in your assigned visiting area.",
+                    "Didascalie": "",
+                    "Start": 49971,
+                    "End": 50032
+                }
+            ]
+        },
+        {
             "Character": "JASON",
             "Replies": [
                 {
@@ -4225,6 +4239,29 @@
                     "Didascalie": "(to Sophina)",
                     "Start": 165614,
                     "End": 165644
+                }
+            ]
+        },
+        {
+            "Character": "PARAMEDIC 1",
+            "Replies": [
+                {
+                    "Reply": "Oscar? Oscar can you hear me?",
+                    "Didascalie": "",
+                    "Start": 167482,
+                    "End": 167512
+                },
+                {
+                    "Reply": "He's been shot, he's still alive but we gotta get him to Highland.",
+                    "Didascalie": "",
+                    "Start": 169360,
+                    "End": 169446
+                },
+                {
+                    "Reply": "He was lying face down on the ground.",
+                    "Didascalie": "",
+                    "Start": 172608,
+                    "End": 172664
                 }
             ]
         },

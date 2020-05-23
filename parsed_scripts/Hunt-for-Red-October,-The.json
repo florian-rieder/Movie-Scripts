@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Hunt for Red October, The",
-        "   "
-    ],
+    "Title": "Hunt for Red October, The",
     "Author": [
-        "\u00a0\u00a0Larry Ferguson\u00a0\u00a0Tom Clancy"
+        "Larry Ferguson",
+        "Tom Clancy"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -29,17 +29,6 @@
                     "Didascalie": "",
                     "Start": 650,
                     "End": 675
-                }
-            ]
-        },
-        {
-            "Character": "A BARREN LANDSCAPE",
-            "Replies": [
-                {
-                    "Reply": "beneath slate-grey sky. Frigid rock and stunted trees fall to an ice-choked coast. Congealed sea on a desolate beach.",
-                    "Didascalie": "",
-                    "Start": 837,
-                    "End": 965
                 }
             ]
         },
@@ -1118,17 +1107,6 @@
                     "Didascalie": "(into the headset)",
                     "Start": 5704,
                     "End": 5750
-                }
-            ]
-        },
-        {
-            "Character": "A LITHOGRAPH",
-            "Replies": [
-                {
-                    "Reply": "of John Paul Jones fighting the Serapis appears. It's on the wall. in a cluttered study. Books crowd every bit of space. Photos, models and nautical memorabilia, everywhere.",
-                    "Didascalie": "",
-                    "Start": 6667,
-                    "End": 6861
                 }
             ]
         },
@@ -2265,28 +2243,6 @@
             ]
         },
         {
-            "Character": "A PAIR OF PHOTOGRAPHS",
-            "Replies": [
-                {
-                    "Reply": "dropping onto the tihle in front of Greer. They show the bow and stern of a submarine in dry dock. From the size of the construction crey, it's obvious the boat is huge.",
-                    "Didascalie": "",
-                    "Start": 15345,
-                    "End": 15535
-                }
-            ]
-        },
-        {
-            "Character": "A BANSHEE WAIL",
-            "Replies": [
-                {
-                    "Reply": "in blackness. The groan of a primordial beast echoing in the dark, followed by a deep vibration that rattles bones and shatters eardrums.",
-                    "Didascalie": "",
-                    "Start": 19268,
-                    "End": 19426
-                }
-            ]
-        },
-        {
             "Character": "SEAMAN SECOND CLASS RONALD JONES",
             "Replies": [
                 {
@@ -3385,17 +3341,6 @@
             ]
         },
         {
-            "Character": "ENTERING THE",
-            "Replies": [
-                {
-                    "Reply": "CAPTAIN'S STATEROOM C3osing the door behind him, Ramius turns into the room.",
-                    "Didascalie": "",
-                    "Start": 25653,
-                    "End": 25740
-                }
-            ]
-        },
-        {
             "Character": "PT TIN",
             "Replies": [
                 {
@@ -3987,17 +3932,6 @@
             ]
         },
         {
-            "Character": "A SOVIET SUBMARINE",
-            "Replies": [
-                {
-                    "Reply": "dead In the water at four hundred feet. 'About the. size of the Dallas, this one's bualt for speed and maneuverability. They don't come any better.",
-                    "Didascalie": "",
-                    "Start": 51748,
-                    "End": 51916
-                }
-            ]
-        },
-        {
             "Character": "BONAVIA",
             "Replies": [
                 {
@@ -4189,17 +4123,6 @@
                     "Didascalie": "",
                     "Start": 54749,
                     "End": 54808
-                }
-            ]
-        },
-        {
-            "Character": "A COLOSSAL LOBBY",
-            "Replies": [
-                {
-                    "Reply": "Padorin mounts a giant staircase. Naval officers snap salutes.",
-                    "Didascalie": "",
-                    "Start": 55074,
-                    "End": 55137
                 }
             ]
         },
@@ -4686,17 +4609,6 @@
             ]
         },
         {
-            "Character": "A NAVIGATOR",
-            "Replies": [
-                {
-                    "Reply": "sits directly behind Ryan at a small desk built into the bulkhead.",
-                    "Didascalie": "",
-                    "Start": 80599,
-                    "End": 80666
-                }
-            ]
-        },
-        {
             "Character": "NAVIGATOR",
             "Replies": [
                 {
@@ -4790,17 +4702,6 @@
                     "Didascalie": "",
                     "Start": 123544,
                     "End": 123743
-                }
-            ]
-        },
-        {
-            "Character": "A STEWARD",
-            "Replies": [
-                {
-                    "Reply": "pouring coffee into a large mug on a tray loaded down with sandwiches. Setting down the coffee, the steward leaves.",
-                    "Didascalie": "",
-                    "Start": 83401,
-                    "End": 83527
                 }
             ]
         },
@@ -5120,17 +5021,6 @@
                     "Didascalie": "",
                     "Start": 200113,
                     "End": 200254
-                }
-            ]
-        },
-        {
-            "Character": "A SOVIET BEAR FOXTROT",
-            "Replies": [
-                {
-                    "Reply": "anti-submarine aircraft, BLASTING through cumulus at thirty thousand feet, TURBOPROPS HOWLING, a blazing firedog in the white-hot sun.",
-                    "Didascalie": "",
-                    "Start": 97011,
-                    "End": 97166
                 }
             ]
         },
@@ -5469,17 +5359,6 @@
             ]
         },
         {
-            "Character": "A BOLT OF ELECTRICITY",
-            "Replies": [
-                {
-                    "Reply": "arcs between their oohed hands. BLITZED, Mancuso is KNOCKED hard to his KNEES.",
-                    "Didascalie": "",
-                    "Start": 133780,
-                    "End": 133869
-                }
-            ]
-        },
-        {
             "Character": "SEA WATER THUNDERS",
             "Replies": [
                 {
@@ -5689,17 +5568,6 @@
             ]
         },
         {
-            "Character": "A PASSAGEWAY",
-            "Replies": [
-                {
-                    "Reply": "Ahead of them Jones and Ryan wait by a ladder beneath an open hatch. Like Mancuso, Jones is armed. Jones starts up the ladder.",
-                    "Didascalie": "",
-                    "Start": 168991,
-                    "End": 169128
-                }
-            ]
-        },
-        {
             "Character": "DOWN A LADDER",
             "Replies": [
                 {
@@ -5718,17 +5586,6 @@
                     "Didascalie": "",
                     "Start": 169501,
                     "End": 169682
-                }
-            ]
-        },
-        {
-            "Character": "A FIRE STORM",
-            "Replies": [
-                {
-                    "Reply": "of GUNFIRE sprays the CONN. Everybody scatters. Borodin is HIT. SLAMMING into the bulkhead, he falls in a seated position, eyes wide.",
-                    "Didascalie": "",
-                    "Start": 184542,
-                    "End": 184696
                 }
             ]
         },
@@ -5755,17 +5612,6 @@
             ]
         },
         {
-            "Character": "A DRIVER",
-            "Replies": [
-                {
-                    "Reply": "standing beside a limousine outside the Executive Office Building.",
-                    "Didascalie": "",
-                    "Start": 199887,
-                    "End": 199954
-                }
-            ]
-        },
-        {
             "Character": "RAMTUS",
             "Replies": [
                 {
@@ -5773,28 +5619,6 @@
                     "Didascalie": "",
                     "Start": 202931,
                     "End": 202940
-                }
-            ]
-        },
-        {
-            "Character": "A STEWARDESS",
-            "Replies": [
-                {
-                    "Reply": "walking down the aisle of an airplane, checking passengers.",
-                    "Didascalie": "",
-                    "Start": 203472,
-                    "End": 203532
-                }
-            ]
-        },
-        {
-            "Character": "A TEDDY BEAR",
-            "Replies": [
-                {
-                    "Reply": "neck-and a seat belt fastened over his bulging tummy.",
-                    "Didascalie": "",
-                    "Start": 203875,
-                    "End": 203929
                 }
             ]
         }

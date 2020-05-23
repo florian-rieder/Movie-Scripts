@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Commando",
-        "   "
-    ],
+    "Title": "Commando",
     "Author": [
-        "\u00a0\u00a0Richard Tuggle"
+        "Richard Tuggle"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller"
+        "Action",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1053,6 +1051,28 @@
             ]
         },
         {
+            "Character": "MATRIX 26-A",
+            "Replies": [
+                {
+                    "Reply": "shows Jenny karate moves. She tries a move on him and he pretends she's knocked him over.",
+                    "Didascalie": "",
+                    "Start": 10197,
+                    "End": 10297
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 26-B",
+            "Replies": [
+                {
+                    "Reply": "gives Jenny a piggyback ride over the bridge that crosses the stream, as they head back to the cabin.",
+                    "Didascalie": "",
+                    "Start": 10384,
+                    "End": 10496
+                }
+            ]
+        },
+        {
             "Character": "SANDWICH JENNY",
             "Replies": [
                 {
@@ -1060,6 +1080,17 @@
                     "Didascalie": "",
                     "Start": 11638,
                     "End": 11655
+                }
+            ]
+        },
+        {
+            "Character": "KIRBY 32",
+            "Replies": [
+                {
+                    "Reply": "Kirby approaches the cabin.",
+                    "Didascalie": "",
+                    "Start": 13290,
+                    "End": 13318
                 }
             ]
         },
@@ -1194,6 +1225,17 @@
             ]
         },
         {
+            "Character": "JENNY 40",
+            "Replies": [
+                {
+                    "Reply": "hears a THUMP and sticks her head out from under her bed to look, but sees nothing. Suddenly, footsteps approach her bedroom door. She pulls her head back under the bed just as two boots enter her bedroom.",
+                    "Didascalie": "",
+                    "Start": 18987,
+                    "End": 19223
+                }
+            ]
+        },
+        {
             "Character": "DIAZ",
             "Replies": [
                 {
@@ -1213,6 +1255,17 @@
                     "Didascalie": "",
                     "Start": 20996,
                     "End": 21059
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 54",
+            "Replies": [
+                {
+                    "Reply": "Matrix ELBOWS him in the stomach, DRIVES his fist into the man's Adam's apple, PULLS HIM DOWN, CRACKS the man's vertebrae, grabs the dead man's rifle and SLAMS the butt against the face on the man closing on him. The man's jaw SHATTERS.",
+                    "Didascalie": "",
+                    "Start": 24499,
+                    "End": 24776
                 }
             ]
         },
@@ -1334,6 +1387,17 @@
             ]
         },
         {
+            "Character": "BOARDING GATE 63",
+            "Replies": [
+                {
+                    "Reply": "in Matrix's breast pocket.",
+                    "Didascalie": "",
+                    "Start": 32364,
+                    "End": 32391
+                }
+            ]
+        },
+        {
             "Character": "SULLY",
             "Replies": [
                 {
@@ -1441,6 +1505,50 @@
                     "Didascalie": "",
                     "Start": 34439,
                     "End": 34445
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 66",
+            "Replies": [
+                {
+                    "Reply": "Matrix starts down the aisle.",
+                    "Didascalie": "",
+                    "Start": 36298,
+                    "End": 36328
+                }
+            ]
+        },
+        {
+            "Character": "BELOW DECK 67-A",
+            "Replies": [
+                {
+                    "Reply": "the elevator stops in the service area of the big plane. Matrix gets out of the elevator and looks out a port. The place is moving faster!",
+                    "Didascalie": "",
+                    "Start": 36930,
+                    "End": 37089
+                }
+            ]
+        },
+        {
+            "Character": "PASSENGER AREA 68",
+            "Replies": [
+                {
+                    "Reply": "The passengers sit unaware of anything unusual.",
+                    "Didascalie": "",
+                    "Start": 37380,
+                    "End": 37428
+                }
+            ]
+        },
+        {
+            "Character": "BELOW DECK 87",
+            "Replies": [
+                {
+                    "Reply": "Jenny is huddled in a darkened cabin below. She wipes the tears from her eyes.",
+                    "Didascalie": "",
+                    "Start": 41643,
+                    "End": 41732
                 }
             ]
         },
@@ -1828,6 +1936,17 @@
             ]
         },
         {
+            "Character": "MATRIX AND CINDY 99",
+            "Replies": [
+                {
+                    "Reply": "Matrix and Cindy are sitting in her car watching Sully.",
+                    "Didascalie": "",
+                    "Start": 51163,
+                    "End": 51219
+                }
+            ]
+        },
+        {
             "Character": "MATRIX X",
             "Replies": [
                 {
@@ -1841,6 +1960,28 @@
                     "Didascalie": "",
                     "Start": 69247,
                     "End": 69253
+                }
+            ]
+        },
+        {
+            "Character": "BAR 101",
+            "Replies": [
+                {
+                    "Reply": "New Wave music PLAYS as valley gals and sharp dudes dance and mingle about. Sully can dig this scene --",
+                    "Didascalie": "",
+                    "Start": 54947,
+                    "End": 55061
+                }
+            ]
+        },
+        {
+            "Character": "OPEN SPACE 102",
+            "Replies": [
+                {
+                    "Reply": "Cindy approaches the bar, hesitates, then looks back at Matrix. Across the open space, he nods, urging her forward. She hesitantly moves forward.",
+                    "Didascalie": "",
+                    "Start": 55718,
+                    "End": 55884
                 }
             ]
         },
@@ -1943,6 +2084,50 @@
             ]
         },
         {
+            "Character": "MATRIX 106",
+            "Replies": [
+                {
+                    "Reply": "Matrix is getting anxious. He looks at his watch.",
+                    "Didascalie": "",
+                    "Start": 57828,
+                    "End": 57878
+                }
+            ]
+        },
+        {
+            "Character": "BAR 107",
+            "Replies": [
+                {
+                    "Reply": "Sully is in conversation with the Latin man, unaware of what's going on outside.",
+                    "Didascalie": "",
+                    "Start": 57942,
+                    "End": 58033
+                }
+            ]
+        },
+        {
+            "Character": "OPEN SPACE 108",
+            "Replies": [
+                {
+                    "Reply": "Biggs confidently walks along the top level, the girls following. He STOPS abruptly as he sees Matrix, his eyes bulge and he retreats into an alcove and pulls out his walkie-talkie.",
+                    "Didascalie": "",
+                    "Start": 58192,
+                    "End": 58404
+                }
+            ]
+        },
+        {
+            "Character": "BAR 109",
+            "Replies": [
+                {
+                    "Reply": "Cates and Cindy are still out of Matrix's view.",
+                    "Didascalie": "",
+                    "Start": 58682,
+                    "End": 58730
+                }
+            ]
+        },
+        {
             "Character": "TOP LEVEL",
             "Replies": [
                 {
@@ -1961,6 +2146,50 @@
                     "Didascalie": "",
                     "Start": 62443,
                     "End": 62452
+                }
+            ]
+        },
+        {
+            "Character": "SHOOTING UP 117",
+            "Replies": [
+                {
+                    "Reply": "Thousands of bills come rushing out of the briefcase and begin drifting downward.",
+                    "Didascalie": "",
+                    "Start": 62991,
+                    "End": 63083
+                }
+            ]
+        },
+        {
+            "Character": "LATIN 118",
+            "Replies": [
+                {
+                    "Reply": "The Latin, blood oozing out his stomach and eyes drifting in his head, reaches over the railing to grasp futilely at the money. He reaches too far.",
+                    "Didascalie": "",
+                    "Start": 63129,
+                    "End": 63297
+                }
+            ]
+        },
+        {
+            "Character": "SHOOTING UP 119",
+            "Replies": [
+                {
+                    "Reply": "The Latin drops over the third floor railing, falling right through the drifting bills and CRASHES to the floor.",
+                    "Didascalie": "",
+                    "Start": 63349,
+                    "End": 63482
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX AND SULLY 120",
+            "Replies": [
+                {
+                    "Reply": "Matrix tries to force open the broken phone booth door to get at Sully, but the bloodied Sully crawls out the other way through a broken window pane, hangs from the railing and drops to the stairwell below.",
+                    "Didascalie": "",
+                    "Start": 63524,
+                    "End": 63761
                 }
             ]
         },
@@ -1988,6 +2217,17 @@
             ]
         },
         {
+            "Character": "MATRIX AND CINDY 132-A",
+            "Replies": [
+                {
+                    "Reply": "Cindy is looking at her sunbeam, which is smashed to shit, as Matrix approaches.",
+                    "Didascalie": "",
+                    "Start": 75239,
+                    "End": 75330
+                }
+            ]
+        },
+        {
             "Character": "CORRIDOR",
             "Replies": [
                 {
@@ -2001,6 +2241,17 @@
                     "Didascalie": "",
                     "Start": 93355,
                     "End": 93409
+                }
+            ]
+        },
+        {
+            "Character": "CORRIDOR 158",
+            "Replies": [
+                {
+                    "Reply": "Matrix desperately grabs the door handle and pushes the door forward.",
+                    "Didascalie": "",
+                    "Start": 93834,
+                    "End": 93914
                 }
             ]
         },
@@ -2045,6 +2296,17 @@
             ]
         },
         {
+            "Character": "CORRIDOR 171",
+            "Replies": [
+                {
+                    "Reply": "Two soldiers, ROBERTO and Juan, come down the corridor They pass the room Matrix is in, then Roberto stops.",
+                    "Didascalie": "",
+                    "Start": 99270,
+                    "End": 99388
+                }
+            ]
+        },
+        {
             "Character": "ROBERTO",
             "Replies": [
                 {
@@ -2062,6 +2324,28 @@
             ]
         },
         {
+            "Character": "STORE 179",
+            "Replies": [
+                {
+                    "Reply": "He wheels the cart out of the hidden room, moves down the aisle with it, then carefully pushes it so it rolls by itself the rest of the way to Cindy.",
+                    "Didascalie": "",
+                    "Start": 104378,
+                    "End": 104548
+                }
+            ]
+        },
+        {
+            "Character": "STORE 181",
+            "Replies": [
+                {
+                    "Reply": "Matrix passes by the counter and SUDDENLY A COP comes out from behind the aisle with his shotgun pointed right at Matrix's head. He COCKS the trigger.",
+                    "Didascalie": "",
+                    "Start": 104926,
+                    "End": 105097
+                }
+            ]
+        },
+        {
             "Character": "COP",
             "Replies": [
                 {
@@ -2069,6 +2353,28 @@
                     "Didascalie": "",
                     "Start": 105138,
                     "End": 105147
+                }
+            ]
+        },
+        {
+            "Character": "COPS 184",
+            "Replies": [
+                {
+                    "Reply": "Daryl looks over at Fred and rolls his eyes. Fred, who's driving, smiles.",
+                    "Didascalie": "",
+                    "Start": 106129,
+                    "End": 106213
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 187",
+            "Replies": [
+                {
+                    "Reply": "Matrix LOOKS HOPELESSLY at his watch.",
+                    "Didascalie": "",
+                    "Start": 106479,
+                    "End": 106517
                 }
             ]
         },
@@ -2086,6 +2392,28 @@
                     "Didascalie": "",
                     "Start": 107388,
                     "End": 107438
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 194",
+            "Replies": [
+                {
+                    "Reply": "Matrix, listening to the continuing explosion, reacts.",
+                    "Didascalie": "",
+                    "Start": 108185,
+                    "End": 108240
+                }
+            ]
+        },
+        {
+            "Character": "GUARD AND MATRIX 208",
+            "Replies": [
+                {
+                    "Reply": "The guard is TILTING his chair back and forth; Matrix is standing right behind him.",
+                    "Didascalie": "",
+                    "Start": 113212,
+                    "End": 113306
                 }
             ]
         },
@@ -2129,6 +2457,28 @@
             ]
         },
         {
+            "Character": "MATRIX AND TRUCK 292",
+            "Replies": [
+                {
+                    "Reply": "matrix runs in front of a pair of large gates that lead to the estate.",
+                    "Didascalie": "",
+                    "Start": 121934,
+                    "End": 122015
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 331",
+            "Replies": [
+                {
+                    "Reply": "Matrix is crawling, following a hedge, toward Arius.",
+                    "Didascalie": "",
+                    "Start": 123530,
+                    "End": 123583
+                }
+            ]
+        },
+        {
             "Character": "M A TRIX",
             "Replies": [
                 {
@@ -2140,6 +2490,138 @@
             ]
         },
         {
+            "Character": "KITCHEN 344",
+            "Replies": [
+                {
+                    "Reply": "He enters the kitchen, then STOPS COLD. He looks at what's facing him.",
+                    "Didascalie": "",
+                    "Start": 125104,
+                    "End": 125185
+                }
+            ]
+        },
+        {
+            "Character": "JEEP 350",
+            "Replies": [
+                {
+                    "Reply": "Up ahead in the distance, Bennett RACES the jeep toward the dock.",
+                    "Didascalie": "",
+                    "Start": 127694,
+                    "End": 127770
+                }
+            ]
+        },
+        {
+            "Character": "DOCK 353",
+            "Replies": [
+                {
+                    "Reply": "Matrix nears the dock as Bennett tries to start the engines.",
+                    "Didascalie": "",
+                    "Start": 128382,
+                    "End": 128453
+                }
+            ]
+        },
+        {
+            "Character": "WAR BOAT 354",
+            "Replies": [
+                {
+                    "Reply": "Bennett edges the war boat away from the dock, then BLASTS the engines and RACES the boat away...",
+                    "Didascalie": "",
+                    "Start": 128723,
+                    "End": 128831
+                }
+            ]
+        },
+        {
+            "Character": "DOCK 355",
+            "Replies": [
+                {
+                    "Reply": ".just as Matrix reaches the end of the dock.",
+                    "Didascalie": "",
+                    "Start": 128876,
+                    "End": 128921
+                }
+            ]
+        },
+        {
+            "Character": "WIDER FAVORING MATRIX 358",
+            "Replies": [
+                {
+                    "Reply": "Suddenly, he hears a NOISE and he looks to the side.",
+                    "Didascalie": "",
+                    "Start": 129138,
+                    "End": 129191
+                }
+            ]
+        },
+        {
+            "Character": "SEAPLANE 359",
+            "Replies": [
+                {
+                    "Reply": "Cindy is RACING her seaplane toward the dock!",
+                    "Didascalie": "",
+                    "Start": 129240,
+                    "End": 129286
+                }
+            ]
+        },
+        {
+            "Character": "DOCK 360",
+            "Replies": [
+                {
+                    "Reply": "Cindy slows the seaplane as she passes the dock and Matrix grabs onto a ladder.",
+                    "Didascalie": "",
+                    "Start": 129331,
+                    "End": 129421
+                }
+            ]
+        },
+        {
+            "Character": "SEAPLANE 361",
+            "Replies": [
+                {
+                    "Reply": "with Matrix hanging onto the ladder, Cindy BLASTS the throttle and RACES after Bennett's boat.",
+                    "Didascalie": "",
+                    "Start": 129470,
+                    "End": 129575
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 362",
+            "Replies": [
+                {
+                    "Reply": "As the seaplane starts to GO FASTER, Matrix holds onto the ladder and looks at Bennett's boat up ahead.",
+                    "Didascalie": "",
+                    "Start": 129622,
+                    "End": 129736
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 366",
+            "Replies": [
+                {
+                    "Reply": "The wind and spray SLAP against Matrix as he watches the seaplane closing the gap on the boat.",
+                    "Didascalie": "",
+                    "Start": 130314,
+                    "End": 130419
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 372",
+            "Replies": [
+                {
+                    "Reply": "Matrix lowers his gun.",
+                    "Didascalie": "",
+                    "Start": 131876,
+                    "End": 131899
+                }
+            ]
+        },
+        {
             "Character": "CAPTAIN",
             "Replies": [
                 {
@@ -2147,6 +2629,94 @@
                     "Didascalie": "",
                     "Start": 135757,
                     "End": 135785
+                }
+            ]
+        },
+        {
+            "Character": "QUICK FLASHBACK 391",
+            "Replies": [
+                {
+                    "Reply": "Bennett and Matrix have their faces pressed to the dirt as a mortar shell EXPLODES near their heads.",
+                    "Didascalie": "",
+                    "Start": 137348,
+                    "End": 137459
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX 393",
+            "Replies": [
+                {
+                    "Reply": "Matrix takes his knife out of his wrist sheath and meets Bennett on the sand in front of the boat.",
+                    "Didascalie": "",
+                    "Start": 138790,
+                    "End": 138899
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX AND BENNETT 394",
+            "Replies": [
+                {
+                    "Reply": "Matrix and Bennett begin to circle each other.",
+                    "Didascalie": "",
+                    "Start": 138943,
+                    "End": 138990
+                }
+            ]
+        },
+        {
+            "Character": "JENNY 395",
+            "Replies": [
+                {
+                    "Reply": "Jenny watches the fight in horror.",
+                    "Didascalie": "",
+                    "Start": 139200,
+                    "End": 139235
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX AND BENNETT 396",
+            "Replies": [
+                {
+                    "Reply": "Bennett jabs with his knife and SLASHES Matrix, causing a bloody cut.",
+                    "Didascalie": "",
+                    "Start": 139279,
+                    "End": 139359
+                }
+            ]
+        },
+        {
+            "Character": "JENNY 399",
+            "Replies": [
+                {
+                    "Reply": "Jenny, watching the fight, notices Matrix's gun on the beach near her and hesitates to pick it up.",
+                    "Didascalie": "",
+                    "Start": 140587,
+                    "End": 140696
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX AND BENNETT 400",
+            "Replies": [
+                {
+                    "Reply": "Suddenly Matrix falls backward to the ground, pulling Bennett with him and FLIPS Bennett over him HARD to the sand.",
+                    "Didascalie": "",
+                    "Start": 140740,
+                    "End": 140876
+                }
+            ]
+        },
+        {
+            "Character": "MATRIX AND JENNY 403",
+            "Replies": [
+                {
+                    "Reply": "Matrix limps away from the flames, Jenny rushes into his arms and he holds her close. She's crying.",
+                    "Didascalie": "",
+                    "Start": 143418,
+                    "End": 143528
                 }
             ]
         },

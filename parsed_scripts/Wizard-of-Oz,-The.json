@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Wizard of Oz, The",
-        "   "
-    ],
+    "Title": "Wizard of Oz, The",
     "Author": [
-        "\u00a0\u00a0Noel Langley\u00a0\u00a0Florence Ryerson\u00a0\u00a0Edgar Allen Woolf"
+        "Noel Langley",
+        "Florence Ryerson",
+        "Edgar Allen Woolf"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Family\u00a0\u00a0Fantasy\u00a0\u00a0Musical"
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Musical"
     ],
     "Characters": [
         {
@@ -2906,17 +2908,6 @@
                     "Didascalie": "(sing)",
                     "Start": 52469,
                     "End": 52554
-                }
-            ]
-        },
-        {
-            "Character": "A MUNCHKIN",
-            "Replies": [
-                {
-                    "Reply": "And oh, what happened then was rich!",
-                    "Didascalie": "",
-                    "Start": 43492,
-                    "End": 43529
                 }
             ]
         },

@@ -1,26 +1,15 @@
 {
-    "Title": [
-        "Analyze This",
-        "   "
-    ],
+    "Title": "Analyze This",
     "Author": [
-        "\u00a0\u00a0Peter Tolan\u00a0\u00a0Harold Ramis\u00a0\u00a0Kenneth Lonergan"
+        "Peter Tolan",
+        "Harold Ramis",
+        "Kenneth Lonergan"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
-        {
-            "Character": "DOMINIC MANETTA",
-            "Replies": [
-                {
-                    "Reply": "a man in his 70s, narrates nostalgically OVER a MONTAGE of related news photos.",
-                    "Didascalie": "",
-                    "Start": 373,
-                    "End": 457
-                }
-            ]
-        },
         {
             "Character": "MANETTA",
             "Replies": [

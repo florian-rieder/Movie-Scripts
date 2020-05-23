@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Excalibur",
-        "   "
-    ],
+    "Title": "Excalibur",
     "Author": [
-        "\u00a0\u00a0Rospo Pallenberg\u00a0\u00a0John Boorman"
+        "Rospo Pallenberg",
+        "John Boorman"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Adventure",
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Wall Street",
-        "   "
-    ],
+    "Title": "Wall Street",
     "Author": [
-        "\u00a0\u00a0Stanley Weiser\u00a0\u00a0Oliver Stone"
+        "Stanley Weiser",
+        "Oliver Stone"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {

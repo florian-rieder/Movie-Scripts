@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Orphan",
-        "   "
-    ],
+    "Title": "Orphan",
     "Author": [
-        "\u00a0\u00a0David Leslie Johnson"
+        "David Leslie Johnson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Mystery"
+        "Drama",
+        "Horror",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -4273,6 +4272,17 @@
                     "Didascalie": "",
                     "Start": 184901,
                     "End": 185040
+                }
+            ]
+        },
+        {
+            "Character": "ESTHER 4",
+            "Replies": [
+                {
+                    "Reply": "Hello, darling.",
+                    "Didascalie": "",
+                    "Start": 193125,
+                    "End": 193141
                 }
             ]
         },

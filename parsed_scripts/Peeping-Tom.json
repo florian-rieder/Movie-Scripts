@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Peeping Tom",
-        "   "
-    ],
+    "Title": "Peeping Tom",
     "Author": [
-        "\u00a0\u00a0Leo Marks"
+        "Leo Marks"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -6699,6 +6698,28 @@
                     "Didascalie": "",
                     "Start": 241812,
                     "End": 242011
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 1",
+            "Replies": [
+                {
+                    "Reply": "I hear they're making an arrest today.",
+                    "Didascalie": "",
+                    "Start": 245072,
+                    "End": 245137
+                }
+            ]
+        },
+        {
+            "Character": "VOICE 2",
+            "Replies": [
+                {
+                    "Reply": "hope it's D.J. It's about time they caught up with him!",
+                    "Didascalie": "",
+                    "Start": 245208,
+                    "End": 245290
                 }
             ]
         },

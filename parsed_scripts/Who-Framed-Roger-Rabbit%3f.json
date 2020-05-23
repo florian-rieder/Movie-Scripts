@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "Who Framed Roger Rabbit?",
-        "   "
-    ],
+    "Title": "Who Framed Roger Rabbit?",
     "Author": [
-        "\u00a0\u00a0Jeffrey Price\u00a0\u00a0Peter S. Seaman"
+        "Jeffrey Price",
+        "Peter S. Seaman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Animation\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Family\u00a0\u00a0Fantasy\u00a0\u00a0Thriller"
+        "Action",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Fantasy",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3016,17 +3020,6 @@
             ]
         },
         {
-            "Character": "A BILLBOARD SIGN",
-            "Replies": [
-                {
-                    "Reply": "It reads:  \"L.A.'s Pacific and Electric Red Car -- America's Finest Public Transportation System\".  PAN DOWN to see that the sign is on the roof of the trolley terminal.  Red Cars are going in and out of the shed.  MOVE IN on one car approaching the terminal from down the street.  As it passes by...",
-                    "Didascalie": "",
-                    "Start": 15972,
-                    "End": 16298
-                }
-            ]
-        },
-        {
             "Character": "KID",
             "Replies": [
                 {
@@ -4665,17 +4658,6 @@
             ]
         },
         {
-            "Character": "A LITTLE KID",
-            "Replies": [
-                {
-                    "Reply": "wearing a baseball cap is sitting a few seats away with his MOTHER.  The Kid looks back at Eddie and laughs.  He leans over and whispers something to his Mom.",
-                    "Didascalie": "",
-                    "Start": 106685,
-                    "End": 106854
-                }
-            ]
-        },
-        {
             "Character": "MOMMY",
             "Replies": [
                 {
@@ -4931,17 +4913,6 @@
             ]
         },
         {
-            "Character": "A DARK ALLEY",
-            "Replies": [
-                {
-                    "Reply": "Warily, Valiant walks into the alley, gun drawn.  There's a NOISE behind the garbage cans.  Valiant turns as a DEAD BODY with a knife in his back falls out of the shadows at Valiant's feet.  A SQUEAKY VOICE comes from behind Valiant.",
-                    "Didascalie": "",
-                    "Start": 164371,
-                    "End": 164620
-                }
-            ]
-        },
-        {
             "Character": "EDDIE AND JESSICA",
             "Replies": [
                 {
@@ -4994,17 +4965,6 @@
                     "Didascalie": "",
                     "Start": 202478,
                     "End": 202884
-                }
-            ]
-        },
-        {
-            "Character": "A TOON COP",
-            "Replies": [
-                {
-                    "Reply": "dressed in blue uniform and hat with his back to us tries to restore order in the Acme factory.  As soon as he talks, we recognize the stutter.  It's PORKY PIG.",
-                    "Didascalie": "",
-                    "Start": 209177,
-                    "End": 209348
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Rust and Bone",
-        "   "
-    ],
+    "Title": "Rust and Bone",
     "Author": [
-        "\u00a0\u00a0Jacques Audiard\u00a0\u00a0Thomas Bidegain"
+        "Jacques Audiard",
+        "Thomas Bidegain"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5104,6 +5103,17 @@
                     "Didascalie": "",
                     "Start": 140057,
                     "End": 140067
+                }
+            ]
+        },
+        {
+            "Character": "HOMEBOY 1",
+            "Replies": [
+                {
+                    "Reply": "Who's she?",
+                    "Didascalie": "",
+                    "Start": 89490,
+                    "End": 89501
                 }
             ]
         },

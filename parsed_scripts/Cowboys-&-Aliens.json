@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Cowboys & Aliens",
-        "   "
-    ],
+    "Title": "Cowboys & Aliens",
     "Author": [
-        "\u00a0\u00a0Alex Kurtzman\u00a0\u00a0Roberto Orci\u00a0\u00a0Damon Lindelof"
+        "Alex Kurtzman",
+        "Roberto Orci",
+        "Damon Lindelof"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4837,17 +4838,6 @@
                     "Didascalie": "",
                     "Start": 203593,
                     "End": 203614
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Nat?",
-                    "Didascalie": "",
-                    "Start": 211393,
-                    "End": 211398
                 }
             ]
         },

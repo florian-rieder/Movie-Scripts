@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Under Fire",
-        "   "
-    ],
+    "Title": "Under Fire",
     "Author": [
-        "\u00a0\u00a0Clayton Frohman\u00a0\u00a0Ron Shelton"
+        "Clayton Frohman",
+        "Ron Shelton"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -3696,6 +3694,17 @@
                     "Didascalie": "",
                     "Start": 228483,
                     "End": 228514
+                }
+            ]
+        },
+        {
+            "Character": "NICARAGUA 1979",
+            "Replies": [
+                {
+                    "Reply": "by three Catholic PRIESTS in bright robes, followed by a sound truck with P.A. system, followed by hundreds of townspeople carrying banana leaves and religious signs. All are singing a Catholic hymn in a swaying, hypnotic rhythm. Small red and black flags are scattered throughout.",
+                    "Didascalie": "",
+                    "Start": 31587,
+                    "End": 31933
                 }
             ]
         },

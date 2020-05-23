@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Ninja Assassin",
-        "   "
-    ],
+    "Title": "Ninja Assassin",
     "Author": [
-        "\u00a0\u00a0Matthew Sand\u00a0\u00a0J. Michael Straczynski"
+        "Matthew Sand",
+        "J. Michael Straczynski"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2448,12 +2449,6 @@
                     "End": 190868
                 },
                 {
-                    "Reply": "119   CONTINUED:                                                119  She cannot see him.",
-                    "Didascalie": "",
-                    "Start": 191567,
-                    "End": 191662
-                },
-                {
                     "Reply": "Where is he?   I can't see him!",
                     "Didascalie": "",
                     "Start": 192040,
@@ -3772,6 +3767,17 @@
                     "Didascalie": "",
                     "Start": 152679,
                     "End": 152709
+                }
+            ]
+        },
+        {
+            "Character": "EUROPOL AGENT 2",
+            "Replies": [
+                {
+                    "Reply": "Don't see shit--",
+                    "Didascalie": "",
+                    "Start": 151042,
+                    "End": 151059
                 }
             ]
         },

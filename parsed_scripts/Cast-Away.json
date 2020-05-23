@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Cast Away",
-        "   "
-    ],
+    "Title": "Cast Away",
     "Author": [
-        "\u00a0\u00a0William Broyles Jr."
+        "William Broyles Jr."
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3815,6 +3813,17 @@
                     "Didascalie": "",
                     "Start": 51165,
                     "End": 51181
+                }
+            ]
+        },
+        {
+            "Character": "CONTROLLER 2",
+            "Replies": [
+                {
+                    "Reply": "Somewhere east of Port Moresby.  Guam is getting a signal but no location.  Maybe the GPS is out.",
+                    "Didascalie": "",
+                    "Start": 51278,
+                    "End": 51396
                 }
             ]
         },

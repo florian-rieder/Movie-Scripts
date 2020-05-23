@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Change-Up, The",
-        "   "
-    ],
+    "Title": "Change-Up, The",
     "Author": [
-        "\u00a0\u00a0Jon Lucas\u00a0\u00a0Scott Moore"
+        "Jon Lucas",
+        "Scott Moore"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -2535,17 +2533,6 @@
                     "Didascalie": "",
                     "Start": 182212,
                     "End": 182221
-                }
-            ]
-        },
-        {
-            "Character": "VOICE ON PHONE",
-            "Replies": [
-                {
-                    "Reply": "YES, MY DOUCHEBAG EXPLODED THIS  MORNING AND I'D LIKE TO SUE--!",
-                    "Didascalie": "",
-                    "Start": 8996,
-                    "End": 9070
                 }
             ]
         },
@@ -6210,29 +6197,6 @@
             ]
         },
         {
-            "Character": "A NECKTIE--",
-            "Replies": [
-                {
-                    "Reply": "Black -- not white -- socks--",
-                    "Didascalie": "(holding up socks)",
-                    "Start": 110082,
-                    "End": 110123
-                },
-                {
-                    "Reply": "Dress shoes, not shower sandals--",
-                    "Didascalie": "(holding up dress shoes)",
-                    "Start": 110157,
-                    "End": 110202
-                },
-                {
-                    "Reply": "And underwear.",
-                    "Didascalie": "(holding up boxers)",
-                    "Start": 110231,
-                    "End": 110257
-                }
-            ]
-        },
-        {
             "Character": "SABRINA",
             "Replies": [
                 {
@@ -6552,17 +6516,6 @@
                     "Didascalie": "",
                     "Start": 165823,
                     "End": 165842
-                }
-            ]
-        },
-        {
-            "Character": "A DEAFENING THUNDER-CLAP",
-            "Replies": [
-                {
-                    "Reply": "RAIN blankets Los Angeles that night. It's an epic storm...",
-                    "Didascalie": "",
-                    "Start": 172914,
-                    "End": 172974
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Blade",
-        "   "
-    ],
+    "Title": "Blade",
     "Author": [
-        "\u00a0\u00a0David S. Goyer"
+        "David S. Goyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1009,17 +1008,6 @@
                     "Didascalie": "",
                     "Start": 7015,
                     "End": 7035
-                }
-            ]
-        },
-        {
-            "Character": "A STAIRWELL",
-            "Replies": [
-                {
-                    "Reply": "We are in the basement now. At the end of the hall is a steel door, with perhaps, just the faintest HINT OF MUSIC heard coming from beyond. Raquel knocks.",
-                    "Didascalie": "",
-                    "Start": 4051,
-                    "End": 4208
                 }
             ]
         },
@@ -3008,39 +2996,6 @@
             ]
         },
         {
-            "Character": "A LARGE TANK",
-            "Replies": [
-                {
-                    "Reply": "filled with swirling blood plasma, choked with electrical leads and biomedical sensors. SOMETHING floats within, suspended in the murky fluid -- a child , two or three years of age, drifting about like a medical oddity preserved in formaldehyde --  THUMP! The child SLAMS up against the glass. Karen backpedals, startled. Its eyes are open now, pupils blown. It snarls, revealing a mouthful of razored fangs, trailing mouth-slime across the glass as it futilely tries to chew its way through to Karen.",
-                    "Didascalie": "",
-                    "Start": 33240,
-                    "End": 33750
-                }
-            ]
-        },
-        {
-            "Character": "A SHAFT OF BRIGHT SUNLIGHT",
-            "Replies": [
-                {
-                    "Reply": "streams in through a window. Karen forces herself to look at it and winces, shielding her eyes. Again, she brings a hand to the bandaged wound on her neck. She moves to the window, pulling the shade down, frightened.",
-                    "Didascalie": "",
-                    "Start": 42905,
-                    "End": 43125
-                }
-            ]
-        },
-        {
-            "Character": "A BRIEF FLASH OF",
-            "Replies": [
-                {
-                    "Reply": "Quinn, his mouth opening wide, saliva dripping from his fangs. His pupils pulsating hypnotically. We rush into his gaping maw and --",
-                    "Didascalie": "",
-                    "Start": 43326,
-                    "End": 43460
-                }
-            ]
-        },
-        {
             "Character": "GIDEON",
             "Replies": [
                 {
@@ -3447,28 +3402,6 @@
             ]
         },
         {
-            "Character": "A SHARP VIEW-CAMCORDER",
-            "Replies": [
-                {
-                    "Reply": "resting nearby, labeled, \"PLAY ME\". Blade reaches for the camcorder, cues the tape -- Frost's face appears on the tiny built-in screen.",
-                    "Didascalie": "",
-                    "Start": 110081,
-                    "End": 110218
-                }
-            ]
-        },
-        {
-            "Character": "A THIRD VAMPIRE",
-            "Replies": [
-                {
-                    "Reply": "leaps at him. Blade spins, flipping the vampire over his shoulder, sending him straight through one of the other windows --",
-                    "Didascalie": "",
-                    "Start": 116450,
-                    "End": 116575
-                }
-            ]
-        },
-        {
             "Character": "VAMPIRE",
             "Replies": [
                 {
@@ -3539,17 +3472,6 @@
             ]
         },
         {
-            "Character": "A TRIO OF BLACK-CLAD VAMPIRES",
-            "Replies": [
-                {
-                    "Reply": "led by Mercury step from the shadows where they'd been waiting all along. They're armed with tasers which they fire en masse --",
-                    "Didascalie": "",
-                    "Start": 118890,
-                    "End": 119019
-                }
-            ]
-        },
-        {
             "Character": "HEAPS OF HUMAN BONES",
             "Replies": [
                 {
@@ -3589,17 +3511,6 @@
             ]
         },
         {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "the sanctuary in full. A large circular chamber, the perimeter of which is lined with recessed alcoves housing the remains of the vampire ancients, set into the sanctuary walls like cells in a hive.",
-                    "Didascalie": "",
-                    "Start": 135473,
-                    "End": 135674
-                }
-            ]
-        },
-        {
             "Character": "CUTTING BACK AND FORTH NOW",
             "Replies": [
                 {
@@ -3607,17 +3518,6 @@
                     "Didascalie": "",
                     "Start": 140595,
                     "End": 140758
-                }
-            ]
-        },
-        {
-            "Character": "A DROPLET OF BLOOD",
-            "Replies": [
-                {
-                    "Reply": "spatters the floor at Blade's feet. Blade looks up --",
-                    "Didascalie": "",
-                    "Start": 147671,
-                    "End": 147725
                 }
             ]
         }

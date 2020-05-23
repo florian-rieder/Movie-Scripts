@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Hitchcock",
-        "   "
-    ],
+    "Title": "Hitchcock",
     "Author": [
-        "\u00a0\u00a0John J. McLaughlin\u00a0\u00a0Stephen Rebello"
+        "John J. McLaughlin",
+        "Stephen Rebello"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -221,12 +219,6 @@
                     "End": 2621
                 },
                 {
-                    "Reply": "CONTINUED:   He takes a sip and turns to address the camera --",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 2710,
-                    "End": 2859
-                },
-                {
                     "Reply": "Good evening.",
                     "Didascalie": "",
                     "Start": 2939,
@@ -279,12 +271,6 @@
                     "Didascalie": "",
                     "Start": 7189,
                     "End": 7197
-                },
-                {
-                    "Reply": "CONTINUED:   The reporters crack up. Alma manages a polite smile as Lew helps her into the limo, leaving Hitchcock alone for a moment to sign his autograph for the blond fan...",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 7338,
-                    "End": 7621
                 },
                 {
                     "Reply": "Talking of arrows, did you read Mr.",
@@ -767,12 +753,6 @@
                     "End": 73339
                 },
                 {
-                    "Reply": "CONTINUED:   Hitch's calmness is strangely reassuring to the young actor...",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 73480,
-                    "End": 73652
-                },
-                {
                     "Reply": "Try to remember this is all just make believe.",
                     "Didascalie": "",
                     "Start": 74209,
@@ -881,12 +861,6 @@
                     "End": 86994
                 },
                 {
-                    "Reply": "CONTINUED:   She turns back to him.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 87083,
-                    "End": 87205
-                },
-                {
                     "Reply": "Ed! Ed!",
                     "Didascalie": "",
                     "Start": 89091,
@@ -897,12 +871,6 @@
                     "Didascalie": "",
                     "Start": 89423,
                     "End": 89436
-                },
-                {
-                    "Reply": "CONTINUED:   It takes a moment to get his bearings.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 89551,
-                    "End": 89689
                 },
                 {
                     "Reply": "Am I making a mistake?",
@@ -1089,12 +1057,6 @@
                     "Didascalie": "",
                     "Start": 116489,
                     "End": 116510
-                },
-                {
-                    "Reply": "CONTINUED:   But Hitch doesn't move.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 116625,
-                    "End": 116748
                 },
                 {
                     "Reply": "Was there a line at the market?",
@@ -1349,12 +1311,6 @@
                     "End": 150220
                 },
                 {
-                    "Reply": "CONTINUED:   He can't get the net into the inflow filter so he gets down on his hands and knees and starts PULLING OUT the leaves with his hands.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 150335,
-                    "End": 150587
-                },
-                {
                     "Reply": "What's the hold-up? Call time was two hours ago.",
                     "Didascalie": "",
                     "Start": 151940,
@@ -1485,12 +1441,6 @@
                     "Didascalie": "",
                     "Start": 168708,
                     "End": 168772
-                },
-                {
-                    "Reply": "CONTINUED:   She pushes him back against the pillows. He's too weak to resist.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 168861,
-                    "End": 169036
                 },
                 {
                     "Reply": "What do you mean?",
@@ -2001,12 +1951,6 @@
                     "End": 48270
                 },
                 {
-                    "Reply": "CONTINUED:   Hitch doesn't respond, Lew sensing the true depth of his friend's melancholy.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 48411,
-                    "End": 48598
-                },
-                {
                     "Reply": "How much do you think you can make this picture for?",
                     "Didascalie": "",
                     "Start": 48669,
@@ -2279,12 +2223,6 @@
                     "End": 27732
                 },
                 {
-                    "Reply": "CONTINUED:   She comes back in again carrying some galleys, notices the title of Hitch's book -- some trash called \"Psycho.\"",
-                    "Didascalie": "(O.S.) (CONTINUED)",
-                    "Start": 27847,
-                    "End": 28068
-                },
-                {
                     "Reply": "Whit gave me the galleys of his new book yesterday at lunch. I've already got some ideas on how you could adapt it.",
                     "Didascalie": "",
                     "Start": 28145,
@@ -2421,12 +2359,6 @@
                     "Didascalie": "",
                     "Start": 59428,
                     "End": 59486
-                },
-                {
-                    "Reply": "CONTINUED:   The Accountant takes off his glasses, plucking up the courage to look his favorite client in the eye.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 59575,
-                    "End": 59786
                 },
                 {
                     "Reply": "Where do you suggest we cut?",
@@ -2697,12 +2629,6 @@
                     "Didascalie": "",
                     "Start": 142957,
                     "End": 143013
-                },
-                {
-                    "Reply": "CONTINUED:   He gives her a rakish grin, then pushes the door open further to reveal the deck beyond.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 143154,
-                    "End": 143352
                 },
                 {
                     "Reply": "Dubrovnik.",
@@ -2979,12 +2905,6 @@
                     "Didascalie": "",
                     "Start": 195597,
                     "End": 195631
-                },
-                {
-                    "Reply": "CONTINUED:   Silence. This time he can't bring himself to look her in the eye.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 195720,
-                    "End": 195895
                 },
                 {
                     "Reply": "Well, it is only a house.",
@@ -3277,12 +3197,6 @@
                     "Didascalie": "",
                     "Start": 161932,
                     "End": 161942
-                },
-                {
-                    "Reply": "CONTINUED:   Peggy rushes forward to help. Perkins just stands and stares, as if paralysed in some Freudian nightmare.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 162031,
-                    "End": 162246
                 },
                 {
                     "Reply": "I know you told me only to call in an emergency, but I'm not sure how else to describe this.",
@@ -3637,12 +3551,6 @@
                     "End": 190780
                 },
                 {
-                    "Reply": "CONTINUED:   Alma tries to hide what a body blow this is.",
-                    "Didascalie": "(CONT'D) (CONTINUED)",
-                    "Start": 190869,
-                    "End": 191013
-                },
-                {
                     "Reply": "Alma -- you're incredibly talented. But, after all... we want him to read the script with an open mind.",
                     "Didascalie": "",
                     "Start": 191085,
@@ -3800,12 +3708,6 @@
                     "Didascalie": "",
                     "Start": 57191,
                     "End": 57222
-                },
-                {
-                    "Reply": "CONTINUED:   Hitchcock leaves Stefano's hand dangling in mid air and sits down at his desk.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 57311,
-                    "End": 57499
                 },
                 {
                     "Reply": "Sorry I was late. My shrink session ran overtime. I see him every day and it's still not enough.",
@@ -4047,12 +3949,6 @@
                     "Didascalie": "",
                     "Start": 96433,
                     "End": 96447
-                },
-                {
-                    "Reply": "CONTINUED:   His picks a tiny piece of lint on her sleeve.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 96562,
-                    "End": 96707
                 },
                 {
                     "Reply": "And we're about to move to a whole new neighborhood.",
@@ -4442,12 +4338,6 @@
                     "Didascalie": "",
                     "Start": 152493,
                     "End": 152517
-                },
-                {
-                    "Reply": "CONTINUED:   Neither woman looks convinced but they proceed with blind faith.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 152606,
-                    "End": 152780
                 }
             ]
         },
@@ -4520,17 +4410,6 @@
             ]
         },
         {
-            "Character": "TWO PAIRS OF FEET",
-            "Replies": [
-                {
-                    "Reply": "CONTINUED:   nesting in the sand. Alma and Whit sit out watching the surf.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 138780,
-                    "End": 138941
-                }
-            ]
-        },
-        {
             "Character": "TWO MAUVE CORONA TYPEWRITERS",
             "Replies": [
                 {
@@ -4538,17 +4417,6 @@
                     "Didascalie": "",
                     "Start": 143453,
                     "End": 143487
-                }
-            ]
-        },
-        {
-            "Character": "A SHOWER HEAD",
-            "Replies": [
-                {
-                    "Reply": "Unleashing a stream of STEAMING HOT WATER. The SET HAND gives the thumbs up.",
-                    "Didascalie": "",
-                    "Start": 151437,
-                    "End": 151524
                 }
             ]
         },
@@ -4571,17 +4439,6 @@
                     "Didascalie": "",
                     "Start": 158691,
                     "End": 158703
-                }
-            ]
-        },
-        {
-            "Character": "A TELEPHONE",
-            "Replies": [
-                {
-                    "Reply": "starts to ring.",
-                    "Didascalie": "",
-                    "Start": 162345,
-                    "End": 162361
                 }
             ]
         },
@@ -4656,17 +4513,6 @@
                     "Didascalie": "",
                     "Start": 174949,
                     "End": 174986
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL BOY",
-            "Replies": [
-                {
-                    "Reply": "at the foot of his mother's bed.",
-                    "Didascalie": "",
-                    "Start": 185730,
-                    "End": 185763
                 }
             ]
         },
@@ -4841,17 +4687,6 @@
                     "Didascalie": "",
                     "Start": 236141,
                     "End": 236220
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL BIRD",
-            "Replies": [
-                {
-                    "Reply": "Alights on his cigar tip and FLAPS its wings. Hitchcock can't resist blowing a sadistic plume of smoke at the bird which promptly flies away. He gives the camera a final characteristically deadpan look...",
-                    "Didascalie": "",
-                    "Start": 239217,
-                    "End": 239452
                 }
             ]
         }

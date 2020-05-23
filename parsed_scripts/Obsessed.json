@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Obsessed",
-        "   "
-    ],
+    "Title": "Obsessed",
     "Author": [
-        "\u00a0\u00a0David Loughery"
+        "David Loughery"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -324,12 +322,6 @@
                     "Didascalie": "",
                     "Start": 84257,
                     "End": 84324
-                },
-                {
-                    "Reply": "CONTINUED: She found out Tim's been having an affair with a neighbor and it's been going on for the last year and a half.",
-                    "Didascalie": "",
-                    "Start": 94435,
-                    "End": 94626
                 },
                 {
                     "Reply": "At first I couldn't even conceive of it.",
@@ -906,12 +898,6 @@
                     "Didascalie": "",
                     "Start": 231274,
                     "End": 231308
-                },
-                {
-                    "Reply": "CONTINUED: Now my child has been waiting too long.",
-                    "Didascalie": "",
-                    "Start": 231731,
-                    "End": 231805
                 },
                 {
                     "Reply": "It's Daddy...",
@@ -4905,12 +4891,6 @@
         {
             "Character": "REYES",
             "Replies": [
-                {
-                    "Reply": "CONTINUED: This girl you barely know, works in your office, fantasizes you're having an affair and when you reject her, she tries to commit suicide in your bed.",
-                    "Didascalie": "",
-                    "Start": 142214,
-                    "End": 142467
-                },
                 {
                     "Reply": "This affair...",
                     "Didascalie": "",

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Halloween: The Curse of Michael Myers",
-        "   "
-    ],
+    "Title": "Halloween: The Curse of Michael Myers",
     "Author": [
-        "\u00a0\u00a0Daniel Farrands"
+        "Daniel Farrands"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -575,28 +573,6 @@
                     "Didascalie": "",
                     "Start": 137616,
                     "End": 137656
-                }
-            ]
-        },
-        {
-            "Character": "MAIN TITLE SEQUENCE",
-            "Replies": [
-                {
-                    "Reply": "A diaphanous column rises, a ghostly, slow-motion cylinder of flame that BURNS through the SCREEN to form the MAIN TITLE:  HALLOWEEN 6  The OPENING CREDITS are BRANDED against the BLACK SCREEN by an invisible, kenetic force, interspersed with a SERIES OF CUTS:  Jamie's baby is lain upon a primitive altar.  Ringed by eleven stones engraved with cryptic markings.",
-                    "Didascalie": "",
-                    "Start": 4967,
-                    "End": 5340
-                }
-            ]
-        },
-        {
-            "Character": "A SIGN POST",
-            "Replies": [
-                {
-                    "Reply": "standing askew in a matted patch of lawn.  WIND and RAIN.  INTENSE FLASH of LIGHTNING illuminates:  \"For Sale By Strode Realty - SOLD\"",
-                    "Didascalie": "",
-                    "Start": 5871,
-                    "End": 6007
                 }
             ]
         },
@@ -2217,29 +2193,6 @@
                     "Didascalie": "",
                     "Start": 15878,
                     "End": 16042
-                }
-            ]
-        },
-        {
-            "Character": "END OF TUNNEL",
-            "Replies": [
-                {
-                    "Reply": "Jamie runs frantically.  Methodical, heavy FOOTSTEPS behind her. She chances a look behind.  The Shape is coming!",
-                    "Didascalie": "",
-                    "Start": 17131,
-                    "End": 17247
-                },
-                {
-                    "Reply": "Tommy, Kara and Danny reach the tunnel end.  Kara pounds frantically on the elevator panel.  A DEAFENING ROAR -- the SOUND of fire as the Shape sweeps toward them.",
-                    "Didascalie": "",
-                    "Start": 137672,
-                    "End": 137838
-                },
-                {
-                    "Reply": "Finally the doors open.  Kara and Tommy barrel inside.  Mashing buttons until the doors close -- a millisecond before the Shape reaches them.",
-                    "Didascalie": "",
-                    "Start": 137973,
-                    "End": 138116
                 }
             ]
         },

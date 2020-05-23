@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Youth in Revolt",
-        "   "
-    ],
+    "Title": "Youth in Revolt",
     "Author": [
-        "\u00a0\u00a0Gustin Nash"
+        "Gustin Nash"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

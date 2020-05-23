@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "50-50",
-        "   "
-    ],
+    "Title": "50-50",
     "Author": [
-        "\u00a0\u00a0Will Reiser"
+        "Will Reiser"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -305,12 +303,6 @@
                     "Didascalie": "",
                     "Start": 30258,
                     "End": 30502
-                },
-                {
-                    "Reply": "This is lame! I thought you said we were gonna see dinosaurs.",
-                    "Didascalie": "(CONT'D) (TO SETH)",
-                    "Start": 30595,
-                    "End": 30680
                 },
                 {
                     "Reply": "This is Homo Neanderthalensis - the Neanderthal Man. For over 150,000 years his ancestors dominated all of Europe. But then about 30,000 years ago, Neanderthals began to disappear, until one day, their entire civilization was gone.",
@@ -4542,6 +4534,23 @@
                     "Didascalie": "",
                     "Start": 88277,
                     "End": 88399
+                }
+            ]
+        },
+        {
+            "Character": "KID 1",
+            "Replies": [
+                {
+                    "Reply": "This is lame! I thought you said we were gonna see dinosaurs.",
+                    "Didascalie": "(TO SETH)",
+                    "Start": 30595,
+                    "End": 30680
+                },
+                {
+                    "Reply": "This sucks ass.",
+                    "Didascalie": "",
+                    "Start": 33752,
+                    "End": 33768
                 }
             ]
         },

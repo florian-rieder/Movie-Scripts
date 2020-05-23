@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Clerks",
-        "   "
-    ],
+    "Title": "Clerks",
     "Author": [
-        "\u00a0\u00a0Kevin Smith"
+        "Kevin Smith"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3067,12 +3065,6 @@
                     "End": 123352
                 },
                 {
-                    "Reply": "WHO THE FUCK IS IN THE BATHROOM?",
-                    "Didascalie": "(pause)",
-                    "Start": 123362,
-                    "End": 123398
-                },
-                {
                     "Reply": "I don't know. He just came in and asked to use the bathroom.",
                     "Didascalie": "",
                     "Start": 123774,
@@ -4282,12 +4274,6 @@
                     "End": 43515
                 },
                 {
-                    "Reply": "He's your cousin?",
-                    "Didascalie": "(to SILENT BOB)",
-                    "Start": 43545,
-                    "End": 43566
-                },
-                {
                     "Reply": "Check this out, he's from Russia.",
                     "Didascalie": "",
                     "Start": 43577,
@@ -4693,6 +4679,57 @@
                     "Didascalie": "",
                     "Start": 10461,
                     "End": 10474
+                }
+            ]
+        },
+        {
+            "Character": "LISTENER 1",
+            "Replies": [
+                {
+                    "Reply": "Forty.",
+                    "Didascalie": "",
+                    "Start": 10867,
+                    "End": 10874
+                },
+                {
+                    "Reply": "It's not that easy to quit.",
+                    "Didascalie": "",
+                    "Start": 11566,
+                    "End": 11594
+                }
+            ]
+        },
+        {
+            "Character": "LISTENER 2",
+            "Replies": [
+                {
+                    "Reply": "Fifty-three.",
+                    "Didascalie": "",
+                    "Start": 10892,
+                    "End": 10905
+                },
+                {
+                    "Reply": "Yeah, now shut up so he can speak!",
+                    "Didascalie": "(to DANTE)",
+                    "Start": 13006,
+                    "End": 13044
+                }
+            ]
+        },
+        {
+            "Character": "LISTENER 3",
+            "Replies": [
+                {
+                    "Reply": "We all gotta go sometime...",
+                    "Didascalie": "",
+                    "Start": 11116,
+                    "End": 11144
+                },
+                {
+                    "Reply": "Yeah!",
+                    "Didascalie": "",
+                    "Start": 13300,
+                    "End": 13306
                 }
             ]
         },
@@ -7785,6 +7822,88 @@
             ]
         },
         {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "Scumbag. What are you doing?",
+                    "Didascalie": "",
+                    "Start": 43415,
+                    "End": 43444
+                },
+                {
+                    "Reply": "He's your cousin?",
+                    "Didascalie": "(to SILENT BOB)",
+                    "Start": 43545,
+                    "End": 43566
+                },
+                {
+                    "Reply": "No way.",
+                    "Didascalie": "",
+                    "Start": 43625,
+                    "End": 43633
+                },
+                {
+                    "Reply": "He only speaks Russian?",
+                    "Didascalie": "",
+                    "Start": 44081,
+                    "End": 44105
+                },
+                {
+                    "Reply": "No way!",
+                    "Didascalie": "",
+                    "Start": 44315,
+                    "End": 44323
+                },
+                {
+                    "Reply": "What did he say?",
+                    "Didascalie": "",
+                    "Start": 44600,
+                    "End": 44617
+                },
+                {
+                    "Reply": "That doesn't sound metal.",
+                    "Didascalie": "",
+                    "Start": 44848,
+                    "End": 44874
+                },
+                {
+                    "Reply": "Did he say \"making fuck?\"",
+                    "Didascalie": "",
+                    "Start": 45436,
+                    "End": 45462
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 2",
+            "Replies": [
+                {
+                    "Reply": "What part of Russia?",
+                    "Didascalie": "",
+                    "Start": 43793,
+                    "End": 43814
+                },
+                {
+                    "Reply": "Is he staying here?",
+                    "Didascalie": "",
+                    "Start": 44198,
+                    "End": 44218
+                },
+                {
+                    "Reply": "He really wants to play metal?",
+                    "Didascalie": "",
+                    "Start": 44689,
+                    "End": 44720
+                },
+                {
+                    "Reply": "Does he sing in English or Russian?",
+                    "Didascalie": "",
+                    "Start": 45031,
+                    "End": 45067
+                }
+            ]
+        },
+        {
             "Character": "SILENT BOB",
             "Replies": [
                 {
@@ -9509,6 +9628,17 @@
                     "Didascalie": "",
                     "Start": 125920,
                     "End": 125970
+                }
+            ]
+        },
+        {
+            "Character": "ATTENDANT 1",
+            "Replies": [
+                {
+                    "Reply": "Can we take this now?",
+                    "Didascalie": "",
+                    "Start": 124519,
+                    "End": 124541
                 }
             ]
         },

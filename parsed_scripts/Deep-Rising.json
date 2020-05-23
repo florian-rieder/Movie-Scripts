@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Deep Rising",
-        "   "
-    ],
+    "Title": "Deep Rising",
     "Author": [
-        "\u00a0\u00a0Steven Sommers\u00a0\u00a0Robert Mark Kamen"
+        "Steven Sommers",
+        "Robert Mark Kamen"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3844,12 +3844,6 @@
         {
             "Character": "BOTH",
             "Replies": [
-                {
-                    "Reply": "YYYEEEAAAHHH!!!  With a last gargantuan effort, Finnegan yanks...Trillian comes tearing out of the webbing...the remnants of her gown doesn't...in the nick of time.  The tentacle rushes forward. Finnegan jams his pulse-rifle into the web and OPENS FIRE. Blasting the entire clip into the goo. Tearing the shit out of it. BAMBAMBAMBAMBAM!!!!!!  And that's when the whole ROOM starts to QUAKE. And SHAKE!",
-                    "Didascalie": "",
-                    "Start": 208579,
-                    "End": 209090
-                },
                 {
                     "Reply": "Joey!!",
                     "Didascalie": "",

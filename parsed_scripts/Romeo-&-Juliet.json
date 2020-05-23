@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Romeo & Juliet",
-        "   "
-    ],
+    "Title": "Romeo & Juliet",
     "Author": [
-        "\u00a0\u00a0William Shakespeare\u00a0\u00a0Craig Pearce\u00a0\u00a0Baz Luhrmann"
+        "William Shakespeare",
+        "Craig Pearce",
+        "Baz Luhrmann"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Crime",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

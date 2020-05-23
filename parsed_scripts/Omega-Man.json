@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Omega Man",
-        "   "
-    ],
+    "Title": "Omega Man",
     "Author": [
-        "\u00a0\u00a0John William Corrington"
+        "John William Corrington"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
     ],
-    "Characters": []
+    "Characters": "This script couldn't be parsed. Please check the original file's formatting, or add a special case in ScriptParser's _special_characters() method."
 }

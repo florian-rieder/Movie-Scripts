@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Judge Dredd",
-        "   "
-    ],
+    "Title": "Judge Dredd",
     "Author": [
-        "\u00a0\u00a0Steven E. de Souza"
+        "Steven E. de Souza"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Crime",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -1086,12 +1085,6 @@
                     "End": 20536
                 },
                 {
-                    "Reply": "4- BACK TO SCENE 47 Dredd turns, sees Reggie and another squatter charging at him from both sides.",
-                    "Didascalie": "",
-                    "Start": 21034,
-                    "End": 21153
-                },
-                {
                     "Reply": "Code 11-5C. Illegal possession of assault weapons. Five years.",
                     "Didascalie": "",
                     "Start": 22826,
@@ -1546,12 +1539,6 @@
                     "Didascalie": "(A PRAYER)",
                     "Start": 156039,
                     "End": 156063
-                },
-                {
-                    "Reply": "P1 EASEWORKPLEASEWORKPLEASEWORK--",
-                    "Didascalie": "",
-                    "Start": 156247,
-                    "End": 156281
                 },
                 {
                     "Reply": "Hershey. What is it - ?",
@@ -2603,6 +2590,17 @@
             ]
         },
         {
+            "Character": "CLOSE 60",
+            "Replies": [
+                {
+                    "Reply": "sma:: SEALED BOX with a THUMBCODE LOCK.",
+                    "Didascalie": "",
+                    "Start": 38822,
+                    "End": 38862
+                }
+            ]
+        },
+        {
             "Character": "COMPUTER VOICE",
             "Replies": [
                 {
@@ -2909,12 +2907,6 @@
                     "Didascalie": "",
                     "Start": 184759,
                     "End": 184827
-                },
-                {
-                    "Reply": "97 _  CONTINUED: 2F The robot grabs Griffin with its other hand. He's completely off the ground now.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 184864,
-                    "End": 185146
                 },
                 {
                     "Reply": "That's right, Griff. You gotta get with this hi-tech stuff. Robot: Tear off Judge Griffin's arms and legs. Save his head for last.",
@@ -3271,12 +3263,6 @@
                     "Didascalie": "",
                     "Start": 54528,
                     "End": 54556
-                },
-                {
-                    "Reply": "29  3 CONTINUED: F While Geiger gets it, Rico quickly scans the store. A simple security camera in the corner. A jumble of crates and large antique weapons... including a few things.that look like rusting metal warriors. Rico points to these.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 54593,
-                    "End": 55036
                 },
                 {
                     "Reply": "You can collect 'em if you make 'em non-functional. Like my wife.",
@@ -3908,17 +3894,6 @@
             ]
         },
         {
-            "Character": "A CANNED VOICE",
-            "Replies": [
-                {
-                    "Reply": "This terminal has been disconnected from the main system for a system check. You no longer .have access to the system. Thank you.",
-                    "Didascalie": "(NOT CENTRAL)",
-                    "Start": 107752,
-                    "End": 107923
-                }
-            ]
-        },
-        {
             "Character": "SHUTTLE RECORDING",
             "Replies": [
                 {
@@ -3948,28 +3923,6 @@
                     "Didascalie": "(X) (CONTINUED)",
                     "Start": 117648,
                     "End": 117789
-                }
-            ]
-        },
-        {
-            "Character": "IF",
-            "Replies": [
-                {
-                    "Reply": "WIDER 31-",
-                    "Didascalie": "",
-                    "Start": 210820,
-                    "End": 210830
-                }
-            ]
-        },
-        {
-            "Character": "OMITTED THZ",
-            "Replies": [
-                {
-                    "Reply": "10 95  OA MEGA-CITY STREET - NIGHT 190A A squad of Judges on Lawmasters ride into SHOT.",
-                    "Didascalie": "",
-                    "Start": 129783,
-                    "End": 129893
                 }
             ]
         },
@@ -4025,6 +3978,17 @@
                     "Didascalie": "",
                     "Start": 149880,
                     "End": 149908
+                }
+            ]
+        },
+        {
+            "Character": "WIDER 221",
+            "Replies": [
+                {
+                    "Reply": "Dredd takes Rico to the floor. They both roll over and over.",
+                    "Didascalie": "",
+                    "Start": 151501,
+                    "End": 151562
                 }
             ]
         },
@@ -4115,6 +4079,28 @@
                     "Didascalie": "",
                     "Start": 206658,
                     "End": 206829
+                }
+            ]
+        },
+        {
+            "Character": "D CLOSE AGAIN 312D",
+            "Replies": [
+                {
+                    "Reply": "Rico's almost as exhausted as Dredd. On the other hand...",
+                    "Didascalie": "",
+                    "Start": 209079,
+                    "End": 209137
+                }
+            ]
+        },
+        {
+            "Character": "WIDER 31-",
+            "Replies": [
+                {
+                    "Reply": "The SIGNAL FLARE ROUND FIRES, like a ROCKET! Rico, off-balance., is knocked backwards! He falls SCREAMING to his death!",
+                    "Didascalie": "",
+                    "Start": 210841,
+                    "End": 210972
                 }
             ]
         }

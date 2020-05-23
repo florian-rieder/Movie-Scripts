@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Her",
-        "   "
-    ],
+    "Title": "Her",
     "Author": [
-        "\u00a0\u00a0Spike Jonze"
+        "Spike Jonze"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Sci-Fi"
+        "Drama",
+        "Romance",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -71,12 +70,6 @@
                     "Didascalie": "",
                     "Start": 5780,
                     "End": 5802
-                },
-                {
-                    "Reply": "Her                                                         pg. 4 CONTINUED:  Melancholy song starts. Long beat.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 5869,
-                    "End": 5984
                 },
                 {
                     "Reply": "Play different melancholy song.",
@@ -679,12 +672,6 @@
                     "End": 42557
                 },
                 {
-                    "Reply": "Her                                                         pg. 27 CONTINUED:  Amy nods.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 42623,
-                    "End": 42716
-                },
-                {
                     "Reply": "No, that sounds good.",
                     "Didascalie": "",
                     "Start": 43264,
@@ -743,12 +730,6 @@
                     "Didascalie": "(still distracted)",
                     "Start": 46034,
                     "End": 46097
-                },
-                {
-                    "Reply": "Her                                                         pg. 29 CONTINUED:  We cut back to Theodore, walking down the hall, lost in thought.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 46162,
-                    "End": 46311
                 },
                 {
                     "Reply": "\"Dear Grandma, I hope you had a wonderful birthday cruise. Why are you so fucking angry at me?\"",
@@ -959,12 +940,6 @@
                     "Didascalie": "",
                     "Start": 58722,
                     "End": 58896
-                },
-                {
-                    "Reply": "Her                                                        pg. 37 CONTINUED:  He laughs at himself. She laughs flirtatiously. She grabs his hand and her fingernails press slightly into his skin. He studies her long, painted fingernails.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 58961,
-                    "End": 59204
                 },
                 {
                     "Reply": "Umm... tiger?",
@@ -1709,12 +1684,6 @@
                     "Didascalie": "(smiling)",
                     "Start": 104746,
                     "End": 104870
-                },
-                {
-                    "Reply": "Her                                                         pg. 64 CONTINUED:  She laughs.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 104936,
-                    "End": 105031
                 },
                 {
                     "Reply": "It's marked where you need to sign, but you don't have to do that right now.",
@@ -2680,6 +2649,34 @@
                     "Didascalie": "",
                     "Start": 3072,
                     "End": 3253
+                }
+            ]
+        },
+        {
+            "Character": "LETTER WRITER 2",
+            "Replies": [
+                {
+                    "Reply": "What a beautiful wedding and what a gorgeous bride. There wasn't a dry eye in the house, especially mine.",
+                    "Didascalie": "",
+                    "Start": 3438,
+                    "End": 3572
+                },
+                {
+                    "Reply": "Love, Uncle Doug.",
+                    "Didascalie": "",
+                    "Start": 4238,
+                    "End": 4256
+                }
+            ]
+        },
+        {
+            "Character": "LETTER WRITER 3",
+            "Replies": [
+                {
+                    "Reply": "He served our country with honor and dignity. I'm grateful I was able to fight along side him. He will live always in my heart.",
+                    "Didascalie": "",
+                    "Start": 3773,
+                    "End": 3943
                 }
             ]
         },

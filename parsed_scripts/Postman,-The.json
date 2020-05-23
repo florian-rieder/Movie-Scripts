@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Postman, The",
-        "   "
-    ],
+    "Title": "Postman, The",
     "Author": [
-        "\u00a0\u00a0Brian Helgeland\u00a0\u00a0Eric Roth"
+        "Brian Helgeland",
+        "Eric Roth"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -3112,17 +3113,6 @@
                     "Didascalie": "",
                     "Start": 164189,
                     "End": 164217
-                }
-            ]
-        },
-        {
-            "Character": "SOUTH END OF BOULEVARD",
-            "Replies": [
-                {
-                    "Reply": "Ponytail leads Abby and The Postman. They come up in the back of the crowd. Flanked by Red and Chubby, Ford stands on the hood of a car, letter in hand. The Postman taps a clueless YOUNG CARRIER on the back.",
-                    "Didascalie": "",
-                    "Start": 162132,
-                    "End": 162355
                 }
             ]
         },

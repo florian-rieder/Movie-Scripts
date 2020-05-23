@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Departed, The",
-        "   "
-    ],
+    "Title": "Departed, The",
     "Author": [
-        "\u00a0\u00a0William Monahan"
+        "William Monahan"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -7352,6 +7351,135 @@
                     "Didascalie": "",
                     "Start": 244220,
                     "End": 244245
+                }
+            ]
+        },
+        {
+            "Character": "DETECTIVE 1",
+            "Replies": [
+                {
+                    "Reply": "Can I ask a question, Sergeant?",
+                    "Didascalie": "",
+                    "Start": 251955,
+                    "End": 251987
+                },
+                {
+                    "Reply": "Who says I have delicate sensibilities?",
+                    "Didascalie": "",
+                    "Start": 252900,
+                    "End": 252963
+                },
+                {
+                    "Reply": "Copy that, Sarge  The detectives in the car get alert and start their car as QUEENAN comes out of the building.",
+                    "Didascalie": "",
+                    "Start": 253255,
+                    "End": 253397
+                },
+                {
+                    "Reply": "We got him.",
+                    "Didascalie": "",
+                    "Start": 253485,
+                    "End": 253497
+                },
+                {
+                    "Reply": "He went into a building on the waterfront. Address is 344 Wash...",
+                    "Didascalie": "",
+                    "Start": 257008,
+                    "End": 257094
+                },
+                {
+                    "Reply": "He went to the top floor. It's empty. No tenants.",
+                    "Didascalie": "",
+                    "Start": 257322,
+                    "End": 257392
+                },
+                {
+                    "Reply": "I don't know what we're doing here.",
+                    "Didascalie": "",
+                    "Start": 257750,
+                    "End": 257786
+                },
+                {
+                    "Reply": "What the fuck is going on?",
+                    "Didascalie": "",
+                    "Start": 262832,
+                    "End": 262859
+                },
+                {
+                    "Reply": "Fuck!   Something came off the roof.",
+                    "Didascalie": "",
+                    "Start": 265909,
+                    "End": 265946
+                },
+                {
+                    "Reply": "Stay in the fucking car. Stay in the fucking car. This is a surveillance unit.",
+                    "Didascalie": "",
+                    "Start": 267193,
+                    "End": 267318
+                },
+                {
+                    "Reply": "Do I pursue.",
+                    "Didascalie": "(into mic to Colin)",
+                    "Start": 267364,
+                    "End": 267401
+                },
+                {
+                    "Reply": "I'm not sure.",
+                    "Didascalie": "",
+                    "Start": 267796,
+                    "End": 267810
+                },
+                {
+                    "Reply": "No pursuit. No pursuit.",
+                    "Didascalie": "",
+                    "Start": 267972,
+                    "End": 267996
+                },
+                {
+                    "Reply": "Fuck that.",
+                    "Didascalie": "",
+                    "Start": 268087,
+                    "End": 268098
+                }
+            ]
+        },
+        {
+            "Character": "DETECTIVE 2",
+            "Replies": [
+                {
+                    "Reply": "Why the fuck are we following Captain Queenan? To find out about the good Catholic life?",
+                    "Didascalie": "",
+                    "Start": 252154,
+                    "End": 252289
+                },
+                {
+                    "Reply": "Sarge, we got the target.",
+                    "Didascalie": "",
+                    "Start": 253576,
+                    "End": 253602
+                },
+                {
+                    "Reply": "Holy fucking shit. Looks like Queenan's meeting with all of them.",
+                    "Didascalie": "",
+                    "Start": 262938,
+                    "End": 263027
+                }
+            ]
+        },
+        {
+            "Character": "DETECTIVE 4",
+            "Replies": [
+                {
+                    "Reply": "Thirty-two X to CP. Thirty-two X to CP. We're being fired upon. I repeat.",
+                    "Didascalie": "",
+                    "Start": 268525,
+                    "End": 268645
+                },
+                {
+                    "Reply": "We have an officer down. An officer has been shot. Request immediate assistance.",
+                    "Didascalie": "",
+                    "Start": 268993,
+                    "End": 269114
                 }
             ]
         },

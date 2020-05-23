@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Perfect Creature",
-        "   "
-    ],
+    "Title": "Perfect Creature",
     "Author": [
-        "\u00a0\u00a0Glenn Standring"
+        "Glenn Standring"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -2229,6 +2230,17 @@
             ]
         },
         {
+            "Character": "POLICEMAN 1",
+            "Replies": [
+                {
+                    "Reply": "Now he wont talk. Didn't see anything.",
+                    "Didascalie": "",
+                    "Start": 37435,
+                    "End": 37483
+                }
+            ]
+        },
+        {
             "Character": "ANDERSON",
             "Replies": [
                 {
@@ -2735,6 +2747,28 @@
             ]
         },
         {
+            "Character": "CONSOLE OPERATOR 1",
+            "Replies": [
+                {
+                    "Reply": "I don't like it when he does that.",
+                    "Didascalie": "",
+                    "Start": 88039,
+                    "End": 88074
+                }
+            ]
+        },
+        {
+            "Character": "CONSOLE OPERATOR 2",
+            "Replies": [
+                {
+                    "Reply": "You stop that or we'll use the gas!",
+                    "Didascalie": "",
+                    "Start": 88205,
+                    "End": 88241
+                }
+            ]
+        },
+        {
             "Character": "CONSOLE OPERATOR",
             "Replies": [
                 {
@@ -2973,6 +3007,47 @@
                     "Didascalie": "",
                     "Start": 142208,
                     "End": 142310
+                }
+            ]
+        },
+        {
+            "Character": "PRIEST 2",
+            "Replies": [
+                {
+                    "Reply": "Who has done this, Brother?",
+                    "Didascalie": "",
+                    "Start": 155402,
+                    "End": 155430
+                },
+                {
+                    "Reply": "I have something to show you.",
+                    "Didascalie": "",
+                    "Start": 155840,
+                    "End": 155870
+                },
+                {
+                    "Reply": "It is a miracle my Brother. She is a female, the first of our kind.",
+                    "Didascalie": "",
+                    "Start": 156446,
+                    "End": 156528
+                },
+                {
+                    "Reply": "The first female of her kind. The first daughter given to us.",
+                    "Didascalie": "",
+                    "Start": 172396,
+                    "End": 172471
+                },
+                {
+                    "Reply": "Come. Before they find her.",
+                    "Didascalie": "(continuing)",
+                    "Start": 173031,
+                    "End": 173073
+                },
+                {
+                    "Reply": "We must go.",
+                    "Didascalie": "",
+                    "Start": 173496,
+                    "End": 173508
                 }
             ]
         }

@@ -1,26 +1,12 @@
 {
-    "Title": [
-        "Ferris Bueller's Day Off",
-        "   "
-    ],
+    "Title": "Ferris Bueller's Day Off",
     "Author": [
-        "\u00a0\u00a0John Hughes"
+        "John Hughes"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
-        {
-            "Character": "MAIN TITLES",
-            "Replies": [
-                {
-                    "Reply": "IT'S SILENT. A BEAT...AND AN EXPLOSION OF SOUND.  A HOUSEHOLD IN THE MORNING. KIDS GETTING READY FOR SCHOOL. CLOCK RADIOS.",
-                    "Didascalie": "",
-                    "Start": 341,
-                    "End": 469
-                }
-            ]
-        },
         {
             "Character": "SEVEN YEAR OLD BOY",
             "Replies": [
@@ -3498,6 +3484,17 @@
                     "Didascalie": "",
                     "Start": 193063,
                     "End": 193085
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 1",
+            "Replies": [
+                {
+                    "Reply": "Mrs. Volbeck's dead set against putting any money into the house.",
+                    "Didascalie": "",
+                    "Start": 33692,
+                    "End": 33773
                 }
             ]
         },

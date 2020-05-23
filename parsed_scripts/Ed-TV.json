@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Ed TV",
-        "   "
-    ],
+    "Title": "Ed TV",
     "Author": [
-        "\u00a0\u00a0Emile Gaudreault\u00a0\u00a0Sylvie Bochard"
+        "Emile Gaudreault",
+        "Sylvie Bochard"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -5549,17 +5547,6 @@
             ]
         },
         {
-            "Character": "A CRAWL BEGINS",
-            "Replies": [
-                {
-                    "Reply": "It says \"The following is unedited, unscripted, and unrehearsed. It is the real life of one American citizen named Ed Pekurny.\"",
-                    "Didascalie": "",
-                    "Start": 28981,
-                    "End": 29110
-                }
-            ]
-        },
-        {
             "Character": "JEANETTE",
             "Replies": [
                 {
@@ -6496,17 +6483,6 @@
                     "Didascalie": "",
                     "Start": 75747,
                     "End": 75872
-                }
-            ]
-        },
-        {
-            "Character": "A PHONE RINGS",
-            "Replies": [
-                {
-                    "Reply": "Ed takes a phone out of his pocket.",
-                    "Didascalie": "",
-                    "Start": 76918,
-                    "End": 76954
                 }
             ]
         },

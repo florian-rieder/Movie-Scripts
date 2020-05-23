@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Sister Act",
-        "   "
-    ],
+    "Title": "Sister Act",
     "Author": [
-        "\u00a0\u00a0Paul Rudnick"
+        "Paul Rudnick"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Musical"
+        "Comedy",
+        "Crime",
+        "Musical"
     ],
     "Characters": [
         {
@@ -5994,17 +5993,6 @@
                     "Didascalie": "",
                     "Start": 231868,
                     "End": 231879
-                }
-            ]
-        },
-        {
-            "Character": "A FEW OTHER NUNS",
-            "Replies": [
-                {
-                    "Reply": "HEY-LA, HEY-LA  Christy looks up from her reverie; she looks around.  The other nuns are bathing, their eyes down.  There is no sign of singing.  Christy decides to try a test.",
-                    "Didascalie": "(very softly)",
-                    "Start": 67738,
-                    "End": 67948
                 }
             ]
         },

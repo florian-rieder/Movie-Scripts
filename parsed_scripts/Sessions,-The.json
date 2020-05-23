@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Sessions, The",
-        "   "
-    ],
+    "Title": "Sessions, The",
     "Author": [
-        "\u00a0\u00a0Ben Lewin"
+        "Ben Lewin"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -42,12 +40,6 @@
         {
             "Character": "MARK",
             "Replies": [
-                {
-                    "Reply": "Graduation Today I hear the crowd's applause Receive congratulations from my friends Today I ask if I've found a place among the rest I hope you see a man upon this stage Who studied...read..wrote, and passed the test In cap and gown, diploma on my chair  THE SCENE CHANGES to the interior of a large auditorium. A graduation ceremony is in progress.  Suddenly, everyone in the hall, GRADUATES, their FAMILIES, ACADEMICS and OTHERS, rise to their feet as Mark, in his gurney, buzzes across the stage, a mortar board hung on one of the handles.",
-                    "Didascalie": "",
-                    "Start": 1703,
-                    "End": 2432
-                },
                 {
                     "Reply": "Breathing Look you This most excellent canopy, the air, Presses down upon me At 15 pounds per square inch A dense, heavy, blue-glowing ocean.",
                     "Didascalie": "",

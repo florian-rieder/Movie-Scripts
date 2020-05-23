@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "X-Men Origins: Wolverine",
-        "   "
-    ],
+    "Title": "X-Men Origins: Wolverine",
     "Author": [
-        "\u00a0\u00a0David Benioff\u00a0\u00a0Skip Woods"
+        "David Benioff",
+        "Skip Woods"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Fantasy",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3678,17 +3679,6 @@
             ]
         },
         {
-            "Character": "INSERT TELEVISION",
-            "Replies": [
-                {
-                    "Reply": "A REPORTER stands in a Detroit alleyway as POLICE OFFICERS in the background cordon off the area from ONLOOKERS.",
-                    "Didascalie": "",
-                    "Start": 95147,
-                    "End": 95270
-                }
-            ]
-        },
-        {
             "Character": "REPORTER",
             "Replies": [
                 {
@@ -3713,17 +3703,6 @@
                     "Didascalie": "",
                     "Start": 96221,
                     "End": 96325
-                }
-            ]
-        },
-        {
-            "Character": "END INSERT",
-            "Replies": [
-                {
-                    "Reply": "Logan's expression does not change as he watches the report.",
-                    "Didascalie": "",
-                    "Start": 96483,
-                    "End": 96544
                 }
             ]
         },

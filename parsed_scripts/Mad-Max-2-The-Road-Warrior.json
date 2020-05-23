@@ -1,26 +1,16 @@
 {
-    "Title": [
-        "Mad Max 2: The Road Warrior",
-        "   "
-    ],
+    "Title": "Mad Max 2: The Road Warrior",
     "Author": [
-        "\u00a0\u00a0Terry Hayes\u00a0\u00a0George Miller\u00a0\u00a0Brian Hannant"
+        "Terry Hayes",
+        "George Miller",
+        "Brian Hannant"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
-        {
-            "Character": "BLACK AND WHITE ACADEMY FORMAT",
-            "Replies": [
-                {
-                    "Reply": "THE WASTELAND. DAY.",
-                    "Didascalie": "",
-                    "Start": 375,
-                    "End": 395
-                }
-            ]
-        },
         {
             "Character": "NARRATOR",
             "Replies": [
@@ -68,17 +58,6 @@
                     "Didascalie": "",
                     "Start": 3612,
                     "End": 3633
-                }
-            ]
-        },
-        {
-            "Character": "TEACH YOURSELF SOLAR ENERGY",
-            "Replies": [
-                {
-                    "Reply": "I.l. LIVING ROOM. ii.",
-                    "Didascalie": "",
-                    "Start": 4502,
-                    "End": 4524
                 }
             ]
         },
@@ -1121,17 +1100,6 @@
                     "Didascalie": "",
                     "Start": 111734,
                     "End": 111839
-                }
-            ]
-        },
-        {
-            "Character": "RN",
-            "Replies": [
-                {
-                    "Reply": "138, THE MECHANIC DROPS THE BOTTLE. DAY. 138, On top of the tanker, the MECHANIC has lit another molotov cocktail...",
-                    "Didascalie": "",
-                    "Start": 126119,
-                    "End": 126257
                 }
             ]
         },

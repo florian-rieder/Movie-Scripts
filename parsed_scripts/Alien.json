@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Alien",
-        "   "
-    ],
+    "Title": "Alien",
     "Author": [
-        "\u00a0\u00a0Walter Hill\u00a0\u00a0David Giler"
+        "Walter Hill",
+        "David Giler"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "White Christmas",
-        "   "
-    ],
+    "Title": "White Christmas",
     "Author": [
-        "\u00a0\u00a0Norman Krasna\u00a0\u00a0Melvin Frank\u00a0\u00a0Norman Panama"
+        "Norman Krasna",
+        "Melvin Frank",
+        "Norman Panama"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Musical\u00a0\u00a0Romance"
+        "Comedy",
+        "Musical",
+        "Romance"
     ],
     "Characters": [
         {
@@ -1934,12 +1935,6 @@
                     "End": 114469
                 },
                 {
-                    "Reply": "SCENE FROM BOB'S VIEWPOINT  Betty is walking over to the dancing couple and deliberately cuts in on Rita, who is displeased, but can do nothing but yield.  Bob's reaction still implies that this is understandable since Betty loves Phil.  He turns back toward the piano, and other couples are between him and Betty and Phil.",
-                    "Didascalie": "(Evidently Rita has deliberately stepped on his instep)",
-                    "Start": 114616,
-                    "End": 115052
-                },
-                {
                     "Reply": "What's the matter?",
                     "Didascalie": "",
                     "Start": 115309,
@@ -3435,12 +3430,6 @@
                     "Didascalie": "(Calm)",
                     "Start": 43842,
                     "End": 43935
-                },
-                {
-                    "Reply": "MED. CLOSE SHOT - DRESSING ROOM DOOR  There is a plaque attached to the key in the lock.  The Sheriff smilingly turns the key in the lock.  He puts the key in his pocket.",
-                    "Didascalie": "(He walks to the dressing room door)",
-                    "Start": 44032,
-                    "End": 44267
                 },
                 {
                     "Reply": "You stay here.  Let them try to go through the window.",

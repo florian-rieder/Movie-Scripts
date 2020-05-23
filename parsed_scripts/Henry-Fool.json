@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Henry Fool",
-        "   "
-    ],
+    "Title": "Henry Fool",
     "Author": [
-        "\u00a0\u00a0Hal Hartley"
+        "Hal Hartley"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

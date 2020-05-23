@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "From Here to Eternity",
-        "   "
-    ],
+    "Title": "From Here to Eternity",
     "Author": [
-        "\u00a0\u00a0Daniel Taradash"
+        "Daniel Taradash"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0War"
+        "Drama",
+        "Romance",
+        "War"
     ],
     "Characters": [
         {

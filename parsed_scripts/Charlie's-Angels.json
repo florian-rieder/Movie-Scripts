@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Charlie's Angels",
-        "   "
-    ],
+    "Title": "Charlie's Angels",
     "Author": [
-        "\u00a0\u00a0Ed Solomon\u00a0\u00a0John August\u00a0\u00a0Zak Penn"
+        "Ed Solomon",
+        "John August",
+        "Zak Penn"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy"
+        "Action",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -3573,17 +3573,6 @@
             ]
         },
         {
-            "Character": "A FIREPLACE POKER",
-            "Replies": [
-                {
-                    "Reply": "at her head. She ducks just in time.     The poker CHINGS against the stone, making a spark.",
-                    "Didascalie": "",
-                    "Start": 58715,
-                    "End": 58808
-                }
-            ]
-        },
-        {
             "Character": "KNOX",
             "Replies": [
                 {
@@ -4073,17 +4062,6 @@
             ]
         },
         {
-            "Character": "A CONCRETE WALL",
-            "Replies": [
-                {
-                    "Reply": "in front of them.    Everyone takes a beat to acknowledge they're alive.",
-                    "Didascalie": "",
-                    "Start": 65186,
-                    "End": 65259
-                }
-            ]
-        },
-        {
             "Character": "HELICOPTER",
             "Replies": [
                 {
@@ -4288,17 +4266,6 @@
             ]
         },
         {
-            "Character": "HELICOPTER VIDEO FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "Looking down on a freeway, where a ubiquitous police pursuit is in progress.",
-                    "Didascalie": "",
-                    "Start": 87319,
-                    "End": 87396
-                }
-            ]
-        },
-        {
             "Character": "TV ANCHOR VOICE",
             "Replies": [
                 {
@@ -4323,28 +4290,6 @@
                     "Didascalie": "",
                     "Start": 87825,
                     "End": 88054
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Tommy? You gonna let me through or what?",
-                    "Didascalie": "",
-                    "Start": 97997,
-                    "End": 98048
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "that we are in a soundstage, the cobblestones street is just a set. The gunfire was coming from some effects guys, who are test firing guns for the upcoming action scene just outside the soundstage, visible through the open loading door.",
-                    "Didascalie": "",
-                    "Start": 108814,
-                    "End": 109052
                 }
             ]
         },
@@ -4378,17 +4323,6 @@
                     "Didascalie": "",
                     "Start": 114219,
                     "End": 114309
-                }
-            ]
-        },
-        {
-            "Character": "A DOOR LATCH",
-            "Replies": [
-                {
-                    "Reply": "CLICKS open. We TILT UP to see a WELL-DRESSED MAN.          He's at least 6'3\".",
-                    "Didascalie": "",
-                    "Start": 114324,
-                    "End": 114404
                 }
             ]
         },
@@ -4538,17 +4472,6 @@
                     "Didascalie": "",
                     "Start": 175006,
                     "End": 175119
-                }
-            ]
-        },
-        {
-            "Character": "A SUNNY DECK",
-            "Replies": [
-                {
-                    "Reply": "We're in Charlie's point-of-view. We can see part of his reflection in the window -- not enough to see his face, but we get some sense of the man.",
-                    "Didascalie": "",
-                    "Start": 175326,
-                    "End": 175473
                 }
             ]
         },

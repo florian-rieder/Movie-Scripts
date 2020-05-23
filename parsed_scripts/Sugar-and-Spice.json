@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Sugar and Spice",
-        "   "
-    ],
+    "Title": "Sugar and Spice",
     "Author": [
-        "\u00a0\u00a0Mandy Nelson"
+        "Mandy Nelson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -1309,17 +1306,6 @@
                     "Didascalie": "",
                     "Start": 134634,
                     "End": 134795
-                }
-            ]
-        },
-        {
-            "Character": "END ON",
-            "Replies": [
-                {
-                    "Reply": "Diane, pompoms on hips, smiles toward the camera.  A SIGN on the floor in front of her reads: \"SQUAD MEMBER.\"  A SIGN to her left reads: \"CHALLENGER\".",
-                    "Didascalie": "",
-                    "Start": 4626,
-                    "End": 4781
                 }
             ]
         },
@@ -3094,17 +3080,6 @@
             ]
         },
         {
-            "Character": "WIDEN TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "An ANGRY COOK standing behind Jack.",
-                    "Didascalie": "",
-                    "Start": 40529,
-                    "End": 40565
-                }
-            ]
-        },
-        {
             "Character": "TED",
             "Replies": [
                 {
@@ -3222,17 +3197,6 @@
                     "Didascalie": "",
                     "Start": 56914,
                     "End": 56960
-                }
-            ]
-        },
-        {
-            "Character": "END MUSIC",
-            "Replies": [
-                {
-                    "Reply": "DIP TO BLACK.",
-                    "Didascalie": "",
-                    "Start": 135002,
-                    "End": 135016
                 }
             ]
         },
@@ -3695,17 +3659,6 @@
             ]
         },
         {
-            "Character": "A GLAMOROUS FERN",
-            "Replies": [
-                {
-                    "Reply": "SUPER: FERN GREW INTO HER LOOKS.",
-                    "Didascalie": "",
-                    "Start": 135334,
-                    "End": 135367
-                }
-            ]
-        },
-        {
             "Character": "PHOTO",
             "Replies": [
                 {
@@ -3743,12 +3696,6 @@
                     "Didascalie": "",
                     "Start": 137963,
                     "End": 138051
-                },
-                {
-                    "Reply": "WIDEN to REVEAL BRUCE IS HER GROOM.",
-                    "Didascalie": "",
-                    "Start": 138620,
-                    "End": 138656
                 }
             ]
         }

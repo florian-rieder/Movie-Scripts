@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Colombiana",
-        "   "
-    ],
+    "Title": "Colombiana",
     "Author": [
-        "\u00a0\u00a0Robert Mark Kamen\u00a0\u00a0Luc Besson"
+        "Robert Mark Kamen",
+        "Luc Besson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -2355,6 +2355,59 @@
             ]
         },
         {
+            "Character": "AMERICAN 1",
+            "Replies": [
+                {
+                    "Reply": "And you say you have something for us?",
+                    "Didascalie": "",
+                    "Start": 43260,
+                    "End": 43310
+                },
+                {
+                    "Reply": "May I see it?",
+                    "Didascalie": "",
+                    "Start": 43451,
+                    "End": 43465
+                },
+                {
+                    "Reply": "Oh jeez...",
+                    "Didascalie": "",
+                    "Start": 43676,
+                    "End": 43687
+                },
+                {
+                    "Reply": "Thank you.",
+                    "Didascalie": "(REPULSED)",
+                    "Start": 44062,
+                    "End": 44085
+                },
+                {
+                    "Reply": "We have to record this.",
+                    "Didascalie": "",
+                    "Start": 44425,
+                    "End": 44449
+                },
+                {
+                    "Reply": "Where did you get this?",
+                    "Didascalie": "",
+                    "Start": 44769,
+                    "End": 44793
+                },
+                {
+                    "Reply": "And where is your Papa?",
+                    "Didascalie": "",
+                    "Start": 44958,
+                    "End": 44982
+                },
+                {
+                    "Reply": "Did he tell you what this is?",
+                    "Didascalie": "",
+                    "Start": 45129,
+                    "End": 45159
+                }
+            ]
+        },
+        {
             "Character": "BUREAUCRAT",
             "Replies": [
                 {
@@ -2910,6 +2963,70 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "So then I suggest, y'know, we buy some things to spice it up a bit.",
+                    "Didascalie": "",
+                    "Start": 78725,
+                    "End": 78804
+                },
+                {
+                    "Reply": "A garter belt, some of those stockings that come up the thigh...it's fourteen years. Know what I mean?",
+                    "Didascalie": "",
+                    "Start": 79119,
+                    "End": 79255
+                },
+                {
+                    "Reply": "Exactly.",
+                    "Didascalie": "",
+                    "Start": 79632,
+                    "End": 79641
+                },
+                {
+                    "Reply": "What the...",
+                    "Didascalie": "",
+                    "Start": 79883,
+                    "End": 79895
+                },
+                {
+                    "Reply": "That's all you have to say? Oops?",
+                    "Didascalie": "",
+                    "Start": 81242,
+                    "End": 81276
+                },
+                {
+                    "Reply": "Funny?",
+                    "Didascalie": "",
+                    "Start": 81572,
+                    "End": 81579
+                },
+                {
+                    "Reply": "Wanna laugh you crazy bitch? I'll give you something to laugh about!",
+                    "Didascalie": "",
+                    "Start": 81711,
+                    "End": 81791
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "Define things.",
+                    "Didascalie": "",
+                    "Start": 78873,
+                    "End": 78888
+                },
+                {
+                    "Reply": "Yeah. No matter how much you like steak, sometime a lamb chop is not a bad thing.",
+                    "Didascalie": "",
+                    "Start": 79386,
+                    "End": 79490
+                }
+            ]
+        },
+        {
             "Character": "SUPERMODEL",
             "Replies": [
                 {
@@ -3169,6 +3286,17 @@
             ]
         },
         {
+            "Character": "MARSHAL 1",
+            "Replies": [
+                {
+                    "Reply": "Ambulance on the way!",
+                    "Didascalie": "",
+                    "Start": 101683,
+                    "End": 101705
+                }
+            ]
+        },
+        {
             "Character": "ABOVE HER",
             "Replies": [
                 {
@@ -3372,12 +3500,6 @@
                     "Didascalie": "",
                     "Start": 167615,
                     "End": 167645
-                },
-                {
-                    "Reply": "Well, there was a little problem.",
-                    "Didascalie": "(HESITANT)",
-                    "Start": 167741,
-                    "End": 167787
                 },
                 {
                     "Reply": "But not to get prints.",
@@ -3659,6 +3781,101 @@
                     "Didascalie": "",
                     "Start": 111811,
                     "End": 111881
+                }
+            ]
+        },
+        {
+            "Character": "AGENT 1",
+            "Replies": [
+                {
+                    "Reply": "But we're the only ones with the information.",
+                    "Didascalie": "",
+                    "Start": 117296,
+                    "End": 117353
+                },
+                {
+                    "Reply": "We ID'd everyone who came in and out of the police station for the twenty four hours preceding the incident. The only one that we could not verify was a...",
+                    "Didascalie": "",
+                    "Start": 166908,
+                    "End": 167108
+                },
+                {
+                    "Reply": "Valarie Phillips. Picked up for drunk driving four hours before the hit on Rizzo.",
+                    "Didascalie": "",
+                    "Start": 167225,
+                    "End": 167329
+                },
+                {
+                    "Reply": "It's our only lead.",
+                    "Didascalie": "",
+                    "Start": 167527,
+                    "End": 167547
+                },
+                {
+                    "Reply": "We ran the prints in the data base.",
+                    "Didascalie": "",
+                    "Start": 168011,
+                    "End": 168047
+                },
+                {
+                    "Reply": "A library card. The only ID she had was a library card.",
+                    "Didascalie": "",
+                    "Start": 168295,
+                    "End": 168362
+                },
+                {
+                    "Reply": "There are the surveillance tapes.",
+                    "Didascalie": "",
+                    "Start": 168523,
+                    "End": 168557
+                },
+                {
+                    "Reply": "That's it.",
+                    "Didascalie": "",
+                    "Start": 169287,
+                    "End": 169298
+                },
+                {
+                    "Reply": "FBI...",
+                    "Didascalie": "",
+                    "Start": 207346,
+                    "End": 207353
+                },
+                {
+                    "Reply": "No ma'am everything is under control. We just need you to stay inside. May we have a look around?",
+                    "Didascalie": "",
+                    "Start": 208011,
+                    "End": 208131
+                },
+                {
+                    "Reply": "Nothing here.",
+                    "Didascalie": "",
+                    "Start": 211570,
+                    "End": 211584
+                },
+                {
+                    "Reply": "Nothing...wait...one security camera down.",
+                    "Didascalie": "",
+                    "Start": 212363,
+                    "End": 212417
+                },
+                {
+                    "Reply": "The second one is down.",
+                    "Didascalie": "",
+                    "Start": 212824,
+                    "End": 212848
+                },
+                {
+                    "Reply": "The garage!",
+                    "Didascalie": "",
+                    "Start": 212994,
+                    "End": 213006
+                },
+                {
+                    "Reply": "Ross. We're picking something up off that kid's phone.",
+                    "Didascalie": "",
+                    "Start": 256580,
+                    "End": 256646
                 }
             ]
         },
@@ -4656,6 +4873,29 @@
             ]
         },
         {
+            "Character": "AGENT 2",
+            "Replies": [
+                {
+                    "Reply": "Well, there was a little problem.",
+                    "Didascalie": "(HESITANT)",
+                    "Start": 167741,
+                    "End": 167787
+                },
+                {
+                    "Reply": "From three angles.",
+                    "Didascalie": "",
+                    "Start": 168643,
+                    "End": 168662
+                },
+                {
+                    "Reply": "Nothing here.",
+                    "Didascalie": "",
+                    "Start": 211707,
+                    "End": 211721
+                }
+            ]
+        },
+        {
             "Character": "EDUARDO",
             "Replies": [
                 {
@@ -4828,6 +5068,17 @@
                     "Didascalie": "",
                     "Start": 196914,
                     "End": 196932
+                }
+            ]
+        },
+        {
+            "Character": "SWAT 1",
+            "Replies": [
+                {
+                    "Reply": "Shower.",
+                    "Didascalie": "(whispers, on mic)",
+                    "Start": 205978,
+                    "End": 205998
                 }
             ]
         },

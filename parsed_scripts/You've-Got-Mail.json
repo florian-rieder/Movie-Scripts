@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "You've Got Mail",
-        "   "
-    ],
+    "Title": "You've Got Mail",
     "Author": [
-        "\u00a0\u00a0Nora Ephron\u00a0\u00a0Delia Ephron"
+        "Nora Ephron",
+        "Delia Ephron"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -6859,6 +6858,29 @@
                     "Didascalie": "",
                     "Start": 90106,
                     "End": 90180
+                }
+            ]
+        },
+        {
+            "Character": "CHANNEL 2 TV REPORTER",
+            "Replies": [
+                {
+                    "Reply": "Are you ready, Miss Kelly?",
+                    "Didascalie": "",
+                    "Start": 81426,
+                    "End": 81453
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 81541,
+                    "End": 81547
+                },
+                {
+                    "Reply": "We're here in front of the Shop Around the Corner, the famous West Side children's bookstore now on the verge of having to close its doors because the big bad wolf, Foxbooks, has opened only a few hundred feet away, wooing customers with its sharp discounts and designer coffee.",
+                    "Didascalie": "",
+                    "Start": 81670,
+                    "End": 81961
                 }
             ]
         },

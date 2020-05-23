@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Jerry Maguire",
-        "   "
-    ],
+    "Title": "Jerry Maguire",
     "Author": [
-        "\u00a0\u00a0Cameron Crowe"
+        "Cameron Crowe"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -18,17 +17,6 @@
                     "Didascalie": "",
                     "Start": 970,
                     "End": 1052
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG CHAMPIONSHIP GOLFER",
-            "Replies": [
-                {
-                    "Reply": "eyeing a long but level putt.",
-                    "Didascalie": "",
-                    "Start": 3196,
-                    "End": 3226
                 }
             ]
         },

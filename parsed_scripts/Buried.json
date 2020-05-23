@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Buried",
-        "   "
-    ],
+    "Title": "Buried",
     "Author": [
-        "\u00a0\u00a0Chris Sparling"
+        "Chris Sparling"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2392,6 +2391,125 @@
             ]
         },
         {
+            "Character": "FEMALE 911 OPERATOR",
+            "Replies": [
+                {
+                    "Reply": "911, please hold.",
+                    "Didascalie": "",
+                    "Start": 9396,
+                    "End": 9414
+                },
+                {
+                    "Reply": "Sir...slow down. What is your name?",
+                    "Didascalie": "",
+                    "Start": 10432,
+                    "End": 10479
+                },
+                {
+                    "Reply": "Okay, Mister Conroy. Can you tell me your location?",
+                    "Didascalie": "",
+                    "Start": 10599,
+                    "End": 10662
+                },
+                {
+                    "Reply": "You're in a coffin?",
+                    "Didascalie": "",
+                    "Start": 10932,
+                    "End": 10952
+                },
+                {
+                    "Reply": "Are you at a funeral home?",
+                    "Didascalie": "",
+                    "Start": 11110,
+                    "End": 11137
+                },
+                {
+                    "Reply": "How are calling me right now?",
+                    "Didascalie": "",
+                    "Start": 11258,
+                    "End": 11288
+                },
+                {
+                    "Reply": "If you're buried in a coffin, where are you calling from?",
+                    "Didascalie": "",
+                    "Start": 11393,
+                    "End": 11461
+                },
+                {
+                    "Reply": "You're calling from your cell phone?",
+                    "Didascalie": "",
+                    "Start": 11627,
+                    "End": 11674
+                },
+                {
+                    "Reply": "There was a cell phone in the coffin when you climbed in?",
+                    "Didascalie": "",
+                    "Start": 11847,
+                    "End": 11915
+                },
+                {
+                    "Reply": "How did you end up in the coffin, sir?",
+                    "Didascalie": "",
+                    "Start": 12033,
+                    "End": 12082
+                },
+                {
+                    "Reply": "In the coffin?",
+                    "Didascalie": "",
+                    "Start": 12197,
+                    "End": 12212
+                },
+                {
+                    "Reply": "And you're saying the coffin is buried?",
+                    "Didascalie": "",
+                    "Start": 12403,
+                    "End": 12453
+                },
+                {
+                    "Reply": "Do you know your location, sir?",
+                    "Didascalie": "",
+                    "Start": 12616,
+                    "End": 12648
+                },
+                {
+                    "Reply": "Iraq?",
+                    "Didascalie": "",
+                    "Start": 12802,
+                    "End": 12808
+                },
+                {
+                    "Reply": "Are you a soldier, sir?",
+                    "Didascalie": "",
+                    "Start": 12998,
+                    "End": 13022
+                },
+                {
+                    "Reply": "They shot who, sir?",
+                    "Didascalie": "",
+                    "Start": 13397,
+                    "End": 13417
+                },
+                {
+                    "Reply": "And you're saying this happened in Iraq? The country?",
+                    "Didascalie": "",
+                    "Start": 13569,
+                    "End": 13633
+                },
+                {
+                    "Reply": "Mister Conroy, this is 911 emergency in Youngstown, Ohio.",
+                    "Didascalie": "",
+                    "Start": 13874,
+                    "End": 13942
+                },
+                {
+                    "Reply": "Yes, sir. I'm not sure exactly how you called here if you're in another country, but if you'd like, I can patch you through to the Sheriff's Department.",
+                    "Didascalie": "",
+                    "Start": 14118,
+                    "End": 14315
+                }
+            ]
+        },
+        {
             "Character": "SHANE",
             "Replies": [
                 {
@@ -3292,6 +3410,35 @@
                     "Didascalie": "",
                     "Start": 137750,
                     "End": 137786
+                }
+            ]
+        },
+        {
+            "Character": "MALE 411 OPERATOR",
+            "Replies": [
+                {
+                    "Reply": "What city and listing, please?",
+                    "Didascalie": "",
+                    "Start": 37506,
+                    "End": 37537
+                },
+                {
+                    "Reply": "I have two Donna Mitchells, sir.",
+                    "Didascalie": "",
+                    "Start": 37769,
+                    "End": 37802
+                },
+                {
+                    "Reply": "Ardmore Avenue?",
+                    "Didascalie": "",
+                    "Start": 38067,
+                    "End": 38083
+                },
+                {
+                    "Reply": "Please hold for your number.",
+                    "Didascalie": "",
+                    "Start": 38203,
+                    "End": 38232
                 }
             ]
         },

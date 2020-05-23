@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Shrek the Third",
-        "   "
-    ],
+    "Title": "Shrek the Third",
     "Author": [
-        "\u00a0\u00a0Peter Seaman\u00a0\u00a0Jeffrey Price\u00a0\u00a0Chris Miller\u00a0\u00a0Aron Warner"
+        "Peter Seaman",
+        "Jeffrey Price",
+        "Chris Miller",
+        "Aron Warner"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Animation",
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -4151,6 +4153,28 @@
                     "Didascalie": "",
                     "Start": 80539,
                     "End": 80564
+                }
+            ]
+        },
+        {
+            "Character": "COSTUME STUDENT 1",
+            "Replies": [
+                {
+                    "Reply": "We're here for the Mascot Contest.",
+                    "Didascalie": "",
+                    "Start": 79460,
+                    "End": 79495
+                }
+            ]
+        },
+        {
+            "Character": "COSTUME STUDENT 2",
+            "Replies": [
+                {
+                    "Reply": "Grrrrr!",
+                    "Didascalie": "",
+                    "Start": 79576,
+                    "End": 79584
                 }
             ]
         },

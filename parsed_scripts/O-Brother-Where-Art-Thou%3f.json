@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "O Brother Where Art Thou?",
-        "   "
-    ],
+    "Title": "O Brother Where Art Thou?",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Crime"
+        "Adventure",
+        "Comedy",
+        "Crime"
     ],
     "Characters": [
         {
@@ -30,28 +30,6 @@
                     "Didascalie": "",
                     "Start": 107986,
                     "End": 108056
-                }
-            ]
-        },
-        {
-            "Character": "A PICK",
-            "Replies": [
-                {
-                    "Reply": "splitting a rock.",
-                    "Didascalie": "",
-                    "Start": 432,
-                    "End": 450
-                }
-            ]
-        },
-        {
-            "Character": "A WHEAT FIELD",
-            "Replies": [
-                {
-                    "Reply": "A road cuts across the middle background. Noonday sun beats down.",
-                    "Didascalie": "",
-                    "Start": 1020,
-                    "End": 1088
                 }
             ]
         },
@@ -2912,28 +2890,6 @@
             ]
         },
         {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "All tight, boys! We got the scent!",
-                    "Didascalie": "",
-                    "Start": 24447,
-                    "End": 24482
-                }
-            ]
-        },
-        {
-            "Character": "A CAR",
-            "Replies": [
-                {
-                    "Reply": "Everett drives, shaking his head with a forebearing smile. Pete, sitting next to him, and Delmar, in back, are both dripping wet.",
-                    "Didascalie": "",
-                    "Start": 24492,
-                    "End": 24626
-                }
-            ]
-        },
-        {
             "Character": "HITCHHIKER",
             "Replies": [
                 {
@@ -3670,17 +3626,6 @@
             ]
         },
         {
-            "Character": "A CAMPFIRE",
-            "Replies": [
-                {
-                    "Reply": "It is night.",
-                    "Didascalie": "",
-                    "Start": 31952,
-                    "End": 31965
-                }
-            ]
-        },
-        {
             "Character": "DAYTIME ROAD",
             "Replies": [
                 {
@@ -3800,12 +3745,6 @@
                     "Didascalie": "",
                     "Start": 41310,
                     "End": 41326
-                },
-                {
-                    "Reply": "GEORGE NELSON! NOT BABYFACE! YOU REMEMBER AND YOU TELL YOUR FRIENDS! I'M GEORGE NELSON, BORN TO RAISE HELL!",
-                    "Didascalie": "",
-                    "Start": 41698,
-                    "End": 41816
                 },
                 {
                     "Reply": "Aww, I'm all right-",
@@ -4192,17 +4131,6 @@
                     "Didascalie": "",
                     "Start": 65358,
                     "End": 65413
-                }
-            ]
-        },
-        {
-            "Character": "A MEADOW",
-            "Replies": [
-                {
-                    "Reply": "The car boosted from the general store has been pulled off the road and parked a few yards into a field littered with bluebonnets and rimmed with moss-dripping oak.",
-                    "Didascalie": "",
-                    "Start": 61630,
-                    "End": 61799
                 }
             ]
         },
@@ -4921,17 +4849,6 @@
             ]
         },
         {
-            "Character": "A NOOSE",
-            "Replies": [
-                {
-                    "Reply": "In slow motion it is dropping... dropping... dropping through the night. We hear distant thunder and the howl of a hound. The sounds recede, and the black background dissolves into a pan down from a raftered ceiling as the noose fades away.",
-                    "Didascalie": "",
-                    "Start": 81710,
-                    "End": 81957
-                }
-            ]
-        },
-        {
             "Character": "BLACK MAN",
             "Replies": [
                 {
@@ -4968,17 +4885,6 @@
                     "Didascalie": "",
                     "Start": 89191,
                     "End": 89228
-                }
-            ]
-        },
-        {
-            "Character": "A PACKARD",
-            "Replies": [
-                {
-                    "Reply": "It is pulling up in front of a town hall from which party sounds filter out.",
-                    "Didascalie": "",
-                    "Start": 92525,
-                    "End": 92604
                 }
             ]
         },

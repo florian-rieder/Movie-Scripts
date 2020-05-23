@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Revenant, The",
-        "   "
-    ],
+    "Title": "Revenant, The",
     "Author": [
-        "\u00a0\u00a0Mark L. Smith"
+        "Mark L. Smith"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Adventure",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -879,12 +878,6 @@
                     "Didascalie": "",
                     "Start": 31066,
                     "End": 31137
-                },
-                {
-                    "Reply": "UP AHEAD!",
-                    "Didascalie": "",
-                    "Start": 33968,
-                    "End": 33978
                 },
                 {
                     "Reply": "Glass!",

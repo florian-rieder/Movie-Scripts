@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Lord of War",
-        "   "
-    ],
+    "Title": "Lord of War",
     "Author": [
-        "\u00a0\u00a0Andrew Niccol"
+        "Andrew Niccol"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4847,17 +4846,6 @@
                     "Didascalie": "(in French, as she counts Yuri's money)",
                     "Start": 166992,
                     "End": 167045
-                }
-            ]
-        },
-        {
-            "Character": "A MODERN SCULPTURE SOMEWHERE IN MONROVIA",
-            "Replies": [
-                {
-                    "Reply": "YURI passes in front of an abstract arrangement of holes that turns out to be a building pock-marked with gunshells.",
-                    "Didascalie": "",
-                    "Start": 169343,
-                    "End": 169465
                 }
             ]
         },

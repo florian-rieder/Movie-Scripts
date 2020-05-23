@@ -1,15 +1,24 @@
 {
-    "Title": [
-        "Gone in 60 Seconds",
-        "   "
-    ],
+    "Title": "Gone in 60 Seconds",
     "Author": [
-        "\u00a0\u00a0Scott Rosenberg"
+        "Scott Rosenberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime"
+        "Action",
+        "Crime"
     ],
     "Characters": [
+        {
+            "Character": "GONE IN 60 SECONDS",
+            "Replies": [
+                {
+                    "Reply": "\"I wonder,\" Toad said to himself presently, \"I wonder if this sort of car starts easily?\"",
+                    "Didascalie": "",
+                    "Start": 60,
+                    "End": 151
+                }
+            ]
+        },
         {
             "Character": "ATLEY JACKSON",
             "Replies": [
@@ -294,17 +303,6 @@
                     "Didascalie": "",
                     "Start": 161410,
                     "End": 161419
-                }
-            ]
-        },
-        {
-            "Character": "A POLICE CAR",
-            "Replies": [
-                {
-                    "Reply": "appears behind them...",
-                    "Didascalie": "",
-                    "Start": 3303,
-                    "End": 3326
                 }
             ]
         },
@@ -4137,17 +4135,6 @@
             ]
         },
         {
-            "Character": "A TENNIS BALL",
-            "Replies": [
-                {
-                    "Reply": "being bounced against the wall ... Caught ... Bounced again ...",
-                    "Didascalie": "",
-                    "Start": 13344,
-                    "End": 13408
-                }
-            ]
-        },
-        {
             "Character": "TUMBLER",
             "Replies": [
                 {
@@ -4790,12 +4777,6 @@
                     "End": 81501
                 },
                 {
-                    "Reply": "I can tell you who's gonna be on duty tonight. I can tell you how much gas they're using monthly. I can tell you how they used to spend that annoying half-hour between \"FRIENDS\" and \"SEINFELD\"...",
-                    "Didascalie": "",
-                    "Start": 81781,
-                    "End": 81985
-                },
-                {
                     "Reply": "What about me?",
                     "Didascalie": "",
                     "Start": 100202,
@@ -4943,17 +4924,6 @@
                     "Didascalie": "",
                     "Start": 30012,
                     "End": 30022
-                }
-            ]
-        },
-        {
-            "Character": "A WORKSHOP",
-            "Replies": [
-                {
-                    "Reply": "An enormous WOODWORKING SHOP, fully tricked-out with state-of-the-",
-                    "Didascalie": "",
-                    "Start": 30220,
-                    "End": 30287
                 }
             ]
         },
@@ -6994,17 +6964,6 @@
                     "Didascalie": "",
                     "Start": 147355,
                     "End": 147396
-                }
-            ]
-        },
-        {
-            "Character": "A SHOPPING DISTRICT",
-            "Replies": [
-                {
-                    "Reply": "where vehicle traffic ends. Foot traffic only ... Here com the cops... Memphis spins the wheel ... And he drives onto PUBLIC PARK...",
-                    "Didascalie": "",
-                    "Start": 148260,
-                    "End": 148395
                 }
             ]
         },

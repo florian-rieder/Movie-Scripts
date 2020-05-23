@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Hangover, The",
-        "   "
-    ],
+    "Title": "Hangover, The",
     "Author": [
-        "\u00a0\u00a0Jon Lucas\u00a0\u00a0Scott Moore"
+        "Jon Lucas",
+        "Scott Moore"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -5683,17 +5684,6 @@
                     "Didascalie": "",
                     "Start": 108600,
                     "End": 108616
-                }
-            ]
-        },
-        {
-            "Character": "A CAR HORN SOUNDS",
-            "Replies": [
-                {
-                    "Reply": "And all three of them look up to see Vick'S BEAT-UP CADILLAC parked on the curb, Chastity at the wheel.",
-                    "Didascalie": "",
-                    "Start": 115479,
-                    "End": 115593
                 }
             ]
         },

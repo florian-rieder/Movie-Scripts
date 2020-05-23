@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Beginners",
-        "   "
-    ],
+    "Title": "Beginners",
     "Author": [
-        "\u00a0\u00a0Mike Mills"
+        "Mike Mills"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -3015,12 +3014,6 @@
                     "End": 147381
                 },
                 {
-                    "Reply": "CONTINUED:   Oliver points left and she turns...",
-                    "Didascalie": "",
-                    "Start": 147787,
-                    "End": 147871
-                },
-                {
                     "Reply": "Aha. The infamous left.",
                     "Didascalie": "",
                     "Start": 147917,
@@ -4092,6 +4085,23 @@
                     "Didascalie": "",
                     "Start": 56043,
                     "End": 56047
+                }
+            ]
+        },
+        {
+            "Character": "GEORGIA AT 50",
+            "Replies": [
+                {
+                    "Reply": "You're a quarter, I'm a half, your father's none. He has the least emotions, You'll have more emotions than him, but I'll have the most emotions.",
+                    "Didascalie": "",
+                    "Start": 63132,
+                    "End": 63322
+                },
+                {
+                    "Reply": "You get to play chauffeur but just to the bottom of the hill.",
+                    "Didascalie": "",
+                    "Start": 63596,
+                    "End": 63669
                 }
             ]
         },

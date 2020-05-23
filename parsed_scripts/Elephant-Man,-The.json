@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Elephant Man, The",
-        "   "
-    ],
+    "Title": "Elephant Man, The",
     "Author": [
-        "\u00a0\u00a0Christopher De Vore\u00a0\u00a0Eric Bergren\u00a0\u00a0David Lynch"
+        "Christopher De Vore",
+        "Eric Bergren",
+        "David Lynch"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -2423,17 +2422,6 @@
             ]
         },
         {
-            "Character": "A PUB",
-            "Replies": [
-                {
-                    "Reply": "A noisy pub, long and narrow. Benches run the length of the back wall, with small tables up against them. Men are clustered around the bar, talking in groups.",
-                    "Didascalie": "",
-                    "Start": 23832,
-                    "End": 24023
-                }
-            ]
-        },
-        {
             "Character": "CABMAN",
             "Replies": [
                 {
@@ -3936,17 +3924,6 @@
             ]
         },
         {
-            "Character": "ALLEY",
-            "Replies": [
-                {
-                    "Reply": "The young PORTER is exiting with great difficulty through a large iron door carrying the two buckets. He sets one of the buckets down, takes the other and splashes it out into the alley. Some thick sludge dribbles from the empty bucket. Unseen by him, the NIGHT PORTER is standing just to the side and he now comes forward. The young Porter seems nervous in his presence.",
-                    "Didascalie": "",
-                    "Start": 79957,
-                    "End": 80425
-                }
-            ]
-        },
-        {
             "Character": "YOUNG PORTER",
             "Replies": [
                 {
@@ -3983,17 +3960,6 @@
                     "Didascalie": "",
                     "Start": 84504,
                     "End": 84778
-                }
-            ]
-        },
-        {
-            "Character": "A GENERAL WARD",
-            "Replies": [
-                {
-                    "Reply": "Lights are being turned off.",
-                    "Didascalie": "",
-                    "Start": 82240,
-                    "End": 82269
                 }
             ]
         },
@@ -5530,17 +5496,6 @@
                     "Didascalie": "",
                     "Start": 288335,
                     "End": 288413
-                }
-            ]
-        },
-        {
-            "Character": "A WAREHOUSE PIER",
-            "Replies": [
-                {
-                    "Reply": "TWO DRUNKS are sitting against the wall, drinking and singing. One of them gets up and walks out of frame.",
-                    "Didascalie": "",
-                    "Start": 288613,
-                    "End": 288736
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Bean",
-        "   "
-    ],
+    "Title": "Bean",
     "Author": [
-        "\u00a0\u00a0Richard Curtist\u00a0\u00a0Robin Briscoll"
+        "Richard Curtist",
+        "Robin Briscoll"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -451,12 +449,6 @@
                     "Didascalie": "",
                     "Start": 174289,
                     "End": 174330
-                },
-                {
-                    "Reply": "NURSE 2 Just in time, sir.     Allow me.",
-                    "Didascalie": "",
-                    "Start": 187427,
-                    "End": 187482
                 },
                 {
                     "Reply": "They jump apart.      The moment is gone.",
@@ -2876,6 +2868,35 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Police!   Stop or we shoot!",
+                    "Didascalie": "",
+                    "Start": 47969,
+                    "End": 47997
+                },
+                {
+                    "Reply": "Carefully take out your weapon, holding the butt with two fingers only. Slowly place it on the floor and take three paces back!",
+                    "Didascalie": "",
+                    "Start": 48301,
+                    "End": 48442
+                },
+                {
+                    "Reply": "Just get him the hell out of here, will ya?",
+                    "Didascalie": "",
+                    "Start": 51918,
+                    "End": 51962
+                },
+                {
+                    "Reply": "Excuse me.    Mr. er ... Cabbage?",
+                    "Didascalie": "",
+                    "Start": 92588,
+                    "End": 92622
+                }
+            ]
+        },
+        {
             "Character": "BRUTUS",
             "Replies": [
                 {
@@ -3094,6 +3115,40 @@
             ]
         },
         {
+            "Character": "OLD LADY 1",
+            "Replies": [
+                {
+                    "Reply": "What do you think?",
+                    "Didascalie": "",
+                    "Start": 71987,
+                    "End": 72006
+                },
+                {
+                    "Reply": "And what colour would you use for the curtains?",
+                    "Didascalie": "",
+                    "Start": 72154,
+                    "End": 72202
+                }
+            ]
+        },
+        {
+            "Character": "OLD LADY 2",
+            "Replies": [
+                {
+                    "Reply": "0h yes - lovely - very nice.",
+                    "Didascalie": "",
+                    "Start": 72064,
+                    "End": 72093
+                },
+                {
+                    "Reply": "would be nice in this yellow ....",
+                    "Didascalie": "",
+                    "Start": 72492,
+                    "End": 72526
+                }
+            ]
+        },
+        {
             "Character": "THOMAS GRIERSON",
             "Replies": [
                 {
@@ -3239,28 +3294,6 @@
             ]
         },
         {
-            "Character": "A PAIR OF Y-FRONTS",
-            "Replies": [
-                {
-                    "Reply": "A TORCH.",
-                    "Didascalie": "",
-                    "Start": 137615,
-                    "End": 137624
-                }
-            ]
-        },
-        {
-            "Character": "A SKATEBOARD",
-            "Replies": [
-                {
-                    "Reply": "AND 4 VOLUMES OF THE ENCYCLOPAEDIA BRITANNICA.",
-                    "Didascalie": "",
-                    "Start": 137888,
-                    "End": 137935
-                }
-            ]
-        },
-        {
             "Character": "G-O-B-L-I-N",
             "Replies": [
                 {
@@ -3283,12 +3316,12 @@
             ]
         },
         {
-            "Character": "B-E-R-N-I-E",
+            "Character": "P-E-R-I-0-D",
             "Replies": [
                 {
-                    "Reply": "dawning on him, he punches in:  P-E-R-I-0-D  Up comes a message: \"CODE ACCEPTED\". Close on BEAN's face as light from the computer plays on it- He reads it carefully and with interest. We cant quite read his expression - but what he sees is a surprise and a puzzle. Long meaningful pause as his eyes scan the screen.",
+                    "Reply": "Up comes a message: \"CODE ACCEPTED\". Close on BEAN's face as light from the computer plays on it- He reads it carefully and with interest. We cant quite read his expression - but what he sees is a surprise and a puzzle. Long meaningful pause as his eyes scan the screen.",
                     "Didascalie": "",
-                    "Start": 160636,
+                    "Start": 160719,
                     "End": 160990
                 }
             ]
@@ -3395,6 +3428,17 @@
             ]
         },
         {
+            "Character": "DOCTOR 1",
+            "Replies": [
+                {
+                    "Reply": "I'll be back in a minute.",
+                    "Didascalie": "",
+                    "Start": 184729,
+                    "End": 184755
+                }
+            ]
+        },
+        {
             "Character": "NURSE",
             "Replies": [
                 {
@@ -3447,6 +3491,29 @@
             ]
         },
         {
+            "Character": "NURSE 2",
+            "Replies": [
+                {
+                    "Reply": "Doctor ... Bean?",
+                    "Didascalie": "",
+                    "Start": 187200,
+                    "End": 187217
+                },
+                {
+                    "Reply": "Just in time, sir.     Allow me.",
+                    "Didascalie": "",
+                    "Start": 187449,
+                    "End": 187482
+                },
+                {
+                    "Reply": "He's coming round.",
+                    "Didascalie": "",
+                    "Start": 188987,
+                    "End": 189006
+                }
+            ]
+        },
+        {
             "Character": "ASSISTANT",
             "Replies": [
                 {
@@ -3495,6 +3562,17 @@
                     "Didascalie": "",
                     "Start": 191656,
                     "End": 191680
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR 2",
+            "Replies": [
+                {
+                    "Reply": "Yes, your doctor will be with you in a minute.    We have a lot to deal with here, sir.",
+                    "Didascalie": "",
+                    "Start": 192602,
+                    "End": 192702
                 }
             ]
         },

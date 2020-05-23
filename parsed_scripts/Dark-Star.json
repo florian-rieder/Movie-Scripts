@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Dark Star",
-        "   "
-    ],
+    "Title": "Dark Star",
     "Author": [
-        "\u00a0\u00a0John Carpenter\u00a0\u00a0Dan O'Bannon"
+        "John Carpenter",
+        "Dan O'Bannon"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Comedy",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1787,17 +1787,6 @@
                     "Didascalie": "",
                     "Start": 33103,
                     "End": 33399
-                }
-            ]
-        },
-        {
-            "Character": "END COMMUNICATION",
-            "Replies": [
-                {
-                    "Reply": "FULL SHOT - CONTROL ROOM.  Lights blink peacefully in the empty room.",
-                    "Didascalie": "",
-                    "Start": 33507,
-                    "End": 33577
                 }
             ]
         },

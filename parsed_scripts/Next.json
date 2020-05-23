@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Next",
-        "   "
-    ],
+    "Title": "Next",
     "Author": [
-        "\u00a0\u00a0Gary Goldman"
+        "Gary Goldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4366,17 +4365,6 @@
             ]
         },
         {
-            "Character": "A FEW SECONDS EARLIER",
-            "Replies": [
-                {
-                    "Reply": "Paul Cris, are you free on Tuesday?",
-                    "Didascalie": "",
-                    "Start": 109850,
-                    "End": 109906
-                }
-            ]
-        },
-        {
             "Character": "DRIVER",
             "Replies": [
                 {
@@ -4458,6 +4446,17 @@
                     "Didascalie": "",
                     "Start": 150726,
                     "End": 150818
+                }
+            ]
+        },
+        {
+            "Character": "TROOPER 1",
+            "Replies": [
+                {
+                    "Reply": "I'm trying!",
+                    "Didascalie": "",
+                    "Start": 153042,
+                    "End": 153054
                 }
             ]
         },
@@ -4560,17 +4559,6 @@
                     "Didascalie": "",
                     "Start": 178665,
                     "End": 178831
-                }
-            ]
-        },
-        {
-            "Character": "A HELICOPTER",
-            "Replies": [
-                {
-                    "Reply": "flies over him.",
-                    "Didascalie": "",
-                    "Start": 179597,
-                    "End": 179613
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Life of Pi",
-        "   "
-    ],
+    "Title": "Life of Pi",
     "Author": [
-        "\u00a0\u00a0David Magee\u00a0\u00a0Yann Martel"
+        "David Magee",
+        "Yann Martel"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama"
+        "Adventure",
+        "Drama"
     ],
     "Characters": [
         {

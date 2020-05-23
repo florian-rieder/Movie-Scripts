@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Dear White People",
-        "   "
-    ],
+    "Title": "Dear White People",
     "Author": [
-        "\u00a0\u00a0Justin Simien"
+        "Justin Simien"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

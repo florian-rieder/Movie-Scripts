@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Indiana Jones and the Raiders of the Lost Ark",
-        "   "
-    ],
+    "Title": "Indiana Jones and the Raiders of the Lost Ark",
     "Author": [
-        "\u00a0\u00a0George Lucas\u00a0\u00a0Philip Kaufman\u00a0\u00a0Lawrence Kasda"
+        "George Lucas",
+        "Philip Kaufman",
+        "Lawrence Kasda"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Action",
+        "Adventure"
     ],
     "Characters": [
         {

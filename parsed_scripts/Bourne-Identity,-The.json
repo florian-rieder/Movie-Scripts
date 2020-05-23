@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Bourne Identity, The",
-        "   "
-    ],
+    "Title": "Bourne Identity, The",
     "Author": [
-        "\u00a0\u00a0Tony Gilroy\u00a0\u00a0Robert Ludlum"
+        "Tony Gilroy",
+        "Robert Ludlum"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller\u00a0\u00a0Mystery\u00a0\u00a0Drama\u00a0\u00a0Adventure"
+        "Action",
+        "Thriller",
+        "Mystery",
+        "Drama",
+        "Adventure"
     ],
     "Characters": [
         {
@@ -3430,23 +3432,6 @@
             ]
         },
         {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "HALF A DOZEN COMPUTER MONITORS -- and lots of shots of Bourne -- twenty angles -- twenty different locations -- twenty candid perspectives of Bourne and his mad scramble through the consulate --",
-                    "Didascalie": "",
-                    "Start": 82285,
-                    "End": 82528
-                },
-                {
-                    "Reply": "A secret studio buried deep in the Langley facility. Equipment up the ass. Five people in this darkened room: AN ENGINEER working the board. CONKLIN looking sour. ZORN in the shadows. ABBOTT sitting there waiting for analysis from --",
-                    "Didascalie": "",
-                    "Start": 131653,
-                    "End": 131935
-                }
-            ]
-        },
-        {
             "Character": "WOMBOSI HOUSE SECURITY STATION",
             "Replies": [
                 {
@@ -3465,17 +3450,6 @@
                     "Didascalie": "",
                     "Start": 86050,
                     "End": 86057
-                }
-            ]
-        },
-        {
-            "Character": "FINALLY TO",
-            "Replies": [
-                {
-                    "Reply": "WOMBOSI'S THRONE ROOM  And there he is -- the emperor himself -- WOMBOSI on his throne. Except the room is dark and empty. And he's sitting there by himself. A king without a country.",
-                    "Didascalie": "",
-                    "Start": 86314,
-                    "End": 86545
                 }
             ]
         },

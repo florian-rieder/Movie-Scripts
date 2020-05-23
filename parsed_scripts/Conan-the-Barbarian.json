@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Conan the Barbarian",
-        "   "
-    ],
+    "Title": "Conan the Barbarian",
     "Author": [
-        "\u00a0\u00a0Thomas Dean Donnelly\u00a0\u00a0Joshua Oppenheimer"
+        "Thomas Dean Donnelly",
+        "Joshua Oppenheimer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -1417,17 +1417,6 @@
                     "Didascalie": "",
                     "Start": 19730,
                     "End": 19745
-                }
-            ]
-        },
-        {
-            "Character": "A SHADOW SCOUT",
-            "Replies": [
-                {
-                    "Reply": "A thin, feral humanoid, bodies covered in tattoos, from the deepest jungles of Zingara. The scout lashes out with his black sword and cuts straight across the sentry's throat.",
-                    "Didascalie": "",
-                    "Start": 20172,
-                    "End": 20368
                 }
             ]
         },
@@ -3496,17 +3485,6 @@
             ]
         },
         {
-            "Character": "A BLACK THRONE",
-            "Replies": [
-                {
-                    "Reply": "Images of snakes gorging themselves on hapless victims are carved in bas relief into the throne's surface.",
-                    "Didascalie": "",
-                    "Start": 95091,
-                    "End": 95208
-                }
-            ]
-        },
-        {
             "Character": "KHALAR",
             "Replies": [
                 {
@@ -3803,6 +3781,17 @@
             ]
         },
         {
+            "Character": "PIRATE 1",
+            "Replies": [
+                {
+                    "Reply": "To stations! To stations!",
+                    "Didascalie": "",
+                    "Start": 143627,
+                    "End": 143653
+                }
+            ]
+        },
+        {
             "Character": "BLACK WARSHIP",
             "Replies": [
                 {
@@ -3855,17 +3844,6 @@
             ]
         },
         {
-            "Character": "A MASSIVE CROSSBOW",
-            "Replies": [
-                {
-                    "Reply": "Mounted with a barbed harpoon, fifteen feet long.",
-                    "Didascalie": "",
-                    "Start": 146800,
-                    "End": 146850
-                }
-            ]
-        },
-        {
             "Character": "WARSHIP",
             "Replies": [
                 {
@@ -3873,17 +3851,6 @@
                     "Didascalie": "",
                     "Start": 147595,
                     "End": 147689
-                }
-            ]
-        },
-        {
-            "Character": "A BOAR",
-            "Replies": [
-                {
-                    "Reply": "Its ears listen intently, aware. Suddenly, it bolts.",
-                    "Didascalie": "",
-                    "Start": 160471,
-                    "End": 160524
                 }
             ]
         },

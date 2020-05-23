@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Cold Mountain",
-        "   "
-    ],
+    "Title": "Cold Mountain",
     "Author": [
-        "\u00a0\u00a0Charles Frazier\u00a0\u00a0Anthony Minghella"
+        "Charles Frazier",
+        "Anthony Minghella"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0War\u00a0\u00a0Romance"
+        "Drama",
+        "War",
+        "Romance"
     ],
     "Characters": [
         {

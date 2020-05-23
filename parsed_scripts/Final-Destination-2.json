@@ -1,15 +1,25 @@
 {
-    "Title": [
-        "Final Destination 2",
-        "   "
-    ],
+    "Title": "Final Destination 2",
     "Author": [
-        "\u00a0\u00a0J. Mackye Gruber\u00a0\u00a0Eric Bress"
+        "J. Mackye Gruber",
+        "Eric Bress"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
+        {
+            "Character": "FINAL DESTINATION 2",
+            "Replies": [
+                {
+                    "Reply": "over \"FOWLER BROTHERS KILLED IN COAL MINE MISHAP.\" Another series of articles reads, \"JEWISH PROFESSOR DENIED ADMITTANCE TO HINDENBURG\"",
+                    "Didascalie": "",
+                    "Start": 305,
+                    "End": 441
+                }
+            ]
+        },
         {
             "Character": "KIMBERLY",
             "Replies": [
@@ -2857,17 +2867,6 @@
             ]
         },
         {
-            "Character": "REVEAL CLEAR RIVERS",
-            "Replies": [
-                {
-                    "Reply": "While still beautiful, this young woman bears few traces of her former self. Her eyes dart around suspiciously, maddened by chronic paranoia. Her hair is patchy, her eyes dark and haunted. Bordering on savage. Her movements are fidgety, erratic, always distracted by something unseen.",
-                    "Didascalie": "",
-                    "Start": 56003,
-                    "End": 56288
-                }
-            ]
-        },
-        {
             "Character": "CLEAR",
             "Replies": [
                 {
@@ -3447,23 +3446,6 @@
             ]
         },
         {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "A photo of Eva, \"Lotto Winner Killed By Ladder\".",
-                    "Didascalie": "",
-                    "Start": 66554,
-                    "End": 66603
-                },
-                {
-                    "Reply": "Kimberly taking a bite, relishing the taste and calmly pulling the metal skewer from her mouth.",
-                    "Didascalie": "",
-                    "Start": 167490,
-                    "End": 167586
-                }
-            ]
-        },
-        {
             "Character": "INTERCUT KIMBERLY AND THOMAS",
             "Replies": [
                 {
@@ -3588,17 +3570,6 @@
                     "Didascalie": "",
                     "Start": 82648,
                     "End": 82703
-                }
-            ]
-        },
-        {
-            "Character": "A POWER REPAIRMAN",
-            "Replies": [
-                {
-                    "Reply": "On a cherry picker messes with the transformer, a LAWN BOY pull-",
-                    "Didascalie": "",
-                    "Start": 83466,
-                    "End": 83531
                 }
             ]
         },

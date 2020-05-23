@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Dumb and Dumber",
-        "   "
-    ],
+    "Title": "Dumb and Dumber",
     "Author": [
-        "\u00a0\u00a0Peter Farrelly\u00a0\u00a0Bobby Farrelly\u00a0\u00a0 Bennett Yellin"
+        "Peter Farrelly",
+        "Bobby Farrelly",
+        " Bennett Yellin"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy"
+        "Adventure",
+        "Comedy"
     ],
     "Characters": [
         {
@@ -5400,17 +5400,6 @@
             ]
         },
         {
-            "Character": "TO THE",
-            "Replies": [
-                {
-                    "Reply": "GROUND, GASPING.",
-                    "Didascalie": "",
-                    "Start": 74460,
-                    "End": 74477
-                }
-            ]
-        },
-        {
             "Character": "DOCTOR",
             "Replies": [
                 {
@@ -5669,17 +5658,6 @@
                     "Didascalie": "",
                     "Start": 104571,
                     "End": 104576
-                }
-            ]
-        },
-        {
-            "Character": "REVEALING STACKS AND",
-            "Replies": [
-                {
-                    "Reply": "STACKS OF BIG, BEAUTIFUL HUNDRED DOLLAR BILLS!",
-                    "Didascalie": "",
-                    "Start": 112335,
-                    "End": 112382
                 }
             ]
         },

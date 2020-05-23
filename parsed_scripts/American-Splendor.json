@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "American Splendor",
-        "   "
-    ],
+    "Title": "American Splendor",
     "Author": [
-        "\u00a0\u00a0Robert Pulcini\u00a0\u00a0Shari Springer Berman"
+        "Robert Pulcini",
+        "Shari Springer Berman"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "PRODUCTION DRAFT",
-            "Replies": [
-                {
-                    "Reply": "A BEDROOM MIRROR.",
-                    "Didascalie": "",
-                    "Start": 333,
-                    "End": 351
-                }
-            ]
-        },
         {
             "Character": "HARVEY",
             "Replies": [
@@ -2378,41 +2366,6 @@
             ]
         },
         {
-            "Character": "HIGH DEFINITION VIDEO DOCUMENTARY FOOTAGE",
-            "Replies": [
-                {
-                    "Reply": "above. He clutches a movie script in his hand.",
-                    "Didascalie": "",
-                    "Start": 10644,
-                    "End": 10691
-                },
-                {
-                    "Reply": "used records.",
-                    "Didascalie": "",
-                    "Start": 30053,
-                    "End": 30067
-                },
-                {
-                    "Reply": "OF THE ABOVE SCENE GRACES THE COVER.",
-                    "Didascalie": "",
-                    "Start": 63613,
-                    "End": 63650
-                },
-                {
-                    "Reply": "A few items from the previous scene are present on the sound stage indicating that it's a set of AMERICAN SPLENDOR -- The Movie.",
-                    "Didascalie": "",
-                    "Start": 70782,
-                    "End": 70943
-                },
-                {
-                    "Reply": "A few items indicating film production are in the frame.",
-                    "Didascalie": "",
-                    "Start": 113869,
-                    "End": 113926
-                }
-            ]
-        },
-        {
             "Character": "TOBY",
             "Replies": [
                 {
@@ -2810,17 +2763,6 @@
                     "Didascalie": "",
                     "Start": 63090,
                     "End": 63127
-                }
-            ]
-        },
-        {
-            "Character": "END FLASHBACK",
-            "Replies": [
-                {
-                    "Reply": "On a sketch pad we see a deranged, tormented Harvey sitting alone on a park bench. He pulls at his hair, and looks as though he may murder the next person who walks by.",
-                    "Didascalie": "",
-                    "Start": 38222,
-                    "End": 38423
                 }
             ]
         },
@@ -3506,17 +3448,6 @@
                     "Didascalie": "",
                     "Start": 179783,
                     "End": 179961
-                }
-            ]
-        },
-        {
-            "Character": "A SURREAL DREAM SEQUENCE",
-            "Replies": [
-                {
-                    "Reply": "We are now in a large, empty room similar to a blank comic book panel.",
-                    "Didascalie": "",
-                    "Start": 183914,
-                    "End": 184001
                 }
             ]
         }

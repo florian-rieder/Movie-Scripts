@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "I Love You Phillip Morris",
-        "   "
-    ],
+    "Title": "I Love You Phillip Morris",
     "Author": [
-        "\u00a0\u00a0Glenn Ficarra\u00a0\u00a0John Requa"
+        "Glenn Ficarra",
+        "John Requa"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

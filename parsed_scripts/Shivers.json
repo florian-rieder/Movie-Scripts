@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Shivers",
-        "   "
-    ],
+    "Title": "Shivers",
     "Author": [
-        "\u00a0\u00a0David Cronenberg"
+        "David Cronenberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi"
+        "Horror",
+        "Sci-Fi"
     ],
     "Characters": [
         {

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Wild At Heart",
-        "   "
-    ],
+    "Title": "Wild At Heart",
     "Author": [
-        "\u00a0\u00a0David Lynch"
+        "David Lynch"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2691,12 +2691,6 @@
                     "Didascalie": "",
                     "Start": 112330,
                     "End": 112342
-                },
-                {
-                    "Reply": "SAIL0R Met him through Santos...  Clyde -",
-                    "Didascalie": "",
-                    "Start": 112850,
-                    "End": 112894
                 },
                 {
                     "Reply": "The livingroom is on fire.",

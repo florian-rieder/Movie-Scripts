@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "They",
-        "   "
-    ],
+    "Title": "They",
     "Author": [
-        "\u00a0\u00a0Brendan Hood"
+        "Brendan Hood"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -48,17 +46,6 @@
                     "Didascalie": "",
                     "Start": 76196,
                     "End": 76269
-                }
-            ]
-        },
-        {
-            "Character": "REVEAL",
-            "Replies": [
-                {
-                    "Reply": "The gears are turning within an ANTIQUE DESK CLOCK sitting on a book shelf, a small pendulum swinging back and forth behind the glass housing.",
-                    "Didascalie": "",
-                    "Start": 187,
-                    "End": 332
                 }
             ]
         },
@@ -4807,17 +4794,6 @@
             ]
         },
         {
-            "Character": "A BLOND",
-            "Replies": [
-                {
-                    "Reply": "STUDENT.",
-                    "Didascalie": "",
-                    "Start": 6188,
-                    "End": 6197
-                }
-            ]
-        },
-        {
             "Character": "STUDENT",
             "Replies": [
                 {
@@ -4843,17 +4819,6 @@
                     "Didascalie": "",
                     "Start": 100602,
                     "End": 100631
-                }
-            ]
-        },
-        {
-            "Character": "A LITTLE GIRL",
-            "Replies": [
-                {
-                    "Reply": "...",
-                    "Didascalie": "",
-                    "Start": 7204,
-                    "End": 7208
                 }
             ]
         },
@@ -5018,28 +4983,6 @@
             ]
         },
         {
-            "Character": "A BLACK SHAPE",
-            "Replies": [
-                {
-                    "Reply": "IS STANDING BEHIND HER.",
-                    "Didascalie": "",
-                    "Start": 37937,
-                    "End": 37961
-                }
-            ]
-        },
-        {
-            "Character": "A PIECE OF",
-            "Replies": [
-                {
-                    "Reply": "METAL ...",
-                    "Didascalie": "",
-                    "Start": 43021,
-                    "End": 43031
-                }
-            ]
-        },
-        {
             "Character": "BOOK",
             "Replies": [
                 {
@@ -5057,17 +5000,6 @@
             ]
         },
         {
-            "Character": "A YOUNG BOY",
-            "Replies": [
-                {
-                    "Reply": "Ten years old. Tow-haired. Sitting a few tables away but almost directly opposite her. He's wearing a Superman shirt.",
-                    "Didascalie": "",
-                    "Start": 44978,
-                    "End": 45098
-                }
-            ]
-        },
-        {
             "Character": "THERE IS NO",
             "Replies": [
                 {
@@ -5079,23 +5011,6 @@
             ]
         },
         {
-            "Character": "A HOMELESS",
-            "Replies": [
-                {
-                    "Reply": "PERSON is having a seizure. Propped against the wall. Shaking horribly. His head and body are entirely covered with braces that form a metal exoskeleton.",
-                    "Didascalie": "",
-                    "Start": 50904,
-                    "End": 51059
-                },
-                {
-                    "Reply": "WOMAN is shadowing a COLLEGE-AGE GIRL walking with her boyfriend. They're trying to ignore her.",
-                    "Didascalie": "",
-                    "Start": 62886,
-                    "End": 62983
-                }
-            ]
-        },
-        {
             "Character": "SCREAMING FACE",
             "Replies": [
                 {
@@ -5103,28 +5018,6 @@
                     "Didascalie": "",
                     "Start": 51464,
                     "End": 51501
-                }
-            ]
-        },
-        {
-            "Character": "A BROKEN WINE",
-            "Replies": [
-                {
-                    "Reply": "GLASS ...",
-                    "Didascalie": "",
-                    "Start": 52455,
-                    "End": 52465
-                }
-            ]
-        },
-        {
-            "Character": "SANTA MIRA",
-            "Replies": [
-                {
-                    "Reply": "CELEBRATES THE 45TH ANNUAL FOUNDER'S DAY FESTIVAL Julia navigates her way past the booths and thrill rides that have been erected on the lawn. She watches some passersby.",
-                    "Didascalie": "",
-                    "Start": 62371,
-                    "End": 62544
                 }
             ]
         },
@@ -5392,17 +5285,6 @@
             ]
         },
         {
-            "Character": "A PIECE OF SKIN",
-            "Replies": [
-                {
-                    "Reply": "...",
-                    "Didascalie": "",
-                    "Start": 77209,
-                    "End": 77213
-                }
-            ]
-        },
-        {
             "Character": "WINDSHIELD",
             "Replies": [
                 {
@@ -5410,17 +5292,6 @@
                     "Didascalie": "",
                     "Start": 79710,
                     "End": 79874
-                }
-            ]
-        },
-        {
-            "Character": "A TEEN ACCIDENT",
-            "Replies": [
-                {
-                    "Reply": "VICTIM presses a white towel against his thigh. Blood gushes from it. A huge metal ROD sticks out of his leg.",
-                    "Didascalie": "",
-                    "Start": 79946,
-                    "End": 80057
                 }
             ]
         },
@@ -5443,17 +5314,6 @@
                     "Didascalie": "(O.S.)",
                     "Start": 82825,
                     "End": 82833
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG GUY",
-            "Replies": [
-                {
-                    "Reply": "crosses the street in front of them. He's just a yuppie with a cell phone. But Terry stiffens in her seat, watching him suspiciously.",
-                    "Didascalie": "",
-                    "Start": 85887,
-                    "End": 86022
                 }
             ]
         },
@@ -5487,17 +5347,6 @@
                     "Didascalie": "",
                     "Start": 92377,
                     "End": 92392
-                }
-            ]
-        },
-        {
-            "Character": "A HAND REACHES",
-            "Replies": [
-                {
-                    "Reply": "OUT FROM UNDER IT ...",
-                    "Didascalie": "",
-                    "Start": 92761,
-                    "End": 92783
                 }
             ]
         },
@@ -5571,17 +5420,6 @@
             ]
         },
         {
-            "Character": "A HOMELESS BAG",
-            "Replies": [
-                {
-                    "Reply": "LADY stands behind him. Pleading eyes. Dishevelled and caked with grime. She holds up the drooping sleeve where a hand once was.",
-                    "Didascalie": "",
-                    "Start": 98240,
-                    "End": 98370
-                }
-            ]
-        },
-        {
             "Character": "BAG LADY",
             "Replies": [
                 {
@@ -5638,13 +5476,13 @@
             ]
         },
         {
-            "Character": "A HORN BLARES",
+            "Character": "SEVERAL DARK",
             "Replies": [
                 {
-                    "Reply": "as a BUS barrels towards her.",
+                    "Reply": "SHAPES STAND IN FRONT OF THE ROVER. WATCHING. THE CUSTOMERS FROM THE COFFEE SHOP. SOME ARE STANDING RIGHT OUTSIDE THE DOOR. OTHERS ARE SILHOUETTED IN THE STREET.",
                     "Didascalie": "",
-                    "Start": 107496,
-                    "End": 107526
+                    "Start": 107063,
+                    "End": 107227
                 }
             ]
         },
@@ -5656,17 +5494,6 @@
                     "Didascalie": "",
                     "Start": 109936,
                     "End": 109968
-                }
-            ]
-        },
-        {
-            "Character": "A SHARP",
-            "Replies": [
-                {
-                    "Reply": "HISSING.",
-                    "Didascalie": "",
-                    "Start": 111194,
-                    "End": 111203
                 }
             ]
         },
@@ -5706,17 +5533,6 @@
                     "Didascalie": "",
                     "Start": 119485,
                     "End": 119523
-                }
-            ]
-        },
-        {
-            "Character": "A GROUP OF",
-            "Replies": [
-                {
-                    "Reply": "THREE COLLEGE STUDENTS come down the escalator into the station. CONNOR is among them, now eighteen and wearing a Berkeley sweatshirt. His friends are BARRY and MIKE.",
-                    "Didascalie": "",
-                    "Start": 121906,
-                    "End": 122075
                 }
             ]
         },
@@ -5775,17 +5591,6 @@
                     "Didascalie": "",
                     "Start": 122968,
                     "End": 122986
-                }
-            ]
-        },
-        {
-            "Character": "A FEMALE VOICE",
-            "Replies": [
-                {
-                    "Reply": "calls out from across the platform.",
-                    "Didascalie": "",
-                    "Start": 122594,
-                    "End": 122630
                 }
             ]
         },

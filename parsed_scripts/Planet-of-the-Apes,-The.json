@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Planet of the Apes, The",
-        "   "
-    ],
+    "Title": "Planet of the Apes, The",
     "Author": [
-        "\u00a0\u00a0Michael Wilson"
+        "Michael Wilson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -3630,17 +3629,6 @@
                     "Didascalie": "(o.s)",
                     "Start": 53408,
                     "End": 53445
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Guards!",
-                    "Didascalie": "(o.s.)",
-                    "Start": 53606,
-                    "End": 53618
                 }
             ]
         },

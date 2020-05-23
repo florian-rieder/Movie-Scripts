@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "New York Minute",
-        "   "
-    ],
+    "Title": "New York Minute",
     "Author": [
-        "\u00a0\u00a0Emily Fox"
+        "Emily Fox"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Family"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family"
     ],
     "Characters": [
         {

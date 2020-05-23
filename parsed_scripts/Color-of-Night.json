@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Color of Night",
-        "   "
-    ],
+    "Title": "Color of Night",
     "Author": [
-        "\u00a0\u00a0Billy Ray\u00a0\u00a0Matthew Chapman"
+        "Billy Ray",
+        "Matthew Chapman"
     ],
     "Genre": [
-        "\u00a0\u00a0Mystery\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Mystery",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -6527,17 +6527,6 @@
                     "Didascalie": "",
                     "Start": 172048,
                     "End": 172099
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Everybody inside !",
-                    "Didascalie": "",
-                    "Start": 172606,
-                    "End": 172625
                 }
             ]
         },

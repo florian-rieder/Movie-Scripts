@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Margot at the Wedding",
-        "   "
-    ],
+    "Title": "Margot at the Wedding",
     "Author": [
-        "\u00a0\u00a0Noah Baumbach"
+        "Noah Baumbach"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

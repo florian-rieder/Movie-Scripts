@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Life",
-        "   "
-    ],
+    "Title": "Life",
     "Author": [
-        "\u00a0\u00a0Robert Ramsey\u00a0\u00a0Matthew Stone"
+        "Robert Ramsey",
+        "Matthew Stone"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

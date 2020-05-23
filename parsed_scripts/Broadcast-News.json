@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Broadcast News",
-        "   "
-    ],
+    "Title": "Broadcast News",
     "Author": [
-        "\u00a0\u00a0James L. Brooks"
+        "James L. Brooks"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -7252,17 +7251,6 @@
                     "Didascalie": "",
                     "Start": 143659,
                     "End": 143728
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "A great handshake.",
-                    "Didascalie": "",
-                    "Start": 145510,
-                    "End": 145529
                 }
             ]
         },

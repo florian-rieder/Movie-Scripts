@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Duck Soup",
-        "   "
-    ],
+    "Title": "Duck Soup",
     "Author": [
-        "\u00a0\u00a0Bert Kelmer\u00a0\u00a0Harry Ruby\u00a0\u00a0Grover Jones"
+        "Bert Kelmer",
+        "Harry Ruby",
+        "Grover Jones"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Family\u00a0\u00a0Musical"
+        "Comedy",
+        "Family",
+        "Musical"
     ],
     "Characters": [
         {
@@ -3103,17 +3104,6 @@
             ]
         },
         {
-            "Character": "FADES OUT",
-            "Replies": [
-                {
-                    "Reply": "END OF SEQUENCE \"B\"",
-                    "Didascalie": "",
-                    "Start": 68123,
-                    "End": 68143
-                }
-            ]
-        },
-        {
             "Character": "GUESTS",
             "Replies": [
                 {
@@ -3237,28 +3227,6 @@
             ]
         },
         {
-            "Character": "A GENERAL",
-            "Replies": [
-                {
-                    "Reply": "Bad news, sir?",
-                    "Didascalie": "(Solicitously)",
-                    "Start": 158673,
-                    "End": 158714
-                }
-            ]
-        },
-        {
-            "Character": "A FEW GENERALS",
-            "Replies": [
-                {
-                    "Reply": "What is it?",
-                    "Didascalie": "(Simultaneously)",
-                    "Start": 158912,
-                    "End": 158950
-                }
-            ]
-        },
-        {
             "Character": "GENERAL",
             "Replies": [
                 {
@@ -3347,17 +3315,6 @@
                     "Didascalie": "",
                     "Start": 183516,
                     "End": 183550
-                }
-            ]
-        },
-        {
-            "Character": "A WOMAN GUEST",
-            "Replies": [
-                {
-                    "Reply": "Would you mind passing the salt?",
-                    "Didascalie": "(To the left of Chico... to Chico)",
-                    "Start": 190301,
-                    "End": 190360
                 }
             ]
         },

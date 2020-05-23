@@ -1,37 +1,14 @@
 {
-    "Title": [
-        "X-Files: Fight the Future, The",
-        "   "
-    ],
+    "Title": "X-Files: Fight the Future, The",
     "Author": [
-        "\u00a0\u00a0Chris Carter"
+        "Chris Carter"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
-        {
-            "Character": "CHRIS CARTER",
-            "Replies": [
-                {
-                    "Reply": "NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS, AND SOME \"SCENE OMITTED\" SLUGS. THEY HAVE BEEN REMOVED FOR THIS SOFT COPY.",
-                    "Didascalie": "",
-                    "Start": 245,
-                    "End": 390
-                }
-            ]
-        },
-        {
-            "Character": "A CREATURE",
-            "Replies": [
-                {
-                    "Reply": "Deeper in the cave. Fleeing the light and the men. We get only a brief glimpse of it in the torch light, seeing that it moves upright on two legs and has gray, dinosaur-like skin. And large black eyes. But it moves quickly enough away that any other identifying feature is lost in the deeper shadows.",
-                    "Didascalie": "",
-                    "Start": 1896,
-                    "End": 2222
-                }
-            ]
-        },
         {
             "Character": "STEVIE",
             "Replies": [
@@ -99,17 +76,6 @@
                     "Didascalie": "(brusquely)",
                     "Start": 14356,
                     "End": 14396
-                }
-            ]
-        },
-        {
-            "Character": "A MED-EVAC CHOPPER",
-            "Replies": [
-                {
-                    "Reply": "Coming off the sun-setting horizon. Moving toward us at high speed. The WHOP, WHOP of its blade soon shaking the neighborhood as it banks in and around and hovers just over the dirt field. Landing gently on the parched hard scrabble.",
-                    "Didascalie": "",
-                    "Start": 12080,
-                    "End": 12334
                 }
             ]
         },
@@ -3560,17 +3526,6 @@
                     "Didascalie": "",
                     "Start": 101278,
                     "End": 101411
-                }
-            ]
-        },
-        {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "The Well-Manicured Man enters, picks up a blinking line.",
-                    "Didascalie": "",
-                    "Start": 101541,
-                    "End": 101598
                 }
             ]
         },

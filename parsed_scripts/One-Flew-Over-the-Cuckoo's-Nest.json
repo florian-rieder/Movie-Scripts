@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "One Flew Over the Cuckoo's Nest",
-        "   "
-    ],
+    "Title": "One Flew Over the Cuckoo's Nest",
     "Author": [
-        "\u00a0\u00a0Bo Goldman\u00a0\u00a0Lawrence Hauben\u00a0\u00a0Ken Kesey"
+        "Bo Goldman",
+        "Lawrence Hauben",
+        "Ken Kesey"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {

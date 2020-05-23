@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Monte Carlo",
-        "   "
-    ],
+    "Title": "Monte Carlo",
     "Author": [
-        "\u00a0\u00a0Ron Bass"
+        "Ron Bass"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Adventure",
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -4949,6 +4948,28 @@
             ]
         },
         {
+            "Character": "PHOTOGRAPHER 1",
+            "Replies": [
+                {
+                    "Reply": "Cordelia!",
+                    "Didascalie": "",
+                    "Start": 41185,
+                    "End": 41195
+                }
+            ]
+        },
+        {
+            "Character": "PHOTOGRAPHER 2",
+            "Replies": [
+                {
+                    "Reply": "You're wasting your film. That's not her.",
+                    "Didascalie": "",
+                    "Start": 41526,
+                    "End": 41578
+                }
+            ]
+        },
+        {
             "Character": "CORDELIA",
             "Replies": [
                 {
@@ -6794,6 +6815,17 @@
                     "Didascalie": "(turns to captain)",
                     "Start": 219773,
                     "End": 219800
+                }
+            ]
+        },
+        {
+            "Character": "AMBER 0",
+            "Replies": [
+                {
+                    "Reply": "Mademoiselle Perry, what was it really like?",
+                    "Didascalie": "(HALTING FRENCH)",
+                    "Start": 232719,
+                    "End": 232785
                 }
             ]
         }

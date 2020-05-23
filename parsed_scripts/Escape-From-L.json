@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Escape From L.A.",
-        "   "
-    ],
+    "Title": "Escape From L.A.",
     "Author": [
-        "\u00a0\u00a0John Carpenter\u00a0\u00a0Debra Hill\u00a0\u00a0Kurt Russell"
+        "John Carpenter",
+        "Debra Hill",
+        "Kurt Russell"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -101,17 +103,6 @@
                     "Didascalie": "",
                     "Start": 5897,
                     "End": 6101
-                }
-            ]
-        },
-        {
-            "Character": "A GLOWING HOLOGRAPHIC MAP",
-            "Replies": [
-                {
-                    "Reply": "Of Los Angeles, on the coast of southern California.",
-                    "Didascalie": "",
-                    "Start": 1629,
-                    "End": 1682
                 }
             ]
         },
@@ -2480,17 +2471,6 @@
             ]
         },
         {
-            "Character": "A BOLAS-SWINGING MESCALITO",
-            "Replies": [
-                {
-                    "Reply": "Comes roaring up on his bike, throws the bolas...",
-                    "Didascalie": "",
-                    "Start": 72080,
-                    "End": 72130
-                }
-            ]
-        },
-        {
             "Character": "VOICE",
             "Replies": [
                 {
@@ -2549,17 +2529,6 @@
                     "Didascalie": "",
                     "Start": 79299,
                     "End": 79572
-                }
-            ]
-        },
-        {
-            "Character": "A MULTI-COLORED FLESH HAND",
-            "Replies": [
-                {
-                    "Reply": "Raises a lead pipe, brings it down hard...",
-                    "Didascalie": "",
-                    "Start": 79893,
-                    "End": 79936
                 }
             ]
         },
@@ -2973,17 +2942,6 @@
             ]
         },
         {
-            "Character": "A GIANT TONGUE OF FLAME",
-            "Replies": [
-                {
-                    "Reply": "Shoots out from the nozzle like a flaming spear. It streaks down the street, just missing the tail of the Cadillac as it swerves around a corner...",
-                    "Didascalie": "",
-                    "Start": 108063,
-                    "End": 108241
-                }
-            ]
-        },
-        {
             "Character": "BEHIND IT",
             "Replies": [
                 {
@@ -3019,17 +2977,6 @@
                     "Didascalie": "",
                     "Start": 167592,
                     "End": 167634
-                }
-            ]
-        },
-        {
-            "Character": "A BLACK MUSLIM",
-            "Replies": [
-                {
-                    "Reply": "Dribbles the ball towards the basket.",
-                    "Didascalie": "",
-                    "Start": 126052,
-                    "End": 126090
                 }
             ]
         },

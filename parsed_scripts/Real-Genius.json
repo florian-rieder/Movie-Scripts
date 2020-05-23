@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Real Genius",
-        "   "
-    ],
+    "Title": "Real Genius",
     "Author": [
-        "\u00a0\u00a0Neal Israel\u00a0\u00a0Pat Proft\u00a0\u00a0Peter Torokvel"
+        "Neal Israel",
+        "Pat Proft",
+        "Peter Torokvel"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -836,29 +835,6 @@
             ]
         },
         {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "The piece of paper. It says, \"I aced this.\"",
-                    "Didascalie": "",
-                    "Start": 86981,
-                    "End": 87025
-                },
-                {
-                    "Reply": "A piece of paper which reads, \"Ace the laser.\"",
-                    "Didascalie": "",
-                    "Start": 87096,
-                    "End": 87143
-                },
-                {
-                    "Reply": "Two fake I. D.'s with Mitch's and Chris's picture on them.",
-                    "Didascalie": "",
-                    "Start": 105592,
-                    "End": 105651
-                }
-            ]
-        },
-        {
             "Character": "PILOT",
             "Replies": [
                 {
@@ -1227,17 +1203,6 @@
                     "Didascalie": "",
                     "Start": 8053,
                     "End": 8134
-                }
-            ]
-        },
-        {
-            "Character": "A BOY",
-            "Replies": [
-                {
-                    "Reply": "We don't care.",
-                    "Didascalie": "",
-                    "Start": 8141,
-                    "End": 8156
                 }
             ]
         },
@@ -5281,17 +5246,6 @@
                     "Didascalie": "",
                     "Start": 122578,
                     "End": 122624
-                }
-            ]
-        },
-        {
-            "Character": "A STUDENT",
-            "Replies": [
-                {
-                    "Reply": "Just 'cause you're a slack, Kinsley.",
-                    "Didascalie": "",
-                    "Start": 35746,
-                    "End": 35783
                 }
             ]
         },

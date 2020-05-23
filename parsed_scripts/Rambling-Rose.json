@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Rambling Rose",
-        "   "
-    ],
+    "Title": "Rambling Rose",
     "Author": [
-        "\u00a0\u00a0Calder Willingham"
+        "Calder Willingham"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -5704,17 +5701,6 @@
                     "Didascalie": "",
                     "Start": 174272,
                     "End": 174306
-                }
-            ]
-        },
-        {
-            "Character": "END OF FLASHBACK",
-            "Replies": [
-                {
-                    "Reply": "ON Willcox Hillyer behind the wheel of the Hertz car. He is staring pensively ahead, a faint trace of tears in his eyes.",
-                    "Didascalie": "",
-                    "Start": 176447,
-                    "End": 176568
                 }
             ]
         }

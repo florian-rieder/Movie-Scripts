@@ -1,15 +1,418 @@
 {
-    "Title": [
-        "Armageddon",
-        "   "
-    ],
+    "Title": "Armageddon",
     "Author": [
-        "\u00a0\u00a0Jonathan Hensleigh\u00a0\u00a0J.J. Abrams"
+        "Jonathan Hensleigh",
+        "J.J. Abrams"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
+        {
+            "Character": "SHELBY",
+            "Replies": [
+                {
+                    "Reply": "Houston, I can't get this thing to work...",
+                    "Didascalie": "(with radio squawking)",
+                    "Start": 1225,
+                    "End": 1270
+                },
+                {
+                    "Reply": "and now N.A.S.A's  second-in-command. Golden is watching Shelby on a SERIES OF VIDEO SCREENS.  FLIGHT DIRECTOR WALTER CLARK sits with rows of N.A.S.A Techs. Golden stands over  him, arms on the back o his chair.",
+                    "Didascalie": "(first crew to orbit the Moon)",
+                    "Start": 1466,
+                    "End": 1683
+                },
+                {
+                    "Reply": "It just isn't working. Any suggestions?",
+                    "Didascalie": "(V.0)",
+                    "Start": 1734,
+                    "End": 1776
+                }
+            ]
+        },
+        {
+            "Character": "GOLDEN",
+            "Replies": [
+                {
+                    "Reply": "Try \"whacking\" the thing.  Shelby Okay, Houston, commence whacking.",
+                    "Didascalie": "(a slight smile)",
+                    "Start": 1970,
+                    "End": 2041
+                },
+                {
+                    "Reply": "I am secure. Go ahead, General.",
+                    "Didascalie": "(presses a button on the phone)",
+                    "Start": 9696,
+                    "End": 9730
+                },
+                {
+                    "Reply": "Fly a team up to New York. Contact every Space Watch  facility in the world. We gotta find what part of the sky this is coming from.",
+                    "Didascalie": "(to Skip and Flip)",
+                    "Start": 10405,
+                    "End": 10542
+                },
+                {
+                    "Reply": "It's not the end of the  world, General, the world - Earth - will still be here. But there will be no  life - maybe cockroaches and  some resilient strands of bacteria.  Temple Well, that's really positive, Dan. The President just got off the phone  with the Russians. They're just about to launch a new Mars Probe on the biggest  rocket in the world.  Golden and the N.A.S.A. BRASS exchange sceptical looks.",
+                    "Didascalie": "(beat)",
+                    "Start": 15941,
+                    "End": 16358
+                },
+                {
+                    "Reply": "Their launch date is set for next month.",
+                    "Didascalie": "(V.O)",
+                    "Start": 16709,
+                    "End": 16752
+                },
+                {
+                    "Reply": "To when?",
+                    "Didascalie": "(V.O)",
+                    "Start": 16803,
+                    "End": 16814
+                },
+                {
+                    "Reply": "What are they gonna do, glue, spit, and scotch tape it together? Even if they get a nuke out to the asteroid, a surface nuclear detonation is not  going to work.  The only way is to split the thing in half and hope the two pieces  slide past us.  Temple Thank you for bringing up the impossible, Dan.",
+                    "Didascalie": "(V.O)",
+                    "Start": 16906,
+                    "End": 17214
+                },
+                {
+                    "Reply": "Harry. Let's figure this out.",
+                    "Didascalie": "(calling after Harry)",
+                    "Start": 39439,
+                    "End": 39471
+                },
+                {
+                    "Reply": "Okay, who?",
+                    "Didascalie": "(cont'd)",
+                    "Start": 40835,
+                    "End": 40848
+                },
+                {
+                    "Reply": "Go.",
+                    "Didascalie": "(into intercom)",
+                    "Start": 66121,
+                    "End": 66127
+                },
+                {
+                    "Reply": "How's she look?",
+                    "Didascalie": "(V.O)",
+                    "Start": 67598,
+                    "End": 67616
+                },
+                {
+                    "Reply": "Negative, A.J. Don't exceed ix thousand. Not on this run.",
+                    "Didascalie": "(V.O)",
+                    "Start": 67798,
+                    "End": 67858
+                },
+                {
+                    "Reply": "A.J., shut the Armadillo down now  A.J. We can push it, further. Let's see what she can do.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 68167,
+                    "End": 68261
+                },
+                {
+                    "Reply": "What is going on up there?",
+                    "Didascalie": "(to Temple)",
+                    "Start": 115327,
+                    "End": 115356
+                },
+                {
+                    "Reply": "Harry, your suits are good upto 150 degrees Celsius....",
+                    "Didascalie": "(V.O.)",
+                    "Start": 118649,
+                    "End": 118708
+                },
+                {
+                    "Reply": "We didn't anticipate you being on the asteroid so long. The clock is ticking...",
+                    "Didascalie": "(V.O.)",
+                    "Start": 118767,
+                    "End": 118852
+                },
+                {
+                    "Reply": "Three hundred and fifty degrees.  Harry's face drops.  Harry Thanks for telling us now, Golden....I don't think my bits can handle  those kind of temperatures....",
+                    "Didascalie": "(V.O.)",
+                    "Start": 118904,
+                    "End": 119073
+                },
+                {
+                    "Reply": "Go ahead, Harry.  Harry Your shuttle pilot just took a nasty shot from a drill string....",
+                    "Didascalie": "(V.O.)",
+                    "Start": 139791,
+                    "End": 139886
+                }
+            ]
+        },
+        {
+            "Character": "PEARL",
+            "Replies": [
+                {
+                    "Reply": "This things really acting up tonight. We should find out  if anyone else knows about this.",
+                    "Didascalie": "(concentrating)",
+                    "Start": 4331,
+                    "End": 4425
+                },
+                {
+                    "Reply": "This says that the asteroid came from the  Southern Hemisphere.",
+                    "Didascalie": "(refering to the newspaper)",
+                    "Start": 61894,
+                    "End": 61960
+                }
+            ]
+        },
+        {
+            "Character": "JIMBO",
+            "Replies": [
+                {
+                    "Reply": "Call N.A.S.A  Theo And say what? \"Hi, we're a couple astronomer geeks who found something  really bitchin; floatin' in space.\" You can't just call N.A.S.A. It's like  calling the White House. Besides, you'll never get the number.",
+                    "Didascalie": "(master of factly)",
+                    "Start": 4462,
+                    "End": 4697
+                },
+                {
+                    "Reply": "I got mission control....!",
+                    "Didascalie": "",
+                    "Start": 5660,
+                    "End": 5687
+                },
+                {
+                    "Reply": "Uhh hi, I'm an astronomer in Kentucky, and I was wondering  if you guys had seen some strange activity in the southern middle quadrant of  the asteroid belt between Antares Major and Epsilom Scorpio....",
+                    "Didascalie": "(into phone)",
+                    "Start": 5736,
+                    "End": 5944
+                },
+                {
+                    "Reply": "Him.",
+                    "Didascalie": "(points at Theo)",
+                    "Start": 12298,
+                    "End": 12305
+                },
+                {
+                    "Reply": "But we're approved.",
+                    "Didascalie": "(holding up form)",
+                    "Start": 51625,
+                    "End": 51647
+                }
+            ]
+        },
+        {
+            "Character": "TEMPLE",
+            "Replies": [
+                {
+                    "Reply": "Can you go secure?",
+                    "Didascalie": "(V.O.)",
+                    "Start": 9635,
+                    "End": 9656
+                },
+                {
+                    "Reply": "Twelve minutes ago. Now you know what happened to your shuttle.",
+                    "Didascalie": "(V.O.)",
+                    "Start": 9826,
+                    "End": 9892
+                },
+                {
+                    "Reply": "With my stars came the power to be blunt. These  drillers are not trained for this, Dan.",
+                    "Didascalie": "(pointing to his lapel)",
+                    "Start": 48961,
+                    "End": 49053
+                },
+                {
+                    "Reply": "If they can't drill this hole, my men are going to take  over.",
+                    "Didascalie": "(to Golden)",
+                    "Start": 49358,
+                    "End": 49423
+                },
+                {
+                    "Reply": "A lot of people are die....",
+                    "Didascalie": "(cont'd)",
+                    "Start": 117724,
+                    "End": 117755
+                }
+            ]
+        },
+        {
+            "Character": "THEO",
+            "Replies": [
+                {
+                    "Reply": "Him.",
+                    "Didascalie": "(points at Jimbo)",
+                    "Start": 12329,
+                    "End": 12336
+                }
+            ]
+        },
+        {
+            "Character": "GRACE",
+            "Replies": [
+                {
+                    "Reply": "\"A\" rig's acting up. The drill string kicked twice this morning, gave Chick a nasty bruise in the head.",
+                    "Didascalie": "(awkward pause)",
+                    "Start": 22079,
+                    "End": 22187
+                },
+                {
+                    "Reply": "Keep an eye on A.J. for me.",
+                    "Didascalie": "(as they hug)",
+                    "Start": 73490,
+                    "End": 73520
+                }
+            ]
+        },
+        {
+            "Character": "HARRY",
+            "Replies": [
+                {
+                    "Reply": "NOW, NOT TOMORROW.  CHick and Bennie begin clamping, and tong a PIPE STRAND onto the DRILL STRING  like an INDY PIT STOP CREW.",
+                    "Didascalie": "(Chick and Bennie look  at Harry with uncertainty)",
+                    "Start": 26534,
+                    "End": 26665
+                },
+                {
+                    "Reply": "There's your oil, gentlemen. Now get the hell  off my rig.",
+                    "Didascalie": "(walks over to Oil Execs)",
+                    "Start": 30036,
+                    "End": 30097
+                },
+                {
+                    "Reply": "And I never want to pay taxes again.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 40078,
+                    "End": 40117
+                },
+                {
+                    "Reply": "Now about my crew.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 40602,
+                    "End": 40623
+                },
+                {
+                    "Reply": "From all of your intel, the deepest fault line is here. This is my sweet spot. If I can get a clean hole in there, She'll blow in half....",
+                    "Didascalie": "(points)",
+                    "Start": 64484,
+                    "End": 64629
+                },
+                {
+                    "Reply": "You have eight hours. Remember it. You must  detonate by this point or,  the two halves will hit us.  Harry nods and walks off.",
+                    "Didascalie": "(demonstrates position)",
+                    "Start": 64913,
+                    "End": 65045
+                },
+                {
+                    "Reply": "We're in. Run the simulation.",
+                    "Didascalie": "(clicks radio)",
+                    "Start": 67395,
+                    "End": 67427
+                },
+                {
+                    "Reply": "Here, take it up there.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 71627,
+                    "End": 71653
+                },
+                {
+                    "Reply": "Here. Fire up the Bad Boy bit.  Chick, Max and Bear go into action. Max screws the Bad Boy bit onto the first  drilling pipe. Bear hoists the pipe up to the DRILLING MECHANISM, muscles it  onto the DRILL DRIVE, then clamps it on.  Harry plugs a TEE and GOLF BALL into the craggy surface. He waggles his club, a  5-IRON HEAD, screwed onto the soil sampler's shaft.  Pitts What's he doing?  Chick Wildcatters are superstitious, Colonel. Harry does this every time we  break ground.  He swings....WHACK! The ball rockets off the tee and keeps going...and going...",
+                    "Didascalie": "(cont'd)",
+                    "Start": 106926,
+                    "End": 107502
+                },
+                {
+                    "Reply": "We need the second Armadillo.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 113833,
+                    "End": 113865
+                },
+                {
+                    "Reply": "HARRY!!  Harry turns and walks back to the drilling hole. Sharp looks at him.  Sharp This guy really is a hero....",
+                    "Didascalie": "(pounding on the door)",
+                    "Start": 151672,
+                    "End": 151793
+                },
+                {
+                    "Reply": "Grace. I...",
+                    "Didascalie": "(V.O.)",
+                    "Start": 152249,
+                    "End": 152263
+                },
+                {
+                    "Reply": "This is so hard for me. I don't have....",
+                    "Didascalie": "(sighs)",
+                    "Start": 152270,
+                    "End": 152314
+                },
+                {
+                    "Reply": "Take care of A.J. I'll look in on you from time to time....",
+                    "Didascalie": "(pause)",
+                    "Start": 152777,
+                    "End": 152840
+                }
+            ]
+        },
+        {
+            "Character": "ROUGHNECKS",
+            "Replies": [
+                {
+                    "Reply": "Hole Number Seventy-Six!",
+                    "Didascalie": "(UNISON)",
+                    "Start": 31377,
+                    "End": 31404
+                }
+            ]
+        },
+        {
+            "Character": "QUINCY",
+            "Replies": [
+                {
+                    "Reply": "Dan Golden, meet Mister Harry Stamper, the finest oil driller in the world.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 33207,
+                    "End": 33287
+                },
+                {
+                    "Reply": "Nineteen Ninety-One. Directional drilling through two miles of anthracite. They also said that couldn't be done. You did it. Incredible.  Harry looks at Quincy strangely; this sure is a bizarre form of celebrity.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 34731,
+                    "End": 34951
+                },
+                {
+                    "Reply": "Ninteen Ninety-Three. The first hole over seventy thousand. Once again they said --",
+                    "Didascalie": "(cont'd)",
+                    "Start": 34968,
+                    "End": 35056
+                },
+                {
+                    "Reply": "We built this arm to mine ice from the moon -- greatest discovery in space in thirty years.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 37999,
+                    "End": 38095
+                },
+                {
+                    "Reply": "Where' it headed? How big?",
+                    "Didascalie": "(springing up)",
+                    "Start": 59058,
+                    "End": 59087
+                }
+            ]
+        },
+        {
+            "Character": "BENNIE",
+            "Replies": [
+                {
+                    "Reply": "is reading a book \"Men are from Mars, Women are from Venus.\"  Chick drops down into his seat, continues his heated discussion with Max.",
+                    "Didascalie": "(reformed 118th Street L.A. o.g. gangbanger who  was rescued from the streets ten years back and put to work on a rig by Harry)",
+                    "Start": 42095,
+                    "End": 42236
+                },
+                {
+                    "Reply": "We're in astronaut training.",
+                    "Didascalie": "(burps)",
+                    "Start": 58739,
+                    "End": 58770
+                }
+            ]
+        },
         {
             "Character": "BEHIND THEM",
             "Replies": [
@@ -22,30 +425,99 @@
             ]
         },
         {
-            "Character": "PULL BACK TO REVEAL",
+            "Character": "ROCKHOUND",
             "Replies": [
                 {
-                    "Reply": "Neither do  I. They're going up.",
-                    "Didascalie": "(beat)",
-                    "Start": 48894,
-                    "End": 48929
-                },
-                {
-                    "Reply": "With my stars came the power to be blunt. These  drillers are not trained for this, Dan.",
-                    "Didascalie": "(pointing to his lapel)",
-                    "Start": 48961,
-                    "End": 49053
+                    "Reply": "We're Roughnecks.  Harry I'd rather die up there fighting this thing than sit  here waiting for it.  Harry's line hangs in the air. Everyone exchanges looks.",
+                    "Didascalie": "(looking around)",
+                    "Start": 44895,
+                    "End": 45059
                 }
             ]
         },
         {
-            "Character": "JIMBO",
+            "Character": "NURSE",
             "Replies": [
                 {
-                    "Reply": "But we're approved.",
-                    "Didascalie": "(holding up form)",
-                    "Start": 51625,
-                    "End": 51647
+                    "Reply": "We need to know what substances you've recently  ingested.",
+                    "Didascalie": "",
+                    "Start": 45911,
+                    "End": 45970
+                },
+                {
+                    "Reply": "Drugs.",
+                    "Didascalie": "(matter of fact)",
+                    "Start": 46043,
+                    "End": 46052
+                }
+            ]
+        },
+        {
+            "Character": "CHICK",
+            "Replies": [
+                {
+                    "Reply": "No way, lady. I came here to drill.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 46317,
+                    "End": 46355
+                },
+                {
+                    "Reply": "No. I got to take care of something.",
+                    "Didascalie": "(shakes head)",
+                    "Start": 56658,
+                    "End": 56697
+                },
+                {
+                    "Reply": "What the hell has he been  doing all by himself?",
+                    "Didascalie": "(beat)",
+                    "Start": 78206,
+                    "End": 78257
+                },
+                {
+                    "Reply": "Harry, Harry, Jesus Christ, this can't happen....",
+                    "Didascalie": "(O.S.)",
+                    "Start": 103634,
+                    "End": 103686
+                },
+                {
+                    "Reply": "That did not sound good.  Harry Increase r.p.m.  Chick throws the lever. The drill pipe turns faster, but still doesn,t descend.  Harry and the guys crowd around the drilling hole.  Max Freaky, man.",
+                    "Didascalie": "(cont'd)",
+                    "Start": 112585,
+                    "End": 112791
+                },
+                {
+                    "Reply": "Maybe I'll ask her again later....",
+                    "Didascalie": "(cont'd)",
+                    "Start": 139592,
+                    "End": 139630
+                },
+                {
+                    "Reply": "That means we might die too....",
+                    "Didascalie": "(unsure)",
+                    "Start": 157523,
+                    "End": 157558
+                }
+            ]
+        },
+        {
+            "Character": "MAX",
+            "Replies": [
+                {
+                    "Reply": "We're going to go pound some brews where they have a lot of sweaty, naked women. You in?",
+                    "Didascalie": "(to Chick)",
+                    "Start": 56544,
+                    "End": 56637
+                }
+            ]
+        },
+        {
+            "Character": "TOMMY",
+            "Replies": [
+                {
+                    "Reply": "You look like big foot.",
+                    "Didascalie": "(looking straight up)",
+                    "Start": 57260,
+                    "End": 57286
                 }
             ]
         },
@@ -61,30 +533,168 @@
             ]
         },
         {
-            "Character": "A RED LIGHT",
+            "Character": "PITTS",
             "Replies": [
                 {
-                    "Reply": "On a wall, A COMPUTER BOARD that monitors the fuel transfer is filled with GREEN  LIGHTS.",
-                    "Didascalie": "(MORE)",
-                    "Start": 80510,
-                    "End": 80604
-                },
-                {
-                    "Reply": "Can you confirm this?  Bennie We wouldn't know. What's the camera?",
-                    "Didascalie": "(moving in closer, conspiratorial)",
-                    "Start": 80981,
-                    "End": 81051
+                    "Reply": "AIRBORNE!",
+                    "Didascalie": "(enthusiastically)",
+                    "Start": 76947,
+                    "End": 76959
                 }
             ]
         },
         {
-            "Character": "FREEDOM",
+            "Character": "LEV",
             "Replies": [
                 {
-                    "Reply": "That did not sound good.  Harry Increase r.p.m.  Chick throws the lever. The drill pipe turns faster, but still doesn,t descend.  Harry and the guys crowd around the drilling hole.  Max Freaky, man.",
+                    "Reply": "Leak. Run.",
+                    "Didascalie": "(whispering)",
+                    "Start": 82871,
+                    "End": 82884
+                },
+                {
+                    "Reply": "LEAK! RUN!",
                     "Didascalie": "(cont'd)",
-                    "Start": 112585,
-                    "End": 112791
+                    "Start": 82963,
+                    "End": 82976
+                },
+                {
+                    "Reply": "Seal door.",
+                    "Didascalie": "(to Sharp)",
+                    "Start": 83611,
+                    "End": 83624
+                }
+            ]
+        },
+        {
+            "Character": "SHARP",
+            "Replies": [
+                {
+                    "Reply": "E-vac. E-vac. Unhook the shuttles. Move!",
+                    "Didascalie": "(to Chick)",
+                    "Start": 83039,
+                    "End": 83082
+                },
+                {
+                    "Reply": "Shut the doors and fire her up!",
+                    "Didascalie": "(to Watts as he sits and buckles up)",
+                    "Start": 85395,
+                    "End": 85429
+                },
+                {
+                    "Reply": "Full thrusters!",
+                    "Didascalie": "(to Watts)",
+                    "Start": 86639,
+                    "End": 86657
+                },
+                {
+                    "Reply": "Time to suck it up, people. Just  pretend you're on the big roller coaster at Disneyland...",
+                    "Didascalie": "(over shoulder to Harry and others)",
+                    "Start": 93319,
+                    "End": 93414
+                },
+                {
+                    "Reply": "...times a  hundred....",
+                    "Didascalie": "(mumbles under breath)",
+                    "Start": 93436,
+                    "End": 93464
+                },
+                {
+                    "Reply": "Houston, you gotta see this to believe it....",
+                    "Didascalie": "(V.0)",
+                    "Start": 96422,
+                    "End": 96471
+                },
+                {
+                    "Reply": "clear glimpse of the designated landing field, a relatively smooth, unobstructed  plane on the asteroid's surface.  Harry is green, looks like he's gonna blow chunks.  Sharp We're awake, we're not pukin'....",
+                    "Didascalie": "(and only temporary)",
+                    "Start": 96751,
+                    "End": 96965
+                },
+                {
+                    "Reply": "Houston, it's Freedom. We just landed on this son-of-a-bitch, over.",
+                    "Didascalie": "(V.O)",
+                    "Start": 103207,
+                    "End": 103279
+                },
+                {
+                    "Reply": "We lost her.",
+                    "Didascalie": "(V.O)",
+                    "Start": 103518,
+                    "End": 103533
+                },
+                {
+                    "Reply": "That hole better be dug in two hours, or we're detonating. Whether you're on this godforsaken rock or not!  Harry We're drilling.",
+                    "Didascalie": "(freaked out)",
+                    "Start": 115112,
+                    "End": 115247
+                },
+                {
+                    "Reply": "Clockwise then.  Sharp holds the WIRE STRAND BUNDLE in front of Lev.  Lev stares at it. He smiles nervously and reaches...and draws. The strand is  LONG. Lev exhales. Next...",
+                    "Didascalie": "(no response)",
+                    "Start": 147762,
+                    "End": 147943
+                }
+            ]
+        },
+        {
+            "Character": "REPORTERS",
+            "Replies": [
+                {
+                    "Reply": "Director Golden! DIRECTOR GOLDEN!",
+                    "Didascalie": "(UNISON)",
+                    "Start": 89721,
+                    "End": 89757
+                }
+            ]
+        },
+        {
+            "Character": "WATTS",
+            "Replies": [
+                {
+                    "Reply": "My goodness, look at that thing....",
+                    "Didascalie": "(unbelieving)",
+                    "Start": 90327,
+                    "End": 90365
+                },
+                {
+                    "Reply": "What's the status of Independence?",
+                    "Didascalie": "(V.O)",
+                    "Start": 103345,
+                    "End": 103382
+                }
+            ]
+        },
+        {
+            "Character": "CLARK",
+            "Replies": [
+                {
+                    "Reply": "How we doin', Freedom, over?",
+                    "Didascalie": "(into headset)",
+                    "Start": 91719,
+                    "End": 91750
+                }
+            ]
+        },
+        {
+            "Character": "SKIP",
+            "Replies": [
+                {
+                    "Reply": "Entering Dark Side, Freedom, and counting: ten, nine, eight, seven...",
+                    "Didascalie": "(V.O)",
+                    "Start": 92581,
+                    "End": 92655
+                }
+            ]
+        },
+        {
+            "Character": "BEAR",
+            "Replies": [
+                {
+                    "Reply": "We got that sunrise, Harry. These bits are gonna fry up......",
+                    "Didascalie": "(worried)",
+                    "Start": 126782,
+                    "End": 126847
                 }
             ]
         }

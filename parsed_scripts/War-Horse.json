@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "War Horse",
-        "   "
-    ],
+    "Title": "War Horse",
     "Author": [
-        "\u00a0\u00a0Lee Hall\u00a0\u00a0Richard Curtis"
+        "Lee Hall",
+        "Richard Curtis"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Drama",
+        "War"
     ],
     "Characters": [
         {
@@ -18,6 +17,73 @@
                     "Didascalie": "",
                     "Start": 1133,
                     "End": 1166
+                }
+            ]
+        },
+        {
+            "Character": "FARMER 2",
+            "Replies": [
+                {
+                    "Reply": "This is a stubborn one, huh?",
+                    "Didascalie": "",
+                    "Start": 1370,
+                    "End": 1399
+                },
+                {
+                    "Reply": "Easy does it. Easy does it. Come on, steady does it.",
+                    "Didascalie": "",
+                    "Start": 4221,
+                    "End": 4285
+                }
+            ]
+        },
+        {
+            "Character": "FARMER 3",
+            "Replies": [
+                {
+                    "Reply": "There we go. Who's a clever girl?",
+                    "Didascalie": "",
+                    "Start": 1471,
+                    "End": 1505
+                }
+            ]
+        },
+        {
+            "Character": "AUCTION MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Mornin', pop. Put your mark here.",
+                    "Didascalie": "",
+                    "Start": 5471,
+                    "End": 5505
+                }
+            ]
+        },
+        {
+            "Character": "AUCTION MAN 2",
+            "Replies": [
+                {
+                    "Reply": "Get the colt...",
+                    "Didascalie": "",
+                    "Start": 5743,
+                    "End": 5759
+                }
+            ]
+        },
+        {
+            "Character": "AUCTION MAN 3",
+            "Replies": [
+                {
+                    "Reply": "Whoa! Whoa!",
+                    "Didascalie": "",
+                    "Start": 6248,
+                    "End": 6260
+                },
+                {
+                    "Reply": "Easy...",
+                    "Didascalie": "",
+                    "Start": 6591,
+                    "End": 6599
                 }
             ]
         },
@@ -3996,6 +4062,17 @@
                     "Didascalie": "",
                     "Start": 191246,
                     "End": 191259
+                }
+            ]
+        },
+        {
+            "Character": "SOLDIER 2",
+            "Replies": [
+                {
+                    "Reply": "That definitely isn't a cow.",
+                    "Didascalie": "",
+                    "Start": 188417,
+                    "End": 188446
                 }
             ]
         },

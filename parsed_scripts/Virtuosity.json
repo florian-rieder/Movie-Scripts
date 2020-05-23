@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Virtuosity",
-        "   "
-    ],
+    "Title": "Virtuosity",
     "Author": [
-        "\u00a0\u00a0Eric Bernt"
+        "Eric Bernt"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3519,17 +3518,6 @@
             ]
         },
         {
-            "Character": "A YOUNG COUPLE",
-            "Replies": [
-                {
-                    "Reply": "kissing passionately inside a car parked along a deserted street in Hollywood. Music blares from inside the vehicle.",
-                    "Didascalie": "",
-                    "Start": 63347,
-                    "End": 63465
-                }
-            ]
-        },
-        {
             "Character": "BUSINESSMAN",
             "Replies": [
                 {
@@ -3806,17 +3794,6 @@
                     "Didascalie": "",
                     "Start": 114081,
                     "End": 114117
-                }
-            ]
-        },
-        {
-            "Character": "A TOMBSTONE",
-            "Replies": [
-                {
-                    "Reply": "hour.",
-                    "Didascalie": "",
-                    "Start": 114600,
-                    "End": 114606
                 }
             ]
         },

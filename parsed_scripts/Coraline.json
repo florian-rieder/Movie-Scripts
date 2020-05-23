@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Coraline",
-        "   "
-    ],
+    "Title": "Coraline",
     "Author": [
-        "\u00a0\u00a0Henry Selick\u00a0\u00a0Neil Gaiman"
+        "Henry Selick",
+        "Neil Gaiman"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Adventure\u00a0\u00a0Family\u00a0\u00a0Fantasy"
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -2080,6 +2081,23 @@
             ]
         },
         {
+            "Character": "MOVER 2",
+            "Replies": [
+                {
+                    "Reply": "We're here. Time to muscle up.",
+                    "Didascalie": "",
+                    "Start": 2960,
+                    "End": 2991
+                },
+                {
+                    "Reply": "Got it? Almost there, just a few more.",
+                    "Didascalie": "(CONT'D) (EFFORTS)",
+                    "Start": 3741,
+                    "End": 3801
+                }
+            ]
+        },
+        {
             "Character": "WYBIE",
             "Replies": [
                 {
@@ -3441,6 +3459,52 @@
                     "Didascalie": "",
                     "Start": 124421,
                     "End": 124452
+                }
+            ]
+        },
+        {
+            "Character": "PHOTO FRIEND 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, how zit goin', yuper!",
+                    "Didascalie": "",
+                    "Start": 50284,
+                    "End": 50311
+                },
+                {
+                    "Reply": "We're already here, Coraline --",
+                    "Didascalie": "",
+                    "Start": 50893,
+                    "End": 50925
+                },
+                {
+                    "Reply": "Where's yer buttons, yuper?",
+                    "Didascalie": "",
+                    "Start": 124919,
+                    "End": 124947
+                }
+            ]
+        },
+        {
+            "Character": "PHOTO FRIEND 2",
+            "Replies": [
+                {
+                    "Reply": "Where's your swampers and tuke?",
+                    "Didascalie": "",
+                    "Start": 50444,
+                    "End": 50476
+                },
+                {
+                    "Reply": "-- gone to Or-e-gine!",
+                    "Didascalie": "",
+                    "Start": 51030,
+                    "End": 51052
+                },
+                {
+                    "Reply": "You wanna stay, don'tcha?",
+                    "Didascalie": "",
+                    "Start": 125028,
+                    "End": 125054
                 }
             ]
         },

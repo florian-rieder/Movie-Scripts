@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Miracle Worker, The",
-        "   "
-    ],
+    "Title": "Miracle Worker, The",
     "Author": [
-        "\u00a0\u00a0William Gibson"
+        "William Gibson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -238,17 +235,6 @@
                     "Didascalie": "",
                     "Start": 19890,
                     "End": 19947
-                }
-            ]
-        },
-        {
-            "Character": "A K TE",
-            "Replies": [
-                {
-                    "Reply": "Or hear. When I screamed she didn't blink. Not an eyelash --",
-                    "Didascalie": "",
-                    "Start": 3995,
-                    "End": 4066
                 }
             ]
         },

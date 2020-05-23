@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Labor of Love",
-        "   "
-    ],
+    "Title": "Labor of Love",
     "Author": [
-        "\u00a0\u00a0M. Night Shyamalan"
+        "M. Night Shyamalan"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -2640,12 +2638,6 @@
                     "Didascalie": "",
                     "Start": 136862,
                     "End": 136878
-                },
-                {
-                    "Reply": "in a hotel room.  The TV FILLING THE ROOM WITH NEWS.  Gerald sits behind two large room-service carts of food.  He takes a big bite of a sandwich with an emotional smile to the television.",
-                    "Didascalie": "",
-                    "Start": 184451,
-                    "End": 184640
                 }
             ]
         },
@@ -3393,17 +3385,6 @@
             ]
         },
         {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "The sun drops behind rolling hills.  The DOT has become LARGER, sprouting arms and legs...",
-                    "Didascalie": "",
-                    "Start": 63101,
-                    "End": 63192
-                }
-            ]
-        },
-        {
             "Character": "MOTEL",
             "Replies": [
                 {
@@ -3526,6 +3507,17 @@
                     "Didascalie": "",
                     "Start": 119452,
                     "End": 119456
+                }
+            ]
+        },
+        {
+            "Character": "BOY 2",
+            "Replies": [
+                {
+                    "Reply": "Sure man, High-Top Nike Cross Trainers with heel supports and air cushioned soles -- They're nasty.",
+                    "Didascalie": "",
+                    "Start": 65892,
+                    "End": 66012
                 }
             ]
         },
@@ -3788,17 +3780,6 @@
             ]
         },
         {
-            "Character": "A FRIGHTENING FLASH",
-            "Replies": [
-                {
-                    "Reply": "The mother's UNCONSCIOUS face turns into ELLEN.  Her lifeless eyes -- her bruised cheek and forehead.  Her neck at an awkward angle.  Maurice stares down at his wife in horror.",
-                    "Didascalie": "",
-                    "Start": 100001,
-                    "End": 100178
-                }
-            ]
-        },
-        {
             "Character": "HANSEN",
             "Replies": [
                 {
@@ -4008,17 +3989,6 @@
                     "Didascalie": "",
                     "Start": 108226,
                     "End": 108279
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL SIDE OFFICE",
-            "Replies": [
-                {
-                    "Reply": "It now has \"KRIS REDDY\" etched on it's door.  Kris looks up from his desk at Michelle who stands in the doorway bright red.",
-                    "Didascalie": "",
-                    "Start": 106396,
-                    "End": 106520
                 }
             ]
         },
@@ -4825,17 +4795,6 @@
             ]
         },
         {
-            "Character": "A WCAU NEWS VAN",
-            "Replies": [
-                {
-                    "Reply": "parked in the traffic.  A NEWSREPORTER stares through binoculars.",
-                    "Didascalie": "",
-                    "Start": 173664,
-                    "End": 173730
-                }
-            ]
-        },
-        {
             "Character": "REPORTER",
             "Replies": [
                 {
@@ -4843,17 +4802,6 @@
                     "Didascalie": "",
                     "Start": 173770,
                     "End": 173785
-                }
-            ]
-        },
-        {
-            "Character": "A POLICE CAR",
-            "Replies": [
-                {
-                    "Reply": "stuck in traffic.  OFFICER DAWSON looks around as the PARADE OF NOISE SURGES TOWARDS HIM.  He looks out his window and catches a GLIMPSE OF MAURICE LIMPING UP THE FREEWAY.",
-                    "Didascalie": "",
-                    "Start": 174140,
-                    "End": 174312
                 }
             ]
         },
@@ -4904,6 +4852,17 @@
             ]
         },
         {
+            "Character": "TV ANCHOR 2",
+            "Replies": [
+                {
+                    "Reply": "... A bookstore owner from Philadelphia Pennsylvania...",
+                    "Didascalie": "",
+                    "Start": 183188,
+                    "End": 183254
+                }
+            ]
+        },
+        {
             "Character": "FATHER BERCHMAN",
             "Replies": [
                 {
@@ -4915,6 +4874,17 @@
             ]
         },
         {
+            "Character": "TV ANCHOR 3",
+            "Replies": [
+                {
+                    "Reply": "... A seven month odyssey through the heart of the country...",
+                    "Didascalie": "",
+                    "Start": 183920,
+                    "End": 183992
+                }
+            ]
+        },
+        {
             "Character": "SERGEANT DALLY",
             "Replies": [
                 {
@@ -4922,6 +4892,28 @@
                     "Didascalie": "",
                     "Start": 184068,
                     "End": 184129
+                }
+            ]
+        },
+        {
+            "Character": "TV ANCHOR 4",
+            "Replies": [
+                {
+                    "Reply": "... A life threatening condition, Transient Cerebral Ischemia...",
+                    "Didascalie": "",
+                    "Start": 184690,
+                    "End": 184765
+                }
+            ]
+        },
+        {
+            "Character": "TV ANCHOR 5",
+            "Replies": [
+                {
+                    "Reply": "... a journey he began by himself, will end with a family of millions at his side...",
+                    "Didascalie": "",
+                    "Start": 185094,
+                    "End": 185199
                 }
             ]
         },

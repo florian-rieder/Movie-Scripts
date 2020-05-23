@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Star Wars: The Force Awakens",
-        "   "
-    ],
+    "Title": "Star Wars: The Force Awakens",
     "Author": [
-        "\u00a0\u00a0Lawrence Kasdan\u00a0\u00a0J.J. Abrams\u00a0\u00a0Michael Arndt"
+        "Lawrence Kasdan",
+        "J.J. Abrams",
+        "Michael Arndt"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -169,28 +170,10 @@
                     "End": 29320
                 },
                 {
-                    "Reply": "... Yeah?",
-                    "Didascalie": "(unsure but hopeful)",
-                    "Start": 29386,
-                    "End": 29408
-                },
-                {
                     "Reply": "I am calm.",
                     "Didascalie": "",
                     "Start": 29790,
                     "End": 29801
-                },
-                {
-                    "Reply": "CONTINUED:  FN-2187 I'm talking to myself.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 29893,
-                    "End": 30000
-                },
-                {
-                    "Reply": "Not yet. Okay, go. This way.",
-                    "Didascalie": "(BEAT)",
-                    "Start": 30033,
-                    "End": 30074
                 },
                 {
                     "Reply": "I always wanted to fly one of these things. Can ya shoot?",
@@ -491,12 +474,6 @@
                     "End": 8703
                 },
                 {
-                    "Reply": "CONTINUED: LOR SAN TEKKA I know where you come from. Before you called yourself Kylo Ren.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 8795,
-                    "End": 8919
-                },
-                {
                     "Reply": "The map to Skywalker. We know you've found it, and now you're going to give it to the First Order.",
                     "Didascalie": "",
                     "Start": 8966,
@@ -699,12 +676,6 @@
                     "Didascalie": "(Rey stares at him)",
                     "Start": 149453,
                     "End": 149524
-                },
-                {
-                    "Reply": "CONTINUED: Rey studies him. She's fearful... but curious.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 149616,
-                    "End": 149711
                 },
                 {
                     "Reply": "You still want to kill me.",
@@ -916,12 +887,6 @@
                     "End": 14837
                 },
                 {
-                    "Reply": "CONTINUED: Phasma heads off. Shattered, FN-2187 replaces his helmet.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 14929,
-                    "End": 15035
-                },
-                {
                     "Reply": "FN-2187 reported to my division, was evaluated and sent to Reconditioning.",
                     "Didascalie": "",
                     "Start": 38070,
@@ -944,6 +909,119 @@
                     "Didascalie": "(to Finn, cruel)",
                     "Start": 176757,
                     "End": 176895
+                }
+            ]
+        },
+        {
+            "Character": "FN-2187",
+            "Replies": [
+                {
+                    "Reply": "Yes, Captain.",
+                    "Didascalie": "",
+                    "Start": 14558,
+                    "End": 14572
+                },
+                {
+                    "Reply": "I'm sorry, Captain.",
+                    "Didascalie": "",
+                    "Start": 14733,
+                    "End": 14753
+                },
+                {
+                    "Reply": "This is a rescue, I'm helping you escape. Can you fly a TIE fighter?",
+                    "Didascalie": "",
+                    "Start": 28534,
+                    "End": 28614
+                },
+                {
+                    "Reply": "What?",
+                    "Didascalie": "",
+                    "Start": 28730,
+                    "End": 28736
+                },
+                {
+                    "Reply": "No no no! I'm breaking you out.",
+                    "Didascalie": "(THAT'S CRAZY)",
+                    "Start": 28777,
+                    "End": 28821
+                },
+                {
+                    "Reply": "Because it's the right thing to do.",
+                    "Didascalie": "",
+                    "Start": 29007,
+                    "End": 29043
+                },
+                {
+                    "Reply": "I need a pilot.",
+                    "Didascalie": "",
+                    "Start": 29174,
+                    "End": 29190
+                },
+                {
+                    "Reply": "... Yeah?",
+                    "Didascalie": "(unsure but hopeful)",
+                    "Start": 29386,
+                    "End": 29408
+                },
+                {
+                    "Reply": "Okay, stay calm, stay calm.",
+                    "Didascalie": "",
+                    "Start": 29720,
+                    "End": 29748
+                },
+                {
+                    "Reply": "I'm talking to myself.",
+                    "Didascalie": "",
+                    "Start": 29977,
+                    "End": 30000
+                },
+                {
+                    "Reply": "Not yet. Okay, go. This way.",
+                    "Didascalie": "(BEAT)",
+                    "Start": 30033,
+                    "End": 30074
+                },
+                {
+                    "Reply": "Blasters, I can!",
+                    "Didascalie": "",
+                    "Start": 30602,
+                    "End": 30619
+                },
+                {
+                    "Reply": "This is very complicated FWOOOOOOM! The TIE FIGHTER LURCHES FORWARD --",
+                    "Didascalie": "",
+                    "Start": 30906,
+                    "End": 30987
+                },
+                {
+                    "Reply": "All right!",
+                    "Didascalie": "",
+                    "Start": 32541,
+                    "End": 32552
+                },
+                {
+                    "Reply": "Okay, got it.",
+                    "Didascalie": "",
+                    "Start": 33129,
+                    "End": 33143
+                },
+                {
+                    "Reply": "YES! You see that?! DID YOU SEE  THAT?",
+                    "Didascalie": "",
+                    "Start": 33471,
+                    "End": 33521
+                },
+                {
+                    "Reply": "FN-2187!",
+                    "Didascalie": "",
+                    "Start": 33643,
+                    "End": 33652
+                },
+                {
+                    "Reply": "That's the only name they ever gave me!",
+                    "Didascalie": "",
+                    "Start": 33819,
+                    "End": 33870
                 }
             ]
         },
@@ -1122,12 +1200,6 @@
                     "Didascalie": "",
                     "Start": 46576,
                     "End": 46607
-                },
-                {
-                    "Reply": "CONTINUED: Finn's mind races again. He makes an easy decision: to lie.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 46672,
-                    "End": 46780
                 },
                 {
                     "Reply": "I've never met a Resistance fighter before.",
@@ -1566,12 +1638,6 @@
                     "Didascalie": "",
                     "Start": 87250,
                     "End": 87274
-                },
-                {
-                    "Reply": "CONTINUED: Another corner -- and GANG MEMBERS ARE BATTLING A HORRIBLE RATHTAR! Rey COVERS HER MOUTH.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 87339,
-                    "End": 87487
                 },
                 {
                     "Reply": "Are you sure?",
@@ -2187,12 +2253,6 @@
                     "Didascalie": "",
                     "Start": 132510,
                     "End": 132569
-                },
-                {
-                    "Reply": "CONTINUED: No way out, they DROP THEIR WEAPONS: TIGHT on the LIGHTSABER as it HITS THE GROUND. A STORMTROOPER HAND picks it up.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 132634,
-                    "End": 132809
                 },
                 {
                     "Reply": "We have incoming at two-eight-point-",
@@ -2904,12 +2964,6 @@
                     "Didascalie": "(to Big Head)",
                     "Start": 115433,
                     "End": 115469
-                },
-                {
-                    "Reply": "CONTINUED: Embarrassed, Finn moves her away.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 115561,
-                    "End": 115643
                 },
                 {
                     "Reply": "I'm not who you think I am.",
@@ -4044,12 +4098,6 @@
                     "End": 171107
                 },
                 {
-                    "Reply": "CONTINUED: Chewie MOANTALKS.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 171172,
-                    "End": 171238
-                },
-                {
                     "Reply": "Oh really, you're cold?",
                     "Didascalie": "",
                     "Start": 171289,
@@ -4416,12 +4464,6 @@
                     "End": 109683
                 },
                 {
-                    "Reply": "CONTINUED: Maz walks off, gesturing for them to follow. Finn and Rey are confused. Han indicates for them to follow. They do --",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 109775,
-                    "End": 109950
-                },
-                {
                     "Reply": "A map to Skywalker himself? You're right back in the mess.",
                     "Didascalie": "",
                     "Start": 111649,
@@ -4532,6 +4574,17 @@
             ]
         },
         {
+            "Character": "GA-97",
+            "Replies": [
+                {
+                    "Reply": "Alert the Resistance. Their missing droid is here!",
+                    "Didascalie": "",
+                    "Start": 110300,
+                    "End": 110362
+                }
+            ]
+        },
+        {
             "Character": "BAZINE",
             "Replies": [
                 {
@@ -4584,12 +4637,6 @@
                     "Didascalie": "",
                     "Start": 184071,
                     "End": 184088
-                },
-                {
-                    "Reply": "CONTINUED: A heavy cannon emplacement launches a missile that shreds an X-wing fighter.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 184207,
-                    "End": 184342
                 },
                 {
                     "Reply": "Furillo's been hit!",
@@ -4655,6 +4702,89 @@
                     "Didascalie": "",
                     "Start": 207677,
                     "End": 207682
+                }
+            ]
+        },
+        {
+            "Character": "C-3PO",
+            "Replies": [
+                {
+                    "Reply": "Goodness! Han Solo! It is I, See-",
+                    "Didascalie": "",
+                    "Start": 139123,
+                    "End": 139157
+                },
+                {
+                    "Reply": "General, I regret to inform you, but this map recovered from BB-8 is only partially complete. And even worse, it matches no charted system on record. We simply do not have enough information to locate Master Luke.",
+                    "Didascalie": "",
+                    "Start": 144883,
+                    "End": 145152
+                },
+                {
+                    "Reply": "Princesses.",
+                    "Didascalie": "",
+                    "Start": 145641,
+                    "End": 145653
+                },
+                {
+                    "Reply": "It is very doubtful that R2 would have the rest of the map in his backup data.",
+                    "Didascalie": "",
+                    "Start": 146641,
+                    "End": 146742
+                },
+                {
+                    "Reply": "Oh my. Without the Republic fleet, we're doomed.",
+                    "Didascalie": "",
+                    "Start": 161682,
+                    "End": 161742
+                },
+                {
+                    "Reply": "Thank the Maker!",
+                    "Didascalie": "",
+                    "Start": 177557,
+                    "End": 177574
+                },
+                {
+                    "Reply": "And their weapon will be fully charged in 10 minutes! It would take a miracle to save us now.",
+                    "Didascalie": "",
+                    "Start": 185410,
+                    "End": 185526
+                },
+                {
+                    "Reply": "R2-D2! You've come back! You found what? How dare you call me that!",
+                    "Didascalie": "",
+                    "Start": 209351,
+                    "End": 209430
+                },
+                {
+                    "Reply": "Find Master Luke how? Come, R2! We must go tell the others at once!",
+                    "Didascalie": "",
+                    "Start": 209710,
+                    "End": 209789
+                },
+                {
+                    "Reply": "General? Excuse me, General?",
+                    "Didascalie": "",
+                    "Start": 209921,
+                    "End": 209950
+                },
+                {
+                    "Reply": "R2-D2 may contain some much needed good news.",
+                    "Didascalie": "",
+                    "Start": 210024,
+                    "End": 210081
+                },
+                {
+                    "Reply": "Oh! The map! It is complete!",
+                    "Didascalie": "",
+                    "Start": 210912,
+                    "End": 210941
+                },
+                {
+                    "Reply": "Oh my dear friend. How I've missed you.",
+                    "Didascalie": "",
+                    "Start": 211206,
+                    "End": 211257
                 }
             ]
         },
@@ -4982,6 +5112,17 @@
                     "Didascalie": "",
                     "Start": 171760,
                     "End": 171811
+                }
+            ]
+        },
+        {
+            "Character": "STORMTROOPER FN-9330",
+            "Replies": [
+                {
+                    "Reply": "Hey!",
+                    "Didascalie": "",
+                    "Start": 172055,
+                    "End": 172060
                 }
             ]
         },

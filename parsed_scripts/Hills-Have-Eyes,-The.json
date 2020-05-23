@@ -1,15 +1,72 @@
 {
-    "Title": [
-        "Hills Have Eyes, The",
-        "   "
-    ],
+    "Title": "Hills Have Eyes, The",
     "Author": [
-        "\u00a0\u00a0Alexandre Aja\u00a0\u00a0Gregory Levasseur"
+        "Alexandre Aja",
+        "Gregory Levasseur"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
+        {
+            "Character": "MAN 1",
+            "Replies": [
+                {
+                    "Reply": "ALRIGHT, GUESS.",
+                    "Didascalie": "(loudly through the  STORM)",
+                    "Start": 1077,
+                    "End": 1105
+                },
+                {
+                    "Reply": "No...It's something else... It's like the radioactivity is moving around us.",
+                    "Didascalie": "(STANDING STILL)",
+                    "Start": 1689,
+                    "End": 1797
+                }
+            ]
+        },
+        {
+            "Character": "MAN 2",
+            "Replies": [
+                {
+                    "Reply": "IT'S GOT TO BE OFF.",
+                    "Didascalie": "",
+                    "Start": 1265,
+                    "End": 1285
+                },
+                {
+                    "Reply": "THAT'S THREE TIMES HIGHER THAN THE  FALLOUT IN CHERNOBYL...",
+                    "Didascalie": "(WALKING AWAY)",
+                    "Start": 1325,
+                    "End": 1407
+                },
+                {
+                    "Reply": "YEAH. PROBABLY NEEDS SOME  ADJUSTMENT.",
+                    "Didascalie": "(following his colleague)",
+                    "Start": 1476,
+                    "End": 1537
+                },
+                {
+                    "Reply": "...CAN'T TRUST THE DIGITAL ONES...",
+                    "Didascalie": "",
+                    "Start": 1580,
+                    "End": 1615
+                },
+                {
+                    "Reply": "What the hell is it?",
+                    "Didascalie": "",
+                    "Start": 3639,
+                    "End": 3660
+                },
+                {
+                    "Reply": "Look what we found. Have you...",
+                    "Didascalie": "(without turning around)",
+                    "Start": 4240,
+                    "End": 4283
+                }
+            ]
+        },
         {
             "Character": "MAN",
             "Replies": [
@@ -34,13 +91,13 @@
             ]
         },
         {
-            "Character": "DISCOVERY-",
+            "Character": "MAN 3",
             "Replies": [
                 {
-                    "Reply": "MAN 2 What the hell is it?",
+                    "Reply": "They look human...",
                     "Didascalie": "",
-                    "Start": 3623,
-                    "End": 3660
+                    "Start": 3806,
+                    "End": 3825
                 }
             ]
         },
@@ -2986,17 +3043,6 @@
                     "Didascalie": "",
                     "Start": 166145,
                     "End": 166170
-                }
-            ]
-        },
-        {
-            "Character": "MIND-",
-            "Replies": [
-                {
-                    "Reply": "HE INSERTS THE BARREL OF HIS GUN INTO BRENDA'S MOUTH...",
-                    "Didascalie": "",
-                    "Start": 112030,
-                    "End": 112086
                 }
             ]
         },

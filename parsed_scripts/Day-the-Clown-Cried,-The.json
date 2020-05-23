@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Day the Clown Cried, The",
-        "   "
-    ],
+    "Title": "Day the Clown Cried, The",
     "Author": [
-        "\u00a0\u00a0Charles Denton\u00a0\u00a0Jerry Lewis"
+        "Charles Denton",
+        "Jerry Lewis"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4106,17 +4104,6 @@
                     "Didascalie": "",
                     "Start": 121711,
                     "End": 121846
-                }
-            ]
-        },
-        {
-            "Character": "INSERT",
-            "Replies": [
-                {
-                    "Reply": "The water spigots... they both read \"COLD\".",
-                    "Didascalie": "",
-                    "Start": 73252,
-                    "End": 73296
                 }
             ]
         },

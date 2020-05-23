@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Cliffhanger",
-        "   "
-    ],
+    "Title": "Cliffhanger",
     "Author": [
-        "\u00a0\u00a0Michael France"
+        "Michael France"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4671,17 +4670,6 @@
             ]
         },
         {
-            "Character": "A LARGE PLASTIC CAGE",
-            "Replies": [
-                {
-                    "Reply": "-- inside is a bald eagle. One of maybe 2,000 left in the country. Its uneven feathering and small, gawky size tells us it isn't nearly full grown. A bandage on its side tells us it's been injured. Maggie's smile tells us it's healing.",
-                    "Didascalie": "",
-                    "Start": 57033,
-                    "End": 57290
-                }
-            ]
-        },
-        {
             "Character": "ROCKSLIDE",
             "Replies": [
                 {
@@ -4736,17 +4724,6 @@
                     "Didascalie": "",
                     "Start": 113278,
                     "End": 113399
-                }
-            ]
-        },
-        {
-            "Character": "A NATURAL STONE BRIDGE",
-            "Replies": [
-                {
-                    "Reply": "that links Comb Bluff with the next mountain. Travers stops Gabe and pulls out the monitor.",
-                    "Didascalie": "",
-                    "Start": 79744,
-                    "End": 79844
                 }
             ]
         },
@@ -4874,17 +4851,6 @@
                     "Didascalie": "",
                     "Start": 102586,
                     "End": 102680
-                }
-            ]
-        },
-        {
-            "Character": "A SNOWMAN",
-            "Replies": [
-                {
-                    "Reply": "cute, if hastily constructed, stands with a five-pebble smile, as well as Douglas' cap, in a clearing. The still blinking, still operable tracer is now the nose of the snowman. The case is leaned up against it.",
-                    "Didascalie": "",
-                    "Start": 108994,
-                    "End": 109229
                 }
             ]
         },
@@ -5225,17 +5191,6 @@
             ]
         },
         {
-            "Character": "A PACK OF WOLVES",
-            "Replies": [
-                {
-                    "Reply": "that are preying on -- a body. A pair of legs are gruesomely sticking out from the feast. One wolf turns to SNARL at Maggie -- but Frank runs up and pulls a gun from a holster.",
-                    "Didascalie": "",
-                    "Start": 143158,
-                    "End": 143351
-                }
-            ]
-        },
-        {
             "Character": "TIGHT ON MAGGIE",
             "Replies": [
                 {
@@ -5254,28 +5209,6 @@
                     "Didascalie": "",
                     "Start": 149301,
                     "End": 149396
-                }
-            ]
-        },
-        {
-            "Character": "A SECOND HOLE",
-            "Replies": [
-                {
-                    "Reply": "has been punched in the snow at the center point of the crevice's top -- another bomb has been planted there --",
-                    "Didascalie": "",
-                    "Start": 162759,
-                    "End": 162879
-                }
-            ]
-        },
-        {
-            "Character": "A THIRD HOLE",
-            "Replies": [
-                {
-                    "Reply": "at the opposite end of the crevice has a third timer tied to a third pack of plastics --",
-                    "Didascalie": "",
-                    "Start": 162910,
-                    "End": 163007
                 }
             ]
         },
@@ -5351,23 +5284,6 @@
                     "Didascalie": "",
                     "Start": 166858,
                     "End": 166963
-                }
-            ]
-        },
-        {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "grabs one of Gabe's ankles from below and yanks him down --",
-                    "Didascalie": "",
-                    "Start": 169221,
-                    "End": 169281
-                },
-                {
-                    "Reply": "reaches down and grabs him --",
-                    "Didascalie": "",
-                    "Start": 239511,
-                    "End": 239541
                 }
             ]
         },
@@ -5541,17 +5457,6 @@
             ]
         },
         {
-            "Character": "A RABBIT",
-            "Replies": [
-                {
-                    "Reply": "that's landed in the snow and looks a lot more frightened than Gabe was. Gabe leans back, relieved. For now.",
-                    "Didascalie": "",
-                    "Start": 211291,
-                    "End": 211408
-                }
-            ]
-        },
-        {
             "Character": "FOLLOWING QUALEN",
             "Replies": [
                 {
@@ -5559,17 +5464,6 @@
                     "Didascalie": "",
                     "Start": 214643,
                     "End": 214809
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL ROCK FORMATION",
-            "Replies": [
-                {
-                    "Reply": "also big enough to conceal Hal. Delmer moves toward it as --",
-                    "Didascalie": "",
-                    "Start": 220050,
-                    "End": 220111
                 }
             ]
         },
@@ -5621,28 +5515,6 @@
                     "Didascalie": "",
                     "Start": 223831,
                     "End": 223947
-                }
-            ]
-        },
-        {
-            "Character": "A SHED",
-            "Replies": [
-                {
-                    "Reply": "that is partially obscured by snow, about twenty feet distant across a snowy plateau.",
-                    "Didascalie": "",
-                    "Start": 224436,
-                    "End": 224530
-                }
-            ]
-        },
-        {
-            "Character": "A THICK WOODED AREA",
-            "Replies": [
-                {
-                    "Reply": "which is very temporary refuge -- Qualen will be down in seconds. Gabe looks down the slope. Running is impractical. So he sits down.",
-                    "Didascalie": "",
-                    "Start": 228039,
-                    "End": 228189
                 }
             ]
         },

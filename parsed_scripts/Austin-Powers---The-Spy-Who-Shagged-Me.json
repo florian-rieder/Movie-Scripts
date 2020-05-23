@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Austin Powers - The Spy Who Shagged Me",
-        "   "
-    ],
+    "Title": "Austin Powers - The Spy Who Shagged Me",
     "Author": [
-        "\u00a0\u00a0Mike Myers"
+        "Mike Myers"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy"
+        "Action",
+        "Comedy"
     ],
     "Characters": [
         {

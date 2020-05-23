@@ -1,13 +1,15 @@
 {
-    "Title": [
-        "Cradle 2 the Grave",
-        "   "
-    ],
+    "Title": "Cradle 2 the Grave",
     "Author": [
-        "\u00a0\u00a0John O'Brian\u00a0\u00a0Channing Gibson"
+        "John O'Brian",
+        "Channing Gibson"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2513,12 +2515,6 @@
                     "Didascalie": "",
                     "Start": 125582,
                     "End": 125604
-                },
-                {
-                    "Reply": "flips to NIGHT VISION on the sniper-scope.    And...",
-                    "Didascalie": "",
-                    "Start": 129295,
-                    "End": 129348
                 },
                 {
                     "Reply": "sweeps the rifle, looking for Charles and Vanessa.     He comms Fait.",

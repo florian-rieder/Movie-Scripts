@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Predator",
-        "   "
-    ],
+    "Title": "Predator",
     "Author": [
-        "\u00a0\u00a0Jim Thomas\u00a0\u00a0John Thomas"
+        "Jim Thomas",
+        "John Thomas"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

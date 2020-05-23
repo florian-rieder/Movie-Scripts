@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "Blood and Wine",
-        "   "
-    ],
+    "Title": "Blood and Wine",
     "Author": [
-        "\u00a0\u00a0Nick Villiers"
+        "Nick Villiers"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Thriller",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "A PAIR OF HANDS",
-            "Replies": [
-                {
-                    "Reply": "men's hands, nicely groomed, hold a small white terry towel spoiled by blood-red spots. The hands rinse the towel in a copper bar sink. The stains soften but stay.",
-                    "Didascalie": "",
-                    "Start": 331,
-                    "End": 515
-                }
-            ]
-        },
         {
             "Character": "ALEX",
             "Replies": [
@@ -2392,17 +2380,6 @@
             ]
         },
         {
-            "Character": "A DUCATI MOTORCYCLE",
-            "Replies": [
-                {
-                    "Reply": "hogs his space. Alex lays the car in tightly. He has to squeeze out the door. He bumps the Ducati. It starts to topple; he grabs it before it goes over.",
-                    "Didascalie": "",
-                    "Start": 12250,
-                    "End": 12423
-                }
-            ]
-        },
-        {
             "Character": "JASON",
             "Replies": [
                 {
@@ -4427,17 +4404,6 @@
             ]
         },
         {
-            "Character": "TO T",
-            "Replies": [
-                {
-                    "Reply": "he lawn which leads to a dock.",
-                    "Didascalie": "",
-                    "Start": 31798,
-                    "End": 31829
-                }
-            ]
-        },
-        {
             "Character": "DINA",
             "Replies": [
                 {
@@ -5579,17 +5545,6 @@
                     "Didascalie": "",
                     "Start": 157070,
                     "End": 157158
-                }
-            ]
-        },
-        {
-            "Character": "A SEA GULL",
-            "Replies": [
-                {
-                    "Reply": "flaps away with a SCREECH that startles us.",
-                    "Didascalie": "",
-                    "Start": 181541,
-                    "End": 181585
                 }
             ]
         },

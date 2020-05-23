@@ -1,26 +1,14 @@
 {
-    "Title": [
-        "A Most Violent Year",
-        "   "
-    ],
+    "Title": "A Most Violent Year",
     "Author": [
-        "\u00a0\u00a0J.C. Chandor"
+        "J.C. Chandor"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Action",
+        "Crime",
+        "Drama"
     ],
     "Characters": [
-        {
-            "Character": "A MOST VIOLENT YEAR",
-            "Replies": [
-                {
-                    "Reply": "Written by  J.C. Chandor    This film is set in New York City, 1981:   Murders: 2,228  Forcible Rape: 5,405  Violent Crime: 180,235  Aggravated Assault: 60,329  Property: 1,029,749  Vehicle Theft: 133,041  Robbery: 112,273  Burglary: 360,925  Larceny-Theft: 535,783  Crime Index: 1,209,984    1981 was the most violent year in NYC history as recorded by overall Crime Index in relation to population.",
-                    "Didascalie": "",
-                    "Start": 101,
-                    "End": 1020
-                }
-            ]
-        },
         {
             "Character": "SUNRISE",
             "Replies": [
@@ -6234,6 +6222,17 @@
                     "Didascalie": "",
                     "Start": 206144,
                     "End": 206158
+                }
+            ]
+        },
+        {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Hey.",
+                    "Didascalie": "",
+                    "Start": 191934,
+                    "End": 191939
                 }
             ]
         },

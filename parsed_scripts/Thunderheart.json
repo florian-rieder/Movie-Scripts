@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Thunderheart",
-        "   "
-    ],
+    "Title": "Thunderheart",
     "Author": [
-        "\u00a0\u00a0John Fusco"
+        "John Fusco"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2820,17 +2819,6 @@
             ]
         },
         {
-            "Character": "A DEAD BODY",
-            "Replies": [
-                {
-                    "Reply": "lying face down in the rainbow sand. Dried blood and horse flies cover his blown out torso. The agents stand over him, breathless from the rugged walk.",
-                    "Didascalie": "",
-                    "Start": 28184,
-                    "End": 28368
-                }
-            ]
-        },
-        {
             "Character": "MILES",
             "Replies": [
                 {
@@ -4063,17 +4051,6 @@
             ]
         },
         {
-            "Character": "A WATER PUMP",
-            "Replies": [
-                {
-                    "Reply": "across the yard, where MAISY BLUE LEGS, a Sioux elder, works the handle. She wears thick bifocals and keeps her hair under a bandanna. No water comes forth from the pump, and she tries again and again until she breaks a sweat. And then she sees the waal'cu standing out there.",
-                    "Didascalie": "",
-                    "Start": 71777,
-                    "End": 72118
-                }
-            ]
-        },
-        {
             "Character": "MAISY",
             "Replies": [
                 {
@@ -4321,17 +4298,6 @@
                     "Didascalie": "",
                     "Start": 205542,
                     "End": 205919
-                }
-            ]
-        },
-        {
-            "Character": "A WACIPI",
-            "Replies": [
-                {
-                    "Reply": "is going down. A Powow. Held in the center of a huge arbor. This DANCER, a traditional Kit Fox dancer, is dressed in authentic costume and is dancing with TEN OTHERS dressed in various traditional garb and paints.",
-                    "Didascalie": "",
-                    "Start": 108005,
-                    "End": 108267
                 }
             ]
         },
@@ -4907,28 +4873,6 @@
                     "Didascalie": "",
                     "Start": 225442,
                     "End": 225546
-                }
-            ]
-        },
-        {
-            "Character": "A BODY",
-            "Replies": [
-                {
-                    "Reply": "lies there, face down. Denim jacket and a shock of black hair, thrown into tangles and dirt. It was buried. Until the coyote caught wind. Crow Horse bends down, touches the jacket... turns the body over And almost vomits when he sees Maggie Eagle Bear.",
-                    "Didascalie": "",
-                    "Start": 237403,
-                    "End": 237720
-                }
-            ]
-        },
-        {
-            "Character": "A RIFLE",
-            "Replies": [
-                {
-                    "Reply": "sticks out from a window and punches the Badlands with THREE SHOTS.",
-                    "Didascalie": "",
-                    "Start": 257181,
-                    "End": 257265
                 }
             ]
         }

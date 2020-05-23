@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Truman Show, The",
-        "   "
-    ],
+    "Title": "Truman Show, The",
     "Author": [
-        "\u00a0\u00a0Andrew Niccol"
+        "Andrew Niccol"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Fantasy\u00a0\u00a0Sci-Fi"
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -440,12 +440,6 @@
                     "End": 65341
                 },
                 {
-                    "Reply": "See you in class.",
-                    "Didascalie": "(to Lauren as the two girlfriends abruptly depart)",
-                    "Start": 65476,
-                    "End": 65509
-                },
-                {
                     "Reply": "Lauren, right?",
                     "Didascalie": "",
                     "Start": 65619,
@@ -680,12 +674,6 @@
                     "End": 95356
                 },
                 {
-                    "Reply": "Excuse me.",
-                    "Didascalie": "(attempting to sidestep Truman)",
-                    "Start": 95446,
-                    "End": 95472
-                },
-                {
                     "Reply": "You don't remember?  Two days ago I gave you my meatball sandwich in the park.  You were in a wheelchair.  Same sneakers.",
                     "Didascalie": "",
                     "Start": 95564,
@@ -696,12 +684,6 @@
                     "Didascalie": "",
                     "Start": 96034,
                     "End": 96045
-                },
-                {
-                    "Reply": "Get the hell outta here.",
-                    "Didascalie": "(coming to his companion's aid)",
-                    "Start": 96135,
-                    "End": 96175
                 },
                 {
                     "Reply": "Marlon. I've gotta talk to you.",
@@ -1914,12 +1896,6 @@
                     "End": 165233
                 },
                 {
-                    "Reply": "--No, you're wrong!  He'll prove you wrong!",
-                    "Didascalie": "(as if trying to convince herself. giving herself away)",
-                    "Start": 165376,
-                    "End": 165435
-                },
-                {
                     "Reply": "Do I know you, caller?  Your voice sounds familiar.",
                     "Didascalie": "(a thought occurring, looking directly into camera)",
                     "Start": 165601,
@@ -2520,6 +2496,28 @@
             ]
         },
         {
+            "Character": "COMMUTER 1",
+            "Replies": [
+                {
+                    "Reply": "I can't believe he's taking the long way.",
+                    "Didascalie": "(commenting out of Truman's earshot)",
+                    "Start": 19475,
+                    "End": 19532
+                }
+            ]
+        },
+        {
+            "Character": "COMMUTER 2",
+            "Replies": [
+                {
+                    "Reply": "He'll never make it.",
+                    "Didascalie": "",
+                    "Start": 19585,
+                    "End": 19606
+                }
+            ]
+        },
+        {
             "Character": "CONCIERGE",
             "Replies": [
                 {
@@ -2533,6 +2531,58 @@
                     "Didascalie": "",
                     "Start": 20966,
                     "End": 21073
+                }
+            ]
+        },
+        {
+            "Character": "YOUTH 1",
+            "Replies": [
+                {
+                    "Reply": "You wanna read to me?",
+                    "Didascalie": "(to woman)",
+                    "Start": 21469,
+                    "End": 21506
+                },
+                {
+                    "Reply": "You wannna read to me?",
+                    "Didascalie": "(more insistent)",
+                    "Start": 21608,
+                    "End": 21646
+                },
+                {
+                    "Reply": "We're gonna tell you how it ends, baby.",
+                    "Didascalie": "",
+                    "Start": 23031,
+                    "End": 23071
+                },
+                {
+                    "Reply": "Physical violence paralyzes him.  Always has.",
+                    "Didascalie": "(shrugs, suddenly more couth)",
+                    "Start": 24628,
+                    "End": 24703
+                }
+            ]
+        },
+        {
+            "Character": "YOUTH 2",
+            "Replies": [
+                {
+                    "Reply": "My friend asked you a question.",
+                    "Didascalie": "(menacing)",
+                    "Start": 21914,
+                    "End": 21961
+                },
+                {
+                    "Reply": "Now you're gonna have to ask me how it ends.",
+                    "Didascalie": "",
+                    "Start": 22559,
+                    "End": 22604
+                },
+                {
+                    "Reply": "Don't you wanna know how it ends?",
+                    "Didascalie": "",
+                    "Start": 23217,
+                    "End": 23251
                 }
             ]
         },
@@ -2562,12 +2612,6 @@
                     "Didascalie": "(pondering the incident)",
                     "Start": 24510,
                     "End": 24541
-                },
-                {
-                    "Reply": "Physical violence paralyzes him.  Always has.",
-                    "Didascalie": "(shrugs, suddenly more couth)",
-                    "Start": 24628,
-                    "End": 24703
                 },
                 {
                     "Reply": "Give him a break.  It's taken him thirty-",
@@ -3212,6 +3256,74 @@
             ]
         },
         {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "How can they have a child?",
+                    "Didascalie": "",
+                    "Start": 38223,
+                    "End": 38250
+                },
+                {
+                    "Reply": "Why not?",
+                    "Didascalie": "",
+                    "Start": 38384,
+                    "End": 38393
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "It's not gonna be his, you idiot.",
+                    "Didascalie": "",
+                    "Start": 38300,
+                    "End": 38334
+                },
+                {
+                    "Reply": "You think she'd go through with it?",
+                    "Didascalie": "",
+                    "Start": 38443,
+                    "End": 38479
+                },
+                {
+                    "Reply": "Guess I always thought they'd adopt.",
+                    "Didascalie": "(reassessing his own opinion)",
+                    "Start": 38530,
+                    "End": 38582
+                }
+            ]
+        },
+        {
+            "Character": "OLD WOMAN 1",
+            "Replies": [
+                {
+                    "Reply": "It left him with more than his obvious fear of the water.  It's as if he felt his father had gone beyond his limitations and he vowed never to repeat the mistake.  He was never the same curious little boy again.",
+                    "Didascalie": "(playing amateur psychiatrist)",
+                    "Start": 39634,
+                    "End": 39917
+                },
+                {
+                    "Reply": "Half the people I knew named their babies after him.",
+                    "Didascalie": "",
+                    "Start": 40144,
+                    "End": 40211
+                }
+            ]
+        },
+        {
+            "Character": "OLD WOMAN 2",
+            "Replies": [
+                {
+                    "Reply": "We're all born with a pound of cocaine up our nose.  By the time we're eleven it runs out.",
+                    "Didascalie": "",
+                    "Start": 39971,
+                    "End": 40090
+                }
+            ]
+        },
+        {
             "Character": "ATTENDANT",
             "Replies": [
                 {
@@ -3553,6 +3665,17 @@
             ]
         },
         {
+            "Character": "GIRLFRIEND 1",
+            "Replies": [
+                {
+                    "Reply": "See you in class.",
+                    "Didascalie": "(to Lauren as the two girlfriends abruptly depart)",
+                    "Start": 65476,
+                    "End": 65509
+                }
+            ]
+        },
+        {
             "Character": "LAUREN",
             "Replies": [
                 {
@@ -3724,6 +3847,52 @@
             ]
         },
         {
+            "Character": "SECURITY GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "Can I help?",
+                    "Didascalie": "(to Truman)",
+                    "Start": 82416,
+                    "End": 82443
+                },
+                {
+                    "Reply": "They went bust.",
+                    "Didascalie": "",
+                    "Start": 82707,
+                    "End": 82723
+                },
+                {
+                    "Reply": "You gotta leave.",
+                    "Didascalie": "",
+                    "Start": 83970,
+                    "End": 83987
+                },
+                {
+                    "Reply": "We're re-modelling.",
+                    "Didascalie": "",
+                    "Start": 84507,
+                    "End": 84527
+                }
+            ]
+        },
+        {
+            "Character": "SECURITY GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "You gotta leave.",
+                    "Didascalie": "",
+                    "Start": 84211,
+                    "End": 84228
+                },
+                {
+                    "Reply": "Investigate what?  You're trespassing!",
+                    "Didascalie": "",
+                    "Start": 84884,
+                    "End": 84923
+                }
+            ]
+        },
+        {
             "Character": "OFFICIAL",
             "Replies": [
                 {
@@ -3731,6 +3900,17 @@
                     "Didascalie": "",
                     "Start": 85682,
                     "End": 85694
+                }
+            ]
+        },
+        {
+            "Character": "MOVER 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, would it kill ya to wait?!",
+                    "Didascalie": "",
+                    "Start": 88548,
+                    "End": 88580
                 }
             ]
         },
@@ -3766,6 +3946,28 @@
                     "Didascalie": "(unfazed)",
                     "Start": 90186,
                     "End": 90231
+                }
+            ]
+        },
+        {
+            "Character": "JOGGER 1",
+            "Replies": [
+                {
+                    "Reply": "Excuse me.",
+                    "Didascalie": "(attempting to sidestep Truman)",
+                    "Start": 95446,
+                    "End": 95472
+                }
+            ]
+        },
+        {
+            "Character": "JOGGER 2",
+            "Replies": [
+                {
+                    "Reply": "Get the hell outta here.",
+                    "Didascalie": "(coming to his companion's aid)",
+                    "Start": 96135,
+                    "End": 96175
                 }
             ]
         },
@@ -4311,6 +4513,91 @@
             ]
         },
         {
+            "Character": "MALE CALLER 1",
+            "Replies": [
+                {
+                    "Reply": "Hello?",
+                    "Didascalie": "",
+                    "Start": 160788,
+                    "End": 160795
+                },
+                {
+                    "Reply": "Christof, it's a great honor to speak with you.",
+                    "Didascalie": "",
+                    "Start": 160935,
+                    "End": 160983
+                },
+                {
+                    "Reply": "Truman has never been closer.  The way he looked directly at us, spoke to us for the first time.",
+                    "Didascalie": "",
+                    "Start": 161101,
+                    "End": 161212
+                }
+            ]
+        },
+        {
+            "Character": "MALE CALLER 2",
+            "Replies": [
+                {
+                    "Reply": "How much of a strain has the last few days placed on the actors?",
+                    "Didascalie": "",
+                    "Start": 161947,
+                    "End": 162026
+                }
+            ]
+        },
+        {
+            "Character": "MALE CALLER 3",
+            "Replies": [
+                {
+                    "Reply": "Christof.  I've admired your work my whole life, although I can't say I've seen it all.",
+                    "Didascalie": "",
+                    "Start": 163217,
+                    "End": 163319
+                },
+                {
+                    "Reply": "Can you settle an argument for me?  What's the longest time Truman has been off-camera?",
+                    "Didascalie": "",
+                    "Start": 163435,
+                    "End": 163537
+                }
+            ]
+        },
+        {
+            "Character": "FEMALE CALLER 1",
+            "Replies": [
+                {
+                    "Reply": "How can you say Truman lives a life like any other?",
+                    "Didascalie": "",
+                    "Start": 164178,
+                    "End": 164230
+                },
+                {
+                    "Reply": "--He's not a performer.  He's a prisoner.",
+                    "Didascalie": "",
+                    "Start": 164672,
+                    "End": 164714
+                },
+                {
+                    "Reply": "--No, you're wrong!  He'll prove you wrong!",
+                    "Didascalie": "(as if trying to convince herself. giving herself away)",
+                    "Start": 165376,
+                    "End": 165435
+                }
+            ]
+        },
+        {
+            "Character": "FEMALE CALLER 2",
+            "Replies": [
+                {
+                    "Reply": "By definition Truman has to be free of censorship, but has the recent violence and profanity caused a problem for the sponsors...?",
+                    "Didascalie": "",
+                    "Start": 166706,
+                    "End": 166865
+                }
+            ]
+        },
+        {
             "Character": "VIVIEN",
             "Replies": [
                 {
@@ -4409,6 +4696,17 @@
                     "Didascalie": "(over P.A.)",
                     "Start": 205161,
                     "End": 205253
+                }
+            ]
+        },
+        {
+            "Character": "YOUNG MAN 1",
+            "Replies": [
+                {
+                    "Reply": "I knew he wasn't dead.",
+                    "Didascalie": "",
+                    "Start": 205592,
+                    "End": 205615
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Alien vs. Predator",
-        "   "
-    ],
+    "Title": "Alien vs. Predator",
     "Author": [
-        "\u00a0\u00a0Peter Briggs"
+        "Peter Briggs"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {

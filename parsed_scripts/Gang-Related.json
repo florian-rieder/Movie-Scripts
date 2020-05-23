@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Gang Related",
-        "   "
-    ],
+    "Title": "Gang Related",
     "Author": [
-        "\u00a0\u00a0Jim Kouf"
+        "Jim Kouf"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {
@@ -3102,12 +3100,6 @@
                     "End": 139340
                 },
                 {
-                    "Reply": "HEY, BOB, I GOT AN ASSHOLE IN THE DRESSING ROOM.",
-                    "Didascalie": "(calls down hall)",
-                    "Start": 139387,
-                    "End": 139488
-                },
-                {
                     "Reply": "I suggest you get out before Bob gets here. He doesn't like assholes.",
                     "Didascalie": "(to the man)",
                     "Start": 139530,
@@ -4447,17 +4439,6 @@
                     "Didascalie": "",
                     "Start": 260590,
                     "End": 260668
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Stop and face front.",
-                    "Didascalie": "",
-                    "Start": 84522,
-                    "End": 84543
                 }
             ]
         },
@@ -6440,28 +6421,6 @@
                     "Didascalie": "",
                     "Start": 245548,
                     "End": 245556
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "My God, we thought you were dead, you know. It's just incredible that you're here.",
-                    "Didascalie": "",
-                    "Start": 247399,
-                    "End": 247534
-                }
-            ]
-        },
-        {
-            "Character": "A WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Life moves in such strange ways. Oh, I just think what might've happened to you had you not been arrested for killing that poor policeman. You still might be on the street.",
-                    "Didascalie": "",
-                    "Start": 247605,
-                    "End": 247882
                 }
             ]
         },

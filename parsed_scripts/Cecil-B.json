@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Cecil B. Demented",
-        "   "
-    ],
+    "Title": "Cecil B. Demented",
     "Author": [
-        "\u00a0\u00a0John Waters"
+        "John Waters"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Comedy",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -388,12 +387,6 @@
                     "Didascalie": "(Just trying to finish)",
                     "Start": 64491,
                     "End": 64558
-                },
-                {
-                    "Reply": "Alright! Stop it! Please stop it! I'LL DO THE SCENE! FILM IT!",
-                    "Didascalie": "(FINALLY SNAPPING)",
-                    "Start": 64799,
-                    "End": 64882
                 },
                 {
                     "Reply": "It's that fucking new multiplex that opened in the mall, isn't it?",
@@ -2634,12 +2627,6 @@
                     "Didascalie": "(Furious, to HONEY)",
                     "Start": 115625,
                     "End": 115654
-                },
-                {
-                    "Reply": "FINISH THE FUCKING SCENE!",
-                    "Didascalie": "(To HONEY as he fires his gun)",
-                    "Start": 116596,
-                    "End": 116634
                 },
                 {
                     "Reply": "THAT'S A CUT!",

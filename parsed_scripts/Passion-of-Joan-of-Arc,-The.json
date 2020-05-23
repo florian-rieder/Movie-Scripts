@@ -1,13 +1,753 @@
 {
-    "Title": [
-        "Passion of Joan of Arc, The",
-        "   "
-    ],
+    "Title": "Passion of Joan of Arc, The",
     "Author": [
-        "\u00a0\u00a0Joseph Delteil\u00a0\u00a0Carl Theodor Dreyer"
+        "Joseph Delteil",
+        "Carl Theodor Dreyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
-    "Characters": []
+    "Characters": [
+        {
+            "Character": "CAN HEAR",
+            "Replies": [
+                {
+                    "Reply": "My Mother ...",
+                    "Didascalie": "",
+                    "Start": 9769,
+                    "End": 9783
+                }
+            ]
+        },
+        {
+            "Character": "CAUCHON PUTS FURTHER PRESSURE ON HER",
+            "Replies": [
+                {
+                    "Reply": "she is to repeat the Our Father immediately and unconditionally. She declines to do so.",
+                    "Didascalie": "",
+                    "Start": 10405,
+                    "End": 10503
+                }
+            ]
+        },
+        {
+            "Character": "ANSWERS",
+            "Replies": [
+                {
+                    "Reply": "That is why I was born!",
+                    "Didascalie": "",
+                    "Start": 11090,
+                    "End": 11114
+                },
+                {
+                    "Reply": "Do you not believe that God would have clothes for him?",
+                    "Didascalie": "",
+                    "Start": 14367,
+                    "End": 14438
+                },
+                {
+                    "Reply": "Yes ... and by means of a great victory!",
+                    "Didascalie": "",
+                    "Start": 31899,
+                    "End": 31955
+                },
+                {
+                    "Reply": "His ways are not our ways!",
+                    "Didascalie": "",
+                    "Start": 92446,
+                    "End": 92473
+                }
+            ]
+        },
+        {
+            "Character": "ASKS A NEW QUESTION",
+            "Replies": [
+                {
+                    "Reply": "Was he naked?",
+                    "Didascalie": "",
+                    "Start": 14194,
+                    "End": 14208
+                }
+            ]
+        },
+        {
+            "Character": "AND ANSWERS WITH ARTLESS INSPIRATION",
+            "Replies": [
+                {
+                    "Reply": "Why should he have had it cut off?",
+                    "Didascalie": "",
+                    "Start": 14719,
+                    "End": 14754
+                }
+            ]
+        },
+        {
+            "Character": "ABOUT HER DRESS",
+            "Replies": [
+                {
+                    "Reply": "Why are you wearing men's clothes?",
+                    "Didascalie": "",
+                    "Start": 14985,
+                    "End": 15020
+                }
+            ]
+        },
+        {
+            "Character": "JOAN ANSWERS UNHESITATINGLY",
+            "Replies": [
+                {
+                    "Reply": "Yes!",
+                    "Didascalie": "",
+                    "Start": 16006,
+                    "End": 16011
+                }
+            ]
+        },
+        {
+            "Character": "INSINCERE TONE OF VOICE",
+            "Replies": [
+                {
+                    "Reply": "And what reward do you hope to obtain from the Lord?",
+                    "Didascalie": "",
+                    "Start": 16265,
+                    "End": 16333
+                }
+            ]
+        },
+        {
+            "Character": "FEARLESSLY",
+            "Replies": [
+                {
+                    "Reply": "... it is persecution!",
+                    "Didascalie": "",
+                    "Start": 17457,
+                    "End": 17480
+                }
+            ]
+        },
+        {
+            "Character": "KNOWS WILL BE UNACCEPTABLE TO JOAN",
+            "Replies": [
+                {
+                    "Reply": "Will you take an oath never to bear arms against England again?",
+                    "Didascalie": "",
+                    "Start": 20866,
+                    "End": 20945
+                }
+            ]
+        },
+        {
+            "Character": "SERIOUS AND FRIENDLY WAY AND SAYS",
+            "Replies": [
+                {
+                    "Reply": "I have great sympathy for you!",
+                    "Didascalie": "",
+                    "Start": 26760,
+                    "End": 26791
+                }
+            ]
+        },
+        {
+            "Character": "LETTER AND SAYS",
+            "Replies": [
+                {
+                    "Reply": "I can't read!",
+                    "Didascalie": "",
+                    "Start": 27736,
+                    "End": 27750
+                }
+            ]
+        },
+        {
+            "Character": "SAYS",
+            "Replies": [
+                {
+                    "Reply": "Your martyr's crown.",
+                    "Didascalie": "",
+                    "Start": 29308,
+                    "End": 29329
+                },
+                {
+                    "Reply": "So you are certain of being saved?",
+                    "Didascalie": "",
+                    "Start": 32905,
+                    "End": 32940
+                },
+                {
+                    "Reply": "I have done no wrong ... I believe in the twelve articles of the Creed and in God's Ten Commandments!",
+                    "Didascalie": "",
+                    "Start": 75840,
+                    "End": 75974
+                }
+            ]
+        },
+        {
+            "Character": "CONVULSIVELY FORWARD AND SHOUTS",
+            "Replies": [
+                {
+                    "Reply": "Don't answer, Joan - this question is too dangerous...",
+                    "Didascalie": "",
+                    "Start": 34880,
+                    "End": 34950
+                }
+            ]
+        },
+        {
+            "Character": "BEGS HIM",
+            "Replies": [
+                {
+                    "Reply": "I implore you to let me come to Mass!",
+                    "Didascalie": "",
+                    "Start": 37048,
+                    "End": 37101
+                }
+            ]
+        },
+        {
+            "Character": "OTHERWISE",
+            "Replies": [
+                {
+                    "Reply": "I cannot do anything else ... it is not in my power!",
+                    "Didascalie": "",
+                    "Start": 38546,
+                    "End": 38614
+                }
+            ]
+        },
+        {
+            "Character": "OVER HER AND HISSES",
+            "Replies": [
+                {
+                    "Reply": "... but a child of the Devil!",
+                    "Didascalie": "",
+                    "Start": 39316,
+                    "End": 39346
+                }
+            ]
+        },
+        {
+            "Character": "SYMPATHETICALLY",
+            "Replies": [
+                {
+                    "Reply": "Do not grieve ... place your trust in God, he will not forget you!",
+                    "Didascalie": "",
+                    "Start": 40360,
+                    "End": 40445
+                }
+            ]
+        },
+        {
+            "Character": "TONES",
+            "Replies": [
+                {
+                    "Reply": "She looks just like a daughter of God, eh?",
+                    "Didascalie": "",
+                    "Start": 41393,
+                    "End": 41454
+                }
+            ]
+        },
+        {
+            "Character": "WHEN JOAN INTERRUPTS HIM",
+            "Replies": [
+                {
+                    "Reply": "... but the wisdom of God is even greater!",
+                    "Didascalie": "",
+                    "Start": 43415,
+                    "End": 43473
+                }
+            ]
+        },
+        {
+            "Character": "GREAT EMPHASIS",
+            "Replies": [
+                {
+                    "Reply": "Suppose we were to tell you now that your visions did not - as you believe - come from God ...",
+                    "Didascalie": "",
+                    "Start": 43924,
+                    "End": 44049
+                }
+            ]
+        },
+        {
+            "Character": "CAUCHON CONTINUES",
+            "Replies": [
+                {
+                    "Reply": "... but are sent to you by the Devil, who wants to bring your soul to perdition!",
+                    "Didascalie": "",
+                    "Start": 44216,
+                    "End": 44327
+                },
+                {
+                    "Reply": "... But you will never share in the Church's blessings, if you do not expiate your sins.",
+                    "Didascalie": "",
+                    "Start": 60589,
+                    "End": 60710
+                }
+            ]
+        },
+        {
+            "Character": "TOWARDS HER AND SAYS",
+            "Replies": [
+                {
+                    "Reply": "How can you believe that it is God who guides your steps when you see the abyss opening before your feet?",
+                    "Didascalie": "",
+                    "Start": 45456,
+                    "End": 45592
+                }
+            ]
+        },
+        {
+            "Character": "WORDS WITH STEADILY INCREASING EMPHASIS",
+            "Replies": [
+                {
+                    "Reply": "Do you not understand that it is the Devil who has turned your head ...",
+                    "Didascalie": "",
+                    "Start": 45718,
+                    "End": 45820
+                }
+            ]
+        },
+        {
+            "Character": "THEN AFTER ANOTHER SHORT PAUSE",
+            "Replies": [
+                {
+                    "Reply": "... and betrayed you?",
+                    "Didascalie": "",
+                    "Start": 46026,
+                    "End": 46048
+                }
+            ]
+        },
+        {
+            "Character": "CAUCHON THREATENS HER",
+            "Replies": [
+                {
+                    "Reply": "... but if you do not sign, the Church will turn her back on you and you will stand alone ...",
+                    "Didascalie": "",
+                    "Start": 47958,
+                    "End": 48082
+                }
+            ]
+        },
+        {
+            "Character": "THIS AND THUNDERS",
+            "Replies": [
+                {
+                    "Reply": "... alone ...",
+                    "Didascalie": "",
+                    "Start": 48320,
+                    "End": 48334
+                }
+            ]
+        },
+        {
+            "Character": "BEAUTIFUL LIGHT AS SHE SAYS",
+            "Replies": [
+                {
+                    "Reply": "I would rather die than deny God's acts.",
+                    "Didascalie": "",
+                    "Start": 48901,
+                    "End": 48957
+                }
+            ]
+        },
+        {
+            "Character": "AND JOAN SAYS VEHEMENTLY",
+            "Replies": [
+                {
+                    "Reply": "... and if I should confess anything, I will afterwards declare that it was only by using force that you made me confess.",
+                    "Didascalie": "",
+                    "Start": 50234,
+                    "End": 50401
+                }
+            ]
+        },
+        {
+            "Character": "VOTES WHEN HE DECLARES",
+            "Replies": [
+                {
+                    "Reply": "This heart is much too hardened ...",
+                    "Didascalie": "",
+                    "Start": 52434,
+                    "End": 52470
+                }
+            ]
+        },
+        {
+            "Character": "DOCTORS APPROACHES HIM AND SAYS",
+            "Replies": [
+                {
+                    "Reply": "She has a fever, we shall have to bleed her ...",
+                    "Didascalie": "",
+                    "Start": 54239,
+                    "End": 54306
+                }
+            ]
+        },
+        {
+            "Character": "WHICH CANNOT BE MISUNDERSTOOD",
+            "Replies": [
+                {
+                    "Reply": "She is very weak...",
+                    "Didascalie": "",
+                    "Start": 54979,
+                    "End": 54999
+                }
+            ]
+        },
+        {
+            "Character": "STROKES HER HAIR AND SAYS",
+            "Replies": [
+                {
+                    "Reply": "The Church is merciful ...",
+                    "Didascalie": "",
+                    "Start": 58430,
+                    "End": 58457
+                }
+            ]
+        },
+        {
+            "Character": "VOICE",
+            "Replies": [
+                {
+                    "Reply": "What would you say if we gave you the Sacrament?",
+                    "Didascalie": "",
+                    "Start": 58841,
+                    "End": 58906
+                }
+            ]
+        },
+        {
+            "Character": "THEN SHE SAYS JOYFULLY",
+            "Replies": [
+                {
+                    "Reply": "I am a good Christian ...",
+                    "Didascalie": "",
+                    "Start": 59516,
+                    "End": 59542
+                }
+            ]
+        },
+        {
+            "Character": "RECOGNIZES",
+            "Replies": [
+                {
+                    "Reply": "it is the same declaration which was placed in front of her for her to sign during the torture scene. Her look of astonishment shifts from the notary to the document and from the latter to Cauchon.",
+                    "Didascalie": "",
+                    "Start": 59899,
+                    "End": 60115
+                }
+            ]
+        },
+        {
+            "Character": "HER AND SAYS",
+            "Replies": [
+                {
+                    "Reply": "The Sacrament ... is it not a great blessing?",
+                    "Didascalie": "",
+                    "Start": 60345,
+                    "End": 60407
+                }
+            ]
+        },
+        {
+            "Character": "CONCLUDES WITH THESE WORDS",
+            "Replies": [
+                {
+                    "Reply": "If you die in this hour, you die as an infidel...",
+                    "Didascalie": "",
+                    "Start": 62616,
+                    "End": 62684
+                }
+            ]
+        },
+        {
+            "Character": "WORDS",
+            "Replies": [
+                {
+                    "Reply": "You say that I am a child of the Devil...",
+                    "Didascalie": "",
+                    "Start": 64335,
+                    "End": 64396
+                }
+            ]
+        },
+        {
+            "Character": "AND SHE CONTINUES",
+            "Replies": [
+                {
+                    "Reply": "... but I say it is you who have been sent by the Devil to torment me!",
+                    "Didascalie": "",
+                    "Start": 64442,
+                    "End": 64551
+                }
+            ]
+        },
+        {
+            "Character": "MASSIEU",
+            "Replies": [
+                {
+                    "Reply": "There is nothing for it ... give the executioner his orders!",
+                    "Didascalie": "",
+                    "Start": 65275,
+                    "End": 65355
+                }
+            ]
+        },
+        {
+            "Character": "VOICE TREMBLES AS HE CONTINUES",
+            "Replies": [
+                {
+                    "Reply": "There has never been a monster in France like the one which has appeared in the form of Joan.",
+                    "Didascalie": "",
+                    "Start": 71090,
+                    "End": 71216
+                }
+            ]
+        },
+        {
+            "Character": "SHOUTS AT JOAN",
+            "Replies": [
+                {
+                    "Reply": "It is to you, Joan, I am talking...",
+                    "Didascalie": "",
+                    "Start": 71323,
+                    "End": 71359
+                }
+            ]
+        },
+        {
+            "Character": "SYRUPY AS HE SAYS",
+            "Replies": [
+                {
+                    "Reply": "Joan, we have great sympathy for you!",
+                    "Didascalie": "",
+                    "Start": 76141,
+                    "End": 76195
+                }
+            ]
+        },
+        {
+            "Character": "OUT",
+            "Replies": [
+                {
+                    "Reply": "Long live the Maid! ... Long live France!",
+                    "Didascalie": "",
+                    "Start": 79826,
+                    "End": 79884
+                }
+            ]
+        },
+        {
+            "Character": "ALOUD",
+            "Replies": [
+                {
+                    "Reply": "In as much as you have at last renounced the error of your ways, we release you from excommunication from the Church ...",
+                    "Didascalie": "",
+                    "Start": 80217,
+                    "End": 80386
+                }
+            ]
+        },
+        {
+            "Character": "CONTINUES",
+            "Replies": [
+                {
+                    "Reply": "But in as much as you have rashly sinned we condemn you . ..",
+                    "Didascalie": "",
+                    "Start": 80616,
+                    "End": 80693
+                },
+                {
+                    "Reply": "... but I entreat Thee, if Thou lovest me, that my suffering may be short ...",
+                    "Didascalie": "",
+                    "Start": 98087,
+                    "End": 98197
+                }
+            ]
+        },
+        {
+            "Character": "ENTREATY",
+            "Replies": [
+                {
+                    "Reply": "Oh, I am so tired ...",
+                    "Didascalie": "",
+                    "Start": 82914,
+                    "End": 82936
+                }
+            ]
+        },
+        {
+            "Character": "HEAD VIOLENTLY",
+            "Replies": [
+                {
+                    "Reply": "No! No! No!",
+                    "Didascalie": "",
+                    "Start": 84835,
+                    "End": 84847
+                }
+            ]
+        },
+        {
+            "Character": "SHOUTS",
+            "Replies": [
+                {
+                    "Reply": "Go and fetch the judges ... I take back ... I regret ... I have lied ...",
+                    "Didascalie": "",
+                    "Start": 85407,
+                    "End": 85512
+                },
+                {
+                    "Reply": "You have burnt a saint!",
+                    "Didascalie": "",
+                    "Start": 105197,
+                    "End": 105221
+                }
+            ]
+        },
+        {
+            "Character": "THIS FOLKLIFE",
+            "Replies": [
+                {
+                    "Reply": "dancing bears - acrobats - jugglers - a musician - a hobby-horse - a dance-leader - a man with a stick over his shoulder and a cask hanging from the stick -",
+                    "Didascalie": "",
+                    "Start": 86579,
+                    "End": 86748
+                }
+            ]
+        },
+        {
+            "Character": "CASTLE YARD",
+            "Replies": [
+                {
+                    "Reply": "a man carrying firewood to the stake, a broken carriage-wheel in the fuel, etc.",
+                    "Didascalie": "",
+                    "Start": 87136,
+                    "End": 87222
+                }
+            ]
+        },
+        {
+            "Character": "THAT SHE CAN CONTINUE",
+            "Replies": [
+                {
+                    "Reply": "... I have denied God in order to save my life.",
+                    "Didascalie": "",
+                    "Start": 88873,
+                    "End": 88937
+                }
+            ]
+        },
+        {
+            "Character": "HE SAYS",
+            "Replies": [
+                {
+                    "Reply": "So you still believe that you are sent by God?",
+                    "Didascalie": "",
+                    "Start": 89182,
+                    "End": 89245
+                }
+            ]
+        },
+        {
+            "Character": "IN A FRIENDLY TONE",
+            "Replies": [
+                {
+                    "Reply": "But, Joan, you have admitted in front of everybody that you were misled by the Devil.",
+                    "Didascalie": "",
+                    "Start": 89714,
+                    "End": 89832
+                }
+            ]
+        },
+        {
+            "Character": "SHE REPLIES",
+            "Replies": [
+                {
+                    "Reply": "Everything I said was for fear of the stake!",
+                    "Didascalie": "",
+                    "Start": 90003,
+                    "End": 90064
+                }
+            ]
+        },
+        {
+            "Character": "LADVENU SAYS",
+            "Replies": [
+                {
+                    "Reply": "How can you still believe that you are sent by God?",
+                    "Didascalie": "",
+                    "Start": 92285,
+                    "End": 92353
+                }
+            ]
+        },
+        {
+            "Character": "AFTER A PAUSE SHE ADDS",
+            "Replies": [
+                {
+                    "Reply": "Yes, I am His child!",
+                    "Didascalie": "",
+                    "Start": 92521,
+                    "End": 92542
+                }
+            ]
+        },
+        {
+            "Character": "HER EYES",
+            "Replies": [
+                {
+                    "Reply": "Where will I be tonight?",
+                    "Didascalie": "",
+                    "Start": 98672,
+                    "End": 98697
+                }
+            ]
+        },
+        {
+            "Character": "MISSAL",
+            "Replies": [
+                {
+                    "Reply": "Joan wishes to have a cross with her when she dies!",
+                    "Didascalie": "",
+                    "Start": 99174,
+                    "End": 99242
+                }
+            ]
+        },
+        {
+            "Character": "SHOUTS TO HIM",
+            "Replies": [
+                {
+                    "Reply": "The fire! Get down!",
+                    "Didascalie": "",
+                    "Start": 101097,
+                    "End": 101117
+                }
+            ]
+        },
+        {
+            "Character": "OTHERS CONTINUE",
+            "Replies": [
+                {
+                    "Reply": "... now and in our last hour.",
+                    "Didascalie": "",
+                    "Start": 104018,
+                    "End": 104048
+                }
+            ]
+        },
+        {
+            "Character": "CURTLY",
+            "Replies": [
+                {
+                    "Reply": "Throw this lot in the Seine!",
+                    "Didascalie": "",
+                    "Start": 106432,
+                    "End": 106461
+                }
+            ]
+        }
+    ]
 }

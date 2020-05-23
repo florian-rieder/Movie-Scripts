@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Girl with the Dragon Tattoo, The",
-        "   "
-    ],
+    "Title": "Girl with the Dragon Tattoo, The",
     "Author": [
-        "\u00a0\u00a0Steven Zaillian"
+        "Steven Zaillian"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Mystery"
+        "Crime",
+        "Drama",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -2878,6 +2877,40 @@
                     "Didascalie": "",
                     "Start": 325697,
                     "End": 325754
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "Don't try to play it down, Mikael, it won't work.",
+                    "Didascalie": "",
+                    "Start": 2529,
+                    "End": 2594
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Will you appeal?",
+                    "Didascalie": "",
+                    "Start": 3015,
+                    "End": 3032
+                },
+                {
+                    "Reply": "You wouldn't say the first step was your sacking of Mr. Blomkvist?",
+                    "Didascalie": "",
+                    "Start": 118496,
+                    "End": 118579
+                },
+                {
+                    "Reply": "Where.",
+                    "Didascalie": "",
+                    "Start": 118820,
+                    "End": 118827
                 }
             ]
         },
@@ -6573,6 +6606,29 @@
             ]
         },
         {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "Is any magazine really undervalued today. How many will be around tomorrow?",
+                    "Didascalie": "",
+                    "Start": 120190,
+                    "End": 120298
+                },
+                {
+                    "Reply": "Are you referring to Mr. Wennerstrom?",
+                    "Didascalie": "",
+                    "Start": 120476,
+                    "End": 120514
+                },
+                {
+                    "Reply": "You're enjoying this.",
+                    "Didascalie": "",
+                    "Start": 120892,
+                    "End": 120914
+                }
+            ]
+        },
+        {
             "Character": "PHOTO EDITOR",
             "Replies": [
                 {
@@ -6724,6 +6780,34 @@
                     "Didascalie": "",
                     "Start": 191049,
                     "End": 191123
+                }
+            ]
+        },
+        {
+            "Character": "CLERK 1",
+            "Replies": [
+                {
+                    "Reply": "Can I help you?",
+                    "Didascalie": "",
+                    "Start": 192180,
+                    "End": 192196
+                }
+            ]
+        },
+        {
+            "Character": "CLERK 2",
+            "Replies": [
+                {
+                    "Reply": "I don't recognize him.      Sorry.",
+                    "Didascalie": "",
+                    "Start": 193001,
+                    "End": 193036
+                },
+                {
+                    "Reply": "I'm no detective, but I think I would've started at the retirement home.",
+                    "Didascalie": "",
+                    "Start": 193237,
+                    "End": 193344
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "What About Bob?",
-        "   "
-    ],
+    "Title": "What About Bob?",
     "Author": [
-        "\u00a0\u00a0Tom Schulman\u00a0\u00a0Alvin Sargent\u00a0\u00a0Laura Ziskin"
+        "Tom Schulman",
+        "Alvin Sargent",
+        "Laura Ziskin"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -18,6 +17,64 @@
                     "Didascalie": "",
                     "Start": 2908,
                     "End": 2942
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR 1",
+            "Replies": [
+                {
+                    "Reply": "I've had the same nightmare three nights running.",
+                    "Didascalie": "",
+                    "Start": 3025,
+                    "End": 3101
+                },
+                {
+                    "Reply": "My god, it was insanity. Bob drove Marvin to complete insanity!",
+                    "Didascalie": "",
+                    "Start": 232909,
+                    "End": 232999
+                },
+                {
+                    "Reply": "Pinch me!",
+                    "Didascalie": "",
+                    "Start": 243380,
+                    "End": 243390
+                }
+            ]
+        },
+        {
+            "Character": "DOCTOR 2",
+            "Replies": [
+                {
+                    "Reply": "Come on, David, we're on a vacation.",
+                    "Didascalie": "",
+                    "Start": 3173,
+                    "End": 3210
+                },
+                {
+                    "Reply": "Had that stupid best seller, what was the name of it?",
+                    "Didascalie": "",
+                    "Start": 13729,
+                    "End": 13809
+                },
+                {
+                    "Reply": "Why?",
+                    "Didascalie": "",
+                    "Start": 14127,
+                    "End": 14132
+                },
+                {
+                    "Reply": "Wait a minute. You're not telling me that Bob Wiley is Dr. Robert S. Wiley, the psychologist?!",
+                    "Didascalie": "",
+                    "Start": 242075,
+                    "End": 242222
+                },
+                {
+                    "Reply": "I don't believe it!",
+                    "Didascalie": "",
+                    "Start": 243288,
+                    "End": 243308
                 }
             ]
         },
@@ -255,17 +312,6 @@
                     "Didascalie": "",
                     "Start": 243096,
                     "End": 243128
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG DOCTOR",
-            "Replies": [
-                {
-                    "Reply": "Who's Leo Marvin?",
-                    "Didascalie": "",
-                    "Start": 4576,
-                    "End": 4594
                 }
             ]
         },
@@ -2638,13 +2684,13 @@
             ]
         },
         {
-            "Character": "A WIFE",
+            "Character": "DOCTOR 4",
             "Replies": [
                 {
-                    "Reply": "But who's Leo Marvin? I know I've heard the name.",
+                    "Reply": "Was he the guy who specialized in necrophiliacs?",
                     "Didascalie": "",
-                    "Start": 6815,
-                    "End": 6891
+                    "Start": 6970,
+                    "End": 7045
                 }
             ]
         },
@@ -6797,17 +6843,6 @@
             ]
         },
         {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "around enjoying the sail.",
-                    "Didascalie": "",
-                    "Start": 117698,
-                    "End": 117724
-                }
-            ]
-        },
-        {
             "Character": "MARVIN PUPPET",
             "Replies": [
                 {
@@ -7155,6 +7190,17 @@
             ]
         },
         {
+            "Character": "BIG ATTENDANT 1",
+            "Replies": [
+                {
+                    "Reply": "Let us show you to your room.",
+                    "Didascalie": "",
+                    "Start": 190725,
+                    "End": 190755
+                }
+            ]
+        },
+        {
             "Character": "TOMSKY",
             "Replies": [
                 {
@@ -7232,6 +7278,28 @@
                     "Didascalie": "",
                     "Start": 204288,
                     "End": 204298
+                }
+            ]
+        },
+        {
+            "Character": "PARTY GUEST 1",
+            "Replies": [
+                {
+                    "Reply": "Happy Birthday, Leo.",
+                    "Didascalie": "",
+                    "Start": 205267,
+                    "End": 205288
+                }
+            ]
+        },
+        {
+            "Character": "PARTY GUEST 2",
+            "Replies": [
+                {
+                    "Reply": "Some night to have car trouble. You almost missed your own surprise party!",
+                    "Didascalie": "",
+                    "Start": 205365,
+                    "End": 205466
                 }
             ]
         },

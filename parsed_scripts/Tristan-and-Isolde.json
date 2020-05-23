@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Tristan and Isolde",
-        "   "
-    ],
+    "Title": "Tristan and Isolde",
     "Author": [
-        "\u00a0\u00a0Dean Georgaris"
+        "Dean Georgaris"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Action",
+        "Adventure",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Being Human",
-        "   "
-    ],
+    "Title": "Being Human",
     "Author": [
-        "\u00a0\u00a0Bill Forsyth"
+        "Bill Forsyth"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Fantasy"
+        "Comedy",
+        "Drama",
+        "Fantasy"
     ],
     "Characters": [
         {

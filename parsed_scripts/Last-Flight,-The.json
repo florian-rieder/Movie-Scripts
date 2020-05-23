@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Last Flight, The",
-        "   "
-    ],
+    "Title": "Last Flight, The",
     "Author": [
-        "\u00a0\u00a0John Monk Saunders"
+        "John Monk Saunders"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -4071,17 +4068,6 @@
             ]
         },
         {
-            "Character": "A GLOWING SIGN",
-            "Replies": [
-                {
-                    "Reply": "made of light bulbs, outside the building. It spells out CLARIDGE'S -- a popular Parisian drinking establishment for Anglo-Americans.",
-                    "Didascalie": "",
-                    "Start": 18005,
-                    "End": 18150
-                }
-            ]
-        },
-        {
             "Character": "NIKKI",
             "Replies": [
                 {
@@ -5926,17 +5912,6 @@
                     "Didascalie": "",
                     "Start": 39407,
                     "End": 39423
-                }
-            ]
-        },
-        {
-            "Character": "A HORSE-DRAWN CAB",
-            "Replies": [
-                {
-                    "Reply": "rolling down the street in their direction.",
-                    "Didascalie": "",
-                    "Start": 48049,
-                    "End": 48093
                 }
             ]
         },

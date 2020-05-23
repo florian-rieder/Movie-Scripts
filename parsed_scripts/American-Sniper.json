@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "American Sniper",
-        "   "
-    ],
+    "Title": "American Sniper",
     "Author": [
-        "\u00a0\u00a0 Jason Hall"
+        " Jason Hall"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama"
+        "Action",
+        "Drama"
     ],
     "Characters": [
         {
@@ -435,17 +433,6 @@
                     "Didascalie": "",
                     "Start": 73304,
                     "End": 73560
-                }
-            ]
-        },
-        {
-            "Character": "A WHITE-TAIL BUCK",
-            "Replies": [
-                {
-                    "Reply": "It staggers, draws and topples to the ground. We are--",
-                    "Didascalie": "",
-                    "Start": 5432,
-                    "End": 5487
                 }
             ]
         },
@@ -4546,17 +4533,6 @@
             ]
         },
         {
-            "Character": "A GOAT",
-            "Replies": [
-                {
-                    "Reply": "Bounds out of the bathroom, runs out the apartment door and leaps OVER THE RAILING, falling six floors.",
-                    "Didascalie": "",
-                    "Start": 47282,
-                    "End": 47391
-                }
-            ]
-        },
-        {
             "Character": "RAILING",
             "Replies": [
                 {
@@ -5161,17 +5137,6 @@
             ]
         },
         {
-            "Character": "A SQUAD OF MARINES",
-            "Replies": [
-                {
-                    "Reply": "Loading onto a C-17 weary, injured, heading home. JEFF KYLE doesn't see Chris until he has hands on him.",
-                    "Didascalie": "",
-                    "Start": 105303,
-                    "End": 105413
-                }
-            ]
-        },
-        {
             "Character": "MARINE LCPL",
             "Replies": [
                 {
@@ -5442,17 +5407,6 @@
             ]
         },
         {
-            "Character": "A SHORT STRAIGHTAWAY",
-            "Replies": [
-                {
-                    "Reply": "the thing and watches it hiss to a stop.",
-                    "Didascalie": "",
-                    "Start": 139388,
-                    "End": 139429
-                }
-            ]
-        },
-        {
             "Character": "DISTANT BALUSTRADE",
             "Replies": [
                 {
@@ -5505,17 +5459,6 @@
                     "Didascalie": "",
                     "Start": 162346,
                     "End": 162362
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG KID",
-            "Replies": [
-                {
-                    "Reply": "No older than Colton. He grabs the RPG, shoulders it.",
-                    "Didascalie": "",
-                    "Start": 162565,
-                    "End": 162619
                 }
             ]
         },
@@ -5738,6 +5681,17 @@
                     "Didascalie": "",
                     "Start": 176645,
                     "End": 176677
+                }
+            ]
+        },
+        {
+            "Character": "F-18 RAPTOR",
+            "Replies": [
+                {
+                    "Reply": "THE PILOT flying into the storm. Sensors screaming. He can't hold his line. 4, 3, 2-- He pulls up early.",
+                    "Didascalie": "",
+                    "Start": 178075,
+                    "End": 178180
                 }
             ]
         },

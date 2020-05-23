@@ -1,22 +1,21 @@
 {
-    "Title": [
-        "Interstellar",
-        "   "
-    ],
+    "Title": "Interstellar",
     "Author": [
-        "\u00a0\u00a0Jonathan Nolan"
+        "Jonathan Nolan"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Sci-Fi"
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
     ],
     "Characters": [
         {
-            "Character": "STORY BY",
+            "Character": "MARCH 12 2008",
             "Replies": [
                 {
-                    "Reply": "MARCH 12 2008   SPACE.",
+                    "Reply": "SPACE.",
                     "Didascalie": "",
-                    "Start": 759,
+                    "Start": 785,
                     "End": 792
                 }
             ]

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Blood Simple",
-        "   "
-    ],
+    "Title": "Blood Simple",
     "Author": [
-        "\u00a0\u00a0Joel Coen\u00a0\u00a0Ethan Coen"
+        "Joel Coen",
+        "Ethan Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Best Exotic Marigold Hotel, The",
-        "   "
-    ],
+    "Title": "Best Exotic Marigold Hotel, The",
     "Author": [
-        "\u00a0\u00a0Ol Parker"
+        "Ol Parker"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -6593,17 +6591,6 @@
                     "Didascalie": "",
                     "Start": 151731,
                     "End": 151764
-                }
-            ]
-        },
-        {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "A stunning view over the city. Madge is having a drink with Norman. Douglas is sitting on the wall, but keeps looking down towards the stairs.",
-                    "Didascalie": "",
-                    "Start": 170463,
-                    "End": 170626
                 }
             ]
         },

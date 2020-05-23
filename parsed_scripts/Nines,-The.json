@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Nines, The",
-        "   "
-    ],
+    "Title": "Nines, The",
     "Author": [
-        "\u00a0\u00a0John August"
+        "John August"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -29,17 +29,6 @@
                     "Didascalie": "",
                     "Start": 1306,
                     "End": 1395
-                }
-            ]
-        },
-        {
-            "Character": "A DIGITAL METER",
-            "Replies": [
-                {
-                    "Reply": "shoots to 100 miles per gallon.   It's the display of Gary's Prius. We are...",
-                    "Didascalie": "",
-                    "Start": 4059,
-                    "End": 4143
                 }
             ]
         },

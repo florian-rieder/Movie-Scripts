@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "Jurassic Park III",
-        "   "
-    ],
+    "Title": "Jurassic Park III",
     "Author": [
-        "\u00a0\u00a0Peter Buchman\u00a0\u00a0Alexander Payne\u00a0\u00a0John August\u00a0\u00a0Jim Taylor"
+        "Peter Buchman",
+        "Alexander Payne",
+        "John August",
+        "Jim Taylor"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3175,17 +3179,6 @@
             ]
         },
         {
-            "Character": "A RAPTOR",
-            "Replies": [
-                {
-                    "Reply": "sits besides him. The dinosaur eyes him curiously, then opens his mouth...",
-                    "Didascalie": "",
-                    "Start": 22225,
-                    "End": 22301
-                }
-            ]
-        },
-        {
             "Character": "RAPTOR",
             "Replies": [
                 {
@@ -3254,17 +3247,6 @@
             ]
         },
         {
-            "Character": "A SHADOW",
-            "Replies": [
-                {
-                    "Reply": "falls over the injured mercenary. Then with brutal speed, an ENORMOUS BEAST seizes him in its massive jaws and lifts him into the air.",
-                    "Didascalie": "",
-                    "Start": 29407,
-                    "End": 29544
-                }
-            ]
-        },
-        {
             "Character": "RECORDED VOICE",
             "Replies": [
                 {
@@ -3320,28 +3302,6 @@
             ]
         },
         {
-            "Character": "A CAVERNOUS HATCHING FACILITY",
-            "Replies": [
-                {
-                    "Reply": "filled with much of the same equipment we recognized from the first island, although the sheer size of this place dwarfs any of the facilities seen previously.",
-                    "Didascalie": "",
-                    "Start": 56876,
-                    "End": 57038
-                }
-            ]
-        },
-        {
-            "Character": "A GIGANTIC MANIFIED RAPTOR HEAD",
-            "Replies": [
-                {
-                    "Reply": "floating in the one tank.",
-                    "Didascalie": "",
-                    "Start": 58107,
-                    "End": 58133
-                }
-            ]
-        },
-        {
             "Character": "AN ACTUAL RAPTOR",
             "Replies": [
                 {
@@ -3349,17 +3309,6 @@
                     "Didascalie": "",
                     "Start": 58336,
                     "End": 58385
-                }
-            ]
-        },
-        {
-            "Character": "A PACK OF RAPTORS",
-            "Replies": [
-                {
-                    "Reply": "emerges from the jungles, coming their way.",
-                    "Didascalie": "",
-                    "Start": 61298,
-                    "End": 61342
                 }
             ]
         },
@@ -3397,17 +3346,6 @@
             ]
         },
         {
-            "Character": "A BROKEN RAPTOR EGG",
-            "Replies": [
-                {
-                    "Reply": "inside, the white and green yolk still dripping from the pieces of the shell. There's another intact egg beside it.",
-                    "Didascalie": "",
-                    "Start": 66489,
-                    "End": 66606
-                }
-            ]
-        },
-        {
             "Character": "FIVE CANISTERS",
             "Replies": [
                 {
@@ -3426,28 +3364,6 @@
                     "Didascalie": "",
                     "Start": 68379,
                     "End": 68405
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL DIRTY HAND",
-            "Replies": [
-                {
-                    "Reply": "grabs his, pulling him along.",
-                    "Didascalie": "",
-                    "Start": 68528,
-                    "End": 68558
-                }
-            ]
-        },
-        {
-            "Character": "A SAIL",
-            "Replies": [
-                {
-                    "Reply": "moving through the low trees. We recognize it as the back of a spinosaurus. We might think it's any random spinosaurus, except for the RINGING coming from somewhere inside it.",
-                    "Didascalie": "",
-                    "Start": 77160,
-                    "End": 77338
                 }
             ]
         },
@@ -3474,17 +3390,6 @@
             ]
         },
         {
-            "Character": "A SECOND PTERANODON",
-            "Replies": [
-                {
-                    "Reply": "CRASH LANDS on the catwalk enclosure about them -- right next to a gaping hole in the mesh. The catwalk GROANS with the extra weight.",
-                    "Didascalie": "",
-                    "Start": 88299,
-                    "End": 88435
-                }
-            ]
-        },
-        {
             "Character": "PTERANODON",
             "Replies": [
                 {
@@ -3492,17 +3397,6 @@
                     "Didascalie": "",
                     "Start": 93377,
                     "End": 93458
-                }
-            ]
-        },
-        {
-            "Character": "A SHIMMERING WAVE OF SILVER",
-            "Replies": [
-                {
-                    "Reply": "passes beneath the boat.",
-                    "Didascalie": "",
-                    "Start": 99815,
-                    "End": 99840
                 }
             ]
         },
@@ -3547,28 +3441,6 @@
                     "Didascalie": "",
                     "Start": 101933,
                     "End": 101956
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Listen to your mother.",
-                    "Didascalie": "",
-                    "Start": 107919,
-                    "End": 107942
-                }
-            ]
-        },
-        {
-            "Character": "A PTERANODON",
-            "Replies": [
-                {
-                    "Reply": "flies up out of the trees, the first of twenty. It's a gorgeous and terrifying sight.",
-                    "Didascalie": "",
-                    "Start": 112041,
-                    "End": 112128
                 }
             ]
         }

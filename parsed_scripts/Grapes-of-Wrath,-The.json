@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Grapes of Wrath, The",
-        "   "
-    ],
+    "Title": "Grapes of Wrath, The",
     "Author": [
-        "\u00a0\u00a0Nunnally Johnson"
+        "Nunnally Johnson"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1488,6 +1485,12 @@
                     "End": 221892
                 },
                 {
+                    "Reply": "INSIDE THE SHACK, Tom enters warily, alert for any indication that either his name or his scar may have been learned and telegraphed here. But the caretaker obviously attaches no significance to either. The shack is bare but for a cot, a table, a chair, and an electric light. The caretaker is seated at the table, pen in hand, a soiled ledger open, when Tom enters.",
+                    "Didascalie": "(He follows the caretaker into the shack)",
+                    "Start": 222025,
+                    "End": 222505
+                },
+                {
                     "Reply": "Joad. Tom Joad.",
                     "Didascalie": "(watching him)",
                     "Start": 222813,
@@ -2067,6 +2070,12 @@
                     "Didascalie": "",
                     "Start": 192587,
                     "End": 192657
+                },
+                {
+                    "Reply": "INSIDE THE TENT, three other men sit on the ground as Casy brings Tom in. One's name is Frank.",
+                    "Didascalie": "(He pulls Tom into the tent.)",
+                    "Start": 192747,
+                    "End": 192875
                 },
                 {
                     "Reply": "This is him. What you doin' here, Tommy?",
@@ -3847,6 +3856,12 @@
                     "Didascalie": "",
                     "Start": 61094,
                     "End": 61293
+                },
+                {
+                    "Reply": "INSIDE THE CABIN, Ma sits on a box in front of the stove. The fire door is open and the light shines out. The room itself has been pretty well stripped, with only trash and discarded things left. In Ma's lap is a pasteboard shoebox and she is going through the meager treasures stored in it, to see what must go and what she can take with her. Her eyes are soft and thoughtful as each item brings a memory, but not sad. Occasionally she smiles faintly. She pulls out a letter, looks at it, starts to throw it into the fire, then puts it back in the box. Her hand pulls out a PICTURE POSTCARD. We see it in Ma's hand. It is a picture of the Statue Of Liberty. Over it: \"Greetings from New York City.\" She turns it over. It is addressed: \"Mrs. Joad RFD 254 Oklahomy Territory.\" In the space for a message: \"Hello honey. Willy Mae.\"",
+                    "Didascalie": "(He casts a critical eye over the truck)",
+                    "Start": 61394,
+                    "End": 62465
                 },
                 {
                     "Reply": "Where's Grampa? Al, go git him.",
@@ -6495,6 +6510,12 @@
                     "Didascalie": "",
                     "Start": 247697,
                     "End": 247790
+                },
+                {
+                    "Reply": "We find ourselves INSIDE TIM WALLACE'S TENT.  The five members of the central committee, Tim Wallace, chairman, look grave as a 15-year-old boy reports.",
+                    "Didascalie": "(He moves quickly away)",
+                    "Start": 247874,
+                    "End": 248076
                 },
                 {
                     "Reply": "They're here. We got 'em spotted.",

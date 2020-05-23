@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Red Planet",
-        "   "
-    ],
+    "Title": "Red Planet",
     "Author": [
-        "\u00a0\u00a0Chuck Pfarrer\u00a0\u00a0Jonathan Lemkin"
+        "Chuck Pfarrer",
+        "Jonathan Lemkin"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3823,17 +3823,6 @@
                     "Didascalie": "",
                     "Start": 59956,
                     "End": 60137
-                }
-            ]
-        },
-        {
-            "Character": "END OF FLASHBACK",
-            "Replies": [
-                {
-                    "Reply": "Gallagher's half filled with regret, half annoyed with himself.  Sighs, shuts his eyes, tries to get some sleep.",
-                    "Didascalie": "",
-                    "Start": 62556,
-                    "End": 62669
                 }
             ]
         },

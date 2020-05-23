@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Liar Liar",
-        "   "
-    ],
+    "Title": "Liar Liar",
     "Author": [
-        "\u00a0\u00a0Tom Shadyac\u00a0\u00a0Mike Binder"
+        "Tom Shadyac",
+        "Mike Binder"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -1363,12 +1362,6 @@
                     "End": 81946
                 },
                 {
-                    "Reply": "A H H H H H H ! ! I WHAT IS WRONG WITH  ME I ! I  E X T . FULGHAM KINDERGARTEN - MORNING   The Volvo parks.",
-                    "Didascalie": "",
-                    "Start": 82234,
-                    "End": 82394
-                },
-                {
                     "Reply": "Answer, answer, answer...",
                     "Didascalie": "",
                     "Start": 83372,
@@ -2351,12 +2344,6 @@
                     "Didascalie": "",
                     "Start": 160127,
                     "End": 160154
-                },
-                {
-                    "Reply": "MEN'S ROOM!! Do you ever stop to ask yourself, why do people hate us? Could it be because what we did here today sucks?!",
-                    "Didascalie": "",
-                    "Start": 160848,
-                    "End": 161026
                 },
                 {
                     "Reply": "-Let' s see what I' ve done today. I've helped a gold digging slut get richer. I'm taking this guy's kids away.",
@@ -4549,23 +4536,6 @@
             ]
         },
         {
-            "Character": "A UDREY",
-            "Replies": [
-                {
-                    "Reply": "Fletcher, where are you?",
-                    "Didascalie": "",
-                    "Start": 49660,
-                    "End": 49685
-                },
-                {
-                    "Reply": "Say thank you, Max.",
-                    "Didascalie": "",
-                    "Start": 173328,
-                    "End": 173348
-                }
-            ]
-        },
-        {
             "Character": "F LET CHE R",
             "Replies": [
                 {
@@ -5148,17 +5118,6 @@
             ]
         },
         {
-            "Character": "A U D R EY",
-            "Replies": [
-                {
-                    "Reply": "M y God!!",
-                    "Didascalie": "",
-                    "Start": 82010,
-                    "End": 82020
-                }
-            ]
-        },
-        {
             "Character": "DRIVER",
             "Replies": [
                 {
@@ -5700,17 +5659,6 @@
                     "Didascalie": "",
                     "Start": 176697,
                     "End": 176714
-                }
-            ]
-        },
-        {
-            "Character": "A PAYPHONE",
-            "Replies": [
-                {
-                    "Reply": "digs through the Yellow Pages. Finds \"Ten Minute Taxi\".",
-                    "Didascalie": "",
-                    "Start": 176774,
-                    "End": 176830
                 }
             ]
         },

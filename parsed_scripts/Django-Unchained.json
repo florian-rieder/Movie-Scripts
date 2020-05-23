@@ -1,24 +1,17 @@
 {
-    "Title": [
-        "Django Unchained",
-        "   "
-    ],
+    "Title": "Django Unchained",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino"
+        "Quentin Tarantino"
     ],
     "Genre": [
-        "\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0Western"
+        "Adventure",
+        "Drama",
+        "Western"
     ],
     "Characters": [
         {
             "Character": "DJANGO",
             "Replies": [
-                {
-                    "Reply": "Amongst many other shoulders and heads, sees through the bars of the cell door, his wife BROOMHILDA being led to the auction block.",
-                    "Didascalie": "",
-                    "Start": 2040,
-                    "End": 2182
-                },
                 {
                     "Reply": "the block.",
                     "Didascalie": "",
@@ -1498,17 +1491,6 @@
             ]
         },
         {
-            "Character": "A BLACK HORSE",
-            "Replies": [
-                {
-                    "Reply": "carrying a dressed in grey Rider, CLIP-CLOPS from the background to the foreground, illuminated by a glowing lantern that the Rider carries.",
-                    "Didascalie": "",
-                    "Start": 5748,
-                    "End": 5899
-                }
-            ]
-        },
-        {
             "Character": "DICKY SPECK",
             "Replies": [
                 {
@@ -1678,12 +1660,6 @@
                     "Didascalie": "",
                     "Start": 69309,
                     "End": 69426
-                },
-                {
-                    "Reply": "INSERT: Calvin signing over Broomhilda's BILL OF SALE.",
-                    "Didascalie": "",
-                    "Start": 246021,
-                    "End": 246076
                 }
             ]
         },
@@ -2415,17 +2391,6 @@
             ]
         },
         {
-            "Character": "A BIG TREE",
-            "Replies": [
-                {
-                    "Reply": "on the other side of the lake Then quickly cut into The Tree.",
-                    "Didascalie": "",
-                    "Start": 77901,
-                    "End": 77973
-                }
-            ]
-        },
-        {
             "Character": "WE SEE",
             "Replies": [
                 {
@@ -2583,17 +2548,6 @@
                     "Didascalie": "",
                     "Start": 110221,
                     "End": 110234
-                }
-            ]
-        },
-        {
-            "Character": "A GIGGLING LEERING GROUP OF BROTHERS",
-            "Replies": [
-                {
-                    "Reply": "make a bid.",
-                    "Didascalie": "",
-                    "Start": 110369,
-                    "End": 110381
                 }
             ]
         },
@@ -4472,6 +4426,17 @@
                     "Didascalie": "(CALMING DOWN)",
                     "Start": 304388,
                     "End": 304550
+                }
+            ]
+        },
+        {
+            "Character": "E 17",
+            "Replies": [
+                {
+                    "Reply": "The Whites laugh.",
+                    "Didascalie": "",
+                    "Start": 167688,
+                    "End": 167706
                 }
             ]
         },

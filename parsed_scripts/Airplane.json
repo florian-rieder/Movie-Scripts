@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Airplane",
-        "   "
-    ],
+    "Title": "Airplane",
     "Author": [
-        "\u00a0\u00a0Jim Abrahams\u00a0\u00a0 David Zucker\u00a0\u00a0Jerry Zucker"
+        "Jim Abrahams",
+        " David Zucker",
+        "Jerry Zucker"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {

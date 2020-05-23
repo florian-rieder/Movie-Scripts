@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Apocalypse Now",
-        "   "
-    ],
+    "Title": "Apocalypse Now",
     "Author": [
-        "\u00a0\u00a0Francis Ford Coppola\u00a0\u00a0John Milius\u00a0\u00a0Joseph Conrad"
+        "Francis Ford Coppola",
+        "John Milius",
+        "Joseph Conrad"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Action",
+        "Drama",
+        "War"
     ],
     "Characters": [
         {

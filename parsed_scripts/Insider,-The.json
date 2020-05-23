@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Insider, The",
-        "   "
-    ],
+    "Title": "Insider, The",
     "Author": [
-        "\u00a0\u00a0Eric Roth\u00a0\u00a0Michael Mann"
+        "Eric Roth",
+        "Michael Mann"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4541,17 +4540,6 @@
             ]
         },
         {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "An old hotel with faded carpets.  Lowell in the lobby reading a New York Times, waiting...  And instead of looking up every time somebody passes, he looks down at people's shoes.  A pair of black wing tips walking by...  A woman's high heels...  A pair of men's tasseled loafers.  A lace-up brown.",
-                    "Didascalie": "",
-                    "Start": 32620,
-                    "End": 32938
-                }
-            ]
-        },
-        {
             "Character": "DON HEWITT",
             "Replies": [
                 {
@@ -4981,29 +4969,6 @@
                     "Didascalie": "",
                     "Start": 209606,
                     "End": 209665
-                }
-            ]
-        },
-        {
-            "Character": "A LAWYER",
-            "Replies": [
-                {
-                    "Reply": "If we \"arrive\" at the conclusion you're acting in bad faith?  We would terminate, right now, payouts under your severance package.  You and your family's medical benefits.  And initiate litigation against you, Mr. Wigand.",
-                    "Didascalie": "(speaking for Sandefur)",
-                    "Start": 48329,
-                    "End": 48642
-                },
-                {
-                    "Reply": "Dr. Wigand...after you've examined the document, you will see it is in your own best interest and you'll sign it.",
-                    "Didascalie": "(a beat)",
-                    "Start": 48764,
-                    "End": 48924
-                },
-                {
-                    "Reply": "I'm not sure he got the message...",
-                    "Didascalie": "",
-                    "Start": 49790,
-                    "End": 49825
                 }
             ]
         },

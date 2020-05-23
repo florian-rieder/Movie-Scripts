@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Lost Highway",
-        "   "
-    ],
+    "Title": "Lost Highway",
     "Author": [
-        "\u00a0\u00a0David Lynch\u00a0\u00a0Barry Gifford"
+        "David Lynch",
+        "Barry Gifford"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Mystery\u00a0\u00a0Thriller\u00a0\u00a0Horror"
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Horror"
     ],
     "Characters": [
         {

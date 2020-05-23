@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "No Country for Old Men",
-        "   "
-    ],
+    "Title": "No Country for Old Men",
     "Author": [
-        "\u00a0\u00a0Ethan Coen\u00a0\u00a0Joel Coen"
+        "Ethan Coen",
+        "Joel Coen"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1938,17 +1938,6 @@
             ]
         },
         {
-            "Character": "A POINT-OF-VIEW",
-            "Replies": [
-                {
-                    "Reply": "Through the binoculars, some time later. One lone shelf of rock throws shade toward us. Heat shimmers in between.",
-                    "Didascalie": "",
-                    "Start": 16907,
-                    "End": 17031
-                }
-            ]
-        },
-        {
             "Character": "HIS TRUCK",
             "Replies": [
                 {
@@ -2345,17 +2334,6 @@
                     "Didascalie": "",
                     "Start": 182335,
                     "End": 182453
-                }
-            ]
-        },
-        {
-            "Character": "A MAP",
-            "Replies": [
-                {
-                    "Reply": "A detailed topographical survey map, illuminated by a flashlight.",
-                    "Didascalie": "",
-                    "Start": 23508,
-                    "End": 23584
                 }
             ]
         },
@@ -4745,17 +4723,6 @@
             ]
         },
         {
-            "Character": "A SHAVING MIRROR",
-            "Replies": [
-                {
-                    "Reply": "We are looking at the wound in a magnifying mirror. Forceps enter and pluck a tiny piece of blood-soaked fabric from the skin.",
-                    "Didascalie": "",
-                    "Start": 116633,
-                    "End": 116780
-                }
-            ]
-        },
-        {
             "Character": "RUNNING WATER",
             "Replies": [
                 {
@@ -4996,17 +4963,6 @@
             ]
         },
         {
-            "Character": "A LOCK CYLINDER",
-            "Replies": [
-                {
-                    "Reply": "It blows in. The hole shows a brightly lit cinderblock wall behind.",
-                    "Didascalie": "",
-                    "Start": 148436,
-                    "End": 148514
-                }
-            ]
-        },
-        {
             "Character": "MAN AT CHAIR",
             "Replies": [
                 {
@@ -5217,17 +5173,6 @@
             ]
         },
         {
-            "Character": "A CAT",
-            "Replies": [
-                {
-                    "Reply": "Licking itself on a plank floor, stiffened leg pointing out.",
-                    "Didascalie": "",
-                    "Start": 172627,
-                    "End": 172688
-                }
-            ]
-        },
-        {
             "Character": "ELLIS",
             "Replies": [
                 {
@@ -5379,6 +5324,88 @@
                     "Didascalie": "",
                     "Start": 179153,
                     "End": 179171
+                }
+            ]
+        },
+        {
+            "Character": "BOY 1",
+            "Replies": [
+                {
+                    "Reply": "Mister there's a bone stickin' out of your arm.",
+                    "Didascalie": "",
+                    "Start": 183941,
+                    "End": 184000
+                },
+                {
+                    "Reply": "Are you all right? You got a bone stickin' out of your arm.",
+                    "Didascalie": "",
+                    "Start": 184317,
+                    "End": 184388
+                },
+                {
+                    "Reply": "Look at that fuckin' bone.",
+                    "Didascalie": "",
+                    "Start": 185179,
+                    "End": 185206
+                },
+                {
+                    "Reply": "Part of that's mine.",
+                    "Didascalie": "",
+                    "Start": 186065,
+                    "End": 186086
+                },
+                {
+                    "Reply": "That ain't what it was for.",
+                    "Didascalie": "",
+                    "Start": 186205,
+                    "End": 186233
+                }
+            ]
+        },
+        {
+            "Character": "BOY 2",
+            "Replies": [
+                {
+                    "Reply": "There's an ambulance comin. Man over yonder went to call.",
+                    "Didascalie": "",
+                    "Start": 184147,
+                    "End": 184216
+                },
+                {
+                    "Reply": "What shirt?",
+                    "Didascalie": "",
+                    "Start": 184630,
+                    "End": 184642
+                },
+                {
+                    "Reply": "Hell mister, I'll give you my shirt.",
+                    "Didascalie": "",
+                    "Start": 184880,
+                    "End": 184917
+                },
+                {
+                    "Reply": "Hell mister, I don't mind helpin' somebody out. That's a lot of money.",
+                    "Didascalie": "",
+                    "Start": 185602,
+                    "End": 185684
+                },
+                {
+                    "Reply": "Yessir.",
+                    "Didascalie": "",
+                    "Start": 185845,
+                    "End": 185853
+                },
+                {
+                    "Reply": "You still got your damn shirt.",
+                    "Didascalie": "",
+                    "Start": 186130,
+                    "End": 186161
+                },
+                {
+                    "Reply": "Maybe, but I'm still out a shirt.",
+                    "Didascalie": "",
+                    "Start": 186277,
+                    "End": 186311
                 }
             ]
         }

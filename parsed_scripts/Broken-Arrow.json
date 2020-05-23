@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Broken Arrow",
-        "   "
-    ],
+    "Title": "Broken Arrow",
     "Author": [
-        "\u00a0\u00a0Graham Yost"
+        "Graham Yost"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2292,34 +2291,6 @@
             ]
         },
         {
-            "Character": "A PARK RANGER TRUCK",
-            "Replies": [
-                {
-                    "Reply": "Drives up, stops. The driver's door open, and out gets...",
-                    "Didascalie": "",
-                    "Start": 9279,
-                    "End": 9337
-                },
-                {
-                    "Reply": "Driving along the blacktop. The driver is not Baker. It's...",
-                    "Didascalie": "",
-                    "Start": 15866,
-                    "End": 15927
-                }
-            ]
-        },
-        {
-            "Character": "A RANGER",
-            "Replies": [
-                {
-                    "Reply": "We don't see his face in the dark. He switches on a flashlight, walks over and taps on the tent.",
-                    "Didascalie": "",
-                    "Start": 9367,
-                    "End": 9474
-                }
-            ]
-        },
-        {
             "Character": "RANGER",
             "Replies": [
                 {
@@ -3561,17 +3532,6 @@
             ]
         },
         {
-            "Character": "A GUN",
-            "Replies": [
-                {
-                    "Reply": "And Deakins levels it right at Hale's head and his finger starts to squeeze the trigger.",
-                    "Didascalie": "",
-                    "Start": 19142,
-                    "End": 19241
-                }
-            ]
-        },
-        {
             "Character": "DEAKINS AND HALE",
             "Replies": [
                 {
@@ -4342,28 +4302,6 @@
             ]
         },
         {
-            "Character": "A TWENTY DOLLAR BILL",
-            "Replies": [
-                {
-                    "Reply": "Under a rock.",
-                    "Didascalie": "",
-                    "Start": 38103,
-                    "End": 38117
-                }
-            ]
-        },
-        {
-            "Character": "A HUMVEE",
-            "Replies": [
-                {
-                    "Reply": "climbs up the slope toward the helicopter.",
-                    "Didascalie": "",
-                    "Start": 39140,
-                    "End": 39183
-                }
-            ]
-        },
-        {
             "Character": "MCKELLAR",
             "Replies": [
                 {
@@ -4757,17 +4695,6 @@
             ]
         },
         {
-            "Character": "A FLARE",
-            "Replies": [
-                {
-                    "Reply": "Out of the tool kit.",
-                    "Didascalie": "",
-                    "Start": 65785,
-                    "End": 65806
-                }
-            ]
-        },
-        {
             "Character": "ECU TIP OF FLARE",
             "Replies": [
                 {
@@ -4786,17 +4713,6 @@
                     "Didascalie": "",
                     "Start": 66770,
                     "End": 66857
-                }
-            ]
-        },
-        {
-            "Character": "A PLASTIC NAME TAG",
-            "Replies": [
-                {
-                    "Reply": "Sticking out from under one of the nukes.",
-                    "Didascalie": "",
-                    "Start": 69624,
-                    "End": 69666
                 }
             ]
         },
@@ -4841,28 +4757,6 @@
                     "Didascalie": "",
                     "Start": 80786,
                     "End": 80841
-                }
-            ]
-        },
-        {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "Grabs it, stopping it just in time. The hand belongs to...",
-                    "Didascalie": "",
-                    "Start": 81949,
-                    "End": 82008
-                }
-            ]
-        },
-        {
-            "Character": "A FLURRY OF BULLETS",
-            "Replies": [
-                {
-                    "Reply": "Fired by...",
-                    "Didascalie": "",
-                    "Start": 82720,
-                    "End": 82732
                 }
             ]
         },
@@ -5016,17 +4910,6 @@
             ]
         },
         {
-            "Character": "A TARP",
-            "Replies": [
-                {
-                    "Reply": "Is lying on the deck of the raft along one side, all bunched up.",
-                    "Didascalie": "",
-                    "Start": 108097,
-                    "End": 108162
-                }
-            ]
-        },
-        {
             "Character": "MAX",
             "Replies": [
                 {
@@ -5076,17 +4959,6 @@
                     "Didascalie": "",
                     "Start": 127633,
                     "End": 127710
-                }
-            ]
-        },
-        {
-            "Character": "A MARINA",
-            "Replies": [
-                {
-                    "Reply": "Where houseboats are rented out. Hale's eyes focus on a sign with a picture of a phone on it.",
-                    "Didascalie": "",
-                    "Start": 110429,
-                    "End": 110533
                 }
             ]
         },
@@ -5169,39 +5041,6 @@
             ]
         },
         {
-            "Character": "A RED CROSS HELICOPTER",
-            "Replies": [
-                {
-                    "Reply": "Coming in fast.",
-                    "Didascalie": "",
-                    "Start": 132228,
-                    "End": 132244
-                }
-            ]
-        },
-        {
-            "Character": "A MAN",
-            "Replies": [
-                {
-                    "Reply": "Standing in the doorway of the Red Cross helicopter, holding a gun.",
-                    "Didascalie": "",
-                    "Start": 132422,
-                    "End": 132500
-                }
-            ]
-        },
-        {
-            "Character": "A PICKUP TRUCK",
-            "Replies": [
-                {
-                    "Reply": "Tearing toward then along a dirt road, horn honking.",
-                    "Didascalie": "",
-                    "Start": 133212,
-                    "End": 133265
-                }
-            ]
-        },
-        {
             "Character": "POWER LINES",
             "Replies": [
                 {
@@ -5242,28 +5081,6 @@
                     "Didascalie": "",
                     "Start": 141813,
                     "End": 141835
-                }
-            ]
-        },
-        {
-            "Character": "A PISTOL",
-            "Replies": [
-                {
-                    "Reply": "Lying a few feet away.",
-                    "Didascalie": "",
-                    "Start": 143010,
-                    "End": 143033
-                }
-            ]
-        },
-        {
-            "Character": "A FOOT",
-            "Replies": [
-                {
-                    "Reply": "In a boot, sticking out from under a burning Toyota.",
-                    "Didascalie": "",
-                    "Start": 145411,
-                    "End": 145464
                 }
             ]
         },

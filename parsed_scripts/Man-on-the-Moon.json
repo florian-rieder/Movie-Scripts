@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Man on the Moon",
-        "   "
-    ],
+    "Title": "Man on the Moon",
     "Author": [
-        "\u00a0\u00a0Scott Alexander\u00a0\u00a0Larry Karaszewski"
+        "Scott Alexander",
+        "Larry Karaszewski"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -4667,6 +4666,40 @@
                     "Didascalie": "",
                     "Start": 41208,
                     "End": 41233
+                }
+            ]
+        },
+        {
+            "Character": "BLUE COLLAR GUY 1",
+            "Replies": [
+                {
+                    "Reply": "Excuse me, could I please have more coffee?",
+                    "Didascalie": "",
+                    "Start": 42870,
+                    "End": 42915
+                },
+                {
+                    "Reply": "You know, you look just like Andy Kaufman.",
+                    "Didascalie": "",
+                    "Start": 43106,
+                    "End": 43150
+                },
+                {
+                    "Reply": "You wanna bet??  If that was him, he wouldn't be workin' here, pouring my coffee!",
+                    "Didascalie": "",
+                    "Start": 43319,
+                    "End": 43403
+                }
+            ]
+        },
+        {
+            "Character": "BLUE COLLAR GUY 2",
+            "Replies": [
+                {
+                    "Reply": "I'm telling you, it's him.",
+                    "Didascalie": "",
+                    "Start": 43270,
+                    "End": 43297
                 }
             ]
         },

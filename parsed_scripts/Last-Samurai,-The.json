@@ -1,26 +1,17 @@
 {
-    "Title": [
-        "Last Samurai, The",
-        "   "
-    ],
+    "Title": "Last Samurai, The",
     "Author": [
-        "\u00a0\u00a0John Logan\u00a0\u00a0Edward Zwick\u00a0\u00a0Marshall Herskovitz"
+        "John Logan",
+        "Edward Zwick",
+        "Marshall Herskovitz"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Action",
+        "Adventure",
+        "Drama",
+        "War"
     ],
     "Characters": [
-        {
-            "Character": "A BRIGHT BLUE TIGER",
-            "Replies": [
-                {
-                    "Reply": "Surrounded by a pack of dogs, ten of them snarling and gnashing their teeth.",
-                    "Didascalie": "",
-                    "Start": 530,
-                    "End": 607
-                }
-            ]
-        },
         {
             "Character": "WINCHESTER REP",
             "Replies": [

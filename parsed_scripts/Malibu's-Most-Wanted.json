@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Malibu's Most Wanted",
-        "   "
-    ],
+    "Title": "Malibu's Most Wanted",
     "Author": [
-        "\u00a0\u00a0Fax Bahr\u00a0\u00a0Adam Small\u00a0\u00a0Jamie Kennedy\u00a0\u00a0Nick Swardson"
+        "Fax Bahr",
+        "Adam Small",
+        "Jamie Kennedy",
+        "Nick Swardson"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -24,42 +24,6 @@
         {
             "Character": "FLASH",
             "Replies": [
-                {
-                    "Reply": "'It's like a jungle sometimes, It makes me wonder how I keep from going under...' A1   ESCALADE                                                    A1 passes three people doing tai chi on a bluff overlooking the ocean...",
-                    "Didascalie": "",
-                    "Start": 853,
-                    "End": 1117
-                },
-                {
-                    "Reply": "'Broken glass everywhere, people pissing on the stairs you know they just don't care...'  B1   ESCALADE                                                    B1 passes a gorgeous Labrador retriever snatching a Frisbee midair...",
-                    "Didascalie": "",
-                    "Start": 1176,
-                    "End": 1443
-                },
-                {
-                    "Reply": "'Can't take the smell, Can't take the noise, Got no money to move out I guess I got no choice...'  C1   ESCALADE                                                    C1 passes two horse back riders galloping along the beach...",
-                    "Didascalie": "",
-                    "Start": 1502,
-                    "End": 1780
-                },
-                {
-                    "Reply": "'Rats in the front room, Roaches in the back...'  D1   ESCALADE                                                    D1 passes a gleaming mansion with a massive putting green-",
-                    "Didascalie": "",
-                    "Start": 1839,
-                    "End": 2034
-                },
-                {
-                    "Reply": "'Junkie's in the alley With a baseball bat...'  E1   ESCALADE                                                      E1 passes blonde Little Leaguers playing baseball in crisp new uniforms.",
-                    "Didascalie": "",
-                    "Start": 2312,
-                    "End": 2528
-                },
-                {
-                    "Reply": "'A crazy lady, livin' in a bag, Eatin' outta garbage pails, Used to be a fag hag...'  F1   ESCALADE                                                      F1 passes two rich housewives clutching shopping bags from the most expensive stores on the planet...",
-                    "Didascalie": "",
-                    "Start": 2591,
-                    "End": 2892
-                },
                 {
                     "Reply": "12,000-square-foot mansion.",
                     "Didascalie": "",
@@ -6235,6 +6199,17 @@
                     "Didascalie": "",
                     "Start": 163611,
                     "End": 163666
+                }
+            ]
+        },
+        {
+            "Character": "DEUCE AND 8-BALL",
+            "Replies": [
+                {
+                    "Reply": "Drop your gats!",
+                    "Didascalie": "",
+                    "Start": 176451,
+                    "End": 176467
                 }
             ]
         },

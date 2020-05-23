@@ -1,13 +1,17 @@
 {
-    "Title": [
-        "True Lies",
-        "   "
-    ],
+    "Title": "True Lies",
     "Author": [
-        "\u00a0\u00a0Claude Zidi\u00a0\u00a0Simon Micha\u00c3\u00abl\u00a0\u00a0Didier Kaminka\u00a0\u00a0James Cameron"
+        "Claude Zidi",
+        "Simon Micha\u00c3\u00abl",
+        "Didier Kaminka",
+        "James Cameron"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Thriller"
     ],
     "Characters": [
         {

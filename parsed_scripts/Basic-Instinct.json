@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Basic Instinct",
-        "   "
-    ],
+    "Title": "Basic Instinct",
     "Author": [
-        "\u00a0\u00a0Joe Eszterhas"
+        "Joe Eszterhas"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Crime",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4958,17 +4957,6 @@
                     "Didascalie": "",
                     "Start": 203430,
                     "End": 203455
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Hi.",
-                    "Didascalie": "(behind him)",
-                    "Start": 204042,
-                    "End": 204071
                 }
             ]
         },

@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Petulia",
-        "   "
-    ],
+    "Title": "Petulia",
     "Author": [
-        "\u00a0\u00a0Larry Marcus"
+        "Larry Marcus"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1747,12 +1744,6 @@
                     "End": 60953
                 },
                 {
-                    "Reply": "I tried to return the tuba Friday  NIGHT;  MR. HOWARD It's O.K.",
-                    "Didascalie": "",
-                    "Start": 61114,
-                    "End": 61208
-                },
-                {
                     "Reply": "Its okay.",
                     "Didascalie": "(finished with the tuba)",
                     "Start": 62182,
@@ -3022,12 +3013,6 @@
             "Character": "IS",
             "Replies": [
                 {
-                    "Reply": "25  21 CONTINUED  10 BARNEY'S VOICE Is there something wrong with being a groovy looking couple? People turning around to stare? What was it, Archie?",
-                    "Didascalie": "",
-                    "Start": 38531,
-                    "End": 38731
-                },
-                {
                     "Reply": "special hospital bed. There are flowers everywhere. She has her own colour T.V. set which is silently showing scenes of violence. An efficient nurse is in attendance.",
                     "Didascalie": "",
                     "Start": 135613,
@@ -4254,17 +4239,6 @@
             ]
         },
         {
-            "Character": "CHANGE",
-            "Replies": [
-                {
-                    "Reply": "75AA  77 INTO ARCHIEBS APARTMENT NIGHT.",
-                    "Didascalie": "",
-                    "Start": 120881,
-                    "End": 120931
-                }
-            ]
-        },
-        {
             "Character": "M IKE",
             "Replies": [
                 {
@@ -4374,17 +4348,6 @@
                     "Didascalie": "",
                     "Start": 157940,
                     "End": 157973
-                }
-            ]
-        },
-        {
-            "Character": "ARGHT",
-            "Replies": [
-                {
-                    "Reply": "Warres I s bein :el oat. Big will r_ot .sae w63y -nocs u ses in Wyly o Warr e jo ' in t-o .iect ng          101  98 CONTINUED Then Petulia sees Archie beside her bed. He is wearing his hospital jacket which gives him the run of the place.",
-                    "Didascalie": "",
-                    "Start": 163188,
-                    "End": 163517
                 }
             ]
         }

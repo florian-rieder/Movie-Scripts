@@ -1,15 +1,293 @@
 {
-    "Title": [
-        "E.T.",
-        "   "
-    ],
+    "Title": "E.T.",
     "Author": [
-        "\u00a0\u00a0Melissa Mathison"
+        "Melissa Mathison"
     ],
     "Genre": [
-        "\u00a0\u00a0Family\u00a0\u00a0Sci-Fi\u00a0\u00a0Adventure\u00a0\u00a0Fantasy"
+        "Family",
+        "Sci-Fi",
+        "Adventure",
+        "Fantasy"
     ],
     "Characters": [
+        {
+            "Character": "TITLES",
+            "Replies": [
+                {
+                    "Reply": "\"E.T. - THE EXTRA-TERRESTIAL\"",
+                    "Didascalie": "",
+                    "Start": 54,
+                    "End": 84
+                }
+            ]
+        },
+        {
+            "Character": "EXT",
+            "Replies": [
+                {
+                    "Reply": "bicycle near the fence.",
+                    "Didascalie": "",
+                    "Start": 61996,
+                    "End": 62020
+                }
+            ]
+        },
+        {
+            "Character": "ALIEN HAND",
+            "Replies": [
+                {
+                    "Reply": "A strange hand, with two long and slender fingers protruding, move aside a branch that obstructs the view.",
+                    "Didascalie": "",
+                    "Start": 850,
+                    "End": 957
+                }
+            ]
+        },
+        {
+            "Character": "INT",
+            "Replies": [
+                {
+                    "Reply": "plants. Vapors flow up from the plants.",
+                    "Didascalie": "",
+                    "Start": 1367,
+                    "End": 1407
+                },
+                {
+                    "Reply": "his mother sits besides him. She takes out the thermometer, reads it, then says \"Okay, you're hot.\" She then leaves the room. Elliott quickly swings a lamp back over his head and heats the thermometer. He also places a blue heating pad over his face, to heat himself. He then places the thermometer back into his mouth, swings the lamp away, and places the heating pad under the covers as his mother enters the room. She opens his closet and separates the hanging clothes as she walks into the closet. Elliott sits up in bed and intensely watches her.",
+                    "Didascalie": "",
+                    "Start": 24029,
+                    "End": 24581
+                },
+                {
+                    "Reply": "Mary, carrying a yellow watering pail, walks across the room and waters a large plant. Gertie pulls a little red wagon into the hallway. When asked by Mary what she's doing, Gertie replies that she's going to play in Elliott's room. \"Okay, don't let them torture you,\" says the mother. \"I won't, Mary,\" replies Gertie.",
+                    "Didascalie": "",
+                    "Start": 34274,
+                    "End": 34593
+                },
+                {
+                    "Reply": "On the floor next to E.T. is the pot containing the sickly flowers. He looks at the flowers, makes a moaning sound, and suddenly they become healthy and transform into full bloom.",
+                    "Didascalie": "",
+                    "Start": 37124,
+                    "End": 37304
+                },
+                {
+                    "Reply": "he might have run away? Were there any family problems or recent arguments?",
+                    "Didascalie": "",
+                    "Start": 71145,
+                    "End": 71221
+                },
+                {
+                    "Reply": "wilt. He screams.",
+                    "Didascalie": "(which represents E.T.'s life force)",
+                    "Start": 82430,
+                    "End": 82449
+                }
+            ]
+        },
+        {
+            "Character": "MIKE OFFERS OTHER SUGGESTIONS",
+            "Replies": [
+                {
+                    "Reply": "perhaps it was an iguana, a deformed child, or maybe an Elf or a Leprechaun. Elliott gets angry and shouts \"It was nothing like that, penis breath.\" Mary, his mother shouts at him to sit down. Elliott responds with \"Dad would believe me.\" Mary replies \"Maybe you ought to call your father and tell him about it.\" \"I can't. He's in Mexico with Sally\" says Elliott. Both Mary and Mike are upset, while Gertie asks \"Where's Mexico?\" Mary excuses herself and leaves the table. She walks to the window as Mike tells Elliott that he's going to kill him. \"If you ever see it again, don't touch it. Just call me and we'll have someone come and take it away,\" says Mary. \"Like the dog catcher?\" says Gertie. \"But they'll give it a lobotomy, or do experiments on it or something,\" says Elliott.",
+                    "Didascalie": "",
+                    "Start": 17133,
+                    "End": 17918
+                }
+            ]
+        },
+        {
+            "Character": "IMPOSSIBLE TO SEE HIS FACE",
+            "Replies": [
+                {
+                    "Reply": "only the outline of his form is visible. The alien walks right up to the edge of the lawn chair.",
+                    "Didascalie": "",
+                    "Start": 19197,
+                    "End": 19294
+                }
+            ]
+        },
+        {
+            "Character": "INTERCUT",
+            "Replies": [
+                {
+                    "Reply": "\"KEYS\"",
+                    "Didascalie": "",
+                    "Start": 77363,
+                    "End": 77370
+                }
+            ]
+        },
+        {
+            "Character": "DRIVEWAY",
+            "Replies": [
+                {
+                    "Reply": "Mike backs the car over part of the lawn.",
+                    "Didascalie": "",
+                    "Start": 25156,
+                    "End": 25198
+                },
+                {
+                    "Reply": "Mike continues to back the car down the driveway. He overshoots the edge and goes out into the street. He then pulls forward across the sidewalk.",
+                    "Didascalie": "",
+                    "Start": 25727,
+                    "End": 25873
+                }
+            ]
+        },
+        {
+            "Character": "KITCHEN",
+            "Replies": [
+                {
+                    "Reply": "Elliott opens up a jar of peanut butter.",
+                    "Didascalie": "",
+                    "Start": 28094,
+                    "End": 28135
+                },
+                {
+                    "Reply": "Elliott picks up cheese and tomatoes.",
+                    "Didascalie": "",
+                    "Start": 28212,
+                    "End": 28250
+                },
+                {
+                    "Reply": "Elliott takes a carton of milk out of the refrigerator.",
+                    "Didascalie": "",
+                    "Start": 28324,
+                    "End": 28380
+                },
+                {
+                    "Reply": "Elliott screams with fright and drops the milk carton onto the floor.",
+                    "Didascalie": "",
+                    "Start": 28468,
+                    "End": 28538
+                },
+                {
+                    "Reply": "E.T., drunk, wobbles across the kitchen floor and walks into a counter.",
+                    "Didascalie": "",
+                    "Start": 41123,
+                    "End": 41195
+                },
+                {
+                    "Reply": "E.T. turns and walks into another wall as Harvey continues to eat the potato salad on the floor.",
+                    "Didascalie": "",
+                    "Start": 41593,
+                    "End": 41690
+                },
+                {
+                    "Reply": "E.T. turns, walks, then collapses head first onto the floor.",
+                    "Didascalie": "",
+                    "Start": 41775,
+                    "End": 41836
+                },
+                {
+                    "Reply": "E.T. opens another can of beer.",
+                    "Didascalie": "",
+                    "Start": 42058,
+                    "End": 42090
+                },
+                {
+                    "Reply": "E.T. gulps down another can of beer.",
+                    "Didascalie": "",
+                    "Start": 42202,
+                    "End": 42239
+                }
+            ]
+        },
+        {
+            "Character": "SCHOOL",
+            "Replies": [
+                {
+                    "Reply": "Elliott sits at his desk as he listens to the teacher speak. Elliott burps.",
+                    "Didascalie": "",
+                    "Start": 40927,
+                    "End": 41003
+                },
+                {
+                    "Reply": "Elliott places his fingers to his head. He is also becoming drunk. The teacher tells the class that in this bisection they should locate the heart and notice that it is still beating.",
+                    "Didascalie": "",
+                    "Start": 41214,
+                    "End": 41398
+                },
+                {
+                    "Reply": "Elliott, now drunk, slides down in his chair.",
+                    "Didascalie": "",
+                    "Start": 41709,
+                    "End": 41755
+                },
+                {
+                    "Reply": "Elliott slides under his desk and falls onto the floor. The teacher doesn't hear this because at that moment he pulls down a wall hanging which contains pictures of a frog's anatomy.",
+                    "Didascalie": "",
+                    "Start": 41855,
+                    "End": 42038
+                },
+                {
+                    "Reply": "Elliott pulls himself up off the floor with a drunken smile on his face.",
+                    "Didascalie": "",
+                    "Start": 42109,
+                    "End": 42182
+                },
+                {
+                    "Reply": "Elliott, drunk, sits at his desk. He turns and smiles at the pretty blonde girl across the aisle. She turns away from him with disgust.",
+                    "Didascalie": "",
+                    "Start": 42258,
+                    "End": 42394
+                },
+                {
+                    "Reply": "The teacher carries a jar of cotton balls soaked in chloroform, which he drops into the jars containing frogs. He tells the children to immediately put the lids on the jars. After telling the children that this won't hurt the frogs, he places a cotton ball into the last two jars, one of which belongs to Elliott. Elliott doesn't place the cover on his jar, but instead sadly watches as the frog tries to escape. Slowly he places to lid on it, as he gazes at the frog.",
+                    "Didascalie": "",
+                    "Start": 43021,
+                    "End": 43490
+                },
+                {
+                    "Reply": "\"Save him\" shouts Elliott. Elliott picks up his jar, unscrews the top, then lets out his frog, screaming \"Run for your life. Back to the forest! Run!\"",
+                    "Didascalie": "",
+                    "Start": 45026,
+                    "End": 45177
+                },
+                {
+                    "Reply": "A pile of frogs gather at the feet of a terrified little girl with blonde braids. Elliott, drunk, staggers by her.",
+                    "Didascalie": "",
+                    "Start": 45836,
+                    "End": 45951
+                },
+                {
+                    "Reply": "A blonde girl who has a crush on Elliott screams when a frog is placed on her shoes.",
+                    "Didascalie": "",
+                    "Start": 46067,
+                    "End": 46152
+                },
+                {
+                    "Reply": "Elliott grabs hold of the blonde girl as she runs out the door.",
+                    "Didascalie": "",
+                    "Start": 46270,
+                    "End": 46334
+                },
+                {
+                    "Reply": "Elliott pulls the blonde girl back.",
+                    "Didascalie": "",
+                    "Start": 46409,
+                    "End": 46445
+                },
+                {
+                    "Reply": "Elliott takes the blonde girl into his arms.",
+                    "Didascalie": "",
+                    "Start": 46529,
+                    "End": 46574
+                },
+                {
+                    "Reply": "Elliott, too short to kiss her, stands on the back of a student who was crawling on the floor after a frog. Elliott kisses the girl.",
+                    "Didascalie": "",
+                    "Start": 46645,
+                    "End": 46778
+                },
+                {
+                    "Reply": "The children's hands poke through the windows and free the frogs by throwing them out onto the grass.",
+                    "Didascalie": "",
+                    "Start": 46875,
+                    "End": 46977
+                }
+            ]
+        },
         {
             "Character": "CLOSEUP",
             "Replies": [
@@ -18,6 +296,50 @@
                     "Didascalie": "",
                     "Start": 77191,
                     "End": 77272
+                }
+            ]
+        },
+        {
+            "Character": "CHILD",
+            "Replies": [
+                {
+                    "Reply": "Mary hangs up the phone and tells Gertie that she has to pick up Elliott.",
+                    "Didascalie": "",
+                    "Start": 49407,
+                    "End": 49481
+                }
+            ]
+        },
+        {
+            "Character": "STREET",
+            "Replies": [
+                {
+                    "Reply": "Men are working outside. Large bright lights flood the area.",
+                    "Didascalie": "",
+                    "Start": 77291,
+                    "End": 77352
+                }
+            ]
+        },
+        {
+            "Character": "MEDICAL INSTRUMENTS",
+            "Replies": [
+                {
+                    "Reply": "Hands push buttons on electronic equipment used to gather medical information about Elliott and E.T. Graphs representing E.T. and Elliott run in exact parallel.",
+                    "Didascalie": "",
+                    "Start": 79174,
+                    "End": 79335
+                }
+            ]
+        },
+        {
+            "Character": "ARE REINTRODUCED HERE",
+            "Replies": [
+                {
+                    "Reply": "\"Keys\" looks up to see two attendants roll in a metal casing filled with ice into which they will place E.T.'s body.",
+                    "Didascalie": "",
+                    "Start": 85336,
+                    "End": 85453
                 }
             ]
         },

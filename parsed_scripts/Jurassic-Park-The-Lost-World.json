@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Jurassic Park: The Lost World",
-        "   "
-    ],
+    "Title": "Jurassic Park: The Lost World",
     "Author": [
-        "\u00a0\u00a0David Koepp"
+        "David Koepp"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4007,6 +4008,17 @@
                     "Didascalie": "",
                     "Start": 145703,
                     "End": 145744
+                }
+            ]
+        },
+        {
+            "Character": "HUNTER 2",
+            "Replies": [
+                {
+                    "Reply": "THEY'RE BEAUTIFUL, MAN, THEY'RE BEAUTIFUL!!!",
+                    "Didascalie": "",
+                    "Start": 69451,
+                    "End": 69498
                 }
             ]
         },

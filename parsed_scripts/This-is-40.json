@@ -1,15 +1,23 @@
 {
-    "Title": [
-        "This is 40",
-        "   "
-    ],
+    "Title": "This is 40",
     "Author": [
-        "\u00a0\u00a0Judd Apatow"
+        "Judd Apatow"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
+        {
+            "Character": "THIS IS 40",
+            "Replies": [
+                {
+                    "Reply": "shower. Debbie moans loudly. Pete is strong and sure of himself. In total control.",
+                    "Didascalie": "",
+                    "Start": 191,
+                    "End": 274
+                }
+            ]
+        },
         {
             "Character": "DEBBIE",
             "Replies": [

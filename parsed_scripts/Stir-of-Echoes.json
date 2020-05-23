@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Stir of Echoes",
-        "   "
-    ],
+    "Title": "Stir of Echoes",
     "Author": [
-        "\u00a0\u00a0David Koepp\u00a0\u00a0Richard Matheson"
+        "David Koepp",
+        "Richard Matheson"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller\u00a0\u00a0Horror\u00a0\u00a0Mystery"
+        "Thriller",
+        "Horror",
+        "Mystery"
     ],
     "Characters": [
         {
@@ -1484,12 +1484,6 @@
                     "Didascalie": "",
                     "Start": 69781,
                     "End": 69796
-                },
-                {
-                    "Reply": "She's a little girl, you son of a bitch! She' s fifteen years old, and you fucked her!? What the hell is the matter with you?! YOU DON'T DO SHIT  LIKE THAT TO PEOPLE WHO CAN'T DEFEND  THEMSELVES!",
-                    "Didascalie": "",
-                    "Start": 70267,
-                    "End": 70513
                 },
                 {
                     "Reply": "GET OUT!",
@@ -2995,12 +2989,6 @@
                     "End": 175499
                 },
                 {
-                    "Reply": "no.  CONTINUED: He turns and heads into the house. A few moments later he reappears, carrying his jacket.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 175521,
-                    "End": 175717
-                },
-                {
                     "Reply": "What the hell is goin' on around here?",
                     "Didascalie": "",
                     "Start": 176925,
@@ -3436,17 +3424,6 @@
             ]
         },
         {
-            "Character": "A BARRAGE OF IMAGES",
-            "Replies": [
-                {
-                    "Reply": "races across the back of his eyelids: -- Philip's face, close to his, a finger held in front of him.",
-                    "Didascalie": "",
-                    "Start": 28921,
-                    "End": 29032
-                }
-            ]
-        },
-        {
             "Character": "WOMA I",
             "Replies": [
                 {
@@ -3454,17 +3431,6 @@
                     "Didascalie": "",
                     "Start": 33890,
                     "End": 33922
-                }
-            ]
-        },
-        {
-            "Character": "A HAND",
-            "Replies": [
-                {
-                    "Reply": "drops over him and he nearly jumps out of his skin. It's Maggie, rolling over to embrace him in her sleep. He takes her hand in his and lies still, eyes wide open.",
-                    "Didascalie": "",
-                    "Start": 34674,
-                    "End": 34858
                 }
             ]
         },
@@ -4051,6 +4017,17 @@
                     "Didascalie": "",
                     "Start": 192548,
                     "End": 192605
+                }
+            ]
+        },
+        {
+            "Character": "NURSE 2",
+            "Replies": [
+                {
+                    "Reply": "Your party hat.",
+                    "Didascalie": "",
+                    "Start": 82020,
+                    "End": 82036
                 }
             ]
         },

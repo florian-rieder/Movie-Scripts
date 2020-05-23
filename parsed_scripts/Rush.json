@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Rush",
-        "   "
-    ],
+    "Title": "Rush",
     "Author": [
-        "\u00a0\u00a0Peter Morgan"
+        "Peter Morgan"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama"
+        "Action",
+        "Drama"
     ],
     "Characters": [
         {
@@ -877,12 +875,6 @@
                     "End": 197701
                 },
                 {
-                    "Reply": "103 204 CONTINUED:                                                    204   JAMES indicates his rowdy, cool-looking friends..",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 197774,
-                    "End": 197976
-                },
-                {
                     "Reply": "Pre-season testing.",
                     "Didascalie": "",
                     "Start": 198264,
@@ -1216,12 +1208,6 @@
                     "End": 20030
                 },
                 {
-                    "Reply": "11 13   CONTINUED:                                                     13   The NURSE, meanwhile, drifts over to look at the car where BUBBLES is making last minute checks...",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 20105,
-                    "End": 20366
-                },
-                {
                     "Reply": "Uuuurrrrrkkkkkkggghghhhh.",
                     "Didascalie": "",
                     "Start": 20895,
@@ -1244,12 +1230,6 @@
                     "Didascalie": "",
                     "Start": 24073,
                     "End": 24096
-                },
-                {
-                    "Reply": "13 15   CONTINUED:                                                     15   JAMES looks over. On the side of the car, painted markings, in the form of a signature, \"Niki Lauda\".",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 24170,
-                    "End": 24434
                 },
                 {
                     "Reply": "All bloody Goosesteppers.",
@@ -1292,12 +1272,6 @@
                     "Didascalie": "",
                     "Start": 37698,
                     "End": 38410
-                },
-                {
-                    "Reply": "20 28   CONTINUED:                                                     28   A good-looking woman calls out..",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 38481,
-                    "End": 38670
                 },
                 {
                     "Reply": "So thank you for acknowledging that.",
@@ -2080,12 +2054,6 @@
                     "End": 168906
                 },
                 {
-                    "Reply": "87 168 CONTINUED:                                                    168   \"CRASH\" a final, sickening blow splits the REPORTER's nose..",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 168978,
-                    "End": 169191
-                },
-                {
                     "Reply": "Prick!",
                     "Didascalie": "",
                     "Start": 169241,
@@ -2460,12 +2428,6 @@
                     "End": 22037
                 },
                 {
-                    "Reply": "12 14   CONTINUED:                                                     14   JAMES takes a quick swig of the champagne...gargles, then swallows, puts on his balaclava...",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 22111,
-                    "End": 22366
-                },
-                {
                     "Reply": "Quick toke of this...",
                     "Didascalie": "",
                     "Start": 22603,
@@ -2684,6 +2646,17 @@
                     "Didascalie": "",
                     "Start": 32617,
                     "End": 32781
+                }
+            ]
+        },
+        {
+            "Character": "BANKER 2",
+            "Replies": [
+                {
+                    "Reply": "Three..",
+                    "Didascalie": "",
+                    "Start": 32559,
+                    "End": 32567
                 }
             ]
         },

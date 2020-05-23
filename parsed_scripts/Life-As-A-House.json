@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Life As A House",
-        "   "
-    ],
+    "Title": "Life As A House",
     "Author": [
-        "\u00a0\u00a0Mark Andrus"
+        "Mark Andrus"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

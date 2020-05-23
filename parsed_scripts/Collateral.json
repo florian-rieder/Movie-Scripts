@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Collateral",
-        "   "
-    ],
+    "Title": "Collateral",
     "Author": [
-        "\u00a0\u00a0Stuart Beattie\u00a0\u00a0Frank Darabont\u00a0\u00a0Michael Mann"
+        "Stuart Beattie",
+        "Frank Darabont",
+        "Michael Mann"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1683,17 +1684,6 @@
                     "Didascalie": "",
                     "Start": 8624,
                     "End": 8803
-                }
-            ]
-        },
-        {
-            "Character": "A TATTERED POSTCARD",
-            "Replies": [
-                {
-                    "Reply": "which depicts the whitest sand and bluest sea you can imagine.",
-                    "Didascalie": "",
-                    "Start": 7111,
-                    "End": 7174
                 }
             ]
         },
@@ -5005,17 +4995,6 @@
                     "Didascalie": "",
                     "Start": 244441,
                     "End": 244498
-                }
-            ]
-        },
-        {
-            "Character": "A SHADOW",
-            "Replies": [
-                {
-                    "Reply": "ANNIE crouches under a table and crawls backwards. She can't hear a thing. Her heart pounds. The silence makes her want to scream.",
-                    "Didascalie": "",
-                    "Start": 245735,
-                    "End": 245880
                 }
             ]
         },

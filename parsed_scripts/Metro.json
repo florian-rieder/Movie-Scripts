@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Metro",
-        "   "
-    ],
+    "Title": "Metro",
     "Author": [
-        "\u00a0\u00a0Randy Feldman"
+        "Randy Feldman"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Thriller\u00a0\u00a0Drama"
+        "Action",
+        "Thriller",
+        "Drama"
     ],
     "Characters": [
         {
@@ -6101,23 +6100,6 @@
                     "Didascalie": "",
                     "Start": 204545,
                     "End": 204691
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Hey!",
-                    "Didascalie": "",
-                    "Start": 210980,
-                    "End": 210985
-                },
-                {
-                    "Reply": "Hey!",
-                    "Didascalie": "",
-                    "Start": 214702,
-                    "End": 214707
                 }
             ]
         },

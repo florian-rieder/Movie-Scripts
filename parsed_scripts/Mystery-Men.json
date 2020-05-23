@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Mystery Men",
-        "   "
-    ],
+    "Title": "Mystery Men",
     "Author": [
-        "\u00a0\u00a0Neil Cuthbert"
+        "Neil Cuthbert"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Action",
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {
@@ -645,6 +644,40 @@
             ]
         },
         {
+            "Character": "RED EYE 1",
+            "Replies": [
+                {
+                    "Reply": "Golf anyone?",
+                    "Didascalie": "",
+                    "Start": 5620,
+                    "End": 5633
+                }
+            ]
+        },
+        {
+            "Character": "RED EYE 2",
+            "Replies": [
+                {
+                    "Reply": "Not a bad night's work.",
+                    "Didascalie": "",
+                    "Start": 5907,
+                    "End": 5931
+                },
+                {
+                    "Reply": "He's just a tyke.  Lighten up.",
+                    "Didascalie": "",
+                    "Start": 6309,
+                    "End": 6340
+                },
+                {
+                    "Reply": "Hey, why don't we sell him back to his parents? For a million bucks!",
+                    "Didascalie": "",
+                    "Start": 6430,
+                    "End": 6503
+                }
+            ]
+        },
+        {
             "Character": "BIG RED",
             "Replies": [
                 {
@@ -700,6 +733,57 @@
                     "Didascalie": "",
                     "Start": 8886,
                     "End": 8895
+                }
+            ]
+        },
+        {
+            "Character": "RED EYE 3",
+            "Replies": [
+                {
+                    "Reply": "Hey, Boss, we got a stowaway.",
+                    "Didascalie": "",
+                    "Start": 6111,
+                    "End": 6141
+                },
+                {
+                    "Reply": "If you like drool.",
+                    "Didascalie": "",
+                    "Start": 6393,
+                    "End": 6412
+                },
+                {
+                    "Reply": "So what should we do with him?",
+                    "Didascalie": "",
+                    "Start": 6660,
+                    "End": 6691
+                },
+                {
+                    "Reply": "Come on, kid, you're goin' for a swim.",
+                    "Didascalie": "",
+                    "Start": 6849,
+                    "End": 6888
+                }
+            ]
+        },
+        {
+            "Character": "RED EYE 4",
+            "Replies": [
+                {
+                    "Reply": "Who you laughin' at, punk?",
+                    "Didascalie": "(about to slug him)",
+                    "Start": 6261,
+                    "End": 6291
+                }
+            ]
+        },
+        {
+            "Character": "RED EYE 5",
+            "Replies": [
+                {
+                    "Reply": "He's kinda cute.",
+                    "Didascalie": "",
+                    "Start": 6358,
+                    "End": 6375
                 }
             ]
         },
@@ -3013,6 +3097,64 @@
             ]
         },
         {
+            "Character": "COP 1",
+            "Replies": [
+                {
+                    "Reply": "Okay, show's over. Move it. On your way.",
+                    "Didascalie": "",
+                    "Start": 11878,
+                    "End": 11919
+                },
+                {
+                    "Reply": "Really?  Let me guess-you're Towel Head and he's...",
+                    "Didascalie": "",
+                    "Start": 12051,
+                    "End": 12106
+                },
+                {
+                    "Reply": "Captain Pooper Scooper!",
+                    "Didascalie": "(meaning the Shoveler)",
+                    "Start": 12132,
+                    "End": 12159
+                },
+                {
+                    "Reply": "Hey!  Move it!",
+                    "Didascalie": "",
+                    "Start": 12257,
+                    "End": 12272
+                },
+                {
+                    "Reply": "And leave crime fighting to the real thing!",
+                    "Didascalie": "",
+                    "Start": 12312,
+                    "End": 12356
+                },
+                {
+                    "Reply": "Wannabes.",
+                    "Didascalie": "",
+                    "Start": 12505,
+                    "End": 12515
+                }
+            ]
+        },
+        {
+            "Character": "COP 2",
+            "Replies": [
+                {
+                    "Reply": "Get a life!",
+                    "Didascalie": "",
+                    "Start": 12286,
+                    "End": 12298
+                },
+                {
+                    "Reply": "Pathetic.",
+                    "Didascalie": "",
+                    "Start": 12529,
+                    "End": 12539
+                }
+            ]
+        },
+        {
             "Character": "WAITRESS",
             "Replies": [
                 {
@@ -4412,6 +4554,28 @@
             ]
         },
         {
+            "Character": "INVINCIBLE DUDE 1",
+            "Replies": [
+                {
+                    "Reply": "Hey, man, like where are the babes?",
+                    "Didascalie": "",
+                    "Start": 45125,
+                    "End": 45161
+                }
+            ]
+        },
+        {
+            "Character": "INVINCIBLE DUDE 2",
+            "Replies": [
+                {
+                    "Reply": "It said on the card there'd be babes!",
+                    "Didascalie": "",
+                    "Start": 45187,
+                    "End": 45225
+                }
+            ]
+        },
+        {
             "Character": "SQUEEGEE MAN",
             "Replies": [
                 {
@@ -5145,6 +5309,58 @@
             ]
         },
         {
+            "Character": "GUARD 1",
+            "Replies": [
+                {
+                    "Reply": "Freeze!",
+                    "Didascalie": "",
+                    "Start": 83315,
+                    "End": 83323
+                },
+                {
+                    "Reply": "Not talking, eh?  That can be fixed.  Turn around, start walking up the hill--",
+                    "Didascalie": "",
+                    "Start": 83469,
+                    "End": 83551
+                },
+                {
+                    "Reply": "What the hell is that?",
+                    "Didascalie": "",
+                    "Start": 114770,
+                    "End": 114793
+                }
+            ]
+        },
+        {
+            "Character": "GUARD 2",
+            "Replies": [
+                {
+                    "Reply": "Hands up!",
+                    "Didascalie": "",
+                    "Start": 83339,
+                    "End": 83349
+                },
+                {
+                    "Reply": "What are you two doing here?",
+                    "Didascalie": "",
+                    "Start": 83402,
+                    "End": 83431
+                },
+                {
+                    "Reply": "And no funny business.",
+                    "Didascalie": "",
+                    "Start": 83567,
+                    "End": 83590
+                },
+                {
+                    "Reply": "Looks like... a Ford Dumpster.",
+                    "Didascalie": "",
+                    "Start": 114809,
+                    "End": 114840
+                }
+            ]
+        },
+        {
             "Character": "ITALIAN ICE",
             "Replies": [
                 {
@@ -5192,6 +5408,29 @@
                     "Didascalie": "",
                     "Start": 136126,
                     "End": 136198
+                }
+            ]
+        },
+        {
+            "Character": "ELVIS BROTHER 2",
+            "Replies": [
+                {
+                    "Reply": "Long live the King!",
+                    "Didascalie": "",
+                    "Start": 94169,
+                    "End": 94189
+                },
+                {
+                    "Reply": "Piece a cake.",
+                    "Didascalie": "",
+                    "Start": 121455,
+                    "End": 121469
+                },
+                {
+                    "Reply": "Especially that big dude with the shovel...",
+                    "Didascalie": "",
+                    "Start": 136222,
+                    "End": 136266
                 }
             ]
         },
@@ -5265,6 +5504,23 @@
                     "Didascalie": "",
                     "Start": 117056,
                     "End": 117086
+                }
+            ]
+        },
+        {
+            "Character": "ELVIS BROTHER 1",
+            "Replies": [
+                {
+                    "Reply": "Who are those guys?",
+                    "Didascalie": "",
+                    "Start": 120074,
+                    "End": 120094
+                },
+                {
+                    "Reply": "He was the worst!",
+                    "Didascalie": "(near tears)",
+                    "Start": 136306,
+                    "End": 136327
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Big Blue, The",
-        "   "
-    ],
+    "Title": "Big Blue, The",
     "Author": [
-        "\u00a0\u00a0Luc Besson\u00a0\u00a0Robert Garland"
+        "Luc Besson",
+        "Robert Garland"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {
@@ -5598,23 +5597,6 @@
                     "Didascalie": "",
                     "Start": 140251,
                     "End": 140339
-                }
-            ]
-        },
-        {
-            "Character": "A DOCTOR",
-            "Replies": [
-                {
-                    "Reply": "The heart is going to stop!  The stimulator, quickly.",
-                    "Didascalie": "",
-                    "Start": 144371,
-                    "End": 144427
-                },
-                {
-                    "Reply": "The heart started again!  It's all right!",
-                    "Didascalie": "",
-                    "Start": 144941,
-                    "End": 144985
                 }
             ]
         }

@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Hall Pass",
-        "   "
-    ],
+    "Title": "Hall Pass",
     "Author": [
-        "\u00a0\u00a0Peter Farrelly\u00a0\u00a0Bobby Farrelly\u00a0\u00a0Kevin Barnett\u00a0\u00a0Pete Jones"
+        "Peter Farrelly",
+        "Bobby Farrelly",
+        "Kevin Barnett",
+        "Pete Jones"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance"
+        "Comedy",
+        "Romance"
     ],
     "Characters": [
         {
@@ -6130,6 +6131,17 @@
                     "Didascalie": "",
                     "Start": 66131,
                     "End": 66142
+                }
+            ]
+        },
+        {
+            "Character": "DAY 1",
+            "Replies": [
+                {
+                    "Reply": "smiles, they're all business as they hit the sidewalk and march straight into ...APPLEBEE'S.",
+                    "Didascalie": "",
+                    "Start": 75821,
+                    "End": 75924
                 }
             ]
         },

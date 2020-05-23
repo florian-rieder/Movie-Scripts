@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Spanglish",
-        "   "
-    ],
+    "Title": "Spanglish",
     "Author": [
-        "\u00a0\u00a0James L. Brooks"
+        "James L. Brooks"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Romance\u00a0\u00a0Drama"
+        "Comedy",
+        "Romance",
+        "Drama"
     ],
     "Characters": [
         {
@@ -1560,12 +1559,6 @@
                     "Didascalie": "",
                     "Start": 122140,
                     "End": 122311
-                },
-                {
-                    "Reply": "INSERT DICTIONARY.",
-                    "Didascalie": "",
-                    "Start": 123132,
-                    "End": 123151
                 },
                 {
                     "Reply": "Stop thanking me. I love having the company.",

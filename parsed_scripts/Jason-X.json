@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Jason X",
-        "   "
-    ],
+    "Title": "Jason X",
     "Author": [
-        "\u00a0\u00a0Todd Farmer"
+        "Todd Farmer"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -213,29 +213,6 @@
                     "Didascalie": "",
                     "Start": 32633,
                     "End": 32699
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "They are in a half buried mini-van.  It rocks violently from the raging storm outside and from the raging lust inside.",
-                    "Didascalie": "",
-                    "Start": 1600,
-                    "End": 1721
-                },
-                {
-                    "Reply": "FAT LOU'S upper body has disappeared. In other words, Bernie now has legs.",
-                    "Didascalie": "",
-                    "Start": 67065,
-                    "End": 67142
-                },
-                {
-                    "Reply": "Jason is leaned up against the Nano-Tech machine.",
-                    "Didascalie": "",
-                    "Start": 109059,
-                    "End": 109109
                 }
             ]
         },
@@ -1261,12 +1238,6 @@
                     "End": 75901
                 },
                 {
-                    "Reply": "You know what you get if you shove two bananas up your ass? Two shit covered bananas.",
-                    "Didascalie": "(switches voice)",
-                    "Start": 75935,
-                    "End": 76028
-                },
-                {
                     "Reply": "Nooooo!",
                     "Didascalie": "",
                     "Start": 76990,
@@ -1553,12 +1524,6 @@
                     "Didascalie": "",
                     "Start": 108086,
                     "End": 108113
-                },
-                {
-                    "Reply": "Sumbitch won't be giving us anymore trouble.",
-                    "Didascalie": "(sad)",
-                    "Start": 108136,
-                    "End": 108186
                 },
                 {
                     "Reply": "What?",
@@ -1910,6 +1875,467 @@
             ]
         },
         {
+            "Character": "KAY-EM 14",
+            "Replies": [
+                {
+                    "Reply": "The air's laced with type two ozone, it reads as a solid.",
+                    "Didascalie": "",
+                    "Start": 4398,
+                    "End": 4458
+                },
+                {
+                    "Reply": "In twenty-eighty-two many of the survivors moved their facilities underground to escape . . .",
+                    "Didascalie": "",
+                    "Start": 4532,
+                    "End": 4628
+                },
+                {
+                    "Reply": "Was that out loud?",
+                    "Didascalie": "",
+                    "Start": 5327,
+                    "End": 5346
+                },
+                {
+                    "Reply": "Girth is better than length and women prefer a shaved scrotum during oral sex.",
+                    "Didascalie": "",
+                    "Start": 6111,
+                    "End": 6194
+                },
+                {
+                    "Reply": "The room's still operational.",
+                    "Didascalie": "",
+                    "Start": 9185,
+                    "End": 9215
+                },
+                {
+                    "Reply": "Hold your breath. Initial cryo gasses will render you unconcious.",
+                    "Didascalie": "",
+                    "Start": 10322,
+                    "End": 10390
+                },
+                {
+                    "Reply": "Female, nineteen years old, eight months . . .",
+                    "Didascalie": "",
+                    "Start": 11219,
+                    "End": 11266
+                },
+                {
+                    "Reply": "Subject was dead prior to incubation.",
+                    "Didascalie": "",
+                    "Start": 13485,
+                    "End": 13523
+                },
+                {
+                    "Reply": "Subject is critical. Needs nano stabilization immediately.",
+                    "Didascalie": "",
+                    "Start": 15052,
+                    "End": 15113
+                },
+                {
+                    "Reply": "Subjects scan virus clean . . .",
+                    "Didascalie": "",
+                    "Start": 20361,
+                    "End": 20393
+                },
+                {
+                    "Reply": "Mmm, you like the rough stuff don't you, big boy?",
+                    "Didascalie": "",
+                    "Start": 20518,
+                    "End": 20568
+                },
+                {
+                    "Reply": "The mask is an artifact from a sport outlawed in twenty-twelve.",
+                    "Didascalie": "",
+                    "Start": 27012,
+                    "End": 27078
+                },
+                {
+                    "Reply": "A medieval sport where two teams club one another with elongated sticks. Very sexy.",
+                    "Didascalie": "",
+                    "Start": 27117,
+                    "End": 27205
+                },
+                {
+                    "Reply": "Subject is stable and cell reconstruction has begun.",
+                    "Didascalie": "",
+                    "Start": 27806,
+                    "End": 27861
+                },
+                {
+                    "Reply": "Again proving that your ancestors were savages.",
+                    "Didascalie": "",
+                    "Start": 40135,
+                    "End": 40183
+                },
+                {
+                    "Reply": "Live signs full strength. Heart rate above normal -  Rizzo's disoriented, confused. Gel slops all around her.",
+                    "Didascalie": "",
+                    "Start": 40235,
+                    "End": 40347
+                },
+                {
+                    "Reply": "Cybernetics science droid, fluent in over six...",
+                    "Didascalie": "",
+                    "Start": 55327,
+                    "End": 55378
+                },
+                {
+                    "Reply": "I'm afraid I cannot assist.",
+                    "Didascalie": "",
+                    "Start": 55500,
+                    "End": 55528
+                },
+                {
+                    "Reply": "You need to get laid!",
+                    "Didascalie": "",
+                    "Start": 55612,
+                    "End": 55634
+                },
+                {
+                    "Reply": "E-x Grunt Condor has flatlined.",
+                    "Didascalie": "",
+                    "Start": 58351,
+                    "End": 58383
+                },
+                {
+                    "Reply": "Heart beat irregular...no blood flow...",
+                    "Didascalie": "",
+                    "Start": 71002,
+                    "End": 71042
+                },
+                {
+                    "Reply": "Now that's just gross.",
+                    "Didascalie": "",
+                    "Start": 72419,
+                    "End": 72442
+                },
+                {
+                    "Reply": "I'm quite sure I wasn't designed for this.",
+                    "Didascalie": "",
+                    "Start": 73197,
+                    "End": 73240
+                },
+                {
+                    "Reply": "I got a brand new pair of roller-skates, you got a brand new key...",
+                    "Didascalie": "",
+                    "Start": 74779,
+                    "End": 74849
+                },
+                {
+                    "Reply": "There's not enough time.",
+                    "Didascalie": "",
+                    "Start": 75735,
+                    "End": 75760
+                },
+                {
+                    "Reply": "You know what you get if you shove two bananas up your ass? Two shit covered bananas.",
+                    "Didascalie": "(switches voice)",
+                    "Start": 75935,
+                    "End": 76028
+                },
+                {
+                    "Reply": "Impact in ten minutes. It will take fifteen to reach the bridge.",
+                    "Didascalie": "(normal voice)",
+                    "Start": 76113,
+                    "End": 76184
+                },
+                {
+                    "Reply": "Mamma's little baby love shortnin, shortnin, mamma's little baby love shotnin bread...",
+                    "Didascalie": "(switches voices, sings)",
+                    "Start": 76211,
+                    "End": 76306
+                },
+                {
+                    "Reply": "Allow me. I'm trained in all aspects of the human psyche.",
+                    "Didascalie": "",
+                    "Start": 79245,
+                    "End": 79305
+                },
+                {
+                    "Reply": "I didn't say I was good at it.",
+                    "Didascalie": "",
+                    "Start": 79505,
+                    "End": 79536
+                },
+                {
+                    "Reply": "I seem to have misplaced mine.",
+                    "Didascalie": "",
+                    "Start": 82398,
+                    "End": 82429
+                },
+                {
+                    "Reply": "Engage magnetics.",
+                    "Didascalie": "",
+                    "Start": 83911,
+                    "End": 83929
+                },
+                {
+                    "Reply": "We've lost too much pressure. An hour, tops.",
+                    "Didascalie": "",
+                    "Start": 89181,
+                    "End": 89226
+                },
+                {
+                    "Reply": "No...",
+                    "Didascalie": "",
+                    "Start": 89889,
+                    "End": 89895
+                },
+                {
+                    "Reply": "That's the sound of the men working on the chain gang.",
+                    "Didascalie": "(signing)",
+                    "Start": 89907,
+                    "End": 89967
+                },
+                {
+                    "Reply": "I'll never experience my fantasy of three sex droids, two humans, and a Knofflapod.",
+                    "Didascalie": "",
+                    "Start": 90250,
+                    "End": 90336
+                },
+                {
+                    "Reply": "Sory...",
+                    "Didascalie": "",
+                    "Start": 90391,
+                    "End": 90399
+                },
+                {
+                    "Reply": "Now this is getting exciting.",
+                    "Didascalie": "",
+                    "Start": 92064,
+                    "End": 92094
+                },
+                {
+                    "Reply": "It's just you and me, then.",
+                    "Didascalie": "",
+                    "Start": 92916,
+                    "End": 92944
+                },
+                {
+                    "Reply": "Ow!",
+                    "Didascalie": "",
+                    "Start": 93669,
+                    "End": 93673
+                },
+                {
+                    "Reply": "Sometimes I just wish I had a kitten.",
+                    "Didascalie": "",
+                    "Start": 93751,
+                    "End": 93789
+                },
+                {
+                    "Reply": "Who are you apologizing to?",
+                    "Didascalie": "",
+                    "Start": 94981,
+                    "End": 95009
+                },
+                {
+                    "Reply": "Do I have to?",
+                    "Didascalie": "",
+                    "Start": 101371,
+                    "End": 101385
+                },
+                {
+                    "Reply": "Oh, alright.",
+                    "Didascalie": "",
+                    "Start": 101476,
+                    "End": 101489
+                },
+                {
+                    "Reply": "Come on, boy. Let's see if we can open up  can'a whoop ass!",
+                    "Didascalie": "",
+                    "Start": 101733,
+                    "End": 101795
+                },
+                {
+                    "Reply": "Don't worry about me. I live for this shit.",
+                    "Didascalie": "",
+                    "Start": 102470,
+                    "End": 102514
+                },
+                {
+                    "Reply": "She's the Yellow Rose of Taegu, the girl that I adore. Her cunt it smells like cock juice; she's a good two-dollar whore. You may talk to me of Seoul girls or whores from Tokyo, but the yellow rose of Taegu beats them all, I'd you know.",
+                    "Didascalie": "",
+                    "Start": 103058,
+                    "End": 103308
+                },
+                {
+                    "Reply": "She was a young and charming girl; her age was scarce sixteen.",
+                    "Didascalie": "(still singing)",
+                    "Start": 103758,
+                    "End": 103826
+                },
+                {
+                    "Reply": "She took me in and she kicked out a sailor and marine.",
+                    "Didascalie": "",
+                    "Start": 103869,
+                    "End": 103926
+                },
+                {
+                    "Reply": "She had no titties on her chest; that didn't bother me,  WHAM!",
+                    "Didascalie": "",
+                    "Start": 104007,
+                    "End": 104073
+                },
+                {
+                    "Reply": "For what she had between her legs was big enough for three.",
+                    "Didascalie": "",
+                    "Start": 104210,
+                    "End": 104272
+                },
+                {
+                    "Reply": "Why you low life, scum sucking, rat dick blowing, sum bitch.",
+                    "Didascalie": "",
+                    "Start": 104892,
+                    "End": 104955
+                },
+                {
+                    "Reply": "That was very good. You should feel very good about yourself right now. Good effort.",
+                    "Didascalie": "(condescending)",
+                    "Start": 106273,
+                    "End": 106365
+                },
+                {
+                    "Reply": "How could you hit a girl you sumbitch?!",
+                    "Didascalie": "(tough voice)",
+                    "Start": 106381,
+                    "End": 106424
+                },
+                {
+                    "Reply": "Okay, dip shit. Time to finish you off so I can go home and boink your momma with a corndog. The kinky bitch.",
+                    "Didascalie": "",
+                    "Start": 106544,
+                    "End": 106660
+                },
+                {
+                    "Reply": "Bang, bang Maxewells silver hammer came down upon his head. Doo-pee-",
+                    "Didascalie": "(singing)",
+                    "Start": 107080,
+                    "End": 107154
+                },
+                {
+                    "Reply": "Oh...my...god. What have I done?",
+                    "Didascalie": "",
+                    "Start": 107661,
+                    "End": 107694
+                },
+                {
+                    "Reply": "Thorgan!",
+                    "Didascalie": "(crying)",
+                    "Start": 107705,
+                    "End": 107717
+                },
+                {
+                    "Reply": "Thorgan I'm a murderer!",
+                    "Didascalie": "",
+                    "Start": 107774,
+                    "End": 107798
+                },
+                {
+                    "Reply": "Sumbitch won't be giving us anymore trouble.",
+                    "Didascalie": "(sad)",
+                    "Start": 108136,
+                    "End": 108186
+                },
+                {
+                    "Reply": "Blew half his skull away, one leg, one arm and left his entrails stretched across the lab. And look at me! I'm covered in his filthy blood!",
+                    "Didascalie": "(regret)",
+                    "Start": 108241,
+                    "End": 108390
+                },
+                {
+                    "Reply": "A real mamma's boy that one.",
+                    "Didascalie": "",
+                    "Start": 108462,
+                    "End": 108491
+                },
+                {
+                    "Reply": "No, fuck me.",
+                    "Didascalie": "",
+                    "Start": 110645,
+                    "End": 110658
+                },
+                {
+                    "Reply": "Yeeee-haw!!!!",
+                    "Didascalie": "",
+                    "Start": 111002,
+                    "End": 111016
+                },
+                {
+                    "Reply": "That's the best you can do?",
+                    "Didascalie": "",
+                    "Start": 112806,
+                    "End": 112834
+                },
+                {
+                    "Reply": "Is that it? Come back and fight like a man!",
+                    "Didascalie": "",
+                    "Start": 112988,
+                    "End": 113032
+                },
+                {
+                    "Reply": "I think I'm going to throw up...",
+                    "Didascalie": "",
+                    "Start": 113596,
+                    "End": 113629
+                },
+                {
+                    "Reply": "Oh, goody. I'm so pleased.",
+                    "Didascalie": "",
+                    "Start": 115860,
+                    "End": 115887
+                },
+                {
+                    "Reply": "You must shut down the engines.",
+                    "Didascalie": "",
+                    "Start": 118572,
+                    "End": 118604
+                },
+                {
+                    "Reply": "It was my pleasure, my love.",
+                    "Didascalie": "",
+                    "Start": 123561,
+                    "End": 123590
+                },
+                {
+                    "Reply": "I get no kick from champaign, mere alcohol doesn't faze me at all, but I get a kick out of you.",
+                    "Didascalie": "(singing happily)",
+                    "Start": 123885,
+                    "End": 123988
+                },
+                {
+                    "Reply": "Uh-oh. That's not a part of the program.",
+                    "Didascalie": "",
+                    "Start": 125616,
+                    "End": 125657
+                },
+                {
+                    "Reply": "Ahhhhh!",
+                    "Didascalie": "",
+                    "Start": 130255,
+                    "End": 130263
+                },
+                {
+                    "Reply": "Hello? A little assistance here?",
+                    "Didascalie": "",
+                    "Start": 133200,
+                    "End": 133233
+                },
+                {
+                    "Reply": "I am now. I missed you, Thorgan.",
+                    "Didascalie": "",
+                    "Start": 133418,
+                    "End": 133451
+                },
+                {
+                    "Reply": "I love you.",
+                    "Didascalie": "",
+                    "Start": 133507,
+                    "End": 133519
+                }
+            ]
+        },
+        {
             "Character": "THORGAN",
             "Replies": [
                 {
@@ -1941,12 +2367,6 @@
                     "Didascalie": "",
                     "Start": 8217,
                     "End": 8259
-                },
-                {
-                    "Reply": "The cryo unit leaked. The computers sealed the room. No airborne viruses no hazardous materials. I've shut down the until. Alright, stand back.  KAY-EM 14 Hold your breath. Initial cryo gasses will render you unconcious.",
-                    "Didascalie": "",
-                    "Start": 10154,
-                    "End": 10390
                 },
                 {
                     "Reply": "Sorry. I'll fix her when we get back.",
@@ -3153,18 +3573,6 @@
                     "Didascalie": "",
                     "Start": 76043,
                     "End": 76081
-                },
-                {
-                    "Reply": "Impact in ten minutes. It will take fifteen to reach the bridge.",
-                    "Didascalie": "(normal voice)",
-                    "Start": 76113,
-                    "End": 76184
-                },
-                {
-                    "Reply": "Mamma's little baby love shortnin, shortnin, mamma's little baby love shotnin bread...",
-                    "Didascalie": "(switches voices, sings)",
-                    "Start": 76211,
-                    "End": 76306
                 },
                 {
                     "Reply": "What?!",
@@ -5511,12 +5919,6 @@
                     "End": 108215
                 },
                 {
-                    "Reply": "Blew half his skull away, one leg, one arm and left his entrails stretched across the lab. And look at me! I'm covered in his filthy blood!",
-                    "Didascalie": "(regret)",
-                    "Start": 108241,
-                    "End": 108390
-                },
-                {
                     "Reply": "His mother?",
                     "Didascalie": "",
                     "Start": 108580,
@@ -5788,17 +6190,6 @@
             ]
         },
         {
-            "Character": "REVEAL--",
-            "Replies": [
-                {
-                    "Reply": "DALLAS, the grunt Azreael had words with earlier.",
-                    "Didascalie": "",
-                    "Start": 45868,
-                    "End": 45918
-                }
-            ]
-        },
-        {
             "Character": "JASON VOORHEES",
             "Replies": [
                 {
@@ -6037,28 +6428,6 @@
                     "Didascalie": "",
                     "Start": 83673,
                     "End": 83710
-                }
-            ]
-        },
-        {
-            "Character": "A SEVERED ARM",
-            "Replies": [
-                {
-                    "Reply": "floats past DeLongpre. There's a chain gun still clutched by the  hand.",
-                    "Didascalie": "",
-                    "Start": 84428,
-                    "End": 84500
-                }
-            ]
-        },
-        {
-            "Character": "A WASTE BEND",
-            "Replies": [
-                {
-                    "Reply": "nside we see pile of bullets. Stuff falls from the hose. Bullets from the chaingun, bullets from  every previous Jason movie. A broken machete blade drops to the pile.",
-                    "Didascalie": "",
-                    "Start": 109560,
-                    "End": 109733
                 }
             ]
         },

@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Lincoln",
-        "   "
-    ],
+    "Title": "Lincoln",
     "Author": [
-        "\u00a0\u00a0Tony Kushner"
+        "Tony Kushner"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0History"
+        "Drama",
+        "History"
     ],
     "Characters": [
         {
@@ -3635,6 +3633,17 @@
             ]
         },
         {
+            "Character": "JANUARY 9",
+            "Replies": [
+                {
+                    "Reply": "Floor and balcony are full, although the desks of representatives from seceded states are bare and unoccupied.",
+                    "Didascalie": "",
+                    "Start": 71448,
+                    "End": 71569
+                }
+            ]
+        },
+        {
             "Character": "FERNANDO WOOD",
             "Replies": [
                 {
@@ -4277,6 +4286,17 @@
                     "Didascalie": "",
                     "Start": 221431,
                     "End": 221447
+                }
+            ]
+        },
+        {
+            "Character": "JANUARY 15",
+            "Replies": [
+                {
+                    "Reply": "The enormous room is splendid, decked with garlands of flowers, tall candelabra burning, flags from Army divisions.",
+                    "Didascalie": "",
+                    "Start": 115818,
+                    "End": 115944
                 }
             ]
         },
@@ -5016,6 +5036,17 @@
                     "Didascalie": "",
                     "Start": 246481,
                     "End": 246585
+                }
+            ]
+        },
+        {
+            "Character": "APRIL 3",
+            "Replies": [
+                {
+                    "Reply": "Lincoln flicks the reins of his horse, which starts down the slope. The officers follow behind him. No one speaks.",
+                    "Didascalie": "",
+                    "Start": 252911,
+                    "End": 253036
                 }
             ]
         },

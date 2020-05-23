@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Boondock Saints, The",
-        "   "
-    ],
+    "Title": "Boondock Saints, The",
     "Author": [
-        "\u00a0\u00a0Troy Duffy"
+        "Troy Duffy"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -1028,12 +1027,6 @@
                     "Didascalie": "",
                     "Start": 26466,
                     "End": 26564
-                },
-                {
-                    "Reply": "FUCKIN' DAY!",
-                    "Didascalie": "(turns)",
-                    "Start": 47198,
-                    "End": 47237
                 },
                 {
                     "Reply": "Thanks for comin', Doc.",
@@ -5063,6 +5056,46 @@
             ]
         },
         {
+            "Character": "MEDIA MAN 1",
+            "Replies": [
+                {
+                    "Reply": "Look at his charisma. He's the next John Gotti.",
+                    "Didascalie": "",
+                    "Start": 245623,
+                    "End": 245697
+                },
+                {
+                    "Reply": "Look.",
+                    "Didascalie": "",
+                    "Start": 245914,
+                    "End": 245920
+                },
+                {
+                    "Reply": "All Yakavetta's people are on the right. All the families of the men he has killed are on the left. Everyone wants some justice.",
+                    "Didascalie": "(points to the left and right sections of courtroom seating)",
+                    "Start": 246072,
+                    "End": 246305
+                }
+            ]
+        },
+        {
+            "Character": "MEDIA MAN 2",
+            "Replies": [
+                {
+                    "Reply": "He'll walk. Even with all this evidence.",
+                    "Didascalie": "",
+                    "Start": 245772,
+                    "End": 245839
+                },
+                {
+                    "Reply": "Look at him. He doesn't have a care in the world. He's gonna walk.",
+                    "Didascalie": "",
+                    "Start": 246380,
+                    "End": 246473
+                }
+            ]
+        },
+        {
             "Character": "JUDGE",
             "Replies": [
                 {
@@ -5070,6 +5103,17 @@
                     "Didascalie": "",
                     "Start": 248241,
                     "End": 248280
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "Yes! Were you in the courtroom miss? Did you see?",
+                    "Didascalie": "",
+                    "Start": 254843,
+                    "End": 254919
                 }
             ]
         },

@@ -1,15 +1,26 @@
 {
-    "Title": [
-        "How to Train Your Dragon 2",
-        "   "
-    ],
+    "Title": "How to Train Your Dragon 2",
     "Author": [
-        "\u00a0\u00a0Dean DeBlois\u00a0\u00a0Cressida Cowell"
+        "Dean DeBlois",
+        "Cressida Cowell"
     ],
     "Genre": [
-        "\u00a0\u00a0Animation\u00a0\u00a0Action\u00a0\u00a0Adventure"
+        "Animation",
+        "Action",
+        "Adventure"
     ],
     "Characters": [
+        {
+            "Character": "HOW TO TRAIN YOUR DRAGON 2",
+            "Replies": [
+                {
+                    "Reply": "To the island village of Berk, festively adorned with flags and banners. Major new additions alter its familiar skyline.",
+                    "Didascalie": "",
+                    "Start": 652,
+                    "End": 784
+                }
+            ]
+        },
         {
             "Character": "HICCUP",
             "Replies": [

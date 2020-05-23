@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Evil Dead",
-        "   "
-    ],
+    "Title": "Evil Dead",
     "Author": [
-        "\u00a0\u00a0Sam Raimi"
+        "Sam Raimi"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Fantasy\u00a0\u00a0Comedy"
+        "Horror",
+        "Fantasy",
+        "Comedy"
     ],
     "Characters": [
         {

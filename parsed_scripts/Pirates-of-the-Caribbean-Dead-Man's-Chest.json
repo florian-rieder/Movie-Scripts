@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Pirates of the Caribbean: Dead Man's Chest",
-        "   "
-    ],
+    "Title": "Pirates of the Caribbean: Dead Man's Chest",
     "Author": [
-        "\u00a0\u00a0Ted Elliott\u00a0\u00a0Terry Rossio"
+        "Ted Elliott",
+        "Terry Rossio"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Comedy\u00a0\u00a0Fantasy"
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
     ],
     "Characters": [
         {

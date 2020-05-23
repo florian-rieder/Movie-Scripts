@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Star Trek: First Contact",
-        "   "
-    ],
+    "Title": "Star Trek: First Contact",
     "Author": [
-        "\u00a0\u00a0Ronald Moore\u00a0\u00a0Brannon Braga"
+        "Ronald Moore",
+        "Brannon Braga"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Sci-Fi"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
     ],
     "Characters": [
         {

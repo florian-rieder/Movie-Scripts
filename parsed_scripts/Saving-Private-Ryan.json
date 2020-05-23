@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Saving Private Ryan",
-        "   "
-    ],
+    "Title": "Saving Private Ryan",
     "Author": [
-        "\u00a0\u00a0Robert Rodat"
+        "Robert Rodat"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Drama\u00a0\u00a0War"
+        "Action",
+        "Drama",
+        "War"
     ],
     "Characters": [
         {
@@ -40,28 +39,6 @@
                     "Didascalie": "",
                     "Start": 1869,
                     "End": 2000
-                }
-            ]
-        },
-        {
-            "Character": "A YOUNG SOLDIER",
-            "Replies": [
-                {
-                    "Reply": "His face covered with the remains of the motorman.  Starts to lose it.",
-                    "Didascalie": "",
-                    "Start": 2983,
-                    "End": 3079
-                }
-            ]
-        },
-        {
-            "Character": "A FIGURE",
-            "Replies": [
-                {
-                    "Reply": "Pushes through the men.  Puts himself in front of DeLancey.",
-                    "Didascalie": "",
-                    "Start": 3408,
-                    "End": 3493
                 }
             ]
         },
@@ -1351,18 +1328,6 @@
                     "Didascalie": "",
                     "Start": 139326,
                     "End": 139358
-                },
-                {
-                    "Reply": "Tearing along the path.  Sees a German rifleman.  FIRES A BURST.  CUTS HIM DOWN.  Runs over the body without breaking stride.",
-                    "Didascalie": "",
-                    "Start": 139709,
-                    "End": 139910
-                },
-                {
-                    "Reply": "TEARS THROUGH THE TREES.  BLASTS his Thompson.  CUTS DOWN two more German riflemen.  Grabs a grenade.  Pulls the pin.",
-                    "Didascalie": "",
-                    "Start": 140197,
-                    "End": 140390
                 },
                 {
                     "Reply": "THROWS the grenade, VEERS and DIVES.",
@@ -2656,17 +2621,6 @@
                     "Didascalie": "",
                     "Start": 227232,
                     "End": 227369
-                }
-            ]
-        },
-        {
-            "Character": "MILLER AND OTHERS BLAST SURPRISING FIRE",
-            "Replies": [
-                {
-                    "Reply": "JACKSON, NAILS a pair of Germans.  MILLER CUTS DOWN two more.",
-                    "Didascalie": "",
-                    "Start": 10764,
-                    "End": 10826
                 }
             ]
         },
@@ -3999,28 +3953,6 @@
             ]
         },
         {
-            "Character": "A CLERK",
-            "Replies": [
-                {
-                    "Reply": "Older than the others, sad-eyed, adds a sheet of paper to a large pile in his out-box.",
-                    "Didascalie": "",
-                    "Start": 16787,
-                    "End": 16924
-                }
-            ]
-        },
-        {
-            "Character": "A PORCH SWING",
-            "Replies": [
-                {
-                    "Reply": "Sits empty.  Moves slightly.",
-                    "Didascalie": "",
-                    "Start": 20722,
-                    "End": 20751
-                }
-            ]
-        },
-        {
             "Character": "MARGARET RYAN",
             "Replies": [
                 {
@@ -4706,17 +4638,6 @@
             ]
         },
         {
-            "Character": "A HUGE BUMP",
-            "Replies": [
-                {
-                    "Reply": "Bounces Reiben up and slams his back down on his shovel.  He HOLLERS IN PAIN.",
-                    "Didascalie": "",
-                    "Start": 61310,
-                    "End": 61438
-                }
-            ]
-        },
-        {
             "Character": "ANOTHER SHELL EXPLODES",
             "Replies": [
                 {
@@ -5240,39 +5161,6 @@
                     "Didascalie": "",
                     "Start": 235824,
                     "End": 235835
-                }
-            ]
-        },
-        {
-            "Character": "A GERMAN SNIPER",
-            "Replies": [
-                {
-                    "Reply": "Falls from a window on the edge of town, dead.",
-                    "Didascalie": "",
-                    "Start": 187593,
-                    "End": 187665
-                }
-            ]
-        },
-        {
-            "Character": "A SHADOW",
-            "Replies": [
-                {
-                    "Reply": "It's Miller.  Easing through the darkness.  Closer to one of the sentries.",
-                    "Didascalie": "",
-                    "Start": 198033,
-                    "End": 198158
-                }
-            ]
-        },
-        {
-            "Character": "A GERMAN SENTRY",
-            "Replies": [
-                {
-                    "Reply": "Approaches.  He sees Forrest.  Just as he's about to open up with his sub-machine gun, Miller grabs him from behind, STABS him, eases the body silently to the ground.",
-                    "Didascalie": "",
-                    "Start": 198556,
-                    "End": 198823
                 }
             ]
         },

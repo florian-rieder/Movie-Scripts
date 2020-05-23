@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Un Singe en Hiver",
-        "   "
-    ],
+    "Title": "Un Singe en Hiver",
     "Author": [
-        "\u00a0\u00a0Michel Audiard\u00a0\u00a0Antoine Blondin\u00a0\u00a0Fran\u00c3\u00a7ois Boyer"
+        "Michel Audiard",
+        "Antoine Blondin",
+        "Fran\u00c3\u00a7ois Boyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {

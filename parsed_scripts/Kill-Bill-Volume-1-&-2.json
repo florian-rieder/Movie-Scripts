@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Kill Bill Volume 1 & 2",
-        "   "
-    ],
+    "Title": "Kill Bill Volume 1 & 2",
     "Author": [
-        "\u00a0\u00a0Quentin Tarantino"
+        "Quentin Tarantino"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Comedy\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -379,17 +380,6 @@
                     "Didascalie": "",
                     "Start": 28194,
                     "End": 28324
-                }
-            ]
-        },
-        {
-            "Character": "SYRINGE IS PLACED ON",
-            "Replies": [
-                {
-                    "Reply": "A NURSE'S TRAY  INSERT:    A LITTLE WHITE NURSE'S    CAP IS PLACED ON TOP    of the woman's blonde    head.",
-                    "Didascalie": "",
-                    "Start": 28578,
-                    "End": 28830
                 }
             ]
         },
@@ -1495,12 +1485,6 @@
                     "Didascalie": "",
                     "Start": 87340,
                     "End": 87450
-                },
-                {
-                    "Reply": "CLASSROOM of 1st Graders on the first day of class.",
-                    "Didascalie": "",
-                    "Start": 233046,
-                    "End": 233098
                 },
                 {
                     "Reply": "EX CU The BRIDE'S EYE - Watching.",

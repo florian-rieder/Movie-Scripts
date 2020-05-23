@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Arthur",
-        "   "
-    ],
+    "Title": "Arthur",
     "Author": [
-        "\u00a0\u00a0Peter Baynham"
+        "Peter Baynham"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -18,12 +15,6 @@
                     "Didascalie": "",
                     "Start": 2315,
                     "End": 2335
-                },
-                {
-                    "Reply": "Hi, Arthur.",
-                    "Didascalie": "(seen it all before)",
-                    "Start": 2430,
-                    "End": 2454
                 },
                 {
                     "Reply": "everything'?",
@@ -2711,6 +2702,46 @@
                     "Didascalie": "",
                     "Start": 1952,
                     "End": 1960
+                }
+            ]
+        },
+        {
+            "Character": "OLDER COP 1",
+            "Replies": [
+                {
+                    "Reply": "Hi, Arthur.",
+                    "Didascalie": "(seen it all before)",
+                    "Start": 2430,
+                    "End": 2454
+                },
+                {
+                    "Reply": "Out of the car, please.",
+                    "Didascalie": "",
+                    "Start": 2686,
+                    "End": 2710
+                },
+                {
+                    "Reply": "Okay, explain everything.",
+                    "Didascalie": "",
+                    "Start": 3678,
+                    "End": 3704
+                },
+                {
+                    "Reply": "Hey, The Drunk Knight. Your Fairy G-",
+                    "Didascalie": "",
+                    "Start": 9046,
+                    "End": 9083
+                }
+            ]
+        },
+        {
+            "Character": "OLDER COP 2",
+            "Replies": [
+                {
+                    "Reply": "How much have you drunk, Arthur?",
+                    "Didascalie": "",
+                    "Start": 4252,
+                    "End": 4285
                 }
             ]
         },
@@ -5907,6 +5938,17 @@
                     "Didascalie": "",
                     "Start": 216745,
                     "End": 216798
+                }
+            ]
+        },
+        {
+            "Character": "MALE TOURIST 2",
+            "Replies": [
+                {
+                    "Reply": "You're the only one who really knew me at all.",
+                    "Didascalie": "",
+                    "Start": 143574,
+                    "End": 143632
                 }
             ]
         },

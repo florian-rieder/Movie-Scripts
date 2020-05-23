@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Psycho",
-        "   "
-    ],
+    "Title": "Psycho",
     "Author": [
-        "\u00a0\u00a0Robert Bloch\u00a0\u00a0Joseph Stefano"
+        "Robert Bloch",
+        "Joseph Stefano"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

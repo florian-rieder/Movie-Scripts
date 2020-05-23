@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "American Psycho",
-        "   "
-    ],
+    "Title": "American Psycho",
     "Author": [
-        "\u00a0\u00a0Matthew Markwalder"
+        "Matthew Markwalder"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama\u00a0\u00a0Horror\u00a0\u00a0Thriller"
+        "Drama",
+        "Horror",
+        "Thriller"
     ],
     "Characters": [
         {

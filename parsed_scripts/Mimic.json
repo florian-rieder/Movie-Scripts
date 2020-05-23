@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Mimic",
-        "   "
-    ],
+    "Title": "Mimic",
     "Author": [
-        "\u00a0\u00a0Matt Greenberg\u00a0\u00a0Guillermo del Toro"
+        "Matt Greenberg",
+        "Guillermo del Toro"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Sci-Fi\u00a0\u00a0Thriller"
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2184,6 +2184,39 @@
             ]
         },
         {
+            "Character": "REPORTER 1",
+            "Replies": [
+                {
+                    "Reply": "...an insect that has proven virtually immune to chemical control...",
+                    "Didascalie": "",
+                    "Start": 6581,
+                    "End": 6666
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 2",
+            "Replies": [
+                {
+                    "Reply": "...the announcement by the Health Department that an end to the nightmare has finally...",
+                    "Didascalie": "",
+                    "Start": 6720,
+                    "End": 6841
+                }
+            ]
+        },
+        {
+            "Character": "REPORTER 3",
+            "Replies": [
+                {
+                    "Reply": "...an ex-colleague of Doctor Susan Wyeth...",
+                    "Didascalie": "",
+                    "Start": 6997,
+                    "End": 7057
+                }
+            ]
+        },
+        {
             "Character": "PROTESTER",
             "Replies": [
                 {
@@ -4310,17 +4343,6 @@
                     "Didascalie": "",
                     "Start": 100409,
                     "End": 100527
-                }
-            ]
-        },
-        {
-            "Character": "A SEWAGE GRATE",
-            "Replies": [
-                {
-                    "Reply": "Manny lifts it.",
-                    "Didascalie": "",
-                    "Start": 100839,
-                    "End": 100855
                 }
             ]
         },

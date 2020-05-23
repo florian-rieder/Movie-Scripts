@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Blow",
-        "   "
-    ],
+    "Title": "Blow",
     "Author": [
-        "\u00a0\u00a0David McKenna\u00a0\u00a0Nick Cassavetes"
+        "David McKenna",
+        "Nick Cassavetes"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama"
+        "Crime",
+        "Drama"
     ],
     "Characters": [
         {

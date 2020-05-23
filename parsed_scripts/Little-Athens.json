@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "Little Athens",
-        "   "
-    ],
+    "Title": "Little Athens",
     "Author": [
-        "\u00a0\u00a0Jeff Zuber\u00a0\u00a0Tom Zuber"
+        "Jeff Zuber",
+        "Tom Zuber"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama"
+        "Comedy",
+        "Drama"
     ],
     "Characters": [
         {
@@ -5131,12 +5130,6 @@
                     "End": 264142
                 },
                 {
-                    "Reply": "We should get everybody out of the house.",
-                    "Didascalie": "(moving up the porch and into the house)",
-                    "Start": 264293,
-                    "End": 264356
-                },
-                {
                     "Reply": "Heather, go home. This is gonna get-",
                     "Didascalie": "",
                     "Start": 264672,
@@ -6939,6 +6932,46 @@
             ]
         },
         {
+            "Character": "FEMALE PARTYGOER 1",
+            "Replies": [
+                {
+                    "Reply": "Excuse me.",
+                    "Didascalie": "",
+                    "Start": 200772,
+                    "End": 200783
+                }
+            ]
+        },
+        {
+            "Character": "PING PONG PLAYER 1",
+            "Replies": [
+                {
+                    "Reply": "Corey!   Hey, come beat this asshole!",
+                    "Didascalie": "",
+                    "Start": 201819,
+                    "End": 201857
+                },
+                {
+                    "Reply": "Screw it, you won again. Play Corey.",
+                    "Didascalie": "",
+                    "Start": 202040,
+                    "End": 202077
+                },
+                {
+                    "Reply": "Watch this.",
+                    "Didascalie": "(to Barnes' Girlfriend, handing Corey his paddle)",
+                    "Start": 202342,
+                    "End": 202375
+                },
+                {
+                    "Reply": "So let him beat someone else.",
+                    "Didascalie": "",
+                    "Start": 214472,
+                    "End": 214502
+                }
+            ]
+        },
+        {
             "Character": "BARNES",
             "Replies": [
                 {
@@ -6954,12 +6987,6 @@
                     "End": 202180
                 },
                 {
-                    "Reply": "Watch this.",
-                    "Didascalie": "(to Barnes' Girlfriend, handing Corey his paddle)",
-                    "Start": 202342,
-                    "End": 202375
-                },
-                {
                     "Reply": "You serve, Becker.",
                     "Didascalie": "",
                     "Start": 202744,
@@ -6970,12 +6997,6 @@
                     "Didascalie": "",
                     "Start": 213996,
                     "End": 214006
-                },
-                {
-                    "Reply": "Let someone else play, Barnes.",
-                    "Didascalie": "(reaching for Barnes' RACKET)",
-                    "Start": 214148,
-                    "End": 214200
                 },
                 {
                     "Reply": "You guys suck - he'll be at the table all night.",
@@ -7147,6 +7168,64 @@
             ]
         },
         {
+            "Character": "PING PONG PLAYER 2",
+            "Replies": [
+                {
+                    "Reply": "Let someone else play, Barnes.",
+                    "Didascalie": "(reaching for Barnes' RACKET)",
+                    "Start": 214148,
+                    "End": 214200
+                },
+                {
+                    "Reply": "Where you going Becker?",
+                    "Didascalie": "(wanting to play Corey)",
+                    "Start": 215271,
+                    "End": 215316
+                }
+            ]
+        },
+        {
+            "Character": "MALE PARTYGOER 1",
+            "Replies": [
+                {
+                    "Reply": "How come I haven't seen you before?    Did you go to Athens?",
+                    "Didascalie": "",
+                    "Start": 218518,
+                    "End": 218599
+                },
+                {
+                    "Reply": "Really? I graduated last year.    You know anyone my year?",
+                    "Didascalie": "",
+                    "Start": 218784,
+                    "End": 218863
+                },
+                {
+                    "Reply": "Oh yeah, I know Becker. He dropped out our senior year, though. He's your bro?",
+                    "Didascalie": "",
+                    "Start": 219046,
+                    "End": 219145
+                },
+                {
+                    "Reply": "Yeah, he's kind of a loser.",
+                    "Didascalie": "",
+                    "Start": 219311,
+                    "End": 219339
+                },
+                {
+                    "Reply": "Ever try this?",
+                    "Didascalie": "",
+                    "Start": 219772,
+                    "End": 219787
+                },
+                {
+                    "Reply": "Hey, what's wrong?",
+                    "Didascalie": "",
+                    "Start": 249981,
+                    "End": 250000
+                }
+            ]
+        },
+        {
             "Character": "DRUNK PARTYGOER",
             "Replies": [
                 {
@@ -7184,6 +7263,116 @@
                     "Didascalie": "(CONT'D) (to Partygoers)",
                     "Start": 222112,
                     "End": 222170
+                }
+            ]
+        },
+        {
+            "Character": "POLICE OFFICER 2",
+            "Replies": [
+                {
+                    "Reply": "I'll be fucked...",
+                    "Didascalie": "",
+                    "Start": 255654,
+                    "End": 255672
+                },
+                {
+                    "Reply": "Out of the truck, asshole!",
+                    "Didascalie": "",
+                    "Start": 258751,
+                    "End": 258778
+                },
+                {
+                    "Reply": "Holy shit, you hear that?",
+                    "Didascalie": "(to Police Officer 1)",
+                    "Start": 262802,
+                    "End": 262849
+                },
+                {
+                    "Reply": "We should get everybody out of the house.",
+                    "Didascalie": "(moving up the porch and into the house)",
+                    "Start": 264293,
+                    "End": 264356
+                },
+                {
+                    "Reply": "Hey!",
+                    "Didascalie": "",
+                    "Start": 264971,
+                    "End": 264976
+                },
+                {
+                    "Reply": "Derek, you alright?",
+                    "Didascalie": "",
+                    "Start": 265252,
+                    "End": 265272
+                },
+                {
+                    "Reply": "Oh man...",
+                    "Didascalie": "",
+                    "Start": 272845,
+                    "End": 272855
+                }
+            ]
+        },
+        {
+            "Character": "POLICE OFFICER 1",
+            "Replies": [
+                {
+                    "Reply": "Hey Janice, tell Tim I found his car.",
+                    "Didascalie": "",
+                    "Start": 256037,
+                    "End": 256075
+                },
+                {
+                    "Reply": "This is Unit one five seven. Shot fired at 15 Saddlebrook. Repeat, shot fired at 15 Saddlebrook. Request backup immediately.",
+                    "Didascalie": "",
+                    "Start": 263124,
+                    "End": 263309
+                },
+                {
+                    "Reply": "Everybody clear outta here.",
+                    "Didascalie": "",
+                    "Start": 269354,
+                    "End": 269382
+                },
+                {
+                    "Reply": "We've got it. Clear outta here.",
+                    "Didascalie": "",
+                    "Start": 269748,
+                    "End": 269780
+                },
+                {
+                    "Reply": "Anybody in there? Open up! This is the police! We're clearing everybody out!",
+                    "Didascalie": "",
+                    "Start": 271777,
+                    "End": 271874
+                },
+                {
+                    "Reply": "You can't come back here.",
+                    "Didascalie": "",
+                    "Start": 273337,
+                    "End": 273363
+                }
+            ]
+        },
+        {
+            "Character": "FEMALE PARTYGOER 2",
+            "Replies": [
+                {
+                    "Reply": "There was a gunshot.",
+                    "Didascalie": "",
+                    "Start": 269465,
+                    "End": 269486
+                }
+            ]
+        },
+        {
+            "Character": "FEMALE PARTYGOER 3",
+            "Replies": [
+                {
+                    "Reply": "Over there.",
+                    "Didascalie": "(pointing back toward the bedrooms)",
+                    "Start": 269634,
+                    "End": 269667
                 }
             ]
         }

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Marley & Me",
-        "   "
-    ],
+    "Title": "Marley & Me",
     "Author": [
-        "\u00a0\u00a0Don Roos"
+        "Don Roos"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Family\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Family",
+        "Romance"
     ],
     "Characters": [
         {

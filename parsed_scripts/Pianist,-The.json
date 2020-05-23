@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Pianist, The",
-        "   "
-    ],
+    "Title": "Pianist, The",
     "Author": [
-        "\u00a0\u00a0Ronald Harwood\u00a0\u00a0Wladyslaw Szpilman"
+        "Ronald Harwood",
+        "Wladyslaw Szpilman"
     ],
     "Genre": [
-        "\u00a0\u00a0Biography\u00a0\u00a0Drama\u00a0\u00a0Music\u00a0\u00a0War"
+        "Biography",
+        "Drama",
+        "Music",
+        "War"
     ],
     "Characters": [
         {
@@ -2478,23 +2479,6 @@
             ]
         },
         {
-            "Character": "A GERMAN VOICE",
-            "Replies": [
-                {
-                    "Reply": "Run!  Run!",
-                    "Didascalie": "",
-                    "Start": 64719,
-                    "End": 64730
-                },
-                {
-                    "Reply": "Assemble! Fall in! Only the Jews! Poles go on working! Only the Jews! Poles go on working!",
-                    "Didascalie": "",
-                    "Start": 118758,
-                    "End": 118901
-                }
-            ]
-        },
-        {
             "Character": "POOR WOMAN",
             "Replies": [
                 {
@@ -2552,17 +2536,6 @@
             ]
         },
         {
-            "Character": "A YOUNG WOMAN",
-            "Replies": [
-                {
-                    "Reply": "Where are you taking us?",
-                    "Didascalie": "",
-                    "Start": 87190,
-                    "End": 87215
-                }
-            ]
-        },
-        {
             "Character": "WOMAN WITH CHILD",
             "Replies": [
                 {
@@ -2605,17 +2578,6 @@
                     "Didascalie": "",
                     "Start": 97409,
                     "End": 97826
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Szpilman! Szpilman!",
-                    "Didascalie": "",
-                    "Start": 102400,
-                    "End": 102420
                 }
             ]
         },

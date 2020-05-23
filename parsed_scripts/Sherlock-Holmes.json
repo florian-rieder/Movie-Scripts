@@ -1,13 +1,16 @@
 {
-    "Title": [
-        "Sherlock Holmes",
-        "   "
-    ],
+    "Title": "Sherlock Holmes",
     "Author": [
-        "\u00a0\u00a0Michael Robert Johnson\u00a0\u00a0Anthony Peckham\u00a0\u00a0Simon Kinberg"
+        "Michael Robert Johnson",
+        "Anthony Peckham",
+        "Simon Kinberg"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Adventure\u00a0\u00a0Crime\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Action",
+        "Adventure",
+        "Crime",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -2424,12 +2427,6 @@
                     "End": 277985
                 },
                 {
-                    "Reply": "Like all great performers you saved your piece de resistance for the end. Had it worked, your followers in Parliament would have watched unharmed as their colleagues were dying around them. They didn't know that you had given them the antidote -- at one of your ceremonies I suspect. Instead, they would have believed it was magic and that you harnessed the ultimate power.  END FLASHBACKS.",
-                    "Didascalie": "",
-                    "Start": 279433,
-                    "End": 280316
-                },
-                {
                     "Reply": "You hated your father and the other members of the Temple of the Four Orders for what they did to you. How satisfying it must have been to use their own system against them.  IN B.G.: We see the slow, inexorable dominoes continue to fall. The last timber falls over the edge, lands on a rope. The rope yanks down a crane, the crane swings, strikes another crane...",
                     "Didascalie": "",
                     "Start": 281093,
@@ -4344,29 +4341,6 @@
                     "Didascalie": "",
                     "Start": 209275,
                     "End": 209332
-                }
-            ]
-        },
-        {
-            "Character": "A CLOSEUP OF HOLMES",
-            "Replies": [
-                {
-                    "Reply": "His face covered with earth -- just as we saw Reordon in his coffin. Holmes' eyes snap open, he breathes in air --",
-                    "Didascalie": "",
-                    "Start": 215025,
-                    "End": 215145
-                },
-                {
-                    "Reply": "His face submerged in water inside a copper bath tub --",
-                    "Didascalie": "",
-                    "Start": 215609,
-                    "End": 215665
-                },
-                {
-                    "Reply": "His face engulfed with flames -- just as we saw Standish.",
-                    "Didascalie": "",
-                    "Start": 216017,
-                    "End": 216075
                 }
             ]
         },

@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "12 Years a Slave",
-        "   "
-    ],
+    "Title": "12 Years a Slave",
     "Author": [
-        "\u00a0\u00a0John Ridley"
+        "John Ridley"
     ],
     "Genre": [
-        "\u00a0\u00a0Drama"
+        "Drama"
     ],
     "Characters": [
         {
@@ -1216,17 +1213,6 @@
                     "Didascalie": "",
                     "Start": 4898,
                     "End": 4963
-                }
-            ]
-        },
-        {
-            "Character": "A VOICE",
-            "Replies": [
-                {
-                    "Reply": "Jasper! Come on!",
-                    "Didascalie": "",
-                    "Start": 6393,
-                    "End": 6410
                 }
             ]
         },
@@ -4733,17 +4719,6 @@
                     "Didascalie": "",
                     "Start": 229844,
                     "End": 229875
-                }
-            ]
-        },
-        {
-            "Character": "EVENING",
-            "Replies": [
-                {
-                    "Reply": "-APRIL, 1852-",
-                    "Didascalie": "",
-                    "Start": 240311,
-                    "End": 240325
                 }
             ]
         },

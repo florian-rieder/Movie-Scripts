@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Frequency",
-        "   "
-    ],
+    "Title": "Frequency",
     "Author": [
-        "\u00a0\u00a0Toby Emmerich"
+        "Toby Emmerich"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller"
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4567,17 +4564,6 @@
             ]
         },
         {
-            "Character": "WIDEN TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "the woman holding the cartons: JULIA SULLIVAN, 29 YEARS OLDER than the last time we saw her.  But she looks okay, she looks happy.",
-                    "Didascalie": "",
-                    "Start": 57356,
-                    "End": 57511
-                }
-            ]
-        },
-        {
             "Character": "GIRL",
             "Replies": [
                 {
@@ -4614,17 +4600,6 @@
                     "Didascalie": "",
                     "Start": 88072,
                     "End": 88099
-                }
-            ]
-        },
-        {
-            "Character": "A HIPPIE CRASH PAD",
-            "Replies": [
-                {
-                    "Reply": "Frank dashes into the office and heaves the conduit off the girl.  He hoists her over his shoulder and heads out.",
-                    "Didascalie": "",
-                    "Start": 86789,
-                    "End": 86915
                 }
             ]
         },

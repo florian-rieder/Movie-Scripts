@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Wag the Dog",
-        "   "
-    ],
+    "Title": "Wag the Dog",
     "Author": [
-        "\u00a0\u00a0David Mamet"
+        "David Mamet"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -1272,12 +1269,6 @@
                     "Didascalie": "(PAUSE)",
                     "Start": 208385,
                     "End": 208425
-                },
-                {
-                    "Reply": "Could we have you in here, please...7  BREAN, DISTRACTED FOR A MOMENT, LETS MOSS GO, MOSS PULLS AWAY, AND RUNS OUT OF THE ROOM.",
-                    "Didascalie": "",
-                    "Start": 216668,
-                    "End": 216796
                 },
                 {
                     "Reply": "...we need a witness.",
@@ -5029,12 +5020,6 @@
                     "End": 129816
                 },
                 {
-                    "Reply": "Oh, you're gonna love this:  INT MALL H.Q., SHOESTORE DAY.",
-                    "Didascalie": "",
-                    "Start": 129941,
-                    "End": 130000
-                },
-                {
                     "Reply": "Hey, hey, I'm just the Producer, I'm just the Stationmaster, Johnny Green wrote that song, and...",
                     "Didascalie": "",
                     "Start": 130380,
@@ -5555,12 +5540,6 @@
                     "Didascalie": "",
                     "Start": 187791,
                     "End": 187803
-                },
-                {
-                    "Reply": "This is nothing. ...piece of cake.  Y'know, producing is being a Samurai Warrior.  They pay you, day in, day out, for Years, so that, ONE DAY, when called upon, you can respond, your training At Its Peak, and save the day.",
-                    "Didascalie": "(PAUSE)",
-                    "Start": 188807,
-                    "End": 189091
                 },
                 {
                     "Reply": "No, I didn't think so.",
@@ -6152,12 +6131,6 @@
         {
             "Character": "PRESIDENT",
             "Replies": [
-                {
-                    "Reply": "My fellow Americans.  I apologize for the need for secrecy.  I assure you that had it not been necessary to ensure the safety of our men and women in the Combat Arms.  The Republic of Albania, long a staging ground for terrorists around the World, is in the procesa of mounting ... actions directed against the people of the United States.  In consultation with my advisors, I have elected to take the following precautionary measures:  EXT POOLSIDE, MOSS'S HOME, L.A. NIGHT.",
-                    "Didascalie": "",
-                    "Start": 53246,
-                    "End": 53818
-                },
                 {
                     "Reply": "That a state of war has existed, between the United States, and...",
                     "Didascalie": "",
@@ -6921,12 +6894,6 @@
                     "Didascalie": "",
                     "Start": 86381,
                     "End": 86619
-                },
-                {
-                    "Reply": "THE SCREEN GOES TO A SCENE OF SUPERMARKET LOOTING IN AN INNER CITY.  A STAND-",
-                    "Didascalie": "(HE TAPS HIMSELF ON THE CEEST)",
-                    "Start": 86669,
-                    "End": 86749
                 }
             ]
         },

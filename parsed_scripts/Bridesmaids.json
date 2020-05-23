@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Bridesmaids",
-        "   "
-    ],
+    "Title": "Bridesmaids",
     "Author": [
-        "\u00a0\u00a0Annie Mumolo"
+        "Annie Mumolo"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy"
+        "Comedy"
     ],
     "Characters": [
         {
@@ -1558,12 +1555,6 @@
                     "Didascalie": "",
                     "Start": 97961,
                     "End": 97990
-                },
-                {
-                    "Reply": "EXT - TED'S HOUSE. NEXT MORNING.",
-                    "Didascalie": "",
-                    "Start": 98220,
-                    "End": 98253
                 },
                 {
                     "Reply": "No, it was fine. Like I said, I mean I was just driving.",
@@ -7589,6 +7580,40 @@
             ]
         },
         {
+            "Character": "BRIAN 1",
+            "Replies": [
+                {
+                    "Reply": "Dude, we gotta get Brian some food asap.",
+                    "Didascalie": "",
+                    "Start": 128521,
+                    "End": 128562
+                },
+                {
+                    "Reply": "Dude, I'm sorry. She made us bring her here.",
+                    "Didascalie": "",
+                    "Start": 135221,
+                    "End": 135276
+                }
+            ]
+        },
+        {
+            "Character": "BRIAN 2",
+            "Replies": [
+                {
+                    "Reply": "Sorry we haven't eaten all day.",
+                    "Didascalie": "",
+                    "Start": 128870,
+                    "End": 128902
+                },
+                {
+                    "Reply": "Yeah, bring your friends.",
+                    "Didascalie": "",
+                    "Start": 130622,
+                    "End": 130648
+                }
+            ]
+        },
+        {
             "Character": "MATT",
             "Replies": [
                 {
@@ -7922,6 +7947,17 @@
                     "Didascalie": "",
                     "Start": 208055,
                     "End": 208102
+                }
+            ]
+        },
+        {
+            "Character": "GIRL 1",
+            "Replies": [
+                {
+                    "Reply": "the ocean. It may not always be smooth sailing but you can ride the waves together.",
+                    "Didascalie": "",
+                    "Start": 174437,
+                    "End": 174541
                 }
             ]
         },

@@ -1,13 +1,12 @@
 {
-    "Title": [
-        "John Q",
-        "   "
-    ],
+    "Title": "John Q",
     "Author": [
-        "\u00a0\u00a0James Kearns"
+        "James Kearns"
     ],
     "Genre": [
-        "\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -3793,34 +3792,6 @@
                     "Didascalie": "",
                     "Start": 115784,
                     "End": 115805
-                }
-            ]
-        },
-        {
-            "Character": "PULL BACK TO REVEAL",
-            "Replies": [
-                {
-                    "Reply": "A man sitting alone in front of the computer. He rips the copy from the printer, lays it into the fax machine and dials. A piercing beep. The paper gets sucked away.",
-                    "Didascalie": "",
-                    "Start": 117548,
-                    "End": 117714
-                },
-                {
-                    "Reply": "Tuck Lampley, hand over his ear, shouting above the noise to bring us more exclusive coverage.",
-                    "Didascalie": "",
-                    "Start": 122962,
-                    "End": 123057
-                }
-            ]
-        },
-        {
-            "Character": "INSERT FAX",
-            "Replies": [
-                {
-                    "Reply": "It's official. The heart is on the way.",
-                    "Didascalie": "",
-                    "Start": 120690,
-                    "End": 120730
                 }
             ]
         },

@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "Prom Night",
-        "   "
-    ],
+    "Title": "Prom Night",
     "Author": [
-        "\u00a0\u00a0William Gray\u00a0\u00a0Bob Guza"
+        "William Gray",
+        "Bob Guza"
     ],
     "Genre": [
-        "\u00a0\u00a0Horror\u00a0\u00a0Mystery\u00a0\u00a0Thriller"
+        "Horror",
+        "Mystery",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -42,12 +42,6 @@
                     "Didascalie": "(CONTINUING)",
                     "Start": 2193,
                     "End": 2235
-                },
-                {
-                    "Reply": "CONTINUED : He strides away. Robin's eyes remain on Nick and Kim.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 2272,
-                    "End": 2483
                 },
                 {
                     "Reply": "C'mon, Kimbo, I may be hard up...",
@@ -2204,12 +2198,6 @@
                     "End": 37511
                 },
                 {
-                    "Reply": "20,  23 CONTINUED: 23 They climb the broad front steps of the high school.",
-                    "Didascalie": "(CONTINUED)",
-                    "Start": 37548,
-                    "End": 37778
-                },
-                {
                     "Reply": "Damn!",
                     "Didascalie": "(CONTINUING)",
                     "Start": 84455,
@@ -2412,6 +2400,17 @@
                     "Didascalie": "",
                     "Start": 40502,
                     "End": 40598
+                }
+            ]
+        },
+        {
+            "Character": "HAM 0ND",
+            "Replies": [
+                {
+                    "Reply": "What happened?",
+                    "Didascalie": "(taking her hand)",
+                    "Start": 40426,
+                    "End": 40452
                 }
             ]
         },
@@ -3650,17 +3649,6 @@
                     "Didascalie": "",
                     "Start": 122644,
                     "End": 122673
-                }
-            ]
-        },
-        {
-            "Character": "I I",
-            "Replies": [
-                {
-                    "Reply": "98 CONTINUED: 98 A streetlight reflecting off its windshield prevents him from seeing inside. Vivian interrupts his speculations.",
-                    "Didascalie": "",
-                    "Start": 138658,
-                    "End": 138818
                 }
             ]
         },

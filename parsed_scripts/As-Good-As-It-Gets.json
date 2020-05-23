@@ -1,13 +1,13 @@
 {
-    "Title": [
-        "As Good As It Gets",
-        "   "
-    ],
+    "Title": "As Good As It Gets",
     "Author": [
-        "\u00a0\u00a0Mark Andrus\u00a0\u00a0James L. Brooks"
+        "Mark Andrus",
+        "James L. Brooks"
     ],
     "Genre": [
-        "\u00a0\u00a0Comedy\u00a0\u00a0Drama\u00a0\u00a0Romance"
+        "Comedy",
+        "Drama",
+        "Romance"
     ],
     "Characters": [
         {

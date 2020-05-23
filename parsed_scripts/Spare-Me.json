@@ -1,13 +1,11 @@
 {
-    "Title": [
-        "Spare Me",
-        "   "
-    ],
+    "Title": "Spare Me",
     "Author": [
-        "\u00a0\u00a0Christopher Grimm\u00a0\u00a0Matthew Harrison"
+        "Christopher Grimm",
+        "Matthew Harrison"
     ],
     "Genre": [
-        "\u00a0\u00a0Thriller"
+        "Thriller"
     ],
     "Characters": [
         {
@@ -4541,6 +4539,17 @@
                     "Didascalie": "",
                     "Start": 56460,
                     "End": 56470
+                }
+            ]
+        },
+        {
+            "Character": "MACHINE NUMBER 6",
+            "Replies": [
+                {
+                    "Reply": "Junior pulls the dazed Theo into the pin-reset machine and positions him under the pins. As Junior prepares the machinery, a control cable on his claw becomes fouled. Junior begins to thrash about as he tries to disentangle himself and his malfunctioning arm. Theo rolls away as Junior's flailing releases the machine. It comes slamming down on Junior just as Theo slips out of harm's way. He gets up and staggers away from the machine. Junior's HOWL echoes across the lanes. His twitching feet protrude from the maw of the device. Lane six goes dark. Theo limps up the lane.",
+                    "Didascalie": "",
+                    "Start": 68832,
+                    "End": 69408
                 }
             ]
         },

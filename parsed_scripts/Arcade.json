@@ -1,13 +1,10 @@
 {
-    "Title": [
-        "Arcade",
-        "   "
-    ],
+    "Title": "Arcade",
     "Author": [
-        "\u00a0\u00a0David S. Goyer"
+        "David S. Goyer"
     ],
     "Genre": [
-        "\u00a0\u00a0Sci-Fi"
+        "Sci-Fi"
     ],
     "Characters": [
         {
@@ -3059,12 +3056,6 @@
                     "End": 18661
                 },
                 {
-                    "Reply": "ONE WORD OF ADVICE, NICK.  YOU SPEND TOO MUCH TIME IN ONE PLACE, AND I SEND OUT THE SCREAMER.  YOU DON'T WANT TO BE AROUND WHEN THAT HAPPENS.",
-                    "Didascalie": "",
-                    "Start": 19642,
-                    "End": 19790
-                },
-                {
                     "Reply": "SEE YOU ON THE OTHER SIDE.",
                     "Didascalie": "(laughs)",
                     "Start": 19801,
@@ -3125,16 +3116,16 @@
                     "End": 50261
                 },
                 {
+                    "Reply": "COME INSIDE.  I ONLY WANT TO PLAY.",
+                    "Didascalie": "",
+                    "Start": 50454,
+                    "End": 50489
+                },
+                {
                     "Reply": "SEE YOU ON THE OTHER SIDE.",
                     "Didascalie": "",
                     "Start": 51207,
                     "End": 51234
-                },
-                {
-                    "Reply": "NICK.  ALEX.  I MISSED YOU SO MUCH. ALL YOUR FRIENDS ARE HERE.",
-                    "Didascalie": "",
-                    "Start": 77338,
-                    "End": 77403
                 },
                 {
                     "Reply": "ANY TIME.",
@@ -3230,17 +3221,6 @@
                     "Didascalie": "(acting tough)",
                     "Start": 14131,
                     "End": 14195
-                }
-            ]
-        },
-        {
-            "Character": "A LARGE MAN",
-            "Replies": [
-                {
-                    "Reply": "pushes his way towards them and effortlessly scoops both boys up, wrapping a beefy hand around the scruffs of their necks.  This is FINSTER, the proprietor...enormous, bald, and always irritable.",
-                    "Didascalie": "",
-                    "Start": 13623,
-                    "End": 13819
                 }
             ]
         },
@@ -3572,17 +3552,6 @@
             ]
         },
         {
-            "Character": "A PHOTO",
-            "Replies": [
-                {
-                    "Reply": "of Alex and her MOTHER sits by her bed, neglected and collecting dust.",
-                    "Didascalie": "",
-                    "Start": 29293,
-                    "End": 29364
-                }
-            ]
-        },
-        {
             "Character": "CANDLES",
             "Replies": [
                 {
@@ -3612,17 +3581,6 @@
                     "Didascalie": "",
                     "Start": 32564,
                     "End": 32612
-                }
-            ]
-        },
-        {
-            "Character": "A STREETLIGHT",
-            "Replies": [
-                {
-                    "Reply": "above is FLICKERING wildly.  Sputtering, HUMMING, casting strange shadows across the street.",
-                    "Didascalie": "",
-                    "Start": 35938,
-                    "End": 36031
                 }
             ]
         },
@@ -3905,23 +3863,6 @@
             ]
         },
         {
-            "Character": "A DOORWAY",
-            "Replies": [
-                {
-                    "Reply": "stands in the plains, seemingly leading to nowhere.  Nick reaches out and opens it.  It's just plains and empty space beyond...",
-                    "Didascalie": "",
-                    "Start": 81649,
-                    "End": 81777
-                },
-                {
-                    "Reply": "stands in the darkness.  ARCADE rips it open, revealing absolute emptiness beyond.  It's like a doorway into space, a hole in the fabric of reality.",
-                    "Didascalie": "",
-                    "Start": 122431,
-                    "End": 122580
-                }
-            ]
-        },
-        {
             "Character": "WRIST DISPLAY",
             "Replies": [
                 {
@@ -4006,28 +3947,6 @@
                     "Didascalie": "",
                     "Start": 99524,
                     "End": 99640
-                }
-            ]
-        },
-        {
-            "Character": "END CORRIDOR",
-            "Replies": [
-                {
-                    "Reply": "She's back where she started.  And the corridor dead-ends in a mirrored wall...",
-                    "Didascalie": "",
-                    "Start": 100827,
-                    "End": 100907
-                }
-            ]
-        },
-        {
-            "Character": "A SMALL FIGURE",
-            "Replies": [
-                {
-                    "Reply": "bobs in the water about fifty yards in front of them.  It waves it's hands frantically, sinking below the water's surface, then rising once again.",
-                    "Didascalie": "",
-                    "Start": 106259,
-                    "End": 106406
                 }
             ]
         },
@@ -4129,39 +4048,6 @@
             ]
         },
         {
-            "Character": "A KEY",
-            "Replies": [
-                {
-                    "Reply": "hangs out from the wall, sort of like the brass ring on a merry-go-round.",
-                    "Didascalie": "",
-                    "Start": 111580,
-                    "End": 111654
-                }
-            ]
-        },
-        {
-            "Character": "A CLAWED HAND",
-            "Replies": [
-                {
-                    "Reply": "lashes out and tears away the cycle's tail-pipe.  Another hand takes out a chunk of the seat...",
-                    "Didascalie": "",
-                    "Start": 112136,
-                    "End": 112232
-                }
-            ]
-        },
-        {
-            "Character": "A BLACK-CLAD FIGURE",
-            "Replies": [
-                {
-                    "Reply": "spins out of the shadows, landing in front of them.  It's a Ninja, two swords spinning in its hands.",
-                    "Didascalie": "",
-                    "Start": 114464,
-                    "End": 114565
-                }
-            ]
-        },
-        {
             "Character": "TWO GLASS DOORS",
             "Replies": [
                 {
@@ -4169,17 +4055,6 @@
                     "Didascalie": "",
                     "Start": 117159,
                     "End": 117333
-                }
-            ]
-        },
-        {
-            "Character": "A SPOTLIGHT",
-            "Replies": [
-                {
-                    "Reply": "comes on, isolating Alex.  The boy stands behind her, and everything else is dark.  It's impossible to tell how large the room is.  It might go on forever.",
-                    "Didascalie": "",
-                    "Start": 118857,
-                    "End": 119013
                 }
             ]
         },
@@ -4239,17 +4114,6 @@
             ]
         },
         {
-            "Character": "A NEON SIGN",
-            "Replies": [
-                {
-                    "Reply": "above her drops down.  It flashes \"CONGRATULATIONS\" over and over again.",
-                    "Didascalie": "",
-                    "Start": 128187,
-                    "End": 128260
-                }
-            ]
-        },
-        {
             "Character": "SPACE SHIMMERS",
             "Replies": [
                 {
@@ -4268,17 +4132,6 @@
                     "Didascalie": "",
                     "Start": 130138,
                     "End": 130251
-                }
-            ]
-        },
-        {
-            "Character": "A FORM",
-            "Replies": [
-                {
-                    "Reply": "rises up from the floor, still trailing tendrils of smoke. It lifts its head.",
-                    "Didascalie": "",
-                    "Start": 131646,
-                    "End": 131724
                 }
             ]
         }

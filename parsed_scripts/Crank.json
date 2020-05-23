@@ -1,13 +1,14 @@
 {
-    "Title": [
-        "Crank",
-        "   "
-    ],
+    "Title": "Crank",
     "Author": [
-        "\u00a0\u00a0Mark Neveldine\u00a0\u00a0Brian Taylor"
+        "Mark Neveldine",
+        "Brian Taylor"
     ],
     "Genre": [
-        "\u00a0\u00a0Action\u00a0\u00a0Crime\u00a0\u00a0Drama\u00a0\u00a0Thriller"
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
     ],
     "Characters": [
         {
@@ -876,12 +877,6 @@
                     "Didascalie": "",
                     "Start": 70490,
                     "End": 70621
-                },
-                {
-                    "Reply": "Am I being difficult? Is this what you call difficult? I don't know if you noticed, but I'm having a DIFFICULT FUCKING DAY, BRO!",
-                    "Didascalie": "",
-                    "Start": 70776,
-                    "End": 70965
                 },
                 {
                     "Reply": "orget it, I'm out of here.",
@@ -2634,12 +2629,6 @@
                     "End": 177965
                 },
                 {
-                    "Reply": "DON'T TALK TO ME LIKE THAT!! MY BOYFRIEND KILLS PEOPLE!!!",
-                    "Didascalie": "",
-                    "Start": 201470,
-                    "End": 201557
-                },
-                {
                     "Reply": "I had to see if you were telling the truth... oh, and you have my purse.",
                     "Didascalie": "",
                     "Start": 203098,
@@ -3990,6 +3979,17 @@
             ]
         },
         {
+            "Character": "TECH 1",
+            "Replies": [
+                {
+                    "Reply": "He's dropping! Stand by to defibrillate!",
+                    "Didascalie": "",
+                    "Start": 108420,
+                    "End": 108461
+                }
+            ]
+        },
+        {
             "Character": "FAT MAN",
             "Replies": [
                 {
@@ -4003,6 +4003,17 @@
                     "Didascalie": "",
                     "Start": 108919,
                     "End": 108931
+                }
+            ]
+        },
+        {
+            "Character": "TECH 2",
+            "Replies": [
+                {
+                    "Reply": "hat is this? What the hell do you think you're doing? THIS IS A HOSPITAL!",
+                    "Didascalie": "",
+                    "Start": 109208,
+                    "End": 109305
                 }
             ]
         },
