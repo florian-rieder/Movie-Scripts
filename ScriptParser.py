@@ -122,22 +122,22 @@ class ScriptParser():
 
 	def _special_characters(self, text):
 		all_same_line = re.compile(r"^\s+.{1000}")
-		colon = re.compile(r"(?m)^(\s*)([A-Za-z.-]+)\s*:(\s*)(\n*)")
-		no_colon = re.compile(r"(?m)^(\s*)([A-Za-z]+)(\n+)")
+		colon = re.compile(r"(?m)^(\s*)([A-Za-z0-9 .-]+)(\s*):(\s*\n*)")
+		no_colon = re.compile(r"(?m)^(\s*)([A-Za-z0-9]+)(\s*\n+)")
 
 		fail = 10
        
 		matches = re.findall(all_same_line, text)
 		if len(matches) == 1:
-			return self._get_characters(re.sub(r"\s{3,}", "\n", text))
+			return self._get_characters(re.sub(r"(\s{3,})", lambda clean: "\n" + clean.group(1)[:-1], text))
     
 		matches = re.findall(colon, text)
 		if len(matches) > fail:
-			return self._get_characters(re.sub(colon, lambda clean: clean.group(1) + clean.group(2).upper() + "\n", text))
+			return self._get_characters(re.sub(colon, lambda clean: clean.group(1) + clean.group(2).upper() + clean.group(3) + "\n" + clean.group(4), text))
 
 		matches = re.findall(no_colon, text)
 		if len(matches) > fail:
-			return self._get_characters(re.sub(no_colon, lambda clean: clean.group(1) + clean.group(2).upper() + "\n", text)) 
+			return self._get_characters(re.sub(no_colon, lambda clean: clean.group(1) + clean.group(2).upper() + "\n" + clean.group(3)[:-1], text)) 
 
 		return [] 
     
