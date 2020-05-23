@@ -63,6 +63,7 @@ You can overwrite or change certain attributes of a `ScriptParser`, depending on
 | Attribute           | type  | Description  |
 | ------------------- |-------| ------------ |
 | `minimum_replies`     | `int` | The minimal amount of replies under which a character is rejected. The default value is 1. This discards all characters with no replies. With the value adjusted to 2, most false-positives will be eliminated, but some minor characters along with them. |
+| `minimum_characters`  | `int` | The minimal amount of characters under which a movie is rejected. The default value is 5. More explications in the [Special scripts](#special-scripts) section.|
 | `character_blacklist` | `list(str)` | A list of strings. If any of the strings in the list is contained in a character name, the character will be rejected. |
 | `reply_blacklist`     | `list(str)` | A list of strings used to filter replies. If any of the strings are found in the reply (case sensitive), the reply will be rejected |
 
@@ -77,13 +78,14 @@ parser.character_blacklist += ["NEW", "WORDS"]
 # overwrite the blacklist
 parser.character_blacklist = ["ENTIRELY", "NEW", "WORDS"]
 ```
-# Special Scripts
-Special scripts are determined by checking if a parsed script has less than `minimum_characters` characters. The default is 5, and the script will then be sent to the `_special_characters()` method which will attempt to identify one of three special cases. 
+# Special scripts
+Special scripts are determined by checking if a parsed script has less than `minimum_characters` characters. The script will then be sent to the `_special_characters()` method which will attempt to identify one of three special cases:
+
 1. The entire text of the script is contained on a single line.
 2. Character names are not capitalized and/or are placed on the same line as their replies, followed by a colon.
 3. Character names are not capitalized and are not followed by a colon.
 
-A specifically modified text is returned and sent to the `_get_characters()` method to be parsed a second time.
+A specifically modified text is then returned and sent to the `_get_characters()` method to be parsed a second time.
 
 ## Error
 If the script does not fit any of these cases or still has less than `minimum_characters` characters after being parsed a second time, you will get the following error message: "The script was not parsed, because...". 
