@@ -88,7 +88,7 @@ Special scripts are determined by checking if a parsed script has less than `min
 A specifically modified text is then returned and sent to the `_get_characters()` method to be parsed a second time.
 
 ## Error
-If the script does not fit any of these cases or still has less than `minimum_characters` characters after being parsed a second time, you will get the following error message: "The script was not parsed, because...". 
+If the script does not fit any of these cases or still has less than `minimum_characters` characters after being parsed a second time, you will get the following error message: "The script couldn't be parsed."
 There are a couple things you can do to fix it.
 
 1. Reformat the script so that the `ScriptParser` can parse it correctly. 
