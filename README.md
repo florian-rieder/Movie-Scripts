@@ -78,7 +78,7 @@ parser.character_blacklist += ["NEW", "WORDS"]
 parser.character_blacklist = ["ENTIRELY", "NEW", "WORDS"]
 ```
 # Special Scripts
-Special scripts are determined by checking if a parsed script has less than `Variable` characters. The default is 5, and the script will then be sent to the `_special_characters()` method which will attempt to identify one of three special cases. 
+Special scripts are determined by checking if a parsed script has less than `minimum_characters` characters. The default is 5, and the script will then be sent to the `_special_characters()` method which will attempt to identify one of three special cases. 
 1. The entire text of the script is contained on a single line.
 2. Character names are not capitalized and/or are placed on the same line as their replies, followed by a colon.
 3. Character names are not capitalized and are not followed by a colon.
@@ -86,7 +86,7 @@ Special scripts are determined by checking if a parsed script has less than `Var
 A specifically modified text is returned and sent to the `_get_characters()` method to be parsed a second time.
 
 ## Error
-If the script does not fit any of these cases or still has less than `Variable` characters after being parsed a second time, you will get the following error message: "The script was not parsed, because...". 
+If the script does not fit any of these cases or still has less than `minimum_characters` characters after being parsed a second time, you will get the following error message: "The script was not parsed, because...". 
 There are a couple things you can do to fix it.
 
 1. Reformat the script so that the `ScriptParser` can parse it correctly. 
