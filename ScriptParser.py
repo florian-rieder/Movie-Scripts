@@ -8,11 +8,7 @@ class ScriptParser():
 	"""Parser for movie scripts. """
 
 	minimum_replies = 1 # number of replies under which a character will not be kept in the results
-<<<<<<< Updated upstream
-	minimum_characters = 5
-=======
 	minimum_characters = 5 # number of characters required to consider a script parsed
->>>>>>> Stashed changes
 
 	character_blacklist = [
 		' - ', ' -- ', '...', 
@@ -43,14 +39,8 @@ class ScriptParser():
 		# Try to retrieve the character list
 		characters = self._get_characters(text)
 
-<<<<<<< Updated upstream
 		# if there are less than the minimum number of characters, special case
 		if len(characters) < self.minimum_characters:
-=======
-		# if there are less than 5 characters, special case
-		if len(characters) < self.minimum_characters:
-			
->>>>>>> Stashed changes
 			# identify special case stereotype
 			characters = self._special_characters(text)
 
@@ -59,7 +49,6 @@ class ScriptParser():
 		author = self.get_author(text)
 		genre = self.get_genre(text)
 
-<<<<<<< Updated upstream
 		# if it still doesn't work, warn user
 		if len(characters) < self.minimum_characters:
 			fix_string = "Please check the original file's formatting, or add a special case in ScriptParser's _special_characters() method."
@@ -71,15 +60,6 @@ class ScriptParser():
 			movie = Movie(title, author, genre, characters)
 			return movie
 		
-=======
-		# if none works, warn user
-		if len(characters) < self.minimum_characters:
-			print("The script for %s was not parsed, because..." % title)		
-
-		# return instance of Movie
-		movie = Movie(title, author, genre, characters)
-		return movie
->>>>>>> Stashed changes
 
 	def _get_characters(self, text):
 		"""
@@ -162,22 +142,14 @@ class ScriptParser():
 		# groups 1, 3: whitespace that needs to be retained, group 2: offending character name that needs to be modified
 		no_colon = re.compile(r"(?m)^(\s*)([A-Za-z0-9]+)(\s*\n+)")
 
-<<<<<<< Updated upstream
-		fail = 10
-
-=======
 		fail = 10 # minimum matches a script needs to have in order to be sorted in a specific group
        
 	   	# Matches first case: transforms any whitespace substrings larger than 3 into newline breaks readable by the parser
->>>>>>> Stashed changes
 		matches = re.findall(all_same_line, text)
 		if len(matches) == 1:
 			return self._get_characters(re.sub(r"(\s{3,})", lambda clean: "\n" + clean.group(1)[:-1], text))
 
-<<<<<<< Updated upstream
-=======
 		# Matches second case: capitalizes capture group 2, removes the colon, forces a newline after the character name and retains all whitespace
->>>>>>> Stashed changes
 		matches = re.findall(colon, text)
 		if len(matches) > fail:
 			return self._get_characters(re.sub(colon, lambda clean: clean.group(1) + clean.group(2).upper() + clean.group(3) + "\n" + clean.group(4), text))
