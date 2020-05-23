@@ -11,6 +11,6 @@ class Movie:
 	present in this movie script
 	"""
 	Title: str
-	Author: str
-	Genre: str
+	Author: list = field(default_factory=list)
+	Genre: list = field(default_factory=list)
 	Characters: list = field(default_factory=list)

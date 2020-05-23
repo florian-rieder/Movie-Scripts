@@ -144,17 +144,19 @@ class ScriptParser():
 	def get_title(self, text):
 		"""Finds the title of the movie"""
 		title = re.findall(r"(?<=\t).+(?=\s+Writers :)", text)
-		return title.replace("\u00a0", " ")
+		[el.replace("\u00a0", " ") for el in title]
+		return title
 
 	def get_author(self, text):
 		"""Finds a list of the movie's authors"""
 		auteurs = re.findall(r"(?<=Writers : ).+(?=\n)", text)
-		return auteurs.replace("\u00a0", " ")
-
+		[el.replace("\u00a0", " ") for el in auteurs]
+		return auteurs
 	def get_genre(self, text):
 		"""Finds the list of the movie's genres"""
 		genre = re.findall(r"(?<=Genres : ).+(?=\n)", text)
-		return genre.replace("\u00a0", " ")
+		[el.replace("\u00a0", " ") for el in genre]
+		return genre
 
 	def _clean_padding(self, segment):
 		"""Removes all extra padding and line breaks from a string. Returns a correctly formatted string"""
