@@ -59,7 +59,7 @@ A `get_start()` and a `get_end()` method allows access to the corresponding attr
 | `End`        | `int` | end position in number of characters from the start of the script |
 
 # Parameters
-You can overwrite or change certain attributes of a `ScriptParser`, in function to your needs.
+You can overwrite or change certain attributes of a `ScriptParser`, depending on your needs.
 | Attribute           | type  | Description  |
 | ------------------- |-------| ------------ |
 | `minimum_replies`     | `int` | The minimal amount of replies under which a character is rejected. The default value is 1. This discards all characters with no replies. With the value adjusted to 2, most false-positives will be eliminated, but also some minor characters with it. |
@@ -77,6 +77,40 @@ parser.character_blacklist += ["NEW", "WORDS"]
 # overwrite the blacklist
 parser.character_blacklist = ["ENTIRELY", "NEW", "WORDS"]
 ```
+# Error
+If a script isn't parsed, you'll get an error message. 
+There are a couple things you can do to fix it.
+
+1. Reformat the script so that the `ScriptParser` can parse it correctly. 
+Character's names shoud be in capital letters and finish with a line break. Replies should start on the line right after the character's name and fnish with a punctiation symbol and a line break. 
+
+Example:
+
+                            SCULLY
+               I know you're bored in this
+               assignment, but unconventional
+               thinking is only going to get you into
+               trouble now.
+
+                            MULDER
+               How's that?
+
+                            SCULLY
+               You've got to quit looking for what
+               isn't there. They've closed the
+               X-Files. There's procedure to be
+               followed here. Protocol.
+
+                            MULDER
+               What do you say we call in a bomb
+               threat for Houston. I think it's free
+               beer night at the Astrodome.
+
+2. You can also add a regex to the method special_characters() in the `ScriptParser`. This is an interesting option if you have many scripts with the same syntax. 
+    - Add your new regex in `_special_characters()` in `ScriptParser.py`: it will identify scripts that have a particular syntax.
+    - Return a modified script that can be parsed by `ScriptParser`
+
+
 
 # Contributors
 - Melinda Femminis
